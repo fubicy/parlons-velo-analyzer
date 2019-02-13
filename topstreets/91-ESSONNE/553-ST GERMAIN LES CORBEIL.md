@@ -1,0 +1,6 @@
+# Résultat pour 553-ST GERMAIN LES CORBEIL
+
+Sur 1 réponses dont 0 avec une rue cité (taux réussite 0%)
+
+| Rue | Vote | % réponses | % Nb rues cités|
+|-----|------|------------|----------------|
