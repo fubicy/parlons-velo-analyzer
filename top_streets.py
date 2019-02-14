@@ -366,6 +366,7 @@ def analyze_responses(filename):
     global topstreets
     global nb_responses_with_street
     global INSEE_TO_FANTOIR
+    global stats
 
     codedep = filename[0:2]
     codecom = filename[2:5]
@@ -391,6 +392,22 @@ def analyze_responses(filename):
             responses = load_response(f"datas/{filename}")
             detect_all_streets(dmots,responses)
             top = topstreets.most_common(10)
+
+            if codedep not in stats:
+                fantoirpath = fantoirfile.replace("fantoir/","")    
+                lastslash = fantoirpath.rfind("/")
+                title = fantoirpath[0:lastslash]
+
+                stats[codedep] = {
+                    'title': title,
+                    'nb_responses': 0,
+                    'nb_responses_with_street': 0,
+                    'nb_points_noirs': 0
+                } 
+
+            stats[codedep]['nb_responses'] += len(responses)
+            stats[codedep]['nb_responses_with_street'] += nb_responses_with_street
+            stats[codedep]['nb_points_noirs'] += len(top)
             
             write_topstreets(fantoirfile,codedep,codecom,responses,top)
 
@@ -408,6 +425,8 @@ def analyze_responses(filename):
             print(f"#### ERROR for Analyse {codetown} {fantoirfile}".replace("fantoir/",""))
 
 def analyze_all_responses():
+    global stats
+
     # Delete previous results
     shutil.rmtree('topstreets',ignore_errors=True)
     os.mkdir('topstreets')
@@ -416,8 +435,30 @@ def analyze_all_responses():
     for filename in files:
             analyze_responses(filename)
 
+    # Write stats
+    shutil.copyfile("README_template.md", "README.md")
+    with open("README.md", 'a') as docfile:
+        docfile.write("### Résultats par département\n\n")
+        docfile.write("| Departement | Nb réponses | Nb réponses avec rue | Nb points noirs |\n")
+        docfile.write("|-------------|-------------|----------------------|-----------------|\n")
+
+        tot_nb_responses = 0
+        tot_nb_responses_with_street = 0
+        tot_nb_points_noirs = 0
+        for k,v in sorted(stats.items()):
+            docfile.write("|%s|%s|%s|%s|\n" % (v['title'],v['nb_responses'],v['nb_responses_with_street'],v['nb_points_noirs']))
+            tot_nb_responses += v['nb_responses']
+            tot_nb_responses_with_street += v['nb_responses_with_street']
+            tot_nb_points_noirs += v['nb_points_noirs']
+
+
+        docfile.write("### Résultats pour la France\n\n")
+        docfile.write("| Nb réponses | Nb réponses avec rue | Nb points noirs |\n")
+        docfile.write("|-------------|----------------------|-----------------|\n")
+        docfile.write(f"|{tot_nb_responses}|{tot_nb_responses_with_street}|{tot_nb_points_noirs}|\n")
 
 DEBUG=False
 dmots = dict()
+stats = dict()
 
 analyze_all_responses()
