@@ -379,9 +379,9 @@ def analyze_responses(filename):
         codecom_list = [codecom]
 
     
-    for codecom in codecom_list:
+    for codecom_replaced in codecom_list:
 
-        fantoirfile = get_fantoir_filename_by_code(codedep,codecom)
+        fantoirfile = get_fantoir_filename_by_code(codedep,codecom_replaced)
 
         print(f"Analyse response for {codetown} {fantoirfile}".replace("fantoir/","").replace(".csv",""))
         try:
@@ -399,13 +399,18 @@ def analyze_responses(filename):
                 title = fantoirpath[0:lastslash]
 
                 stats[codedep] = {
+                    'codecoms': [],
                     'title': title,
                     'nb_responses': 0,
                     'nb_responses_with_street': 0,
                     'nb_points_noirs': 0
                 } 
 
-            stats[codedep]['nb_responses'] += len(responses)
+            # Do not re-count the districts again
+            if codecom not in stats[codedep]['codecoms']:
+                stats[codedep]['codecoms'].append(codecom)
+                stats[codedep]['nb_responses'] += len(responses)
+
             stats[codedep]['nb_responses_with_street'] += nb_responses_with_street
             stats[codedep]['nb_points_noirs'] += len(top)
             
@@ -446,16 +451,23 @@ def analyze_all_responses():
         tot_nb_responses_with_street = 0
         tot_nb_points_noirs = 0
         for k,v in sorted(stats.items()):
-            docfile.write("|%s|%s|%s|%s|\n" % (v['title'],v['nb_responses'],v['nb_responses_with_street'],v['nb_points_noirs']))
+            taux = 0
+            
+            if v['nb_responses'] > 0 :
+                taux = int(v['nb_responses_with_street']/v['nb_responses']*100.0)
+
+
+            docfile.write("|<a href='topstreets/{}'>{}</a>|{}|{}({}%)|{}|\n".format(v['title'],v['title'],v['nb_responses'],v['nb_responses_with_street'],taux, v['nb_points_noirs']))
             tot_nb_responses += v['nb_responses']
             tot_nb_responses_with_street += v['nb_responses_with_street']
             tot_nb_points_noirs += v['nb_points_noirs']
 
 
+        taux = int(tot_nb_responses_with_street / tot_nb_responses * 100.0)
         docfile.write("### Résultats pour la France\n\n")
         docfile.write("| Nb réponses | Nb réponses avec rue | Nb points noirs |\n")
         docfile.write("|-------------|----------------------|-----------------|\n")
-        docfile.write(f"|{tot_nb_responses}|{tot_nb_responses_with_street}|{tot_nb_points_noirs}|\n")
+        docfile.write(f"|{tot_nb_responses}|{tot_nb_responses_with_street}({taux}%)|{tot_nb_points_noirs}|\n")
 
 DEBUG=False
 dmots = dict()
