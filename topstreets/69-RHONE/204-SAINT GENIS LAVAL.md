@@ -1,6 +1,8 @@
 # Résultat pour 204-SAINT GENIS LAVAL
 
-Sur 76 réponses dont 60 avec une rue cité (taux réussite 78%)
+Sur l'ensemble de la ville il y a eu 76 réponses dont 60 réponses avec une rue citée (78%)
+
+16 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,10 @@ Sur 76 réponses dont 60 avec une rue cité (taux réussite 78%)
 | LORETTE | 2 | 2% | 3%|
 | AVENUE CHARLES DE GAULLE | 2 | 2% | 3%|
 | ROUTE DE VOURLES | 2 | 2% | 3%|
+| SACUNY | 1 | 1% | 1%|
+| RUE MARC RIBOUD | 1 | 1% | 1%|
+| RUE FRANCISQUE DARCIEUX | 1 | 1% | 1%|
+| ROUTE DU MILLENAIRE | 1 | 1% | 1%|
+| CHEMIN DU BUT | 1 | 1% | 1%|
+| IMPASSE MARIUS CHARDON | 1 | 1% | 1%|
+| **Total** | 60 | 78% | 100%|

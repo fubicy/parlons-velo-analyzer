@@ -1,6 +1,8 @@
 # Résultat pour 001-AGEN
 
-Sur 120 réponses dont 23 avec une rue cité (taux réussite 19%)
+Sur l'ensemble de la ville il y a eu 120 réponses dont 23 réponses avec une rue citée (19%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 120 réponses dont 23 avec une rue cité (taux réussite 19%)
 | AVENUE DE STALINGRAD | 1 | 0% | 4%|
 | GAILLARD | 1 | 0% | 4%|
 | BOULEVARD DE LA LIBERTE | 1 | 0% | 4%|
+| ROUQUET | 1 | 0% | 4%|
+| AVENUE JEAN JAURES | 1 | 0% | 4%|
+| PLACE ARMAND FALLIERES | 1 | 0% | 4%|
+| LA VILLE | 1 | 0% | 4%|
+| **Total** | 23 | 19% | 100%|

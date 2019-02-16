@@ -1,6 +1,8 @@
 # Résultat pour 208-MONTARGIS
 
-Sur 50 réponses dont 8 avec une rue cité (taux réussite 16%)
+Sur l'ensemble de la ville il y a eu 50 réponses dont 8 réponses avec une rue citée (16%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 50 réponses dont 8 avec une rue cité (taux réussite 16%)
 | RUE COLIGNY | 1 | 2% | 12%|
 | BOULEVARD BELLES MANIERES | 1 | 2% | 12%|
 | RUE DE VIMORY | 1 | 2% | 12%|
+| **Total** | 8 | 16% | 100%|

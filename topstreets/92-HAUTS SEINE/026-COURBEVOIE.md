@@ -1,6 +1,8 @@
 # Résultat pour 026-COURBEVOIE
 
-Sur 84 réponses dont 53 avec une rue cité (taux réussite 63%)
+Sur l'ensemble de la ville il y a eu 84 réponses dont 53 réponses avec une rue citée (63%)
+
+24 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,18 @@ Sur 84 réponses dont 53 avec une rue cité (taux réussite 63%)
 | LA SEINE | 2 | 2% | 3%|
 | DALLE DE LA DEFENSE | 2 | 2% | 3%|
 | AVENUE GAMBETTA | 2 | 2% | 3%|
+| RUE GAULTIER | 1 | 1% | 1%|
+| PLACE CHARRAS | 1 | 1% | 1%|
+| RUE DE DIEPPE | 1 | 1% | 1%|
+| RUE EMILE DESCHANEL | 1 | 1% | 1%|
+| VILLA DES COURONNES | 1 | 1% | 1%|
+| RUE DE LA SABLIERE | 1 | 1% | 1%|
+| PLACE DE BELGIQUE | 1 | 1% | 1%|
+| RUE BARBES | 1 | 1% | 1%|
+| QUAI MARECHAL JOFFRE | 1 | 1% | 1%|
+| RUE DE COLOMBES | 1 | 1% | 1%|
+| BOULEVARD GEORGES CLEMENCEAU | 1 | 1% | 1%|
+| RUE DE SEBASTOPOL | 1 | 1% | 1%|
+| GARE DE COURBEVOIE | 1 | 1% | 1%|
+| AVENUE DE LA REPUBLIQUE | 1 | 1% | 1%|
+| **Total** | 53 | 63% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 301-SEVREMOINE
 
-Sur 23 réponses dont 5 avec une rue cité (taux réussite 21%)
+Sur l'ensemble de la ville il y a eu 23 réponses dont 5 réponses avec une rue citée (21%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 23 réponses dont 5 avec une rue cité (taux réussite 21%)
 | RUE MONTMARTRE | 1 | 4% | 20%|
 | PLACE DE L EGLISE | 1 | 4% | 20%|
 | PLACE STE MARGUERITE | 1 | 4% | 20%|
+| **Total** | 5 | 21% | 100%|

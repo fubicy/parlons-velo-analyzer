@@ -1,6 +1,8 @@
 # Résultat pour 382-ST EGREVE
 
-Sur 72 réponses dont 47 avec une rue cité (taux réussite 65%)
+Sur l'ensemble de la ville il y a eu 72 réponses dont 47 réponses avec une rue citée (65%)
+
+20 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,14 @@ Sur 72 réponses dont 47 avec une rue cité (taux réussite 65%)
 | RUE DE L ISERE | 2 | 2% | 4%|
 | SAINT ROBERT | 2 | 2% | 4%|
 | BELLEVUE | 2 | 2% | 4%|
+| RUE DES BRIEUX | 2 | 2% | 4%|
+| ROUTE DE LYON | 2 | 2% | 4%|
+| LE FOYER | 1 | 1% | 2%|
+| RUE DE ROCHEPLEINE | 1 | 1% | 2%|
+| VISANCOURT | 1 | 1% | 2%|
+| RESIDENCE LE PARC | 1 | 1% | 2%|
+| LA MAIRIE | 1 | 1% | 2%|
+| RUE CASIMIR BRENIER | 1 | 1% | 2%|
+| RUE ADOLPHE MUGUET | 1 | 1% | 2%|
+| PLACE POMPEE | 1 | 1% | 2%|
+| **Total** | 47 | 65% | 100%|

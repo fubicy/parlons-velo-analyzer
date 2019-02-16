@@ -1,6 +1,8 @@
 # Résultat pour 051-NOISY LE GRAND
 
-Sur 32 réponses dont 12 avec une rue cité (taux réussite 37%)
+Sur l'ensemble de la ville il y a eu 32 réponses dont 12 réponses avec une rue citée (37%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 32 réponses dont 12 avec une rue cité (taux réussite 37%)
 | LE PAVE NEUF | 1 | 3% | 8%|
 | GARE DES YVRIS | 1 | 3% | 8%|
 | AVENUE EMILE COSSONNEAU | 1 | 3% | 8%|
+| **Total** | 12 | 37% | 100%|

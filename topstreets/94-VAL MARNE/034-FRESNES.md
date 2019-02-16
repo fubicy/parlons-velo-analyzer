@@ -1,6 +1,8 @@
 # Résultat pour 034-FRESNES
 
-Sur 55 réponses dont 31 avec une rue cité (taux réussite 56%)
+Sur l'ensemble de la ville il y a eu 55 réponses dont 31 réponses avec une rue citée (56%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 55 réponses dont 31 avec une rue cité (taux réussite 56%)
 | RUE ALBERT ROPER | 1 | 1% | 3%|
 | RUE MAURICE TENINE | 1 | 1% | 3%|
 | RUE EMILE ZOLA | 1 | 1% | 3%|
+| AVENUE DE LA PAIX | 1 | 1% | 3%|
+| RUE ROGER SALENGRO | 1 | 1% | 3%|
+| **Total** | 31 | 56% | 100%|

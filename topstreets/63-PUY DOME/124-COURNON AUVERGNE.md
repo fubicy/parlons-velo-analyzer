@@ -1,6 +1,8 @@
 # Résultat pour 124-COURNON AUVERGNE
 
-Sur 14 réponses dont 7 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 14 réponses dont 7 réponses avec une rue citée (50%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 14 réponses dont 7 avec une rue cité (taux réussite 50%)
 | AVENUE DE CLERMONT | 1 | 7% | 14%|
 | PLACE JOSEPH GARDET | 1 | 7% | 14%|
 | AVENUE DE LA REPUBLIQUE | 1 | 7% | 14%|
+| **Total** | 7 | 50% | 100%|

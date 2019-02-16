@@ -1,6 +1,8 @@
 # Résultat pour 114-BRUNOY
 
-Sur 44 réponses dont 24 avec une rue cité (taux réussite 54%)
+Sur l'ensemble de la ville il y a eu 44 réponses dont 24 réponses avec une rue citée (54%)
+
+13 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,7 @@ Sur 44 réponses dont 24 avec une rue cité (taux réussite 54%)
 | RUE DU REVEILLON | 1 | 2% | 4%|
 | RUE TALMA | 1 | 2% | 4%|
 | LA FORET | 1 | 2% | 4%|
+| PLACE DE LA PYRAMIDE | 1 | 2% | 4%|
+| PLACE SAINT PIERRE | 1 | 2% | 4%|
+| RUE DUPONT CHAUMONT | 1 | 2% | 4%|
+| **Total** | 24 | 54% | 100%|

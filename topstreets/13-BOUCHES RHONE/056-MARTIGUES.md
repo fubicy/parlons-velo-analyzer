@@ -1,6 +1,8 @@
 # Résultat pour 056-MARTIGUES
 
-Sur 85 réponses dont 24 avec une rue cité (taux réussite 28%)
+Sur l'ensemble de la ville il y a eu 85 réponses dont 24 réponses avec une rue citée (28%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 85 réponses dont 24 avec une rue cité (taux réussite 28%)
 | ROUTE BLANCHE | 1 | 1% | 4%|
 | RUE DE L'ETANG | 1 | 1% | 4%|
 | LA RODE | 1 | 1% | 4%|
+| **Total** | 24 | 28% | 100%|

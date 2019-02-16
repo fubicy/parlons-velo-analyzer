@@ -1,6 +1,8 @@
 # Résultat pour 165-PLOERMEL
 
-Sur 3 réponses dont 10 avec une rue cité (taux réussite 333%)
+Sur l'ensemble de la ville il y a eu 3 réponses dont 10 réponses avec une rue citée (333%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 3 réponses dont 10 avec une rue cité (taux réussite 333%)
 | RUE DU LAC | 1 | 33% | 10%|
 | RUE DE RONSOUZE | 1 | 33% | 10%|
 | RUE SAINT MICHEL | 1 | 33% | 10%|
+| **Total** | 10 | 333% | 100%|

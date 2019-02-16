@@ -1,6 +1,8 @@
 # Résultat pour 071-SCEAUX
 
-Sur 61 réponses dont 35 avec une rue cité (taux réussite 57%)
+Sur l'ensemble de la ville il y a eu 61 réponses dont 35 réponses avec une rue citée (57%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 61 réponses dont 35 avec une rue cité (taux réussite 57%)
 | PLACE DE L EGLISE | 1 | 1% | 2%|
 | ALLEE D HONNEUR | 1 | 1% | 2%|
 | AVENUE DE VERDUN | 1 | 1% | 2%|
+| RUE DE FONTENAY | 1 | 1% | 2%|
+| RUE CONSTANT PILATE | 1 | 1% | 2%|
+| LES BLAGIS | 1 | 1% | 2%|
+| RUE PAUL COUDERC | 1 | 1% | 2%|
+| **Total** | 35 | 57% | 100%|

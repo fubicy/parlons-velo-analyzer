@@ -1,6 +1,8 @@
 # Résultat pour 102-BAYONNE
 
-Sur 123 réponses dont 37 avec une rue cité (taux réussite 30%)
+Sur l'ensemble de la ville il y a eu 123 réponses dont 37 réponses avec une rue citée (30%)
+
+17 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,11 @@ Sur 123 réponses dont 37 avec une rue cité (taux réussite 30%)
 | CHEMIN DE LA MAROUETTE | 1 | 0% | 2%|
 | ALLEE PAULMY | 1 | 0% | 2%|
 | AVENUE ANDRE GRIMARD | 1 | 0% | 2%|
+| ROND POINT D AMADE | 1 | 0% | 2%|
+| COTE DU MOULIN | 1 | 0% | 2%|
+| PONT DU LABOURD | 1 | 0% | 2%|
+| ROND POINT DU GRAND BASQUE | 1 | 0% | 2%|
+| QUAI DE LESSEPS | 1 | 0% | 2%|
+| BOULEVARD ALSACE LORRAINE | 1 | 0% | 2%|
+| ROUTE DE CAMBO | 1 | 0% | 2%|
+| **Total** | 37 | 30% | 100%|

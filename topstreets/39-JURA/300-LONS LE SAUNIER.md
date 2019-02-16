@@ -1,6 +1,8 @@
 # Résultat pour 300-LONS LE SAUNIER
 
-Sur 115 réponses dont 68 avec une rue cité (taux réussite 59%)
+Sur l'ensemble de la ville il y a eu 115 réponses dont 68 réponses avec une rue citée (59%)
+
+26 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,20 @@ Sur 115 réponses dont 68 avec une rue cité (taux réussite 59%)
 | RUE LECOURBE | 3 | 2% | 4%|
 | AVENUE JEAN MOULIN | 3 | 2% | 4%|
 | AVENUE PAUL SEGUIN | 2 | 1% | 2%|
+| ROUTE DE BESANCON | 2 | 1% | 2%|
+| ROUTE DE MACORNAY | 2 | 1% | 2%|
+| RUE ROUGET DE LISLE | 2 | 1% | 2%|
+| RUE JEAN JAURES | 2 | 1% | 2%|
+| CARREFOUR DE LA LIBERATION | 1 | 0% | 1%|
+| RUE TURGOT | 1 | 0% | 1%|
+| RUE DES TOUPES | 1 | 0% | 1%|
+| RUE ROBERT SCHUMAN | 1 | 0% | 1%|
+| ZONE INDUSTRIELLE | 1 | 0% | 1%|
+| MONTCIEL | 1 | 0% | 1%|
+| BOULEVARD DE L EUROPE | 1 | 0% | 1%|
+| PLACE DE LA LIBERTE | 1 | 0% | 1%|
+| AVENUE DE LA MARSEILLAISE | 1 | 0% | 1%|
+| RUE DU COMMERCE | 1 | 0% | 1%|
+| RUE EMILE MONOT | 1 | 0% | 1%|
+| RUE DESIRE MONNIER | 1 | 0% | 1%|
+| **Total** | 68 | 59% | 100%|

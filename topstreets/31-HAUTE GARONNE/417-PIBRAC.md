@@ -1,6 +1,8 @@
 # Résultat pour 417-PIBRAC
 
-Sur 82 réponses dont 73 avec une rue cité (taux réussite 89%)
+Sur l'ensemble de la ville il y a eu 82 réponses dont 73 réponses avec une rue citée (89%)
+
+20 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,14 @@ Sur 82 réponses dont 73 avec une rue cité (taux réussite 89%)
 | CHATEAU | 2 | 2% | 2%|
 | CHATEAU CRU | 2 | 2% | 2%|
 | BALARDOU | 2 | 2% | 2%|
+| CHEMIN DE L ANCIENNE TUILERIE | 2 | 2% | 2%|
+| BEAUREGARD | 1 | 1% | 1%|
+| SALVET | 1 | 1% | 1%|
+| BOULEVARD DES ECOLES | 1 | 1% | 1%|
+| ROUTE DE MONDONVILLE | 1 | 1% | 1%|
+| RUE DES MIMOSAS | 1 | 1% | 1%|
+| BORDENEUVE | 1 | 1% | 1%|
+| ROUTE DE CORNEBARRIEU | 1 | 1% | 1%|
+| BOIS DE LA BARTHE | 1 | 1% | 1%|
+| VIE | 1 | 1% | 1%|
+| **Total** | 73 | 89% | 100%|

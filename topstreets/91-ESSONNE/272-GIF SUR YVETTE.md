@@ -1,6 +1,8 @@
 # Résultat pour 272-GIF SUR YVETTE
 
-Sur 33 réponses dont 15 avec une rue cité (taux réussite 45%)
+Sur l'ensemble de la ville il y a eu 33 réponses dont 15 réponses avec une rue citée (45%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 33 réponses dont 15 avec une rue cité (taux réussite 45%)
 | RUE NEUVE | 1 | 3% | 6%|
 | AVENUE GENERAL LECLERC | 1 | 3% | 6%|
 | L YVETTE | 1 | 3% | 6%|
+| **Total** | 15 | 45% | 100%|

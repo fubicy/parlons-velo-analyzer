@@ -1,6 +1,8 @@
 # Résultat pour 240-SARZEAU
 
-Sur 3 réponses dont 5 avec une rue cité (taux réussite 166%)
+Sur l'ensemble de la ville il y a eu 3 réponses dont 5 réponses avec une rue citée (166%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 3 réponses dont 5 avec une rue cité (taux réussite 166%)
 | BRILLAC | 1 | 33% | 20%|
 | RHUYS | 1 | 33% | 20%|
 | SARZEAU | 1 | 33% | 20%|
+| **Total** | 5 | 166% | 100%|

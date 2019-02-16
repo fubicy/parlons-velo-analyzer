@@ -1,6 +1,8 @@
 # Résultat pour 300-RIOM
 
-Sur 93 réponses dont 33 avec une rue cité (taux réussite 35%)
+Sur l'ensemble de la ville il y a eu 93 réponses dont 33 réponses avec une rue citée (35%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 93 réponses dont 33 avec une rue cité (taux réussite 35%)
 | LA VARENNE | 1 | 1% | 3%|
 | AVENUE DE CHATEL GUYON | 1 | 1% | 3%|
 | PLACE MARINETTE MENUT | 1 | 1% | 3%|
+| RUE DES CHARMETTES | 1 | 1% | 3%|
+| PLANCHEPALEUIL | 1 | 1% | 3%|
+| ROUTE DE CHATEL | 1 | 1% | 3%|
+| ROUTE DE MARSAT | 1 | 1% | 3%|
+| **Total** | 33 | 35% | 100%|

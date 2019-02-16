@@ -1,6 +1,8 @@
 # Résultat pour 681-SOTTEVILLE LES ROUEN
 
-Sur 71 réponses dont 46 avec une rue cité (taux réussite 64%)
+Sur l'ensemble de la ville il y a eu 71 réponses dont 46 réponses avec une rue citée (64%)
+
+16 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,10 @@ Sur 71 réponses dont 46 avec une rue cité (taux réussite 64%)
 | BOULEVARD INDUSTRIEL | 2 | 2% | 4%|
 | PLACE VOLTAIRE | 2 | 2% | 4%|
 | ROND POINT DES BRUYERES | 2 | 2% | 4%|
+| ZONE INDUSTRIELLE | 1 | 1% | 2%|
+| RUE EMILE ZOLA | 1 | 1% | 2%|
+| AVENUE JEAN JAURES | 1 | 1% | 2%|
+| PLACE DE VERDUN | 1 | 1% | 2%|
+| RUE GARIBALDI | 1 | 1% | 2%|
+| RUE MARCEL LECHEVALLIER | 1 | 1% | 2%|
+| **Total** | 46 | 64% | 100%|

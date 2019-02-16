@@ -1,6 +1,8 @@
 # Résultat pour 485-SEYSSINET PARISET
 
-Sur 32 réponses dont 16 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 32 réponses dont 16 réponses avec une rue citée (50%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 32 réponses dont 16 avec une rue cité (taux réussite 50%)
 | RUE DU PROGRES | 1 | 3% | 6%|
 | ALLEE DES BALMES | 1 | 3% | 6%|
 | PARISET | 1 | 3% | 6%|
+| **Total** | 16 | 50% | 100%|

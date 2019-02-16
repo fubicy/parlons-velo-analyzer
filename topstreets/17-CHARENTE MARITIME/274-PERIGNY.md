@@ -1,6 +1,8 @@
 # Résultat pour 274-PERIGNY
 
-Sur 26 réponses dont 11 avec une rue cité (taux réussite 42%)
+Sur l'ensemble de la ville il y a eu 26 réponses dont 11 réponses avec une rue citée (42%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 26 réponses dont 11 avec une rue cité (taux réussite 42%)
 | RUE DU PERE | 2 | 7% | 18%|
 | ROUTE D AYTRE | 1 | 3% | 9%|
 | AVENUE PAUL LANGEVIN | 1 | 3% | 9%|
+| **Total** | 11 | 42% | 100%|

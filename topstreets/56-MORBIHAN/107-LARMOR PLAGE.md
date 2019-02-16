@@ -1,6 +1,8 @@
 # Résultat pour 107-LARMOR PLAGE
 
-Sur 11 réponses dont 4 avec une rue cité (taux réussite 36%)
+Sur l'ensemble de la ville il y a eu 11 réponses dont 4 réponses avec une rue citée (36%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 11 réponses dont 4 avec une rue cité (taux réussite 36%)
 | PLAGE DE TOULHARS | 1 | 9% | 25%|
 | RUE DE LA PLAGE | 1 | 9% | 25%|
 | RUE DU MINIO | 1 | 9% | 25%|
+| **Total** | 4 | 36% | 100%|

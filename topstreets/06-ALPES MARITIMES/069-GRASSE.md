@@ -1,6 +1,8 @@
 # Résultat pour 069-GRASSE
 
-Sur 39 réponses dont 11 avec une rue cité (taux réussite 28%)
+Sur l'ensemble de la ville il y a eu 39 réponses dont 11 réponses avec une rue citée (28%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 39 réponses dont 11 avec une rue cité (taux réussite 28%)
 | CHEMIN DE BLUMENTHAL | 1 | 2% | 9%|
 | ROUTE NAPOLEON | 1 | 2% | 9%|
 | LA PAOUTE | 1 | 2% | 9%|
+| **Total** | 11 | 28% | 100%|

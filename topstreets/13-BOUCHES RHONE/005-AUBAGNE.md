@@ -1,6 +1,8 @@
 # Résultat pour 005-AUBAGNE
 
-Sur 94 réponses dont 43 avec une rue cité (taux réussite 45%)
+Sur l'ensemble de la ville il y a eu 94 réponses dont 43 réponses avec une rue citée (45%)
+
+13 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,7 @@ Sur 94 réponses dont 43 avec une rue cité (taux réussite 45%)
 | LES PASSONS | 1 | 1% | 2%|
 | LA TOURTELLE | 1 | 1% | 2%|
 | CHEMIN DES PASSONS | 1 | 1% | 2%|
+| BOULEVARD DES ECOLES | 1 | 1% | 2%|
+| ST PIERRE LES AUBAGNE | 1 | 1% | 2%|
+| ROUTE DE GEMENOS | 1 | 1% | 2%|
+| **Total** | 43 | 45% | 100%|

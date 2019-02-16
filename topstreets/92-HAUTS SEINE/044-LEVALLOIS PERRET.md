@@ -1,6 +1,8 @@
 # Résultat pour 044-LEVALLOIS PERRET
 
-Sur 43 réponses dont 19 avec une rue cité (taux réussite 44%)
+Sur l'ensemble de la ville il y a eu 43 réponses dont 19 réponses avec une rue citée (44%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 43 réponses dont 19 avec une rue cité (taux réussite 44%)
 | LA SEINE | 1 | 2% | 5%|
 | PONT DE LEVALLOIS | 1 | 2% | 5%|
 | RUE LOUIS ROUQUIER | 1 | 2% | 5%|
+| **Total** | 19 | 44% | 100%|

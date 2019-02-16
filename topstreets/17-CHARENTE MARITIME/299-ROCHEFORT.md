@@ -1,6 +1,8 @@
 # Résultat pour 299-ROCHEFORT
 
-Sur 70 réponses dont 29 avec une rue cité (taux réussite 41%)
+Sur l'ensemble de la ville il y a eu 70 réponses dont 29 réponses avec une rue citée (41%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 70 réponses dont 29 avec une rue cité (taux réussite 41%)
 | RUE DU BREUIL | 2 | 2% | 6%|
 | RUE MERLEAU PONTY | 1 | 1% | 3%|
 | BOULEVARD ARISTIDE BRIAND | 1 | 1% | 3%|
+| **Total** | 29 | 41% | 100%|

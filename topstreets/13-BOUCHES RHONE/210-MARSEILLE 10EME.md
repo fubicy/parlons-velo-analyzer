@@ -1,6 +1,8 @@
 # Résultat pour 210-MARSEILLE 10EME
 
-Sur 1846 réponses dont 29 avec une rue cité (taux réussite 1%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 29 réponses avec une rue citée (1%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 1846 réponses dont 29 avec une rue cité (taux réussite 1%)
 | AVENUE JULES CANTINI | 1 | 0% | 3%|
 | RUE SAINT PIERRE | 1 | 0% | 3%|
 | BOULEVARD SAINT JEAN | 1 | 0% | 3%|
+| BOULEVARD PAUL CLAUDEL | 1 | 0% | 3%|
+| **Total** | 29 | 1% | 100%|

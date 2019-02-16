@@ -1,6 +1,8 @@
 # Résultat pour 215-PLOUFRAGAN
 
-Sur 2 réponses dont 4 avec une rue cité (taux réussite 200%)
+Sur l'ensemble de la ville il y a eu 2 réponses dont 4 réponses avec une rue citée (200%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 2 réponses dont 4 avec une rue cité (taux réussite 200%)
 | LE CARPONT | 1 | 50% | 25%|
 | LE PONT NOIR | 1 | 50% | 25%|
 | ROND POINT DU ZOOPOLE | 1 | 50% | 25%|
+| **Total** | 4 | 200% | 100%|

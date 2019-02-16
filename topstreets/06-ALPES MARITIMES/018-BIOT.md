@@ -1,6 +1,8 @@
 # Résultat pour 018-BIOT
 
-Sur 30 réponses dont 17 avec une rue cité (taux réussite 56%)
+Sur l'ensemble de la ville il y a eu 30 réponses dont 17 réponses avec une rue citée (56%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 30 réponses dont 17 avec une rue cité (taux réussite 56%)
 | SAINT PHILIPPE | 1 | 3% | 5%|
 | CHEMIN DES COMBES | 1 | 3% | 5%|
 | BOIS FLEURI | 1 | 3% | 5%|
+| **Total** | 17 | 56% | 100%|

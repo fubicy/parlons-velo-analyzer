@@ -1,6 +1,8 @@
 # Résultat pour 069-LE BOUSCAT
 
-Sur 13 réponses dont 10 avec une rue cité (taux réussite 76%)
+Sur l'ensemble de la ville il y a eu 13 réponses dont 10 réponses avec une rue citée (76%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 13 réponses dont 10 avec une rue cité (taux réussite 76%)
 | JEAN JAURES EST | 1 | 7% | 10%|
 | LE CENTRE | 1 | 7% | 10%|
 | AVENUE D EYSINES | 1 | 7% | 10%|
+| **Total** | 10 | 76% | 100%|

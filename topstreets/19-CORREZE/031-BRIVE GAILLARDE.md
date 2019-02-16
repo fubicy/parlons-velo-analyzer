@@ -1,6 +1,8 @@
 # Résultat pour 031-BRIVE GAILLARDE
 
-Sur 110 réponses dont 28 avec une rue cité (taux réussite 25%)
+Sur l'ensemble de la ville il y a eu 110 réponses dont 28 réponses avec une rue citée (25%)
+
+17 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,11 @@ Sur 110 réponses dont 28 avec une rue cité (taux réussite 25%)
 | AVENUE GEORGES POMPIDOU | 1 | 0% | 3%|
 | RUE ANDRE DELON | 1 | 0% | 3%|
 | ROUTE NATIONALE 89 | 1 | 0% | 3%|
+| AVENUE EDOUARD HERRIOT | 1 | 0% | 3%|
+| TUJAC | 1 | 0% | 3%|
+| BOULEVARD DU SALAN | 1 | 0% | 3%|
+| LA BOUVIE | 1 | 0% | 3%|
+| BOULEVARD EDOUARD LACHAUD | 1 | 0% | 3%|
+| IMPASSE DES CEDRES | 1 | 0% | 3%|
+| AVENUE ANDRE MALRAUX | 1 | 0% | 3%|
+| **Total** | 28 | 25% | 100%|

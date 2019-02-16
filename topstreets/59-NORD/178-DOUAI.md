@@ -1,6 +1,8 @@
 # Résultat pour 178-DOUAI
 
-Sur 76 réponses dont 28 avec une rue cité (taux réussite 36%)
+Sur l'ensemble de la ville il y a eu 76 réponses dont 28 réponses avec une rue citée (36%)
+
+16 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,10 @@ Sur 76 réponses dont 28 avec une rue cité (taux réussite 36%)
 | RUE DU PONT DU RIVAGE | 1 | 1% | 3%|
 | RUE DU CANTELEU | 1 | 1% | 3%|
 | PLACE D HAUBERSART | 1 | 1% | 3%|
+| PLACE DU BARLET | 1 | 1% | 3%|
+| LA SCARPE | 1 | 1% | 3%|
+| RUE DE FERIN | 1 | 1% | 3%|
+| RUE DE LAMBRES | 1 | 1% | 3%|
+| RUE D ANICHE | 1 | 1% | 3%|
+| BOULEVARD FAIDHERBE | 1 | 1% | 3%|
+| **Total** | 28 | 36% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 046-MAISONS ALFORT
 
-Sur 58 réponses dont 26 avec une rue cité (taux réussite 44%)
+Sur l'ensemble de la ville il y a eu 58 réponses dont 26 réponses avec une rue citée (44%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 58 réponses dont 26 avec une rue cité (taux réussite 44%)
 | AVENUE JOFFRE | 1 | 1% | 3%|
 | AVENUE DU GENERAL DE GAULLE | 1 | 1% | 3%|
 | AVENUE FOCH | 1 | 1% | 3%|
+| LES JUILLIOTTES | 1 | 1% | 3%|
+| **Total** | 26 | 44% | 100%|

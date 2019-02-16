@@ -1,6 +1,8 @@
 # Résultat pour 260-VANNES
 
-Sur 179 réponses dont 104 avec une rue cité (taux réussite 58%)
+Sur l'ensemble de la ville il y a eu 179 réponses dont 104 réponses avec une rue citée (58%)
+
+37 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,31 @@ Sur 179 réponses dont 104 avec une rue cité (taux réussite 58%)
 | LE PORT | 3 | 1% | 2%|
 | CARREFOUR GIRATOIRE POMPIDOU | 3 | 1% | 2%|
 | PLACE DE LA REPUBLIQUE | 3 | 1% | 2%|
+| PLACE GAMBETTA | 3 | 1% | 2%|
+| L AVENUE | 2 | 1% | 1%|
+| RUE DES GRANDES MURAILLES | 2 | 1% | 1%|
+| PLACE DE LA LIBERATION | 2 | 1% | 1%|
+| CARREFOUR GIRATOIRE PALAIS DES ARTS | 2 | 1% | 1%|
+| BOULEVARD DE LA RESISTANCE | 2 | 1% | 1%|
+| ROUTE DE SAINTE ANNE | 2 | 1% | 1%|
+| KERANGUEN | 1 | 0% | 0%|
+| RUE HOCHE | 1 | 0% | 0%|
+| AVENUE GEORGES POMPIDOU | 1 | 0% | 0%|
+| RUE DE ROHAN | 1 | 0% | 0%|
+| KERCADO | 1 | 0% | 0%|
+| RUE MADAME MOLE | 1 | 0% | 0%|
+| BOULEVARD DE PONTIVY | 1 | 0% | 0%|
+| KERINO | 1 | 0% | 0%|
+| BOULEVARD DES ILES | 1 | 0% | 0%|
+| AVENUE FAVREL ET LINCY | 1 | 0% | 0%|
+| RUE JEANNE D ARC | 1 | 0% | 0%|
+| RUE JEAN JAURES | 1 | 0% | 0%|
+| LA RABINE | 1 | 0% | 0%|
+| RUE JEAN MARTIN | 1 | 0% | 0%|
+| TREHORNEC | 1 | 0% | 0%|
+| PLACE BIR HAKEIM | 1 | 0% | 0%|
+| RUE DES REMPARTS | 1 | 0% | 0%|
+| LAROISEAU | 1 | 0% | 0%|
+| RUE DE LA FONTAINE | 1 | 0% | 0%|
+| AVENUE VICTOR HUGO | 1 | 0% | 0%|
+| **Total** | 104 | 58% | 100%|

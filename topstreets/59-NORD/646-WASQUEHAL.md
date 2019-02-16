@@ -1,6 +1,8 @@
 # Résultat pour 646-WASQUEHAL
 
-Sur 15 réponses dont 6 avec une rue cité (taux réussite 40%)
+Sur l'ensemble de la ville il y a eu 15 réponses dont 6 réponses avec une rue citée (40%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 15 réponses dont 6 avec une rue cité (taux réussite 40%)
 | RUE DU HAUT VINAGE | 1 | 6% | 16%|
 | AVENUE DE FLANDRE | 1 | 6% | 16%|
 | AVENUE DE LA MARNE | 1 | 6% | 16%|
+| **Total** | 6 | 40% | 100%|

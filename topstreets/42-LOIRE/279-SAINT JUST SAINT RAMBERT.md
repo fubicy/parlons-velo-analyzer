@@ -1,6 +1,8 @@
 # Résultat pour 279-SAINT JUST SAINT RAMBERT
 
-Sur 11 réponses dont 8 avec une rue cité (taux réussite 72%)
+Sur l'ensemble de la ville il y a eu 11 réponses dont 8 réponses avec une rue citée (72%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 11 réponses dont 8 avec une rue cité (taux réussite 72%)
 | LA VILLE | 1 | 9% | 12%|
 | AVENUE GREGOIRE CHAPOTON | 1 | 9% | 12%|
 | AVENUE MELLET MANDARD | 1 | 9% | 12%|
+| **Total** | 8 | 72% | 100%|

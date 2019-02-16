@@ -1,6 +1,8 @@
 # Résultat pour 447-SCHILTIGHEIM
 
-Sur 232 réponses dont 290 avec une rue cité (taux réussite 125%)
+Sur l'ensemble de la ville il y a eu 232 réponses dont 290 réponses avec une rue citée (125%)
+
+34 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,28 @@ Sur 232 réponses dont 290 avec une rue cité (taux réussite 125%)
 | RUE DES POMPIERS | 4 | 1% | 1%|
 | RUE DE LA PAIX | 4 | 1% | 1%|
 | RUE DE LAUTERBOURG | 4 | 1% | 1%|
+| L AAR | 3 | 1% | 1%|
+| RUE CONTADES | 3 | 1% | 1%|
+| RUE LOUIS PASTEUR | 3 | 1% | 1%|
+| RUE DE SELESTAT | 2 | 0% | 0%|
+| RUE D ERSTEIN | 2 | 0% | 0%|
+| RUE DE BITCHE | 2 | 0% | 0%|
+| RUE DE LA PATRIE | 2 | 0% | 0%|
+| RUE D ADELSHOFFEN | 2 | 0% | 0%|
+| RUE DES CHASSEURS | 1 | 0% | 0%|
+| CANAL DE LA MARNE AU RHIN | 1 | 0% | 0%|
+| RUE DU BARRAGE | 1 | 0% | 0%|
+| RUE DE LATTRE DE TASSIGNY | 1 | 0% | 0%|
+| PLACE DE LA LIBERTE | 1 | 0% | 0%|
+| RUE DU CHARME | 1 | 0% | 0%|
+| RUE DE LA GLACIERE | 1 | 0% | 0%|
+| RUE DES VOSGES | 1 | 0% | 0%|
+| RUE DE LA ZORN | 1 | 0% | 0%|
+| RUE DE LA GARE | 1 | 0% | 0%|
+| RUE SAINTE HELENE | 1 | 0% | 0%|
+| RUE DE LA CHARRUE | 1 | 0% | 0%|
+| RUE NEUVE | 1 | 0% | 0%|
+| AVENUE PIERRE MENDES FRANCE | 1 | 0% | 0%|
+| RUE DE MUNDOLSHEIM | 1 | 0% | 0%|
+| RUE LAMARTINE | 1 | 0% | 0%|
+| **Total** | 290 | 125% | 100%|

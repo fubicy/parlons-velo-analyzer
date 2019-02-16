@@ -1,6 +1,8 @@
 # Résultat pour 270-MACON
 
-Sur 77 réponses dont 51 avec une rue cité (taux réussite 66%)
+Sur l'ensemble de la ville il y a eu 77 réponses dont 51 réponses avec une rue citée (66%)
+
+31 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,25 @@ Sur 77 réponses dont 51 avec une rue cité (taux réussite 66%)
 | RUE LACRETELLE | 2 | 2% | 3%|
 | FLACE | 2 | 2% | 3%|
 | RUE PILLET | 1 | 1% | 1%|
+| RUE DE SANCE | 1 | 1% | 1%|
+| RUE DU VALLON | 1 | 1% | 1%|
+| LA GARE | 1 | 1% | 1%|
+| QUAI JEAN JAURES | 1 | 1% | 1%|
+| RUE DE L EUROPE | 1 | 1% | 1%|
+| RUE DES FLANDINES | 1 | 1% | 1%|
+| RUE DE LA GROSNE | 1 | 1% | 1%|
+| RUE EINSTEIN | 1 | 1% | 1%|
+| RUE DES FRERES LUMIERE | 1 | 1% | 1%|
+| BOULEVARD DE LA RESISTANCE | 1 | 1% | 1%|
+| LA CHANAYE | 1 | 1% | 1%|
+| LOCHE | 1 | 1% | 1%|
+| RUE RAMBUTEAU | 1 | 1% | 1%|
+| RUE GAMBETTA | 1 | 1% | 1%|
+| ROUTE DE LYON | 1 | 1% | 1%|
+| LA COMMUNE | 1 | 1% | 1%|
+| CARREFOUR DE L EUROPE | 1 | 1% | 1%|
+| QUAI LAMARTINE | 1 | 1% | 1%|
+| RUE DU 8 MAI 1945 | 1 | 1% | 1%|
+| RUE DE LA PREFECTURE | 1 | 1% | 1%|
+| RUE SIGORGNE | 1 | 1% | 1%|
+| **Total** | 51 | 66% | 100%|

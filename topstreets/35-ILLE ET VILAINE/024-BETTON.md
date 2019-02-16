@@ -1,6 +1,8 @@
 # Résultat pour 024-BETTON
 
-Sur 47 réponses dont 31 avec une rue cité (taux réussite 65%)
+Sur l'ensemble de la ville il y a eu 47 réponses dont 31 réponses avec une rue citée (65%)
+
+15 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,9 @@ Sur 47 réponses dont 31 avec une rue cité (taux réussite 65%)
 | LES OMBLAIS | 1 | 2% | 3%|
 | RUE DU TREGOR | 1 | 2% | 3%|
 | TIHOUIT | 1 | 2% | 3%|
+| RUE DE BROCELIANDE | 1 | 2% | 3%|
+| AVENUE DE MORETONHAMPSTEAD | 1 | 2% | 3%|
+| CANAL | 1 | 2% | 3%|
+| L AVENUE | 1 | 2% | 3%|
+| LE BOURG | 1 | 2% | 3%|
+| **Total** | 31 | 65% | 100%|

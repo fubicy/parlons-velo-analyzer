@@ -1,6 +1,8 @@
 # Résultat pour 765-SAINT OMER
 
-Sur 16 réponses dont 10 avec une rue cité (taux réussite 62%)
+Sur l'ensemble de la ville il y a eu 16 réponses dont 10 réponses avec une rue citée (62%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 16 réponses dont 10 avec une rue cité (taux réussite 62%)
 | RUE DE LONGUEVILLE | 1 | 6% | 10%|
 | BOULEVARD VAUBAN | 1 | 6% | 10%|
 | QUAI DU COMMERCE | 1 | 6% | 10%|
+| **Total** | 10 | 62% | 100%|

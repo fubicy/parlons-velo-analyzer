@@ -1,6 +1,8 @@
 # Résultat pour 069-CARCASSONNE
 
-Sur 55 réponses dont 8 avec une rue cité (taux réussite 14%)
+Sur l'ensemble de la ville il y a eu 55 réponses dont 8 réponses avec une rue citée (14%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 55 réponses dont 8 avec une rue cité (taux réussite 14%)
 | AVENUE DES BERGES DE L AUDE | 1 | 1% | 12%|
 | MONTREDON | 1 | 1% | 12%|
 | CHARLEMAGNE | 1 | 1% | 12%|
+| **Total** | 8 | 14% | 100%|

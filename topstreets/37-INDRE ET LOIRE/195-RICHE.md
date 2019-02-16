@@ -1,6 +1,8 @@
 # Résultat pour 195-RICHE
 
-Sur 57 réponses dont 59 avec une rue cité (taux réussite 103%)
+Sur l'ensemble de la ville il y a eu 57 réponses dont 59 réponses avec une rue citée (103%)
+
+17 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,11 @@ Sur 57 réponses dont 59 avec une rue cité (taux réussite 103%)
 | SAINT-COSME | 2 | 3% | 3%|
 | RUE DES MONTILS | 1 | 1% | 1%|
 | ZONE INDUSTRIELLE | 1 | 1% | 1%|
+| LEVEE DU CHER | 1 | 1% | 1%|
+| SAINT FRANCOIS | 1 | 1% | 1%|
+| LES HAUTES MARCHES | 1 | 1% | 1%|
+| PORT CORDON | 1 | 1% | 1%|
+| RUE DU PORT | 1 | 1% | 1%|
+| AVENUE DU PRIEURE | 1 | 1% | 1%|
+| RUE LEON BOURGEOIS | 1 | 1% | 1%|
+| **Total** | 59 | 103% | 100%|

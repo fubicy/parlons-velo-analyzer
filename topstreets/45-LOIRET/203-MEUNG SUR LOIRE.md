@@ -1,7 +1,10 @@
 # Résultat pour 203-MEUNG SUR LOIRE
 
-Sur 2 réponses dont 1 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 2 réponses dont 1 réponses avec une rue citée (50%)
+
+1 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | RUE DES CHENEVIERES | 1 | 50% | 100%|
+| **Total** | 1 | 50% | 100%|

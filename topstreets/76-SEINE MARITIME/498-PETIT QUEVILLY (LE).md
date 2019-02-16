@@ -1,6 +1,8 @@
 # Résultat pour 498-PETIT QUEVILLY (LE)
 
-Sur 15 réponses dont 11 avec une rue cité (taux réussite 73%)
+Sur l'ensemble de la ville il y a eu 15 réponses dont 11 réponses avec une rue citée (73%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 15 réponses dont 11 avec une rue cité (taux réussite 73%)
 | ROND POINT SAINT JULIEN | 1 | 6% | 9%|
 | ROND POINT DES BRUYERES | 1 | 6% | 9%|
 | AVENUE DES CANADIENS | 1 | 6% | 9%|
+| **Total** | 11 | 73% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 152-DAMMARIE LES LYS
 
-Sur 16 réponses dont 9 avec une rue cité (taux réussite 56%)
+Sur l'ensemble de la ville il y a eu 16 réponses dont 9 réponses avec une rue citée (56%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 16 réponses dont 9 avec une rue cité (taux réussite 56%)
 | VOSVES | 1 | 6% | 11%|
 | AVENUE HENRI BARBUSSE | 1 | 6% | 11%|
 | PLACE DU MARCHE | 1 | 6% | 11%|
+| **Total** | 9 | 56% | 100%|

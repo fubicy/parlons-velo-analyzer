@@ -1,6 +1,8 @@
 # Résultat pour 200-LAGORD
 
-Sur 14 réponses dont 9 avec une rue cité (taux réussite 64%)
+Sur l'ensemble de la ville il y a eu 14 réponses dont 9 réponses avec une rue citée (64%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 14 réponses dont 9 avec une rue cité (taux réussite 64%)
 | AVENUE DE LAGORD | 2 | 14% | 22%|
 | LE LIGNON | 1 | 7% | 11%|
 | AVENUE DES CORSAIRES | 1 | 7% | 11%|
+| **Total** | 9 | 64% | 100%|

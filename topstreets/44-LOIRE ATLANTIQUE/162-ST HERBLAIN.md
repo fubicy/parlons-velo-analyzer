@@ -1,6 +1,8 @@
 # Résultat pour 162-ST HERBLAIN
 
-Sur 76 réponses dont 40 avec une rue cité (taux réussite 52%)
+Sur l'ensemble de la ville il y a eu 76 réponses dont 40 réponses avec une rue citée (52%)
+
+25 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,19 @@ Sur 76 réponses dont 40 avec une rue cité (taux réussite 52%)
 | BOULEVARD CHARLES DE GAULLE | 1 | 1% | 2%|
 | BOULEVARD FRANCOIS MITTERRAND | 1 | 1% | 2%|
 | BOULEVARD CHARLES GAUTIER | 1 | 1% | 2%|
+| RUE EDITH PIAF | 1 | 1% | 2%|
+| AVENUE DU PARNASSE | 1 | 1% | 2%|
+| ROUTE DE VANNES | 1 | 1% | 2%|
+| AVENUE DES THEBAUDIERES | 1 | 1% | 2%|
+| AVENUE DES GRANDS BOIS | 1 | 1% | 2%|
+| BOULEVARD SALVADOR ALLENDE | 1 | 1% | 2%|
+| LA CHAUVINIERE | 1 | 1% | 2%|
+| AVENUE DES NAUDIERES | 1 | 1% | 2%|
+| BAGATELLE | 1 | 1% | 2%|
+| LA CHATTERIE | 1 | 1% | 2%|
+| L ORVASSERIE | 1 | 1% | 2%|
+| RUE DU ROCHER | 1 | 1% | 2%|
+| LE BOURG | 1 | 1% | 2%|
+| LA SOLVARDIERE | 1 | 1% | 2%|
+| TILLAY | 1 | 1% | 2%|
+| **Total** | 40 | 52% | 100%|

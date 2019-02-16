@@ -1,6 +1,8 @@
 # Résultat pour 278-RIXHEIM
 
-Sur 9 réponses dont 10 avec une rue cité (taux réussite 111%)
+Sur l'ensemble de la ville il y a eu 9 réponses dont 10 réponses avec une rue citée (111%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 9 réponses dont 10 avec une rue cité (taux réussite 111%)
 | RUE DE HABSHEIM | 1 | 11% | 10%|
 | RUE DE L ETANG | 1 | 11% | 10%|
 | RUE D OTTMARSHEIM | 1 | 11% | 10%|
+| **Total** | 10 | 111% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 043-CLISSON
 
-Sur 16 réponses dont 11 avec une rue cité (taux réussite 68%)
+Sur l'ensemble de la ville il y a eu 16 réponses dont 11 réponses avec une rue citée (68%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 16 réponses dont 11 avec une rue cité (taux réussite 68%)
 | RUE DOCTEUR BOUTIN | 1 | 6% | 9%|
 | RUELLE DE L'ECOLE | 1 | 6% | 9%|
 | ROUTE DE CUGAND | 1 | 6% | 9%|
+| **Total** | 11 | 68% | 100%|

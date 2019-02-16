@@ -1,6 +1,8 @@
 # Résultat pour 157-MEZE
 
-Sur 52 réponses dont 23 avec une rue cité (taux réussite 44%)
+Sur l'ensemble de la ville il y a eu 52 réponses dont 23 réponses avec une rue citée (44%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 52 réponses dont 23 avec une rue cité (taux réussite 44%)
 | ROUTE DE VILLEVEYRAC | 1 | 1% | 4%|
 | RUE DES ECOLES | 1 | 1% | 4%|
 | AVENUE GAL DE GAULLE | 1 | 1% | 4%|
+| ROUTE DE PEZENAS | 1 | 1% | 4%|
+| ROUTE DE MARSEILLAN | 1 | 1% | 4%|
+| **Total** | 23 | 44% | 100%|

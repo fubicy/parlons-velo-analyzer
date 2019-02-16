@@ -1,6 +1,8 @@
 # Résultat pour 004-AJACCIO
 
-Sur 222 réponses dont 56 avec une rue cité (taux réussite 25%)
+Sur l'ensemble de la ville il y a eu 222 réponses dont 56 réponses avec une rue citée (25%)
+
+23 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,17 @@ Sur 222 réponses dont 56 avec une rue cité (taux réussite 25%)
 | PARATA | 1 | 0% | 1%|
 | ASPRETTO | 1 | 0% | 1%|
 | COURS PRINCE IMPERIAL | 1 | 0% | 1%|
+| COURS GRANDVAL | 1 | 0% | 1%|
+| CITADELLE | 1 | 0% | 1%|
+| RUE CARDINAL FESCH | 1 | 0% | 1%|
+| BOULEVARD PASCAL ROSSINI | 1 | 0% | 1%|
+| COURS GENERAL LECLERC | 1 | 0% | 1%|
+| RESIDENCE ALBERT 1ER | 1 | 0% | 1%|
+| LES CANNES | 1 | 0% | 1%|
+| LES SALINES | 1 | 0% | 1%|
+| CANNE | 1 | 0% | 1%|
+| MELA | 1 | 0% | 1%|
+| MEZZAVIA | 1 | 0% | 1%|
+| CAMPO DELL ORO | 1 | 0% | 1%|
+| RICANTO | 1 | 0% | 1%|
+| **Total** | 56 | 25% | 100%|

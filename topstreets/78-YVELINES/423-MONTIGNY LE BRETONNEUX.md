@@ -1,6 +1,8 @@
 # Résultat pour 423-MONTIGNY LE BRETONNEUX
 
-Sur 91 réponses dont 29 avec une rue cité (taux réussite 31%)
+Sur l'ensemble de la ville il y a eu 91 réponses dont 29 réponses avec une rue citée (31%)
+
+13 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,7 @@ Sur 91 réponses dont 29 avec une rue cité (taux réussite 31%)
 | BOULEVARD DESCARTES | 1 | 1% | 3%|
 | AVENUE DE L EUROPE | 1 | 1% | 3%|
 | AVENUE DE KIERSPE | 1 | 1% | 3%|
+| AVENUE DU PARC | 1 | 1% | 3%|
+| AVENUE DE LA SOURCE | 1 | 1% | 3%|
+| PLACE CLAUDEL | 1 | 1% | 3%|
+| **Total** | 29 | 31% | 100%|

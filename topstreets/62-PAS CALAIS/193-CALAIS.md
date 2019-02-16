@@ -1,6 +1,8 @@
 # Résultat pour 193-CALAIS
 
-Sur 159 réponses dont 43 avec une rue cité (taux réussite 27%)
+Sur l'ensemble de la ville il y a eu 159 réponses dont 43 réponses avec une rue citée (27%)
+
+24 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,18 @@ Sur 159 réponses dont 43 avec une rue cité (taux réussite 27%)
 | RUE DE TOUL | 2 | 1% | 4%|
 | RUE DE VALENCIENNES | 2 | 1% | 4%|
 | BOULEVARD LAFAYETTE | 1 | 0% | 2%|
+| RUE DES PRAIRIES | 1 | 0% | 2%|
+| AVENUE ROGER SALENGRO | 1 | 0% | 2%|
+| RUE DE VIC | 1 | 0% | 2%|
+| RUE DES QUATRE COINS | 1 | 0% | 2%|
+| LE FORT RISBAN | 1 | 0% | 2%|
+| PONT MOLLIEN | 1 | 0% | 2%|
+| RUE DES FONTINETTES | 1 | 0% | 2%|
+| PONT HENRI HENON | 1 | 0% | 2%|
+| ROUTE DE SAINT OMER | 1 | 0% | 2%|
+| LES BASSES COMMUNES | 1 | 0% | 2%|
+| RUE DE VERDUN | 1 | 0% | 2%|
+| RUE CHAMPAILLER | 1 | 0% | 2%|
+| RUE HERMANT | 1 | 0% | 2%|
+| RUE DE LA VENDEE | 1 | 0% | 2%|
+| **Total** | 43 | 27% | 100%|

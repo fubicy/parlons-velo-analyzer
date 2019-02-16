@@ -1,6 +1,8 @@
 # Résultat pour 165-CUINCY
 
-Sur 5 réponses dont 4 avec une rue cité (taux réussite 80%)
+Sur l'ensemble de la ville il y a eu 5 réponses dont 4 réponses avec une rue citée (80%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 5 réponses dont 4 avec une rue cité (taux réussite 80%)
 | FAUBOURG D ESQUERCHIN | 1 | 20% | 25%|
 | RUE DELFOSSE | 1 | 20% | 25%|
 | RUE JEAN JAURES | 1 | 20% | 25%|
+| **Total** | 4 | 80% | 100%|

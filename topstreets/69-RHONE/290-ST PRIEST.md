@@ -1,6 +1,8 @@
 # Résultat pour 290-ST PRIEST
 
-Sur 26 réponses dont 20 avec une rue cité (taux réussite 76%)
+Sur l'ensemble de la ville il y a eu 26 réponses dont 20 réponses avec une rue citée (76%)
+
+15 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,9 @@ Sur 26 réponses dont 20 avec une rue cité (taux réussite 76%)
 | RUE DE PROVENCE | 1 | 3% | 5%|
 | AVENUE DE LA GARE | 1 | 3% | 5%|
 | PARILLY | 1 | 3% | 5%|
+| ROUTE DE TOUSSIEU | 1 | 3% | 5%|
+| RUE BEL AIR | 1 | 3% | 5%|
+| ROUTE DE LYON | 1 | 3% | 5%|
+| RUE DES ETATS UNIS | 1 | 3% | 5%|
+| CHEMIN DE REVAISON | 1 | 3% | 5%|
+| **Total** | 20 | 76% | 100%|

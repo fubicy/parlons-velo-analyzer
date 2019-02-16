@@ -1,6 +1,8 @@
 # Résultat pour 201-MARSEILLE 1ER
 
-Sur 1846 réponses dont 309 avec une rue cité (taux réussite 16%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 309 réponses avec une rue citée (16%)
+
+26 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,20 @@ Sur 1846 réponses dont 309 avec une rue cité (taux réussite 16%)
 | COURS JULIEN | 8 | 0% | 2%|
 | RUE BRETEUIL | 8 | 0% | 2%|
 | PLACE JEAN JAURES | 5 | 0% | 1%|
+| BOULEVARD LONGCHAMP | 5 | 0% | 1%|
+| COURS BELSUNCE | 4 | 0% | 1%|
+| RUE SAINTE | 3 | 0% | 0%|
+| BOULEVARD DE LA LIBERATION | 3 | 0% | 0%|
+| RUE SAINT SAVOURNIN | 2 | 0% | 0%|
+| BOULEVARD CAMILLE FLAMMARION | 2 | 0% | 0%|
+| RUE GUIBAL | 1 | 0% | 0%|
+| BOULEVARD DUGOMMIER | 1 | 0% | 0%|
+| RUE FORT NOTRE DAME | 1 | 0% | 0%|
+| COURS SAINT LOUIS | 1 | 0% | 0%|
+| BOULEVARD GARIBALDI | 1 | 0% | 0%|
+| RUE HONNORAT | 1 | 0% | 0%|
+| RUE D AUBAGNE | 1 | 0% | 0%|
+| RUE SAINTE MARTHE | 1 | 0% | 0%|
+| RUE PYTHEAS | 1 | 0% | 0%|
+| QUAI RIVE NEUVE | 1 | 0% | 0%|
+| **Total** | 309 | 16% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 486-SEYSSINS
 
-Sur 10 réponses dont 8 avec une rue cité (taux réussite 80%)
+Sur l'ensemble de la ville il y a eu 10 réponses dont 8 réponses avec une rue citée (80%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 10 réponses dont 8 avec une rue cité (taux réussite 80%)
 | LE HAUT SEYSSINS | 1 | 10% | 12%|
 | RUE DE LA LIBERTE | 1 | 10% | 12%|
 | RUE PASTEUR | 1 | 10% | 12%|
+| **Total** | 8 | 80% | 100%|

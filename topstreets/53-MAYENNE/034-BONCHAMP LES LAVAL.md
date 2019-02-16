@@ -1,6 +1,8 @@
 # Résultat pour 034-BONCHAMP LES LAVAL
 
-Sur 58 réponses dont 32 avec une rue cité (taux réussite 55%)
+Sur l'ensemble de la ville il y a eu 58 réponses dont 32 réponses avec une rue citée (55%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 58 réponses dont 32 avec une rue cité (taux réussite 55%)
 | COMPLEXE SPORTIF | 1 | 1% | 3%|
 | RUE CHARLES DE GAULLE | 1 | 1% | 3%|
 | LA COMMUNE | 1 | 1% | 3%|
+| **Total** | 32 | 55% | 100%|

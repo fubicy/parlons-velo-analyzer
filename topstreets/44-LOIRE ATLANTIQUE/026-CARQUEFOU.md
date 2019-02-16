@@ -1,6 +1,8 @@
 # Résultat pour 026-CARQUEFOU
 
-Sur 18 réponses dont 11 avec une rue cité (taux réussite 61%)
+Sur l'ensemble de la ville il y a eu 18 réponses dont 11 réponses avec une rue citée (61%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 18 réponses dont 11 avec une rue cité (taux réussite 61%)
 | ROUTE DE SUCE | 1 | 5% | 9%|
 | LA SAVAUDIERE | 1 | 5% | 9%|
 | BOULEVARD DES EUROPEENS | 1 | 5% | 9%|
+| L ALLEE | 1 | 5% | 9%|
+| **Total** | 11 | 61% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 024-ANGLET
 
-Sur 86 réponses dont 34 avec une rue cité (taux réussite 39%)
+Sur l'ensemble de la ville il y a eu 86 réponses dont 34 réponses avec une rue citée (39%)
+
+13 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,7 @@ Sur 86 réponses dont 34 avec une rue cité (taux réussite 39%)
 | BELIN | 2 | 2% | 5%|
 | CHAMBRE D AMOUR | 1 | 1% | 2%|
 | LEMBEYE | 1 | 1% | 2%|
+| PLACE DU GENERAL LECLERC | 1 | 1% | 2%|
+| ROND POINT DE LA LAICITE | 1 | 1% | 2%|
+| AVENUE DE MONTBRUN | 1 | 1% | 2%|
+| **Total** | 34 | 39% | 100%|

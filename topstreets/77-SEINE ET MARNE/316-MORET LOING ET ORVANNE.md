@@ -1,6 +1,8 @@
 # Résultat pour 316-MORET LOING ET ORVANNE
 
-Sur 18 réponses dont 21 avec une rue cité (taux réussite 116%)
+Sur l'ensemble de la ville il y a eu 18 réponses dont 21 réponses avec une rue citée (116%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 18 réponses dont 21 avec une rue cité (taux réussite 116%)
 | AVENUE DE SENS | 1 | 5% | 4%|
 | RUE VICTOR HUGO | 1 | 5% | 4%|
 | MONTARLOT | 1 | 5% | 4%|
+| **Total** | 21 | 116% | 100%|

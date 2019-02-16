@@ -1,6 +1,8 @@
 # Résultat pour 020-BOUGUENAIS
 
-Sur 23 réponses dont 20 avec une rue cité (taux réussite 86%)
+Sur l'ensemble de la ville il y a eu 23 réponses dont 20 réponses avec une rue citée (86%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 23 réponses dont 20 avec une rue cité (taux réussite 86%)
 | LA LOIRE | 1 | 4% | 5%|
 | RUE EUGENE POTTIER | 1 | 4% | 5%|
 | LA BOUVRE | 1 | 4% | 5%|
+| LA CHABOSSIERE | 1 | 4% | 5%|
+| LA RANJONNIERE | 1 | 4% | 5%|
+| **Total** | 20 | 86% | 100%|

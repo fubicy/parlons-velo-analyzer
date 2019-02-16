@@ -1,6 +1,8 @@
 # Résultat pour 273-CORBAS
 
-Sur 19 réponses dont 6 avec une rue cité (taux réussite 31%)
+Sur l'ensemble de la ville il y a eu 19 réponses dont 6 réponses avec une rue citée (31%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 19 réponses dont 6 avec une rue cité (taux réussite 31%)
 | CHEMIN DES VIGNES | 1 | 5% | 16%|
 | GRANGE BLANCHE | 1 | 5% | 16%|
 | RUE CENTRALE | 1 | 5% | 16%|
+| **Total** | 6 | 31% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 169-INGRE
 
-Sur 8 réponses dont 5 avec une rue cité (taux réussite 62%)
+Sur l'ensemble de la ville il y a eu 8 réponses dont 5 réponses avec une rue citée (62%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 8 réponses dont 5 avec une rue cité (taux réussite 62%)
 | RUE DU CHATEAU D EAU | 1 | 12% | 20%|
 | RUE DE LA MAIRIE | 1 | 12% | 20%|
 | LA GARE | 1 | 12% | 20%|
+| **Total** | 5 | 62% | 100%|

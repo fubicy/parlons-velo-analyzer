@@ -1,6 +1,8 @@
 # Résultat pour 011-ALBERTVILLE
 
-Sur 56 réponses dont 17 avec une rue cité (taux réussite 30%)
+Sur l'ensemble de la ville il y a eu 56 réponses dont 17 réponses avec une rue citée (30%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 56 réponses dont 17 avec une rue cité (taux réussite 30%)
 | AVENUE JEAN JAURES | 1 | 1% | 5%|
 | CHEMIN DU CHIRIAC | 1 | 1% | 5%|
 | CHEMIN DE CALIFORNIE | 1 | 1% | 5%|
+| **Total** | 17 | 30% | 100%|

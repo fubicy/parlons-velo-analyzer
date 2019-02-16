@@ -1,6 +1,8 @@
 # Résultat pour 006-BAGNOLET
 
-Sur 21 réponses dont 21 avec une rue cité (taux réussite 100%)
+Sur l'ensemble de la ville il y a eu 21 réponses dont 21 réponses avec une rue citée (100%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 21 réponses dont 21 avec une rue cité (taux réussite 100%)
 | RUE ANATOLE FRANCE | 1 | 4% | 4%|
 | RUE JEANNE HORNET | 1 | 4% | 4%|
 | AVENUE GENERAL DE GAULLE | 1 | 4% | 4%|
+| RUE ETIENNE MARCEL | 1 | 4% | 4%|
+| RUE VICTOR HUGO | 1 | 4% | 4%|
+| **Total** | 21 | 100% | 100%|

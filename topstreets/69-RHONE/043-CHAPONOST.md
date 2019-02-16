@@ -1,6 +1,8 @@
 # Résultat pour 043-CHAPONOST
 
-Sur 60 réponses dont 21 avec une rue cité (taux réussite 35%)
+Sur l'ensemble de la ville il y a eu 60 réponses dont 21 réponses avec une rue citée (35%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 60 réponses dont 21 avec une rue cité (taux réussite 35%)
 | AVENUE PAUL DOUMER | 1 | 1% | 4%|
 | LE PLAT DE L AIR | 1 | 1% | 4%|
 | AVENUE ANDRE DEVIENNE | 1 | 1% | 4%|
+| ROUTE DE LA GARE | 1 | 1% | 4%|
+| **Total** | 21 | 35% | 100%|

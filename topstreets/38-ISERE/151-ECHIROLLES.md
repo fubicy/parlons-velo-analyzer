@@ -1,6 +1,8 @@
 # Résultat pour 151-ECHIROLLES
 
-Sur 61 réponses dont 30 avec une rue cité (taux réussite 49%)
+Sur l'ensemble de la ville il y a eu 61 réponses dont 30 réponses avec une rue citée (49%)
+
+21 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,15 @@ Sur 61 réponses dont 30 avec une rue cité (taux réussite 49%)
 | AVENUE DE GRUGLIASCO | 2 | 3% | 6%|
 | RUE DU BERRY | 1 | 1% | 3%|
 | RUE DE NORMANDIE | 1 | 1% | 3%|
+| AVENUE DE KIMBERLEY | 1 | 1% | 3%|
+| RUE GUY MOCQUET | 1 | 1% | 3%|
+| RUE DU JURA | 1 | 1% | 3%|
+| AVENUE VICTOR HUGO | 1 | 1% | 3%|
+| SQUARE DES CEDRES | 1 | 1% | 3%|
+| RUE GABRIEL DIDIER | 1 | 1% | 3%|
+| AVENUE DU 8 MAI 1945 | 1 | 1% | 3%|
+| RUE LIONEL TERRAY | 1 | 1% | 3%|
+| COURS JEAN JAURES | 1 | 1% | 3%|
+| AVENUE DES FTPF | 1 | 1% | 3%|
+| AVENUE DE LA REPUBLIQUE | 1 | 1% | 3%|
+| **Total** | 30 | 49% | 100%|

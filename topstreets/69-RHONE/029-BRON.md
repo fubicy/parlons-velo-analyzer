@@ -1,6 +1,8 @@
 # Résultat pour 029-BRON
 
-Sur 95 réponses dont 57 avec une rue cité (taux réussite 60%)
+Sur l'ensemble de la ville il y a eu 95 réponses dont 57 réponses avec une rue citée (60%)
+
+17 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,11 @@ Sur 95 réponses dont 57 avec une rue cité (taux réussite 60%)
 | RUE DES ESSARTS | 2 | 2% | 3%|
 | LA PAGERE | 1 | 1% | 1%|
 | AVENUE FRANCOIS MITTERRAND | 1 | 1% | 1%|
+| BOULEVARD PINEL | 1 | 1% | 1%|
+| RUE SIGISMOND BRISSY | 1 | 1% | 1%|
+| AVENUE ROCKFELLER | 1 | 1% | 1%|
+| CENTRE COMMERCIAL AUCHAN | 1 | 1% | 1%|
+| AVENUE PIERRE BROSSOLETTE | 1 | 1% | 1%|
+| RUE DES GENETS | 1 | 1% | 1%|
+| RUE ARMANET | 1 | 1% | 1%|
+| **Total** | 57 | 60% | 100%|

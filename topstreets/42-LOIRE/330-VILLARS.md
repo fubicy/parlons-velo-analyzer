@@ -1,6 +1,8 @@
 # Résultat pour 330-VILLARS
 
-Sur 11 réponses dont 9 avec une rue cité (taux réussite 81%)
+Sur l'ensemble de la ville il y a eu 11 réponses dont 9 réponses avec une rue citée (81%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 11 réponses dont 9 avec une rue cité (taux réussite 81%)
 | RATARIEUX | 1 | 9% | 11%|
 | CURNIEU | 1 | 9% | 11%|
 | RUE DE LA REPUBLIQUE | 1 | 9% | 11%|
+| **Total** | 9 | 81% | 100%|

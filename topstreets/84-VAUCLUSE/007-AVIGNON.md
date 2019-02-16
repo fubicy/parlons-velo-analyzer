@@ -1,6 +1,8 @@
 # Résultat pour 007-AVIGNON
 
-Sur 332 réponses dont 156 avec une rue cité (taux réussite 46%)
+Sur l'ensemble de la ville il y a eu 332 réponses dont 156 réponses avec une rue citée (46%)
+
+45 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,39 @@ Sur 332 réponses dont 156 avec une rue cité (taux réussite 46%)
 | LA BARTHELASSE | 4 | 1% | 2%|
 | AVENUE MONCLAR | 4 | 1% | 2%|
 | CONTOUR CAP SUD | 4 | 1% | 2%|
+| COURS JEAN JAURES | 3 | 0% | 1%|
+| RUE THIERS | 3 | 0% | 1%|
+| RUE CARRETERIE | 3 | 0% | 1%|
+| PORTE SAINT LAZARE | 3 | 0% | 1%|
+| SAINT RUF | 3 | 0% | 1%|
+| PIOT | 3 | 0% | 1%|
+| RUE DES LICES | 2 | 0% | 1%|
+| CHEMIN DE LA TRANSHUMANCE | 2 | 0% | 1%|
+| AVENUE DE L AMANDIER | 2 | 0% | 1%|
+| AVENUE FONTCOUVERTE | 2 | 0% | 1%|
+| ROCADE CHARLES DE GAULLE | 2 | 0% | 1%|
+| ZI DE COURTINE | 2 | 0% | 1%|
+| PORTE DE L'OULLE | 2 | 0% | 1%|
+| BOULEVARD LIMBERT | 2 | 0% | 1%|
+| LA DURANCE | 2 | 0% | 1%|
+| CHEMIN SAINT GABRIEL | 1 | 0% | 0%|
+| BERNARD | 1 | 0% | 0%|
+| BOULEVARD RASPAIL | 1 | 0% | 0%|
+| RUE ETROITE | 1 | 0% | 0%|
+| BOULEVARD SAINT MICHEL | 1 | 0% | 0%|
+| BOULEVARD JACQUES MONOD | 1 | 0% | 0%|
+| AVENUE FERDINAND BEC | 1 | 0% | 0%|
+| BOULEVARD SAINT ROCH | 1 | 0% | 0%|
+| AVENUE DE LA FOLIE | 1 | 0% | 0%|
+| AVENUE DES ITALIENS | 1 | 0% | 0%|
+| RUE CHAPEAU ROUGE | 1 | 0% | 0%|
+| BOULEVARD JULES FERRY | 1 | 0% | 0%|
+| BOULEVARD SIXTE ISNARD | 1 | 0% | 0%|
+| CHEMIN DU CANAL | 1 | 0% | 0%|
+| RUE DU PETIT MAS | 1 | 0% | 0%|
+| CLOS SAINT JEAN | 1 | 0% | 0%|
+| PLACE PIE | 1 | 0% | 0%|
+| PLACE SAINT JEAN LE VIEUX | 1 | 0% | 0%|
+| ZI ZONE INDUSTRIELLE | 1 | 0% | 0%|
+| CHEMIN MOULIN NOTRE DAME | 1 | 0% | 0%|
+| **Total** | 156 | 46% | 100%|

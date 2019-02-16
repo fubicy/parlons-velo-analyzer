@@ -1,6 +1,8 @@
 # Résultat pour 185-MONTLUCON
 
-Sur 11 réponses dont 13 avec une rue cité (taux réussite 118%)
+Sur l'ensemble de la ville il y a eu 11 réponses dont 13 réponses avec une rue citée (118%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 11 réponses dont 13 avec une rue cité (taux réussite 118%)
 | RUE BUFFON | 1 | 9% | 7%|
 | AVENUE JEAN NEGRE | 1 | 9% | 7%|
 | AVENUE DE LA REPUBLIQUE | 1 | 9% | 7%|
+| **Total** | 13 | 118% | 100%|

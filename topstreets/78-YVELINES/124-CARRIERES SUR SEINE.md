@@ -1,6 +1,8 @@
 # Résultat pour 124-CARRIERES SUR SEINE
 
-Sur 16 réponses dont 14 avec une rue cité (taux réussite 87%)
+Sur l'ensemble de la ville il y a eu 16 réponses dont 14 réponses avec une rue citée (87%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 16 réponses dont 14 avec une rue cité (taux réussite 87%)
 | RUE ARISTIDE BRIAND | 1 | 6% | 7%|
 | RUE GABRIEL PERI | 1 | 6% | 7%|
 | ROUTE DE MONTESSON | 1 | 6% | 7%|
+| **Total** | 14 | 87% | 100%|

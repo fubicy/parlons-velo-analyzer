@@ -1,6 +1,8 @@
 # Résultat pour 286-RILLIEUX PAPE
 
-Sur 29 réponses dont 18 avec une rue cité (taux réussite 62%)
+Sur l'ensemble de la ville il y a eu 29 réponses dont 18 réponses avec une rue citée (62%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 29 réponses dont 18 avec une rue cité (taux réussite 62%)
 | ROUTE DE GENEVE | 3 | 10% | 16%|
 | AVENUE DE L EUROPE | 2 | 6% | 11%|
 | LA ROUE | 1 | 3% | 5%|
+| **Total** | 18 | 62% | 100%|

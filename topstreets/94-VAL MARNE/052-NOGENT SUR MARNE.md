@@ -1,6 +1,8 @@
 # Résultat pour 052-NOGENT SUR MARNE
 
-Sur 20 réponses dont 15 avec une rue cité (taux réussite 75%)
+Sur l'ensemble de la ville il y a eu 20 réponses dont 15 réponses avec une rue citée (75%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 20 réponses dont 15 avec une rue cité (taux réussite 75%)
 | LIGNE RER A | 1 | 5% | 6%|
 | AVENUE DU VAL DE BEAUTE | 1 | 5% | 6%|
 | AVENUE DE JOINVILLE | 1 | 5% | 6%|
+| **Total** | 15 | 75% | 100%|

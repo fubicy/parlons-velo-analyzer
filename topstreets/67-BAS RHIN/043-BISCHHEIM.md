@@ -1,6 +1,8 @@
 # Résultat pour 043-BISCHHEIM
 
-Sur 17 réponses dont 23 avec une rue cité (taux réussite 135%)
+Sur l'ensemble de la ville il y a eu 17 réponses dont 23 réponses avec une rue citée (135%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 17 réponses dont 23 avec une rue cité (taux réussite 135%)
 | RUE NATIONALE | 1 | 5% | 4%|
 | RUE DE NIEDERHAUSBERGEN | 1 | 5% | 4%|
 | RUE DES OFFICIERS | 1 | 5% | 4%|
+| **Total** | 23 | 135% | 100%|

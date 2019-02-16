@@ -1,6 +1,8 @@
 # Résultat pour 429-MESNIL ESNARD (LE)
 
-Sur 15 réponses dont 16 avec une rue cité (taux réussite 106%)
+Sur l'ensemble de la ville il y a eu 15 réponses dont 16 réponses avec une rue citée (106%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 15 réponses dont 16 avec une rue cité (taux réussite 106%)
 | SQUARE SADI CARNOT | 1 | 6% | 6%|
 | IMPASSE DES HAUTES HAIES | 1 | 6% | 6%|
 | RUE PASTEUR | 1 | 6% | 6%|
+| **Total** | 16 | 106% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 022-AUCAMVILLE
 
-Sur 13 réponses dont 11 avec une rue cité (taux réussite 84%)
+Sur l'ensemble de la ville il y a eu 13 réponses dont 11 réponses avec une rue citée (84%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 13 réponses dont 11 avec une rue cité (taux réussite 84%)
 | RUE DES ECOLES | 1 | 7% | 9%|
 | AVENUE SALVADOR ALLENDE | 1 | 7% | 9%|
 | LA MAIRIE | 1 | 7% | 9%|
+| **Total** | 11 | 84% | 100%|

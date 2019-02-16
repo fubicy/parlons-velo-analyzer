@@ -1,6 +1,8 @@
 # Résultat pour 070-GUINGAMP
 
-Sur 3 réponses dont 5 avec une rue cité (taux réussite 166%)
+Sur l'ensemble de la ville il y a eu 3 réponses dont 5 réponses avec une rue citée (166%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 3 réponses dont 5 avec une rue cité (taux réussite 166%)
 | AVENUE KENNEDY | 1 | 33% | 20%|
 | PLACE DU CHAMP AU ROY | 1 | 33% | 20%|
 | RUE DU VALLY | 1 | 33% | 20%|
+| **Total** | 5 | 166% | 100%|

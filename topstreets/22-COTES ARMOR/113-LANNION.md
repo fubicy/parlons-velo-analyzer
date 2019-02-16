@@ -1,6 +1,8 @@
 # Résultat pour 113-LANNION
 
-Sur 86 réponses dont 32 avec une rue cité (taux réussite 37%)
+Sur l'ensemble de la ville il y a eu 86 réponses dont 32 réponses avec une rue citée (37%)
+
+18 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,12 @@ Sur 86 réponses dont 32 avec une rue cité (taux réussite 37%)
 | QUAI D'AIGUILLON | 1 | 1% | 3%|
 | AVENUE DE LA RESISTANCE | 1 | 1% | 3%|
 | CHEMIN DE HALAGE | 1 | 1% | 3%|
+| BOULEVARD D'ARMOR | 1 | 1% | 3%|
+| CHAMP BLANC | 1 | 1% | 3%|
+| RUE LOUIS DE BROGLIE | 1 | 1% | 3%|
+| LA CORDERIE | 1 | 1% | 3%|
+| RUSQUET | 1 | 1% | 3%|
+| RUE DE L'AERODROME | 1 | 1% | 3%|
+| RUE GEORGES POMPIDOU | 1 | 1% | 3%|
+| ROUTE DE MORLAIX | 1 | 1% | 3%|
+| **Total** | 32 | 37% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 650-VESINET (LE)
 
-Sur 17 réponses dont 11 avec une rue cité (taux réussite 64%)
+Sur l'ensemble de la ville il y a eu 17 réponses dont 11 réponses avec une rue citée (64%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 17 réponses dont 11 avec une rue cité (taux réussite 64%)
 | ROUTE DE MONTESSON | 1 | 5% | 9%|
 | AVENUE DES COURSES | 1 | 5% | 9%|
 | ROUTE DE CROISSY | 1 | 5% | 9%|
+| **Total** | 11 | 64% | 100%|

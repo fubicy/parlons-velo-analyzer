@@ -1,7 +1,10 @@
 # Résultat pour 033-CARROS
 
-Sur 7 réponses dont 1 avec une rue cité (taux réussite 14%)
+Sur l'ensemble de la ville il y a eu 7 réponses dont 1 réponses avec une rue citée (14%)
+
+1 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | ZONE INDUSTRIELLE | 1 | 14% | 100%|
+| **Total** | 1 | 14% | 100%|

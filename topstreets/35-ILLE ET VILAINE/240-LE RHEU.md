@@ -1,6 +1,8 @@
 # Résultat pour 240-LE RHEU
 
-Sur 47 réponses dont 18 avec une rue cité (taux réussite 38%)
+Sur l'ensemble de la ville il y a eu 47 réponses dont 18 réponses avec une rue citée (38%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 47 réponses dont 18 avec une rue cité (taux réussite 38%)
 | LE PETIT VERRIERE | 1 | 2% | 5%|
 | RUE DE CINTRE | 1 | 2% | 5%|
 | LE PETIT VERGER | 1 | 2% | 5%|
+| LA GABILLAIS | 1 | 2% | 5%|
+| **Total** | 18 | 38% | 100%|

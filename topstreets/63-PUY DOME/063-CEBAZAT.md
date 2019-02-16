@@ -1,6 +1,8 @@
 # Résultat pour 063-CEBAZAT
 
-Sur 30 réponses dont 21 avec une rue cité (taux réussite 70%)
+Sur l'ensemble de la ville il y a eu 30 réponses dont 21 réponses avec une rue citée (70%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 30 réponses dont 21 avec une rue cité (taux réussite 70%)
 | BOULEVARD JEAN MOULIN | 1 | 3% | 4%|
 | LA VILLE | 1 | 3% | 4%|
 | RUE DU PONT DE L AGAGE | 1 | 3% | 4%|
+| **Total** | 21 | 70% | 100%|

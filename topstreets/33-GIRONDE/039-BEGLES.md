@@ -1,6 +1,8 @@
 # Résultat pour 039-BEGLES
 
-Sur 69 réponses dont 56 avec une rue cité (taux réussite 81%)
+Sur l'ensemble de la ville il y a eu 69 réponses dont 56 réponses avec une rue citée (81%)
+
+21 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,15 @@ Sur 69 réponses dont 56 avec une rue cité (taux réussite 81%)
 | RUE JULES GUESDE | 1 | 1% | 1%|
 | RUE DURCY | 1 | 1% | 1%|
 | RUE DELPHIN LOCHE | 1 | 1% | 1%|
+| RUE DU PRECHE | 1 | 1% | 1%|
+| AVENUE LUCIEN LEROUSSEAU | 1 | 1% | 1%|
+| AVENUE ROGER SALENGRO | 1 | 1% | 1%|
+| ALLEE DE FRANCS | 1 | 1% | 1%|
+| RUE DES SECHERIES | 1 | 1% | 1%|
+| AVENUE ALEXIS CAPELLE | 1 | 1% | 1%|
+| PONT DE LA MAYE | 1 | 1% | 1%|
+| RUE CARNOT | 1 | 1% | 1%|
+| RUE CHARLES PARIS | 1 | 1% | 1%|
+| RUE CHEVALIER DE LA BARRE | 1 | 1% | 1%|
+| RUE EMILE COMBES | 1 | 1% | 1%|
+| **Total** | 56 | 81% | 100%|

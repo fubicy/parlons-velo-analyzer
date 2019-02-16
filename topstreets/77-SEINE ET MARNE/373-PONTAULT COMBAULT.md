@@ -1,6 +1,8 @@
 # Résultat pour 373-PONTAULT COMBAULT
 
-Sur 11 réponses dont 9 avec une rue cité (taux réussite 81%)
+Sur l'ensemble de la ville il y a eu 11 réponses dont 9 réponses avec une rue citée (81%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 11 réponses dont 9 avec une rue cité (taux réussite 81%)
 | RUE DES PRES SAINT MARTIN | 1 | 9% | 11%|
 | RUE DU PLATEAU | 1 | 9% | 11%|
 | RUE JEAN MOULIN | 1 | 9% | 11%|
+| **Total** | 9 | 81% | 100%|

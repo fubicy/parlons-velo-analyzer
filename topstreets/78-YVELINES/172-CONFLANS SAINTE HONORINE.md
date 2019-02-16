@@ -1,6 +1,8 @@
 # Résultat pour 172-CONFLANS SAINTE HONORINE
 
-Sur 67 réponses dont 37 avec une rue cité (taux réussite 55%)
+Sur l'ensemble de la ville il y a eu 67 réponses dont 37 réponses avec une rue citée (55%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 67 réponses dont 37 avec une rue cité (taux réussite 55%)
 | AVENUE GABRIEL PERI | 1 | 1% | 2%|
 | AVENUE DU MARECHAL FOCH | 1 | 1% | 2%|
 | RUE PIEPLU | 1 | 1% | 2%|
+| BOULEVARD ARMAND LEPRINCE | 1 | 1% | 2%|
+| RUE D HERBLAY | 1 | 1% | 2%|
+| **Total** | 37 | 55% | 100%|

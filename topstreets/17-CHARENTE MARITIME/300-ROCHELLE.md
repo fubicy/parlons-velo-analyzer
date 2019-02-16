@@ -1,6 +1,8 @@
 # Résultat pour 300-ROCHELLE
 
-Sur 668 réponses dont 327 avec une rue cité (taux réussite 48%)
+Sur l'ensemble de la ville il y a eu 668 réponses dont 327 réponses avec une rue citée (48%)
+
+91 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,85 @@ Sur 668 réponses dont 327 avec une rue cité (taux réussite 48%)
 | RUE MARIUS LACROIX | 9 | 1% | 2%|
 | AVENUE EDMOND GRASSET | 9 | 1% | 2%|
 | QUAI DUPERRE | 9 | 1% | 2%|
+| RUE DU PALAIS | 9 | 1% | 2%|
+| AVENUE DES CORDELIERS | 8 | 1% | 2%|
+| BOULEVARD ANDRE SAUTEL | 7 | 1% | 2%|
+| BOULEVARD DE COGNEHORS | 7 | 1% | 2%|
+| QUAI MAUBEC | 6 | 0% | 1%|
+| LES MINIMES | 6 | 0% | 1%|
+| QUAI VALIN | 5 | 0% | 1%|
+| AVENUE JEAN GUITON | 5 | 0% | 1%|
+| AVENUE DES CORSAIRES | 4 | 0% | 1%|
+| RUE VILLENEUVE | 4 | 0% | 1%|
+| RUE DES MERCIERS | 4 | 0% | 1%|
+| RUE DU MINAGE | 4 | 0% | 1%|
+| RUE EMILE NORMANDIN | 4 | 0% | 1%|
+| BEAUREGARD | 4 | 0% | 1%|
+| POINTE DES MINIMES | 4 | 0% | 1%|
+| RUE CHAUDRIER | 4 | 0% | 1%|
+| BOULEVARD DE LA REPUBLIQUE | 3 | 0% | 0%|
+| PORT NEUF | 3 | 0% | 0%|
+| RUE SAINT LOUIS | 3 | 0% | 0%|
+| FETILLY | 3 | 0% | 0%|
+| RUE PAS DES LAQUAIS | 3 | 0% | 0%|
+| CHEF DE BAIE | 2 | 0% | 0%|
+| RUE EMILE COUNEAU | 2 | 0% | 0%|
+| RUE DU MOULIN DES JUSTICES | 2 | 0% | 0%|
+| RUE SAINT LO | 2 | 0% | 0%|
+| LE PARC | 2 | 0% | 0%|
+| AVENUE ARISTIDE BRIAND | 2 | 0% | 0%|
+| COURS DES DAMES | 2 | 0% | 0%|
+| PLACE DU MARCHE | 2 | 0% | 0%|
+| RUE GAMBETTA | 2 | 0% | 0%|
+| AVENUE JEAN PAUL SARTRE | 2 | 0% | 0%|
+| RUE DES GONTHIERES | 1 | 0% | 0%|
+| RUE DU PONT DES SALINES | 1 | 0% | 0%|
+| RUE DES AUGUSTINS | 1 | 0% | 0%|
+| AVENUE DE ROMPSAY | 1 | 0% | 0%|
+| AVENUE DU 11 NOVEMBRE 1918 | 1 | 0% | 0%|
+| AVENUE DE MULHOUSE | 1 | 0% | 0%|
+| RUE SAINT YON | 1 | 0% | 0%|
+| RUE DE LA MONNAIE | 1 | 0% | 0%|
+| ESPLANADE DES PARCS | 1 | 0% | 0%|
+| BOULEVARD EMILE DELMAS | 1 | 0% | 0%|
+| BEL AIR | 1 | 0% | 0%|
+| QUAI LOUIS PRUNIER | 1 | 0% | 0%|
+| AVENUE DU CIMETIERE | 1 | 0% | 0%|
+| RUE DES GERANIUMS | 1 | 0% | 0%|
+| BOUT BLANC | 1 | 0% | 0%|
+| RUE GARGOULLEAU | 1 | 0% | 0%|
+| RUE DU MOULIN ROUGE | 1 | 0% | 0%|
+| RUE LOUISE PINCHON | 1 | 0% | 0%|
+| AVENUE DENFERT ROCHEREAU | 1 | 0% | 0%|
+| AVENUE CARNOT | 1 | 0% | 0%|
+| AVENUE COLIGNY | 1 | 0% | 0%|
+| RUE DELAYANT | 1 | 0% | 0%|
+| RUE QUEBEC | 1 | 0% | 0%|
+| RUE ANITA CONTI | 1 | 0% | 0%|
+| LA TROMPETTE | 1 | 0% | 0%|
+| AVENUE DE METZ | 1 | 0% | 0%|
+| LALEU | 1 | 0% | 0%|
+| ALLEE DU MAIL | 1 | 0% | 0%|
+| RUE DU PORT | 1 | 0% | 0%|
+| AVENUE DU GENERAL DE GAULLE | 1 | 0% | 0%|
+| RUE MARCEL DEFLANDRE | 1 | 0% | 0%|
+| GARE DE LA ROCHELLE | 1 | 0% | 0%|
+| RUE DE PERIGNY | 1 | 0% | 0%|
+| PARC CHARRUYER | 1 | 0% | 0%|
+| RUE CHEF DE VILLE | 1 | 0% | 0%|
+| RUE DUPATY | 1 | 0% | 0%|
+| RUE DE LA FERTE | 1 | 0% | 0%|
+| RUE DE LA GRILLE | 1 | 0% | 0%|
+| RUE THIERS | 1 | 0% | 0%|
+| RUE NICOLAS GARGOT | 1 | 0% | 0%|
+| QUAI LOUIS DURAND | 1 | 0% | 0%|
+| RUE DES FONDERIES | 1 | 0% | 0%|
+| AVENUE PAUL DOUMER | 1 | 0% | 0%|
+| RUE DES ECOLES | 1 | 0% | 0%|
+| RUE SAINT JEAN DU PEROT | 1 | 0% | 0%|
+| COUR DU TEMPLE | 1 | 0% | 0%|
+| RUE ALCIDE D ORBIGNY | 1 | 0% | 0%|
+| AVENUE JEAN MOULIN | 1 | 0% | 0%|
+| RUE SENAC DE MEILHAN | 1 | 0% | 0%|
+| RUE BAZOGES | 1 | 0% | 0%|
+| **Total** | 327 | 48% | 100%|

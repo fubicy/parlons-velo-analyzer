@@ -1,6 +1,8 @@
 # Résultat pour 046-DOUARNENEZ
 
-Sur 42 réponses dont 31 avec une rue cité (taux réussite 73%)
+Sur l'ensemble de la ville il y a eu 42 réponses dont 31 réponses avec une rue citée (73%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 42 réponses dont 31 avec une rue cité (taux réussite 73%)
 | RUE DUGUAY TROUIN | 1 | 2% | 3%|
 | RUE LAENNEC | 1 | 2% | 3%|
 | RUE DES PIETONS | 1 | 2% | 3%|
+| POULDAVID | 1 | 2% | 3%|
+| ROUTE DU RIS | 1 | 2% | 3%|
+| RUISSEAU LE NEVET | 1 | 2% | 3%|
+| RUE JEAN BRIAND | 1 | 2% | 3%|
+| **Total** | 31 | 73% | 100%|

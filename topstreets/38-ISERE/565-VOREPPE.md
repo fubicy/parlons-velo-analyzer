@@ -1,6 +1,8 @@
 # Résultat pour 565-VOREPPE
 
-Sur 22 réponses dont 6 avec une rue cité (taux réussite 27%)
+Sur l'ensemble de la ville il y a eu 22 réponses dont 6 réponses avec une rue citée (27%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 22 réponses dont 6 avec une rue cité (taux réussite 27%)
 | AVENUE DU 11 NOVEMBRE | 1 | 4% | 16%|
 | ROUTE DE VOIRON | 1 | 4% | 16%|
 | ROUTE DE VEUREY | 1 | 4% | 16%|
+| **Total** | 6 | 27% | 100%|

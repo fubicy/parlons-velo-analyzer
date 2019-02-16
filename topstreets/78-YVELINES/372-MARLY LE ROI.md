@@ -1,6 +1,8 @@
 # Résultat pour 372-MARLY LE ROI
 
-Sur 21 réponses dont 14 avec une rue cité (taux réussite 66%)
+Sur l'ensemble de la ville il y a eu 21 réponses dont 14 réponses avec une rue citée (66%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 21 réponses dont 14 avec une rue cité (taux réussite 66%)
 | RUE ALEXANDRE DUMAS | 1 | 4% | 7%|
 | RUE PIERRE BOURDAN | 1 | 4% | 7%|
 | RUE GEORGES TATTEVIN | 1 | 4% | 7%|
+| FORET DE MARLY | 1 | 4% | 7%|
+| **Total** | 14 | 66% | 100%|

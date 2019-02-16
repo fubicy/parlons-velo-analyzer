@@ -1,6 +1,8 @@
 # Résultat pour 003-AGDE
 
-Sur 22 réponses dont 7 avec une rue cité (taux réussite 31%)
+Sur l'ensemble de la ville il y a eu 22 réponses dont 7 réponses avec une rue citée (31%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 22 réponses dont 7 avec une rue cité (taux réussite 31%)
 | ROCHELONGUE | 1 | 4% | 14%|
 | QUAI COMMANDANT MERIC | 1 | 4% | 14%|
 | ROUTE DU GRAU | 1 | 4% | 14%|
+| **Total** | 7 | 31% | 100%|

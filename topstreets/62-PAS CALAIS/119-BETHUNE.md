@@ -1,6 +1,8 @@
 # Résultat pour 119-BETHUNE
 
-Sur 86 réponses dont 33 avec une rue cité (taux réussite 38%)
+Sur l'ensemble de la ville il y a eu 86 réponses dont 33 réponses avec une rue citée (38%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 86 réponses dont 33 avec une rue cité (taux réussite 38%)
 | RUE DU FAUBOURG D ARRAS | 1 | 1% | 3%|
 | RUE DE L UNIVERSITE | 1 | 1% | 3%|
 | RUE D AIRE | 1 | 1% | 3%|
+| **Total** | 33 | 38% | 100%|

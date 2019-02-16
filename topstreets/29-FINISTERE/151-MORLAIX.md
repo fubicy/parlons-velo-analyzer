@@ -1,6 +1,8 @@
 # Résultat pour 151-MORLAIX
 
-Sur 70 réponses dont 30 avec une rue cité (taux réussite 42%)
+Sur l'ensemble de la ville il y a eu 70 réponses dont 30 réponses avec une rue citée (42%)
+
+22 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,16 @@ Sur 70 réponses dont 30 avec une rue cité (taux réussite 42%)
 | PLACE DU POULIET | 1 | 1% | 3%|
 | RUE CARNOT | 1 | 1% | 3%|
 | AERODROME | 1 | 1% | 3%|
+| RUE DES CHAMPS | 1 | 1% | 3%|
+| PLACE SAINT MARTIN | 1 | 1% | 3%|
+| ROUTE DE LANNION | 1 | 1% | 3%|
+| ROUTE DE PARIS | 1 | 1% | 3%|
+| REST | 1 | 1% | 3%|
+| RUE VILLENEUVE | 1 | 1% | 3%|
+| PLACE CHARLES DE GAULLE | 1 | 1% | 3%|
+| QUAI DE LEON | 1 | 1% | 3%|
+| PLACE DES OTAGES | 1 | 1% | 3%|
+| QUAI DE TREGUIER | 1 | 1% | 3%|
+| PLOUJEAN | 1 | 1% | 3%|
+| RIVIERE DE MORLAIX | 1 | 1% | 3%|
+| **Total** | 30 | 42% | 100%|

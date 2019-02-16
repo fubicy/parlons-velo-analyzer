@@ -1,6 +1,8 @@
 # Résultat pour 207-SAINT CHAMOND
 
-Sur 38 réponses dont 15 avec une rue cité (taux réussite 39%)
+Sur l'ensemble de la ville il y a eu 38 réponses dont 15 réponses avec une rue citée (39%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 38 réponses dont 15 avec une rue cité (taux réussite 39%)
 | RUE DE SAINT ETIENNE | 1 | 2% | 6%|
 | LE CREUX | 1 | 2% | 6%|
 | IZIEUX | 1 | 2% | 6%|
+| **Total** | 15 | 39% | 100%|

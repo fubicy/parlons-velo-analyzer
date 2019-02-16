@@ -1,6 +1,8 @@
 # Résultat pour 055-PANTIN
 
-Sur 73 réponses dont 68 avec une rue cité (taux réussite 93%)
+Sur l'ensemble de la ville il y a eu 73 réponses dont 68 réponses avec une rue citée (93%)
+
+17 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,11 @@ Sur 73 réponses dont 68 avec une rue cité (taux réussite 93%)
 | RUE GABRIELLE JOSSERAND | 2 | 2% | 2%|
 | AVENUE DE LA DIVISION LECLERC | 1 | 1% | 1%|
 | RUE CARTIER BRESSON | 1 | 1% | 1%|
+| RUE DES GRILLES | 1 | 1% | 1%|
+| RUE JEAN NICOT | 1 | 1% | 1%|
+| RUE DELIZY | 1 | 1% | 1%|
+| AVENUE ANATOLE FRANCE | 1 | 1% | 1%|
+| RUE DU PRE SAINT GERVAIS | 1 | 1% | 1%|
+| RUE DU DEBARCADERE | 1 | 1% | 1%|
+| RUE HOCHE | 1 | 1% | 1%|
+| **Total** | 68 | 93% | 100%|

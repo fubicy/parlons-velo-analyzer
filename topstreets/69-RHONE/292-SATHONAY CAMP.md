@@ -1,6 +1,8 @@
 # Résultat pour 292-SATHONAY CAMP
 
-Sur 6 réponses dont 6 avec une rue cité (taux réussite 100%)
+Sur l'ensemble de la ville il y a eu 6 réponses dont 6 réponses avec une rue citée (100%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 6 réponses dont 6 avec une rue cité (taux réussite 100%)
 | BOULEVARD DES OISEAUX | 1 | 16% | 16%|
 | ALLEE DES SAPINS | 1 | 16% | 16%|
 | MONTEE DU CAMP | 1 | 16% | 16%|
+| **Total** | 6 | 100% | 100%|

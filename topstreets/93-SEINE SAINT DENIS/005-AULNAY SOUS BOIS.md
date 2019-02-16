@@ -1,6 +1,8 @@
 # Résultat pour 005-AULNAY SOUS BOIS
 
-Sur 58 réponses dont 17 avec une rue cité (taux réussite 29%)
+Sur l'ensemble de la ville il y a eu 58 réponses dont 17 réponses avec une rue citée (29%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 58 réponses dont 17 avec une rue cité (taux réussite 29%)
 | RUE DE MITRY | 1 | 1% | 5%|
 | GARE AULNAY SOUS BOIS | 1 | 1% | 5%|
 | ROUTE DE BONDY | 1 | 1% | 5%|
+| CANAL DE L'OURCQ | 1 | 1% | 5%|
+| **Total** | 17 | 29% | 100%|

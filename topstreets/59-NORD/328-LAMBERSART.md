@@ -1,6 +1,8 @@
 # Résultat pour 328-LAMBERSART
 
-Sur 43 réponses dont 46 avec une rue cité (taux réussite 106%)
+Sur l'ensemble de la ville il y a eu 43 réponses dont 46 réponses avec une rue citée (106%)
+
+13 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,7 @@ Sur 43 réponses dont 46 avec une rue cité (taux réussite 106%)
 | RUE AUGUSTE BONTE | 2 | 4% | 4%|
 | RUE DE LILLE | 1 | 2% | 2%|
 | AVENUE SAINTE CECILE | 1 | 2% | 2%|
+| AVENUE DU COLYSEE | 1 | 2% | 2%|
+| RUE ROBERT SCHUMANN | 1 | 2% | 2%|
+| RUE DU BOIS | 1 | 2% | 2%|
+| **Total** | 46 | 106% | 100%|

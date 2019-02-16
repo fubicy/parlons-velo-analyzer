@@ -1,6 +1,8 @@
 # Résultat pour 057-CASTELNAU LE LEZ
 
-Sur 54 réponses dont 36 avec une rue cité (taux réussite 66%)
+Sur l'ensemble de la ville il y a eu 54 réponses dont 36 réponses avec une rue citée (66%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 54 réponses dont 36 avec une rue cité (taux réussite 66%)
 | AVENUE DU JEU DE MAIL | 1 | 1% | 2%|
 | LA GALINE | 1 | 1% | 2%|
 | RUE DES PERRIERES | 1 | 1% | 2%|
+| AVENUE ANDRE AMPERE | 1 | 1% | 2%|
+| **Total** | 36 | 66% | 100%|

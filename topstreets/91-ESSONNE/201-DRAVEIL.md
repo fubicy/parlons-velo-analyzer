@@ -1,6 +1,8 @@
 # Résultat pour 201-DRAVEIL
 
-Sur 73 réponses dont 20 avec une rue cité (taux réussite 27%)
+Sur l'ensemble de la ville il y a eu 73 réponses dont 20 réponses avec une rue citée (27%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 73 réponses dont 20 avec une rue cité (taux réussite 27%)
 | RUE ALPHONSE DAUDET | 1 | 1% | 5%|
 | AVENUE EUGENE DELACROIX | 1 | 1% | 5%|
 | RUE PIERRE BROSSOLETTE | 1 | 1% | 5%|
+| **Total** | 20 | 27% | 100%|

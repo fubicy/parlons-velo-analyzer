@@ -1,6 +1,8 @@
 # Résultat pour 297-SAINT LOUIS
 
-Sur 26 réponses dont 23 avec une rue cité (taux réussite 88%)
+Sur l'ensemble de la ville il y a eu 26 réponses dont 23 réponses avec une rue citée (88%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 26 réponses dont 23 avec une rue cité (taux réussite 88%)
 | RUE DES ACACIAS | 1 | 3% | 4%|
 | NEUWEG | 1 | 3% | 4%|
 | RESIDENCE CROISEE  DES  LYS | 1 | 3% | 4%|
+| RUE DU BALLON | 1 | 3% | 4%|
+| BOULEVARD DE L'EUROPE | 1 | 3% | 4%|
+| AVENUE DE LA MARNE | 1 | 3% | 4%|
+| RUE DU SOLEIL | 1 | 3% | 4%|
+| **Total** | 23 | 88% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 080-VINCENNES
 
-Sur 102 réponses dont 87 avec une rue cité (taux réussite 85%)
+Sur l'ensemble de la ville il y a eu 102 réponses dont 87 réponses avec une rue citée (85%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 102 réponses dont 87 avec une rue cité (taux réussite 85%)
 | AVENUE DE LA REPUBLIQUE | 2 | 1% | 2%|
 | RUE DE L INDUSTRIE | 1 | 0% | 1%|
 | RUE DES LAITIERES | 1 | 0% | 1%|
+| RUE DES SABOTIERS | 1 | 0% | 1%|
+| COURS MARIGNY | 1 | 0% | 1%|
+| RUE DE STRASBOURG | 1 | 0% | 1%|
+| AVENUE FRANKLIN ROOSEVELT | 1 | 0% | 1%|
+| **Total** | 87 | 85% | 100%|

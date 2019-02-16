@@ -1,6 +1,8 @@
 # Résultat pour 032-BEAUMONT
 
-Sur 31 réponses dont 19 avec une rue cité (taux réussite 61%)
+Sur l'ensemble de la ville il y a eu 31 réponses dont 19 réponses avec une rue citée (61%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 31 réponses dont 19 avec une rue cité (taux réussite 61%)
 | RUE VERCINGETORIX | 1 | 3% | 5%|
 | AVENUE MARECHAL LECLERC | 1 | 3% | 5%|
 | RUE NATIONALE | 1 | 3% | 5%|
+| **Total** | 19 | 61% | 100%|

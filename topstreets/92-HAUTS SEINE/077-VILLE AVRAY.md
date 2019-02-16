@@ -1,6 +1,8 @@
 # Résultat pour 077-VILLE AVRAY
 
-Sur 40 réponses dont 38 avec une rue cité (taux réussite 95%)
+Sur l'ensemble de la ville il y a eu 40 réponses dont 38 réponses avec une rue citée (95%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 40 réponses dont 38 avec une rue cité (taux réussite 95%)
 | RUE COROT | 1 | 2% | 2%|
 | ALLEE LES ETANGS | 1 | 2% | 2%|
 | RUE DE MARNES | 1 | 2% | 2%|
+| **Total** | 38 | 95% | 100%|

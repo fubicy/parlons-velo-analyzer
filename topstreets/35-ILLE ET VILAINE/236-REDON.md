@@ -1,6 +1,8 @@
 # Résultat pour 236-REDON
 
-Sur 70 réponses dont 17 avec une rue cité (taux réussite 24%)
+Sur l'ensemble de la ville il y a eu 70 réponses dont 17 réponses avec une rue citée (24%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 70 réponses dont 17 avec une rue cité (taux réussite 24%)
 | BOULEVARD DE LA LIBERTE | 1 | 1% | 5%|
 | CODILO | 1 | 1% | 5%|
 | BEAUMONT | 1 | 1% | 5%|
+| **Total** | 17 | 24% | 100%|

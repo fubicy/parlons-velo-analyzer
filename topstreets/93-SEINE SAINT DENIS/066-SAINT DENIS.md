@@ -1,6 +1,8 @@
 # Résultat pour 066-SAINT DENIS
 
-Sur 121 réponses dont 46 avec une rue cité (taux réussite 38%)
+Sur l'ensemble de la ville il y a eu 121 réponses dont 46 réponses avec une rue citée (38%)
+
+22 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,16 @@ Sur 121 réponses dont 46 avec une rue cité (taux réussite 38%)
 | RUE PAUL ELUARD | 2 | 1% | 4%|
 | RUE DE LA REPUBLIQUE | 2 | 1% | 4%|
 | GARE LA PLAINE STADE DE FRANCE | 1 | 0% | 2%|
+| BOULEVARD JULES GUESDE | 1 | 0% | 2%|
+| CENTRE PARIS PLEYEL | 1 | 0% | 2%|
+| CITE PAUL ELUARD | 1 | 0% | 2%|
+| BOULEVARD FELIX FAURE | 1 | 0% | 2%|
+| PLACE DU 8 MAI 1945 | 1 | 0% | 2%|
+| CITE JOLIOT CURIE | 1 | 0% | 2%|
+| QUAI DE SEINE | 1 | 0% | 2%|
+| QUAI DE SAINT OUEN | 1 | 0% | 2%|
+| RUE BERNE | 1 | 0% | 2%|
+| RUE BONNEVIDE | 1 | 0% | 2%|
+| RUE DE LA LEGION D HONNEUR | 1 | 0% | 2%|
+| RUE ALBERT EINSTEIN | 1 | 0% | 2%|
+| **Total** | 46 | 38% | 100%|

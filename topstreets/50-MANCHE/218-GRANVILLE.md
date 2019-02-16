@@ -1,6 +1,8 @@
 # Résultat pour 218-GRANVILLE
 
-Sur 41 réponses dont 21 avec une rue cité (taux réussite 51%)
+Sur l'ensemble de la ville il y a eu 41 réponses dont 21 réponses avec une rue citée (51%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 41 réponses dont 21 avec une rue cité (taux réussite 51%)
 | AVENUE ARISTIDE BRIAND | 1 | 2% | 4%|
 | RUE DES LYCEES | 1 | 2% | 4%|
 | LA GARE | 1 | 2% | 4%|
+| ROUTE DE SAINT PAIR | 1 | 2% | 4%|
+| ROUTE DE VILLEDIEU | 1 | 2% | 4%|
+| **Total** | 21 | 51% | 100%|

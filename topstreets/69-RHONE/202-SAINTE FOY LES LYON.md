@@ -1,6 +1,8 @@
 # Résultat pour 202-SAINTE FOY LES LYON
 
-Sur 17 réponses dont 9 avec une rue cité (taux réussite 52%)
+Sur l'ensemble de la ville il y a eu 17 réponses dont 9 réponses avec une rue citée (52%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 17 réponses dont 9 avec une rue cité (taux réussite 52%)
 | BOULEVARD BARON DU MARAIS | 1 | 5% | 11%|
 | RUE DES PROVENCES | 1 | 5% | 11%|
 | CHEMIN DES PRES | 1 | 5% | 11%|
+| **Total** | 9 | 52% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 024-CARHAIX PLOUGUER
 
-Sur 16 réponses dont 7 avec une rue cité (taux réussite 43%)
+Sur l'ensemble de la ville il y a eu 16 réponses dont 7 réponses avec une rue citée (43%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 16 réponses dont 7 avec une rue cité (taux réussite 43%)
 | RUE FELIX FAURE | 1 | 6% | 14%|
 | AVENUE DU GENERAL DE GAULLE | 1 | 6% | 14%|
 | LA GARE | 1 | 6% | 14%|
+| **Total** | 7 | 43% | 100%|

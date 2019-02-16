@@ -1,7 +1,10 @@
 # Résultat pour 091-GIVORS
 
-Sur 17 réponses dont 1 avec une rue cité (taux réussite 5%)
+Sur l'ensemble de la ville il y a eu 17 réponses dont 1 réponses avec une rue citée (5%)
+
+1 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | LE RHONE | 1 | 5% | 100%|
+| **Total** | 1 | 5% | 100%|

@@ -1,9 +1,12 @@
 # Résultat pour 548-MARCK
 
-Sur 2 réponses dont 3 avec une rue cité (taux réussite 150%)
+Sur l'ensemble de la ville il y a eu 2 réponses dont 3 réponses avec une rue citée (150%)
+
+3 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | AVENUE DE CALAIS | 1 | 50% | 33%|
 | FORT VERT | 1 | 50% | 33%|
 | AVENUE FRANCOIS MITTERRAND | 1 | 50% | 33%|
+| **Total** | 3 | 150% | 100%|

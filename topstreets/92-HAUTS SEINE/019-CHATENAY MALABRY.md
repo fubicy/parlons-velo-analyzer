@@ -1,6 +1,8 @@
 # Résultat pour 019-CHATENAY MALABRY
 
-Sur 53 réponses dont 26 avec une rue cité (taux réussite 49%)
+Sur l'ensemble de la ville il y a eu 53 réponses dont 26 réponses avec une rue citée (49%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 53 réponses dont 26 avec une rue cité (taux réussite 49%)
 | RUE DES VALLEES | 1 | 1% | 3%|
 | RUE DES PRES HAUTS | 1 | 1% | 3%|
 | AVENUE ROGER SALENGRO | 1 | 1% | 3%|
+| **Total** | 26 | 49% | 100%|

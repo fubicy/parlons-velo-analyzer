@@ -1,6 +1,8 @@
 # Résultat pour 044-BALMA
 
-Sur 14 réponses dont 10 avec une rue cité (taux réussite 71%)
+Sur l'ensemble de la ville il y a eu 14 réponses dont 10 réponses avec une rue citée (71%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 14 réponses dont 10 avec une rue cité (taux réussite 71%)
 | AS CAMBIOTS | 1 | 7% | 10%|
 | GRAMONT | 1 | 7% | 10%|
 | AVENUE DES ARENES | 1 | 7% | 10%|
+| **Total** | 10 | 71% | 100%|

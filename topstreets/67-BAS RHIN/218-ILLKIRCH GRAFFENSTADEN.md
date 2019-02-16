@@ -1,6 +1,8 @@
 # Résultat pour 218-ILLKIRCH GRAFFENSTADEN
 
-Sur 76 réponses dont 67 avec une rue cité (taux réussite 88%)
+Sur l'ensemble de la ville il y a eu 76 réponses dont 67 réponses avec une rue citée (88%)
+
+16 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,10 @@ Sur 76 réponses dont 67 avec une rue cité (taux réussite 88%)
 | RUE VINCENT SCOTTO | 2 | 2% | 2%|
 | ROUTE DU FORT UHRICH | 2 | 2% | 2%|
 | RUE DE L INDUSTRIE | 2 | 2% | 2%|
+| ROUTE DE NEUHOF | 1 | 1% | 1%|
+| RUE DE LA POSTE | 1 | 1% | 1%|
+| BOULEVARD SEBASTIEN BRANT | 1 | 1% | 1%|
+| RUE DU CANAL | 1 | 1% | 1%|
+| AUTOROUTE | 1 | 1% | 1%|
+| NIEDERBOURG | 1 | 1% | 1%|
+| **Total** | 67 | 88% | 100%|

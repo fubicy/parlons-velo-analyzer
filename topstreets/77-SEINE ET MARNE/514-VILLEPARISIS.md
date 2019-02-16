@@ -1,6 +1,8 @@
 # Résultat pour 514-VILLEPARISIS
 
-Sur 47 réponses dont 18 avec une rue cité (taux réussite 38%)
+Sur l'ensemble de la ville il y a eu 47 réponses dont 18 réponses avec une rue citée (38%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 47 réponses dont 18 avec une rue cité (taux réussite 38%)
 | AVENUE JEAN MONNET | 1 | 2% | 5%|
 | AVENUE CHARLES GIDE | 1 | 2% | 5%|
 | RUE DE RUZE | 1 | 2% | 5%|
+| **Total** | 18 | 38% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 012-BOULOGNE BILLANCOURT
 
-Sur 148 réponses dont 64 avec une rue cité (taux réussite 43%)
+Sur l'ensemble de la ville il y a eu 148 réponses dont 64 réponses avec une rue citée (43%)
+
+16 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,10 @@ Sur 148 réponses dont 64 avec une rue cité (taux réussite 43%)
 | RUE GALLIENI | 2 | 1% | 3%|
 | AVENUE GAL LECLERC | 2 | 1% | 3%|
 | PONT DE BILLANCOURT | 2 | 1% | 3%|
+| RUE DE BELLEVUE | 1 | 0% | 1%|
+| RUE ESCUDIER | 1 | 0% | 1%|
+| RUE DE PARIS | 1 | 0% | 1%|
+| RUE DE SEVRES | 1 | 0% | 1%|
+| RUE YVES KERMEN | 1 | 0% | 1%|
+| AVENUE FERDINAND BUISSON | 1 | 0% | 1%|
+| **Total** | 64 | 43% | 100%|

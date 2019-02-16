@@ -1,6 +1,8 @@
 # Résultat pour 220-FACHES THUMESNIL
 
-Sur 43 réponses dont 29 avec une rue cité (taux réussite 67%)
+Sur l'ensemble de la ville il y a eu 43 réponses dont 29 réponses avec une rue citée (67%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 43 réponses dont 29 avec une rue cité (taux réussite 67%)
 | RUE HENRI BARBUSSE | 1 | 2% | 3%|
 | THUMESNIL | 1 | 2% | 3%|
 | RUE HENRI DILLIES | 1 | 2% | 3%|
+| RUE DU PONT | 1 | 2% | 3%|
+| RUE DE WATTIGNIES | 1 | 2% | 3%|
+| **Total** | 29 | 67% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 172-CORMONTREUIL
 
-Sur 2 réponses dont 7 avec une rue cité (taux réussite 350%)
+Sur l'ensemble de la ville il y a eu 2 réponses dont 7 réponses avec une rue citée (350%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 2 réponses dont 7 avec une rue cité (taux réussite 350%)
 | RUE ARISTIDE BRIAND | 1 | 50% | 14%|
 | RUE CHANZY | 1 | 50% | 14%|
 | RUE DU DOCTEUR ROUX | 1 | 50% | 14%|
+| **Total** | 7 | 350% | 100%|

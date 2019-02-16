@@ -1,6 +1,8 @@
 # Résultat pour 366-LISIEUX
 
-Sur 10 réponses dont 5 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 10 réponses dont 5 réponses avec une rue citée (50%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 10 réponses dont 5 avec une rue cité (taux réussite 50%)
 | ROUTE D ORBEC | 1 | 10% | 20%|
 | RUE ROSE HAREL | 1 | 10% | 20%|
 | BOULEVARD CARNOT | 1 | 10% | 20%|
+| **Total** | 5 | 50% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 281-ROMANS SUR ISERE
 
-Sur 131 réponses dont 38 avec une rue cité (taux réussite 29%)
+Sur l'ensemble de la ville il y a eu 131 réponses dont 38 réponses avec une rue citée (29%)
+
+15 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,9 @@ Sur 131 réponses dont 38 avec une rue cité (taux réussite 29%)
 | IMPASSE JEAN MOULIN | 1 | 0% | 2%|
 | CHEMIN DES MEANNES | 1 | 0% | 2%|
 | RUE SAINT NICOLAS | 1 | 0% | 2%|
+| BOULEVARD VOLTAIRE | 1 | 0% | 2%|
+| ZONE INDUSTRIELLE | 1 | 0% | 2%|
+| COTE DES CHAPELIERS | 1 | 0% | 2%|
+| BOULEVARD MARX DORMOY | 1 | 0% | 2%|
+| COURS PIERRE DIDIER | 1 | 0% | 2%|
+| **Total** | 38 | 29% | 100%|

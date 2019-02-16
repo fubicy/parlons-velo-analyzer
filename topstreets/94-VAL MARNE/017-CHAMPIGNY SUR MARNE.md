@@ -1,6 +1,8 @@
 # Résultat pour 017-CHAMPIGNY SUR MARNE
 
-Sur 34 réponses dont 16 avec une rue cité (taux réussite 47%)
+Sur l'ensemble de la ville il y a eu 34 réponses dont 16 réponses avec une rue citée (47%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 34 réponses dont 16 avec une rue cité (taux réussite 47%)
 | PONT DE NOGENT | 1 | 2% | 6%|
 | RUE CHARLES FLOQUET | 1 | 2% | 6%|
 | AVENUE MARX DORMOY | 1 | 2% | 6%|
+| **Total** | 16 | 47% | 100%|

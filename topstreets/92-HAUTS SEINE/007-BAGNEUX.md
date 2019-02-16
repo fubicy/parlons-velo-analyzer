@@ -1,6 +1,8 @@
 # Résultat pour 007-BAGNEUX
 
-Sur 30 réponses dont 15 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 30 réponses dont 15 réponses avec une rue citée (50%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 30 réponses dont 15 avec une rue cité (taux réussite 50%)
 | AVENUE HENRI BARBUSSE | 1 | 3% | 6%|
 | RUE DES MEUNIERS | 1 | 3% | 6%|
 | AVENUE MARX DORMOY | 1 | 3% | 6%|
+| **Total** | 15 | 50% | 100%|

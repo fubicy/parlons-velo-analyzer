@@ -1,6 +1,8 @@
 # Résultat pour 071-SUCY EN BRIE
 
-Sur 17 réponses dont 9 avec une rue cité (taux réussite 52%)
+Sur l'ensemble de la ville il y a eu 17 réponses dont 9 réponses avec une rue citée (52%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 17 réponses dont 9 avec une rue cité (taux réussite 52%)
 | RUE DU PROGRES | 1 | 5% | 11%|
 | RUE DU TILLEUL | 1 | 5% | 11%|
 | RUE DE PARIS | 1 | 5% | 11%|
+| **Total** | 9 | 52% | 100%|

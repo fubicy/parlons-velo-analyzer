@@ -1,6 +1,8 @@
 # Résultat pour 327-HEROUVILLE SAINT CLAIR
 
-Sur 24 réponses dont 9 avec une rue cité (taux réussite 37%)
+Sur l'ensemble de la ville il y a eu 24 réponses dont 9 réponses avec une rue citée (37%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 24 réponses dont 9 avec une rue cité (taux réussite 37%)
 | AVENUE DU PARC SAINT ANDRE | 1 | 4% | 11%|
 | BOULEVARD DES BELLES PORTES | 1 | 4% | 11%|
 | BOULEVARD DE LA PAIX | 1 | 4% | 11%|
+| **Total** | 9 | 37% | 100%|

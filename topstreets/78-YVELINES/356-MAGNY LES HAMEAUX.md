@@ -1,6 +1,8 @@
 # Résultat pour 356-MAGNY LES HAMEAUX
 
-Sur 27 réponses dont 9 avec une rue cité (taux réussite 33%)
+Sur l'ensemble de la ville il y a eu 27 réponses dont 9 réponses avec une rue citée (33%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 27 réponses dont 9 avec une rue cité (taux réussite 33%)
 | LE BOURG | 1 | 3% | 11%|
 | RUE JOSEPH LEMARCHAND | 1 | 3% | 11%|
 | BUISSON | 1 | 3% | 11%|
+| **Total** | 9 | 33% | 100%|

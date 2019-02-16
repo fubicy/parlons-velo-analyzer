@@ -1,6 +1,8 @@
 # Résultat pour 126-SEYNE SUR MER
 
-Sur 37 réponses dont 21 avec une rue cité (taux réussite 56%)
+Sur l'ensemble de la ville il y a eu 37 réponses dont 21 réponses avec une rue citée (56%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 37 réponses dont 21 avec une rue cité (taux réussite 56%)
 | BOULEVARD JEAN JAURES | 1 | 2% | 4%|
 | LES SABLETTES | 1 | 2% | 4%|
 | AVENUE YOURI GAGARINE | 1 | 2% | 4%|
+| **Total** | 21 | 56% | 100%|

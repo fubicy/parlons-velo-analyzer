@@ -1,6 +1,8 @@
 # Résultat pour 122-COMBS VILLE
 
-Sur 10 réponses dont 9 avec une rue cité (taux réussite 90%)
+Sur l'ensemble de la ville il y a eu 10 réponses dont 9 réponses avec une rue citée (90%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 10 réponses dont 9 avec une rue cité (taux réussite 90%)
 | LA MARRACHE | 1 | 10% | 11%|
 | RUE SOMMEVILLE | 1 | 10% | 11%|
 | RUE DE VARENNES | 1 | 10% | 11%|
+| **Total** | 9 | 90% | 100%|

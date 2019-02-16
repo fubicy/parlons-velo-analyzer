@@ -1,6 +1,8 @@
 # Résultat pour 147-FLEURY LES AUBRAIS
 
-Sur 20 réponses dont 12 avec une rue cité (taux réussite 60%)
+Sur l'ensemble de la ville il y a eu 20 réponses dont 12 réponses avec une rue citée (60%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 20 réponses dont 12 avec une rue cité (taux réussite 60%)
 | LA BARRIERE | 1 | 5% | 8%|
 | LES AUBRAIS | 1 | 5% | 8%|
 | AVENUE D ORADOUR SUR GLANE | 1 | 5% | 8%|
+| **Total** | 12 | 60% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 526-ST AMAND LES EAUX
 
-Sur 3 réponses dont 5 avec une rue cité (taux réussite 166%)
+Sur l'ensemble de la ville il y a eu 3 réponses dont 5 réponses avec une rue citée (166%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 3 réponses dont 5 avec une rue cité (taux réussite 166%)
 | RUE DE VALENCIENNES | 1 | 33% | 20%|
 | LA SCARPE | 1 | 33% | 20%|
 | RUE HENRI DURRE | 1 | 33% | 20%|
+| **Total** | 5 | 166% | 100%|

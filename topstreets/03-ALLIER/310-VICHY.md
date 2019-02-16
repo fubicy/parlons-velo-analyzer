@@ -1,6 +1,8 @@
 # Résultat pour 310-VICHY
 
-Sur 87 réponses dont 22 avec une rue cité (taux réussite 25%)
+Sur l'ensemble de la ville il y a eu 87 réponses dont 22 réponses avec une rue citée (25%)
+
+15 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,9 @@ Sur 87 réponses dont 22 avec une rue cité (taux réussite 25%)
 | PLACE DE LA GARE | 1 | 1% | 4%|
 | MARCHE COUVERT | 1 | 1% | 4%|
 | AVENUE DE GRAMONT | 1 | 1% | 4%|
+| BOULEVARD GAMBETTA | 1 | 1% | 4%|
+| QUAI D ALLIER | 1 | 1% | 4%|
+| ALLEE DES AILES | 1 | 1% | 4%|
+| BEAUSEJOUR | 1 | 1% | 4%|
+| PARC DES CELESTINS | 1 | 1% | 4%|
+| **Total** | 22 | 25% | 100%|

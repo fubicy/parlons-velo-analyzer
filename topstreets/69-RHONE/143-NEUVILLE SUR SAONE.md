@@ -1,6 +1,8 @@
 # Résultat pour 143-NEUVILLE SUR SAONE
 
-Sur 7 réponses dont 6 avec une rue cité (taux réussite 85%)
+Sur l'ensemble de la ville il y a eu 7 réponses dont 6 réponses avec une rue citée (85%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 7 réponses dont 6 avec une rue cité (taux réussite 85%)
 | ROUTE DE LYON | 1 | 14% | 16%|
 | RUE REY LORAS | 1 | 14% | 16%|
 | LE STADE | 1 | 14% | 16%|
+| **Total** | 6 | 85% | 100%|

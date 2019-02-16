@@ -1,6 +1,8 @@
 # Résultat pour 150-DOMENE
 
-Sur 17 réponses dont 13 avec une rue cité (taux réussite 76%)
+Sur l'ensemble de la ville il y a eu 17 réponses dont 13 réponses avec une rue citée (76%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 17 réponses dont 13 avec une rue cité (taux réussite 76%)
 | RUE HENRI COEUR | 1 | 5% | 7%|
 | RUE JULES FERRY | 1 | 5% | 7%|
 | RUE EMILE BLANC | 1 | 5% | 7%|
+| **Total** | 13 | 76% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 451-MONT SAINT AIGNAN
 
-Sur 23 réponses dont 15 avec une rue cité (taux réussite 65%)
+Sur l'ensemble de la ville il y a eu 23 réponses dont 15 réponses avec une rue citée (65%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 23 réponses dont 15 avec une rue cité (taux réussite 65%)
 | RUE DU BEL EVENT | 1 | 4% | 6%|
 | ROUTE D HOUPPEVILLE | 1 | 4% | 6%|
 | SAINT GERVAIS | 1 | 4% | 6%|
+| **Total** | 15 | 65% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 066-CHATELLERAULT
 
-Sur 42 réponses dont 13 avec une rue cité (taux réussite 30%)
+Sur l'ensemble de la ville il y a eu 42 réponses dont 13 réponses avec une rue citée (30%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 42 réponses dont 13 avec une rue cité (taux réussite 30%)
 | GRAND RUE DE CHATEAUNEUF | 1 | 2% | 7%|
 | BOULEVARD BLOSSAC | 1 | 2% | 7%|
 | LE PARC | 1 | 2% | 7%|
+| **Total** | 13 | 30% | 100%|

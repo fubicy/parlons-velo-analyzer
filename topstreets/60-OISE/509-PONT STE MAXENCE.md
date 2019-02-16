@@ -1,6 +1,8 @@
 # Résultat pour 509-PONT STE MAXENCE
 
-Sur 18 réponses dont 9 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 18 réponses dont 9 réponses avec une rue citée (50%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 18 réponses dont 9 avec une rue cité (taux réussite 50%)
 | AVENUE JEAN JAURES | 1 | 5% | 11%|
 | CAVILLE | 1 | 5% | 11%|
 | RUE DU CHANCELIER GUERIN | 1 | 5% | 11%|
+| **Total** | 9 | 50% | 100%|

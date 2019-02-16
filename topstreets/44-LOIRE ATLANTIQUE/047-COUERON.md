@@ -1,6 +1,8 @@
 # Résultat pour 047-COUERON
 
-Sur 41 réponses dont 41 avec une rue cité (taux réussite 100%)
+Sur l'ensemble de la ville il y a eu 41 réponses dont 41 réponses avec une rue citée (100%)
+
+21 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,15 @@ Sur 41 réponses dont 41 avec une rue cité (taux réussite 100%)
 | LA BAZILLIERE | 1 | 2% | 2%|
 | RUE DU STADE | 1 | 2% | 2%|
 | RUE JEAN JAURES | 1 | 2% | 2%|
+| LE BOURG | 1 | 2% | 2%|
+| LA POMMERAYE | 1 | 2% | 2%|
+| RUE DU TERTRE BUCHELIER | 1 | 2% | 2%|
+| IMPASSE HENRI GAUTIER | 1 | 2% | 2%|
+| LE PORT LAUNAY | 1 | 2% | 2%|
+| RUE MARCEL DE LA PROVOTE | 1 | 2% | 2%|
+| PLACE ARISTIDE BRIAND | 1 | 2% | 2%|
+| RESIDENCE ARC EN CIEL | 1 | 2% | 2%|
+| BEAULIEU | 1 | 2% | 2%|
+| BOULEVARD DE L EUROPE | 1 | 2% | 2%|
+| ROUTE DES SABLES | 1 | 2% | 2%|
+| **Total** | 41 | 100% | 100%|

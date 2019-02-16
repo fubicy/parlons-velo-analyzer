@@ -1,6 +1,8 @@
 # Résultat pour 612-SENLIS
 
-Sur 44 réponses dont 19 avec une rue cité (taux réussite 43%)
+Sur l'ensemble de la ville il y a eu 44 réponses dont 19 réponses avec une rue citée (43%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 44 réponses dont 19 avec une rue cité (taux réussite 43%)
 | PLACE DES ARENES | 1 | 2% | 5%|
 | RUE DE LA CONTRESCARPE | 1 | 2% | 5%|
 | RUE SERAPHINE LOUIS | 1 | 2% | 5%|
+| **Total** | 19 | 43% | 100%|

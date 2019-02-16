@@ -1,6 +1,8 @@
 # Résultat pour 215-MARSEILLE 15EME
 
-Sur 1846 réponses dont 19 avec une rue cité (taux réussite 1%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 19 réponses avec une rue citée (1%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 1846 réponses dont 19 avec une rue cité (taux réussite 1%)
 | AUTOROUTE NORD | 1 | 0% | 5%|
 | IMPASSE SAINT JOSEPH | 1 | 0% | 5%|
 | AVENUE DE LA VISTE | 1 | 0% | 5%|
+| **Total** | 19 | 1% | 100%|

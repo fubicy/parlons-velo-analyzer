@@ -1,6 +1,8 @@
 # Résultat pour 375-LOUVIERS
 
-Sur 34 réponses dont 8 avec une rue cité (taux réussite 23%)
+Sur l'ensemble de la ville il y a eu 34 réponses dont 8 réponses avec une rue citée (23%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 34 réponses dont 8 avec une rue cité (taux réussite 23%)
 | AVENUE DU MARECHAL LECLERC | 1 | 2% | 12%|
 | PLACE DE LA REPUBLIQUE | 1 | 2% | 12%|
 | RUE DES QUATRE MOULINS | 1 | 2% | 12%|
+| **Total** | 8 | 23% | 100%|

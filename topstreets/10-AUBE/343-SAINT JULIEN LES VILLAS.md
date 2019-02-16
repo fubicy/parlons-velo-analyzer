@@ -1,6 +1,8 @@
 # Résultat pour 343-SAINT JULIEN LES VILLAS
 
-Sur 6 réponses dont 7 avec une rue cité (taux réussite 116%)
+Sur l'ensemble de la ville il y a eu 6 réponses dont 7 réponses avec une rue citée (116%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 6 réponses dont 7 avec une rue cité (taux réussite 116%)
 | RUE ARISTIDE BRIAND | 1 | 16% | 14%|
 | RUE LOUIS BLANC | 1 | 16% | 14%|
 | AVENUE MICHEL BAROIN | 1 | 16% | 14%|
+| **Total** | 7 | 116% | 100%|

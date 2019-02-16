@@ -1,6 +1,8 @@
 # Résultat pour 392-MAUBEUGE
 
-Sur 45 réponses dont 19 avec une rue cité (taux réussite 42%)
+Sur l'ensemble de la ville il y a eu 45 réponses dont 19 réponses avec une rue citée (42%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 45 réponses dont 19 avec une rue cité (taux réussite 42%)
 | CHEMIN VERT | 1 | 2% | 5%|
 | LA CROIX | 1 | 2% | 5%|
 | LA SAMBRE | 1 | 2% | 5%|
+| **Total** | 19 | 42% | 100%|

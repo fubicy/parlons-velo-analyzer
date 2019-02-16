@@ -1,6 +1,8 @@
 # Résultat pour 088-BRAX
 
-Sur 111 réponses dont 62 avec une rue cité (taux réussite 55%)
+Sur l'ensemble de la ville il y a eu 111 réponses dont 62 réponses avec une rue citée (55%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 111 réponses dont 62 avec une rue cité (taux réussite 55%)
 | CHEMIN DE LA BENAUZE | 2 | 1% | 3%|
 | FORET DE BOUCONNE | 2 | 1% | 3%|
 | PLACE DU CHATEAU | 1 | 0% | 1%|
+| RUE MARIE MESPLES | 1 | 0% | 1%|
+| ROUTE DE LEGUEVIN | 1 | 0% | 1%|
+| **Total** | 62 | 55% | 100%|

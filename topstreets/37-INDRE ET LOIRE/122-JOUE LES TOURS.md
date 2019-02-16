@@ -1,6 +1,8 @@
 # Résultat pour 122-JOUE LES TOURS
 
-Sur 38 réponses dont 33 avec une rue cité (taux réussite 86%)
+Sur l'ensemble de la ville il y a eu 38 réponses dont 33 réponses avec une rue citée (86%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 38 réponses dont 33 avec une rue cité (taux réussite 86%)
 | LE PONT VOLANT | 1 | 2% | 3%|
 | RUE GAMARD | 1 | 2% | 3%|
 | LA GITONNIERE | 1 | 2% | 3%|
+| LA GARE | 1 | 2% | 3%|
+| RUE DES MARTYRS | 1 | 2% | 3%|
+| **Total** | 33 | 86% | 100%|

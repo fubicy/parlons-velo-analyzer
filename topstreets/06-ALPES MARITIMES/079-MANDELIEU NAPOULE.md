@@ -1,6 +1,8 @@
 # Résultat pour 079-MANDELIEU NAPOULE
 
-Sur 77 réponses dont 27 avec une rue cité (taux réussite 35%)
+Sur l'ensemble de la ville il y a eu 77 réponses dont 27 réponses avec une rue citée (35%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 77 réponses dont 27 avec une rue cité (taux réussite 35%)
 | CAPITOU | 1 | 1% | 3%|
 | BOULEVARD DES ECUREUILS | 1 | 1% | 3%|
 | ROND POINT DES GOLFS | 1 | 1% | 3%|
+| AVENUE MAL JUIN | 1 | 1% | 3%|
+| LA CANARDIERE | 1 | 1% | 3%|
+| RUE DES ECOLES | 1 | 1% | 3%|
+| AERODROME | 1 | 1% | 3%|
+| **Total** | 27 | 35% | 100%|

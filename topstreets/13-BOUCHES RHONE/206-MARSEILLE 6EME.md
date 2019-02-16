@@ -1,6 +1,8 @@
 # Résultat pour 206-MARSEILLE 6EME
 
-Sur 1846 réponses dont 292 avec une rue cité (taux réussite 15%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 292 réponses avec une rue citée (15%)
+
+17 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,11 @@ Sur 1846 réponses dont 292 avec une rue cité (taux réussite 15%)
 | RUE BRETEUIL | 8 | 0% | 2%|
 | PLACE JEAN JAURES | 5 | 0% | 1%|
 | COURS PIERRE PUGET | 3 | 0% | 1%|
+| BOULEVARD NOTRE DAME | 2 | 0% | 0%|
+| RUE D ITALIE | 1 | 0% | 0%|
+| AVENUE JULES CANTINI | 1 | 0% | 0%|
+| RUE FONTANGE | 1 | 0% | 0%|
+| RUE D AUBAGNE | 1 | 0% | 0%|
+| RUE SAINT PIERRE | 1 | 0% | 0%|
+| COURS GOUFFE | 1 | 0% | 0%|
+| **Total** | 292 | 15% | 100%|

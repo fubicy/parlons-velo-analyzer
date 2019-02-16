@@ -1,6 +1,8 @@
 # Résultat pour 150-CORNEBARRIEU
 
-Sur 21 réponses dont 15 avec une rue cité (taux réussite 71%)
+Sur l'ensemble de la ville il y a eu 21 réponses dont 15 réponses avec une rue citée (71%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 21 réponses dont 15 avec une rue cité (taux réussite 71%)
 | RUE CLEMENT ADER | 1 | 4% | 6%|
 | ULIET | 1 | 4% | 6%|
 | LA VILLE | 1 | 4% | 6%|
+| **Total** | 15 | 71% | 100%|

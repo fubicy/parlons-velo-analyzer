@@ -1,6 +1,8 @@
 # Résultat pour 122-FOIX
 
-Sur 68 réponses dont 31 avec une rue cité (taux réussite 45%)
+Sur l'ensemble de la ville il y a eu 68 réponses dont 31 réponses avec une rue citée (45%)
+
+16 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,10 @@ Sur 68 réponses dont 31 avec une rue cité (taux réussite 45%)
 | AVENUE DU GENERAL LECLERC | 2 | 2% | 6%|
 | BOUYCHERES | 2 | 2% | 6%|
 | LE PONT | 1 | 1% | 3%|
+| AVENUE LAKANAL | 1 | 1% | 3%|
+| CADIRAC | 1 | 1% | 3%|
+| ROUTE D ESPAGNE | 1 | 1% | 3%|
+| AVENUE DE BARCELONE | 1 | 1% | 3%|
+| RUE DU PONT | 1 | 1% | 3%|
+| BOULEVARD ALSACE LORRAINE | 1 | 1% | 3%|
+| **Total** | 31 | 45% | 100%|

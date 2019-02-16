@@ -1,6 +1,8 @@
 # Résultat pour 353-TRELAZE
 
-Sur 20 réponses dont 18 avec une rue cité (taux réussite 90%)
+Sur l'ensemble de la ville il y a eu 20 réponses dont 18 réponses avec une rue citée (90%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 20 réponses dont 18 avec une rue cité (taux réussite 90%)
 | RUE DES PERREYEUX | 1 | 5% | 5%|
 | RUE RAYMOND LEFEVRE | 1 | 5% | 5%|
 | VERRIERES | 1 | 5% | 5%|
+| LE BOURG | 1 | 5% | 5%|
+| **Total** | 18 | 90% | 100%|

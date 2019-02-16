@@ -1,6 +1,8 @@
 # Résultat pour 302-CAYENNE
 
-Sur 48 réponses dont 25 avec une rue cité (taux réussite 52%)
+Sur l'ensemble de la ville il y a eu 48 réponses dont 25 réponses avec une rue citée (52%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 48 réponses dont 25 avec une rue cité (taux réussite 52%)
 | ROCADE DE ZEPHIR | 1 | 2% | 4%|
 | ROUTE DE CABASSOU | 1 | 2% | 4%|
 | LA MADELEINE | 1 | 2% | 4%|
+| **Total** | 25 | 52% | 100%|

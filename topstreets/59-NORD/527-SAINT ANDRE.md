@@ -1,6 +1,8 @@
 # Résultat pour 527-SAINT ANDRE
 
-Sur 49 réponses dont 39 avec une rue cité (taux réussite 79%)
+Sur l'ensemble de la ville il y a eu 49 réponses dont 39 réponses avec une rue citée (79%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 49 réponses dont 39 avec une rue cité (taux réussite 79%)
 | RUE ALBERT BAILLY | 1 | 2% | 2%|
 | RUE DE LA GARE | 1 | 2% | 2%|
 | RUE CHANZY | 1 | 2% | 2%|
+| RUE DES ECOLES | 1 | 2% | 2%|
+| **Total** | 39 | 79% | 100%|

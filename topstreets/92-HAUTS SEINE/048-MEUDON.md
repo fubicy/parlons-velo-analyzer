@@ -1,6 +1,8 @@
 # Résultat pour 048-MEUDON
 
-Sur 49 réponses dont 42 avec une rue cité (taux réussite 85%)
+Sur l'ensemble de la ville il y a eu 49 réponses dont 42 réponses avec une rue citée (85%)
+
+17 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,11 @@ Sur 49 réponses dont 42 avec une rue cité (taux réussite 85%)
 | AVENUE DE TRIVAUX | 2 | 4% | 4%|
 | BOIS DE MEUDON | 2 | 4% | 4%|
 | BOULEVARD DES NATIONS UNIES | 1 | 2% | 2%|
+| RUE DES CAPUCINS | 1 | 2% | 2%|
+| OBSERVATOIRE | 1 | 2% | 2%|
+| AVENUE MARCELLIN BERTHELOT | 1 | 2% | 2%|
+| ROUTE ROYALE | 1 | 2% | 2%|
+| RUE CHARLES INFROIT | 1 | 2% | 2%|
+| AVENUE DU MARECHAL JUIN | 1 | 2% | 2%|
+| AVENUE DE VILLACOUBLAY | 1 | 2% | 2%|
+| **Total** | 42 | 85% | 100%|

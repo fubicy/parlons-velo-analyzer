@@ -1,6 +1,8 @@
 # Résultat pour 109-NANTES
 
-Sur 2222 réponses dont 1217 avec une rue cité (taux réussite 54%)
+Sur l'ensemble de la ville il y a eu 2222 réponses dont 1217 réponses avec une rue citée (54%)
+
+250 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,244 @@ Sur 2222 réponses dont 1217 avec une rue cité (taux réussite 54%)
 | QUAI DE VERSAILLES | 28 | 1% | 2%|
 | PONT ANNE DE BRETAGNE | 28 | 1% | 2%|
 | ROND POINT DE RENNES | 26 | 1% | 2%|
+| BOULEVARD DES ANGLAIS | 19 | 0% | 1%|
+| PLACE DU COMMERCE | 18 | 0% | 1%|
+| BOULEVARD VINCENT GACHE | 17 | 0% | 1%|
+| RUE DE COULMIERS | 16 | 0% | 1%|
+| ROUTE DE RENNES | 15 | 0% | 1%|
+| BOULEVARD DES BELGES | 13 | 0% | 1%|
+| BOULEVARD JULES VERNE | 13 | 0% | 1%|
+| ROUTE DE CLISSON | 12 | 0% | 0%|
+| BOULEVARD ERNEST DALBY | 11 | 0% | 0%|
+| RUE DU COUDRAY | 11 | 0% | 0%|
+| LE PETIT PORT | 11 | 0% | 0%|
+| PONT DE PIRMIL | 9 | 0% | 0%|
+| PONT DE LA TORTIERE | 9 | 0% | 0%|
+| RUE DU POITOU | 9 | 0% | 0%|
+| RUE DES MARTYRS | 8 | 0% | 0%|
+| RUE DES HAUTS PAVES | 8 | 0% | 0%|
+| RUE HENRI IV | 8 | 0% | 0%|
+| RUE DE GIGANT | 8 | 0% | 0%|
+| PLACE GRASLIN | 8 | 0% | 0%|
+| AVENUE CARNOT | 7 | 0% | 0%|
+| ILE DE VERSAILLES | 7 | 0% | 0%|
+| RUE DU CALVAIRE | 7 | 0% | 0%|
+| BOULEVARD ROBERT SCHUMAN | 7 | 0% | 0%|
+| BOULEVARD GUSTAVE ROCH | 7 | 0% | 0%|
+| RUE D ALLONVILLE | 7 | 0% | 0%|
+| ROND POINT DE VANNES | 6 | 0% | 0%|
+| BOULEVARD MICHELET | 6 | 0% | 0%|
+| BOULEVARD LEON BUREAU | 6 | 0% | 0%|
+| BOULEVARD PASTEUR | 6 | 0% | 0%|
+| PLACE VIARME | 6 | 0% | 0%|
+| ROUTE DE VERTOU | 5 | 0% | 0%|
+| DOULON | 5 | 0% | 0%|
+| COURS OLIVIER DE CLISSON | 5 | 0% | 0%|
+| RUE TALENSAC | 5 | 0% | 0%|
+| PLACE DE BRETAGNE | 5 | 0% | 0%|
+| ROND POINT DE PARIS | 5 | 0% | 0%|
+| BOULEVARD VICTOR HUGO | 5 | 0% | 0%|
+| BEL AIR | 5 | 0% | 0%|
+| LA RIVIERE | 5 | 0% | 0%|
+| BOULEVARD AMIRAL COURBET | 4 | 0% | 0%|
+| RUE FRERE LOUIS | 4 | 0% | 0%|
+| PLACE DE LA REPUBLIQUE | 4 | 0% | 0%|
+| BOULEVARD JEAN XXIII | 4 | 0% | 0%|
+| RUE RACINE | 4 | 0% | 0%|
+| ROUTE DE CARQUEFOU | 4 | 0% | 0%|
+| QUAI MONCOUSU | 4 | 0% | 0%|
+| RUE RENE VIVIANI | 4 | 0% | 0%|
+| RUE GASTON MICHEL | 4 | 0% | 0%|
+| PLACE ROYALE | 4 | 0% | 0%|
+| RUE DES DERVALLIERES | 4 | 0% | 0%|
+| PLACE VICTOR MANGIN | 4 | 0% | 0%|
+| MARCHE TALENSAC | 4 | 0% | 0%|
+| PLACE SAINT FELIX | 4 | 0% | 0%|
+| PLACE AIME DELRUE | 4 | 0% | 0%|
+| QUAI MAGELLAN | 4 | 0% | 0%|
+| ROND POINT ABEL DURAND | 4 | 0% | 0%|
+| MORRHONNIERE | 4 | 0% | 0%|
+| L HOPITAL | 3 | 0% | 0%|
+| QUAI ANDRE MORICE | 3 | 0% | 0%|
+| BOULEVARD GABRIEL LAURIOL | 3 | 0% | 0%|
+| RUE PITRE CHEVALIER | 3 | 0% | 0%|
+| RUE FOURE | 3 | 0% | 0%|
+| BOULEVARD DES POILUS | 3 | 0% | 0%|
+| ROUTE DE STE LUCE | 3 | 0% | 0%|
+| RUE DES USINES | 3 | 0% | 0%|
+| QUAI DE TOURVILLE | 3 | 0% | 0%|
+| RUE DU PERRAY | 3 | 0% | 0%|
+| BOULEVARD DU PETIT PORT | 3 | 0% | 0%|
+| RUE LOUIS BLANC | 3 | 0% | 0%|
+| PONT DES TROIS CONTINENTS | 3 | 0% | 0%|
+| ALLEE BRANCAS | 3 | 0% | 0%|
+| CHAUSSEE DE LA MADELEINE | 3 | 0% | 0%|
+| TOUR BRETAGNE | 3 | 0% | 0%|
+| PONT ARISTIDE BRIAND | 3 | 0% | 0%|
+| PLACE DU CIRQUE | 3 | 0% | 0%|
+| RUE DES CHATAIGNIERS | 3 | 0% | 0%|
+| CHEVIRE | 2 | 0% | 0%|
+| RUE HECTOR BERLIOZ | 2 | 0% | 0%|
+| BOULEVARD EUGENE ORIEUX | 2 | 0% | 0%|
+| COURS JOHN KENNEDY | 2 | 0% | 0%|
+| PASSAGE DES ECOLES | 2 | 0% | 0%|
+| BOULEVARD DES AMERICAINS | 2 | 0% | 0%|
+| BOULEVARD DE LONGCHAMP | 2 | 0% | 0%|
+| RUE DES RENARDIERES | 2 | 0% | 0%|
+| RUE LA FAYETTE | 2 | 0% | 0%|
+| RUE DU PONT SAUVETOUT | 2 | 0% | 0%|
+| ROCHE MAURICE | 2 | 0% | 0%|
+| RUE BERTRAND GESLIN | 2 | 0% | 0%|
+| BOULEVARD STALINGRAD | 2 | 0% | 0%|
+| RUE FRANCOISE GIROUD | 2 | 0% | 0%|
+| ILE BEAULIEU | 2 | 0% | 0%|
+| RUE DU CHATEAU | 2 | 0% | 0%|
+| RUE JEANNE D ARC | 2 | 0% | 0%|
+| RUE DES PERRINES | 2 | 0% | 0%|
+| RUE DE LA BASTILLE | 2 | 0% | 0%|
+| MAIL PABLO PICASSO | 2 | 0% | 0%|
+| LA MAISON NEUVE | 2 | 0% | 0%|
+| RUE GAETAN RONDEAU | 2 | 0% | 0%|
+| QUAI PRESIDENT WILSON | 2 | 0% | 0%|
+| BOULEVARD DE SARREBRUCK | 2 | 0% | 0%|
+| COURS FRANKLIN ROOSEVELT | 2 | 0% | 0%|
+| IMPASSE DE L HOTEL DIEU | 2 | 0% | 0%|
+| PLACE DE LA PETITE HOLLANDE | 2 | 0% | 0%|
+| RUE DU CORPS DE GARDE | 2 | 0% | 0%|
+| BOULEVARD GASTON DOUMERGUE | 2 | 0% | 0%|
+| ALLEE BACO | 2 | 0% | 0%|
+| PARC DE PROCE | 2 | 0% | 0%|
+| BOULEVARD DE L EGALITE | 2 | 0% | 0%|
+| RUE DE LA PAPOTIERE | 2 | 0% | 0%|
+| RUE DE LA CARTERIE | 2 | 0% | 0%|
+| BOULEVARD JEAN PHILIPPOT | 2 | 0% | 0%|
+| RUE RECTEUR SCHMITT | 2 | 0% | 0%|
+| RUE JULES VALLES | 2 | 0% | 0%|
+| RUE CHARLES BRUNELLIERE | 2 | 0% | 0%|
+| RUE DU CHER | 2 | 0% | 0%|
+| RUE DU BALLET | 2 | 0% | 0%|
+| BOULEVARD BABIN CHEVAYE | 2 | 0% | 0%|
+| PARC DU GRAND BLOTTEREAU | 2 | 0% | 0%|
+| LE CENS | 2 | 0% | 0%|
+| CHEMIN DE LA JUSTICE | 1 | 0% | 0%|
+| RUE DE BREA | 1 | 0% | 0%|
+| PONT DES AMERICAINS | 1 | 0% | 0%|
+| CHATEAU DES DUCS DE BRETAG | 1 | 0% | 0%|
+| AVENUE JEAN MERMOZ | 1 | 0% | 0%|
+| RUE REINE ASTRID | 1 | 0% | 0%|
+| RUE LEDRU ROLLIN | 1 | 0% | 0%|
+| RUE NICOLAS APPERT | 1 | 0% | 0%|
+| BOULEVARD SALVADOR ALLENDE | 1 | 0% | 0%|
+| BOULEVARD DES NATIONS UNIES | 1 | 0% | 0%|
+| MAIL DES CHANTIERS | 1 | 0% | 0%|
+| RUE FRANKLIN | 1 | 0% | 0%|
+| RUE DU BOIS | 1 | 0% | 0%|
+| RUE PREFET BONNEFOY | 1 | 0% | 0%|
+| LA CHANTRERIE | 1 | 0% | 0%|
+| BOULEVARD JOLIOT CURIE | 1 | 0% | 0%|
+| LA ROCHE | 1 | 0% | 0%|
+| RUE ANATOLE DE MONZIE | 1 | 0% | 0%|
+| RUE DE LA MITRIE | 1 | 0% | 0%|
+| RUE GABRIEL | 1 | 0% | 0%|
+| RUE GABRIEL GOUDY | 1 | 0% | 0%|
+| GACHET | 1 | 0% | 0%|
+| RUE EMILE BOREL | 1 | 0% | 0%|
+| RUE DE L HERONNIERE | 1 | 0% | 0%|
+| RUE LAMARTINE | 1 | 0% | 0%|
+| PARKING GLORIETTE | 1 | 0% | 0%|
+| BOULEVARD AUGUSTE PENEAU | 1 | 0% | 0%|
+| RUE DE LA ROSIERE D ARTOIS | 1 | 0% | 0%|
+| RUE DE SEVIGNE | 1 | 0% | 0%|
+| QUAI ERNEST RENAUD | 1 | 0% | 0%|
+| QUAI DU MARQUIS D AIGUILLON | 1 | 0% | 0%|
+| ALLEE DUGUAY TROUIN | 1 | 0% | 0%|
+| LES DERVALLIERES | 1 | 0% | 0%|
+| RUE BOUCHAUD | 1 | 0% | 0%|
+| RUE DE LA HERELLE | 1 | 0% | 0%|
+| RUE DE BOUILLE | 1 | 0% | 0%|
+| ALLEE JEAN BART | 1 | 0% | 0%|
+| RUE MOLAC | 1 | 0% | 0%|
+| PONT ERIC TABARLY | 1 | 0% | 0%|
+| RUE SULLY | 1 | 0% | 0%|
+| RUE AMPERE | 1 | 0% | 0%|
+| RUE LA MOTTE PICQUET | 1 | 0% | 0%|
+| PLACE RENE BOUHIER | 1 | 0% | 0%|
+| RUE DESAIX | 1 | 0% | 0%|
+| BOULEVARD DE BERLIN | 1 | 0% | 0%|
+| RUE DE LA COMMUNE | 1 | 0% | 0%|
+| RUE DE MISERICORDE | 1 | 0% | 0%|
+| QUAI TURENNE | 1 | 0% | 0%|
+| QUAI HOCHE | 1 | 0% | 0%|
+| BOULEVARD LELASSEUR | 1 | 0% | 0%|
+| PONT WILLY BRANDT | 1 | 0% | 0%|
+| RUE LAMORICIERE | 1 | 0% | 0%|
+| LA BELLE ETOILE | 1 | 0% | 0%|
+| RUE DES OLIVETTES | 1 | 0% | 0%|
+| RUE BASSE PORTE | 1 | 0% | 0%|
+| BOULEVARD BOULAY PATY | 1 | 0% | 0%|
+| RUE LORETTE DE LA REFOULAIS | 1 | 0% | 0%|
+| CHEMIN DU BAS | 1 | 0% | 0%|
+| BOULEVARD DE LA BEAUJOIRE | 1 | 0% | 0%|
+| LA GARDE | 1 | 0% | 0%|
+| PLACE EDOUARD NORMAND | 1 | 0% | 0%|
+| RUE MENOU | 1 | 0% | 0%|
+| GARE DE CHANTENAY | 1 | 0% | 0%|
+| RUE CHARLES MONSELET | 1 | 0% | 0%|
+| RUE LEOPOLD CASSEGRAIN | 1 | 0% | 0%|
+| CHEMIN DE HALAGE | 1 | 0% | 0%|
+| BOULEVARD FRANCOIS BLANCHO | 1 | 0% | 0%|
+| RUE GAL BUAT | 1 | 0% | 0%|
+| QUAI DE MALAKOFF | 1 | 0% | 0%|
+| PLACE ANATOLE FRANCE | 1 | 0% | 0%|
+| RUE HENRI GUICHARD | 1 | 0% | 0%|
+| RUE DE LA MELINIERE | 1 | 0% | 0%|
+| RUE PAUL PAINLEVE | 1 | 0% | 0%|
+| RUE DU CHENE CARTIER | 1 | 0% | 0%|
+| RUE DE BUDAPEST | 1 | 0% | 0%|
+| BOULEVARD MEUSNIER DE QUERLON | 1 | 0% | 0%|
+| RUE FELIX EBOUE | 1 | 0% | 0%|
+| RUE CELESTIN FREINET | 1 | 0% | 0%|
+| PONT DE TBILISSI | 1 | 0% | 0%|
+| RUE DU PROGRES | 1 | 0% | 0%|
+| RUE MONTEIL | 1 | 0% | 0%|
+| RUE DE LA VICTOIRE | 1 | 0% | 0%|
+| LE CELLIER | 1 | 0% | 0%|
+| L ERAUDIERE | 1 | 0% | 0%|
+| RUE JOSEPH CAILLE | 1 | 0% | 0%|
+| RUE DESCARTES | 1 | 0% | 0%|
+| BOULEVARD DE LA LIBERTE | 1 | 0% | 0%|
+| RUE JEAN JAURES | 1 | 0% | 0%|
+| RUE PORTE NEUVE | 1 | 0% | 0%|
+| RUE FELIBIEN | 1 | 0% | 0%|
+| RUE DU MARCHIX | 1 | 0% | 0%|
+| RUE SARRAZIN | 1 | 0% | 0%|
+| RUE VICTOR SCHOELCHER | 1 | 0% | 0%|
+| BOULEVARD DE SEATTLE | 1 | 0% | 0%|
+| BOULEVARD AUGUSTE PAGEOT | 1 | 0% | 0%|
+| PONT ROUSSEAU | 1 | 0% | 0%|
+| PLACE DU 8 MAI 1945 | 1 | 0% | 0%|
+| RUE MERCOEUR | 1 | 0% | 0%|
+| RUE DE LA FOSSE | 1 | 0% | 0%|
+| RUE SCRIBE | 1 | 0% | 0%|
+| QUAI SAINT LOUIS | 1 | 0% | 0%|
+| RUE DU CROISSANT | 1 | 0% | 0%|
+| RUE RENE GUY CADOU | 1 | 0% | 0%|
+| PLACE DU BOUFFAY | 1 | 0% | 0%|
+| RUE CHANOINE POUPARD | 1 | 0% | 0%|
+| PONT HAUDAUDINE | 1 | 0% | 0%|
+| SAINT JOSEPH DE PORTERIE | 1 | 0% | 0%|
+| PONT GEORGES CLEMENCEAU | 1 | 0% | 0%|
+| RUE MONDESIR | 1 | 0% | 0%|
+| PONT DE JULES CESAR | 1 | 0% | 0%|
+| RUE EMILE GADECEAU | 1 | 0% | 0%|
+| RUE DES FRANCAIS LIBRES | 1 | 0% | 0%|
+| RUE DES COLLINES | 1 | 0% | 0%|
+| RUE TOURNEFORT | 1 | 0% | 0%|
+| PONT GAL AUDIBERT | 1 | 0% | 0%|
+| RUE DE FELTRE | 1 | 0% | 0%|
+| BOULEVARD DU MASSACRE | 1 | 0% | 0%|
+| RUE COQUEBERT DE NEUVILLE | 1 | 0% | 0%|
+| RUE DES PAVILLONS | 1 | 0% | 0%|
+| LA GERAUDIERE | 1 | 0% | 0%|
+| RUE DES RENARDS | 1 | 0% | 0%|
+| **Total** | 1217 | 54% | 100%|

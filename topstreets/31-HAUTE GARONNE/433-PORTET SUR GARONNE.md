@@ -1,6 +1,8 @@
 # Résultat pour 433-PORTET SUR GARONNE
 
-Sur 18 réponses dont 15 avec une rue cité (taux réussite 83%)
+Sur l'ensemble de la ville il y a eu 18 réponses dont 15 réponses avec une rue citée (83%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 18 réponses dont 15 avec une rue cité (taux réussite 83%)
 | LA VILLE | 1 | 5% | 6%|
 | LA GARONNE | 1 | 5% | 6%|
 | AVENUE DE PALARIN | 1 | 5% | 6%|
+| **Total** | 15 | 83% | 100%|

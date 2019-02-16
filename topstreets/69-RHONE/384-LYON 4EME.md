@@ -1,6 +1,8 @@
 # Résultat pour 384-LYON 4EME
 
-Sur 3657 réponses dont 48 avec une rue cité (taux réussite 1%)
+Sur l'ensemble de la ville il y a eu 3657 réponses dont 48 réponses avec une rue citée (1%)
+
+16 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,10 @@ Sur 3657 réponses dont 48 avec une rue cité (taux réussite 1%)
 | RUE BELFORT | 2 | 0% | 4%|
 | BOULEVARD DES CANUTS | 2 | 0% | 4%|
 | PONT MASARYK | 1 | 0% | 2%|
+| PLACE DE LA CROIX ROUSSE | 1 | 0% | 2%|
+| RUE ROUSSY | 1 | 0% | 2%|
+| PLACE TABAREAU | 1 | 0% | 2%|
+| RUE AIME BOUSSANGE | 1 | 0% | 2%|
+| MONTEE BONNAFOUS | 1 | 0% | 2%|
+| RUE JACQUARD | 1 | 0% | 2%|
+| **Total** | 48 | 1% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 166-CHENOVE
 
-Sur 18 réponses dont 13 avec une rue cité (taux réussite 72%)
+Sur l'ensemble de la ville il y a eu 18 réponses dont 13 réponses avec une rue citée (72%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 18 réponses dont 13 avec une rue cité (taux réussite 72%)
 | RUE ROGER SALENGRO | 1 | 5% | 7%|
 | RUE GAY LUSSAC | 1 | 5% | 7%|
 | ROUTE DE BEAUNE | 1 | 5% | 7%|
+| **Total** | 13 | 72% | 100%|

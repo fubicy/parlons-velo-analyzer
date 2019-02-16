@@ -1,6 +1,8 @@
 # Résultat pour 008-AMBILLY
 
-Sur 10 réponses dont 6 avec une rue cité (taux réussite 60%)
+Sur l'ensemble de la ville il y a eu 10 réponses dont 6 réponses avec une rue citée (60%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 10 réponses dont 6 avec une rue cité (taux réussite 60%)
 | RUE DES NEGOCIANTS | 1 | 10% | 16%|
 | RUE DE LA MARTINIERE | 1 | 10% | 16%|
 | RUE RAVIER | 1 | 10% | 16%|
+| **Total** | 6 | 60% | 100%|

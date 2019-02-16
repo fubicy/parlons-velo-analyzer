@@ -1,6 +1,8 @@
 # Résultat pour 111-CLAIX
 
-Sur 15 réponses dont 9 avec une rue cité (taux réussite 60%)
+Sur l'ensemble de la ville il y a eu 15 réponses dont 9 réponses avec une rue citée (60%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 15 réponses dont 9 avec une rue cité (taux réussite 60%)
 | LA CHIEZE | 1 | 6% | 11%|
 | RUE BEYLE STENDHAL | 1 | 6% | 11%|
 | COMBOIRE | 1 | 6% | 11%|
+| **Total** | 9 | 60% | 100%|

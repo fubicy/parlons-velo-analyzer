@@ -1,6 +1,8 @@
 # Résultat pour 180-HAGUENAU
 
-Sur 37 réponses dont 35 avec une rue cité (taux réussite 94%)
+Sur l'ensemble de la ville il y a eu 37 réponses dont 35 réponses avec une rue citée (94%)
+
+23 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,17 @@ Sur 37 réponses dont 35 avec une rue cité (taux réussite 94%)
 | ROUTE DE SOUFFLENHEIM | 2 | 5% | 5%|
 | RUE DE L AQUEDUC | 1 | 2% | 2%|
 | RUE DES PREMONTRES | 1 | 2% | 2%|
+| FIAT | 1 | 2% | 2%|
+| RUE DU CHATEAU | 1 | 2% | 2%|
+| QUAI DES PECHEURS | 1 | 2% | 2%|
+| SENT | 1 | 2% | 2%|
+| BOULEVARD PASTEUR | 1 | 2% | 2%|
+| LERCHENBERG | 1 | 2% | 2%|
+| RUE DU FOULON | 1 | 2% | 2%|
+| CHEMIN DES FRICHES | 1 | 2% | 2%|
+| ROUTE DU RHIN | 1 | 2% | 2%|
+| ROUTE DE WINTERSHOUSE | 1 | 2% | 2%|
+| ROUTE DE BITCHE | 1 | 2% | 2%|
+| ROUTE DE SCHIRRHEIN | 1 | 2% | 2%|
+| PLACE ROBERT SCHUMAN | 1 | 2% | 2%|
+| **Total** | 35 | 94% | 100%|

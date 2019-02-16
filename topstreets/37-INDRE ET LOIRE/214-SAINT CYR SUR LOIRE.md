@@ -1,6 +1,8 @@
 # Résultat pour 214-SAINT CYR SUR LOIRE
 
-Sur 12 réponses dont 11 avec une rue cité (taux réussite 91%)
+Sur l'ensemble de la ville il y a eu 12 réponses dont 11 réponses avec une rue citée (91%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 12 réponses dont 11 avec une rue cité (taux réussite 91%)
 | RUE DES EPINETTES | 1 | 8% | 9%|
 | RUE FLEURIE | 1 | 8% | 9%|
 | AVENUE DE LA REPUBLIQUE | 1 | 8% | 9%|
+| **Total** | 11 | 91% | 100%|

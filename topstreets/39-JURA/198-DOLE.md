@@ -1,6 +1,8 @@
 # Résultat pour 198-DOLE
 
-Sur 69 réponses dont 38 avec une rue cité (taux réussite 55%)
+Sur l'ensemble de la ville il y a eu 69 réponses dont 38 réponses avec une rue citée (55%)
+
+15 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,9 @@ Sur 69 réponses dont 38 avec une rue cité (taux réussite 55%)
 | MONT ROLAND | 2 | 2% | 5%|
 | RUE LEON GUIGNARD | 1 | 1% | 2%|
 | AVENUE DE NORTHWICH | 1 | 1% | 2%|
+| AVENUE DE LAHR | 1 | 1% | 2%|
+| RUE DU VAL D AMOUR | 1 | 1% | 2%|
+| AVENUE LEON JOUHAUX | 1 | 1% | 2%|
+| RUE JULES MACHARD | 1 | 1% | 2%|
+| AVENUE DE LA PAIX | 1 | 1% | 2%|
+| **Total** | 38 | 55% | 100%|

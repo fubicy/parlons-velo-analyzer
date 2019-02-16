@@ -1,6 +1,8 @@
 # Résultat pour 179-GIERES
 
-Sur 38 réponses dont 14 avec une rue cité (taux réussite 36%)
+Sur l'ensemble de la ville il y a eu 38 réponses dont 14 réponses avec une rue citée (36%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 38 réponses dont 14 avec une rue cité (taux réussite 36%)
 | PLACE DE LA REPUBLIQUE | 1 | 2% | 7%|
 | RUE DOCTEUR VALOIS | 1 | 2% | 7%|
 | LA COMBE | 1 | 2% | 7%|
+| **Total** | 14 | 36% | 100%|

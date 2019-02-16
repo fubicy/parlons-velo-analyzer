@@ -1,6 +1,8 @@
 # Résultat pour 018-ARGENTEUIL
 
-Sur 98 réponses dont 45 avec une rue cité (taux réussite 45%)
+Sur l'ensemble de la ville il y a eu 98 réponses dont 45 réponses avec une rue citée (45%)
+
+18 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,12 @@ Sur 98 réponses dont 45 avec une rue cité (taux réussite 45%)
 | BOULEVARD MARCEAU GUILLOT | 2 | 2% | 4%|
 | RUE DEFRESNE BAST | 2 | 2% | 4%|
 | RUE PAUL VAILLANT COUTURIER | 2 | 2% | 4%|
+| ROUTE DE CORMEILLES | 2 | 2% | 4%|
+| SUPER ARGENTEUIL EST | 1 | 1% | 2%|
+| BOULEVARD JEANNE D ARC | 1 | 1% | 2%|
+| GARE D ARGENTEUIL | 1 | 1% | 2%|
+| MARCHE DES COTEAUX | 1 | 1% | 2%|
+| RUE NOTRE DAME | 1 | 1% | 2%|
+| ROND POINT MAZAGRAN | 1 | 1% | 2%|
+| PLACE FRANCOIS RABELAIS | 1 | 1% | 2%|
+| **Total** | 45 | 45% | 100%|

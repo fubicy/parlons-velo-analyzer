@@ -1,6 +1,8 @@
 # Résultat pour 129-SIX FOURS LES PLAGES
 
-Sur 13 réponses dont 4 avec une rue cité (taux réussite 30%)
+Sur l'ensemble de la ville il y a eu 13 réponses dont 4 réponses avec une rue citée (30%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 13 réponses dont 4 avec une rue cité (taux réussite 30%)
 | AVENUE ROBERT GUILLEMARD | 1 | 7% | 25%|
 | VALLON,VALLEE DES PLAYES | 1 | 7% | 25%|
 | AVENUE LAENNEC | 1 | 7% | 25%|
+| **Total** | 4 | 30% | 100%|

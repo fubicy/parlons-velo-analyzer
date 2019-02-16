@@ -1,6 +1,8 @@
 # Résultat pour 315-SOULTZ
 
-Sur 4 réponses dont 4 avec une rue cité (taux réussite 100%)
+Sur l'ensemble de la ville il y a eu 4 réponses dont 4 réponses avec une rue citée (100%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 4 réponses dont 4 avec une rue cité (taux réussite 100%)
 | RUE DU VIEIL ARMAND | 1 | 25% | 25%|
 | RUE JEAN JAURES | 1 | 25% | 25%|
 | RUE DE LA MARNE | 1 | 25% | 25%|
+| **Total** | 4 | 100% | 100%|

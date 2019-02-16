@@ -1,6 +1,8 @@
 # Résultat pour 099-GAILLAC
 
-Sur 6 réponses dont 8 avec une rue cité (taux réussite 133%)
+Sur l'ensemble de la ville il y a eu 6 réponses dont 8 réponses avec une rue citée (133%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 6 réponses dont 8 avec une rue cité (taux réussite 133%)
 | AVENUE DOM VAYSSETTE | 1 | 16% | 12%|
 | AVENUE CHARLES DE GAULLE | 1 | 16% | 12%|
 | RUE JOSEPH RIGAL | 1 | 16% | 12%|
+| **Total** | 8 | 133% | 100%|

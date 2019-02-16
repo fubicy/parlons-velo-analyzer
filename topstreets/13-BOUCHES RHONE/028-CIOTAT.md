@@ -1,6 +1,8 @@
 # Résultat pour 028-CIOTAT
 
-Sur 39 réponses dont 7 avec une rue cité (taux réussite 17%)
+Sur l'ensemble de la ville il y a eu 39 réponses dont 7 réponses avec une rue citée (17%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 39 réponses dont 7 avec une rue cité (taux réussite 17%)
 | IMPASSE SAINTE MARGUERITE | 1 | 2% | 14%|
 | LUMIERE | 1 | 2% | 14%|
 | AVENUE LOUIS CROZET | 1 | 2% | 14%|
+| **Total** | 7 | 17% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 563-VOIRON
 
-Sur 44 réponses dont 17 avec une rue cité (taux réussite 38%)
+Sur l'ensemble de la ville il y a eu 44 réponses dont 17 réponses avec une rue citée (38%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 44 réponses dont 17 avec une rue cité (taux réussite 38%)
 | RUE GRANDE | 1 | 2% | 5%|
 | AVENUE LEON ET JOANNY TARDY | 1 | 2% | 5%|
 | AVENUE RAYMOND TEZIER | 1 | 2% | 5%|
+| RUE DES MARTEAUX | 1 | 2% | 5%|
+| AVENUE DE VERDUN | 1 | 2% | 5%|
+| **Total** | 17 | 38% | 100%|

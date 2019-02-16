@@ -1,6 +1,8 @@
 # Résultat pour 072-CHINON
 
-Sur 45 réponses dont 19 avec une rue cité (taux réussite 42%)
+Sur l'ensemble de la ville il y a eu 45 réponses dont 19 réponses avec une rue citée (42%)
+
+16 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,10 @@ Sur 45 réponses dont 19 avec une rue cité (taux réussite 42%)
 | AVENUE GAMBETTA | 1 | 2% | 5%|
 | QUAI PASTEUR | 1 | 2% | 5%|
 | FAUBOURG SAINT JACQUES | 1 | 2% | 5%|
+| LA VILLE | 1 | 2% | 5%|
+| QUAI JEANNE D ARC | 1 | 2% | 5%|
+| LE CHATEAU | 1 | 2% | 5%|
+| RUE VOLTAIRE | 1 | 2% | 5%|
+| LA ROCHE FAUCON | 1 | 2% | 5%|
+| SAINT LAZARE | 1 | 2% | 5%|
+| **Total** | 19 | 42% | 100%|

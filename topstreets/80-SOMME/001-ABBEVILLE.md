@@ -1,6 +1,8 @@
 # Résultat pour 001-ABBEVILLE
 
-Sur 51 réponses dont 26 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 51 réponses dont 26 réponses avec une rue citée (50%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 51 réponses dont 26 avec une rue cité (taux réussite 50%)
 | COTE DE LA JUSTICE | 1 | 1% | 3%|
 | BOULEVARD VAUBAN | 1 | 1% | 3%|
 | ROUTE DE ROUEN | 1 | 1% | 3%|
+| CHAUSSEE DU BOIS | 1 | 1% | 3%|
+| **Total** | 26 | 50% | 100%|

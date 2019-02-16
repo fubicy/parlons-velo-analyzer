@@ -1,6 +1,8 @@
 # Résultat pour 187-FONSORBES
 
-Sur 44 réponses dont 26 avec une rue cité (taux réussite 59%)
+Sur l'ensemble de la ville il y a eu 44 réponses dont 26 réponses avec une rue citée (59%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 44 réponses dont 26 avec une rue cité (taux réussite 59%)
 | CANTELAUZE | 2 | 4% | 7%|
 | CHEMIN MARIAL | 1 | 2% | 3%|
 | BENECH | 1 | 2% | 3%|
+| **Total** | 26 | 59% | 100%|

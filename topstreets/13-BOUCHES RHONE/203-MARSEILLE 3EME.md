@@ -1,6 +1,8 @@
 # Résultat pour 203-MARSEILLE 3EME
 
-Sur 1846 réponses dont 44 avec une rue cité (taux réussite 2%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 44 réponses avec une rue citée (2%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 1846 réponses dont 44 avec une rue cité (taux réussite 2%)
 | RUE HONNORAT | 1 | 0% | 2%|
 | RUE LEON GOZLAN | 1 | 0% | 2%|
 | AUTOROUTE NORD | 1 | 0% | 2%|
+| **Total** | 44 | 2% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 606-ST AVOLD
 
-Sur 46 réponses dont 18 avec une rue cité (taux réussite 39%)
+Sur l'ensemble de la ville il y a eu 46 réponses dont 18 réponses avec une rue citée (39%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 46 réponses dont 18 avec une rue cité (taux réussite 39%)
 | LA CARRIERE | 1 | 2% | 5%|
 | ROUTE DE JEANNE D ARC | 1 | 2% | 5%|
 | VILLAGE | 1 | 2% | 5%|
+| ROUTE DE PORCELETTE | 1 | 2% | 5%|
+| CHEMIN DES BRASSEURS | 1 | 2% | 5%|
+| **Total** | 18 | 39% | 100%|

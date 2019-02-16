@@ -1,6 +1,8 @@
 # Résultat pour 258-FALAISE
 
-Sur 42 réponses dont 17 avec une rue cité (taux réussite 40%)
+Sur l'ensemble de la ville il y a eu 42 réponses dont 17 réponses avec une rue citée (40%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 42 réponses dont 17 avec une rue cité (taux réussite 40%)
 | ROUTE DE CAEN | 1 | 2% | 5%|
 | AVENUE D HASTINGS | 1 | 2% | 5%|
 | ROUTE DE PUTANGES | 1 | 2% | 5%|
+| **Total** | 17 | 40% | 100%|

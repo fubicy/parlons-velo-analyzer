@@ -1,7 +1,10 @@
 # Résultat pour 166-KINGERSHEIM
 
-Sur 1 réponses dont 1 avec une rue cité (taux réussite 100%)
+Sur l'ensemble de la ville il y a eu 1 réponses dont 1 réponses avec une rue citée (100%)
+
+1 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | FAUBOURG DE MULHOUSE | 1 | 100% | 100%|
+| **Total** | 1 | 100% | 100%|

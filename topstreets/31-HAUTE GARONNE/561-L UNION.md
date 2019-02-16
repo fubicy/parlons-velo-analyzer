@@ -1,6 +1,8 @@
 # Résultat pour 561-L UNION
 
-Sur 45 réponses dont 19 avec une rue cité (taux réussite 42%)
+Sur l'ensemble de la ville il y a eu 45 réponses dont 19 réponses avec une rue citée (42%)
+
+13 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,7 @@ Sur 45 réponses dont 19 avec une rue cité (taux réussite 42%)
 | AVENUE DE GAVARNIE | 1 | 2% | 5%|
 | AVENUE MONTCALM | 1 | 2% | 5%|
 | AVENUE DES TOURTERELLES | 1 | 2% | 5%|
+| L EGLISE | 1 | 2% | 5%|
+| AVENUE DE TOULOUSE | 1 | 2% | 5%|
+| SAINT-CAPRAIS SUD | 1 | 2% | 5%|
+| **Total** | 19 | 42% | 100%|

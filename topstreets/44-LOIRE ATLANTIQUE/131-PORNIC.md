@@ -1,6 +1,8 @@
 # Résultat pour 131-PORNIC
 
-Sur 12 réponses dont 7 avec une rue cité (taux réussite 58%)
+Sur l'ensemble de la ville il y a eu 12 réponses dont 7 réponses avec une rue citée (58%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 12 réponses dont 7 avec une rue cité (taux réussite 58%)
 | LA CHAUSSEE | 1 | 8% | 14%|
 | BOULEVARD DE LINZ | 1 | 8% | 14%|
 | RUE SAINT GILLES | 1 | 8% | 14%|
+| **Total** | 7 | 58% | 100%|

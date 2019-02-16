@@ -1,6 +1,8 @@
 # Résultat pour 169-ESCALQUENS
 
-Sur 68 réponses dont 41 avec une rue cité (taux réussite 60%)
+Sur l'ensemble de la ville il y a eu 68 réponses dont 41 réponses avec une rue citée (60%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 68 réponses dont 41 avec une rue cité (taux réussite 60%)
 | AVENUE DE LA GARE | 2 | 2% | 4%|
 | BORDE HAUTE | 1 | 1% | 2%|
 | LA COTE | 1 | 1% | 2%|
+| L EGLISE | 1 | 1% | 2%|
+| LA PLACE | 1 | 1% | 2%|
+| **Total** | 41 | 60% | 100%|

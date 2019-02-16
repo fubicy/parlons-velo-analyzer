@@ -1,6 +1,8 @@
 # Résultat pour 003-ARCUEIL
 
-Sur 70 réponses dont 40 avec une rue cité (taux réussite 57%)
+Sur l'ensemble de la ville il y a eu 70 réponses dont 40 réponses avec une rue citée (57%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 70 réponses dont 40 avec une rue cité (taux réussite 57%)
 | RUE DE STALINGRAD | 2 | 2% | 5%|
 | RUE AUGUSTE DELAUNE | 1 | 1% | 2%|
 | ALLEE PAUL DOUMER | 1 | 1% | 2%|
+| RUE LOUIS FREBAULT | 1 | 1% | 2%|
+| RUE ERNEST RENAN | 1 | 1% | 2%|
+| AVENUE JEANNE D ARC | 1 | 1% | 2%|
+| AVENUE DU DOCTEUR DURAND | 1 | 1% | 2%|
+| **Total** | 40 | 57% | 100%|

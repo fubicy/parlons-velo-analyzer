@@ -1,6 +1,8 @@
 # Résultat pour 157-LE PUY EN VELAY
 
-Sur 203 réponses dont 19 avec une rue cité (taux réussite 9%)
+Sur l'ensemble de la ville il y a eu 203 réponses dont 19 réponses avec une rue citée (9%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 203 réponses dont 19 avec une rue cité (taux réussite 9%)
 | BOULEVARD GAMBETTA | 1 | 0% | 5%|
 | BOULEVARD CARNOT | 1 | 0% | 5%|
 | ROUTE DE MONTREDON | 1 | 0% | 5%|
+| AVENUE CLEMENT CHARBONNIER | 1 | 0% | 5%|
+| **Total** | 19 | 9% | 100%|

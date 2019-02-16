@@ -1,6 +1,8 @@
 # Résultat pour 132-FERTE BERNARD
 
-Sur 10 réponses dont 6 avec une rue cité (taux réussite 60%)
+Sur l'ensemble de la ville il y a eu 10 réponses dont 6 réponses avec une rue citée (60%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 10 réponses dont 6 avec une rue cité (taux réussite 60%)
 | AVENUE DU GENERAL DE GAULLE | 1 | 10% | 16%|
 | RUE DENFERT ROCHEREAU | 1 | 10% | 16%|
 | AVENUE DE LA REPUBLIQUE | 1 | 10% | 16%|
+| **Total** | 6 | 60% | 100%|

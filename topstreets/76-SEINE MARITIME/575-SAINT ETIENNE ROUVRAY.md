@@ -1,9 +1,12 @@
 # Résultat pour 575-SAINT ETIENNE ROUVRAY
 
-Sur 9 réponses dont 5 avec une rue cité (taux réussite 55%)
+Sur l'ensemble de la ville il y a eu 9 réponses dont 5 réponses avec une rue citée (55%)
+
+3 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | RUE DE PARIS | 3 | 33% | 60%|
 | RUE DE LA REPUBLIQUE | 1 | 11% | 20%|
 | LA SEINE | 1 | 11% | 20%|
+| **Total** | 5 | 55% | 100%|

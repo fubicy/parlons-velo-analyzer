@@ -1,6 +1,8 @@
 # Résultat pour 014-BOURG REINE
 
-Sur 42 réponses dont 13 avec une rue cité (taux réussite 30%)
+Sur l'ensemble de la ville il y a eu 42 réponses dont 13 réponses avec une rue citée (30%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 42 réponses dont 13 avec une rue cité (taux réussite 30%)
 | RUE PIERRE LOTI | 1 | 2% | 7%|
 | BOULEVARD CARNOT | 1 | 2% | 7%|
 | RUE DE FONTENAY | 1 | 2% | 7%|
+| AVENUE DU PANORAMA | 1 | 2% | 7%|
+| **Total** | 13 | 30% | 100%|

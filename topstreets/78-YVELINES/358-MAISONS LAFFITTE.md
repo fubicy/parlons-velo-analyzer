@@ -1,6 +1,8 @@
 # Résultat pour 358-MAISONS LAFFITTE
 
-Sur 57 réponses dont 45 avec une rue cité (taux réussite 78%)
+Sur l'ensemble de la ville il y a eu 57 réponses dont 45 réponses avec une rue citée (78%)
+
+18 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,12 @@ Sur 57 réponses dont 45 avec une rue cité (taux réussite 78%)
 | RUE DU GROS MURGER | 2 | 3% | 4%|
 | PASSAGE JEAN MERMOZ | 1 | 1% | 2%|
 | RUE DU MESNIL | 1 | 1% | 2%|
+| RUE D ACHERES | 1 | 1% | 2%|
+| RUE DU FOSSE | 1 | 1% | 2%|
+| RUE DE LA PASSERELLE | 1 | 1% | 2%|
+| PLACE WAGRAM | 1 | 1% | 2%|
+| RUE DE LA REPUBLIQUE | 1 | 1% | 2%|
+| LA SEINE | 1 | 1% | 2%|
+| AVENUE ALBINE | 1 | 1% | 2%|
+| RUE DU TIR | 1 | 1% | 2%|
+| **Total** | 45 | 78% | 100%|

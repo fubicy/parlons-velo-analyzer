@@ -1,6 +1,8 @@
 # Résultat pour 194-SABLES OLONNE (LES)
 
-Sur 36 réponses dont 29 avec une rue cité (taux réussite 80%)
+Sur l'ensemble de la ville il y a eu 36 réponses dont 29 réponses avec une rue citée (80%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 36 réponses dont 29 avec une rue cité (taux réussite 80%)
 | MARCHE ARAGO | 1 | 2% | 3%|
 | ROUTE DE LA MER | 1 | 2% | 3%|
 | RUE DE LA GIGATIERE | 1 | 2% | 3%|
+| COURS DUPONT | 1 | 2% | 3%|
+| BOULEVARD DE L ILE VERTIME | 1 | 2% | 3%|
+| RUE NICOT | 1 | 2% | 3%|
+| QUAI GUINE | 1 | 2% | 3%|
+| **Total** | 29 | 80% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 214-MARSEILLE 14EME
 
-Sur 1846 réponses dont 11 avec une rue cité (taux réussite 0%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 11 réponses avec une rue citée (0%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 1846 réponses dont 11 avec une rue cité (taux réussite 0%)
 | BOULEVARD DE PLOMBIERES | 1 | 0% | 9%|
 | AUTOROUTE NORD | 1 | 0% | 9%|
 | CHEMIN SAINTE MARTHE | 1 | 0% | 9%|
+| **Total** | 11 | 0% | 100%|

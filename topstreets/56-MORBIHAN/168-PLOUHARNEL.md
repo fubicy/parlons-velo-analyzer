@@ -1,6 +1,8 @@
 # Résultat pour 168-PLOUHARNEL
 
-Sur 49 réponses dont 14 avec une rue cité (taux réussite 28%)
+Sur l'ensemble de la ville il y a eu 49 réponses dont 14 réponses avec une rue citée (28%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 49 réponses dont 14 avec une rue cité (taux réussite 28%)
 | RUE DU BRAHEN | 1 | 2% | 7%|
 | AVENUE DE L OCEAN | 1 | 2% | 7%|
 | KERFOURCHELLE | 1 | 2% | 7%|
+| **Total** | 14 | 28% | 100%|

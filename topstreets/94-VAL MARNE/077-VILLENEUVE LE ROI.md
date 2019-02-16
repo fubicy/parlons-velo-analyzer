@@ -1,8 +1,11 @@
 # Résultat pour 077-VILLENEUVE LE ROI
 
-Sur 3 réponses dont 3 avec une rue cité (taux réussite 100%)
+Sur l'ensemble de la ville il y a eu 3 réponses dont 3 réponses avec une rue citée (100%)
+
+2 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | AVENUE DE LA REPUBLIQUE | 2 | 66% | 66%|
 | PONT DE VILLENEUVE LE ROI | 1 | 33% | 33%|
+| **Total** | 3 | 100% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 121-LORIENT
 
-Sur 261 réponses dont 121 avec une rue cité (taux réussite 46%)
+Sur l'ensemble de la ville il y a eu 261 réponses dont 121 réponses avec une rue citée (46%)
+
+48 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,42 @@ Sur 261 réponses dont 121 avec une rue cité (taux réussite 46%)
 | AVENUE DU FAOUEDIC | 4 | 1% | 3%|
 | AVENUE RAYMOND QUEUDET | 4 | 1% | 3%|
 | RUE DE VERDUN | 4 | 1% | 3%|
+| PONT DES INDES | 4 | 1% | 3%|
+| COURS DE LA BOVE | 3 | 1% | 2%|
+| RUE MARIE LE FRANC | 3 | 1% | 2%|
+| QUAI DES INDES | 2 | 0% | 1%|
+| RUE GAMBETTA | 2 | 0% | 1%|
+| PLACE JULES FERRY | 2 | 0% | 1%|
+| PLACE DU BOURGNEUF | 2 | 0% | 1%|
+| RUE DE LARMOR | 2 | 0% | 1%|
+| RUE DE L ENCLOS DU PORT | 2 | 0% | 1%|
+| LA PERRIERE | 2 | 0% | 1%|
+| COURS DE CHAZELLES | 2 | 0% | 1%|
+| LA VILLENEUVE | 1 | 0% | 0%|
+| RUE MANCEL | 1 | 0% | 0%|
+| RUE LAZARE CARNOT | 1 | 0% | 0%|
+| BOULEVARD LEON BLUM | 1 | 0% | 0%|
+| RUE HENRI DUNANT | 1 | 0% | 0%|
+| KERFICHANT | 1 | 0% | 0%|
+| RUE AUGUSTE NAYEL | 1 | 0% | 0%|
+| RUE DE KERFORN | 1 | 0% | 0%|
+| BOULEVARD FRANCHET D ESPEREY | 1 | 0% | 0%|
+| BOULEVARD D ORADOUR SUR GLANE | 1 | 0% | 0%|
+| KERENTRECH | 1 | 0% | 0%|
+| RUE POISSONNIERE | 1 | 0% | 0%|
+| ROND POINT DE LA BASE SOUS MARINE | 1 | 0% | 0%|
+| RUE DE LA MARINE | 1 | 0% | 0%|
+| PLACE ALSACE LORRAINE | 1 | 0% | 0%|
+| RUE DU COUEDIC | 1 | 0% | 0%|
+| RUE PROFESSEUR PERRIN | 1 | 0% | 0%|
+| BOULEVARD DE NORMANDIE | 1 | 0% | 0%|
+| RUE DE CALVIN | 1 | 0% | 0%|
+| QUAI DE ROHAN | 1 | 0% | 0%|
+| RUE DE KERJULAUDE | 1 | 0% | 0%|
+| RUE VICTOR MASSE | 1 | 0% | 0%|
+| ROND POINT DE KERYADO | 1 | 0% | 0%|
+| RUE MONISTROL | 1 | 0% | 0%|
+| BOULEVARD YVES DEMAINE | 1 | 0% | 0%|
+| RUE JEAN ZAY | 1 | 0% | 0%|
+| PLACE ARISTIDE BRIAND | 1 | 0% | 0%|
+| **Total** | 121 | 46% | 100%|

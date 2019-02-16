@@ -1,7 +1,10 @@
 # Résultat pour 196-MORDELLES
 
-Sur 4 réponses dont 1 avec une rue cité (taux réussite 25%)
+Sur l'ensemble de la ville il y a eu 4 réponses dont 1 réponses avec une rue citée (25%)
+
+1 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | PLACE DE L EGLISE | 1 | 25% | 100%|
+| **Total** | 1 | 25% | 100%|

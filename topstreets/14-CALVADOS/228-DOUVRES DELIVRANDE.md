@@ -1,6 +1,8 @@
 # Résultat pour 228-DOUVRES DELIVRANDE
 
-Sur 1 réponses dont 4 avec une rue cité (taux réussite 400%)
+Sur l'ensemble de la ville il y a eu 1 réponses dont 4 réponses avec une rue citée (400%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 1 réponses dont 4 avec une rue cité (taux réussite 400%)
 | CHEMIN DU HUTREL | 1 | 100% | 25%|
 | RUE DE L EGLISE | 1 | 100% | 25%|
 | RUE DE LA FONTAINE | 1 | 100% | 25%|
+| **Total** | 4 | 400% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 203-FROUZINS
 
-Sur 30 réponses dont 16 avec une rue cité (taux réussite 53%)
+Sur l'ensemble de la ville il y a eu 30 réponses dont 16 réponses avec une rue citée (53%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 30 réponses dont 16 avec une rue cité (taux réussite 53%)
 | LE VILLAGE | 1 | 3% | 6%|
 | TREVILLE | 1 | 3% | 6%|
 | AVENUE DU GERS | 1 | 3% | 6%|
+| BOULEVARD DE LA MEDITERRANEE | 1 | 3% | 6%|
+| **Total** | 16 | 53% | 100%|

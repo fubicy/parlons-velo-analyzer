@@ -1,6 +1,8 @@
 # Résultat pour 421-MONTGERON
 
-Sur 48 réponses dont 64 avec une rue cité (taux réussite 133%)
+Sur l'ensemble de la ville il y a eu 48 réponses dont 64 réponses avec une rue citée (133%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 48 réponses dont 64 avec une rue cité (taux réussite 133%)
 | BOULEVARD DUMAY DELILLE | 1 | 2% | 1%|
 | AVENUE LUCIE | 1 | 2% | 1%|
 | RUE MARGUERITE | 1 | 2% | 1%|
+| RUE DU PONT DE BART | 1 | 2% | 1%|
+| RUE MORIN | 1 | 2% | 1%|
+| RUE DU PONT | 1 | 2% | 1%|
+| AVENUE DE SENART | 1 | 2% | 1%|
+| **Total** | 64 | 133% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 154-FLECHE
 
-Sur 74 réponses dont 30 avec une rue cité (taux réussite 40%)
+Sur l'ensemble de la ville il y a eu 74 réponses dont 30 réponses avec une rue citée (40%)
+
+18 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,12 @@ Sur 74 réponses dont 30 avec une rue cité (taux réussite 40%)
 | ROUTE DE SABLE | 1 | 1% | 3%|
 | RUE DES LAVALLOIS | 1 | 1% | 3%|
 | RUE DE LA MAGDELEINE | 1 | 1% | 3%|
+| RUE DU COLLEGE | 1 | 1% | 3%|
+| BOULEVARD MONTREAL | 1 | 1% | 3%|
+| VERRON | 1 | 1% | 3%|
+| RUE DES ETURCIES | 1 | 1% | 3%|
+| RUE DU LEARD | 1 | 1% | 3%|
+| RUE SAINT GERMAIN | 1 | 1% | 3%|
+| RUE DES MARAICHERS | 1 | 1% | 3%|
+| AVENUE D ESTOURNELLES DE CONSTANT | 1 | 1% | 3%|
+| **Total** | 30 | 40% | 100%|

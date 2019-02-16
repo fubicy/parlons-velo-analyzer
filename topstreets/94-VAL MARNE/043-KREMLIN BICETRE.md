@@ -1,6 +1,8 @@
 # Résultat pour 043-KREMLIN BICETRE
 
-Sur 24 réponses dont 15 avec une rue cité (taux réussite 62%)
+Sur l'ensemble de la ville il y a eu 24 réponses dont 15 réponses avec une rue citée (62%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 24 réponses dont 15 avec une rue cité (taux réussite 62%)
 | AVENUE CHARLES GIDE | 1 | 4% | 6%|
 | RUE GABRIEL PERI | 1 | 4% | 6%|
 | AVENUE EUGENE THOMAS | 1 | 4% | 6%|
+| **Total** | 15 | 62% | 100%|

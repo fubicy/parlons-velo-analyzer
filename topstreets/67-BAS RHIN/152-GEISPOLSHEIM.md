@@ -1,6 +1,8 @@
 # Résultat pour 152-GEISPOLSHEIM
 
-Sur 5 réponses dont 6 avec une rue cité (taux réussite 120%)
+Sur l'ensemble de la ville il y a eu 5 réponses dont 6 réponses avec une rue citée (120%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 5 réponses dont 6 avec une rue cité (taux réussite 120%)
 | RUE DE LA GARE | 1 | 20% | 16%|
 | RUE DU MARECHAL FOCH | 1 | 20% | 16%|
 | RUE DU NOUVEAU PASSAGE | 1 | 20% | 16%|
+| **Total** | 6 | 120% | 100%|

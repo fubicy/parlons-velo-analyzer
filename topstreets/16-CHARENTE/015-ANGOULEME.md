@@ -1,6 +1,8 @@
 # Résultat pour 015-ANGOULEME
 
-Sur 86 réponses dont 33 avec une rue cité (taux réussite 38%)
+Sur l'ensemble de la ville il y a eu 86 réponses dont 33 réponses avec une rue citée (38%)
+
+19 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,13 @@ Sur 86 réponses dont 33 avec une rue cité (taux réussite 38%)
 | PLACE DE LA BUSSATTE | 1 | 1% | 3%|
 | RUE DE MONTBRON | 1 | 1% | 3%|
 | RUE RAYMOND POINCARE | 1 | 1% | 3%|
+| LES GRANDS QUARTIERS | 1 | 1% | 3%|
+| SILLAC | 1 | 1% | 3%|
+| RUE BROQUISSE | 1 | 1% | 3%|
+| AVENUE DE COGNAC | 1 | 1% | 3%|
+| LE PETIT FRESQUET | 1 | 1% | 3%|
+| PLACE VICTOR HUGO | 1 | 1% | 3%|
+| AVENUE JULES FERRY | 1 | 1% | 3%|
+| RUE DE SAINTES | 1 | 1% | 3%|
+| RUE DE LA CORDERIE | 1 | 1% | 3%|
+| **Total** | 33 | 38% | 100%|

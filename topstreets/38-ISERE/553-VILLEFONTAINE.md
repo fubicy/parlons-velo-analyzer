@@ -1,6 +1,8 @@
 # Résultat pour 553-VILLEFONTAINE
 
-Sur 21 réponses dont 8 avec une rue cité (taux réussite 38%)
+Sur l'ensemble de la ville il y a eu 21 réponses dont 8 réponses avec une rue citée (38%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 21 réponses dont 8 avec une rue cité (taux réussite 38%)
 | VAUGELAS | 1 | 4% | 12%|
 | RUE DU MIDI | 1 | 4% | 12%|
 | AVENUE DES BOIS | 1 | 4% | 12%|
+| **Total** | 8 | 38% | 100%|

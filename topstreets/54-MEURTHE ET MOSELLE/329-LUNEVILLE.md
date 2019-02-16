@@ -1,6 +1,8 @@
 # Résultat pour 329-LUNEVILLE
 
-Sur 56 réponses dont 46 avec une rue cité (taux réussite 82%)
+Sur l'ensemble de la ville il y a eu 56 réponses dont 46 réponses avec une rue citée (82%)
+
+19 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,13 @@ Sur 56 réponses dont 46 avec une rue cité (taux réussite 82%)
 | RUE SAINTE ANNE | 2 | 3% | 4%|
 | RUE SEBASTIEN KELLER | 2 | 3% | 4%|
 | ROUTE D EINVILLE | 1 | 1% | 2%|
+| RUE DE LA RESISTANCE | 1 | 1% | 2%|
+| RUE DE LA TOUR BLANCHE | 1 | 1% | 2%|
+| RUE DE LA POLOGNE | 1 | 1% | 2%|
+| RUE DE LORRAINE | 1 | 1% | 2%|
+| RUE DE SARREBOURG | 1 | 1% | 2%|
+| RUE EDMOND BRAUX | 1 | 1% | 2%|
+| RUE DE VILLER | 1 | 1% | 2%|
+| QUAI DES PETITS BOSQUETS | 1 | 1% | 2%|
+| RUE ERCKMANN | 1 | 1% | 2%|
+| **Total** | 46 | 82% | 100%|

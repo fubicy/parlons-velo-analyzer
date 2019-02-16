@@ -1,6 +1,8 @@
 # Résultat pour 271-CHASSIEU
 
-Sur 15 réponses dont 15 avec une rue cité (taux réussite 100%)
+Sur l'ensemble de la ville il y a eu 15 réponses dont 15 réponses avec une rue citée (100%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 15 réponses dont 15 avec une rue cité (taux réussite 100%)
 | AVENUE DES TARENTELLES | 1 | 6% | 6%|
 | RUE DE LA REPUBLIQUE | 1 | 6% | 6%|
 | CHEMIN DE LA GRANGE | 1 | 6% | 6%|
+| **Total** | 15 | 100% | 100%|

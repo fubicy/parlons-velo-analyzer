@@ -1,6 +1,8 @@
 # Résultat pour 205-MARSEILLE 5EME
 
-Sur 1846 réponses dont 138 avec une rue cité (taux réussite 7%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 138 réponses avec une rue citée (7%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 1846 réponses dont 138 avec une rue cité (taux réussite 7%)
 | RUE NEGRE | 1 | 0% | 0%|
 | RUE SAINT PIERRE | 1 | 0% | 0%|
 | COURS GOUFFE | 1 | 0% | 0%|
+| **Total** | 138 | 7% | 100%|

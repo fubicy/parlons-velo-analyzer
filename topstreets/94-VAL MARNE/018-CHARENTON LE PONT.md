@@ -1,6 +1,8 @@
 # Résultat pour 018-CHARENTON LE PONT
 
-Sur 27 réponses dont 25 avec une rue cité (taux réussite 92%)
+Sur l'ensemble de la ville il y a eu 27 réponses dont 25 réponses avec une rue citée (92%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 27 réponses dont 25 avec une rue cité (taux réussite 92%)
 | PLACE ARISTIDE BRIAND | 1 | 3% | 4%|
 | RUE ARTHUR CROQUETTE | 1 | 3% | 4%|
 | PLACE RAMON | 1 | 3% | 4%|
+| **Total** | 25 | 92% | 100%|

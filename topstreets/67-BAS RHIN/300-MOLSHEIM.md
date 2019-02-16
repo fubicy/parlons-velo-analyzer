@@ -1,6 +1,8 @@
 # Résultat pour 300-MOLSHEIM
 
-Sur 75 réponses dont 59 avec une rue cité (taux réussite 78%)
+Sur l'ensemble de la ville il y a eu 75 réponses dont 59 réponses avec une rue citée (78%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 75 réponses dont 59 avec une rue cité (taux réussite 78%)
 | RUE DES ROMAINS | 1 | 1% | 1%|
 | ROUTE DE MUTZIG | 1 | 1% | 1%|
 | AVENUE DU GENERAL DE GAULLE | 1 | 1% | 1%|
+| **Total** | 59 | 78% | 100%|

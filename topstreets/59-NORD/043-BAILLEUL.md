@@ -1,6 +1,8 @@
 # Résultat pour 043-BAILLEUL
 
-Sur 23 réponses dont 16 avec une rue cité (taux réussite 69%)
+Sur l'ensemble de la ville il y a eu 23 réponses dont 16 réponses avec une rue citée (69%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 23 réponses dont 16 avec une rue cité (taux réussite 69%)
 | RUE POSTE AUX CHEVAUX | 1 | 4% | 6%|
 | RUE DE LA GARE | 1 | 4% | 6%|
 | HAMEAU LE STEENT JE | 1 | 4% | 6%|
+| RUE DE CASSEL | 1 | 4% | 6%|
+| **Total** | 16 | 69% | 100%|

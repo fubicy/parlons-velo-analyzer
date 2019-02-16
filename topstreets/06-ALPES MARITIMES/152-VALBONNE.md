@@ -1,6 +1,8 @@
 # Résultat pour 152-VALBONNE
 
-Sur 69 réponses dont 45 avec une rue cité (taux réussite 65%)
+Sur l'ensemble de la ville il y a eu 69 réponses dont 45 réponses avec une rue citée (65%)
+
+15 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,9 @@ Sur 69 réponses dont 45 avec une rue cité (taux réussite 65%)
 | LE VILLAGE | 2 | 2% | 4%|
 | PEYNIBLOU | 1 | 1% | 2%|
 | RUE ALBERT CAQUOT | 1 | 1% | 2%|
+| SARTOUX | 1 | 1% | 2%|
+| CHEMIN DE BELLEVUE | 1 | 1% | 2%|
+| ROUTE DE NICE | 1 | 1% | 2%|
+| ROUTE DE GRASSE | 1 | 1% | 2%|
+| ILE VERTE | 1 | 1% | 2%|
+| **Total** | 45 | 65% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 009-BOIS COLOMBES
 
-Sur 84 réponses dont 80 avec une rue cité (taux réussite 95%)
+Sur l'ensemble de la ville il y a eu 84 réponses dont 80 réponses avec une rue citée (95%)
+
+21 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,15 @@ Sur 84 réponses dont 80 avec une rue cité (taux réussite 95%)
 | RUE JEAN JAURES | 3 | 3% | 3%|
 | RUE PIERRE JOIGNEAUX | 3 | 3% | 3%|
 | RUE RASPAIL | 1 | 1% | 1%|
+| PLACE DE LA REPUBLIQUE | 1 | 1% | 1%|
+| RUE HENRI LITOLFF | 1 | 1% | 1%|
+| AVENUE CHEVREUL | 1 | 1% | 1%|
+| RUE HEYNEN | 1 | 1% | 1%|
+| RUE PHILIPPE DE METZ | 1 | 1% | 1%|
+| AVENUE RENEE | 1 | 1% | 1%|
+| RUE JEAN BRUNET | 1 | 1% | 1%|
+| RUE PARCHAPPE | 1 | 1% | 1%|
+| RUE ADOLPHE GUYOT | 1 | 1% | 1%|
+| RUE HOCHE | 1 | 1% | 1%|
+| PLACE JEAN MERMOZ | 1 | 1% | 1%|
+| **Total** | 80 | 95% | 100%|

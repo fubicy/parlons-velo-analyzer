@@ -1,6 +1,8 @@
 # Résultat pour 023-BRIANCON
 
-Sur 66 réponses dont 25 avec une rue cité (taux réussite 37%)
+Sur l'ensemble de la ville il y a eu 66 réponses dont 25 réponses avec une rue citée (37%)
+
+18 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,12 @@ Sur 66 réponses dont 25 avec une rue cité (taux réussite 37%)
 | SERRE PAIX | 1 | 1% | 4%|
 | AVENUE JEAN MOULIN | 1 | 1% | 4%|
 | AVENUE PROFESSEUR FORGUES | 1 | 1% | 4%|
+| AVENUE DE LA GARE | 1 | 1% | 4%|
+| ROUTE DE GRENOBLE | 1 | 1% | 4%|
+| CHEMIN VIEUX | 1 | 1% | 4%|
+| AVENUE DU DAUPHINE | 1 | 1% | 4%|
+| AVENUE MAURICE PETSCHE | 1 | 1% | 4%|
+| ROUTE D ITALIE | 1 | 1% | 4%|
+| AVENUE DE SAVOIE | 1 | 1% | 4%|
+| RESIDENCE LE CHAMPS DE MARS | 1 | 1% | 4%|
+| **Total** | 25 | 37% | 100%|

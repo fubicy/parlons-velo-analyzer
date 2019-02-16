@@ -1,6 +1,8 @@
 # Résultat pour 194-POITIERS
 
-Sur 246 réponses dont 98 avec une rue cité (taux réussite 39%)
+Sur l'ensemble de la ville il y a eu 246 réponses dont 98 réponses avec une rue citée (39%)
+
+35 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,29 @@ Sur 246 réponses dont 98 avec une rue cité (taux réussite 39%)
 | RUE CARNOT | 2 | 0% | 2%|
 | AU CAMP | 2 | 0% | 2%|
 | ROUTE DE GENCAY | 2 | 0% | 2%|
+| PLACE JEAN DE BERRY | 2 | 0% | 2%|
+| AVENUE JACQUES COEUR | 2 | 0% | 2%|
+| ROCADE EST | 2 | 0% | 2%|
+| RUE DE LA CHAINE | 2 | 0% | 2%|
+| PROMENADE DES COURS | 1 | 0% | 1%|
+| RUE DES CARMELITES | 1 | 0% | 1%|
+| BOULEVARD ANATOLE FRANCE | 1 | 0% | 1%|
+| AVENUE DU RECTEUR PINEAU | 1 | 0% | 1%|
+| LA GIBAUDERIE | 1 | 0% | 1%|
+| LA ROCHE | 1 | 0% | 1%|
+| BOULEVARD CHASSEIGNE | 1 | 0% | 1%|
+| LE GRAND BOIS | 1 | 0% | 1%|
+| PONT JOUBERT | 1 | 0% | 1%|
+| RUE DE LA TRANCHEE | 1 | 0% | 1%|
+| LA REPUBLIQUE | 1 | 0% | 1%|
+| RUE DE MAILLOCHON | 1 | 0% | 1%|
+| RUE SAINT NICOLAS | 1 | 0% | 1%|
+| BOULEVARD SOLFERINO | 1 | 0% | 1%|
+| AVENUE DE L EUROPE | 1 | 0% | 1%|
+| BOULEVARD DU GRAND CERF | 1 | 0% | 1%|
+| AVENUE JOHN KENNEDY | 1 | 0% | 1%|
+| RUE SAINT CYPRIEN | 1 | 0% | 1%|
+| AVENUE DE PARIS | 1 | 0% | 1%|
+| AVON | 1 | 0% | 1%|
+| RUE DES COURONNERIES | 1 | 0% | 1%|
+| **Total** | 98 | 39% | 100%|

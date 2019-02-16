@@ -1,7 +1,10 @@
 # Résultat pour 545-URRUGNE
 
-Sur 9 réponses dont 1 avec une rue cité (taux réussite 11%)
+Sur l'ensemble de la ville il y a eu 9 réponses dont 1 réponses avec une rue citée (11%)
+
+1 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | SOCOA | 1 | 11% | 100%|
+| **Total** | 1 | 11% | 100%|

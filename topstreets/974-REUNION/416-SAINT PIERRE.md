@@ -1,6 +1,8 @@
 # Résultat pour 416-SAINT PIERRE
 
-Sur 40 réponses dont 16 avec une rue cité (taux réussite 40%)
+Sur l'ensemble de la ville il y a eu 40 réponses dont 16 réponses avec une rue citée (40%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 40 réponses dont 16 avec une rue cité (taux réussite 40%)
 | BOULEVARD BANK | 1 | 2% | 6%|
 | LIGNE PARADIS | 1 | 2% | 6%|
 | RAVINE DES CABRIS | 1 | 2% | 6%|
+| **Total** | 16 | 40% | 100%|

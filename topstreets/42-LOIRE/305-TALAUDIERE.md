@@ -1,6 +1,8 @@
 # Résultat pour 305-TALAUDIERE
 
-Sur 16 réponses dont 12 avec une rue cité (taux réussite 75%)
+Sur l'ensemble de la ville il y a eu 16 réponses dont 12 réponses avec une rue citée (75%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 16 réponses dont 12 avec une rue cité (taux réussite 75%)
 | RUE DEVERNOILLE | 2 | 12% | 16%|
 | RUE VOLTAIRE | 1 | 6% | 8%|
 | LONGIRON | 1 | 6% | 8%|
+| **Total** | 12 | 75% | 100%|

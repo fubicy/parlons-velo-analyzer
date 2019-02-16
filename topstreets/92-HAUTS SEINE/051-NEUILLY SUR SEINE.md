@@ -1,6 +1,8 @@
 # Résultat pour 051-NEUILLY SUR SEINE
 
-Sur 70 réponses dont 81 avec une rue cité (taux réussite 115%)
+Sur l'ensemble de la ville il y a eu 70 réponses dont 81 réponses avec une rue citée (115%)
+
+18 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,12 @@ Sur 70 réponses dont 81 avec une rue cité (taux réussite 115%)
 | BOULEVARD VICTOR HUGO | 3 | 4% | 3%|
 | RUE DU CHATEAU | 2 | 2% | 2%|
 | RUE D ORLEANS | 2 | 2% | 2%|
+| BOULEVARD D INKERMANN | 2 | 2% | 2%|
+| RUE DE LONGCHAMP | 1 | 1% | 1%|
+| LA SEINE | 1 | 1% | 1%|
+| BOULEVARD D ARGENSON | 1 | 1% | 1%|
+| BOULEVARD DU CHATEAU | 1 | 1% | 1%|
+| RUE DE CHARTRES | 1 | 1% | 1%|
+| BOULEVARD DE LA SAUSSAYE | 1 | 1% | 1%|
+| PLACE DU GENERAL GOURAUD | 1 | 1% | 1%|
+| **Total** | 81 | 115% | 100%|

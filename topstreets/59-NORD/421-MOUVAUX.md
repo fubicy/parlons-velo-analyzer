@@ -1,6 +1,8 @@
 # Résultat pour 421-MOUVAUX
 
-Sur 9 réponses dont 7 avec une rue cité (taux réussite 77%)
+Sur l'ensemble de la ville il y a eu 9 réponses dont 7 réponses avec une rue citée (77%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 9 réponses dont 7 avec une rue cité (taux réussite 77%)
 | RUE DE TOURCOING | 1 | 11% | 14%|
 | RUE DE LONDRES | 1 | 11% | 14%|
 | RUE LORTHIOIS | 1 | 11% | 14%|
+| **Total** | 7 | 77% | 100%|

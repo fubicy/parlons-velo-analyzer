@@ -1,6 +1,8 @@
 # Résultat pour 264-VILLEFRANCHE
 
-Sur 25 réponses dont 24 avec une rue cité (taux réussite 96%)
+Sur l'ensemble de la ville il y a eu 25 réponses dont 24 réponses avec une rue citée (96%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 25 réponses dont 24 avec une rue cité (taux réussite 96%)
 | RUE GRANGE BLAZET | 1 | 4% | 4%|
 | RUE GANTILLON | 1 | 4% | 4%|
 | RUE VICTOR HUGO | 1 | 4% | 4%|
+| ROUTE DE FRANS | 1 | 4% | 4%|
+| **Total** | 24 | 96% | 100%|

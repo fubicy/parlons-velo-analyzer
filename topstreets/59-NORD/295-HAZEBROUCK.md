@@ -1,6 +1,8 @@
 # Résultat pour 295-HAZEBROUCK
 
-Sur 11 réponses dont 8 avec une rue cité (taux réussite 72%)
+Sur l'ensemble de la ville il y a eu 11 réponses dont 8 réponses avec une rue citée (72%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 11 réponses dont 8 avec une rue cité (taux réussite 72%)
 | RUE DE LA GARE | 1 | 9% | 12%|
 | BOULEVARD DE L ABBE LEMIRE | 1 | 9% | 12%|
 | RUE NATIONALE | 1 | 9% | 12%|
+| **Total** | 8 | 72% | 100%|

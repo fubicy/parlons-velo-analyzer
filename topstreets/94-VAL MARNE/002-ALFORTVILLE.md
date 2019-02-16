@@ -1,6 +1,8 @@
 # Résultat pour 002-ALFORTVILLE
 
-Sur 117 réponses dont 80 avec une rue cité (taux réussite 68%)
+Sur l'ensemble de la ville il y a eu 117 réponses dont 80 réponses avec une rue citée (68%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 117 réponses dont 80 avec une rue cité (taux réussite 68%)
 | PONT D IVRY | 3 | 2% | 3%|
 | CHEMIN LATERAL | 2 | 1% | 2%|
 | PLACE JEAN JAURES | 2 | 1% | 2%|
+| RUE VICTOR HUGO | 2 | 1% | 2%|
+| RUE DE SEINE | 1 | 0% | 1%|
+| QUAI BLANQUI | 1 | 0% | 1%|
+| PLACE DU PETIT PONT | 1 | 0% | 1%|
+| **Total** | 80 | 68% | 100%|

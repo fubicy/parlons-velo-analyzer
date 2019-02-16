@@ -1,6 +1,8 @@
 # Résultat pour 187-PLERIN
 
-Sur 6 réponses dont 4 avec une rue cité (taux réussite 66%)
+Sur l'ensemble de la ville il y a eu 6 réponses dont 4 réponses avec une rue citée (66%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 6 réponses dont 4 avec une rue cité (taux réussite 66%)
 | SAINTE CROIX | 1 | 16% | 25%|
 | LE LEGUE | 1 | 16% | 25%|
 | L ARRIVEE | 1 | 16% | 25%|
+| **Total** | 4 | 66% | 100%|

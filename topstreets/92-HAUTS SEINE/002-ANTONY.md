@@ -1,6 +1,8 @@
 # Résultat pour 002-ANTONY
 
-Sur 283 réponses dont 85 avec une rue cité (taux réussite 30%)
+Sur l'ensemble de la ville il y a eu 283 réponses dont 85 réponses avec une rue citée (30%)
+
+43 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,37 @@ Sur 283 réponses dont 85 avec une rue cité (taux réussite 30%)
 | PARC DE SCEAUX | 3 | 1% | 3%|
 | AVENUE GABRIEL PERI | 2 | 0% | 2%|
 | RUE MAURICE LABROUSSE | 2 | 0% | 2%|
+| RUE GALIPEAU | 2 | 0% | 2%|
+| AVENUE FRANCOIS MOLE | 2 | 0% | 2%|
+| AVENUE ARMAND GUILLEBAUD | 2 | 0% | 2%|
+| AVENUE BOIS DE VERRIERES | 2 | 0% | 2%|
+| AVENUE LEON BLUM | 2 | 0% | 2%|
+| AVENUE JEAN MONNET | 2 | 0% | 2%|
+| IMPASSE DES SOURCES | 1 | 0% | 1%|
+| RUE MADELEINE | 1 | 0% | 1%|
+| RUE DE REIMS | 1 | 0% | 1%|
+| BACONNET | 1 | 0% | 1%|
+| AVENUE RABELAIS | 1 | 0% | 1%|
+| RUE MIRABEAU | 1 | 0% | 1%|
+| RUE DE L ABREUVOIR | 1 | 0% | 1%|
+| RUE DU CLOS DE L ABBAYE | 1 | 0% | 1%|
+| RUE DU CLOS | 1 | 0% | 1%|
+| RUE JEANNE | 1 | 0% | 1%|
+| GARE RER D ANTONY | 1 | 0% | 1%|
+| AVENUE LEBRUN | 1 | 0% | 1%|
+| AVENUE DE SCEAUX | 1 | 0% | 1%|
+| RUE D ALSACE LORRAINE | 1 | 0% | 1%|
+| RUE CELINE | 1 | 0% | 1%|
+| RUE EMILE GLAY | 1 | 0% | 1%|
+| RUE PERNOUD | 1 | 0% | 1%|
+| AVENUE ARISTIDE BRIAND | 1 | 0% | 1%|
+| VILLA BEL AIR | 1 | 0% | 1%|
+| RUE DU JOUR | 1 | 0% | 1%|
+| RUE DES GOUTTIERES | 1 | 0% | 1%|
+| RUE ARTHUR BLANCHET | 1 | 0% | 1%|
+| RUE JEAN MOULIN | 1 | 0% | 1%|
+| RUE ADOLPHE PAJEAUD | 1 | 0% | 1%|
+| AVENUE JULES FERRY | 1 | 0% | 1%|
+| RUE DUPRESSOIR CHAILLOUX | 1 | 0% | 1%|
+| RUE EMILE ZOLA | 1 | 0% | 1%|
+| **Total** | 85 | 30% | 100%|

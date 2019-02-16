@@ -1,6 +1,8 @@
 # Résultat pour 055-BAULE ESCOUBLAC
 
-Sur 57 réponses dont 13 avec une rue cité (taux réussite 22%)
+Sur l'ensemble de la ville il y a eu 57 réponses dont 13 réponses avec une rue citée (22%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 57 réponses dont 13 avec une rue cité (taux réussite 22%)
 | AVENUE OLIVIER GUICHARD | 1 | 1% | 7%|
 | BESLON | 1 | 1% | 7%|
 | LA PLAGE | 1 | 1% | 7%|
+| **Total** | 13 | 22% | 100%|

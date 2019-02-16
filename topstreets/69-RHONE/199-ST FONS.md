@@ -1,6 +1,8 @@
 # Résultat pour 199-ST FONS
 
-Sur 24 réponses dont 18 avec une rue cité (taux réussite 75%)
+Sur l'ensemble de la ville il y a eu 24 réponses dont 18 réponses avec une rue citée (75%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 24 réponses dont 18 avec une rue cité (taux réussite 75%)
 | AVENUE DES FRERES PERRET | 1 | 4% | 5%|
 | RUE MAURICE THOREZ | 1 | 4% | 5%|
 | BOULEVARD LAURENT BONNEVAY | 1 | 4% | 5%|
+| **Total** | 18 | 75% | 100%|

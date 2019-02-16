@@ -1,6 +1,8 @@
 # Résultat pour 236-LEGE CAP FERRET
 
-Sur 5 réponses dont 5 avec une rue cité (taux réussite 100%)
+Sur l'ensemble de la ville il y a eu 5 réponses dont 5 réponses avec une rue citée (100%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 5 réponses dont 5 avec une rue cité (taux réussite 100%)
 | LES JACQUETS | 1 | 20% | 20%|
 | ROUTE DE BORDEAUX | 1 | 20% | 20%|
 | LA POINTE | 1 | 20% | 20%|
+| **Total** | 5 | 100% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 103-LANDERNEAU
 
-Sur 18 réponses dont 12 avec une rue cité (taux réussite 66%)
+Sur l'ensemble de la ville il y a eu 18 réponses dont 12 réponses avec une rue citée (66%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 18 réponses dont 12 avec une rue cité (taux réussite 66%)
 | RUE DE LA TOUR D AUVERGNE | 1 | 5% | 8%|
 | RUE TRAVERSE | 1 | 5% | 8%|
 | LA PETITE PALUD | 1 | 5% | 8%|
+| **Total** | 12 | 66% | 100%|

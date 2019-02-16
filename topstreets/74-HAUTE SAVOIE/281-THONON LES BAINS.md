@@ -1,6 +1,8 @@
 # Résultat pour 281-THONON LES BAINS
 
-Sur 35 réponses dont 13 avec une rue cité (taux réussite 37%)
+Sur l'ensemble de la ville il y a eu 35 réponses dont 13 réponses avec une rue citée (37%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 35 réponses dont 13 avec une rue cité (taux réussite 37%)
 | AVENUE DU LEMAN | 1 | 2% | 7%|
 | CHEMIN DE RONDE | 1 | 2% | 7%|
 | CORZENT | 1 | 2% | 7%|
+| CHEMIN DE LA FORET | 1 | 2% | 7%|
+| **Total** | 13 | 37% | 100%|

@@ -8,6 +8,7 @@ import re
 import csv
 import sys
 import shutil
+import pprint
 
 from collections import Counter
 
@@ -66,8 +67,6 @@ REMOVE_SYMBOLS_ACCENTS = {
 
 
 def load_response(filename):
-    #lines = readcsv(csvfile)
-
     addrs = list()
     normalized = list()
     with open(filename) as csvfile:
@@ -90,8 +89,8 @@ def load_response(filename):
     return normalized
 
 def detect_all_streets(dmots, responses):
-    global topstreets
-    global nb_responses_with_street
+    nb_responses_with_street = 0
+    topstreets = Counter()
 
     for r in responses:
     #    question = questions[156]
@@ -109,6 +108,8 @@ def detect_all_streets(dmots, responses):
                     topstreets[street] += 1
 
         # oneline = ' / '.join(str(street) for street in streets)
+
+    return (nb_responses_with_street,topstreets)
 
 def get_fantoir_filename_by_code(codedep,codecom):
     
@@ -134,15 +135,6 @@ def get_fantoir_filename_by_code(codedep,codecom):
             break
 
     return f"fantoir/{foldername}/{filename}"
-
-# Read CSV file for FANTOIR files
-def readcsv(filename):	
-    with open(filename, 'rt') as textfile:
-        flines = []
-        for line in textfile:
-            flines.append (line)
-        
-    return flines
 
 def readfantoir_file(fantoirfile):
     # Read FANTOIR file
@@ -360,117 +352,223 @@ def write_topstreets(fantoirfile,codedep,codetown,responses, results):
             percent_with_street = int(count/nb_responses_with_street*100.0)
             markdown.write(f"| {striped_street} | {count} | {percent_responses}% | {percent_with_street}%|\n")
 
-
-def analyze_responses(filename):
-    global dmots
-    global topstreets
-    global nb_responses_with_street
-    global INSEE_TO_FANTOIR
-    global stats
-
-    codedep = filename[0:2]
-    codecom = filename[2:5]
-    codetown = f"{codedep}{codecom}"
-
-
-    if codedep in INSEE_TO_FANTOIR and codecom in INSEE_TO_FANTOIR[codedep]:
-        codecom_list = INSEE_TO_FANTOIR[codedep][codecom]
-    else:
-        codecom_list = [codecom]
-
-    
-    for codecom_replaced in codecom_list:
-
-        fantoirfile = get_fantoir_filename_by_code(codedep,codecom_replaced)
-
-        print(f"Analyse response for {codetown} {fantoirfile}".replace("fantoir/","").replace(".csv",""))
-        try:
-            nb_responses_with_street = 0
-            topstreets = Counter()
-
-            dmots = readfantoir_file(fantoirfile)
-            responses = load_response(f"datas/{filename}")
-            detect_all_streets(dmots,responses)
-            top = topstreets.most_common(10)
-
-            if codedep not in stats:
-                fantoirpath = fantoirfile.replace("fantoir/","")    
-                lastslash = fantoirpath.rfind("/")
-                title = fantoirpath[0:lastslash]
-
-                stats[codedep] = {
-                    'codecoms': [],
-                    'title': title,
-                    'nb_responses': 0,
-                    'nb_responses_with_street': 0,
-                    'nb_points_noirs': 0
-                } 
-
-            # Do not re-count the districts again
-            if codecom not in stats[codedep]['codecoms']:
-                stats[codedep]['codecoms'].append(codecom)
-                stats[codedep]['nb_responses'] += len(responses)
-
-            stats[codedep]['nb_responses_with_street'] += nb_responses_with_street
-            stats[codedep]['nb_points_noirs'] += len(top)
-            
-            write_topstreets(fantoirfile,codedep,codecom,responses,top)
-
-        except KeyboardInterrupt:
-            sys.exit()
-
-        except IsADirectoryError:
-            pass
-            print("IsADirectoryError")
-            print(f"#### ERROR for Analyse {codetown} {fantoirfile}".replace("fantoir/",""))
-
-        except FileNotFoundError:
-            pass
-            print("FileNotFoundError")
-            print(f"#### ERROR for Analyse {codetown} {fantoirfile}".replace("fantoir/",""))
-
-def analyze_all_responses():
-    global stats
-
-    # Delete previous results
-    shutil.rmtree('topstreets',ignore_errors=True)
-    os.mkdir('topstreets')
-
-    files = os.listdir('datas/')
-    for filename in files:
-            analyze_responses(filename)
-
+def write_main_results():
     # Write stats
     shutil.copyfile("README_template.md", "README.md")
     with open("README.md", 'a') as docfile:
         docfile.write("### Résultats par département\n\n")
+        docfile.write("Sur l'ensemble du téritoire, il y a eu {} réponses dont {} réponses avec une rue citée ({}%)\n\n".format(stats['total']['nb_responses'],stats['total']['nb_responses_with_street'],stats['total']['nb_responses_with_street_percent']))
         docfile.write("| Departement | Nb réponses | Nb réponses avec rue | Nb points noirs |\n")
         docfile.write("|-------------|-------------|----------------------|-----------------|\n")
 
-        tot_nb_responses = 0
-        tot_nb_responses_with_street = 0
-        tot_nb_points_noirs = 0
-        for k,v in sorted(stats.items()):
-            taux = 0
-            
-            if v['nb_responses'] > 0 :
-                taux = int(v['nb_responses_with_street']/v['nb_responses']*100.0)
+        for kd,v in sorted(stats['dep'].items()):
+            docfile.write("|<a href='topstreets/{}/README.md'>{}</a>|{}|{}({}%)|{}|\n".format(v['title'],v['title'],v['nb_responses'],v['nb_responses_with_street'],v['nb_responses_with_street_percent'], v['nb_points_noirs']))             
+
+        docfile.write("| **Total** |{}|{}({}%)|{}|\n".format(stats['total']['nb_responses'],stats['total']['nb_responses_with_street'],stats['total']['nb_responses_with_street_percent'], stats['total']['nb_points_noirs']))             
 
 
-            docfile.write("|<a href='topstreets/{}'>{}</a>|{}|{}({}%)|{}|\n".format(v['title'],v['title'],v['nb_responses'],v['nb_responses_with_street'],taux, v['nb_points_noirs']))
-            tot_nb_responses += v['nb_responses']
-            tot_nb_responses_with_street += v['nb_responses_with_street']
-            tot_nb_points_noirs += v['nb_points_noirs']
+def write_departments_results():
+    # Write stats
+    for kd,d in sorted(stats['dep'].items()):
+
+        deppath = "topstreets/{}".format(d['title'])
+        os.mkdir(deppath)
+
+        filename = f"{deppath}/README.md"
+
+        with open(filename, 'w') as docfile:
+            docfile.write("### Résultats pour le département de {}\n\n".format(d['title']))
+            docfile.write("Sur l'ensemble du département, il y a eu {} réponses dont {} réponses avec une rue citée ({}%)\n\n".format(d['nb_responses'],d['nb_responses_with_street'],d['nb_responses_with_street_percent']))
+            docfile.write("| Ville | Nb réponses | Nb réponses avec rue | Nb points noirs |\n")
+            docfile.write("|-------------|-------------|----------------------|-----------------|\n")
+
+            for kt, t in sorted(stats['dep'][kd]['towns'].items()):
+                docfile.write("|<a href='{}.md'>{}</a>|{}|{}({}%)|{}|\n".format(t['title'],t['title'],t['nb_responses'],t['nb_responses_with_street'],t['nb_responses_with_street_percent'], t['nb_points_noirs']))             
+
+            docfile.write("| **Total** |{}|{}({}%)|{}|\n".format(d['nb_responses'],d['nb_responses_with_street'],d['nb_responses_with_street_percent'], d['nb_points_noirs']))             
 
 
-        taux = int(tot_nb_responses_with_street / tot_nb_responses * 100.0)
-        docfile.write("### Résultats pour la France\n\n")
-        docfile.write("| Nb réponses | Nb réponses avec rue | Nb points noirs |\n")
-        docfile.write("|-------------|----------------------|-----------------|\n")
-        docfile.write(f"|{tot_nb_responses}|{tot_nb_responses_with_street}({taux}%)|{tot_nb_points_noirs}|\n")
+def write_towns_results():
+    # Write stats
+    for kd,d in sorted(stats['dep'].items()):
+        deppath = "topstreets/{}".format(d['title'])
+        for kt, t in sorted(stats['dep'][kd]['towns'].items()):
+            townname = t['title']
+            nb_responses = t['nb_responses']
+            nb_responses_with_street = t['nb_responses_with_street']
+            nb_responses_with_street_percent = t['nb_responses_with_street_percent']
+            nb_points_noirs = t['nb_points_noirs']
+
+            filename = f"{deppath}/{townname}.md"
+            with open(filename, 'w') as docfile:
+                docfile.write(f"# Résultat pour {townname}\n\n")
+                docfile.write(f"Sur l'ensemble de la ville il y a eu {nb_responses} réponses dont {nb_responses_with_street} réponses avec une rue citée ({nb_responses_with_street_percent}%)\n\n")
+                docfile.write(f"{nb_points_noirs} points noirs identifiés\n\n")
+
+                docfile.write('| Rue | Vote | % réponses | % Nb rues cités|\n')
+                docfile.write("|-----|------|------------|----------------|\n")
+
+                total = 0
+                for street,count in t['blackspots'].most_common():
+                    total += count
+
+                    striped_street = street.strip()
+                    percent_responses = 0
+                    percent_with_street = 0
+
+                    if nb_responses > 0:
+                        percent_responses = int(count/nb_responses*100.0)
+
+                    if nb_responses_with_street>0:
+                        percent_with_street = int(count/nb_responses_with_street*100.0)
+                    
+                    docfile.write(f"| {striped_street} | {count} | {percent_responses}% | {percent_with_street}%|\n")
+
+                # Total
+                if nb_responses > 0:
+                    percent_responses = int(total/nb_responses*100.0)
+
+                if nb_responses_with_street>0:
+                    percent_with_street = int(total/nb_responses_with_street*100.0)
+                docfile.write(f"| **Total** | {total} | {percent_responses}% | {percent_with_street}%|\n")
+
+
+
+def analyze_all_responses():
+    global stats
+    global dmots
+    global INSEE_TO_FANTOIR
+    global nb_responses_with_street
+
+    files = os.listdir('datas/')
+    for filename in files:
+
+        codedep = filename[0:2]
+        codecom = filename[2:5]
+        codetown = f"{codedep}{codecom}"
+
+        # Convert INSEE code town to FANTOIR code town
+        if codedep in INSEE_TO_FANTOIR and codecom in INSEE_TO_FANTOIR[codedep]:
+            codecom_list = INSEE_TO_FANTOIR[codedep][codecom]
+        else:
+            codecom_list = [codecom]
+
+        # Loop for search street in district town       
+        for codecom_replaced in codecom_list:
+
+            # Compute topstreet path
+            fantoirfullfilename = get_fantoir_filename_by_code(codedep,codecom_replaced)
+            firstlash = fantoirfullfilename.find("/")
+            lastslash = fantoirfullfilename.rfind("/")
+            titledep = fantoirfullfilename[firstlash+1:lastslash]
+            topstreetpath = "topstreets/%s" % titledep
+
+            # Compute tpwn top street filename
+            townresultfilename = fantoirfullfilename[lastslash+1:].replace('.csv','.md')
+            titletown = townresultfilename.replace(".md","")
+            topstreets_filename=f"{topstreetpath}/{townresultfilename}"
+
+            print(f"Analyse response for {titledep}/{titletown}")
+            try:
+                nb_responses_with_street = 0
+
+                dmots = readfantoir_file(fantoirfullfilename)
+                responses = load_response(f"datas/{filename}")
+                nb_responses_with_street,blackspots = detect_all_streets(dmots,responses)
+                top = blackspots.most_common(10)
+
+                # Init department counter
+                if codedep not in stats['dep']:
+                    stats['dep'][codedep] = {
+                        'codecoms': [],
+                        'towns': {},
+                        'title': titledep,
+                        'nb_responses': 0,
+                        'nb_responses_with_street': 0,
+                        'nb_points_noirs': 0
+                    } 
+
+                topstreets_filename=f"topstreets/{titledep}/{titletown}.md"
+                
+                # Do not re-count the districts town again
+                mustcount = False
+                if codecom not in stats['dep'][codedep]['codecoms']:
+                    mustcount = True
+                    # Department
+                    stats['dep'][codedep]['codecoms'].append(codecom)
+                    stats['dep'][codedep]['nb_responses'] += len(responses)
+                    
+                    # Total
+                    stats['total']['nb_responses'] += len(responses)
+
+                ratiotown = 0
+                if len(responses)>0:
+                    ratiotown = int(nb_responses_with_street/len(responses) * 100.0)
+
+                # Set town counter
+                stats['dep'][codedep]['towns'][codecom_replaced]= {
+                    'title': titletown,
+                    'mustcount': mustcount,
+                    'nb_responses': len(responses),
+                    'nb_responses_with_street': nb_responses_with_street,
+                    'nb_responses_with_street_percent': ratiotown,
+                    'nb_points_noirs': len(blackspots),
+                    'blackspots':blackspots
+                }
+
+                # Update department and total counter
+                stats['dep'][codedep]['nb_responses_with_street'] += nb_responses_with_street
+                stats['dep'][codedep]['nb_points_noirs'] += len(blackspots)
+                stats['total']['nb_responses_with_street'] += nb_responses_with_street
+                stats['total']['nb_points_noirs'] += len(blackspots)
+
+                # Update department ratio
+                ratiodep = 0
+                if len(responses)>0:
+                    ratiodep = int(stats['dep'][codedep]['nb_responses_with_street']/stats['dep'][codedep]['nb_responses'] * 100.0)
+
+                stats['dep'][codedep]['nb_responses_with_street_percent'] = ratiodep
+
+                # Update total ratio
+                ratiototal = int(stats['total']['nb_responses_with_street']/stats['total']['nb_responses'] * 100.0)
+                stats['total']['nb_responses_with_street_percent'] = ratiototal
+                
+                #write_topstreets(fantoirfullfilename,codedep,codecom,responses,top)
+
+            except KeyboardInterrupt:
+                sys.exit()
+
+            except IsADirectoryError:
+                pass
+                print("IsADirectoryError")
+                print(f"#### ERROR for Analyse {codetown} {fantoirfullfilename}".replace("fantoir/",""))
+
+            except FileNotFoundError:
+                pass
+                print("FileNotFoundError")
+                print(f"#### ERROR for Analyse {codetown} {fantoirfullfilename}".replace("fantoir/",""))
+
 
 DEBUG=False
 dmots = dict()
-stats = dict()
+stats = {
+    'total': {
+        'nb_responses': 0,
+        'nb_responses_with_street': 0,
+        'nb_points_noirs': 0,
+    },
+    'dep': {
+
+    }
+}
 
 analyze_all_responses()
+
+# Delete previous results
+shutil.rmtree('topstreets',ignore_errors=True)
+os.mkdir('topstreets')
+
+# Write all datas
+write_main_results()
+write_departments_results()
+write_towns_results()

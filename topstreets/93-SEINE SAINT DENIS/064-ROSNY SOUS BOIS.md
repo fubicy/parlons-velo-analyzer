@@ -1,6 +1,8 @@
 # Résultat pour 064-ROSNY SOUS BOIS
 
-Sur 23 réponses dont 6 avec une rue cité (taux réussite 26%)
+Sur l'ensemble de la ville il y a eu 23 réponses dont 6 réponses avec une rue citée (26%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 23 réponses dont 6 avec une rue cité (taux réussite 26%)
 | AVENUE LECH WALESA | 1 | 4% | 16%|
 | LES BOUTOURS | 1 | 4% | 16%|
 | LE PRE GENTIL | 1 | 4% | 16%|
+| **Total** | 6 | 26% | 100%|

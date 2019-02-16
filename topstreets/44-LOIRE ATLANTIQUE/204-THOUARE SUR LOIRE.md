@@ -1,6 +1,8 @@
 # Résultat pour 204-THOUARE SUR LOIRE
 
-Sur 12 réponses dont 5 avec une rue cité (taux réussite 41%)
+Sur l'ensemble de la ville il y a eu 12 réponses dont 5 réponses avec une rue citée (41%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 12 réponses dont 5 avec une rue cité (taux réussite 41%)
 | LA BELLE ETOILE | 1 | 8% | 20%|
 | LA BUSSONNIERE | 1 | 8% | 20%|
 | RUE DE CARQUEFOU | 1 | 8% | 20%|
+| **Total** | 5 | 41% | 100%|

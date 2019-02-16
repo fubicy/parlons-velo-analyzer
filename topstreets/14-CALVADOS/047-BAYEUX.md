@@ -1,6 +1,8 @@
 # Résultat pour 047-BAYEUX
 
-Sur 142 réponses dont 32 avec une rue cité (taux réussite 22%)
+Sur l'ensemble de la ville il y a eu 142 réponses dont 32 réponses avec une rue citée (22%)
+
+18 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,12 @@ Sur 142 réponses dont 32 avec une rue cité (taux réussite 22%)
 | RUE DE PORT EN BESSIN | 1 | 0% | 3%|
 | BOULEVARD FABIAN WARE | 1 | 0% | 3%|
 | BOULEVARD DU SIX JUIN | 1 | 0% | 3%|
+| ROUTE DE GUERON | 1 | 0% | 3%|
+| RUE SAINT LAURENT | 1 | 0% | 3%|
+| PLACE GAUQUELIN DES PALLIERES | 1 | 0% | 3%|
+| VALLEE DES PRES | 1 | 0% | 3%|
+| RUE BELLEFONTAINE | 1 | 0% | 3%|
+| BOULEVARD MONTGOMERY | 1 | 0% | 3%|
+| HALLE HALLE AUX GRAINS | 1 | 0% | 3%|
+| ROUTE DE VAUX SUR AURE | 1 | 0% | 3%|
+| **Total** | 32 | 22% | 100%|

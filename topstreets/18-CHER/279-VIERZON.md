@@ -1,6 +1,8 @@
 # Résultat pour 279-VIERZON
 
-Sur 96 réponses dont 40 avec une rue cité (taux réussite 41%)
+Sur l'ensemble de la ville il y a eu 96 réponses dont 40 réponses avec une rue citée (41%)
+
+18 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,12 @@ Sur 96 réponses dont 40 avec une rue cité (taux réussite 41%)
 | CHAILLOT | 2 | 2% | 5%|
 | LES FORGES | 1 | 1% | 2%|
 | LES PLACES | 1 | 1% | 2%|
+| RUE MOLIERE | 1 | 1% | 2%|
+| CHEMIN DU TERRICHON | 1 | 1% | 2%|
+| CHEMIN DE LA FOSSE DU GUE | 1 | 1% | 2%|
+| LE CAMP | 1 | 1% | 2%|
+| ROUTE DE BELLON | 1 | 1% | 2%|
+| LE CANAL | 1 | 1% | 2%|
+| ZI DES FORGES | 1 | 1% | 2%|
+| LE VIEUX DOMAINE | 1 | 1% | 2%|
+| **Total** | 40 | 41% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 498-POISSY
 
-Sur 38 réponses dont 35 avec une rue cité (taux réussite 92%)
+Sur l'ensemble de la ville il y a eu 38 réponses dont 35 réponses avec une rue citée (92%)
+
+17 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,11 @@ Sur 38 réponses dont 35 avec une rue cité (taux réussite 92%)
 | AVENUE DES URSULINES | 1 | 2% | 2%|
 | RUE DU GENERAL DE GAULLE | 1 | 2% | 2%|
 | RUE DE LA GARE | 1 | 2% | 2%|
+| PLACE DE LA REPUBLIQUE | 1 | 2% | 2%|
+| PONT DE POISSY | 1 | 2% | 2%|
+| LA SEINE | 1 | 2% | 2%|
+| RUE DE LA SABLIERE | 1 | 2% | 2%|
+| IMPASSE SAINT EXUPERY | 1 | 2% | 2%|
+| RUE DE CHAMBOURCY | 1 | 2% | 2%|
+| AVENUE DE PONTOISE | 1 | 2% | 2%|
+| **Total** | 35 | 92% | 100%|

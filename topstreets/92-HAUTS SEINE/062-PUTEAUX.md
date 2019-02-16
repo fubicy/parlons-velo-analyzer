@@ -1,6 +1,8 @@
 # Résultat pour 062-PUTEAUX
 
-Sur 43 réponses dont 30 avec une rue cité (taux réussite 69%)
+Sur l'ensemble de la ville il y a eu 43 réponses dont 30 réponses avec une rue citée (69%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 43 réponses dont 30 avec une rue cité (taux réussite 69%)
 | RUE AUGUSTE BLANCHE | 1 | 2% | 3%|
 | RUE VOLTA | 1 | 2% | 3%|
 | RUE VOLTAIRE | 1 | 2% | 3%|
+| RUE DES PAVILLONS | 1 | 2% | 3%|
+| QUAI DE DION BOUTON | 1 | 2% | 3%|
+| **Total** | 30 | 69% | 100%|

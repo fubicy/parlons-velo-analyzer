@@ -1,6 +1,8 @@
 # Résultat pour 410-MONS EN BAROEUL
 
-Sur 31 réponses dont 21 avec une rue cité (taux réussite 67%)
+Sur l'ensemble de la ville il y a eu 31 réponses dont 21 réponses avec une rue citée (67%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 31 réponses dont 21 avec une rue cité (taux réussite 67%)
 | AVENUE EMILE ZOLA | 1 | 3% | 4%|
 | RUE JEAN JAURES | 1 | 3% | 4%|
 | RUE DESIRE COURCOT | 1 | 3% | 4%|
+| **Total** | 21 | 67% | 100%|

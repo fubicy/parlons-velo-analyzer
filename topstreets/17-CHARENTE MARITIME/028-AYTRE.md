@@ -1,6 +1,8 @@
 # Résultat pour 028-AYTRE
 
-Sur 27 réponses dont 17 avec une rue cité (taux réussite 62%)
+Sur l'ensemble de la ville il y a eu 27 réponses dont 17 réponses avec une rue citée (62%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 27 réponses dont 17 avec une rue cité (taux réussite 62%)
 | D ANVILLE | 1 | 3% | 5%|
 | RUE DU COLONEL FABIEN | 1 | 3% | 5%|
 | RUE DES ROUHAUDS | 1 | 3% | 5%|
+| AVENUE DU COMMANDANT LISIACK | 1 | 3% | 5%|
+| **Total** | 17 | 62% | 100%|

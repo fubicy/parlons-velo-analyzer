@@ -1,6 +1,8 @@
 # Résultat pour 172-MONTPELLIER
 
-Sur 1295 réponses dont 633 avec une rue cité (taux réussite 48%)
+Sur l'ensemble de la ville il y a eu 1295 réponses dont 633 réponses avec une rue citée (48%)
+
+135 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,129 @@ Sur 1295 réponses dont 633 avec une rue cité (taux réussite 48%)
 | PLACE DE LA COMEDIE | 16 | 1% | 2%|
 | RUE SAINT LOUIS | 15 | 1% | 2%|
 | ROUTE DE LAVERUNE | 14 | 1% | 2%|
+| CELLENEUVE | 10 | 0% | 1%|
+| AVENUE DE LODEVE | 10 | 0% | 1%|
+| AVENUE DE PALAVAS | 9 | 0% | 1%|
+| ROUTE DE GANGES | 8 | 0% | 1%|
+| ALCO | 7 | 0% | 1%|
+| RUE DU FAUBOURG FIGUEROLLES | 7 | 0% | 1%|
+| FACULTE DES SCIENCES | 7 | 0% | 1%|
+| AVENUE CHARLES FLAHAULT | 7 | 0% | 1%|
+| PLACE ALBERT 1ER | 6 | 0% | 0%|
+| COURS GAMBETTA | 6 | 0% | 0%|
+| CHATEAU D O | 6 | 0% | 0%|
+| BOULEVARD BERTHELOT | 6 | 0% | 0%|
+| AVENUE GEORGES CLEMENCEAU | 6 | 0% | 0%|
+| RUE PAUL RIMBAUD | 5 | 0% | 0%|
+| BOULEVARD VIEUSSENS | 5 | 0% | 0%|
+| RUE GERHARDT | 5 | 0% | 0%|
+| BOULEVARD RENOUVIER | 5 | 0% | 0%|
+| LUNARET | 5 | 0% | 0%|
+| ROND POINT EVARISTE GALOIS | 5 | 0% | 0%|
+| UNIVERSITE PAUL VALERY | 5 | 0% | 0%|
+| PLACE SAINT ROCH | 4 | 0% | 0%|
+| BOULEVARD DU JEU DE PAUME | 4 | 0% | 0%|
+| AVENUE HENRI MARES | 4 | 0% | 0%|
+| AVENUE DE NIMES | 4 | 0% | 0%|
+| AVENUE JEAN MERMOZ | 4 | 0% | 0%|
+| RUE DE LAS SORBES | 4 | 0% | 0%|
+| BOULEVARD D ORIENT | 4 | 0% | 0%|
+| MALBOSC | 4 | 0% | 0%|
+| AVENUE DU DOCTEUR PEZET | 4 | 0% | 0%|
+| BOULEVARD DES ARCEAUX | 4 | 0% | 0%|
+| AVENUE DE LA POMPIGNANE | 3 | 0% | 0%|
+| PLACE CHRISTOPHE COLOMB | 3 | 0% | 0%|
+| PLACE CHRISTOPHE | 3 | 0% | 0%|
+| PONT JUVENAL | 3 | 0% | 0%|
+| RUE DORIA | 3 | 0% | 0%|
+| RUE GUILLAUME PELLICIER | 3 | 0% | 0%|
+| BOULEVARD DE STRASBOURG | 3 | 0% | 0%|
+| RUE PITOT | 3 | 0% | 0%|
+| AVENUE DES MOULINS | 3 | 0% | 0%|
+| RUE FOCH | 3 | 0% | 0%|
+| AVENUE ALBERT DUBOUT | 3 | 0% | 0%|
+| AVENUE DE L EUROPE | 3 | 0% | 0%|
+| AVENUE SAINT LAZARE | 2 | 0% | 0%|
+| RUE DU GRAND SAINT JEAN | 2 | 0% | 0%|
+| QUAI DES TANNEURS | 2 | 0% | 0%|
+| ROND POINT ERNEST GRANIER | 2 | 0% | 0%|
+| QUAI DU VERDANSON | 2 | 0% | 0%|
+| RUE ARTHUR YOUNG | 2 | 0% | 0%|
+| MARCHE GARE | 2 | 0% | 0%|
+| BOULEVARD DES CONSULS DE MER | 2 | 0% | 0%|
+| BOULEVARD RABELAIS | 2 | 0% | 0%|
+| RUE DE BUGAREL | 2 | 0% | 0%|
+| AVENUE DE VANIERES | 2 | 0% | 0%|
+| RUE DES CHASSEURS | 2 | 0% | 0%|
+| AVENUE LEPIC | 2 | 0% | 0%|
+| RUE HENRI | 2 | 0% | 0%|
+| RUE HENRI DUNANT | 2 | 0% | 0%|
+| QRT DES BEAUX ARTS | 2 | 0% | 0%|
+| RUE DU FAUBOURG DE NIMES | 2 | 0% | 0%|
+| PLACE FLANDRES DUNKERQUE | 2 | 0% | 0%|
+| CHEMIN DE MOULARES | 2 | 0% | 0%|
+| TOURNEZY | 2 | 0% | 0%|
+| PLACE JEAN BENE | 2 | 0% | 0%|
+| RUE PORTALIERE DES MASQUES | 2 | 0% | 0%|
+| AVENUE AGROPOLIS | 2 | 0% | 0%|
+| RUE AUGUSTE BROUSSONNET | 2 | 0% | 0%|
+| RUE DE LA LOGE | 2 | 0% | 0%|
+| LA PAILLADE | 2 | 0% | 0%|
+| RUE LEON BLUM | 2 | 0% | 0%|
+| AVENUE PDT PIERRE MENDES FRANCE | 2 | 0% | 0%|
+| RUE DU COMTE DE MELGUEIL | 2 | 0% | 0%|
+| AVENUE ALBERT EINSTEIN | 1 | 0% | 0%|
+| ROND POINT BENJAMIN FRANKLIN | 1 | 0% | 0%|
+| AVENUE DU PROFESSEUR LOUIS RAVAS | 1 | 0% | 0%|
+| AVENUE PABLO NERUDA | 1 | 0% | 0%|
+| AVENUE DE CASTELNAU | 1 | 0% | 0%|
+| PLACE GEORGES FRECHE | 1 | 0% | 0%|
+| RUE BONNARD | 1 | 0% | 0%|
+| CARREFOUR PROFESSEUR ARMAND IMBERT | 1 | 0% | 0%|
+| RUE FABRE | 1 | 0% | 0%|
+| AVENUE DU PIREE | 1 | 0% | 0%|
+| PONT TRINQUAT | 1 | 0% | 0%|
+| PLACE JEAN JAURES | 1 | 0% | 0%|
+| CIMETIERE SAINT LAZARE | 1 | 0% | 0%|
+| RUE LA BLOTTIERE | 1 | 0% | 0%|
+| RUE DE L AIGUELONGUE | 1 | 0% | 0%|
+| RUE SAINT GUILHEM | 1 | 0% | 0%|
+| AVENUE DE LA CROIX DU CAPITAINE | 1 | 0% | 0%|
+| BOULEVARD LOUIS BLANC | 1 | 0% | 0%|
+| AVENUE DE MAURIN | 1 | 0% | 0%|
+| RESIDENCE SAINT GEORGES | 1 | 0% | 0%|
+| RUE PIERRE CAUSSE | 1 | 0% | 0%|
+| PLACE SAINT DENIS | 1 | 0% | 0%|
+| AVENUE FRANCOIS DELMAS | 1 | 0% | 0%|
+| TERRE DES PRES D'ARENES | 1 | 0% | 0%|
+| RUE JEAN | 1 | 0% | 0%|
+| AVENUE DE MONSIEUR TESTE | 1 | 0% | 0%|
+| RUE MARC | 1 | 0% | 0%|
+| RUE MARCEAU | 1 | 0% | 0%|
+| COUR DES ECOLES | 1 | 0% | 0%|
+| BOULEVARD PASTEUR | 1 | 0% | 0%|
+| LA CROIX DE LAVIT | 1 | 0% | 0%|
+| RUE DE LA CROIX | 1 | 0% | 0%|
+| AVENUE DES GARRATS | 1 | 0% | 0%|
+| AVENUE DE LA RECAMBALE | 1 | 0% | 0%|
+| RUE DE LA ROQUETURIERE | 1 | 0% | 0%|
+| AVENUE DU PROFESSEUR GRASSET | 1 | 0% | 0%|
+| RUE DU DAHLIA | 1 | 0% | 0%|
+| RUE DE LA FIGAIRASSE | 1 | 0% | 0%|
+| AVENUE PAUL BRINGUIER | 1 | 0% | 0%|
+| CHAMBERT | 1 | 0% | 0%|
+| RUE DE L INDUSTRIE | 1 | 0% | 0%|
+| AVENUE HENRI BECQUEREL | 1 | 0% | 0%|
+| GRAMMONT | 1 | 0% | 0%|
+| AVENUE DE LA MER | 1 | 0% | 0%|
+| QUAI LAURENS | 1 | 0% | 0%|
+| PLACE ERNEST GRANIER | 1 | 0% | 0%|
+| ALLEE HENRI II DE MONTMORENCY | 1 | 0% | 0%|
+| HLM PETIT BARD | 1 | 0% | 0%|
+| ECOLE DE COMMERCE | 1 | 0% | 0%|
+| AVENUE CHANCEL | 1 | 0% | 0%|
+| AVENUE ABBE PAUL PARGUEL | 1 | 0% | 0%|
+| AVENUE DU DOYEN GASTON GIRAUD | 1 | 0% | 0%|
+| RUE DE LA PEPINIERE | 1 | 0% | 0%|
+| RUE EMILE ZOLA | 1 | 0% | 0%|
+| **Total** | 633 | 48% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 001-ACIGNE
 
-Sur 22 réponses dont 9 avec une rue cité (taux réussite 40%)
+Sur l'ensemble de la ville il y a eu 22 réponses dont 9 réponses avec une rue citée (40%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 22 réponses dont 9 avec une rue cité (taux réussite 40%)
 | BOURGON | 1 | 4% | 11%|
 | LA TIMONIERE | 1 | 4% | 11%|
 | LA RUE | 1 | 4% | 11%|
+| **Total** | 9 | 40% | 100%|

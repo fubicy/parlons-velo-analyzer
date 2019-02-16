@@ -1,6 +1,8 @@
 # Résultat pour 041-BUXEROLLES
 
-Sur 17 réponses dont 15 avec une rue cité (taux réussite 88%)
+Sur l'ensemble de la ville il y a eu 17 réponses dont 15 réponses avec une rue citée (88%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 17 réponses dont 15 avec une rue cité (taux réussite 88%)
 | RUE DU PLANTY | 2 | 11% | 13%|
 | RUE DES QUATRE CYPRES | 1 | 5% | 6%|
 | RUE DU SENTIER | 1 | 5% | 6%|
+| **Total** | 15 | 88% | 100%|

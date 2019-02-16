@@ -1,6 +1,8 @@
 # Résultat pour 209-MARSEILLE 9EME
 
-Sur 1846 réponses dont 61 avec une rue cité (taux réussite 3%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 61 réponses avec une rue citée (3%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 1846 réponses dont 61 avec une rue cité (taux réussite 3%)
 | BOULEVARD DU CABOT | 2 | 0% | 3%|
 | CHEMIN DE MORGIOU | 2 | 0% | 3%|
 | AVENUE PIERRE BOUZE | 1 | 0% | 1%|
+| BOULEVARD GASTON RAMON | 1 | 0% | 1%|
+| BOULEVARD DE LA PUGETTE | 1 | 0% | 1%|
+| AVENUE VITON | 1 | 0% | 1%|
+| BOULEVARD PAUL CLAUDEL | 1 | 0% | 1%|
+| **Total** | 61 | 3% | 100%|

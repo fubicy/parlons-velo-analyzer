@@ -1,6 +1,8 @@
 # Résultat pour 278-SAINT GREGOIRE
 
-Sur 8 réponses dont 10 avec une rue cité (taux réussite 125%)
+Sur l'ensemble de la ville il y a eu 8 réponses dont 10 réponses avec une rue citée (125%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 8 réponses dont 10 avec une rue cité (taux réussite 125%)
 | BEAUREGARD | 1 | 12% | 10%|
 | CHESNAY | 1 | 12% | 10%|
 | SAINT GREGOIRE | 1 | 12% | 10%|
+| **Total** | 10 | 125% | 100%|

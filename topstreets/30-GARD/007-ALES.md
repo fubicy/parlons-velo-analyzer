@@ -1,6 +1,8 @@
 # Résultat pour 007-ALES
 
-Sur 43 réponses dont 11 avec une rue cité (taux réussite 25%)
+Sur l'ensemble de la ville il y a eu 43 réponses dont 11 réponses avec une rue citée (25%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 43 réponses dont 11 avec une rue cité (taux réussite 25%)
 | MONTEE DE SILHOL | 1 | 2% | 9%|
 | AVENUE CARNOT | 1 | 2% | 9%|
 | MALADRERIE | 1 | 2% | 9%|
+| **Total** | 11 | 25% | 100%|

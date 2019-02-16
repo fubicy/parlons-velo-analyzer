@@ -1,6 +1,8 @@
 # Résultat pour 068-ST MAUR DES FOSSES
 
-Sur 83 réponses dont 52 avec une rue cité (taux réussite 62%)
+Sur l'ensemble de la ville il y a eu 83 réponses dont 52 réponses avec une rue citée (62%)
+
+19 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,13 @@ Sur 83 réponses dont 52 avec une rue cité (taux réussite 62%)
 | PONT DE CHAMPIGNY | 2 | 2% | 3%|
 | RUE DE LA VARENNE | 2 | 2% | 3%|
 | BOULEVARD MAURICE BERTEAUX | 2 | 2% | 3%|
+| AVENUE CHARLES VII | 1 | 1% | 1%|
+| AVENUE LOUIS BLANC | 1 | 1% | 1%|
+| AVENUE DE LA REPUBLIQUE | 1 | 1% | 1%|
+| AVENUE DE CONDE | 1 | 1% | 1%|
+| AVENUE HENRI MARTIN | 1 | 1% | 1%|
+| RUE BOURDIGNON | 1 | 1% | 1%|
+| BOULEVARD DE CHAMPIGNY | 1 | 1% | 1%|
+| AVENUE DE L ALMA | 1 | 1% | 1%|
+| LA MARNE | 1 | 1% | 1%|
+| **Total** | 52 | 62% | 100%|

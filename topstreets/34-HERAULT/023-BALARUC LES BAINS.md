@@ -1,8 +1,11 @@
 # Résultat pour 023-BALARUC LES BAINS
 
-Sur 18 réponses dont 2 avec une rue cité (taux réussite 11%)
+Sur l'ensemble de la ville il y a eu 18 réponses dont 2 réponses avec une rue citée (11%)
+
+2 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | BORD DE L ETANG | 1 | 5% | 50%|
 | LA GARE | 1 | 5% | 50%|
+| **Total** | 2 | 11% | 100%|

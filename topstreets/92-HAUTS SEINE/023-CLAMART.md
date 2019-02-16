@@ -1,6 +1,8 @@
 # Résultat pour 023-CLAMART
 
-Sur 137 réponses dont 51 avec une rue cité (taux réussite 37%)
+Sur l'ensemble de la ville il y a eu 137 réponses dont 51 réponses avec une rue citée (37%)
+
+22 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,16 @@ Sur 137 réponses dont 51 avec une rue cité (taux réussite 37%)
 | PLACE DU GARDE | 2 | 1% | 3%|
 | RUE LAZARE CARNOT | 2 | 1% | 3%|
 | ALLEE VICTOR HUGO | 2 | 1% | 3%|
+| GARE DE CLAMART | 2 | 1% | 3%|
+| RUE DE MEUDON | 2 | 1% | 3%|
+| RUE PORTE DE TRIVAUX | 1 | 0% | 1%|
+| RUE CONDORCET | 1 | 0% | 1%|
+| RUE GAMBETTA | 1 | 0% | 1%|
+| RUE PIERRE LOUVRIER | 1 | 0% | 1%|
+| RUE PIERRE CORBY | 1 | 0% | 1%|
+| RUE D ESTIENNE D ORVES | 1 | 0% | 1%|
+| AVENUE DE VILLACOUBLAY | 1 | 0% | 1%|
+| RUE LOUISE FILLEAUX TIGER | 1 | 0% | 1%|
+| RUE DU TROSY | 1 | 0% | 1%|
+| RUE DU MOULIN DE PIERRE | 1 | 0% | 1%|
+| **Total** | 51 | 37% | 100%|

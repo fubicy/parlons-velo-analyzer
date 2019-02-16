@@ -1,6 +1,8 @@
 # Résultat pour 044-LIMEIL BREVANNES
 
-Sur 42 réponses dont 4 avec une rue cité (taux réussite 9%)
+Sur l'ensemble de la ville il y a eu 42 réponses dont 4 réponses avec une rue citée (9%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 42 réponses dont 4 avec une rue cité (taux réussite 9%)
 | LIMEIL | 1 | 2% | 25%|
 | RUE DU TERTRE | 1 | 2% | 25%|
 | RUE ALBERT GARRY | 1 | 2% | 25%|
+| **Total** | 4 | 9% | 100%|

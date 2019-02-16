@@ -1,6 +1,8 @@
 # Résultat pour 272-TULLE
 
-Sur 7 réponses dont 5 avec une rue cité (taux réussite 71%)
+Sur l'ensemble de la ville il y a eu 7 réponses dont 5 réponses avec une rue citée (71%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 7 réponses dont 5 avec une rue cité (taux réussite 71%)
 | MULATET | 1 | 14% | 20%|
 | AVENUE DE VENTADOUR | 1 | 14% | 20%|
 | SOUILHAC | 1 | 14% | 20%|
+| **Total** | 5 | 71% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 291-LEGUEVIN
 
-Sur 16 réponses dont 8 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 16 réponses dont 8 réponses avec une rue citée (50%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 16 réponses dont 8 avec une rue cité (taux réussite 50%)
 | ROUTE DE LA SALVETAT | 1 | 6% | 12%|
 | AVENUE DE LA BOUSCARRE | 1 | 6% | 12%|
 | RUE DU COUSERANS | 1 | 6% | 12%|
+| **Total** | 8 | 50% | 100%|

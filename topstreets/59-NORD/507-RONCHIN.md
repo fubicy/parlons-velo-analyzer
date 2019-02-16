@@ -1,6 +1,8 @@
 # Résultat pour 507-RONCHIN
 
-Sur 65 réponses dont 51 avec une rue cité (taux réussite 78%)
+Sur l'ensemble de la ville il y a eu 65 réponses dont 51 réponses avec une rue citée (78%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 65 réponses dont 51 avec une rue cité (taux réussite 78%)
 | RUE LEON GAMBETTA | 1 | 1% | 1%|
 | RUE DES FLEURS | 1 | 1% | 1%|
 | RUE PIERRE MAUROY | 1 | 1% | 1%|
+| RUE DE LESQUIN | 1 | 1% | 1%|
+| **Total** | 51 | 78% | 100%|

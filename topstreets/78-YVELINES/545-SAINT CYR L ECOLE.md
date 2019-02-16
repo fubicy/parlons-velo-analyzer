@@ -1,6 +1,8 @@
 # Résultat pour 545-SAINT CYR L ECOLE
 
-Sur 39 réponses dont 31 avec une rue cité (taux réussite 79%)
+Sur l'ensemble de la ville il y a eu 39 réponses dont 31 réponses avec une rue citée (79%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 39 réponses dont 31 avec une rue cité (taux réussite 79%)
 | RUE MANSART | 1 | 2% | 3%|
 | LDT GABRIEL PERI | 1 | 2% | 3%|
 | RUE EMILE ZOLA | 1 | 2% | 3%|
+| EPI D OR | 1 | 2% | 3%|
+| **Total** | 31 | 79% | 100%|

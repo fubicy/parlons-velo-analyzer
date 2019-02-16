@@ -1,6 +1,8 @@
 # Résultat pour 211-MARSEILLE 11EME
 
-Sur 1846 réponses dont 33 avec une rue cité (taux réussite 1%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 33 réponses avec une rue citée (1%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 1846 réponses dont 33 avec une rue cité (taux réussite 1%)
 | LE PLAN | 1 | 0% | 3%|
 | LA GROGNARDE | 1 | 0% | 3%|
 | RUE SAINT PIERRE | 1 | 0% | 3%|
+| **Total** | 33 | 1% | 100%|

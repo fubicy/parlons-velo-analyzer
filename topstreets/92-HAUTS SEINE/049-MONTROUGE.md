@@ -1,6 +1,8 @@
 # Résultat pour 049-MONTROUGE
 
-Sur 62 réponses dont 39 avec une rue cité (taux réussite 62%)
+Sur l'ensemble de la ville il y a eu 62 réponses dont 39 réponses avec une rue citée (62%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 62 réponses dont 39 avec une rue cité (taux réussite 62%)
 | RUE GABRIEL PERI | 2 | 3% | 5%|
 | AVENUE JEAN JAURES | 2 | 3% | 5%|
 | RUE MAURICE ARNOUX | 2 | 3% | 5%|
+| **Total** | 39 | 62% | 100%|

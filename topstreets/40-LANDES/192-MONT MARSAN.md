@@ -1,6 +1,8 @@
 # Résultat pour 192-MONT MARSAN
 
-Sur 58 réponses dont 19 avec une rue cité (taux réussite 32%)
+Sur l'ensemble de la ville il y a eu 58 réponses dont 19 réponses avec une rue citée (32%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 58 réponses dont 19 avec une rue cité (taux réussite 32%)
 | RUE ARMAND DULAMON | 1 | 1% | 5%|
 | RUE PIERRE LISSE | 1 | 1% | 5%|
 | AVENUE ELOI DUCOM | 1 | 1% | 5%|
+| TUNNEL POUR PIETONS | 1 | 1% | 5%|
+| AVENUE DU MARECHAL JUIN | 1 | 1% | 5%|
+| **Total** | 19 | 32% | 100%|

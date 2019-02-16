@@ -1,6 +1,8 @@
 # Résultat pour 212-PLOUZANE
 
-Sur 39 réponses dont 32 avec une rue cité (taux réussite 82%)
+Sur l'ensemble de la ville il y a eu 39 réponses dont 32 réponses avec une rue citée (82%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 39 réponses dont 32 avec une rue cité (taux réussite 82%)
 | MESCLEUZIOU | 1 | 2% | 3%|
 | AVENUE DU TECHNOPOLE | 1 | 2% | 3%|
 | AVENUE DU GENERAL DE GAULLE | 1 | 2% | 3%|
+| RUE DE BRETAGNE | 1 | 2% | 3%|
+| ROUTE DE GUILERS | 1 | 2% | 3%|
+| ROUTE DE PLOUMOGUER | 1 | 2% | 3%|
+| AVENUE JACQUES PREVERT | 1 | 2% | 3%|
+| **Total** | 32 | 82% | 100%|

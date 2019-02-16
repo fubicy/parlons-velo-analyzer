@@ -1,6 +1,8 @@
 # Résultat pour 179-MOTTE SERVOLEX
 
-Sur 15 réponses dont 8 avec une rue cité (taux réussite 53%)
+Sur l'ensemble de la ville il y a eu 15 réponses dont 8 réponses avec une rue citée (53%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 15 réponses dont 8 avec une rue cité (taux réussite 53%)
 | AVENUE SAINT EXUPERY | 1 | 6% | 12%|
 | RUE THEODORE REINACH | 1 | 6% | 12%|
 | RUE DES ALLOBROGES | 1 | 6% | 12%|
+| **Total** | 8 | 53% | 100%|

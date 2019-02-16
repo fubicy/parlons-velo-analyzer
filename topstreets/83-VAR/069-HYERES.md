@@ -1,6 +1,8 @@
 # Résultat pour 069-HYERES
 
-Sur 27 réponses dont 22 avec une rue cité (taux réussite 81%)
+Sur l'ensemble de la ville il y a eu 27 réponses dont 22 réponses avec une rue citée (81%)
+
+16 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,10 @@ Sur 27 réponses dont 22 avec une rue cité (taux réussite 81%)
 | ROUTE DU SEL | 1 | 3% | 4%|
 | LA MADRAGUE | 1 | 3% | 4%|
 | AVENUE LEOPOLD RITONDALE | 1 | 3% | 4%|
+| LA TOUR FONDUE | 1 | 3% | 4%|
+| L HIPPODROME | 1 | 3% | 4%|
+| RUE SAINT NICOLAS | 1 | 3% | 4%|
+| GARE DES SALINS | 1 | 3% | 4%|
+| MAUVANNE | 1 | 3% | 4%|
+| ROUTE DE PIERREFEU | 1 | 3% | 4%|
+| **Total** | 22 | 81% | 100%|

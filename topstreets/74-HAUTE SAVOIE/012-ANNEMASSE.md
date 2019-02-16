@@ -1,6 +1,8 @@
 # Résultat pour 012-ANNEMASSE
 
-Sur 68 réponses dont 47 avec une rue cité (taux réussite 69%)
+Sur l'ensemble de la ville il y a eu 68 réponses dont 47 réponses avec une rue citée (69%)
+
+15 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,9 @@ Sur 68 réponses dont 47 avec une rue cité (taux réussite 69%)
 | RUE DE GENEVE | 3 | 4% | 6%|
 | ROUTE DES VALLEES | 2 | 2% | 4%|
 | RUE DU SALEVE | 2 | 2% | 4%|
+| RUE DE LA RESISTANCE | 1 | 1% | 2%|
+| RUE D ARVE | 1 | 1% | 2%|
+| RUE DU CHABLAIS | 1 | 1% | 2%|
+| AVENUE DU GENERAL DE GAULLE | 1 | 1% | 2%|
+| AVENUE EMILE ZOLA | 1 | 1% | 2%|
+| **Total** | 47 | 69% | 100%|

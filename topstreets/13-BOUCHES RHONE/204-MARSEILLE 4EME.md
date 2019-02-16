@@ -1,6 +1,8 @@
 # Résultat pour 204-MARSEILLE 4EME
 
-Sur 1846 réponses dont 121 avec une rue cité (taux réussite 6%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 121 réponses avec une rue citée (6%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 1846 réponses dont 121 avec une rue cité (taux réussite 6%)
 | BOULEVARD CAMILLE FLAMMARION | 2 | 0% | 1%|
 | RUE DES ECOLES | 1 | 0% | 0%|
 | AVENUE DE SAINT BARNABE | 1 | 0% | 0%|
+| GARE DE LA BLANCARDE | 1 | 0% | 0%|
+| PLACE SEBASTOPOL | 1 | 0% | 0%|
+| **Total** | 121 | 6% | 100%|

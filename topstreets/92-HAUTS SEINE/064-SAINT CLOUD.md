@@ -1,6 +1,8 @@
 # Résultat pour 064-SAINT CLOUD
 
-Sur 19 réponses dont 16 avec une rue cité (taux réussite 84%)
+Sur l'ensemble de la ville il y a eu 19 réponses dont 16 réponses avec une rue citée (84%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 19 réponses dont 16 avec une rue cité (taux réussite 84%)
 | LA SEINE | 1 | 5% | 6%|
 | RUE GOUNOD | 1 | 5% | 6%|
 | BOULEVARD DE LA REPUBLIQUE | 1 | 5% | 6%|
+| RUE DU CALVAIRE | 1 | 5% | 6%|
+| **Total** | 16 | 84% | 100%|

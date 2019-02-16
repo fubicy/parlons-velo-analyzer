@@ -1,6 +1,8 @@
 # Résultat pour 193-L ISLE ABEAU
 
-Sur 38 réponses dont 10 avec une rue cité (taux réussite 26%)
+Sur l'ensemble de la ville il y a eu 38 réponses dont 10 réponses avec une rue citée (26%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 38 réponses dont 10 avec une rue cité (taux réussite 26%)
 | PIERRE LOUVE | 1 | 2% | 10%|
 | LES SAYES | 1 | 2% | 10%|
 | AVENUE DE JALLIEU | 1 | 2% | 10%|
+| **Total** | 10 | 26% | 100%|

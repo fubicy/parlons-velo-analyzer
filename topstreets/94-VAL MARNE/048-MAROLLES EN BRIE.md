@@ -1,6 +1,8 @@
 # Résultat pour 048-MAROLLES EN BRIE
 
-Sur 46 réponses dont 9 avec une rue cité (taux réussite 19%)
+Sur l'ensemble de la ville il y a eu 46 réponses dont 9 réponses avec une rue citée (19%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 46 réponses dont 9 avec une rue cité (taux réussite 19%)
 | BOIS NOTRE DAME | 1 | 2% | 11%|
 | AVENUE DE LA BELLE IMAGE | 1 | 2% | 11%|
 | AVENUE DES BRUYERES | 1 | 2% | 11%|
+| **Total** | 9 | 19% | 100%|

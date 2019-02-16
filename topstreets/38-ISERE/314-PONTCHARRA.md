@@ -1,6 +1,8 @@
 # Résultat pour 314-PONTCHARRA
 
-Sur 25 réponses dont 20 avec une rue cité (taux réussite 80%)
+Sur l'ensemble de la ville il y a eu 25 réponses dont 20 réponses avec une rue citée (80%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 25 réponses dont 20 avec une rue cité (taux réussite 80%)
 | AVENUE DU DAUPHINE | 1 | 4% | 5%|
 | ROUTE DE GRENOBLE | 1 | 4% | 5%|
 | PLACE VILLARD NOIR | 1 | 4% | 5%|
+| **Total** | 20 | 80% | 100%|

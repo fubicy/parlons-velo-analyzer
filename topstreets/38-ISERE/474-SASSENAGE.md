@@ -1,6 +1,8 @@
 # Résultat pour 474-SASSENAGE
 
-Sur 27 réponses dont 20 avec une rue cité (taux réussite 74%)
+Sur l'ensemble de la ville il y a eu 27 réponses dont 20 réponses avec une rue citée (74%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 27 réponses dont 20 avec une rue cité (taux réussite 74%)
 | RUE FRANCOIS BLUMET | 1 | 3% | 5%|
 | RUE DU TAILLEFER | 1 | 3% | 5%|
 | LOTISSEMENT LE VILLAGE | 1 | 3% | 5%|
+| RIVOIRE DE LA DAME | 1 | 3% | 5%|
+| **Total** | 20 | 74% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 041-ARRAS
 
-Sur 68 réponses dont 27 avec une rue cité (taux réussite 39%)
+Sur l'ensemble de la ville il y a eu 68 réponses dont 27 réponses avec une rue citée (39%)
+
+16 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,10 @@ Sur 68 réponses dont 27 avec une rue cité (taux réussite 39%)
 | PLACE DE TCHECOSLOVAQUIE | 1 | 1% | 3%|
 | RUE DES DOMINICAINS | 1 | 1% | 3%|
 | RUE MAITRE ADAM | 1 | 1% | 3%|
+| RUE MICHELET | 1 | 1% | 3%|
+| RUE DE DOUAI | 1 | 1% | 3%|
+| RUE ROGER SALENGRO | 1 | 1% | 3%|
+| PLACE GRAND PLACE | 1 | 1% | 3%|
+| RUE PAUL DOUMER | 1 | 1% | 3%|
+| RUE SAINT AUBERT | 1 | 1% | 3%|
+| **Total** | 27 | 39% | 100%|

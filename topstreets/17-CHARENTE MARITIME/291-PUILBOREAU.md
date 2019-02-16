@@ -1,6 +1,8 @@
 # Résultat pour 291-PUILBOREAU
 
-Sur 29 réponses dont 28 avec une rue cité (taux réussite 96%)
+Sur l'ensemble de la ville il y a eu 29 réponses dont 28 réponses avec une rue citée (96%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 29 réponses dont 28 avec une rue cité (taux réussite 96%)
 | LA VALLEE | 1 | 3% | 3%|
 | RUE DES FLENEAUX | 1 | 3% | 3%|
 | RUE DU MOULIN | 1 | 3% | 3%|
+| LAFOND | 1 | 3% | 3%|
+| **Total** | 28 | 96% | 100%|

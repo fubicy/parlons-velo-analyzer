@@ -1,6 +1,8 @@
 # Résultat pour 063-BEZONS
 
-Sur 30 réponses dont 20 avec une rue cité (taux réussite 66%)
+Sur l'ensemble de la ville il y a eu 30 réponses dont 20 réponses avec une rue citée (66%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 30 réponses dont 20 avec une rue cité (taux réussite 66%)
 | LA SEINE | 1 | 3% | 5%|
 | CHEMIN DU HALAGE | 1 | 3% | 5%|
 | CITE GRAND CERF | 1 | 3% | 5%|
+| **Total** | 20 | 66% | 100%|

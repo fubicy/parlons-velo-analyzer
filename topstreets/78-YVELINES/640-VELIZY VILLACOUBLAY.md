@@ -1,6 +1,8 @@
 # Résultat pour 640-VELIZY VILLACOUBLAY
 
-Sur 32 réponses dont 9 avec une rue cité (taux réussite 28%)
+Sur l'ensemble de la ville il y a eu 32 réponses dont 9 réponses avec une rue citée (28%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 32 réponses dont 9 avec une rue cité (taux réussite 28%)
 | RUE NIEUPORT | 1 | 3% | 11%|
 | RESIDENCE DES BOIS | 1 | 3% | 11%|
 | AVENUE ROBERT WAGNER | 1 | 3% | 11%|
+| **Total** | 9 | 28% | 100%|

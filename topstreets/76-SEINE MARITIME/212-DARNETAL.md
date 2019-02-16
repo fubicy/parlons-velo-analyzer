@@ -1,6 +1,8 @@
 # Résultat pour 212-DARNETAL
 
-Sur 10 réponses dont 8 avec une rue cité (taux réussite 80%)
+Sur l'ensemble de la ville il y a eu 10 réponses dont 8 réponses avec une rue citée (80%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 10 réponses dont 8 avec une rue cité (taux réussite 80%)
 | ROUTE DE LYONS LA FORET | 1 | 10% | 12%|
 | RUE GASTON RISSER | 1 | 10% | 12%|
 | LA ROUTE DE ROUEN | 1 | 10% | 12%|
+| **Total** | 8 | 80% | 100%|

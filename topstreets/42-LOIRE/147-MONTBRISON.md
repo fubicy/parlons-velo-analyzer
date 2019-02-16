@@ -1,6 +1,8 @@
 # Résultat pour 147-MONTBRISON
 
-Sur 77 réponses dont 11 avec une rue cité (taux réussite 14%)
+Sur l'ensemble de la ville il y a eu 77 réponses dont 11 réponses avec une rue citée (14%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 77 réponses dont 11 avec une rue cité (taux réussite 14%)
 | QUAI DE L'HOPITAL | 1 | 1% | 9%|
 | RUE DE LA REPUBLIQUE | 1 | 1% | 9%|
 | ROUTE DE SAINT ETIENNE | 1 | 1% | 9%|
+| **Total** | 11 | 14% | 100%|

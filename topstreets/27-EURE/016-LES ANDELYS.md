@@ -1,8 +1,11 @@
 # Résultat pour 016-LES ANDELYS
 
-Sur 7 réponses dont 3 avec une rue cité (taux réussite 42%)
+Sur l'ensemble de la ville il y a eu 7 réponses dont 3 réponses avec une rue citée (42%)
+
+2 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | AVENUE DE LA REPUBLIQUE | 2 | 28% | 66%|
 | RUE DUMONT | 1 | 14% | 33%|
+| **Total** | 3 | 42% | 100%|

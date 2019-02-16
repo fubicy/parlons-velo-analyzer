@@ -1,6 +1,8 @@
 # Résultat pour 025-AVRANCHES
 
-Sur 54 réponses dont 21 avec une rue cité (taux réussite 38%)
+Sur l'ensemble de la ville il y a eu 54 réponses dont 21 réponses avec une rue citée (38%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 54 réponses dont 21 avec une rue cité (taux réussite 38%)
 | BOULEVARD AMIRAL GAUCHET | 1 | 1% | 4%|
 | RUE DU GUE DE L EPINE | 1 | 1% | 4%|
 | RUE NATIONALE | 1 | 1% | 4%|
+| RUE SAINT GERVAIS | 1 | 1% | 4%|
+| RUE DIVISION LECLERC | 1 | 1% | 4%|
+| **Total** | 21 | 38% | 100%|

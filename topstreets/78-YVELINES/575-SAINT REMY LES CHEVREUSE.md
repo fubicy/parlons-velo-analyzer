@@ -1,6 +1,8 @@
 # Résultat pour 575-SAINT REMY LES CHEVREUSE
 
-Sur 14 réponses dont 5 avec une rue cité (taux réussite 35%)
+Sur l'ensemble de la ville il y a eu 14 réponses dont 5 réponses avec une rue citée (35%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 14 réponses dont 5 avec une rue cité (taux réussite 35%)
 | RUE DE LA REPUBLIQUE | 1 | 7% | 20%|
 | ROUTE DE VERSAILLES | 1 | 7% | 20%|
 | RUE DITTE | 1 | 7% | 20%|
+| **Total** | 5 | 35% | 100%|

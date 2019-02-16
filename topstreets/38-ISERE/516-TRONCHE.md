@@ -1,6 +1,8 @@
 # Résultat pour 516-TRONCHE
 
-Sur 37 réponses dont 14 avec une rue cité (taux réussite 37%)
+Sur l'ensemble de la ville il y a eu 37 réponses dont 14 réponses avec une rue citée (37%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 37 réponses dont 14 avec une rue cité (taux réussite 37%)
 | RUE DU VERCORS | 1 | 2% | 7%|
 | RUE FORTUNE FERRINI | 1 | 2% | 7%|
 | ISERE | 1 | 2% | 7%|
+| **Total** | 14 | 37% | 100%|

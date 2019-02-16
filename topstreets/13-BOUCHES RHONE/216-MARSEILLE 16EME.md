@@ -1,6 +1,8 @@
 # Résultat pour 216-MARSEILLE 16EME
 
-Sur 1846 réponses dont 50 avec une rue cité (taux réussite 2%)
+Sur l'ensemble de la ville il y a eu 1846 réponses dont 50 réponses avec une rue citée (2%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 1846 réponses dont 50 avec une rue cité (taux réussite 2%)
 | RUE ETROITE | 1 | 0% | 2%|
 | MONTEE DES ECOLES | 1 | 0% | 2%|
 | RUE LEON | 1 | 0% | 2%|
+| **Total** | 50 | 2% | 100%|

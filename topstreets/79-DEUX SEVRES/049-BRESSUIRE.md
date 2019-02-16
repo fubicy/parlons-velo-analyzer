@@ -1,6 +1,8 @@
 # Résultat pour 049-BRESSUIRE
 
-Sur 47 réponses dont 12 avec une rue cité (taux réussite 25%)
+Sur l'ensemble de la ville il y a eu 47 réponses dont 12 réponses avec une rue citée (25%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 47 réponses dont 12 avec une rue cité (taux réussite 25%)
 | BOULEVARD DU GUEDEAU | 1 | 2% | 8%|
 | RUE GAMBETTA | 1 | 2% | 8%|
 | RUE DE NUEIL LES AUBIERS | 1 | 2% | 8%|
+| **Total** | 12 | 25% | 100%|

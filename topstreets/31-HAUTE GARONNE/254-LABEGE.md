@@ -1,6 +1,8 @@
 # Résultat pour 254-LABEGE
 
-Sur 22 réponses dont 14 avec une rue cité (taux réussite 63%)
+Sur l'ensemble de la ville il y a eu 22 réponses dont 14 réponses avec une rue citée (63%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 22 réponses dont 14 avec une rue cité (taux réussite 63%)
 | RUE JEAN ROSTAND | 1 | 4% | 7%|
 | RUE PIERRE GILLES DE GENNES | 1 | 4% | 7%|
 | RUE DU CHENE VERT | 1 | 4% | 7%|
+| **Total** | 14 | 63% | 100%|

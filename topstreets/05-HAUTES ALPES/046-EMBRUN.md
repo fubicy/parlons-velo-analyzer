@@ -1,6 +1,8 @@
 # Résultat pour 046-EMBRUN
 
-Sur 53 réponses dont 19 avec une rue cité (taux réussite 35%)
+Sur l'ensemble de la ville il y a eu 53 réponses dont 19 réponses avec une rue citée (35%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 53 réponses dont 19 avec une rue cité (taux réussite 35%)
 | LA ROBEYERE | 1 | 1% | 5%|
 | LE LAC | 1 | 1% | 5%|
 | LA CLAPIERE | 1 | 1% | 5%|
+| **Total** | 19 | 35% | 100%|

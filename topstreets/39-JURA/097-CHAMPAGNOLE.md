@@ -1,6 +1,8 @@
 # Résultat pour 097-CHAMPAGNOLE
 
-Sur 68 réponses dont 23 avec une rue cité (taux réussite 33%)
+Sur l'ensemble de la ville il y a eu 68 réponses dont 23 réponses avec une rue citée (33%)
+
+9 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -13,3 +15,4 @@ Sur 68 réponses dont 23 avec une rue cité (taux réussite 33%)
 | RUE BARONNE DELORT | 1 | 1% | 4%|
 | RUE STEPHEN PICHON | 1 | 1% | 4%|
 | CHEMIN DE PROVELLE | 1 | 1% | 4%|
+| **Total** | 23 | 33% | 100%|

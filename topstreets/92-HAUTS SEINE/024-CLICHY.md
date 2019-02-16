@@ -1,6 +1,8 @@
 # Résultat pour 024-CLICHY
 
-Sur 73 réponses dont 65 avec une rue cité (taux réussite 89%)
+Sur l'ensemble de la ville il y a eu 73 réponses dont 65 réponses avec une rue citée (89%)
+
+15 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,9 @@ Sur 73 réponses dont 65 avec une rue cité (taux réussite 89%)
 | PONT DE GENNEVILLIERS | 2 | 2% | 3%|
 | RUE VILLENEUVE | 2 | 2% | 3%|
 | RUE DE NEUILLY | 2 | 2% | 3%|
+| QUAI DE CLICHY | 2 | 2% | 3%|
+| BOULEVARD DU GENERAL LECLERC | 1 | 1% | 1%|
+| GARE CLICHY LEVALLOIS | 1 | 1% | 1%|
+| RUE CASTERES | 1 | 1% | 1%|
+| RUE D ALSACE | 1 | 1% | 1%|
+| **Total** | 65 | 89% | 100%|

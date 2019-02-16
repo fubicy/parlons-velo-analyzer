@@ -1,6 +1,8 @@
 # Résultat pour 302-SARAN
 
-Sur 39 réponses dont 17 avec une rue cité (taux réussite 43%)
+Sur l'ensemble de la ville il y a eu 39 réponses dont 17 réponses avec une rue citée (43%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 39 réponses dont 17 avec une rue cité (taux réussite 43%)
 | RUE DU BOURG | 1 | 2% | 5%|
 | LE BOURG | 1 | 2% | 5%|
 | LE BOIS SALE | 1 | 2% | 5%|
+| **Total** | 17 | 43% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 056-CHAMONIX MONT BLANC
 
-Sur 19 réponses dont 4 avec une rue cité (taux réussite 21%)
+Sur l'ensemble de la ville il y a eu 19 réponses dont 4 réponses avec une rue citée (21%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 19 réponses dont 4 avec une rue cité (taux réussite 21%)
 | ARGENTIERES | 1 | 5% | 25%|
 | ROUTE DES GAILLANDS | 1 | 5% | 25%|
 | BOUCHET | 1 | 5% | 25%|
+| **Total** | 4 | 21% | 100%|

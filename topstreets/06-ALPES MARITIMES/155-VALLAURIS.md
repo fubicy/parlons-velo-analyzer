@@ -1,6 +1,8 @@
 # Résultat pour 155-VALLAURIS
 
-Sur 8 réponses dont 9 avec une rue cité (taux réussite 112%)
+Sur l'ensemble de la ville il y a eu 8 réponses dont 9 réponses avec une rue citée (112%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 8 réponses dont 9 avec une rue cité (taux réussite 112%)
 | AVENUE DE LA LIBERTE | 1 | 12% | 11%|
 | AVENUE DU TAPIS VERT | 1 | 12% | 11%|
 | BOULEVARD JACQUES UGO | 1 | 12% | 11%|
+| **Total** | 9 | 112% | 100%|

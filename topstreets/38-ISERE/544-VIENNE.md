@@ -1,6 +1,8 @@
 # Résultat pour 544-VIENNE
 
-Sur 59 réponses dont 27 avec une rue cité (taux réussite 45%)
+Sur l'ensemble de la ville il y a eu 59 réponses dont 27 réponses avec une rue citée (45%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 59 réponses dont 27 avec une rue cité (taux réussite 45%)
 | QUAI PAJOT | 1 | 1% | 3%|
 | PLACE DE LA GARE | 1 | 1% | 3%|
 | COURS DE VERDUN | 1 | 1% | 3%|
+| SAINT BENOIT | 1 | 1% | 3%|
+| LEVEAU | 1 | 1% | 3%|
+| RUE VIMAINE | 1 | 1% | 3%|
+| MALISSOL | 1 | 1% | 3%|
+| **Total** | 27 | 45% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 509-TOUR PIN
 
-Sur 55 réponses dont 36 avec une rue cité (taux réussite 65%)
+Sur l'ensemble de la ville il y a eu 55 réponses dont 36 réponses avec une rue citée (65%)
+
+14 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,8 @@ Sur 55 réponses dont 36 avec une rue cité (taux réussite 65%)
 | AVENUE DE LA GARE | 1 | 1% | 2%|
 | AVENUE GENERAL DE GAULLE | 1 | 1% | 2%|
 | LE CALLOUD | 1 | 1% | 2%|
+| PLACE CARNOT | 1 | 1% | 2%|
+| HLM LES DAUPHINS | 1 | 1% | 2%|
+| ZONE INDUSTRIELLE | 1 | 1% | 2%|
+| ROUTE DE VIRIEU | 1 | 1% | 2%|
+| **Total** | 36 | 65% | 100%|

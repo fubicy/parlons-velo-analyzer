@@ -1,6 +1,8 @@
 # Résultat pour 073-BOIS ARCY
 
-Sur 14 réponses dont 7 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 14 réponses dont 7 réponses avec une rue citée (50%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 14 réponses dont 7 avec une rue cité (taux réussite 50%)
 | RUE ALEXANDRE TURPAULT | 1 | 7% | 14%|
 | LES COMMUNES | 1 | 7% | 14%|
 | RUE HENRI BARBUSSE | 1 | 7% | 14%|
+| **Total** | 7 | 50% | 100%|

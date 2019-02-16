@@ -1,6 +1,8 @@
 # Résultat pour 075-VANVES
 
-Sur 70 réponses dont 40 avec une rue cité (taux réussite 57%)
+Sur l'ensemble de la ville il y a eu 70 réponses dont 40 réponses avec une rue citée (57%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 70 réponses dont 40 avec une rue cité (taux réussite 57%)
 | PLACE DES PROVINCES | 1 | 1% | 2%|
 | RUE JEAN JAURES | 1 | 1% | 2%|
 | AVENUE JACQUES JEZEQUEL | 1 | 1% | 2%|
+| AVENUE VICTOR BASCH | 1 | 1% | 2%|
+| AVENUE MARCEL MARTINIE | 1 | 1% | 2%|
+| **Total** | 40 | 57% | 100%|

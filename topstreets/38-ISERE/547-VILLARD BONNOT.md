@@ -1,9 +1,12 @@
 # Résultat pour 547-VILLARD BONNOT
 
-Sur 10 réponses dont 3 avec une rue cité (taux réussite 30%)
+Sur l'ensemble de la ville il y a eu 10 réponses dont 3 réponses avec une rue citée (30%)
+
+3 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | LANCEY | 1 | 10% | 33%|
 | AVENUE ROBERT HUANT | 1 | 10% | 33%|
 | LA BATIE | 1 | 10% | 33%|
+| **Total** | 3 | 30% | 100%|

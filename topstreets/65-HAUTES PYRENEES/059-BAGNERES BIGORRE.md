@@ -1,6 +1,8 @@
 # Résultat pour 059-BAGNERES BIGORRE
 
-Sur 38 réponses dont 12 avec une rue cité (taux réussite 31%)
+Sur l'ensemble de la ville il y a eu 38 réponses dont 12 réponses avec une rue citée (31%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 38 réponses dont 12 avec une rue cité (taux réussite 31%)
 | RUE DES PYRENEES | 1 | 2% | 8%|
 | RUE BLANCHE ODIN | 1 | 2% | 8%|
 | ROUTE DE TARBES | 1 | 2% | 8%|
+| **Total** | 12 | 31% | 100%|

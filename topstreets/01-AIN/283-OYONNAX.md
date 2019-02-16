@@ -1,6 +1,8 @@
 # Résultat pour 283-OYONNAX
 
-Sur 49 réponses dont 30 avec une rue cité (taux réussite 61%)
+Sur l'ensemble de la ville il y a eu 49 réponses dont 30 réponses avec une rue citée (61%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 49 réponses dont 30 avec une rue cité (taux réussite 61%)
 | RUE DU 19 MARS 1962 | 1 | 2% | 3%|
 | RUE DESCHAMPS | 1 | 2% | 3%|
 | VOIE FERREE | 1 | 2% | 3%|
+| RUE ARBEZ CARME | 1 | 2% | 3%|
+| GEILLES | 1 | 2% | 3%|
+| **Total** | 30 | 61% | 100%|

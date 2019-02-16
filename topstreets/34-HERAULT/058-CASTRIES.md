@@ -1,6 +1,8 @@
 # Résultat pour 058-CASTRIES
 
-Sur 50 réponses dont 11 avec une rue cité (taux réussite 22%)
+Sur l'ensemble de la ville il y a eu 50 réponses dont 11 réponses avec une rue citée (22%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 50 réponses dont 11 avec une rue cité (taux réussite 22%)
 | LA CADOULE | 1 | 2% | 9%|
 | RUE DES ECOLES | 1 | 2% | 9%|
 | ROUTE DE BAILLARGUES | 1 | 2% | 9%|
+| **Total** | 11 | 22% | 100%|

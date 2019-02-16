@@ -1,6 +1,8 @@
 # Résultat pour 063-CHALONNES SUR LOIRE
 
-Sur 4 réponses dont 6 avec une rue cité (taux réussite 150%)
+Sur l'ensemble de la ville il y a eu 4 réponses dont 6 réponses avec une rue citée (150%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 4 réponses dont 6 avec une rue cité (taux réussite 150%)
 | LE PONT | 1 | 25% | 16%|
 | LA RUE | 1 | 25% | 16%|
 | ROUTE DE SAINT LAURENT | 1 | 25% | 16%|
+| **Total** | 6 | 150% | 100%|

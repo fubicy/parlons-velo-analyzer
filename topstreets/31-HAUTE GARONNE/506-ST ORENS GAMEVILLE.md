@@ -1,6 +1,8 @@
 # Résultat pour 506-ST ORENS GAMEVILLE
 
-Sur 47 réponses dont 25 avec une rue cité (taux réussite 53%)
+Sur l'ensemble de la ville il y a eu 47 réponses dont 25 réponses avec une rue citée (53%)
+
+13 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,7 @@ Sur 47 réponses dont 25 avec une rue cité (taux réussite 53%)
 | CAYRAS | 1 | 2% | 4%|
 | AVENUE AUGUSTIN LABOUILHE | 1 | 2% | 4%|
 | FONDARGENT | 1 | 2% | 4%|
+| AVENUE DE REVEL | 1 | 2% | 4%|
+| AVENUE DE TOULOUSE | 1 | 2% | 4%|
+| AVENUE LOUIS COUDER | 1 | 2% | 4%|
+| **Total** | 25 | 53% | 100%|

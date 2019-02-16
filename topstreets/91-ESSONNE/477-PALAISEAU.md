@@ -1,6 +1,8 @@
 # Résultat pour 477-PALAISEAU
 
-Sur 63 réponses dont 34 avec une rue cité (taux réussite 53%)
+Sur l'ensemble de la ville il y a eu 63 réponses dont 34 réponses avec une rue citée (53%)
+
+20 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,14 @@ Sur 63 réponses dont 34 avec une rue cité (taux réussite 53%)
 | BOULEVARD BARA | 1 | 1% | 2%|
 | RUE CHARLES GOUNOD | 1 | 1% | 2%|
 | RUE MARCEAU | 1 | 1% | 2%|
+| RUE GUTENBERG | 1 | 1% | 2%|
+| LA VAUVE | 1 | 1% | 2%|
+| ROUTE DE SACLAY | 1 | 1% | 2%|
+| RUE GEORGE SAND | 1 | 1% | 2%|
+| AVENUE DES COSMONAUTES | 1 | 1% | 2%|
+| PLACE DE LA VICTOIRE | 1 | 1% | 2%|
+| AVENUE DU GENERAL DE GAULLE | 1 | 1% | 2%|
+| RUE ELISEE RECLUS | 1 | 1% | 2%|
+| ROUTE DE PALAISEAU | 1 | 1% | 2%|
+| RUE DE L EFFORT MUTUEL | 1 | 1% | 2%|
+| **Total** | 34 | 53% | 100%|

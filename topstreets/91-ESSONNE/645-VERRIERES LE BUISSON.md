@@ -1,6 +1,8 @@
 # Résultat pour 645-VERRIERES LE BUISSON
 
-Sur 26 réponses dont 13 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 26 réponses dont 13 réponses avec une rue citée (50%)
+
+11 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,5 @@ Sur 26 réponses dont 13 avec une rue cité (taux réussite 50%)
 | AVENUE GEORGES POMPIDOU | 1 | 3% | 7%|
 | AVENUE DE LA REPUBLIQUE | 1 | 3% | 7%|
 | AVENUE CAMBACERES | 1 | 3% | 7%|
+| BOULEVARD MAL FOCH | 1 | 3% | 7%|
+| **Total** | 13 | 50% | 100%|

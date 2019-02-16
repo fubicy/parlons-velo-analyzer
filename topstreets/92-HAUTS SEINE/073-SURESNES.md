@@ -1,6 +1,8 @@
 # Résultat pour 073-SURESNES
 
-Sur 67 réponses dont 49 avec une rue cité (taux réussite 73%)
+Sur l'ensemble de la ville il y a eu 67 réponses dont 49 réponses avec une rue citée (73%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 67 réponses dont 49 avec une rue cité (taux réussite 73%)
 | ALLEE DE LONGCHAMP | 1 | 1% | 2%|
 | AVENUE JEAN JAURES | 1 | 1% | 2%|
 | RUE DU VAL D OR | 1 | 1% | 2%|
+| **Total** | 49 | 73% | 100%|

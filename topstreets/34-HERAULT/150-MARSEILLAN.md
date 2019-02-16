@@ -1,6 +1,8 @@
 # Résultat pour 150-MARSEILLAN
 
-Sur 69 réponses dont 23 avec une rue cité (taux réussite 33%)
+Sur l'ensemble de la ville il y a eu 69 réponses dont 23 réponses avec une rue citée (33%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 69 réponses dont 23 avec une rue cité (taux réussite 33%)
 | CHEMIN DE L'ETANG | 1 | 1% | 4%|
 | LOTISSEMENT L ETANG DE THAU | 1 | 1% | 4%|
 | AVENUE DES AMANTS | 1 | 1% | 4%|
+| **Total** | 23 | 33% | 100%|

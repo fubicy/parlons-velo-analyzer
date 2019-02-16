@@ -1,6 +1,8 @@
 # Résultat pour 060-LE PLESSIS ROBINSON
 
-Sur 39 réponses dont 22 avec une rue cité (taux réussite 56%)
+Sur l'ensemble de la ville il y a eu 39 réponses dont 22 réponses avec une rue citée (56%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 39 réponses dont 22 avec une rue cité (taux réussite 56%)
 | RUE PAUL RIVET | 1 | 2% | 4%|
 | AVENUE GALILEE | 1 | 2% | 4%|
 | AVENUE LEON BLUM | 1 | 2% | 4%|
+| **Total** | 22 | 56% | 100%|

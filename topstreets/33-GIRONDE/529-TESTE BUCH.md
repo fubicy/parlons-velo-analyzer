@@ -1,6 +1,8 @@
 # Résultat pour 529-TESTE BUCH
 
-Sur 6 réponses dont 7 avec une rue cité (taux réussite 116%)
+Sur l'ensemble de la ville il y a eu 6 réponses dont 7 réponses avec une rue citée (116%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 6 réponses dont 7 avec une rue cité (taux réussite 116%)
 | AVENUE CHARLES DE GAULLE | 1 | 16% | 14%|
 | BISSERIE | 1 | 16% | 14%|
 | LA GARE | 1 | 16% | 14%|
+| **Total** | 7 | 116% | 100%|

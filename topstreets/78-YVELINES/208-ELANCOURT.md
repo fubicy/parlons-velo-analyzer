@@ -1,6 +1,8 @@
 # Résultat pour 208-ELANCOURT
 
-Sur 18 réponses dont 8 avec une rue cité (taux réussite 44%)
+Sur l'ensemble de la ville il y a eu 18 réponses dont 8 réponses avec une rue citée (44%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 18 réponses dont 8 avec une rue cité (taux réussite 44%)
 | ROND POINT DE LA BOISSIERE | 1 | 5% | 12%|
 | ROUTE DES GATINES | 1 | 5% | 12%|
 | BOULEVARD ANDRE MALRAUX | 1 | 5% | 12%|
+| **Total** | 8 | 44% | 100%|

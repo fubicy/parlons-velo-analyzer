@@ -1,6 +1,8 @@
 # Résultat pour 027-CAGNES SUR MER
 
-Sur 58 réponses dont 21 avec une rue cité (taux réussite 36%)
+Sur l'ensemble de la ville il y a eu 58 réponses dont 21 réponses avec une rue citée (36%)
+
+13 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,7 @@ Sur 58 réponses dont 21 avec une rue cité (taux réussite 36%)
 | LA GARE | 1 | 1% | 4%|
 | SAINT JEAN | 1 | 1% | 4%|
 | AVENUE DES CHENES | 1 | 1% | 4%|
+| LE BEAL | 1 | 1% | 4%|
+| CHEMIN DU VAL FLEURI | 1 | 1% | 4%|
+| AVENUE DE GRASSE | 1 | 1% | 4%|
+| **Total** | 21 | 36% | 100%|

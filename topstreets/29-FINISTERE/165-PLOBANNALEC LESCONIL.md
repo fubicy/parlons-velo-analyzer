@@ -1,6 +1,8 @@
 # Résultat pour 165-PLOBANNALEC LESCONIL
 
-Sur 43 réponses dont 40 avec une rue cité (taux réussite 93%)
+Sur l'ensemble de la ville il y a eu 43 réponses dont 40 réponses avec une rue citée (93%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 43 réponses dont 40 avec une rue cité (taux réussite 93%)
 | KERLEUSQUENET | 1 | 2% | 2%|
 | RUE LAENNEC | 1 | 2% | 2%|
 | LE BOURG | 1 | 2% | 2%|
+| RUE DES QUATRE VENTS | 1 | 2% | 2%|
+| RUE JEAN JAURES | 1 | 2% | 2%|
+| **Total** | 40 | 93% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 037-BERGERAC
 
-Sur 23 réponses dont 10 avec une rue cité (taux réussite 43%)
+Sur l'ensemble de la ville il y a eu 23 réponses dont 10 réponses avec une rue citée (43%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 23 réponses dont 10 avec une rue cité (taux réussite 43%)
 | RUE DE LA BOETIE | 1 | 4% | 10%|
 | PLACE MALBEC | 1 | 4% | 10%|
 | RUE VALETTE | 1 | 4% | 10%|
+| **Total** | 10 | 43% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 004-BOISSY ST LEGER
 
-Sur 14 réponses dont 11 avec une rue cité (taux réussite 78%)
+Sur l'ensemble de la ville il y a eu 14 réponses dont 11 réponses avec une rue citée (78%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 14 réponses dont 11 avec une rue cité (taux réussite 78%)
 | RUE DE MAROLLES | 1 | 7% | 9%|
 | ZAC DE BOISSY SAINT LEGER | 1 | 7% | 9%|
 | ROUTE NATIONALE 19 | 1 | 7% | 9%|
+| **Total** | 11 | 78% | 100%|

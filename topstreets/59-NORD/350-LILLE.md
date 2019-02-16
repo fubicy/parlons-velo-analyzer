@@ -1,6 +1,8 @@
 # Résultat pour 350-LILLE
 
-Sur 1849 réponses dont 1088 avec une rue cité (taux réussite 58%)
+Sur l'ensemble de la ville il y a eu 1849 réponses dont 1088 réponses avec une rue citée (58%)
+
+162 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,156 @@ Sur 1849 réponses dont 1088 avec une rue cité (taux réussite 58%)
 | RUE DE SOLFERINO | 31 | 1% | 2%|
 | RUE PIERRE LEGRAND | 29 | 1% | 2%|
 | BOULEVARD CARNOT | 23 | 1% | 2%|
+| BOULEVARD VAUBAN | 21 | 1% | 1%|
+| STATION LILLE SUD | 20 | 1% | 1%|
+| BOULEVARD VICTOR HUGO | 16 | 0% | 1%|
+| RUE DE TURENNE | 16 | 0% | 1%|
+| PONT DE TOURNAI | 15 | 0% | 1%|
+| RUE DU MOLINEL | 15 | 0% | 1%|
+| GRAND PALAIS | 14 | 0% | 1%|
+| BOULEVARD MONTEBELLO | 13 | 0% | 1%|
+| RUE FAIDHERBE | 12 | 0% | 1%|
+| RUE COLBERT | 10 | 0% | 0%|
+| RUE JAVARY | 8 | 0% | 0%|
+| RUE ROYALE | 8 | 0% | 0%|
+| PLACE DE LA REPUBLIQUE | 7 | 0% | 0%|
+| AVENUE LEON JOUHAUX | 7 | 0% | 0%|
+| RUE DE BETHUNE | 7 | 0% | 0%|
+| RUE D ISLY | 6 | 0% | 0%|
+| RUE DE DOUAI | 5 | 0% | 0%|
+| RUE ESQUERMOISE | 5 | 0% | 0%|
+| AVENUE DE LA REPUBLIQUE | 5 | 0% | 0%|
+| RUE LEON GAMBETTA | 5 | 0% | 0%|
+| BOULEVARD JEAN BAPTISTE LEBAS | 4 | 0% | 0%|
+| BOULEVARD DE STRASBOURG | 4 | 0% | 0%|
+| RUE DU PONT NEUF | 4 | 0% | 0%|
+| FACADE DE L ESPLANADE | 4 | 0% | 0%|
+| RUE CHANZY | 4 | 0% | 0%|
+| RUE DE L HOPITAL MILITAIRE | 4 | 0% | 0%|
+| BOULEVARD LOUIS 14 | 4 | 0% | 0%|
+| PORT FLUVIAL | 4 | 0% | 0%|
+| RUE BERNOS | 3 | 0% | 0%|
+| RUE DU BALLON | 3 | 0% | 0%|
+| RUE DES URBANISTES | 3 | 0% | 0%|
+| BOULEVARD D ALSACE | 3 | 0% | 0%|
+| BOULEVARD DE BELFORT | 3 | 0% | 0%|
+| PLACE DU GENERAL DE GAULLE | 3 | 0% | 0%|
+| RUE DE LA BASSEE | 3 | 0% | 0%|
+| RUE DE TOURNAI | 3 | 0% | 0%|
+| CARRIERE SAINT SAUVEUR | 3 | 0% | 0%|
+| RUE ARMAND CARREL | 3 | 0% | 0%|
+| RUE DES STATIONS | 3 | 0% | 0%|
+| RUE D ARRAS | 3 | 0% | 0%|
+| AVENUE LE CORBUSIER | 3 | 0% | 0%|
+| RUE MASSENA | 3 | 0% | 0%|
+| RUE DE LA LOUVIERE | 3 | 0% | 0%|
+| RUE D ARTOIS | 3 | 0% | 0%|
+| QUAI DE L'OUEST | 3 | 0% | 0%|
+| QUAI DU WAULT | 3 | 0% | 0%|
+| RUE DE LA JUSTICE | 3 | 0% | 0%|
+| AVENUE DU PEUPLE BELGE | 3 | 0% | 0%|
+| RUE DE GAND | 3 | 0% | 0%|
+| PONT DE FLANDRES | 3 | 0% | 0%|
+| RUE GUTENBERG | 2 | 0% | 0%|
+| AVENUE DENIS CORDONNIER | 2 | 0% | 0%|
+| CITE CAMILLE RUE DES POSTE | 2 | 0% | 0%|
+| RUE JACQUEMARS GIELEE | 2 | 0% | 0%|
+| CHAMP DE MARS | 2 | 0% | 0%|
+| LA MAIRIE | 2 | 0% | 0%|
+| BOULEVARD DE LA MOSELLE | 2 | 0% | 0%|
+| RUE D ESQUERMES | 2 | 0% | 0%|
+| BOULEVARD DE LORRAINE | 2 | 0% | 0%|
+| RUE DE CONDE | 2 | 0% | 0%|
+| RUE DE LA MONNAIE | 2 | 0% | 0%|
+| RUE JEANNE D ARC | 2 | 0% | 0%|
+| RUE DE FLANDRE | 2 | 0% | 0%|
+| AVENUE MARX DORMOY | 2 | 0% | 0%|
+| RUE DE PAS | 2 | 0% | 0%|
+| RUE DE LA CHAUDE RIVIERE | 2 | 0% | 0%|
+| RUE CABANIS | 2 | 0% | 0%|
+| RUE DES ECOLES | 2 | 0% | 0%|
+| RUE DE WAZEMMES | 2 | 0% | 0%|
+| RUE DU MARCHE | 2 | 0% | 0%|
+| RUE DES CANONNIERS | 2 | 0% | 0%|
+| PLACE DE STRASBOURG | 2 | 0% | 0%|
+| PONT D'ERFURT | 2 | 0% | 0%|
+| RUE BASSE | 2 | 0% | 0%|
+| MARCHE DE WAZEMMES | 2 | 0% | 0%|
+| AVENUE OSCAR LAMBRET | 2 | 0% | 0%|
+| RUE NEGRIER | 2 | 0% | 0%|
+| RUE SAINT ANDRE | 2 | 0% | 0%|
+| RUE DES DONDAINES | 2 | 0% | 0%|
+| RUE DES VICAIRES | 2 | 0% | 0%|
+| RUE GUILLAUME WERNIERS | 1 | 0% | 0%|
+| AVENUE DU PRESIDENT KENNEDY | 1 | 0% | 0%|
+| BOULEVARD DE TURIN | 1 | 0% | 0%|
+| RUE INKERMANN | 1 | 0% | 0%|
+| RUE DES BOIS BLANCS | 1 | 0% | 0%|
+| RUE ROGER SALENGRO | 1 | 0% | 0%|
+| BOULEVARD DE LEEDS | 1 | 0% | 0%|
+| RUE DES BATELIERS | 1 | 0% | 0%|
+| RUE ROLAND | 1 | 0% | 0%|
+| RUE JEAN PERRIN | 1 | 0% | 0%|
+| RUE MAURICE BERTEAUX | 1 | 0% | 0%|
+| RUE DENIS GODEFROY | 1 | 0% | 0%|
+| RUE COPERNIC | 1 | 0% | 0%|
+| RUE DE FONTENOY | 1 | 0% | 0%|
+| RUE MONTAIGNE | 1 | 0% | 0%|
+| BOULEVARD DU PRESIDENT HOOVER | 1 | 0% | 0%|
+| RUE DU FBG DES POSTES | 1 | 0% | 0%|
+| RUE MACQUART | 1 | 0% | 0%|
+| AVENUE ADOLPHE MAX | 1 | 0% | 0%|
+| RUE DE LILLE | 1 | 0% | 0%|
+| BOULEVARD EMILE DUBUISSON | 1 | 0% | 0%|
+| PLACE ROGER SALENGRO | 1 | 0% | 0%|
+| AVENUE BEETHOVEN | 1 | 0% | 0%|
+| RUE ALPHONSE COLAS | 1 | 0% | 0%|
+| PLACE NOUVELLE AVENTURE | 1 | 0% | 0%|
+| RUE HEGEL | 1 | 0% | 0%|
+| RUE DE LOOS | 1 | 0% | 0%|
+| COURS VANDENABELLE RUE J JAURES | 1 | 0% | 0%|
+| RUE VAN GOGH | 1 | 0% | 0%|
+| RUE BRULE MAISON | 1 | 0% | 0%|
+| RUE ALBERT THOMAS | 1 | 0% | 0%|
+| RUE ALBERT THOMAS LOMME | 1 | 0% | 0%|
+| AVENUE WILLY BRANDT | 1 | 0% | 0%|
+| RUE DE BRUXELLES | 1 | 0% | 0%|
+| BOULEVARD PAPIN | 1 | 0% | 0%|
+| RUE FERDINAND MATHIAS | 1 | 0% | 0%|
+| PLACE DE VERDUN | 1 | 0% | 0%|
+| BOULEVARD DE METZ | 1 | 0% | 0%|
+| RUE D ANGLETERRE | 1 | 0% | 0%|
+| PLACE BARTHELEMY DOREZ | 1 | 0% | 0%|
+| RUE COLBRANT | 1 | 0% | 0%|
+| AVENUE DE SOUBISE | 1 | 0% | 0%|
+| RUE D EMMERIN | 1 | 0% | 0%|
+| RUE ADOLPHE | 1 | 0% | 0%|
+| RUE DU CHEMINOT COQUELIN | 1 | 0% | 0%|
+| RUE DU MARECHAL FOCH | 1 | 0% | 0%|
+| CANTELEU | 1 | 0% | 0%|
+| PLACE JEANNE D ARC | 1 | 0% | 0%|
+| RUE DES PYRAMIDES | 1 | 0% | 0%|
+| RUE D IENA | 1 | 0% | 0%|
+| PLACE MAURICE SCHUMANN | 1 | 0% | 0%|
+| RUE DES SARRAZINS | 1 | 0% | 0%|
+| RUE ABELARD | 1 | 0% | 0%|
+| BOULEVARD BIGO DANEL | 1 | 0% | 0%|
+| PLACE CORMONTAIGNE | 1 | 0% | 0%|
+| PASSAGE DES DEUX GARES | 1 | 0% | 0%|
+| RUE DE VALMY | 1 | 0% | 0%|
+| RUE MATTEOTTI | 1 | 0% | 0%|
+| RUE DE TREVISE | 1 | 0% | 0%|
+| RUE DE FLERS | 1 | 0% | 0%|
+| RUE DU BOIS | 1 | 0% | 0%|
+| RUE DU BOIS D ANNAPPES | 1 | 0% | 0%|
+| RUE DE BOUVINES | 1 | 0% | 0%|
+| RUE LA BOETIE | 1 | 0% | 0%|
+| BOULEVARD PAUL PAINLEVE | 1 | 0% | 0%|
+| RUE SAINT SEBASTIEN | 1 | 0% | 0%|
+| RUE DU PORT | 1 | 0% | 0%|
+| AVENUE EMILE ZOLA | 1 | 0% | 0%|
+| RUE SAINT GABRIEL | 1 | 0% | 0%|
+| AVENUE MATHIAS DELOBEL | 1 | 0% | 0%|
+| COUR DELECROIX RUE FG ROUBAIX | 1 | 0% | 0%|
+| RUE DE LA BARRE | 1 | 0% | 0%|
+| **Total** | 1088 | 58% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 203-EAUBONNE
 
-Sur 16 réponses dont 13 avec une rue cité (taux réussite 81%)
+Sur l'ensemble de la ville il y a eu 16 réponses dont 13 réponses avec une rue citée (81%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 16 réponses dont 13 avec une rue cité (taux réussite 81%)
 | RUE DU GAL LECLERC | 2 | 12% | 15%|
 | RUE PAUL BERT | 1 | 6% | 7%|
 | CHAUSSEE JULES CESAR | 1 | 6% | 7%|
+| **Total** | 13 | 81% | 100%|

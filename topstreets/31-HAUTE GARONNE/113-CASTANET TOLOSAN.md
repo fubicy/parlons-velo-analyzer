@@ -1,6 +1,8 @@
 # Résultat pour 113-CASTANET TOLOSAN
 
-Sur 67 réponses dont 40 avec une rue cité (taux réussite 59%)
+Sur l'ensemble de la ville il y a eu 67 réponses dont 40 réponses avec une rue citée (59%)
+
+22 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,16 @@ Sur 67 réponses dont 40 avec une rue cité (taux réussite 59%)
 | ROUTE D ESCALQUENS | 2 | 2% | 5%|
 | ROUTE DE LABEGE | 2 | 2% | 5%|
 | RUE DU 19 MARS 1962 | 1 | 1% | 2%|
+| RUE DES FONTANELLES | 1 | 1% | 2%|
+| RUE ANTONIN ARTAUD | 1 | 1% | 2%|
+| RUE HENRI MATISSE | 1 | 1% | 2%|
+| RUE MOULOUDJI | 1 | 1% | 2%|
+| ALLEE PAUL GAUGUIN | 1 | 1% | 2%|
+| RUE TOULOUSE LAUTREC | 1 | 1% | 2%|
+| ROUTE DE MERVILLA | 1 | 1% | 2%|
+| RUE CAMILLE CLAUDEL | 1 | 1% | 2%|
+| CANAL DU MIDI | 1 | 1% | 2%|
+| AVENUE DES PEUPLIERS | 1 | 1% | 2%|
+| RABAUDY | 1 | 1% | 2%|
+| ZAC DES FONTANELLES | 1 | 1% | 2%|
+| **Total** | 40 | 59% | 100%|

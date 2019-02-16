@@ -1,6 +1,8 @@
 # Résultat pour 035-GARENNE COLOMBES
 
-Sur 54 réponses dont 36 avec une rue cité (taux réussite 66%)
+Sur l'ensemble de la ville il y a eu 54 réponses dont 36 réponses avec une rue citée (66%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 54 réponses dont 36 avec une rue cité (taux réussite 66%)
 | ROND POINT DU SOUVENIR FRANCAIS | 1 | 1% | 2%|
 | AVENUE DE VERDUN 1916 | 1 | 1% | 2%|
 | AVENUE DE L'EUROPE | 1 | 1% | 2%|
+| RUE VOLTAIRE | 1 | 1% | 2%|
+| RUE DES CHAMPS PHILIPPE | 1 | 1% | 2%|
+| **Total** | 36 | 66% | 100%|

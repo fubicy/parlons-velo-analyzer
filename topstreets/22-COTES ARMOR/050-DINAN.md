@@ -1,6 +1,8 @@
 # Résultat pour 050-DINAN
 
-Sur 17 réponses dont 8 avec une rue cité (taux réussite 47%)
+Sur l'ensemble de la ville il y a eu 17 réponses dont 8 réponses avec une rue citée (47%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 17 réponses dont 8 avec une rue cité (taux réussite 47%)
 | ROUTE DE DINARD | 1 | 5% | 12%|
 | RUE KITCHENER | 1 | 5% | 12%|
 | RUE DES ROUAIRIES | 1 | 5% | 12%|
+| **Total** | 8 | 47% | 100%|

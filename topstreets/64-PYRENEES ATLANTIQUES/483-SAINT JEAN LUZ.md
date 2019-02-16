@@ -1,6 +1,8 @@
 # Résultat pour 483-SAINT JEAN LUZ
 
-Sur 11 réponses dont 5 avec une rue cité (taux réussite 45%)
+Sur l'ensemble de la ville il y a eu 11 réponses dont 5 réponses avec une rue citée (45%)
+
+4 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -8,3 +10,4 @@ Sur 11 réponses dont 5 avec une rue cité (taux réussite 45%)
 | ROUTE D ASCAIN | 1 | 9% | 20%|
 | BOULEVARD THIERS | 1 | 9% | 20%|
 | BOULEVARD VICTOR HUGO | 1 | 9% | 20%|
+| **Total** | 5 | 45% | 100%|

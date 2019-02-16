@@ -1,6 +1,8 @@
 # Résultat pour 162-EYSINES
 
-Sur 11 réponses dont 6 avec une rue cité (taux réussite 54%)
+Sur l'ensemble de la ville il y a eu 11 réponses dont 6 réponses avec une rue citée (54%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 11 réponses dont 6 avec une rue cité (taux réussite 54%)
 | AVENUE DE LA LIBERATION | 1 | 9% | 16%|
 | HIPPODROME | 1 | 9% | 16%|
 | PLACE DES ECOLES | 1 | 9% | 16%|
+| **Total** | 6 | 54% | 100%|

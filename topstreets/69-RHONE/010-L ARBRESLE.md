@@ -1,6 +1,8 @@
 # Résultat pour 010-L ARBRESLE
 
-Sur 44 réponses dont 11 avec une rue cité (taux réussite 25%)
+Sur l'ensemble de la ville il y a eu 44 réponses dont 11 réponses avec une rue citée (25%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 44 réponses dont 11 avec une rue cité (taux réussite 25%)
 | AVENUE ANDRE LASSAGNE | 1 | 2% | 9%|
 | ROUTE DE LOUHANS | 1 | 2% | 9%|
 | RUE CLAUDE TERRASSE | 1 | 2% | 9%|
+| **Total** | 11 | 25% | 100%|

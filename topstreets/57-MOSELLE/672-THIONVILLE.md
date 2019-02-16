@@ -1,6 +1,8 @@
 # Résultat pour 672-THIONVILLE
 
-Sur 23 réponses dont 11 avec une rue cité (taux réussite 47%)
+Sur l'ensemble de la ville il y a eu 23 réponses dont 11 réponses avec une rue citée (47%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 23 réponses dont 11 avec une rue cité (taux réussite 47%)
 | CHAUSSEE D OCEANIE | 1 | 4% | 9%|
 | CHAUSSEE D ASIE | 1 | 4% | 9%|
 | ALLEE DE LA LIBERATION | 1 | 4% | 9%|
+| **Total** | 11 | 47% | 100%|

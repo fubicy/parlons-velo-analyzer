@@ -1,6 +1,8 @@
 # Résultat pour 348-LONS
 
-Sur 20 réponses dont 8 avec une rue cité (taux réussite 40%)
+Sur l'ensemble de la ville il y a eu 20 réponses dont 8 réponses avec une rue citée (40%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 20 réponses dont 8 avec une rue cité (taux réussite 40%)
 | RUE DE LA MAIRIE | 1 | 5% | 12%|
 | RUE DU SOUVENIR | 1 | 5% | 12%|
 | TONKIN | 1 | 5% | 12%|
+| **Total** | 8 | 40% | 100%|

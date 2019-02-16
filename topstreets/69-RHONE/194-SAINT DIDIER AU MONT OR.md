@@ -1,6 +1,8 @@
 # Résultat pour 194-SAINT DIDIER AU MONT OR
 
-Sur 16 réponses dont 8 avec une rue cité (taux réussite 50%)
+Sur l'ensemble de la ville il y a eu 16 réponses dont 8 réponses avec une rue citée (50%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 16 réponses dont 8 avec une rue cité (taux réussite 50%)
 | AVENUE JEAN JAURES | 1 | 6% | 12%|
 | ROCHECARDON | 1 | 6% | 12%|
 | CHEMIN DES ESSES | 1 | 6% | 12%|
+| **Total** | 8 | 50% | 100%|

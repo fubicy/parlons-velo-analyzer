@@ -1,6 +1,8 @@
 # Résultat pour 135-LOCTUDY
 
-Sur 13 réponses dont 5 avec une rue cité (taux réussite 38%)
+Sur l'ensemble de la ville il y a eu 13 réponses dont 5 réponses avec une rue citée (38%)
+
+5 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -9,3 +11,4 @@ Sur 13 réponses dont 5 avec une rue cité (taux réussite 38%)
 | RUE DE KERPAUL | 1 | 7% | 20%|
 | ROUTE DU PONT | 1 | 7% | 20%|
 | KERGOFF | 1 | 7% | 20%|
+| **Total** | 5 | 38% | 100%|

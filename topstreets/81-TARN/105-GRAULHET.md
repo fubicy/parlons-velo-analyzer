@@ -1,6 +1,8 @@
 # Résultat pour 105-GRAULHET
 
-Sur 19 réponses dont 15 avec une rue cité (taux réussite 78%)
+Sur l'ensemble de la ville il y a eu 19 réponses dont 15 réponses avec une rue citée (78%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 19 réponses dont 15 avec une rue cité (taux réussite 78%)
 | RUE BARRICOUTEAU | 1 | 5% | 6%|
 | ROUTE DE LAVAUR | 1 | 5% | 6%|
 | AVENUE GAMBETTA | 1 | 5% | 6%|
+| **Total** | 15 | 78% | 100%|

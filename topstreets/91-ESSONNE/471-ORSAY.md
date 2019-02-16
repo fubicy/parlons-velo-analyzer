@@ -1,6 +1,8 @@
 # Résultat pour 471-ORSAY
 
-Sur 74 réponses dont 34 avec une rue cité (taux réussite 45%)
+Sur l'ensemble de la ville il y a eu 74 réponses dont 34 réponses avec une rue citée (45%)
+
+15 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,9 @@ Sur 74 réponses dont 34 avec une rue cité (taux réussite 45%)
 | LE GUICHET | 1 | 1% | 2%|
 | LES PLANCHES | 1 | 1% | 2%|
 | RUE LOUIS SCOCARD | 1 | 1% | 2%|
+| RUE DE CHEVREUSE | 1 | 1% | 2%|
+| ESCALIER DES ULIS | 1 | 1% | 2%|
+| RUE CHARLES DE GAULLE | 1 | 1% | 2%|
+| ROUTE DE MONTLHERY | 1 | 1% | 2%|
+| AVENUE DU MARECHAL FOCH | 1 | 1% | 2%|
+| **Total** | 34 | 45% | 100%|

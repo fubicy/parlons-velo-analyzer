@@ -1,6 +1,8 @@
 # Résultat pour 322-JOUY EN JOSAS
 
-Sur 10 réponses dont 12 avec une rue cité (taux réussite 120%)
+Sur l'ensemble de la ville il y a eu 10 réponses dont 12 réponses avec une rue citée (120%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 10 réponses dont 12 avec une rue cité (taux réussite 120%)
 | RUE DE LA LIBERATION | 1 | 10% | 8%|
 | LE PETIT ROBINSON | 1 | 10% | 8%|
 | COUR ROLAND | 1 | 10% | 8%|
+| **Total** | 12 | 120% | 100%|

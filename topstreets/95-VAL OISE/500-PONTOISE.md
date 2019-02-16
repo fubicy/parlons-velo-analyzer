@@ -1,6 +1,8 @@
 # Résultat pour 500-PONTOISE
 
-Sur 17 réponses dont 7 avec une rue cité (taux réussite 41%)
+Sur l'ensemble de la ville il y a eu 17 réponses dont 7 réponses avec une rue citée (41%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 17 réponses dont 7 avec une rue cité (taux réussite 41%)
 | L OISE | 1 | 5% | 14%|
 | RUE DE L HOTEL DIEU | 1 | 5% | 14%|
 | QUAI DU PORT | 1 | 5% | 14%|
+| **Total** | 7 | 41% | 100%|

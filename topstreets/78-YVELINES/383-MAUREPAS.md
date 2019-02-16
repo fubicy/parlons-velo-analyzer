@@ -1,8 +1,11 @@
 # Résultat pour 383-MAUREPAS
 
-Sur 16 réponses dont 2 avec une rue cité (taux réussite 12%)
+Sur l'ensemble de la ville il y a eu 16 réponses dont 2 réponses avec une rue citée (12%)
+
+2 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | RUE DE CHEVREUSE | 1 | 6% | 50%|
 | CARREFOUR DES PYRAMIDES | 1 | 6% | 50%|
+| **Total** | 2 | 12% | 100%|

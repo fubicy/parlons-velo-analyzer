@@ -1,6 +1,8 @@
 # Résultat pour 099-CHOLET
 
-Sur 99 réponses dont 26 avec une rue cité (taux réussite 26%)
+Sur l'ensemble de la ville il y a eu 99 réponses dont 26 réponses avec une rue citée (26%)
+
+19 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,13 @@ Sur 99 réponses dont 26 avec une rue cité (taux réussite 26%)
 | BOULEVARD JEANNE D ARC | 1 | 1% | 3%|
 | BOULEVARD GUSTAVE RICHARD | 1 | 1% | 3%|
 | RUE DE LA MUTUALITE | 1 | 1% | 3%|
+| RUE DE LA VENDEE | 1 | 1% | 3%|
+| AVENUE DES SABLES | 1 | 1% | 3%|
+| PLACE DE DOROHOI | 1 | 1% | 3%|
+| BOULEVARD DES TURBAUDIERES | 1 | 1% | 3%|
+| AVENUE FRANCIS BOUET | 1 | 1% | 3%|
+| BOULEVARD DE STRASBOURG | 1 | 1% | 3%|
+| AVENUE DES CORDELIERS | 1 | 1% | 3%|
+| PLACE DE PARIS | 1 | 1% | 3%|
+| RUE DE LORRAINE | 1 | 1% | 3%|
+| **Total** | 26 | 26% | 100%|

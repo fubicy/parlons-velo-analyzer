@@ -1,6 +1,8 @@
 # Résultat pour 483-SAINT GAUDENS
 
-Sur 13 réponses dont 7 avec une rue cité (taux réussite 53%)
+Sur l'ensemble de la ville il y a eu 13 réponses dont 7 réponses avec une rue citée (53%)
+
+6 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -10,3 +12,4 @@ Sur 13 réponses dont 7 avec une rue cité (taux réussite 53%)
 | RUE DES CAUSSADES | 1 | 7% | 14%|
 | BOULEVARD CHARLES DE GAULLE | 1 | 7% | 14%|
 | PLACE DE LA LIBERATION | 1 | 7% | 14%|
+| **Total** | 7 | 53% | 100%|

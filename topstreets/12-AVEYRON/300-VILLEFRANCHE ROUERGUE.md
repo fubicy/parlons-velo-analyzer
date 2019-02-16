@@ -1,6 +1,8 @@
 # Résultat pour 300-VILLEFRANCHE ROUERGUE
 
-Sur 99 réponses dont 45 avec une rue cité (taux réussite 45%)
+Sur l'ensemble de la ville il y a eu 99 réponses dont 45 réponses avec une rue citée (45%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 99 réponses dont 45 avec une rue cité (taux réussite 45%)
 | AVENUE DES CROATES | 1 | 1% | 2%|
 | NOTRE DAME | 1 | 1% | 2%|
 | PLACE DE LA LIBERTE | 1 | 1% | 2%|
+| ALLEE ARISTIDE BRIAND | 1 | 1% | 2%|
+| LES PLACES | 1 | 1% | 2%|
+| **Total** | 45 | 45% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 093-LAMBALLE
 
-Sur 21 réponses dont 9 avec une rue cité (taux réussite 42%)
+Sur l'ensemble de la ville il y a eu 21 réponses dont 9 réponses avec une rue citée (42%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 21 réponses dont 9 avec une rue cité (taux réussite 42%)
 | LA POTERIE | 1 | 4% | 11%|
 | LE PASSAGE | 1 | 4% | 11%|
 | RUE MOUEXIGNE | 1 | 4% | 11%|
+| **Total** | 9 | 42% | 100%|

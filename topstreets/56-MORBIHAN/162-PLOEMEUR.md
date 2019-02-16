@@ -1,6 +1,8 @@
 # Résultat pour 162-PLOEMEUR
 
-Sur 22 réponses dont 7 avec une rue cité (taux réussite 31%)
+Sur l'ensemble de la ville il y a eu 22 réponses dont 7 réponses avec une rue citée (31%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 22 réponses dont 7 avec une rue cité (taux réussite 31%)
 | PLACE DE L EGLISE | 1 | 4% | 14%|
 | RUE DES PLAGES | 1 | 4% | 14%|
 | FORT BLOQUE | 1 | 4% | 14%|
+| **Total** | 7 | 31% | 100%|

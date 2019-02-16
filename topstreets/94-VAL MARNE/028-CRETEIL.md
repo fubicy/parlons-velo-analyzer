@@ -1,6 +1,8 @@
 # Résultat pour 028-CRETEIL
 
-Sur 42 réponses dont 17 avec une rue cité (taux réussite 40%)
+Sur l'ensemble de la ville il y a eu 42 réponses dont 17 réponses avec une rue citée (40%)
+
+12 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,6 @@ Sur 42 réponses dont 17 avec une rue cité (taux réussite 40%)
 | RUE HENRI | 1 | 2% | 5%|
 | RUE HENRI MATISSE | 1 | 2% | 5%|
 | QUAI DE HALAGE | 1 | 2% | 5%|
+| MESLY | 1 | 2% | 5%|
+| RUE JULIETTE SAVAR | 1 | 2% | 5%|
+| **Total** | 17 | 40% | 100%|

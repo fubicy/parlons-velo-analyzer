@@ -1,6 +1,8 @@
 # Résultat pour 297-GUYANCOURT
 
-Sur 50 réponses dont 20 avec une rue cité (taux réussite 40%)
+Sur l'ensemble de la ville il y a eu 50 réponses dont 20 réponses avec une rue citée (40%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 50 réponses dont 20 avec une rue cité (taux réussite 40%)
 | AVENUE DU CENTRE | 1 | 2% | 5%|
 | PLACE BERNARD CHERAMY | 1 | 2% | 5%|
 | AVENUE DES FRERES LUMIERE | 1 | 2% | 5%|
+| **Total** | 20 | 40% | 100%|

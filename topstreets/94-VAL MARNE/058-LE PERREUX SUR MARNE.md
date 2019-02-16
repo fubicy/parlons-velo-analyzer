@@ -1,6 +1,8 @@
 # Résultat pour 058-LE PERREUX SUR MARNE
 
-Sur 52 réponses dont 28 avec une rue cité (taux réussite 53%)
+Sur l'ensemble de la ville il y a eu 52 réponses dont 28 réponses avec une rue citée (53%)
+
+10 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,4 @@ Sur 52 réponses dont 28 avec une rue cité (taux réussite 53%)
 | RUE DE LA STATION | 1 | 1% | 3%|
 | ROUTE NATIONALE 34 | 1 | 1% | 3%|
 | AVENUE DU 8 MAI 1945 | 1 | 1% | 3%|
+| **Total** | 28 | 53% | 100%|

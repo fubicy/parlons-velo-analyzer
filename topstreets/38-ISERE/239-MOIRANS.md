@@ -1,7 +1,10 @@
 # Résultat pour 239-MOIRANS
 
-Sur 10 réponses dont 1 avec une rue cité (taux réussite 10%)
+Sur l'ensemble de la ville il y a eu 10 réponses dont 1 réponses avec une rue citée (10%)
+
+1 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
 | LA GARE | 1 | 10% | 100%|
+| **Total** | 1 | 10% | 100%|

@@ -1,6 +1,8 @@
 # Résultat pour 083-HENNEBONT
 
-Sur 43 réponses dont 15 avec une rue cité (taux réussite 34%)
+Sur l'ensemble de la ville il y a eu 43 réponses dont 15 réponses avec une rue citée (34%)
+
+8 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -12,3 +14,4 @@ Sur 43 réponses dont 15 avec une rue cité (taux réussite 34%)
 | AVENUE EDOUARD VAILLANT | 1 | 2% | 6%|
 | ROUTE DE PORT LOUIS | 1 | 2% | 6%|
 | LANGROIX | 1 | 2% | 6%|
+| **Total** | 15 | 34% | 100%|

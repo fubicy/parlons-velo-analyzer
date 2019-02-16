@@ -1,6 +1,8 @@
 # Résultat pour 267-LINGOLSHEIM
 
-Sur 21 réponses dont 19 avec une rue cité (taux réussite 90%)
+Sur l'ensemble de la ville il y a eu 21 réponses dont 19 réponses avec une rue citée (90%)
+
+7 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -11,3 +13,4 @@ Sur 21 réponses dont 19 avec une rue cité (taux réussite 90%)
 | RUE DE GEISPOLSHEIM | 1 | 4% | 5%|
 | RUE DE WOLFISHEIM | 1 | 4% | 5%|
 | RUE DE LA MONTEE | 1 | 4% | 5%|
+| **Total** | 19 | 90% | 100%|

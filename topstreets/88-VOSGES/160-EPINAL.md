@@ -1,6 +1,8 @@
 # Résultat pour 160-EPINAL
 
-Sur 40 réponses dont 22 avec une rue cité (taux réussite 55%)
+Sur l'ensemble de la ville il y a eu 40 réponses dont 22 réponses avec une rue citée (55%)
+
+15 points noirs identifiés
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
@@ -14,3 +16,9 @@ Sur 40 réponses dont 22 avec une rue cité (taux réussite 55%)
 | ROUTE DE JEUXEY | 1 | 2% | 4%|
 | ROUTE DES FORGES | 1 | 2% | 4%|
 | RUE DU PROFESSEUR ROUX | 1 | 2% | 4%|
+| QUAI JULES FERRY | 1 | 2% | 4%|
+| POISSOMPRE | 1 | 2% | 4%|
+| PLACE DES VOSGES | 1 | 2% | 4%|
+| PONT PATCH | 1 | 2% | 4%|
+| QUAI DES BONS ENFANTS | 1 | 2% | 4%|
+| **Total** | 22 | 55% | 100%|
