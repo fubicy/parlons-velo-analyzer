@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 14 réponses dont 6 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE CARNOT | 2 | 14% | 33%|
-| RUE DES GRAVIERS | 2 | 14% | 33%|
-| DOMAINE DES BUIS | 1 | 7% | 16%|
-| RUE VILLEDIEU | 1 | 7% | 16%|
+| RUE CARNOT | 2 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| RUE DES GRAVIERS | 2 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| DOMAINE DES BUIS | 1 | 7% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| RUE VILLEDIEU | 1 | 7% | <img src="../../img/bar_16.gif" />&nbsp;16%|
 | **Total** | 6 | 42% | 100%|

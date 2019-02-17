@@ -6,9 +6,9 @@ Sur l'ensemble de la ville il y a eu 5 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| FORT DE CHAMPIGNY | 1 | 20% | 20%|
-| ROUTE NATIONALE 4 | 1 | 20% | 20%|
-| RUE ARISTIDE BRIAND | 1 | 20% | 20%|
-| ROUTE DE LA LIBERATION | 1 | 20% | 20%|
-| LA MARNE | 1 | 20% | 20%|
+| FORT DE CHAMPIGNY | 1 | 20% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| ROUTE NATIONALE 4 | 1 | 20% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| RUE ARISTIDE BRIAND | 1 | 20% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| ROUTE DE LA LIBERATION | 1 | 20% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| LA MARNE | 1 | 20% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 100% | 100%|

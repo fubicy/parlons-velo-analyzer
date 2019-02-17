@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 9 réponses dont 2 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LE MAS RILLIER | 2 | 22% | 100%|
+| LE MAS RILLIER | 2 | 22% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 2 | 22% | 100%|

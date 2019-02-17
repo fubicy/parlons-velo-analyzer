@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 15 réponses dont 4 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| L YONNE | 2 | 13% | 50%|
-| QUAI ERNEST LANDRY | 1 | 6% | 25%|
-| QUAI DU PETIT HAMEAU | 1 | 6% | 25%|
+| L YONNE | 2 | 13% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| QUAI ERNEST LANDRY | 1 | 6% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| QUAI DU PETIT HAMEAU | 1 | 6% | <img src="../../img/bar_25.gif" />&nbsp;25%|
 | **Total** | 4 | 26% | 100%|

@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 2 réponses dont 4 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LA CHAUSSEE | 1 | 50% | 25%|
-| RUE DE LAMORLAYE | 1 | 50% | 25%|
-| RUE DE LA MAIRIE | 1 | 50% | 25%|
-| AVENUE DE LA REPUBLIQUE | 1 | 50% | 25%|
+| LA CHAUSSEE | 1 | 50% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| RUE DE LAMORLAYE | 1 | 50% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| RUE DE LA MAIRIE | 1 | 50% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| AVENUE DE LA REPUBLIQUE | 1 | 50% | <img src="../../img/bar_25.gif" />&nbsp;25%|
 | **Total** | 4 | 200% | 100%|

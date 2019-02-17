@@ -6,9 +6,9 @@ Sur l'ensemble de la ville il y a eu 4 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DES ECOLES | 1 | 25% | 20%|
-| BRANSLES | 1 | 25% | 20%|
-| ROUTE DE SANDILLON | 1 | 25% | 20%|
-| BEAULIEU | 1 | 25% | 20%|
-| RUE DES CORDELLES | 1 | 25% | 20%|
+| RUE DES ECOLES | 1 | 25% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| BRANSLES | 1 | 25% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| ROUTE DE SANDILLON | 1 | 25% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| BEAULIEU | 1 | 25% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| RUE DES CORDELLES | 1 | 25% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 125% | 100%|

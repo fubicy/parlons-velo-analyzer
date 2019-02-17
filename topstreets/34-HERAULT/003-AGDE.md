@@ -6,11 +6,11 @@ Sur l'ensemble de la ville il y a eu 22 réponses dont 7 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| MARAVAL | 1 | 4% | 14%|
-| PARC | 1 | 4% | 14%|
-| LA VILLE | 1 | 4% | 14%|
-| LE CAP D AGDE | 1 | 4% | 14%|
-| ROCHELONGUE | 1 | 4% | 14%|
-| QUAI COMMANDANT MERIC | 1 | 4% | 14%|
-| ROUTE DU GRAU | 1 | 4% | 14%|
+| MARAVAL | 1 | 4% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| PARC | 1 | 4% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| LA VILLE | 1 | 4% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| LE CAP D AGDE | 1 | 4% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| ROCHELONGUE | 1 | 4% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| QUAI COMMANDANT MERIC | 1 | 4% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| ROUTE DU GRAU | 1 | 4% | <img src="../../img/bar_14.gif" />&nbsp;14%|
 | **Total** | 7 | 31% | 100%|

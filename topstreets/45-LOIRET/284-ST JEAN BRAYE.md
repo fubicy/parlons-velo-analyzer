@@ -6,11 +6,11 @@ Sur l'ensemble de la ville il y a eu 11 réponses dont 8 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| PONT BORDEAU | 2 | 18% | 25%|
-| CHARBONNIERE | 1 | 9% | 12%|
-| AVENUE LOUIS JOSEPH SOULAS | 1 | 9% | 12%|
-| AVENUE DU GENERAL LECLERC | 1 | 9% | 12%|
-| AVENUE DE VERDUN | 1 | 9% | 12%|
-| AVENUE DE LA PAIX | 1 | 9% | 12%|
-| AVENUE CHARLES PEGUY | 1 | 9% | 12%|
+| PONT BORDEAU | 2 | 18% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| CHARBONNIERE | 1 | 9% | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| AVENUE LOUIS JOSEPH SOULAS | 1 | 9% | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| AVENUE DU GENERAL LECLERC | 1 | 9% | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| AVENUE DE VERDUN | 1 | 9% | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| AVENUE DE LA PAIX | 1 | 9% | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| AVENUE CHARLES PEGUY | 1 | 9% | <img src="../../img/bar_12.gif" />&nbsp;12%|
 | **Total** | 8 | 72% | 100%|

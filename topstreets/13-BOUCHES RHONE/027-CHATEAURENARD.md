@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 12 réponses dont 3 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LA VILLE | 2 | 16% | 66%|
-| ROUTE D EYRAGUES | 1 | 8% | 33%|
+| LA VILLE | 2 | 16% | <img src="../../img/bar_66.gif" />&nbsp;66%|
+| ROUTE D EYRAGUES | 1 | 8% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 25% | 100%|

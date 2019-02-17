@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 4 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| CALAS | 1 | 25% | 33%|
-| PLAN DE CAMPAGNE | 1 | 25% | 33%|
-| VILLAGE | 1 | 25% | 33%|
+| CALAS | 1 | 25% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| PLAN DE CAMPAGNE | 1 | 25% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| VILLAGE | 1 | 25% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 75% | 100%|

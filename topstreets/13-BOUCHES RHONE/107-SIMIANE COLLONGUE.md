@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 7 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE DU GENERAL DE GAULLE | 1 | 14% | 33%|
-| SIEGE | 1 | 14% | 33%|
-| RESIDENCE LE HAMEAU DES FRENES | 1 | 14% | 33%|
+| AVENUE DU GENERAL DE GAULLE | 1 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| SIEGE | 1 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| RESIDENCE LE HAMEAU DES FRENES | 1 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 42% | 100%|

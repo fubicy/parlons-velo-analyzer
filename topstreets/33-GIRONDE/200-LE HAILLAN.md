@@ -6,11 +6,11 @@ Sur l'ensemble de la ville il y a eu 11 réponses dont 10 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| CATROS | 3 | 27% | 30%|
-| RUE DE VENTEILLE | 2 | 18% | 20%|
-| AVENUE PASTEUR | 1 | 9% | 10%|
-| RUE VICTOR HUGO | 1 | 9% | 10%|
-| RUE JEAN MERMOZ | 1 | 9% | 10%|
-| RUE DE LA MORANDIERE | 1 | 9% | 10%|
-| AVENUE DE LA REPUBLIQUE | 1 | 9% | 10%|
+| CATROS | 3 | 27% | <img src="../../img/bar_30.gif" />&nbsp;30%|
+| RUE DE VENTEILLE | 2 | 18% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| AVENUE PASTEUR | 1 | 9% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE VICTOR HUGO | 1 | 9% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE JEAN MERMOZ | 1 | 9% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE DE LA MORANDIERE | 1 | 9% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| AVENUE DE LA REPUBLIQUE | 1 | 9% | <img src="../../img/bar_10.gif" />&nbsp;10%|
 | **Total** | 10 | 90% | 100%|

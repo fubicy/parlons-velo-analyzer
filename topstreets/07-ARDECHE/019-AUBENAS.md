@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 15 réponses dont 6 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| L AIRETTE | 1 | 6% | 16%|
-| ROQUA | 1 | 6% | 16%|
-| LA GARE | 1 | 6% | 16%|
-| ROUTE DE MONTELIMAR | 1 | 6% | 16%|
-| LA VILLE | 1 | 6% | 16%|
-| MOULON | 1 | 6% | 16%|
+| L AIRETTE | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| ROQUA | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| LA GARE | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| ROUTE DE MONTELIMAR | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| LA VILLE | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| MOULON | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
 | **Total** | 6 | 40% | 100%|

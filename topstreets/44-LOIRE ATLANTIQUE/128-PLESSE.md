@@ -6,9 +6,9 @@ Sur l'ensemble de la ville il y a eu 1 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LE DRESNY | 1 | 100% | 20%|
-| LE COUDRAY | 1 | 100% | 20%|
-| CARHEIL | 1 | 100% | 20%|
-| ROZAY | 1 | 100% | 20%|
-| SAINT CLAIR | 1 | 100% | 20%|
+| LE DRESNY | 1 | 100% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| LE COUDRAY | 1 | 100% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| CARHEIL | 1 | 100% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| ROZAY | 1 | 100% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| SAINT CLAIR | 1 | 100% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 500% | 100%|

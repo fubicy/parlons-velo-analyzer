@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 23 réponses dont 5 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| BOURG | 4 | 17% | 80%|
-| RUE DE L'ERDRE | 1 | 4% | 20%|
+| BOURG | 4 | 17% | <img src="../../img/bar_80.gif" />&nbsp;80%|
+| RUE DE L'ERDRE | 1 | 4% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 21% | 100%|

@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 9 réponses dont 4 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| VALESCURE | 2 | 22% | 50%|
-| AGAY | 2 | 22% | 50%|
+| VALESCURE | 2 | 22% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| AGAY | 2 | 22% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 4 | 44% | 100%|

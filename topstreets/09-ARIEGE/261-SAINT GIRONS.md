@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 5 réponses dont 1 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LA VILLE | 1 | 20% | 100%|
+| LA VILLE | 1 | 20% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 1 | 20% | 100%|

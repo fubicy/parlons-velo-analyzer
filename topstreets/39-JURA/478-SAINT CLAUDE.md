@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 18 réponses dont 7 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ROUTE DE LYON | 5 | 27% | 71%|
-| ROUTE DE GENEVE | 1 | 5% | 14%|
-| ROCHEFORT | 1 | 5% | 14%|
+| ROUTE DE LYON | 5 | 27% | <img src="../../img/bar_71.gif" />&nbsp;71%|
+| ROUTE DE GENEVE | 1 | 5% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| ROCHEFORT | 1 | 5% | <img src="../../img/bar_14.gif" />&nbsp;14%|
 | **Total** | 7 | 38% | 100%|

@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 19 réponses dont 2 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DES FOISSES | 1 | 5% | 50%|
-| RUE PASTEUR | 1 | 5% | 50%|
+| RUE DES FOISSES | 1 | 5% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| RUE PASTEUR | 1 | 5% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 10% | 100%|

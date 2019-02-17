@@ -6,9 +6,9 @@ Sur l'ensemble de la ville il y a eu 2 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE | 1 | 50% | 20%|
-| RUE DE LA DORDOGNE | 1 | 50% | 20%|
-| RUE GRUBER | 1 | 50% | 20%|
-| ROUTE NATIONALE | 1 | 50% | 20%|
-| RUE DES PIERRES | 1 | 50% | 20%|
+| RUE | 1 | 50% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| RUE DE LA DORDOGNE | 1 | 50% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| RUE GRUBER | 1 | 50% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| ROUTE NATIONALE | 1 | 50% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| RUE DES PIERRES | 1 | 50% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 250% | 100%|

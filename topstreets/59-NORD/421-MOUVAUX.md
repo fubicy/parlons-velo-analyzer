@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 9 réponses dont 7 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DE LILLE | 2 | 22% | 28%|
-| RUE FRANKLIN ROOSEVELT | 1 | 11% | 14%|
-| RUE DE ROUBAIX | 1 | 11% | 14%|
-| RUE DE TOURCOING | 1 | 11% | 14%|
-| RUE DE LONDRES | 1 | 11% | 14%|
-| RUE LORTHIOIS | 1 | 11% | 14%|
+| RUE DE LILLE | 2 | 22% | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| RUE FRANKLIN ROOSEVELT | 1 | 11% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE DE ROUBAIX | 1 | 11% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE DE TOURCOING | 1 | 11% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE DE LONDRES | 1 | 11% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE LORTHIOIS | 1 | 11% | <img src="../../img/bar_14.gif" />&nbsp;14%|
 | **Total** | 7 | 77% | 100%|

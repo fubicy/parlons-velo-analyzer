@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 2 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| PENDREFF | 1 | 50% | 33%|
-| LESLAE | 1 | 50% | 33%|
-| TREFFIAGAT | 1 | 50% | 33%|
+| PENDREFF | 1 | 50% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| LESLAE | 1 | 50% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| TREFFIAGAT | 1 | 50% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 150% | 100%|

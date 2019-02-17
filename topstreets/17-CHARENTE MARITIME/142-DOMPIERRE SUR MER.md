@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 8 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| CHAGNOLET | 2 | 25% | 40%|
-| LES BRANDES | 1 | 12% | 20%|
-| LE BOURG | 1 | 12% | 20%|
-| CANAL DE MARANS | 1 | 12% | 20%|
+| CHAGNOLET | 2 | 25% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| LES BRANDES | 1 | 12% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| LE BOURG | 1 | 12% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| CANAL DE MARANS | 1 | 12% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 62% | 100%|

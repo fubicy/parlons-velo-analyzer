@@ -6,9 +6,9 @@ Sur l'ensemble de la ville il y a eu 17 réponses dont 9 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE COMMANDANT CHARCOT | 4 | 23% | 44%|
-| PETIT  SAINTE FOY | 2 | 11% | 22%|
-| BOULEVARD BARON DU MARAIS | 1 | 5% | 11%|
-| RUE DES PROVENCES | 1 | 5% | 11%|
-| CHEMIN DES PRES | 1 | 5% | 11%|
+| RUE COMMANDANT CHARCOT | 4 | 23% | <img src="../../img/bar_44.gif" />&nbsp;44%|
+| PETIT  SAINTE FOY | 2 | 11% | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| BOULEVARD BARON DU MARAIS | 1 | 5% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE DES PROVENCES | 1 | 5% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| CHEMIN DES PRES | 1 | 5% | <img src="../../img/bar_11.gif" />&nbsp;11%|
 | **Total** | 9 | 52% | 100%|

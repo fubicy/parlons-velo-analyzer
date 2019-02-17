@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 7 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| CORNIC | 2 | 28% | 40%|
-| PLAGE DE TRESTRAOU | 1 | 14% | 20%|
-| BOULEVARD DE LA CORNICHE | 1 | 14% | 20%|
-| LE PORT | 1 | 14% | 20%|
+| CORNIC | 2 | 28% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| PLAGE DE TRESTRAOU | 1 | 14% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| BOULEVARD DE LA CORNICHE | 1 | 14% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| LE PORT | 1 | 14% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 71% | 100%|

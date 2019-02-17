@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 1 réponses dont 4 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| CHAMP DE FOIRE | 1 | 100% | 25%|
-| RUE DU MOULIN | 1 | 100% | 25%|
-| RUE DU MOULIN COLLET | 1 | 100% | 25%|
-| QUAI DES COTEAUX | 1 | 100% | 25%|
+| CHAMP DE FOIRE | 1 | 100% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| RUE DU MOULIN | 1 | 100% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| RUE DU MOULIN COLLET | 1 | 100% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| QUAI DES COTEAUX | 1 | 100% | <img src="../../img/bar_25.gif" />&nbsp;25%|
 | **Total** | 4 | 400% | 100%|

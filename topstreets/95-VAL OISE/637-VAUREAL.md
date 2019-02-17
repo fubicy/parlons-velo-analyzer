@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 8 réponses dont 4 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LA CROIX LIEU | 2 | 25% | 50%|
-| LE VILLAGE | 1 | 12% | 25%|
-| AVENUE DE LA PAIX | 1 | 12% | 25%|
+| LA CROIX LIEU | 2 | 25% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| LE VILLAGE | 1 | 12% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| AVENUE DE LA PAIX | 1 | 12% | <img src="../../img/bar_25.gif" />&nbsp;25%|
 | **Total** | 4 | 50% | 100%|

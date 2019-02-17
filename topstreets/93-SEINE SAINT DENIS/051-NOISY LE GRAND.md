@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 32 réponses dont 12 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| BOULEVARD MONT D'EST | 7 | 21% | 58%|
-| ROUTE DE NEUILLY | 1 | 3% | 8%|
-| RUE DES ARCADES | 1 | 3% | 8%|
-| LE PAVE NEUF | 1 | 3% | 8%|
-| GARE DES YVRIS | 1 | 3% | 8%|
-| AVENUE EMILE COSSONNEAU | 1 | 3% | 8%|
+| BOULEVARD MONT D'EST | 7 | 21% | <img src="../../img/bar_58.gif" />&nbsp;58%|
+| ROUTE DE NEUILLY | 1 | 3% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| RUE DES ARCADES | 1 | 3% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| LE PAVE NEUF | 1 | 3% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| GARE DES YVRIS | 1 | 3% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| AVENUE EMILE COSSONNEAU | 1 | 3% | <img src="../../img/bar_8.gif" />&nbsp;8%|
 | **Total** | 12 | 37% | 100%|

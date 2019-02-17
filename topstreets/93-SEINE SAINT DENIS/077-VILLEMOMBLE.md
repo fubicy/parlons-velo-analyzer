@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 24 réponses dont 7 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DE NEUILLY | 3 | 12% | 42%|
-| AVENUE DU RAINCY | 2 | 8% | 28%|
-| AVENUE DE ROSNY | 1 | 4% | 14%|
-| AVENUE FRANKLIN | 1 | 4% | 14%|
+| RUE DE NEUILLY | 3 | 12% | <img src="../../img/bar_42.gif" />&nbsp;42%|
+| AVENUE DU RAINCY | 2 | 8% | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| AVENUE DE ROSNY | 1 | 4% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| AVENUE FRANKLIN | 1 | 4% | <img src="../../img/bar_14.gif" />&nbsp;14%|
 | **Total** | 7 | 29% | 100%|

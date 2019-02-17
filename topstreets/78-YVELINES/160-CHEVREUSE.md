@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 13 réponses dont 2 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| CHEMIN DES REGAINS | 1 | 7% | 50%|
-| RUE DE LA DIVISION LECLERC | 1 | 7% | 50%|
+| CHEMIN DES REGAINS | 1 | 7% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| RUE DE LA DIVISION LECLERC | 1 | 7% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 15% | 100%|

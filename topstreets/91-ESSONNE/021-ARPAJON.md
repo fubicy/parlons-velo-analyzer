@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 8 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| PLACE DU MARCHE | 2 | 25% | 40%|
-| BOULEVARD ABEL CORNATON | 1 | 12% | 20%|
-| BOULEVARD ERNEST GIRAULT | 1 | 12% | 20%|
-| BOULEVARD JEAN JAURES | 1 | 12% | 20%|
+| PLACE DU MARCHE | 2 | 25% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| BOULEVARD ABEL CORNATON | 1 | 12% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| BOULEVARD ERNEST GIRAULT | 1 | 12% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| BOULEVARD JEAN JAURES | 1 | 12% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 62% | 100%|

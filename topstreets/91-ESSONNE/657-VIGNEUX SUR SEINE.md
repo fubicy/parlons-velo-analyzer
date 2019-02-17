@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 9 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE HENRI BARBUSSE | 2 | 22% | 66%|
-| LA GARE | 1 | 11% | 33%|
+| AVENUE HENRI BARBUSSE | 2 | 22% | <img src="../../img/bar_66.gif" />&nbsp;66%|
+| LA GARE | 1 | 11% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 33% | 100%|

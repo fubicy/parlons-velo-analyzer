@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 11 réponses dont 5 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| PONT CHARLES DE GAULLE | 2 | 18% | 40%|
-| ROUTE D ASCAIN | 1 | 9% | 20%|
-| BOULEVARD THIERS | 1 | 9% | 20%|
-| BOULEVARD VICTOR HUGO | 1 | 9% | 20%|
+| PONT CHARLES DE GAULLE | 2 | 18% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| ROUTE D ASCAIN | 1 | 9% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| BOULEVARD THIERS | 1 | 9% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| BOULEVARD VICTOR HUGO | 1 | 9% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 45% | 100%|

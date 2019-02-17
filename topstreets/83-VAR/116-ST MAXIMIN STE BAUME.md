@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 10 réponses dont 4 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| PLACE MALHERBE | 2 | 20% | 50%|
-| RUE DES ECOLES | 1 | 10% | 25%|
-| ROND POINT DU MONT FLEURY | 1 | 10% | 25%|
+| PLACE MALHERBE | 2 | 20% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| RUE DES ECOLES | 1 | 10% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| ROND POINT DU MONT FLEURY | 1 | 10% | <img src="../../img/bar_25.gif" />&nbsp;25%|
 | **Total** | 4 | 40% | 100%|

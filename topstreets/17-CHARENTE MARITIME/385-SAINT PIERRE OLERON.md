@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 5 réponses dont 2 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| PLACE DE L EGLISE | 1 | 20% | 50%|
-| BEL AIR | 1 | 20% | 50%|
+| PLACE DE L EGLISE | 1 | 20% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| BEL AIR | 1 | 20% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 40% | 100%|

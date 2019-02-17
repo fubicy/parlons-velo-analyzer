@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 1 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| BOURG | 1 | 100% | 33%|
-| ROUTE DES BOIS | 1 | 100% | 33%|
-| ROUTE DE LOZANNE | 1 | 100% | 33%|
+| BOURG | 1 | 100% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| ROUTE DES BOIS | 1 | 100% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| ROUTE DE LOZANNE | 1 | 100% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 300% | 100%|

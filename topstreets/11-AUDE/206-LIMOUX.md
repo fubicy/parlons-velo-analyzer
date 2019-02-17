@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 7 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LA VILLE | 1 | 14% | 33%|
-| AVENUE CAMILLE BOUCHE | 1 | 14% | 33%|
-| ROUTE DE CHALABRE | 1 | 14% | 33%|
+| LA VILLE | 1 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| AVENUE CAMILLE BOUCHE | 1 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| ROUTE DE CHALABRE | 1 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 42% | 100%|

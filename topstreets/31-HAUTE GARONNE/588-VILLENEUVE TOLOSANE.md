@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 7 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DU STADE | 1 | 14% | 33%|
-| ROUTE DE PORTET | 1 | 14% | 33%|
-| BOULEVARD DES PYRENEES | 1 | 14% | 33%|
+| RUE DU STADE | 1 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| ROUTE DE PORTET | 1 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| BOULEVARD DES PYRENEES | 1 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 42% | 100%|

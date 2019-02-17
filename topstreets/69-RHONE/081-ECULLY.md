@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 20 réponses dont 13 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| CHALIN | 3 | 15% | 23%|
-| CHAMPAGNE | 3 | 15% | 23%|
-| SAUVEGARDE | 3 | 15% | 23%|
-| AVENUE DE VERDUN | 2 | 10% | 15%|
-| RUE MARIETTON | 1 | 5% | 7%|
-| LE PEROLLIER | 1 | 5% | 7%|
+| CHALIN | 3 | 15% | <img src="../../img/bar_23.gif" />&nbsp;23%|
+| CHAMPAGNE | 3 | 15% | <img src="../../img/bar_23.gif" />&nbsp;23%|
+| SAUVEGARDE | 3 | 15% | <img src="../../img/bar_23.gif" />&nbsp;23%|
+| AVENUE DE VERDUN | 2 | 10% | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| RUE MARIETTON | 1 | 5% | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| LE PEROLLIER | 1 | 5% | <img src="../../img/bar_7.gif" />&nbsp;7%|
 | **Total** | 13 | 65% | 100%|

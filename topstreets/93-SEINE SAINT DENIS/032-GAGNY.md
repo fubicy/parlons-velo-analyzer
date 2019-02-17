@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 9 réponses dont 1 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE VAILLANT COUTURIER | 1 | 11% | 100%|
+| RUE VAILLANT COUTURIER | 1 | 11% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 1 | 11% | 100%|

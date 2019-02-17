@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 1846 réponses dont 7 réponses avec une ru
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| IMPASSE SAINTE ANNE | 2 | 0% | 28%|
-| AVENUE DE SAINT JULIEN | 1 | 0% | 14%|
-| AVENUE DE SAINT BARNABE | 1 | 0% | 14%|
-| AVENUE DU 24 AVRIL 1915 | 1 | 0% | 14%|
-| RUE SAINT PIERRE | 1 | 0% | 14%|
-| AVENUE DES CAILLOLS | 1 | 0% | 14%|
+| IMPASSE SAINTE ANNE | 2 | 0% | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| AVENUE DE SAINT JULIEN | 1 | 0% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| AVENUE DE SAINT BARNABE | 1 | 0% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| AVENUE DU 24 AVRIL 1915 | 1 | 0% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE SAINT PIERRE | 1 | 0% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| AVENUE DES CAILLOLS | 1 | 0% | <img src="../../img/bar_14.gif" />&nbsp;14%|
 | **Total** | 7 | 0% | 100%|

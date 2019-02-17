@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 21 réponses dont 8 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE DES PINS | 2 | 9% | 25%|
-| BOULEVARD DE VILLEFONTAINE | 2 | 9% | 25%|
-| AVENUE STEVE BIKO | 1 | 4% | 12%|
-| VAUGELAS | 1 | 4% | 12%|
-| RUE DU MIDI | 1 | 4% | 12%|
-| AVENUE DES BOIS | 1 | 4% | 12%|
+| AVENUE DES PINS | 2 | 9% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| BOULEVARD DE VILLEFONTAINE | 2 | 9% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| AVENUE STEVE BIKO | 1 | 4% | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| VAUGELAS | 1 | 4% | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| RUE DU MIDI | 1 | 4% | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| AVENUE DES BOIS | 1 | 4% | <img src="../../img/bar_12.gif" />&nbsp;12%|
 | **Total** | 8 | 38% | 100%|

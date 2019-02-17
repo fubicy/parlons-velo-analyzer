@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 20 réponses dont 12 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE MARCELIN BERTHELOT | 7 | 35% | 58%|
-| MONTARAN | 1 | 5% | 8%|
-| RUE ANDRE DESSAUX | 1 | 5% | 8%|
-| LA BARRIERE | 1 | 5% | 8%|
-| LES AUBRAIS | 1 | 5% | 8%|
-| AVENUE D ORADOUR SUR GLANE | 1 | 5% | 8%|
+| RUE MARCELIN BERTHELOT | 7 | 35% | <img src="../../img/bar_58.gif" />&nbsp;58%|
+| MONTARAN | 1 | 5% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| RUE ANDRE DESSAUX | 1 | 5% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| LA BARRIERE | 1 | 5% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| LES AUBRAIS | 1 | 5% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| AVENUE D ORADOUR SUR GLANE | 1 | 5% | <img src="../../img/bar_8.gif" />&nbsp;8%|
 | **Total** | 12 | 60% | 100%|

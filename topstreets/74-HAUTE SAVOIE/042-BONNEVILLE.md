@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 12 réponses dont 2 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| THUET | 1 | 8% | 50%|
-| ROUTE DE GENEVE | 1 | 8% | 50%|
+| THUET | 1 | 8% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| ROUTE DE GENEVE | 1 | 8% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 16% | 100%|

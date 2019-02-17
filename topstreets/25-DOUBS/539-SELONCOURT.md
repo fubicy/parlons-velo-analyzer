@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 20 réponses dont 3 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE D AUDINCOURT | 3 | 15% | 100%|
+| RUE D AUDINCOURT | 3 | 15% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 3 | 15% | 100%|

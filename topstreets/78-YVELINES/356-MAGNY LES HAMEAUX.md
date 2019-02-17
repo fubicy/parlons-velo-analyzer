@@ -6,11 +6,11 @@ Sur l'ensemble de la ville il y a eu 27 réponses dont 9 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ROUTE DE VERSAILLES | 2 | 7% | 22%|
-| BULOYER | 2 | 7% | 22%|
-| VILLENEUVE | 1 | 3% | 11%|
-| CRESSELY | 1 | 3% | 11%|
-| LE BOURG | 1 | 3% | 11%|
-| RUE JOSEPH LEMARCHAND | 1 | 3% | 11%|
-| BUISSON | 1 | 3% | 11%|
+| ROUTE DE VERSAILLES | 2 | 7% | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| BULOYER | 2 | 7% | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| VILLENEUVE | 1 | 3% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| CRESSELY | 1 | 3% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| LE BOURG | 1 | 3% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE JOSEPH LEMARCHAND | 1 | 3% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| BUISSON | 1 | 3% | <img src="../../img/bar_11.gif" />&nbsp;11%|
 | **Total** | 9 | 33% | 100%|

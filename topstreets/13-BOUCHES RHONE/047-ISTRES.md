@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 25 réponses dont 2 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ENTRESSEN | 1 | 4% | 50%|
-| AVENUE DE RADOLFZELL | 1 | 4% | 50%|
+| ENTRESSEN | 1 | 4% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| AVENUE DE RADOLFZELL | 1 | 4% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 8% | 100%|

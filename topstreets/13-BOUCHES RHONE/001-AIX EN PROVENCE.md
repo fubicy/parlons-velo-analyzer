@@ -6,113 +6,113 @@ Sur l'ensemble de la ville il y a eu 761 réponses dont 371 réponses avec une r
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ROUTE DE GALICE | 22 | 2% | 5%|
-| AVENUE DES BELGES | 20 | 2% | 5%|
-| PONT DE L ARC | 17 | 2% | 4%|
-| LES MILLES | 17 | 2% | 4%|
-| PLACE ROND POINT | 15 | 1% | 4%|
-| AVENUE PIERRE BROSSOLETTE | 12 | 1% | 3%|
-| JAS DE BOUFFAN | 11 | 1% | 2%|
-| LA GARE | 10 | 1% | 2%|
-| COURS GAMBETTA | 10 | 1% | 2%|
-| BOULEVARD DE LA REPUBLIQUE | 10 | 1% | 2%|
-| COURS MIRABEAU | 10 | 1% | 2%|
-| PLAINE DES MILLES | 9 | 1% | 2%|
-| DOUBLE | 9 | 1% | 2%|
-| AVENUE DE L'EUROPE | 8 | 1% | 2%|
-| RESIDENCE DE L'ARC | 7 | 0% | 1%|
-| COURS SEXTIUS | 6 | 0% | 1%|
-| LUYNES | 6 | 0% | 1%|
-| AVENUE JEAN GIONO | 6 | 0% | 1%|
-| LA PIOLINE | 5 | 0% | 1%|
-| AVENUE GASTON BERGER | 5 | 0% | 1%|
-| AVENUE JEAN PAUL COSTE | 5 | 0% | 1%|
-| RUE DU RICM | 5 | 0% | 1%|
-| ROBERT | 4 | 0% | 1%|
-| ROUTE DES ALPES | 4 | 0% | 1%|
-| BOULEVARD ARISTIDE BRIAND | 4 | 0% | 1%|
-| BOULEVARD DU ROI RENE | 4 | 0% | 1%|
-| ZONE INDUSTRIELLE | 4 | 0% | 1%|
-| AVENUE ROBERT SCHUMAN | 3 | 0% | 0%|
-| RUE LACEPEDE | 3 | 0% | 0%|
-| CHEMIN DES ECOLES | 3 | 0% | 0%|
-| SAINT JEROME | 3 | 0% | 0%|
-| LA PARADE | 3 | 0% | 0%|
-| COURS SAINT LOUIS | 3 | 0% | 0%|
-| PUYRICARD | 3 | 0% | 0%|
-| AVENUE JEAN DALMAS | 3 | 0% | 0%|
-| AVENUE VICTOR HUGO | 3 | 0% | 0%|
-| BOULEVARD CARNOT | 3 | 0% | 0%|
-| AVENUE MAX JUVENAL | 3 | 0% | 0%|
-| ROUTE DE VAUVENARGUES | 3 | 0% | 0%|
-| ROUTE DU THOLONET | 3 | 0% | 0%|
-| AVENUE JULES ISAAC | 2 | 0% | 0%|
-| AVENUE HENRI MALACRIDA | 2 | 0% | 0%|
-| ROUTE DE CEZANNE | 2 | 0% | 0%|
-| BOULEVARD FRANCOIS ET EMILE ZOLA | 2 | 0% | 0%|
-| LA TORSE | 2 | 0% | 0%|
-| RUE DE LA MOLLE | 2 | 0% | 0%|
-| RUE MARECHAL JOFFRE | 2 | 0% | 0%|
-| ARC DE MEYRAN | 2 | 0% | 0%|
-| ROUTE D APT | 2 | 0% | 0%|
-| LES PLATANES | 2 | 0% | 0%|
-| COURS DES ARTS ET METIERS | 2 | 0% | 0%|
-| ROUTE DES MILLES | 2 | 0% | 0%|
-| AVENUE FORTUNE FERRINI | 2 | 0% | 0%|
-| ROUTE DE BERRE | 2 | 0% | 0%|
-| PLACE DES PRECHEURS | 2 | 0% | 0%|
-| RUE EMERIC DAVID | 2 | 0% | 0%|
-| AVENUE PASTEUR | 2 | 0% | 0%|
-| L HOPITAL | 2 | 0% | 0%|
-| RUE GUILLAUME DU VAIR | 1 | 0% | 0%|
-| RESIDENCE BEL AIR | 1 | 0% | 0%|
-| CHEMIN DU VIADUC | 1 | 0% | 0%|
-| VAL SAINT ANDRE | 1 | 0% | 0%|
-| AVENUE DU VAL | 1 | 0% | 0%|
-| ROUTE DE GARDANNE | 1 | 0% | 0%|
-| AVENUE HENRI MAURIAT | 1 | 0% | 0%|
-| AVENUE DU CLUB HIPPIQUE | 1 | 0% | 0%|
-| MELAN | 1 | 0% | 0%|
-| PLACE NELSON MANDELA | 1 | 0% | 0%|
-| PARC JOURDAN | 1 | 0% | 0%|
-| AVENUE PHILIPPE SOLARI | 1 | 0% | 0%|
-| CHEMIN DU PONT ROUT | 1 | 0% | 0%|
-| PONTIER | 1 | 0% | 0%|
-| CITE UNIVERSITAIRE | 1 | 0% | 0%|
-| RUE FREDERIC MISTRAL | 1 | 0% | 0%|
-| PETIT BARTHELEMY | 1 | 0% | 0%|
-| PLACE BELLEGARDE | 1 | 0% | 0%|
-| AVENUE MARIUS JOUVEAU | 1 | 0% | 0%|
-| AVENUE DE LA CIBLE | 1 | 0% | 0%|
-| ROUTE DES PINCHINATS | 1 | 0% | 0%|
-| AVENUE JEAN MOULIN | 1 | 0% | 0%|
-| AVENUE JULES FERRY | 1 | 0% | 0%|
-| PONT DE LA TORSE | 1 | 0% | 0%|
-| ZUP | 1 | 0% | 0%|
-| LE STADE | 1 | 0% | 0%|
-| LA FOURANE | 1 | 0% | 0%|
-| AVENUE DU CAMP DE MENTHE | 1 | 0% | 0%|
-| ROUTE DE SISTERON | 1 | 0% | 0%|
-| ALLEE DES PINS | 1 | 0% | 0%|
-| RUE DE LA FONTAINE D ARGENT | 1 | 0% | 0%|
-| RUE DE LA FONTAINE | 1 | 0% | 0%|
-| RUE MANUEL | 1 | 0% | 0%|
-| PLACE DES CARDEURS | 1 | 0% | 0%|
-| AVENUE DE TUBINGEN | 1 | 0% | 0%|
-| SAINT ANDRE HAUT | 1 | 0% | 0%|
-| BERAUD | 1 | 0% | 0%|
-| CUQUES | 1 | 0% | 0%|
-| ROUTE D'EGUILLES | 1 | 0% | 0%|
-| ZONE INDUSTRIELLE DES MILL | 1 | 0% | 0%|
-| RUE DES BOEUFS | 1 | 0% | 0%|
-| RUE D ITALIE | 1 | 0% | 0%|
-| RUE PORTALIS | 1 | 0% | 0%|
-| BOULEVARD DES POILUS | 1 | 0% | 0%|
-| AVENUE DU PIGONNET | 1 | 0% | 0%|
-| AVENUE MARCEL PAGNOL | 1 | 0% | 0%|
-| AVENUE FERNAND BENOIT | 1 | 0% | 0%|
-| RUE THIERS | 1 | 0% | 0%|
-| ROUTE NATIONALE 8 | 1 | 0% | 0%|
-| RESIDENCE LE JAS | 1 | 0% | 0%|
-| RESIDENCE SAINTE VICTOIRE | 1 | 0% | 0%|
+| ROUTE DE GALICE | 22 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| AVENUE DES BELGES | 20 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| PONT DE L ARC | 17 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| LES MILLES | 17 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| PLACE ROND POINT | 15 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| AVENUE PIERRE BROSSOLETTE | 12 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| JAS DE BOUFFAN | 11 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| LA GARE | 10 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| COURS GAMBETTA | 10 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| BOULEVARD DE LA REPUBLIQUE | 10 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| COURS MIRABEAU | 10 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| PLAINE DES MILLES | 9 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| DOUBLE | 9 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| AVENUE DE L'EUROPE | 8 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| RESIDENCE DE L'ARC | 7 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| COURS SEXTIUS | 6 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| LUYNES | 6 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE JEAN GIONO | 6 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| LA PIOLINE | 5 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE GASTON BERGER | 5 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE JEAN PAUL COSTE | 5 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE DU RICM | 5 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| ROBERT | 4 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| ROUTE DES ALPES | 4 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| BOULEVARD ARISTIDE BRIAND | 4 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| BOULEVARD DU ROI RENE | 4 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| ZONE INDUSTRIELLE | 4 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE ROBERT SCHUMAN | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE LACEPEDE | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| CHEMIN DES ECOLES | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| SAINT JEROME | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| LA PARADE | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| COURS SAINT LOUIS | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PUYRICARD | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE JEAN DALMAS | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE VICTOR HUGO | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD CARNOT | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE MAX JUVENAL | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE DE VAUVENARGUES | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE DU THOLONET | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE JULES ISAAC | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE HENRI MALACRIDA | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE DE CEZANNE | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD FRANCOIS ET EMILE ZOLA | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| LA TORSE | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DE LA MOLLE | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE MARECHAL JOFFRE | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ARC DE MEYRAN | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE D APT | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| LES PLATANES | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| COURS DES ARTS ET METIERS | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE DES MILLES | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE FORTUNE FERRINI | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE DE BERRE | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PLACE DES PRECHEURS | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE EMERIC DAVID | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE PASTEUR | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| L HOPITAL | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE GUILLAUME DU VAIR | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RESIDENCE BEL AIR | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| CHEMIN DU VIADUC | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| VAL SAINT ANDRE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE DU VAL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE DE GARDANNE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE HENRI MAURIAT | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE DU CLUB HIPPIQUE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| MELAN | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PLACE NELSON MANDELA | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PARC JOURDAN | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE PHILIPPE SOLARI | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| CHEMIN DU PONT ROUT | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PONTIER | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| CITE UNIVERSITAIRE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE FREDERIC MISTRAL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PETIT BARTHELEMY | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PLACE BELLEGARDE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE MARIUS JOUVEAU | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE DE LA CIBLE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE DES PINCHINATS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE JEAN MOULIN | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE JULES FERRY | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PONT DE LA TORSE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ZUP | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| LE STADE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| LA FOURANE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE DU CAMP DE MENTHE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE DE SISTERON | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ALLEE DES PINS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DE LA FONTAINE D ARGENT | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DE LA FONTAINE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE MANUEL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PLACE DES CARDEURS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE DE TUBINGEN | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| SAINT ANDRE HAUT | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BERAUD | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| CUQUES | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE D'EGUILLES | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ZONE INDUSTRIELLE DES MILL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DES BOEUFS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE D ITALIE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE PORTALIS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD DES POILUS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE DU PIGONNET | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE MARCEL PAGNOL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE FERNAND BENOIT | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE THIERS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ROUTE NATIONALE 8 | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RESIDENCE LE JAS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RESIDENCE SAINTE VICTOIRE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
 | **Total** | 371 | 48% | 100%|

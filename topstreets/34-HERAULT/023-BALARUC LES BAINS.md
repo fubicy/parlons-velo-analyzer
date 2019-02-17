@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 18 réponses dont 2 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| BORD DE L ETANG | 1 | 5% | 50%|
-| LA GARE | 1 | 5% | 50%|
+| BORD DE L ETANG | 1 | 5% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| LA GARE | 1 | 5% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 11% | 100%|

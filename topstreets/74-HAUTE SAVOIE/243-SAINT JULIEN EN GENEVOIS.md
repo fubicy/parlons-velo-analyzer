@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 13 réponses dont 1 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| PLACE DU MARCHE | 1 | 7% | 100%|
+| PLACE DU MARCHE | 1 | 7% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 1 | 7% | 100%|

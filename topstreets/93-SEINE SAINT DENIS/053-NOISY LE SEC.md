@@ -6,24 +6,24 @@ Sur l'ensemble de la ville il y a eu 59 réponses dont 58 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DE BREMENT | 8 | 13% | 13%|
-| RUE JEAN JAURES | 7 | 11% | 12%|
-| AVENUE GALLIENI | 6 | 10% | 10%|
-| RUE VAILLANT COUTURIER | 4 | 6% | 6%|
-| GARE DE NOISY LE SEC | 4 | 6% | 6%|
-| PONT DE BONDY | 4 | 6% | 6%|
-| LA FOLIE | 3 | 5% | 5%|
-| CANAL DE L OURCQ | 3 | 5% | 5%|
-| RUE DU PARC | 3 | 5% | 5%|
-| RUE DE PARIS | 2 | 3% | 3%|
-| RUE DES BERGERIES | 2 | 3% | 3%|
-| AVENUE DE BOBIGNY | 2 | 3% | 3%|
-| BOULEVARD GAMBETTA | 2 | 3% | 3%|
-| PLACE JEANNE D ARC | 2 | 3% | 3%|
-| RUE LEO LAGRANGE | 1 | 1% | 1%|
-| RUE DE NEUILLY | 1 | 1% | 1%|
-| AVENUE DE ROSNY | 1 | 1% | 1%|
-| RUE DE LA FRATERNITE | 1 | 1% | 1%|
-| RUE MARC SANGNIER | 1 | 1% | 1%|
-| RUE ANATOLE FRANCE | 1 | 1% | 1%|
+| RUE DE BREMENT | 8 | 13% | <img src="../../img/bar_13.gif" />&nbsp;13%|
+| RUE JEAN JAURES | 7 | 11% | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| AVENUE GALLIENI | 6 | 10% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE VAILLANT COUTURIER | 4 | 6% | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| GARE DE NOISY LE SEC | 4 | 6% | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| PONT DE BONDY | 4 | 6% | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| LA FOLIE | 3 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| CANAL DE L OURCQ | 3 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| RUE DU PARC | 3 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| RUE DE PARIS | 2 | 3% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| RUE DES BERGERIES | 2 | 3% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| AVENUE DE BOBIGNY | 2 | 3% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| BOULEVARD GAMBETTA | 2 | 3% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| PLACE JEANNE D ARC | 2 | 3% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| RUE LEO LAGRANGE | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE DE NEUILLY | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE DE ROSNY | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE DE LA FRATERNITE | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE MARC SANGNIER | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE ANATOLE FRANCE | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
 | **Total** | 58 | 98% | 100%|

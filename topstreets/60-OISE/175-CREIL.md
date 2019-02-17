@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 29 réponses dont 5 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE GAMBETTA | 2 | 6% | 40%|
-| RUE DE LA REPUBLIQUE | 2 | 6% | 40%|
-| PLACE CARNOT | 1 | 3% | 20%|
+| RUE GAMBETTA | 2 | 6% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| RUE DE LA REPUBLIQUE | 2 | 6% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| PLACE CARNOT | 1 | 3% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 17% | 100%|

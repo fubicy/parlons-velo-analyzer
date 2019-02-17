@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 8 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| CHEMIN DU TROU ROUGE | 5 | 62% | 100%|
+| CHEMIN DU TROU ROUGE | 5 | 62% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 5 | 62% | 100%|

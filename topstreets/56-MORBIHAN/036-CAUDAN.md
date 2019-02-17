@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 4 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DU MUGUET | 1 | 25% | 33%|
-| KERPONT | 1 | 25% | 33%|
-| LE BOURG | 1 | 25% | 33%|
+| RUE DU MUGUET | 1 | 25% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| KERPONT | 1 | 25% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| LE BOURG | 1 | 25% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 75% | 100%|

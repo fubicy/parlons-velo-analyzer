@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 2 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE CHARLES DE GAULLE | 1 | 50% | 33%|
-| AVENUE DE JUVISY | 1 | 50% | 33%|
-| AVENUE DE LA REPUBLIQUE | 1 | 50% | 33%|
+| AVENUE CHARLES DE GAULLE | 1 | 50% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| AVENUE DE JUVISY | 1 | 50% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| AVENUE DE LA REPUBLIQUE | 1 | 50% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 150% | 100%|

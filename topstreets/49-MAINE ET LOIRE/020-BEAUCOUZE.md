@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 1 réponses dont 2 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE DU GRAND PERIGNE | 1 | 100% | 50%|
-| LA GRANGE AUX BELLES | 1 | 100% | 50%|
+| AVENUE DU GRAND PERIGNE | 1 | 100% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| LA GRANGE AUX BELLES | 1 | 100% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 200% | 100%|

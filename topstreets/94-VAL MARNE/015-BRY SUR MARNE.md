@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 16 réponses dont 7 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| BOULEVARD PASTEUR | 2 | 12% | 28%|
-| AVENUE GEORGES CLEMENCEAU | 1 | 6% | 14%|
-| RUE DU FOUR | 1 | 6% | 14%|
-| RUE LEON MENU | 1 | 6% | 14%|
-| AVENUE DE RIGNY | 1 | 6% | 14%|
-| GARE DE BRY | 1 | 6% | 14%|
+| BOULEVARD PASTEUR | 2 | 12% | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| AVENUE GEORGES CLEMENCEAU | 1 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE DU FOUR | 1 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE LEON MENU | 1 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| AVENUE DE RIGNY | 1 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| GARE DE BRY | 1 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
 | **Total** | 7 | 43% | 100%|

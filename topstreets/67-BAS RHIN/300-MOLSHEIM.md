@@ -6,13 +6,13 @@ Sur l'ensemble de la ville il y a eu 75 réponses dont 59 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| VILLE | 39 | 52% | 66%|
-| AVENUE DE LA GARE | 5 | 6% | 8%|
-| RUE HENRI MECK | 4 | 5% | 6%|
-| FORT | 3 | 4% | 5%|
-| RUE DE SAVERNE | 3 | 4% | 5%|
-| RUE DE LA SOURCE | 2 | 2% | 3%|
-| RUE DES ROMAINS | 1 | 1% | 1%|
-| ROUTE DE MUTZIG | 1 | 1% | 1%|
-| AVENUE DU GENERAL DE GAULLE | 1 | 1% | 1%|
+| VILLE | 39 | 52% | <img src="../../img/bar_66.gif" />&nbsp;66%|
+| AVENUE DE LA GARE | 5 | 6% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| RUE HENRI MECK | 4 | 5% | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| FORT | 3 | 4% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| RUE DE SAVERNE | 3 | 4% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| RUE DE LA SOURCE | 2 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| RUE DES ROMAINS | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| ROUTE DE MUTZIG | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE DU GENERAL DE GAULLE | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
 | **Total** | 59 | 78% | 100%|

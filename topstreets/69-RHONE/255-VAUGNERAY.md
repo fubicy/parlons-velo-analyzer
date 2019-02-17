@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 3 réponses dont 1 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ROUTE DE BORDEAUX | 1 | 33% | 100%|
+| ROUTE DE BORDEAUX | 1 | 33% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 1 | 33% | 100%|

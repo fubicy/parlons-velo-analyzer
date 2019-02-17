@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 11 réponses dont 6 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE | 3 | 27% | 50%|
-| RUE DU GENERAL LECLERC | 3 | 27% | 50%|
+| RUE | 3 | 27% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| RUE DU GENERAL LECLERC | 3 | 27% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 6 | 54% | 100%|

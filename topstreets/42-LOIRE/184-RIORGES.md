@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 4 réponses dont 2 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE JEAN MOULIN | 1 | 25% | 50%|
-| RUE MICHEL RONDET | 1 | 25% | 50%|
+| RUE JEAN MOULIN | 1 | 25% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| RUE MICHEL RONDET | 1 | 25% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 50% | 100%|

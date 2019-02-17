@@ -6,11 +6,11 @@ Sur l'ensemble de la ville il y a eu 17 réponses dont 10 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DE PARIS | 2 | 11% | 20%|
-| RUE DE LA REPUBLIQUE | 2 | 11% | 20%|
-| RUE LEON DESOYER | 2 | 11% | 20%|
-| RUE DE PONTOISE | 1 | 5% | 10%|
-| AVENUE DU GENERAL LECLERC | 1 | 5% | 10%|
-| GARE | 1 | 5% | 10%|
-| GARE RER | 1 | 5% | 10%|
+| RUE DE PARIS | 2 | 11% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| RUE DE LA REPUBLIQUE | 2 | 11% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| RUE LEON DESOYER | 2 | 11% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| RUE DE PONTOISE | 1 | 5% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| AVENUE DU GENERAL LECLERC | 1 | 5% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| GARE | 1 | 5% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| GARE RER | 1 | 5% | <img src="../../img/bar_10.gif" />&nbsp;10%|
 | **Total** | 10 | 58% | 100%|

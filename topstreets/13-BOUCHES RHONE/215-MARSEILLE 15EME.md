@@ -6,12 +6,12 @@ Sur l'ensemble de la ville il y a eu 1846 réponses dont 19 réponses avec une r
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| CHEMIN DU LITTORAL | 9 | 0% | 47%|
-| LOTISSEMENT SAINTE ANNE | 2 | 0% | 10%|
-| CAP JANET | 2 | 0% | 10%|
-| RUE DE LYON | 2 | 0% | 10%|
-| CITE SAINT LOUIS | 1 | 0% | 5%|
-| AUTOROUTE NORD | 1 | 0% | 5%|
-| IMPASSE SAINT JOSEPH | 1 | 0% | 5%|
-| AVENUE DE LA VISTE | 1 | 0% | 5%|
+| CHEMIN DU LITTORAL | 9 | 0% | <img src="../../img/bar_47.gif" />&nbsp;47%|
+| LOTISSEMENT SAINTE ANNE | 2 | 0% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| CAP JANET | 2 | 0% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE DE LYON | 2 | 0% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| CITE SAINT LOUIS | 1 | 0% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| AUTOROUTE NORD | 1 | 0% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| IMPASSE SAINT JOSEPH | 1 | 0% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| AVENUE DE LA VISTE | 1 | 0% | <img src="../../img/bar_5.gif" />&nbsp;5%|
 | **Total** | 19 | 1% | 100%|

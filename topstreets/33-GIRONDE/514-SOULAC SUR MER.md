@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 1 réponses dont 1 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| L AMELIE | 1 | 100% | 100%|
+| L AMELIE | 1 | 100% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 1 | 100% | 100%|

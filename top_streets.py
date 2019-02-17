@@ -8,7 +8,6 @@ import re
 import csv
 import sys
 import shutil
-import pprint
 
 from collections import Counter
 
@@ -352,6 +351,11 @@ def write_topstreets(fantoirfile,codedep,codetown,responses, results):
             percent_with_street = int(count/nb_responses_with_street*100.0)
             markdown.write(f"| {striped_street} | {count} | {percent_responses}% | {percent_with_street}%|\n")
 
+def html_percent_bar(root,percent):
+    html=f'<img src="{root}/bar_{percent}.gif" />'
+
+    return html
+
 def write_main_results():
     # Write stats
     shutil.copyfile("README_template.md", "README.md")
@@ -362,7 +366,8 @@ def write_main_results():
         docfile.write("|-------------|-------------|----------------------|-----------------|\n")
 
         for kd,v in sorted(stats['dep'].items()):
-            docfile.write("|<a href='topstreets/{}/README.md'>{}</a>|{}|{}({}%)|{}|\n".format(v['title'],v['title'],v['nb_responses'],v['nb_responses_with_street'],v['nb_responses_with_street_percent'], v['nb_points_noirs']))             
+            backspots_percent = int(v['nb_points_noirs']/stats['total']['max_nb_points_noirs']*100.0)
+            docfile.write("|<a href='topstreets/{}/README.md'>{}</a>|{}|{}({}%)|{}&nbsp;{}|\n".format(v['title'],v['title'],v['nb_responses'],v['nb_responses_with_street'],v['nb_responses_with_street_percent'],html_percent_bar('img',backspots_percent),v['nb_points_noirs']))             
 
         docfile.write("| **Total** |{}|{}({}%)|{}|\n".format(stats['total']['nb_responses'],stats['total']['nb_responses_with_street'],stats['total']['nb_responses_with_street_percent'], stats['total']['nb_points_noirs']))             
 
@@ -383,7 +388,10 @@ def write_departments_results():
             docfile.write("|-------------|-------------|----------------------|-----------------|\n")
 
             for kt, t in sorted(stats['dep'][kd]['towns'].items()):
-                docfile.write("|<a href='{}.md'>{}</a>|{}|{}({}%)|{}|\n".format(t['title'],t['title'],t['nb_responses'],t['nb_responses_with_street'],t['nb_responses_with_street_percent'], t['nb_points_noirs']))             
+                backspots_percent = 0
+                if stats['dep'][kd]['max_nb_points_noirs'] > 0:
+                    backspots_percent = int(t['nb_points_noirs']/stats['dep'][kd]['max_nb_points_noirs']*100.0)
+                docfile.write("|<a href='{}.md'>{}</a>|{}|{}({}%)|{}&nbsp;{}|\n".format(t['title'],t['title'],t['nb_responses'],t['nb_responses_with_street'],t['nb_responses_with_street_percent'], html_percent_bar('../../img',backspots_percent),t['nb_points_noirs']))             
 
             docfile.write("| **Total** |{}|{}({}%)|{}|\n".format(d['nb_responses'],d['nb_responses_with_street'],d['nb_responses_with_street_percent'], d['nb_points_noirs']))             
 
@@ -422,7 +430,8 @@ def write_towns_results():
                     if nb_responses_with_street>0:
                         percent_with_street = int(count/nb_responses_with_street*100.0)
                     
-                    docfile.write(f"| {striped_street} | {count} | {percent_responses}% | {percent_with_street}%|\n")
+                    bar_percent = html_percent_bar('../../img',percent_with_street)
+                    docfile.write(f"| {striped_street} | {count} | {percent_responses}% | {bar_percent}&nbsp;{percent_with_street}%|\n")
 
                 # Total
                 if nb_responses > 0:
@@ -485,7 +494,8 @@ def analyze_all_responses():
                         'title': titledep,
                         'nb_responses': 0,
                         'nb_responses_with_street': 0,
-                        'nb_points_noirs': 0
+                        'nb_points_noirs': 0,
+                        'max_nb_points_noirs': 0,
                     } 
 
                 topstreets_filename=f"topstreets/{titledep}/{titletown}.md"
@@ -513,14 +523,16 @@ def analyze_all_responses():
                     'nb_responses_with_street': nb_responses_with_street,
                     'nb_responses_with_street_percent': ratiotown,
                     'nb_points_noirs': len(blackspots),
-                    'blackspots':blackspots
+                    'blackspots':blackspots,
                 }
 
                 # Update department and total counter
                 stats['dep'][codedep]['nb_responses_with_street'] += nb_responses_with_street
                 stats['dep'][codedep]['nb_points_noirs'] += len(blackspots)
+                stats['dep'][codedep]['max_nb_points_noirs'] = max(stats['dep'][codedep]['max_nb_points_noirs'],stats['dep'][codedep]['nb_points_noirs'])
                 stats['total']['nb_responses_with_street'] += nb_responses_with_street
                 stats['total']['nb_points_noirs'] += len(blackspots)
+                stats['total']['max_nb_points_noirs'] = max(stats['total']['max_nb_points_noirs'],stats['dep'][codedep]['nb_points_noirs'])
 
                 # Update department ratio
                 ratiodep = 0
@@ -556,12 +568,14 @@ stats = {
         'nb_responses': 0,
         'nb_responses_with_street': 0,
         'nb_points_noirs': 0,
+        'max_nb_points_noirs': 0,
     },
     'dep': {
 
     }
 }
 
+# Analyse FUB responses
 analyze_all_responses()
 
 # Delete previous results

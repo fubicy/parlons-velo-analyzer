@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 5 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| CAP FERRET | 2 | 40% | 40%|
-| LES JACQUETS | 1 | 20% | 20%|
-| ROUTE DE BORDEAUX | 1 | 20% | 20%|
-| LA POINTE | 1 | 20% | 20%|
+| CAP FERRET | 2 | 40% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| LES JACQUETS | 1 | 20% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| ROUTE DE BORDEAUX | 1 | 20% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| LA POINTE | 1 | 20% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 100% | 100%|

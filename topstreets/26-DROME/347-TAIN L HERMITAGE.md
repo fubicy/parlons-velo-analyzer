@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 29 réponses dont 3 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ROUTE DE ROMANS | 1 | 3% | 33%|
-| AVENUE JULES NADI | 1 | 3% | 33%|
-| RUE DES ECOLES | 1 | 3% | 33%|
+| ROUTE DE ROMANS | 1 | 3% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| AVENUE JULES NADI | 1 | 3% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| RUE DES ECOLES | 1 | 3% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 10% | 100%|

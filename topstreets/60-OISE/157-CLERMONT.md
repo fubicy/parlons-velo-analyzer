@@ -6,9 +6,9 @@ Sur l'ensemble de la ville il y a eu 9 réponses dont 7 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE ROGER MARTIN DU GARD | 2 | 22% | 28%|
-| RUE DU GENERAL DE GAULLE | 2 | 22% | 28%|
-| AVENUE DES DEPORTES | 1 | 11% | 14%|
-| RUE FERNEL | 1 | 11% | 14%|
-| RUE DE PARIS | 1 | 11% | 14%|
+| RUE ROGER MARTIN DU GARD | 2 | 22% | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| RUE DU GENERAL DE GAULLE | 2 | 22% | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| AVENUE DES DEPORTES | 1 | 11% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE FERNEL | 1 | 11% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE DE PARIS | 1 | 11% | <img src="../../img/bar_14.gif" />&nbsp;14%|
 | **Total** | 7 | 77% | 100%|

@@ -6,11 +6,11 @@ Sur l'ensemble de la ville il y a eu 23 réponses dont 9 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DE LA REPUBLIQUE | 3 | 13% | 33%|
-| LE MIALAN | 1 | 4% | 11%|
-| RUE POLE 2000 | 1 | 4% | 11%|
-| LES COMMUNES | 1 | 4% | 11%|
-| LA PLAINE | 1 | 4% | 11%|
-| IMPASSE DES BREMONDIERES | 1 | 4% | 11%|
-| RUE FERDINAND MALET | 1 | 4% | 11%|
+| RUE DE LA REPUBLIQUE | 3 | 13% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| LE MIALAN | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE POLE 2000 | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| LES COMMUNES | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| LA PLAINE | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| IMPASSE DES BREMONDIERES | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE FERDINAND MALET | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
 | **Total** | 9 | 39% | 100%|

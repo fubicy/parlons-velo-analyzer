@@ -6,12 +6,12 @@ Sur l'ensemble de la ville il y a eu 22 réponses dont 9 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DE RENNES | 2 | 9% | 22%|
-| PASSAGE | 1 | 4% | 11%|
-| RUE DES VERDAUDAIS | 1 | 4% | 11%|
-| AVENUE ABBE BARBEDET | 1 | 4% | 11%|
-| RUE DE CALAIS | 1 | 4% | 11%|
-| BOURGON | 1 | 4% | 11%|
-| LA TIMONIERE | 1 | 4% | 11%|
-| LA RUE | 1 | 4% | 11%|
+| RUE DE RENNES | 2 | 9% | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| PASSAGE | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE DES VERDAUDAIS | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| AVENUE ABBE BARBEDET | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE DE CALAIS | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| BOURGON | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| LA TIMONIERE | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| LA RUE | 1 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
 | **Total** | 9 | 40% | 100%|

@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 8 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LA PLAGE | 1 | 12% | 33%|
-| ALLEE DES PINS | 1 | 12% | 33%|
-| 568 | 1 | 12% | 33%|
+| LA PLAGE | 1 | 12% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| ALLEE DES PINS | 1 | 12% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| 568 | 1 | 12% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 37% | 100%|

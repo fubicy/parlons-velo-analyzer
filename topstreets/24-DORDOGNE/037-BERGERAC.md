@@ -6,11 +6,11 @@ Sur l'ensemble de la ville il y a eu 23 réponses dont 10 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| BORDE | 4 | 17% | 40%|
-| RUE CLAIRAT | 1 | 4% | 10%|
-| AVENUE PASTEUR | 1 | 4% | 10%|
-| PLACE DE LA BASCULE | 1 | 4% | 10%|
-| RUE DE LA BOETIE | 1 | 4% | 10%|
-| PLACE MALBEC | 1 | 4% | 10%|
-| RUE VALETTE | 1 | 4% | 10%|
+| BORDE | 4 | 17% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| RUE CLAIRAT | 1 | 4% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| AVENUE PASTEUR | 1 | 4% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| PLACE DE LA BASCULE | 1 | 4% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE DE LA BOETIE | 1 | 4% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| PLACE MALBEC | 1 | 4% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE VALETTE | 1 | 4% | <img src="../../img/bar_10.gif" />&nbsp;10%|
 | **Total** | 10 | 43% | 100%|

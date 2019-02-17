@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 2 réponses dont 1 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE JEAN JAURES | 1 | 50% | 100%|
+| RUE JEAN JAURES | 1 | 50% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 1 | 50% | 100%|

@@ -6,13 +6,13 @@ Sur l'ensemble de la ville il y a eu 42 réponses dont 12 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE DE CANNES | 2 | 4% | 16%|
-| VILLAGE | 2 | 4% | 16%|
-| AVENUE MARCEL JOURNET | 2 | 4% | 16%|
-| CASTELLARAS | 1 | 2% | 8%|
-| CHEMIN DE LA FONT DES FADES | 1 | 2% | 8%|
-| AVENUE DE GRASSE | 1 | 2% | 8%|
-| CORNICHE BENARD | 1 | 2% | 8%|
-| ROUTE DE LA ROQUETTE | 1 | 2% | 8%|
-| LA GARE | 1 | 2% | 8%|
+| AVENUE DE CANNES | 2 | 4% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| VILLAGE | 2 | 4% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| AVENUE MARCEL JOURNET | 2 | 4% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| CASTELLARAS | 1 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| CHEMIN DE LA FONT DES FADES | 1 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| AVENUE DE GRASSE | 1 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| CORNICHE BENARD | 1 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| ROUTE DE LA ROQUETTE | 1 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| LA GARE | 1 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
 | **Total** | 12 | 28% | 100%|

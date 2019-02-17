@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 18 réponses dont 4 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE DE LA REPUBLIQUE | 3 | 16% | 75%|
-| RUE DE L HIPPODROME | 1 | 5% | 25%|
+| AVENUE DE LA REPUBLIQUE | 3 | 16% | <img src="../../img/bar_75.gif" />&nbsp;75%|
+| RUE DE L HIPPODROME | 1 | 5% | <img src="../../img/bar_25.gif" />&nbsp;25%|
 | **Total** | 4 | 22% | 100%|

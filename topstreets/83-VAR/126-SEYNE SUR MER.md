@@ -6,14 +6,14 @@ Sur l'ensemble de la ville il y a eu 37 réponses dont 21 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| TAMARIS | 9 | 24% | 42%|
-| ROUTE DES SABLETTES | 2 | 5% | 9%|
-| AVENUE FREDERIC MISTRAL | 2 | 5% | 9%|
-| AVENUE GARIBALDI | 2 | 5% | 9%|
-| BREGAILLON | 1 | 2% | 4%|
-| FABRE | 1 | 2% | 4%|
-| AVENUE FAIDHERBE | 1 | 2% | 4%|
-| BOULEVARD JEAN JAURES | 1 | 2% | 4%|
-| LES SABLETTES | 1 | 2% | 4%|
-| AVENUE YOURI GAGARINE | 1 | 2% | 4%|
+| TAMARIS | 9 | 24% | <img src="../../img/bar_42.gif" />&nbsp;42%|
+| ROUTE DES SABLETTES | 2 | 5% | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| AVENUE FREDERIC MISTRAL | 2 | 5% | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| AVENUE GARIBALDI | 2 | 5% | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| BREGAILLON | 1 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| FABRE | 1 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| AVENUE FAIDHERBE | 1 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| BOULEVARD JEAN JAURES | 1 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| LES SABLETTES | 1 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| AVENUE YOURI GAGARINE | 1 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
 | **Total** | 21 | 56% | 100%|

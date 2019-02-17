@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 7 réponses dont 2 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ROUTE DE BAYONNE | 2 | 28% | 100%|
+| ROUTE DE BAYONNE | 2 | 28% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 2 | 28% | 100%|

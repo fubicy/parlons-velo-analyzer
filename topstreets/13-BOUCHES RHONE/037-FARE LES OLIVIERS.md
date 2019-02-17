@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 47 réponses dont 14 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LE VILLAGE | 7 | 14% | 50%|
-| AVENUE DES PLATANES | 3 | 6% | 21%|
-| LA POMME DE PIN | 1 | 2% | 7%|
-| AVENUE PASTEUR | 1 | 2% | 7%|
-| LOTISSEMENT LES VIGNES | 1 | 2% | 7%|
-| AVENUE CHARLES DE GAULLE | 1 | 2% | 7%|
+| LE VILLAGE | 7 | 14% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| AVENUE DES PLATANES | 3 | 6% | <img src="../../img/bar_21.gif" />&nbsp;21%|
+| LA POMME DE PIN | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| AVENUE PASTEUR | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| LOTISSEMENT LES VIGNES | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| AVENUE CHARLES DE GAULLE | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
 | **Total** | 14 | 29% | 100%|

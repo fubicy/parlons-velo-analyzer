@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 4 réponses dont 1 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| BOULEVARD ARISTIDE BRIAND | 1 | 25% | 100%|
+| BOULEVARD ARISTIDE BRIAND | 1 | 25% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 1 | 25% | 100%|

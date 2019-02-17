@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 30 réponses dont 4 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE DE LA GARE | 1 | 3% | 25%|
-| AVENUE JEAN JAURES | 1 | 3% | 25%|
-| RUE DU PONT NEUF | 1 | 3% | 25%|
-| ORANGE | 1 | 3% | 25%|
+| AVENUE DE LA GARE | 1 | 3% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| AVENUE JEAN JAURES | 1 | 3% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| RUE DU PONT NEUF | 1 | 3% | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| ORANGE | 1 | 3% | <img src="../../img/bar_25.gif" />&nbsp;25%|
 | **Total** | 4 | 13% | 100%|

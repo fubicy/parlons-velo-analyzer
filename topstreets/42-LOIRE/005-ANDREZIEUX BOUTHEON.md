@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 6 réponses dont 2 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ANDREZIEUX | 1 | 16% | 50%|
-| AVENUE DE MONTBRISON | 1 | 16% | 50%|
+| ANDREZIEUX | 1 | 16% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| AVENUE DE MONTBRISON | 1 | 16% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 33% | 100%|

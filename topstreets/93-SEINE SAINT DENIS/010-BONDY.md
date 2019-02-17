@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 7 réponses dont 2 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| PONT DE BONDY | 1 | 14% | 50%|
-| AVENUE HENRI BARBUSSE | 1 | 14% | 50%|
+| PONT DE BONDY | 1 | 14% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| AVENUE HENRI BARBUSSE | 1 | 14% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 28% | 100%|

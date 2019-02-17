@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 4 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE CHARLES DE GAULLE | 2 | 50% | 66%|
-| LE BOURG | 1 | 25% | 33%|
+| AVENUE CHARLES DE GAULLE | 2 | 50% | <img src="../../img/bar_66.gif" />&nbsp;66%|
+| LE BOURG | 1 | 25% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 75% | 100%|

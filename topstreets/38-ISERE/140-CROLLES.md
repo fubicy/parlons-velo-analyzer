@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 16 réponses dont 7 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE JOLIOT CURIE | 2 | 12% | 28%|
-| MONTFORT | 1 | 6% | 14%|
-| LA RUE | 1 | 6% | 14%|
-| RUE HECTOR BERLIOZ | 1 | 6% | 14%|
-| PLACE DES PASSAGES | 1 | 6% | 14%|
-| RUE DE LA BOUVERIE | 1 | 6% | 14%|
+| AVENUE JOLIOT CURIE | 2 | 12% | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| MONTFORT | 1 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| LA RUE | 1 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE HECTOR BERLIOZ | 1 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| PLACE DES PASSAGES | 1 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| RUE DE LA BOUVERIE | 1 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
 | **Total** | 7 | 43% | 100%|

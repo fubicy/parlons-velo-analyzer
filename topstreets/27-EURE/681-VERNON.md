@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 11 réponses dont 3 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE D ALBUFERA | 1 | 9% | 33%|
-| AVENUE DE ROUEN | 1 | 9% | 33%|
-| AVENUE DE L ARDECHE | 1 | 9% | 33%|
+| RUE D ALBUFERA | 1 | 9% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| AVENUE DE ROUEN | 1 | 9% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| AVENUE DE L ARDECHE | 1 | 9% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 27% | 100%|

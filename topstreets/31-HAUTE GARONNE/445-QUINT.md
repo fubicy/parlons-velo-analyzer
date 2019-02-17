@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 7 réponses dont 9 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ROUTE DE CASTRES | 4 | 57% | 44%|
-| RIBAUTE | 2 | 28% | 22%|
-| RUE DES COTEAUX | 2 | 28% | 22%|
-| ROUTE DE LA SAUNE | 1 | 14% | 11%|
+| ROUTE DE CASTRES | 4 | 57% | <img src="../../img/bar_44.gif" />&nbsp;44%|
+| RIBAUTE | 2 | 28% | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| RUE DES COTEAUX | 2 | 28% | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| ROUTE DE LA SAUNE | 1 | 14% | <img src="../../img/bar_11.gif" />&nbsp;11%|
 | **Total** | 9 | 128% | 100%|

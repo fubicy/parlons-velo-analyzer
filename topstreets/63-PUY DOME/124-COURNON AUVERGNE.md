@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 14 réponses dont 7 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| COURNON | 4 | 28% | 57%|
-| AVENUE DE CLERMONT | 1 | 7% | 14%|
-| PLACE JOSEPH GARDET | 1 | 7% | 14%|
-| AVENUE DE LA REPUBLIQUE | 1 | 7% | 14%|
+| COURNON | 4 | 28% | <img src="../../img/bar_57.gif" />&nbsp;57%|
+| AVENUE DE CLERMONT | 1 | 7% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| PLACE JOSEPH GARDET | 1 | 7% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| AVENUE DE LA REPUBLIQUE | 1 | 7% | <img src="../../img/bar_14.gif" />&nbsp;14%|
 | **Total** | 7 | 50% | 100%|

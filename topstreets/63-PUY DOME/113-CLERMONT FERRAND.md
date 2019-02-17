@@ -6,119 +6,119 @@ Sur l'ensemble de la ville il y a eu 946 réponses dont 682 réponses avec une r
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| BOULEVARD COTE BLATIN | 86 | 9% | 12%|
-| LA GARE | 57 | 6% | 8%|
-| BOULEVARD LAFAYETTE | 42 | 4% | 6%|
-| PLACE DE JAUDE | 33 | 3% | 4%|
-| AVENUE DES PAULINES | 25 | 2% | 3%|
-| VIADUC SAINT JACQUES | 24 | 2% | 3%|
-| BOULEVARD JEAN JAURES | 22 | 2% | 3%|
-| BREZET | 21 | 2% | 3%|
-| AVENUE DE LA REPUBLIQUE | 20 | 2% | 2%|
-| LA PARDIEU | 17 | 1% | 2%|
-| COURS SABLON | 16 | 1% | 2%|
-| RUE ANATOLE FRANCE | 15 | 1% | 2%|
-| BOULEVARD ARISTIDE BRIAND | 15 | 1% | 2%|
-| BOULEVARD FLEURY | 15 | 1% | 2%|
-| L ORADOU | 12 | 1% | 1%|
-| AVENUE D ITALIE | 12 | 1% | 1%|
-| AVENUE JEAN JAURES | 11 | 1% | 1%|
-| BOULEVARD BERTHELOT | 11 | 1% | 1%|
-| BOULEVARD LAVOISIER | 9 | 0% | 1%|
-| JARDIN LECOQ | 9 | 0% | 1%|
-| CHEMIN DES CEZEAUX | 9 | 0% | 1%|
-| PLACE DELILLE | 8 | 0% | 1%|
-| AVENUE LEON BLUM | 7 | 0% | 1%|
-| AVENUE EDOUARD MICHELIN | 7 | 0% | 1%|
-| AVENUE CARNOT | 7 | 0% | 1%|
-| RUE DES SALINS | 7 | 0% | 1%|
-| AVENUE DE LA LIBERATION | 6 | 0% | 0%|
-| LE BREZET | 6 | 0% | 0%|
-| BOULEVARD TRUDAINE | 5 | 0% | 0%|
-| RUE LAGARLAYE | 5 | 0% | 0%|
-| BOULEVARD PASTEUR | 5 | 0% | 0%|
-| RUE MONTLOSIER | 4 | 0% | 0%|
-| SOUS LES VIGNES | 4 | 0% | 0%|
-| RUE DES JACOBINS | 4 | 0% | 0%|
-| BOULEVARD EXTERIEUR | 4 | 0% | 0%|
-| RUE BLATIN | 4 | 0% | 0%|
-| AVENUE DE L UNION SOVIETIQUE | 4 | 0% | 0%|
-| RUE FONTGIEVE | 3 | 0% | 0%|
-| SQUARE BLAISE PASCAL | 3 | 0% | 0%|
-| RUE DE BLANZAT | 3 | 0% | 0%|
-| LA PLAINE | 3 | 0% | 0%|
-| BEAULIEU | 3 | 0% | 0%|
-| RUE BONNABAUD | 3 | 0% | 0%|
-| BOULEVARD FRANCOIS MITTERRAND | 3 | 0% | 0%|
-| AVENUE DES ETATS UNIS | 3 | 0% | 0%|
-| RUE GABRIEL PERI | 3 | 0% | 0%|
-| BOULEVARD GUSTAVE FLAUBERT | 3 | 0% | 0%|
-| COTTAGE DES PAULINES | 3 | 0% | 0%|
-| RUE DES LIONDARDS | 2 | 0% | 0%|
-| AVENUE DE L AGRICULTURE | 2 | 0% | 0%|
-| ALLEE DES ECOLES | 2 | 0% | 0%|
-| RUE DES RONZIERES | 2 | 0% | 0%|
-| RUE ANDRE THEURIET | 2 | 0% | 0%|
-| BOULEVARD CHARLES DE GAULLE | 2 | 0% | 0%|
-| BOULEVARD JEAN MOULIN | 2 | 0% | 0%|
-| RUE DU CHAUFFOUR | 2 | 0% | 0%|
-| RUE DU PONT NATUREL | 2 | 0% | 0%|
-| RUE ETIENNE DOLET | 2 | 0% | 0%|
-| BOULEVARD LOUIS LOUCHEUR | 2 | 0% | 0%|
-| RUE DES PLANCHETTES | 2 | 0% | 0%|
-| RUE DU TORPILLEUR SIROCCO | 2 | 0% | 0%|
-| CHAUSSEE CLAUDIUS | 2 | 0% | 0%|
-| RUE HENRI BARBUSSE | 1 | 0% | 0%|
-| BOULEVARD JEAN BAPTISTE DUMAS | 1 | 0% | 0%|
-| RUE D HERBET | 1 | 0% | 0%|
-| PLACE DE LA VICTOIRE | 1 | 0% | 0%|
-| BOULEVARD ETIENNE CLEMENTEL | 1 | 0% | 0%|
-| AVENUE FERNAND FOREST | 1 | 0% | 0%|
-| BOULEVARD SAINT JEAN | 1 | 0% | 0%|
-| RUE AUGUSTE AUDOLLENT | 1 | 0% | 0%|
-| RUE DE BIEN ASSIS | 1 | 0% | 0%|
-| IMPASSE CROIX LEONARDOUX | 1 | 0% | 0%|
-| RUE MONTESQUIEU | 1 | 0% | 0%|
-| RUE DE LA ROTONDE | 1 | 0% | 0%|
-| PLACE DU PREMIER MAI | 1 | 0% | 0%|
-| AVENUE JULIEN | 1 | 0% | 0%|
-| TREMONTEIX | 1 | 0% | 0%|
-| RUE BANSAC | 1 | 0% | 0%|
-| AVENUE DES LANDAIS | 1 | 0% | 0%|
-| BOULEVARD DUCLAUX | 1 | 0% | 0%|
-| RUE PIERRE BESSET | 1 | 0% | 0%|
-| AVENUE RAYMOND BERGOUGNAN | 1 | 0% | 0%|
-| BOULEVARD GERGOVIA | 1 | 0% | 0%|
-| PLACE DE LA FONTAINE | 1 | 0% | 0%|
-| PUY LONG | 1 | 0% | 0%|
-| BOULEVARD NORD | 1 | 0% | 0%|
-| RUE NOUVELLE DES LIONDARDS | 1 | 0% | 0%|
-| IMPASSE PONCILLON | 1 | 0% | 0%|
-| RUE SAINT ALYRE | 1 | 0% | 0%|
-| RUE KESSLER | 1 | 0% | 0%|
-| RUE DE RABANESSE | 1 | 0% | 0%|
-| CENTRE JAUDE | 1 | 0% | 0%|
-| RUE DES GOURLETTES | 1 | 0% | 0%|
-| RUE JEAN BONNEFONS | 1 | 0% | 0%|
-| RUE ERNEST CRISTAL | 1 | 0% | 0%|
-| RUE FONTAINE DU LARGE | 1 | 0% | 0%|
-| RUE DE DURTOL | 1 | 0% | 0%|
-| RUE DE RIVALY | 1 | 0% | 0%|
-| RUE AUGER | 1 | 0% | 0%|
-| BOULEVARD LEON JOUHAUX | 1 | 0% | 0%|
-| IMPASSE DES VOLCANS | 1 | 0% | 0%|
-| PLACE DES BUGHES | 1 | 0% | 0%|
-| RUE NOTRE DAME | 1 | 0% | 0%|
-| RUE PAUL DIOMEDE | 1 | 0% | 0%|
-| RUE BRESCHET | 1 | 0% | 0%|
-| VALLIERES | 1 | 0% | 0%|
-| RUE JEAN RICHEPIN | 1 | 0% | 0%|
-| LA PRADELLE | 1 | 0% | 0%|
-| RUE CROIX LEONARDOUX | 1 | 0% | 0%|
-| RUE DE L ECHO | 1 | 0% | 0%|
-| RUE EUGENE GILBERT | 1 | 0% | 0%|
-| CHEMIN FLOREAL | 1 | 0% | 0%|
-| RUE DU GENERAL SARRAIL | 1 | 0% | 0%|
-| RUE JEAN AUGUSTE SENEZE | 1 | 0% | 0%|
-| RUE RODOLPHE DIESEL | 1 | 0% | 0%|
+| BOULEVARD COTE BLATIN | 86 | 9% | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| LA GARE | 57 | 6% | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| BOULEVARD LAFAYETTE | 42 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| PLACE DE JAUDE | 33 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| AVENUE DES PAULINES | 25 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| VIADUC SAINT JACQUES | 24 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| BOULEVARD JEAN JAURES | 22 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| BREZET | 21 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| AVENUE DE LA REPUBLIQUE | 20 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| LA PARDIEU | 17 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| COURS SABLON | 16 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| RUE ANATOLE FRANCE | 15 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| BOULEVARD ARISTIDE BRIAND | 15 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| BOULEVARD FLEURY | 15 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| L ORADOU | 12 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE D ITALIE | 12 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE JEAN JAURES | 11 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| BOULEVARD BERTHELOT | 11 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| BOULEVARD LAVOISIER | 9 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| JARDIN LECOQ | 9 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| CHEMIN DES CEZEAUX | 9 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| PLACE DELILLE | 8 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE LEON BLUM | 7 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE EDOUARD MICHELIN | 7 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE CARNOT | 7 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE DES SALINS | 7 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE DE LA LIBERATION | 6 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| LE BREZET | 6 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD TRUDAINE | 5 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE LAGARLAYE | 5 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD PASTEUR | 5 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE MONTLOSIER | 4 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| SOUS LES VIGNES | 4 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DES JACOBINS | 4 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD EXTERIEUR | 4 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE BLATIN | 4 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE DE L UNION SOVIETIQUE | 4 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE FONTGIEVE | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| SQUARE BLAISE PASCAL | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DE BLANZAT | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| LA PLAINE | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BEAULIEU | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE BONNABAUD | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD FRANCOIS MITTERRAND | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE DES ETATS UNIS | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE GABRIEL PERI | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD GUSTAVE FLAUBERT | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| COTTAGE DES PAULINES | 3 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DES LIONDARDS | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE DE L AGRICULTURE | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| ALLEE DES ECOLES | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DES RONZIERES | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE ANDRE THEURIET | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD CHARLES DE GAULLE | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD JEAN MOULIN | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DU CHAUFFOUR | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DU PONT NATUREL | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE ETIENNE DOLET | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD LOUIS LOUCHEUR | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DES PLANCHETTES | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DU TORPILLEUR SIROCCO | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| CHAUSSEE CLAUDIUS | 2 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE HENRI BARBUSSE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD JEAN BAPTISTE DUMAS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE D HERBET | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PLACE DE LA VICTOIRE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD ETIENNE CLEMENTEL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE FERNAND FOREST | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD SAINT JEAN | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE AUGUSTE AUDOLLENT | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DE BIEN ASSIS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| IMPASSE CROIX LEONARDOUX | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE MONTESQUIEU | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DE LA ROTONDE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PLACE DU PREMIER MAI | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE JULIEN | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| TREMONTEIX | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE BANSAC | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE DES LANDAIS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD DUCLAUX | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE PIERRE BESSET | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| AVENUE RAYMOND BERGOUGNAN | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD GERGOVIA | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PLACE DE LA FONTAINE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PUY LONG | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD NORD | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE NOUVELLE DES LIONDARDS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| IMPASSE PONCILLON | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE SAINT ALYRE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE KESSLER | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DE RABANESSE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| CENTRE JAUDE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DES GOURLETTES | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE JEAN BONNEFONS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE ERNEST CRISTAL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE FONTAINE DU LARGE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DE DURTOL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DE RIVALY | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE AUGER | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| BOULEVARD LEON JOUHAUX | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| IMPASSE DES VOLCANS | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| PLACE DES BUGHES | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE NOTRE DAME | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE PAUL DIOMEDE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE BRESCHET | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| VALLIERES | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE JEAN RICHEPIN | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| LA PRADELLE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE CROIX LEONARDOUX | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DE L ECHO | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE EUGENE GILBERT | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| CHEMIN FLOREAL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE DU GENERAL SARRAIL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE JEAN AUGUSTE SENEZE | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
+| RUE RODOLPHE DIESEL | 1 | 0% | <img src="../../img/bar_0.gif" />&nbsp;0%|
 | **Total** | 682 | 72% | 100%|

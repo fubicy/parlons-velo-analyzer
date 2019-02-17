@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 4 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LA DURANCE | 2 | 50% | 40%|
-| AVENUE GABRIEL PERI | 1 | 25% | 20%|
-| AVENUE MARECHAL JOFFRE | 1 | 25% | 20%|
-| ROUTE DE CHEVAL BLANC | 1 | 25% | 20%|
+| LA DURANCE | 2 | 50% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| AVENUE GABRIEL PERI | 1 | 25% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| AVENUE MARECHAL JOFFRE | 1 | 25% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| ROUTE DE CHEVAL BLANC | 1 | 25% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 125% | 100%|

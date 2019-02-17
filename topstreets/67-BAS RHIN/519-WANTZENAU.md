@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 7 réponses dont 7 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE | 3 | 42% | 42%|
-| RUE PRINCIPALE | 2 | 28% | 28%|
-| RUE DES HEROS | 2 | 28% | 28%|
+| RUE | 3 | 42% | <img src="../../img/bar_42.gif" />&nbsp;42%|
+| RUE PRINCIPALE | 2 | 28% | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| RUE DES HEROS | 2 | 28% | <img src="../../img/bar_28.gif" />&nbsp;28%|
 | **Total** | 7 | 100% | 100%|

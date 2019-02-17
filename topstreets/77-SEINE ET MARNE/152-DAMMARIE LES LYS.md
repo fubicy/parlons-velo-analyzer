@@ -6,12 +6,12 @@ Sur l'ensemble de la ville il y a eu 16 réponses dont 9 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE DU LYS | 2 | 12% | 22%|
-| AVENUE JEAN JAURES | 1 | 6% | 11%|
-| AVENUE ANATOLE FRANCE | 1 | 6% | 11%|
-| AVENUE EMILE ZOLA | 1 | 6% | 11%|
-| RUE ROUSSEAU VAUDRAN | 1 | 6% | 11%|
-| VOSVES | 1 | 6% | 11%|
-| AVENUE HENRI BARBUSSE | 1 | 6% | 11%|
-| PLACE DU MARCHE | 1 | 6% | 11%|
+| AVENUE DU LYS | 2 | 12% | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| AVENUE JEAN JAURES | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| AVENUE ANATOLE FRANCE | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| AVENUE EMILE ZOLA | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE ROUSSEAU VAUDRAN | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| VOSVES | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| AVENUE HENRI BARBUSSE | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| PLACE DU MARCHE | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
 | **Total** | 9 | 56% | 100%|

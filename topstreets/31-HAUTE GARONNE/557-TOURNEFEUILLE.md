@@ -6,30 +6,30 @@ Sur l'ensemble de la ville il y a eu 114 réponses dont 80 réponses avec une ru
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ROUTE DE TARBES | 14 | 12% | 17%|
-| RUE GASTON DOUMERGUE | 13 | 11% | 16%|
-| CHEMIN DE RAMELET MOUNDI | 11 | 9% | 13%|
-| BOULEVARD VINCENT AURIOL | 9 | 7% | 11%|
-| RUE DU TOUCH | 4 | 3% | 5%|
-| SAINT PIERRE | 2 | 1% | 2%|
-| LE TOUCH | 2 | 1% | 2%|
-| AVENUE DE GASCOGNE | 2 | 1% | 2%|
-| ROND POINT HENRY DUNANT | 2 | 1% | 2%|
-| LARDENNE | 2 | 1% | 2%|
-| RUE DE LA MONTJOIE | 2 | 1% | 2%|
-| AVENUE DE LA RESISTANCE | 2 | 1% | 2%|
-| LE MOULIN A VENT | 2 | 1% | 2%|
-| RUE DU LANGUEDOC | 1 | 0% | 1%|
-| RUE DU PETIT TRAIN | 1 | 0% | 1%|
-| LA RAMEE | 1 | 0% | 1%|
-| CHEMIN DU PRAT | 1 | 0% | 1%|
-| AVENUE JEAN JAURES | 1 | 0% | 1%|
-| CHEMIN DE PAHIN | 1 | 0% | 1%|
-| RUE DE LONGCHAMP | 1 | 0% | 1%|
-| LA PADERNE | 1 | 0% | 1%|
-| RUE DE BELBEZE | 1 | 0% | 1%|
-| IMPASSE FRANCOIS VERDIER | 1 | 0% | 1%|
-| RUE JEAN MERMOZ | 1 | 0% | 1%|
-| AVENUE DU MARQUISAT | 1 | 0% | 1%|
-| MIRABEAU | 1 | 0% | 1%|
+| ROUTE DE TARBES | 14 | 12% | <img src="../../img/bar_17.gif" />&nbsp;17%|
+| RUE GASTON DOUMERGUE | 13 | 11% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| CHEMIN DE RAMELET MOUNDI | 11 | 9% | <img src="../../img/bar_13.gif" />&nbsp;13%|
+| BOULEVARD VINCENT AURIOL | 9 | 7% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE DU TOUCH | 4 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| SAINT PIERRE | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| LE TOUCH | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| AVENUE DE GASCOGNE | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| ROND POINT HENRY DUNANT | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| LARDENNE | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| RUE DE LA MONTJOIE | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| AVENUE DE LA RESISTANCE | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| LE MOULIN A VENT | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| RUE DU LANGUEDOC | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE DU PETIT TRAIN | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| LA RAMEE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| CHEMIN DU PRAT | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE JEAN JAURES | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| CHEMIN DE PAHIN | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE DE LONGCHAMP | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| LA PADERNE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE DE BELBEZE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| IMPASSE FRANCOIS VERDIER | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE JEAN MERMOZ | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE DU MARQUISAT | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| MIRABEAU | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
 | **Total** | 80 | 70% | 100%|

@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 11 réponses dont 2 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ROUTE DU CHAY | 1 | 9% | 50%|
-| POMPIERRE | 1 | 9% | 50%|
+| ROUTE DU CHAY | 1 | 9% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| POMPIERRE | 1 | 9% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 18% | 100%|

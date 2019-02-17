@@ -6,9 +6,9 @@ Sur l'ensemble de la ville il y a eu 9 réponses dont 10 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ILE NAPOLEON | 4 | 44% | 40%|
-| RUE DE MULHOUSE | 3 | 33% | 30%|
-| RUE DE HABSHEIM | 1 | 11% | 10%|
-| RUE DE L ETANG | 1 | 11% | 10%|
-| RUE D OTTMARSHEIM | 1 | 11% | 10%|
+| ILE NAPOLEON | 4 | 44% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| RUE DE MULHOUSE | 3 | 33% | <img src="../../img/bar_30.gif" />&nbsp;30%|
+| RUE DE HABSHEIM | 1 | 11% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE DE L ETANG | 1 | 11% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE D OTTMARSHEIM | 1 | 11% | <img src="../../img/bar_10.gif" />&nbsp;10%|
 | **Total** | 10 | 111% | 100%|

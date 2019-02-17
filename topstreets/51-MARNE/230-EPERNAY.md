@@ -6,7 +6,7 @@ Sur l'ensemble de la ville il y a eu 17 réponses dont 3 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE DE CHAMPAGNE | 1 | 5% | 33%|
-| PLACE DE LA REPUBLIQUE | 1 | 5% | 33%|
-| RUE SAINT THIBAULT | 1 | 5% | 33%|
+| AVENUE DE CHAMPAGNE | 1 | 5% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| PLACE DE LA REPUBLIQUE | 1 | 5% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| RUE SAINT THIBAULT | 1 | 5% | <img src="../../img/bar_33.gif" />&nbsp;33%|
 | **Total** | 3 | 17% | 100%|

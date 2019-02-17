@@ -4,13 +4,13 @@ Sur l'ensemble du département, il y a eu 168 réponses dont 41 réponses avec u
 
 | Ville | Nb réponses | Nb réponses avec rue | Nb points noirs |
 |-------------|-------------|----------------------|-----------------|
-|<a href='001-ALENCON.md'>001-ALENCON</a>|143|33(23%)|20|
-|<a href='006-ARGENTAN.md'>006-ARGENTAN</a>|13|2(15%)|2|
-|<a href='063-BRIOUZE.md'>063-BRIOUZE</a>|1|1(100%)|1|
-|<a href='168-FERTE MACE.md'>168-FERTE MACE</a>|2|1(50%)|1|
-|<a href='169-FLERS.md'>169-FLERS</a>|5|3(60%)|3|
-|<a href='181-GACE.md'>181-GACE</a>|1|0(0%)|0|
-|<a href='214-L AIGLE.md'>214-L AIGLE</a>|1|0(0%)|0|
-|<a href='234-LONRAI.md'>234-LONRAI</a>|1|0(0%)|0|
-|<a href='397-SAINT GERMAIN CORBEIS.md'>397-SAINT GERMAIN CORBEIS</a>|1|1(100%)|1|
+|<a href='001-ALENCON.md'>001-ALENCON</a>|143|33(23%)|<img src="../../img/bar_71.gif" />&nbsp;20|
+|<a href='006-ARGENTAN.md'>006-ARGENTAN</a>|13|2(15%)|<img src="../../img/bar_7.gif" />&nbsp;2|
+|<a href='063-BRIOUZE.md'>063-BRIOUZE</a>|1|1(100%)|<img src="../../img/bar_3.gif" />&nbsp;1|
+|<a href='168-FERTE MACE.md'>168-FERTE MACE</a>|2|1(50%)|<img src="../../img/bar_3.gif" />&nbsp;1|
+|<a href='169-FLERS.md'>169-FLERS</a>|5|3(60%)|<img src="../../img/bar_10.gif" />&nbsp;3|
+|<a href='181-GACE.md'>181-GACE</a>|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
+|<a href='214-L AIGLE.md'>214-L AIGLE</a>|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
+|<a href='234-LONRAI.md'>234-LONRAI</a>|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
+|<a href='397-SAINT GERMAIN CORBEIS.md'>397-SAINT GERMAIN CORBEIS</a>|1|1(100%)|<img src="../../img/bar_3.gif" />&nbsp;1|
 | **Total** |168|41(24%)|28|

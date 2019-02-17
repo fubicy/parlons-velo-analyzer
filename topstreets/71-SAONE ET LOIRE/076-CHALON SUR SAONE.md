@@ -6,37 +6,37 @@ Sur l'ensemble de la ville il y a eu 260 réponses dont 97 réponses avec une ru
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE DE PARIS | 14 | 5% | 14%|
-| AVENUE BOUCICAUT | 13 | 5% | 13%|
-| PONT JEAN RICHARD | 9 | 3% | 9%|
-| RUE GENERAL LECLERC | 9 | 3% | 9%|
-| PONT SAINT LAURENT | 7 | 2% | 7%|
-| BOULEVARD DE LA REPUBLIQUE | 6 | 2% | 6%|
-| AVENUE MONNOT | 6 | 2% | 6%|
-| RUE DE BELFORT | 3 | 1% | 3%|
-| QUAI SAINT COSME | 2 | 0% | 2%|
-| QUAI GAMBETTA | 2 | 0% | 2%|
-| RUE DE LA CITADELLE | 2 | 0% | 2%|
-| PLACE DE BEAUNE | 2 | 0% | 2%|
-| RUE SAINT JEAN DES VIGNES | 2 | 0% | 2%|
-| RUE DES SENTIERS | 1 | 0% | 1%|
-| CARREFOUR DE LA COLOMBIERE | 1 | 0% | 1%|
-| LA THALIE | 1 | 0% | 1%|
-| AVENUE JEAN JAURES | 1 | 0% | 1%|
-| AVENUE MONNOT PROLONGEE | 1 | 0% | 1%|
-| AVENUE DU 8 MAI 1945 | 1 | 0% | 1%|
-| AVENUE GEORGES POMPIDOU | 1 | 0% | 1%|
-| RUE GRANGE FRANGY | 1 | 0% | 1%|
-| AVENUE NICEPHORE NIEPCE | 1 | 0% | 1%|
-| QUAI DES MESSAGERIES | 1 | 0% | 1%|
-| RUE DU PORT VILLIERS | 1 | 0% | 1%|
-| AVENUE DU PONT DE BOURGOGNE | 1 | 0% | 1%|
-| AVENUE EDOUARD HERRIOT | 1 | 0% | 1%|
-| AVENUE PIERRE LARDY | 1 | 0% | 1%|
-| PRAIRIE SAINTE MARIE | 1 | 0% | 1%|
-| RUE DU PALAIS DE JUSTICE | 1 | 0% | 1%|
-| AVENUE DES CHARREAUX | 1 | 0% | 1%|
-| ROUTE DE GIVRY | 1 | 0% | 1%|
-| AVENUE DE L AUBEPIN | 1 | 0% | 1%|
-| CANAL DU CENTRE | 1 | 0% | 1%|
+| AVENUE DE PARIS | 14 | 5% | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| AVENUE BOUCICAUT | 13 | 5% | <img src="../../img/bar_13.gif" />&nbsp;13%|
+| PONT JEAN RICHARD | 9 | 3% | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| RUE GENERAL LECLERC | 9 | 3% | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| PONT SAINT LAURENT | 7 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| BOULEVARD DE LA REPUBLIQUE | 6 | 2% | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| AVENUE MONNOT | 6 | 2% | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| RUE DE BELFORT | 3 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| QUAI SAINT COSME | 2 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| QUAI GAMBETTA | 2 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| RUE DE LA CITADELLE | 2 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| PLACE DE BEAUNE | 2 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| RUE SAINT JEAN DES VIGNES | 2 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| RUE DES SENTIERS | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| CARREFOUR DE LA COLOMBIERE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| LA THALIE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE JEAN JAURES | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE MONNOT PROLONGEE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE DU 8 MAI 1945 | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE GEORGES POMPIDOU | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE GRANGE FRANGY | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE NICEPHORE NIEPCE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| QUAI DES MESSAGERIES | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE DU PORT VILLIERS | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE DU PONT DE BOURGOGNE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE EDOUARD HERRIOT | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE PIERRE LARDY | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| PRAIRIE SAINTE MARIE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| RUE DU PALAIS DE JUSTICE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE DES CHARREAUX | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| ROUTE DE GIVRY | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| AVENUE DE L AUBEPIN | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| CANAL DU CENTRE | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
 | **Total** | 97 | 37% | 100%|

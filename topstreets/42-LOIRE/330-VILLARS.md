@@ -6,9 +6,9 @@ Sur l'ensemble de la ville il y a eu 11 réponses dont 9 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE THIERS | 4 | 36% | 44%|
-| RUE DU BREUIL | 2 | 18% | 22%|
-| RATARIEUX | 1 | 9% | 11%|
-| CURNIEU | 1 | 9% | 11%|
-| RUE DE LA REPUBLIQUE | 1 | 9% | 11%|
+| RUE THIERS | 4 | 36% | <img src="../../img/bar_44.gif" />&nbsp;44%|
+| RUE DU BREUIL | 2 | 18% | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| RATARIEUX | 1 | 9% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| CURNIEU | 1 | 9% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE DE LA REPUBLIQUE | 1 | 9% | <img src="../../img/bar_11.gif" />&nbsp;11%|
 | **Total** | 9 | 81% | 100%|

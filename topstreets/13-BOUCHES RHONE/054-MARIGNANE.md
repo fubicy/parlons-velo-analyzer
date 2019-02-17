@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 9 réponses dont 3 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| L'AEROPORT | 3 | 33% | 100%|
+| L'AEROPORT | 3 | 33% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 3 | 33% | 100%|

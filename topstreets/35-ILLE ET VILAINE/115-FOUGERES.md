@@ -6,8 +6,8 @@ Sur l'ensemble de la ville il y a eu 7 réponses dont 5 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE ALBERT DURAND | 2 | 28% | 40%|
-| RUE DES PRES | 1 | 14% | 20%|
-| RUE ALBERT 1ER | 1 | 14% | 20%|
-| BELLEVUE | 1 | 14% | 20%|
+| RUE ALBERT DURAND | 2 | 28% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| RUE DES PRES | 1 | 14% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| RUE ALBERT 1ER | 1 | 14% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| BELLEVUE | 1 | 14% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 71% | 100%|

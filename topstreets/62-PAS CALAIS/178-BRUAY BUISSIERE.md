@@ -6,5 +6,5 @@ Sur l'ensemble de la ville il y a eu 11 réponses dont 1 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE HENRI CADOT | 1 | 9% | 100%|
+| RUE HENRI CADOT | 1 | 9% | <img src="../../img/bar_100.gif" />&nbsp;100%|
 | **Total** | 1 | 9% | 100%|

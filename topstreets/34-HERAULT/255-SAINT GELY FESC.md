@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 16 réponses dont 2 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LE VILLAGE | 1 | 6% | 50%|
-| RESIDENCE VAL SAINT-GELY | 1 | 6% | 50%|
+| LE VILLAGE | 1 | 6% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| RESIDENCE VAL SAINT-GELY | 1 | 6% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 12% | 100%|

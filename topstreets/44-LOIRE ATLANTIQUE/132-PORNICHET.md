@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 8 réponses dont 2 réponses avec une rue c
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE GRAVELAIS | 1 | 12% | 50%|
-| AVENUE DES LORIETTES | 1 | 12% | 50%|
+| AVENUE GRAVELAIS | 1 | 12% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| AVENUE DES LORIETTES | 1 | 12% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 25% | 100%|

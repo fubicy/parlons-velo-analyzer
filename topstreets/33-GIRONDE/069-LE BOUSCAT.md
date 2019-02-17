@@ -6,14 +6,14 @@ Sur l'ensemble de la ville il y a eu 13 réponses dont 10 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RESIDENCE DES ECUS | 1 | 7% | 10%|
-| RUE ABEL | 1 | 7% | 10%|
-| RUE PREVOST | 1 | 7% | 10%|
-| RUE RIGAL | 1 | 7% | 10%|
-| RUE VICTOR BILLON | 1 | 7% | 10%|
-| RUE RAYMOND DUCOURNEAU | 1 | 7% | 10%|
-| AVENUE VICTOR HUGO | 1 | 7% | 10%|
-| JEAN JAURES EST | 1 | 7% | 10%|
-| LE CENTRE | 1 | 7% | 10%|
-| AVENUE D EYSINES | 1 | 7% | 10%|
+| RESIDENCE DES ECUS | 1 | 7% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE ABEL | 1 | 7% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE PREVOST | 1 | 7% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE RIGAL | 1 | 7% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE VICTOR BILLON | 1 | 7% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| RUE RAYMOND DUCOURNEAU | 1 | 7% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| AVENUE VICTOR HUGO | 1 | 7% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| JEAN JAURES EST | 1 | 7% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| LE CENTRE | 1 | 7% | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| AVENUE D EYSINES | 1 | 7% | <img src="../../img/bar_10.gif" />&nbsp;10%|
 | **Total** | 10 | 76% | 100%|

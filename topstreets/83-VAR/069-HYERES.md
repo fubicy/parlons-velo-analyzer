@@ -6,20 +6,20 @@ Sur l'ensemble de la ville il y a eu 27 réponses dont 22 réponses avec une rue
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| AVENUE GAMBETTA | 4 | 14% | 18%|
-| LES SALINS | 2 | 7% | 9%|
-| AVENUE DE L AEROPORT | 2 | 7% | 9%|
-| L ALMANARRE | 2 | 7% | 9%|
-| GAPEAU | 1 | 3% | 4%|
-| AVENUE DE TOULON | 1 | 3% | 4%|
-| LA CAPTE | 1 | 3% | 4%|
-| ROUTE DU SEL | 1 | 3% | 4%|
-| LA MADRAGUE | 1 | 3% | 4%|
-| AVENUE LEOPOLD RITONDALE | 1 | 3% | 4%|
-| LA TOUR FONDUE | 1 | 3% | 4%|
-| L HIPPODROME | 1 | 3% | 4%|
-| RUE SAINT NICOLAS | 1 | 3% | 4%|
-| GARE DES SALINS | 1 | 3% | 4%|
-| MAUVANNE | 1 | 3% | 4%|
-| ROUTE DE PIERREFEU | 1 | 3% | 4%|
+| AVENUE GAMBETTA | 4 | 14% | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| LES SALINS | 2 | 7% | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| AVENUE DE L AEROPORT | 2 | 7% | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| L ALMANARRE | 2 | 7% | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| GAPEAU | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| AVENUE DE TOULON | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| LA CAPTE | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| ROUTE DU SEL | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| LA MADRAGUE | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| AVENUE LEOPOLD RITONDALE | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| LA TOUR FONDUE | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| L HIPPODROME | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| RUE SAINT NICOLAS | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| GARE DES SALINS | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| MAUVANNE | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| ROUTE DE PIERREFEU | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
 | **Total** | 22 | 81% | 100%|

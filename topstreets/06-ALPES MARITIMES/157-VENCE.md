@@ -6,9 +6,9 @@ Sur l'ensemble de la ville il y a eu 11 réponses dont 5 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LA SINE | 1 | 9% | 20%|
-| CHEMIN DE LA GAUDE | 1 | 9% | 20%|
-| PLACE DU GRAND JARDIN | 1 | 9% | 20%|
-| COL DE VENCE | 1 | 9% | 20%|
-| AVENUE RHIN ET DANUBE | 1 | 9% | 20%|
+| LA SINE | 1 | 9% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| CHEMIN DE LA GAUDE | 1 | 9% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| PLACE DU GRAND JARDIN | 1 | 9% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| COL DE VENCE | 1 | 9% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| AVENUE RHIN ET DANUBE | 1 | 9% | <img src="../../img/bar_20.gif" />&nbsp;20%|
 | **Total** | 5 | 45% | 100%|

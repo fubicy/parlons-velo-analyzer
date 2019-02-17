@@ -6,10 +6,10 @@ Sur l'ensemble de la ville il y a eu 15 réponses dont 6 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| LE HAUT VINAGE | 1 | 6% | 16%|
-| RUE DU MOLINEL | 1 | 6% | 16%|
-| LE GRAND COTTIGNIES | 1 | 6% | 16%|
-| RUE DU HAUT VINAGE | 1 | 6% | 16%|
-| AVENUE DE FLANDRE | 1 | 6% | 16%|
-| AVENUE DE LA MARNE | 1 | 6% | 16%|
+| LE HAUT VINAGE | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| RUE DU MOLINEL | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| LE GRAND COTTIGNIES | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| RUE DU HAUT VINAGE | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| AVENUE DE FLANDRE | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| AVENUE DE LA MARNE | 1 | 6% | <img src="../../img/bar_16.gif" />&nbsp;16%|
 | **Total** | 6 | 40% | 100%|

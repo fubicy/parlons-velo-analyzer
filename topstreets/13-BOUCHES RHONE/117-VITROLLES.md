@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 16 réponses dont 2 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| ROUTE DE L AEROPORT | 1 | 6% | 50%|
-| QUARTIER CENTRE URBAIN | 1 | 6% | 50%|
+| ROUTE DE L AEROPORT | 1 | 6% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| QUARTIER CENTRE URBAIN | 1 | 6% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 12% | 100%|

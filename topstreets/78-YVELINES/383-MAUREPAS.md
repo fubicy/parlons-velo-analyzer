@@ -6,6 +6,6 @@ Sur l'ensemble de la ville il y a eu 16 réponses dont 2 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| RUE DE CHEVREUSE | 1 | 6% | 50%|
-| CARREFOUR DES PYRAMIDES | 1 | 6% | 50%|
+| RUE DE CHEVREUSE | 1 | 6% | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| CARREFOUR DES PYRAMIDES | 1 | 6% | <img src="../../img/bar_50.gif" />&nbsp;50%|
 | **Total** | 2 | 12% | 100%|

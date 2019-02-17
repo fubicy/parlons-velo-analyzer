@@ -6,13 +6,13 @@ Sur l'ensemble de la ville il y a eu 15 réponses dont 9 réponses avec une rue 
 
 | Rue | Vote | % réponses | % Nb rues cités|
 |-----|------|------------|----------------|
-| FOND RATEL | 1 | 6% | 11%|
-| AVENUE DE BELLEDONNE | 1 | 6% | 11%|
-| RUE DE L EUROPE | 1 | 6% | 11%|
-| AVENUE DE LA LIBERATION | 1 | 6% | 11%|
-| LA CROIX | 1 | 6% | 11%|
-| LA CROIX BLANCHE | 1 | 6% | 11%|
-| LA CHIEZE | 1 | 6% | 11%|
-| RUE BEYLE STENDHAL | 1 | 6% | 11%|
-| COMBOIRE | 1 | 6% | 11%|
+| FOND RATEL | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| AVENUE DE BELLEDONNE | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE DE L EUROPE | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| AVENUE DE LA LIBERATION | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| LA CROIX | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| LA CROIX BLANCHE | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| LA CHIEZE | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| RUE BEYLE STENDHAL | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| COMBOIRE | 1 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
 | **Total** | 9 | 60% | 100%|
