@@ -1,0 +1,12 @@
+# Résultat pour 68226 - Munster
+
+Sur l'ensemble de la ville il y a eu 5 réponses dont 5 réponses avec une rue citée (100%)
+
+3 points noirs identifiés
+
+| Rue | Vote | % réponses | % Nb rues cités|
+|-----|------|------------|----------------|
+| Rue Saint-Grégoire | 2 | 40% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| Grand'Rue | 2 | 40% | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| Rue Rapp | 1 | 20% | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| **Total** | 5 | 100% | 100%|

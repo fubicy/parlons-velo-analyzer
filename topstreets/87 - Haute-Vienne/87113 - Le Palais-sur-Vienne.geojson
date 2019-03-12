@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 54363186,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3128072,
+                        45.8576712
+                    ],
+                    [
+                        1.3110643,
+                        45.8568247
+                    ],
+                    [
+                        1.3101237,
+                        45.8563679
+                    ],
+                    [
+                        1.3084876,
+                        45.8555733
+                    ],
+                    [
+                        1.3070941,
+                        45.8547944
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue de Limoges",
+                "ref": "D 29",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 645058866,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3070941,
+                        45.8547944
+                    ],
+                    [
+                        1.3054808,
+                        45.8539104
+                    ],
+                    [
+                        1.3044074,
+                        45.8533167
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "maxspeed": "70",
+                "name": "Avenue de Limoges",
+                "ref": "D 29",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt"
+            }
+        }
+    ]
+}

@@ -7,37 +7,16 @@ import os
 import re
 import csv
 import sys
+import json
 import shutil
+import overpass
+import folium
 
 from collections import Counter
 
-INSEE_TO_FANTOIR = {
-    '13':
-     {
-         '055': [ 
-            '201','202','203','204',
-            '205','206','206','208',
-            '209','210','211','212',
-            '213','214','215','216',
-            ]
-     },
-     
-     '69': { 
-        '123': [
-            '381','382','383','384','385',
-            '386','387','388','389',
-        ]
-     },
-     '75': {
-         '056': [
-             '101','102','103','104','105',
-             '106','107','108','109','110',
-             '111','112','113','114','115',
-             '116','117','118','119','120',
-         ]
-     }
-}
-
+ONLYTOP=30
+MAP_WIDTH=700
+MAP_HEIGHT=500
 
 # Replace short word
 REPLACE_WORDS = {
@@ -89,7 +68,7 @@ def load_response(filename):
 
 def detect_all_streets(dmots, responses):
     nb_responses_with_street = 0
-    topstreets = Counter()
+    topstreets = dict()
 
     for r in responses:
     #    question = questions[156]
@@ -97,91 +76,92 @@ def detect_all_streets(dmots, responses):
         for dmot in dmots:
             if dmot in r['minimal_norm']:
                 street = get_streetname(dmot,r['minimal_norm'],r['maximal_norm'])
-                if street != '':
+                if street is not None :
                     streets.append(street)
 
                     nb_responses_with_street += 1
-                    if street not in topstreets: 
-                        topstreets[street] = 0
+                    if street['full_street'] not in topstreets: 
+                        street['responses_with_this_street'] = 0
+                        topstreets[street['full_street']] = street
 
-                    topstreets[street] += 1
+                    topstreets[street['full_street']]['responses_with_this_street'] += 1
 
         # oneline = ' / '.join(str(street) for street in streets)
 
     return (nb_responses_with_street,topstreets)
 
-def get_fantoir_filename_by_code(codedep,codecom):
+def get_OSM_filename_by_code(insee,rootdir='osm',level=0):
     
-    foldername = ""
-    filename = ""
+    codedep = insee[0:2]
+    for root, directories, filenames in os.walk(rootdir):
+        for filename in filenames: 
+            if filename.startswith('streets.csv'):
+                if insee in root:
+                    return os.path.join(root,filename)
 
-    for file in os.listdir("fantoir/"):
-        # Add DOM-TOM identifier
-        if codedep=="97":
-            cdir = codecom[0:1]
-            codedep=f"{codedep}{cdir}"
+        for directory in directories:
+            if (level == 1 and directory.startswith(codedep)) or (level == 2 and directory.startswith(insee)):
+                folder = os.path.join(root,directory) 
+                get_OSM_filename_by_code(insee,folder,level+1)
 
-        if file.startswith(f"{codedep}-"):
-            foldername = file
-            break
+    return None
 
-    if foldername == "":
-        return filename
+def readOSMVilles():
+    global villes_info
 
-    for file in os.listdir(f"fantoir/{foldername}/"):
-        if file.startswith(f"{codecom}-"):
-            filename = file
-            break
+    filename = 'osm/villes.csv'
+    with open(filename) as csvfile:
+        OMSlines = csv.DictReader(csvfile, delimiter=';')
+        for line in OMSlines:
+            villes_info[line['ville_insee']] = line
 
-    return f"fantoir/{foldername}/{filename}"
-
-def readfantoir_file(fantoirfile):
+def readOSMStreetFile(OSMfile):
     # Read FANTOIR file
-    fantoirs=dict()
-    with open(fantoirfile) as csvfile:
-        fantoir = csv.DictReader(csvfile, delimiter=';')
-        for line in fantoir:
-            dmot = line['dmot']
-            lstreet = line['lstreet']
-            lstreet_norm = line['lstreet_norm']
+    osms=dict()
+    with open(OSMfile) as csvfile:
+        OMSlines = csv.DictReader(csvfile, delimiter=';')
+        for line in OMSlines:
+            dmot = line['last_word_norm']
+            name = line['name']
+            name_norm = line['name_norm']
             voie = line['voie']
-            annulation = line['cann']
+            ways = line['ways']
 
-            if annulation=="" and len(lstreet_norm)>2:
-                if dmot not in fantoirs:
-                    fantoirs[dmot] = list()
-                
-                voiesize = len(voie)
-                full_street = "%s %s".strip() % (voie,lstreet)
-                full_street_norm = "%s %s".strip() % (voie,lstreet_norm)
+            if dmot not in osms:
+                osms[dmot] = list()
+            
+            voiesize = len(voie)
+            full_street = f"{name}".strip()
+            full_street_norm = f"{voie} {name_norm}".strip()
 
-                full_street_norm_size = len(full_street_norm)
-                nb_blocks=len(full_street.split())
-                nb_blocks_norm=len(full_street_norm.split())
+            full_street_norm_size = len(full_street_norm)
+            nb_blocks=len(full_street.split())
+            nb_blocks_norm=len(full_street_norm.split())
 
-                pos = 0
-                words = []
-                for word in full_street_norm.split():
-                    wordsinfo = {
-                        "is_typevoie": voie==word,
-                        "word":word,
-                        "pos": pos,
-                        "size":len(word)
-                    }
-                    words.append(wordsinfo)
-                    pos += len(word)+1 # Add space
-
-                datas = {
-                    'words': words,
-                    'full_street': full_street,
-                    'full_street_norm': full_street_norm,
-                    'nb_blocks': nb_blocks,
-                    'nb_blocks_norm': nb_blocks_norm,
-                    'size': full_street_norm_size,
+            pos = 0
+            words = []
+            for word in full_street_norm.split():
+                wordsinfo = {
+                    "is_typevoie": voie==word,
+                    "word":word,
+                    "pos": pos,
+                    "size":len(word)
                 }
-                fantoirs[dmot].append(datas)
+                words.append(wordsinfo)
+                pos += len(word)+1 # Add space
 
-    return fantoirs
+            datas = {
+                'words': words,
+                'full_street': full_street,
+                'full_street_norm': full_street_norm,
+                'nb_blocks': nb_blocks,
+                'nb_blocks_norm': nb_blocks_norm,
+                'size': full_street_norm_size,
+                'ways': ways
+            }
+            osms[dmot].append(datas)
+
+    return osms
 
 
 # Replace dict word
@@ -253,7 +233,7 @@ def get_streetname(dmot,text_minimal_norm,text_maximal_norm):
         data = dict(street)
         data['score'] = 0
 
-        if data['full_street'] in text_minimal_norm:
+        if data['full_street_norm'] in text_minimal_norm:
             # Check if voie tpe is in address
             data['found_voie'] = 0
             data['nb_blocks_found'] = 0
@@ -278,7 +258,6 @@ def get_streetname(dmot,text_minimal_norm,text_maximal_norm):
                 idx +=1 
 
 
-            # Compare word distance from mainword (dmot)
             for pos in data['words'][mainword_idx]['found_pos']:
                 data['nb_blocks_found'] = 0
                 data['found_voie'] = 0
@@ -309,23 +288,23 @@ def get_streetname(dmot,text_minimal_norm,text_maximal_norm):
 
     # Get a best street scrore
     max_score = 0
-    max_score_content = ""
+    max_score_content = None
     for score in scores:
         if score['percent_found']>50 and score['score']>max_score:
             max_score = score['score']
 
-            if DEBUG:
-                max_score_content = "%s (%s%%)" % (score['full_street'],score['percent_found'])
-            else:
-                max_score_content = "%s" % score['full_street']
-
+            # if DEBUG:
+            #     max_score_content = f"{score['full_street']} ({score['percent_found']}%)"
+            # else:
+            #     max_score_content = score['full_street']
+            max_score_content = score
     return max_score_content
 
-def write_topstreets(fantoirfile,codedep,codetown,responses, results):
+def write_topstreets(OSMfile,codedep,insee,responses, results):
     global nb_responses_with_street
 
     # Get folder and filename from fantoir filename
-    fantoirpath = fantoirfile.replace("fantoir/","")    
+    fantoirpath = OSMfile.replace("fantoir/","")    
     lastslash = fantoirpath.rfind("/")
     path = "topstreets/%s" % fantoirpath[0:lastslash]
     filename = fantoirpath[lastslash+1:].replace('.csv','.md')
@@ -356,34 +335,59 @@ def html_percent_bar(root,percent):
 
     return html
 
-def write_main_results():
+def write_main_readme():
     # Write stats
     shutil.copyfile("README_template.md", "README.md")
     with open("README.md", 'a') as docfile:
         docfile.write("### Résultats par département\n\n")
-        docfile.write("Sur l'ensemble du téritoire, il y a eu {} réponses dont {} réponses avec une rue citée ({}%)\n\n".format(stats['total']['nb_responses'],stats['total']['nb_responses_with_street'],stats['total']['nb_responses_with_street_percent']))
+        docfile.write(f"Sur l'ensemble du téritoire, il y a eu {stats['total']['nb_responses']} réponses dont {stats['total']['nb_responses_with_street']} réponses avec une rue citée ({stats['total']['nb_responses_with_street_percent']}%)\n\n")
         docfile.write("| Departement | Nb réponses | Nb réponses avec rue | Nb points noirs |\n")
         docfile.write("|-------------|-------------|----------------------|-----------------|\n")
 
         for kd,v in sorted(stats['dep'].items()):
             backspots_percent = int(v['nb_points_noirs']/stats['total']['max_nb_points_noirs']*100.0)
-            docfile.write("|<a href='topstreets/{}/README.md'>{}</a>|{}|{}({}%)|{}&nbsp;{}|\n".format(v['title'],v['title'],v['nb_responses'],v['nb_responses_with_street'],v['nb_responses_with_street_percent'],html_percent_bar('img',backspots_percent),v['nb_points_noirs']))             
+            percent_bar = html_percent_bar('img',backspots_percent)
+            docfile.write(f"|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/{v['title']}/index.html'>{v['title']}</a>|{v['nb_responses']}|{v['nb_responses_with_street']}({v['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{v['nb_points_noirs']}|\n")             
 
-        docfile.write("| **Total** |{}|{}({}%)|{}|\n".format(stats['total']['nb_responses'],stats['total']['nb_responses_with_street'],stats['total']['nb_responses_with_street_percent'], stats['total']['nb_points_noirs']))             
+        docfile.write(f"| **Total** |{stats['total']['nb_responses']}|{stats['total']['nb_responses_with_street']}({stats['total']['nb_responses_with_street_percent']}%)|{stats['total']['nb_points_noirs']}|\n")             
+
+def write_main_html():
+
+    deps_info = ""
+    for kd,v in sorted(stats['dep'].items()):
+        backspots_percent = int(v['nb_points_noirs']/stats['total']['max_nb_points_noirs']*100.0)
+        percent_bar = html_percent_bar('img',backspots_percent)
+        deps_info += f"<tr><td><a href='topstreets/{v['title']}/index.html'>{v['title']}</a></td><td>{v['nb_responses']}</td><td>{v['nb_responses_with_street']}({v['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{v['nb_points_noirs']}</td></tr>\n"
 
 
-def write_departments_results():
+    deps_info += f"<tr><td><strong>Total</strong></td><td>{stats['total']['nb_responses']}</td><td>{stats['total']['nb_responses_with_street']}({stats['total']['nb_responses_with_street_percent']}%)</td><td>{stats['total']['nb_points_noirs']}</td></tr>\n"
+
+    # Write html stats
+    with open("index_main_template.html", "r") as templatefile:
+        template_content = templatefile.read()
+
+    ## Replace vars template
+    htmlcontent = template_content.replace("{{NB_RESPONSES}}",str(stats['total']['nb_responses']))
+    htmlcontent = htmlcontent.replace("{{NB_RESPONSES_WITH_STREET}}",str(stats['total']['nb_responses_with_street']))
+    htmlcontent = htmlcontent.replace("{{NB_RESPONSES_PERCENT}}",str(stats['total']['nb_responses_with_street_percent']))
+    htmlcontent = htmlcontent.replace("{{DEPARTEMENTS_LIST}}",deps_info)
+
+    with open('index.html', 'w') as htmlfile:
+        htmlfile.write(htmlcontent)
+
+
+def write_departments_readme():
     # Write stats
     for kd,d in sorted(stats['dep'].items()):
 
-        deppath = "topstreets/{}".format(d['title'])
-        os.mkdir(deppath)
+        deppath = f"topstreets/{d['title']}"
+        os.makedirs(deppath,exist_ok=True)
 
         filename = f"{deppath}/README.md"
 
         with open(filename, 'w') as docfile:
-            docfile.write("### Résultats pour le département de {}\n\n".format(d['title']))
-            docfile.write("Sur l'ensemble du département, il y a eu {} réponses dont {} réponses avec une rue citée ({}%)\n\n".format(d['nb_responses'],d['nb_responses_with_street'],d['nb_responses_with_street_percent']))
+            docfile.write(f"### Résultats pour le département de {d['title']}\n\n")
+            docfile.write(f"Sur l'ensemble du département, il y a eu {d['nb_responses']} réponses dont {d['nb_responses_with_street']} réponses avec une rue citée ({d['nb_responses_with_street_percent']}%)\n\n")
             docfile.write("| Ville | Nb réponses | Nb réponses avec rue | Nb points noirs |\n")
             docfile.write("|-------------|-------------|----------------------|-----------------|\n")
 
@@ -391,15 +395,59 @@ def write_departments_results():
                 backspots_percent = 0
                 if stats['dep'][kd]['max_nb_points_noirs'] > 0:
                     backspots_percent = int(t['nb_points_noirs']/stats['dep'][kd]['max_nb_points_noirs']*100.0)
-                docfile.write("|<a href='{}.md'>{}</a>|{}|{}({}%)|{}&nbsp;{}|\n".format(t['title'],t['title'],t['nb_responses'],t['nb_responses_with_street'],t['nb_responses_with_street_percent'], html_percent_bar('../../img',backspots_percent),t['nb_points_noirs']))             
+                
+                percent_bar = html_percent_bar('../../img',backspots_percent)
+                docfile.write("|<a href='{t['title']}.md'>{t['title']}</a>|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|\n")             
 
-            docfile.write("| **Total** |{}|{}({}%)|{}|\n".format(d['nb_responses'],d['nb_responses_with_street'],d['nb_responses_with_street_percent'], d['nb_points_noirs']))             
+            docfile.write(f"| **Total** |{d['nb_responses']}|{d['nb_responses_with_street']}({d['nb_responses_with_street_percent']}%)|{d['nb_points_noirs']}|\n")             
 
-
-def write_towns_results():
+def write_departments_html():
     # Write stats
     for kd,d in sorted(stats['dep'].items()):
-        deppath = "topstreets/{}".format(d['title'])
+
+        deppath = f"topstreets/{d['title']}"
+        os.makedirs(deppath,exist_ok=True)
+        filename = f"{deppath}/index.html"
+
+        cities_info = ""
+        for kt, t in sorted(stats['dep'][kd]['towns'].items()):
+            backspots_percent = 0
+            if stats['dep'][kd]['max_nb_points_noirs'] > 0:
+                backspots_percent = int(t['nb_points_noirs']/stats['dep'][kd]['max_nb_points_noirs']*100.0)
+            
+            percent_bar = html_percent_bar('../../img',backspots_percent)
+            cities_info += f"<tr><td><a href='{t['title']}.html'>{t['title']}</a></td><td>{t['nb_responses']}</td><td>{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{t['nb_points_noirs']}</td></tr>\n"             
+
+        cities_info += f"<tr><td> <strong>Total</strong> </td><td>{d['nb_responses']}</td><td>{d['nb_responses_with_street']}({d['nb_responses_with_street_percent']}%)</td><td>{d['nb_points_noirs']}</td></tr>\n"
+
+        # Write html stats
+        with open("index_departement_template.html", "r") as templatefile:
+            template_content = templatefile.read()
+
+        ## Replace vars template
+        htmlcontent = template_content.replace("{{DEPARTEMENT_NAME}}",d['title'])
+        htmlcontent = htmlcontent.replace("{{NB_RESPONSES}}",str(d['nb_responses']))
+        htmlcontent = htmlcontent.replace("{{NB_RESPONSES_WITH_STREET}}",str(d['nb_responses_with_street']))
+        htmlcontent = htmlcontent.replace("{{NB_RESPONSES_PERCENT}}",str(d['nb_responses_with_street_percent']))
+        htmlcontent = htmlcontent.replace("{{CITIES_LIST}}",cities_info)
+
+        with open(filename, 'w') as htmlfile:
+            htmlfile.write(htmlcontent)
+
+
+
+def folium_style_function(feature):
+    return {
+        'fillOpacity': 1,
+        'weight': 5,
+        'color': '#CB2431' 
+    }
+
+
+def write_towns_result():
+    # Write stats
+    for kd,d in sorted(stats['dep'].items()):
+        deppath = f"topstreets/{d['title']}"
         for kt, t in sorted(stats['dep'][kd]['towns'].items()):
             townname = t['title']
             nb_responses = t['nb_responses']
@@ -407,84 +455,136 @@ def write_towns_results():
             nb_responses_with_street_percent = t['nb_responses_with_street_percent']
             nb_points_noirs = t['nb_points_noirs']
 
-            filename = f"{deppath}/{townname}.md"
-            with open(filename, 'w') as docfile:
-                docfile.write(f"# Résultat pour {townname}\n\n")
-                docfile.write(f"Sur l'ensemble de la ville il y a eu {nb_responses} réponses dont {nb_responses_with_street} réponses avec une rue citée ({nb_responses_with_street_percent}%)\n\n")
-                docfile.write(f"{nb_points_noirs} points noirs identifiés\n\n")
+            docfilename = f"{deppath}/{townname}.md"
+            mapfilename = f"{deppath}/{townname}.html"
+            gjsonfilename = f"{deppath}/{townname}.geojson"
+            html_streets_list = ""
+            try:
+                with open(docfilename, 'w') as docfile:
+                    docfile.write(f"# Résultat pour {townname}\n\n")
+                    docfile.write(f"Sur l'ensemble de la ville il y a eu {nb_responses} réponses dont {nb_responses_with_street} réponses avec une rue citée ({nb_responses_with_street_percent}%)\n\n")
+                    docfile.write(f"{nb_points_noirs} points noirs identifiés\n\n")
 
-                docfile.write('| Rue | Vote | % réponses | % Nb rues cités|\n')
-                docfile.write("|-----|------|------------|----------------|\n")
+                    docfile.write('| Rue | Vote | % réponses | % Nb rues cités|\n')
+                    docfile.write("|-----|------|------------|----------------|\n")
 
-                total = 0
-                for street,count in t['blackspots'].most_common():
-                    total += count
+                    total = 0
+                    ways = []
+                    for full_street,street_info in sorted(t['blackspots'].items(), reverse=True, key=lambda item: (item[1]['responses_with_this_street'], item[0]))[:ONLYTOP]:
+                        total += street_info['responses_with_this_street']
+                        ways.append(street_info['ways'])
 
-                    striped_street = street.strip()
-                    percent_responses = 0
-                    percent_with_street = 0
+                        full_street = full_street.strip()
+                        percent_responses = 0
+                        percent_with_street = 0
 
+                        if nb_responses > 0:
+                            percent_responses = int(street_info['responses_with_this_street']/nb_responses*100.0)
+
+                        if nb_responses_with_street>0:
+                            percent_with_street = int(street_info['responses_with_this_street']/nb_responses_with_street*100.0)
+                        
+                        bar_percent = html_percent_bar('../../img',percent_with_street)
+                        docfile.write(f"| {full_street} | {street_info['responses_with_this_street']} | {percent_responses}% | {bar_percent}&nbsp;{percent_with_street}%|\n")
+
+                        html_streets_list += f"<tr><td> {full_street} </td><td> {street_info['responses_with_this_street']} </td><td> {percent_responses}% </td><td> {bar_percent}&nbsp;{percent_with_street}%</td></tr>\n"
+
+
+                    # Total
                     if nb_responses > 0:
-                        percent_responses = int(count/nb_responses*100.0)
+                        percent_responses = int(total/nb_responses*100.0)
 
                     if nb_responses_with_street>0:
-                        percent_with_street = int(count/nb_responses_with_street*100.0)
+                        percent_with_street = int(total/nb_responses_with_street*100.0)
                     
-                    bar_percent = html_percent_bar('../../img',percent_with_street)
-                    docfile.write(f"| {striped_street} | {count} | {percent_responses}% | {bar_percent}&nbsp;{percent_with_street}%|\n")
+                    if nb_responses > 0 and nb_responses_with_street > 0:
+                        docfile.write(f"| **Total** | {total} | {percent_responses}% | {percent_with_street}%|\n")
+                        html_streets_list += f"<tr><td> <strong>Total</strong> </td><td> {total} </td><td> {percent_responses}% </td><td> {percent_with_street}%</td></tr>\n"
 
-                # Total
-                if nb_responses > 0:
-                    percent_responses = int(total/nb_responses*100.0)
+                    # Generate Map
+                    allways = ','.join(ways)
+                
+                if len(ways)>0:
+                    insee = t['insee']
+                    lat = float(villes_info[insee]['lat'])
+                    lon = float(villes_info[insee]['lon'])
+                    jways = api.get(f'way(id:{allways})',responseformat='geojson',verbosity='geom')
+                    with open(gjsonfilename, 'w') as gjsonfile:
+                        gjsonfile.write(json.dumps(jways, indent=4, separators=(',', ': ')))
 
-                if nb_responses_with_street>0:
-                    percent_with_street = int(total/nb_responses_with_street*100.0)
-                docfile.write(f"| **Total** | {total} | {percent_responses}% | {percent_with_street}%|\n")
+                    m = folium.Map(location=[ lat, lon],height=MAP_HEIGHT,width=MAP_WIDTH,zoom_start=13)
+                    folium.GeoJson(
+                        gjsonfilename,
+                        name='geojson',
+                        style_function=folium_style_function
+                    ).add_to(m)
 
+                    
+                    # Read html ville template
+                    with open("index_ville_template.html", "r") as templatefile:
+                        template_content = templatefile.read()
+
+                    ## Summaries town
+                    htmlcontent = template_content.replace("{{TOWN_NAME}}",townname)
+                    htmlcontent = htmlcontent.replace("{{NB_RESPONSES}}",str(nb_responses))
+                    htmlcontent = htmlcontent.replace("{{NB_RESPONSES_WITH_STREET}}",str(nb_responses_with_street))
+                    htmlcontent = htmlcontent.replace("{{NB_RESPONSES_PERCENT}}",str(nb_responses_with_street_percent))
+                    htmlcontent = htmlcontent.replace("{{NB_POINTS_NOIRS}}",str(nb_points_noirs))
+
+                    # leaflet Map
+                    div_width=MAP_WIDTH+200
+                    iframe_map = m._repr_html_()
+                    htmlcontent = htmlcontent.replace("{{MAP_CONTENT}}",iframe_map)
+                    htmlcontent = htmlcontent.replace('<div style="width:100%;"><div style="position:relative;width:100%;',f'<div style="width:{div_width}px;"><div style="position:relative;width:100%;')
+                    htmlcontent = htmlcontent.replace("{{STREETS_LIST}}",html_streets_list)
+
+                    #m.save(mapfilename)
+                    with open(mapfilename, 'w') as htmlfile:
+                        htmlfile.write(htmlcontent)
+            except :
+                print (f"##### cannot generate a files for {kt}")
 
 
 def analyze_all_responses():
     global stats
     global dmots
-    global INSEE_TO_FANTOIR
     global nb_responses_with_street
 
     files = os.listdir('datas/')
     for filename in files:
-
         codedep = filename[0:2]
         codecom = filename[2:5]
-        codetown = f"{codedep}{codecom}"
+        insee = f"{codedep}{codecom}"
 
-        # Convert INSEE code town to FANTOIR code town
-        if codedep in INSEE_TO_FANTOIR and codecom in INSEE_TO_FANTOIR[codedep]:
-            codecom_list = INSEE_TO_FANTOIR[codedep][codecom]
-        else:
-            codecom_list = [codecom]
+        codecom_list = [codecom]
 
-        # Loop for search street in district town       
+        # Loop for search street in district town           
         for codecom_replaced in codecom_list:
 
+
             # Compute topstreet path
-            fantoirfullfilename = get_fantoir_filename_by_code(codedep,codecom_replaced)
-            firstlash = fantoirfullfilename.find("/")
-            lastslash = fantoirfullfilename.rfind("/")
-            titledep = fantoirfullfilename[firstlash+1:lastslash]
+            OSMfullfilename = get_OSM_filename_by_code(insee)
+            if OSMfullfilename is None:
+                print(f" ###### {insee} not found")
+                break
+
+            firstlash = OSMfullfilename.find("/")
+            nextslash = OSMfullfilename.find("/",firstlash+1)
+            lastslash = OSMfullfilename.rfind("/")
+            titledep = OSMfullfilename[firstlash+1:nextslash]
+            titletown = OSMfullfilename[nextslash+1:lastslash]
             topstreetpath = "topstreets/%s" % titledep
 
             # Compute tpwn top street filename
-            townresultfilename = fantoirfullfilename[lastslash+1:].replace('.csv','.md')
-            titletown = townresultfilename.replace(".md","")
-            topstreets_filename=f"{topstreetpath}/{townresultfilename}"
+            topstreets_filename=f"{topstreetpath}/{titletown}.md"
 
             print(f"Analyse response for {titledep}/{titletown}")
             try:
                 nb_responses_with_street = 0
 
-                dmots = readfantoir_file(fantoirfullfilename)
+                dmots = readOSMStreetFile(OSMfullfilename)
                 responses = load_response(f"datas/{filename}")
                 nb_responses_with_street,blackspots = detect_all_streets(dmots,responses)
-                top = blackspots.most_common(10)
 
                 # Init department counter
                 if codedep not in stats['dep']:
@@ -517,6 +617,7 @@ def analyze_all_responses():
 
                 # Set town counter
                 stats['dep'][codedep]['towns'][codecom_replaced]= {
+                    'insee': insee,
                     'title': titletown,
                     'mustcount': mustcount,
                     'nb_responses': len(responses),
@@ -545,7 +646,7 @@ def analyze_all_responses():
                 ratiototal = int(stats['total']['nb_responses_with_street']/stats['total']['nb_responses'] * 100.0)
                 stats['total']['nb_responses_with_street_percent'] = ratiototal
                 
-                #write_topstreets(fantoirfullfilename,codedep,codecom,responses,top)
+                #write_topstreets(OSMfullfilename,codedep,codecom,responses,top)
 
             except KeyboardInterrupt:
                 sys.exit()
@@ -553,16 +654,17 @@ def analyze_all_responses():
             except IsADirectoryError:
                 pass
                 print("IsADirectoryError")
-                print(f"#### ERROR for Analyse {codetown} {fantoirfullfilename}".replace("fantoir/",""))
+                print(f"#### ERROR for Analyse {insee} {OSMfullfilename}".replace("fantoir/",""))
 
             except FileNotFoundError:
                 pass
                 print("FileNotFoundError")
-                print(f"#### ERROR for Analyse {codetown} {fantoirfullfilename}".replace("fantoir/",""))
+                print(f"#### ERROR for Analyse {insee} {OSMfullfilename}".replace("fantoir/",""))
 
 
 DEBUG=False
 dmots = dict()
+villes_info = dict()
 stats = {
     'total': {
         'nb_responses': 0,
@@ -575,6 +677,14 @@ stats = {
     }
 }
 
+endpoint = "http://localhost/api/interpreter"
+timeout=600
+api = overpass.API(endpoint=endpoint,timeout=600,debug=True)
+
+
+# Read osm-tools villes.csv information
+readOSMVilles()
+
 # Analyse FUB responses
 analyze_all_responses()
 
@@ -583,6 +693,10 @@ shutil.rmtree('topstreets',ignore_errors=True)
 os.mkdir('topstreets')
 
 # Write all datas
-write_main_results()
-write_departments_results()
-write_towns_results()
+write_main_readme()
+write_main_html()
+
+write_departments_readme()
+write_departments_html()
+
+write_towns_result()

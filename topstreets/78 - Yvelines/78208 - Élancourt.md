@@ -1,0 +1,14 @@
+# Résultat pour 78208 - Élancourt
+
+Sur l'ensemble de la ville il y a eu 18 réponses dont 6 réponses avec une rue citée (33%)
+
+5 points noirs identifiés
+
+| Rue | Vote | % réponses | % Nb rues cités|
+|-----|------|------------|----------------|
+| Avenue de la Villedieu | 2 | 11% | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| Route du Mesnil | 1 | 5% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| Route des Gâtines | 1 | 5% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| Rond-Point de la Boissière | 1 | 5% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| Boulevard André Malraux | 1 | 5% | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| **Total** | 6 | 33% | 100%|

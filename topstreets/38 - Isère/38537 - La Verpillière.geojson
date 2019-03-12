@@ -1,0 +1,363 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5069707,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1479011,
+                        45.6326498
+                    ],
+                    [
+                        5.1481529,
+                        45.6325439
+                    ],
+                    [
+                        5.1488956,
+                        45.6322695
+                    ],
+                    [
+                        5.1508237,
+                        45.6315349
+                    ],
+                    [
+                        5.1512715,
+                        45.6313492
+                    ],
+                    [
+                        5.1516215,
+                        45.6312507
+                    ],
+                    [
+                        5.1517626,
+                        45.6312001
+                    ],
+                    [
+                        5.1518487,
+                        45.6311649
+                    ],
+                    [
+                        5.152213,
+                        45.6310383
+                    ],
+                    [
+                        5.1522678,
+                        45.6310111
+                    ],
+                    [
+                        5.1524082,
+                        45.6309412
+                    ],
+                    [
+                        5.1528811,
+                        45.6307648
+                    ],
+                    [
+                        5.1529501,
+                        45.630738
+                    ],
+                    [
+                        5.1531423,
+                        45.6306634
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Rue des Alpes",
+                "ref": "D 125",
+                "source:maxspeed": "FR:urban"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219756232,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1400513,
+                        45.6392652
+                    ],
+                    [
+                        5.1390272,
+                        45.6399234
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Avenue de la Lib\u00e9ration",
+                "ref": "D 125",
+                "source:maxspeed": "FR:urban",
+                "turn:lanes:backward": "through|right"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 295589690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1329755,
+                        45.6437909
+                    ],
+                    [
+                        5.1330464,
+                        45.6437795
+                    ],
+                    [
+                        5.1331473,
+                        45.6437495
+                    ],
+                    [
+                        5.13329,
+                        45.64367
+                    ],
+                    [
+                        5.133393,
+                        45.6435995
+                    ],
+                    [
+                        5.1334466,
+                        45.643565
+                    ],
+                    [
+                        5.1337245,
+                        45.6433865
+                    ],
+                    [
+                        5.1339176,
+                        45.6432613
+                    ],
+                    [
+                        5.1343703,
+                        45.642977
+                    ],
+                    [
+                        5.1346064,
+                        45.6428695
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 125",
+                "source:maxspeed": "FR:urban"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 295589691,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1346064,
+                        45.6428695
+                    ],
+                    [
+                        5.1345134,
+                        45.6429751
+                    ],
+                    [
+                        5.1344646,
+                        45.6430116
+                    ],
+                    [
+                        5.1337359,
+                        45.6434691
+                    ],
+                    [
+                        5.1335499,
+                        45.643586
+                    ],
+                    [
+                        5.1333659,
+                        45.6437146
+                    ],
+                    [
+                        5.1332302,
+                        45.6438238
+                    ],
+                    [
+                        5.133185,
+                        45.6438814
+                    ],
+                    [
+                        5.1331713,
+                        45.6439099
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 125",
+                "source:maxspeed": "FR:urban"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303060046,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1518509,
+                        45.6312005
+                    ],
+                    [
+                        5.151698,
+                        45.631261
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Rue des Alpes",
+                "network": "Ruban",
+                "public_transport": "platform"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303060047,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1531423,
+                        45.6306634
+                    ],
+                    [
+                        5.1532919,
+                        45.6306053
+                    ],
+                    [
+                        5.1533612,
+                        45.6305784
+                    ],
+                    [
+                        5.1536416,
+                        45.6304695
+                    ],
+                    [
+                        5.1561664,
+                        45.6295385
+                    ],
+                    [
+                        5.1567184,
+                        45.6294097
+                    ],
+                    [
+                        5.1571185,
+                        45.6294374
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Rue des Alpes",
+                "ref": "D 125",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 601634020,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1390272,
+                        45.6399234
+                    ],
+                    [
+                        5.1387879,
+                        45.6400772
+                    ],
+                    [
+                        5.1386833,
+                        45.6401427
+                    ],
+                    [
+                        5.1384745,
+                        45.6402735
+                    ],
+                    [
+                        5.1377411,
+                        45.6407657
+                    ],
+                    [
+                        5.1376031,
+                        45.6408626
+                    ],
+                    [
+                        5.1374827,
+                        45.6409431
+                    ],
+                    [
+                        5.1363353,
+                        45.6417092
+                    ],
+                    [
+                        5.1362006,
+                        45.6417978
+                    ],
+                    [
+                        5.135296,
+                        45.6423927
+                    ],
+                    [
+                        5.1347946,
+                        45.6427417
+                    ],
+                    [
+                        5.134661,
+                        45.6428306
+                    ],
+                    [
+                        5.1346064,
+                        45.6428695
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Avenue de la Lib\u00e9ration",
+                "ref": "D 125",
+                "source:maxspeed": "FR:urban"
+            }
+        }
+    ]
+}

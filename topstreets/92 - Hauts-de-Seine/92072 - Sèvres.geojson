@@ -1,0 +1,3247 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4747172,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.208747,
+                        48.8237515
+                    ],
+                    [
+                        2.2088761,
+                        48.8237481
+                    ],
+                    [
+                        2.2090252,
+                        48.8237727
+                    ],
+                    [
+                        2.2093,
+                        48.8238723
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "ref": "D 407",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10427192,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2120922,
+                        48.8241637
+                    ],
+                    [
+                        2.2120942,
+                        48.824119
+                    ],
+                    [
+                        2.2121142,
+                        48.8240901
+                    ],
+                    [
+                        2.2121297,
+                        48.8240773
+                    ],
+                    [
+                        2.2121622,
+                        48.8240604
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de l'Europe",
+                "note": "not a roundabount",
+                "oneway": "yes",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10859545,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2123837,
+                        48.8241423
+                    ],
+                    [
+                        2.2127344,
+                        48.8242936
+                    ],
+                    [
+                        2.2133193,
+                        48.8245104
+                    ],
+                    [
+                        2.2140351,
+                        48.8247556
+                    ],
+                    [
+                        2.2144167,
+                        48.8248773
+                    ],
+                    [
+                        2.2144855,
+                        48.8248993
+                    ],
+                    [
+                        2.2154807,
+                        48.8251927
+                    ],
+                    [
+                        2.2157934,
+                        48.825264
+                    ],
+                    [
+                        2.2159182,
+                        48.8253118
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "ref": "D 910",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10865663,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2253911,
+                        48.8280531
+                    ],
+                    [
+                        2.225077,
+                        48.8279616
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "no",
+                "destination": "S\u00c8VRES;SAINT CLOUD;MUS\u00c9E NATIONAL DE C\u00c9RAMIQUE",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "2",
+                "maxspeed": "50",
+                "name": "Pont de S\u00e8vres",
+                "old_ref": "N 10",
+                "oneway": "yes",
+                "ref": "D 910",
+                "sidewalk": "right",
+                "source": "Bing;survey",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19215395,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2113949,
+                        48.8115618
+                    ],
+                    [
+                        2.2112702,
+                        48.8115548
+                    ],
+                    [
+                        2.2110826,
+                        48.8115348
+                    ],
+                    [
+                        2.21096,
+                        48.8115276
+                    ],
+                    [
+                        2.2108743,
+                        48.8114896
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "destination": "Versailles;Chaville",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "source:maxspeed": "sign",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19356456,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2108743,
+                        48.8114896
+                    ],
+                    [
+                        2.2112534,
+                        48.8114634
+                    ],
+                    [
+                        2.211439,
+                        48.8114069
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "source:maxspeed": "sign",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19356459,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2100755,
+                        48.8111976
+                    ],
+                    [
+                        2.2096159,
+                        48.811057
+                    ],
+                    [
+                        2.2090928,
+                        48.8108256
+                    ],
+                    [
+                        2.2088209,
+                        48.810731
+                    ],
+                    [
+                        2.2087385,
+                        48.8106976
+                    ],
+                    [
+                        2.207858,
+                        48.8102829
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "source": "Bing",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19356470,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2108743,
+                        48.8114896
+                    ],
+                    [
+                        2.210446,
+                        48.8113357
+                    ],
+                    [
+                        2.2101477,
+                        48.8112259
+                    ],
+                    [
+                        2.2100755,
+                        48.8111976
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "ref": "D 181",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20217581,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2063464,
+                        48.8220719
+                    ],
+                    [
+                        2.2062178,
+                        48.8220471
+                    ],
+                    [
+                        2.2061298,
+                        48.8220194
+                    ],
+                    [
+                        2.2059191,
+                        48.821958
+                    ],
+                    [
+                        2.2055974,
+                        48.8218785
+                    ],
+                    [
+                        2.2052953,
+                        48.8218018
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20220076,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2228089,
+                        48.8272806
+                    ],
+                    [
+                        2.2225807,
+                        48.8272392
+                    ],
+                    [
+                        2.2221784,
+                        48.827161
+                    ],
+                    [
+                        2.2217745,
+                        48.8270823
+                    ],
+                    [
+                        2.2200043,
+                        48.8267631
+                    ],
+                    [
+                        2.219299,
+                        48.8266149
+                    ],
+                    [
+                        2.219173,
+                        48.8265677
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "ref": "D 910",
+                "source": "Bing",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20220100,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2065852,
+                        48.8219912
+                    ],
+                    [
+                        2.2067246,
+                        48.8220254
+                    ],
+                    [
+                        2.2074087,
+                        48.8221784
+                    ],
+                    [
+                        2.2075452,
+                        48.8222149
+                    ],
+                    [
+                        2.2077741,
+                        48.822276
+                    ],
+                    [
+                        2.2083914,
+                        48.8225267
+                    ],
+                    [
+                        2.2086084,
+                        48.8226188
+                    ],
+                    [
+                        2.2086511,
+                        48.8226369
+                    ],
+                    [
+                        2.2097159,
+                        48.8230889
+                    ],
+                    [
+                        2.2099891,
+                        48.8232049
+                    ],
+                    [
+                        2.2112128,
+                        48.8236937
+                    ],
+                    [
+                        2.2114634,
+                        48.8237938
+                    ],
+                    [
+                        2.2119122,
+                        48.8239761
+                    ],
+                    [
+                        2.2121622,
+                        48.8240604
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de l'Europe",
+                "oneway": "yes",
+                "ref": "D 910",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20220643,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2254674,
+                        48.8279861
+                    ],
+                    [
+                        2.2259046,
+                        48.8281133
+                    ],
+                    [
+                        2.2283708,
+                        48.828875
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "4",
+                "layer": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de S\u00e8vres",
+                "old_ref": "N 10",
+                "oneway": "yes",
+                "ref": "D 910",
+                "sidewalk": "right",
+                "source": "survey",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20330110,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2062929,
+                        48.8202517
+                    ],
+                    [
+                        2.2064136,
+                        48.8201945
+                    ],
+                    [
+                        2.2064337,
+                        48.8201849
+                    ],
+                    [
+                        2.2065549,
+                        48.8200654
+                    ],
+                    [
+                        2.2067062,
+                        48.8198605
+                    ],
+                    [
+                        2.206851,
+                        48.8196578
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxheight": "3.2",
+                "maxspeed": "30",
+                "name": "Rue de la Garenne",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20330168,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.206851,
+                        48.8196578
+                    ],
+                    [
+                        2.2070935,
+                        48.8195384
+                    ],
+                    [
+                        2.2072201,
+                        48.8193826
+                    ],
+                    [
+                        2.2073113,
+                        48.8192631
+                    ],
+                    [
+                        2.2073615,
+                        48.8191973
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Garenne",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20357205,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2194562,
+                        48.8145258
+                    ],
+                    [
+                        2.2196944,
+                        48.8147038
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20357753,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2157839,
+                        48.8127533
+                    ],
+                    [
+                        2.214995,
+                        48.8123891
+                    ],
+                    [
+                        2.2149653,
+                        48.8123767
+                    ],
+                    [
+                        2.2148929,
+                        48.8123433
+                    ],
+                    [
+                        2.2147736,
+                        48.8122839
+                    ],
+                    [
+                        2.2145772,
+                        48.8121755
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21550438,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.208747,
+                        48.8237515
+                    ],
+                    [
+                        2.2086238,
+                        48.823702
+                    ],
+                    [
+                        2.2083638,
+                        48.8235051
+                    ],
+                    [
+                        2.2077466,
+                        48.8230584
+                    ],
+                    [
+                        2.2071331,
+                        48.8226148
+                    ],
+                    [
+                        2.2070664,
+                        48.8225665
+                    ],
+                    [
+                        2.2068203,
+                        48.8223915
+                    ],
+                    [
+                        2.2065657,
+                        48.8221827
+                    ],
+                    [
+                        2.2064667,
+                        48.8221097
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "unclassified",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21550440,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2093,
+                        48.8238723
+                    ],
+                    [
+                        2.2091166,
+                        48.8238434
+                    ],
+                    [
+                        2.2089941,
+                        48.8238257
+                    ],
+                    [
+                        2.2089055,
+                        48.8238193
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "ref": "D 407",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21550442,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2079448,
+                        48.8242832
+                    ],
+                    [
+                        2.2078112,
+                        48.8243942
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de Ville d'Avray",
+                "ref": "D 407",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21550444,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2079448,
+                        48.8242832
+                    ],
+                    [
+                        2.20822,
+                        48.8241252
+                    ],
+                    [
+                        2.2085278,
+                        48.8239109
+                    ],
+                    [
+                        2.2086236,
+                        48.8238241
+                    ],
+                    [
+                        2.2086713,
+                        48.823778
+                    ],
+                    [
+                        2.208747,
+                        48.8237515
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Rue de Ville d'Avray",
+                "oneway": "yes",
+                "ref": "D 407",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21550445,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2089055,
+                        48.8238193
+                    ],
+                    [
+                        2.2087824,
+                        48.8238326
+                    ],
+                    [
+                        2.2087072,
+                        48.8238545
+                    ],
+                    [
+                        2.2086792,
+                        48.823871
+                    ],
+                    [
+                        2.2086593,
+                        48.8238828
+                    ],
+                    [
+                        2.2085684,
+                        48.8239465
+                    ],
+                    [
+                        2.2083853,
+                        48.8240745
+                    ],
+                    [
+                        2.208165,
+                        48.8241951
+                    ],
+                    [
+                        2.2079448,
+                        48.8242832
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Rue de Ville d'Avray",
+                "oneway": "yes",
+                "ref": "D 407",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21550447,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2093,
+                        48.8238723
+                    ],
+                    [
+                        2.2095857,
+                        48.823944
+                    ],
+                    [
+                        2.2104124,
+                        48.8241357
+                    ],
+                    [
+                        2.2105638,
+                        48.8241708
+                    ],
+                    [
+                        2.2109135,
+                        48.8242446
+                    ],
+                    [
+                        2.2110859,
+                        48.8242713
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Grande Rue",
+                "oneway": "no",
+                "ref": "D 407",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22076889,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2146166,
+                        48.8262674
+                    ],
+                    [
+                        2.2141111,
+                        48.8262066
+                    ],
+                    [
+                        2.2138719,
+                        48.8261907
+                    ],
+                    [
+                        2.2137175,
+                        48.8262001
+                    ],
+                    [
+                        2.2135064,
+                        48.8262005
+                    ],
+                    [
+                        2.2131742,
+                        48.826201
+                    ],
+                    [
+                        2.21147,
+                        48.8261878
+                    ],
+                    [
+                        2.2113994,
+                        48.8261873
+                    ],
+                    [
+                        2.2113528,
+                        48.8261875
+                    ],
+                    [
+                        2.2109399,
+                        48.8261891
+                    ],
+                    [
+                        2.2105348,
+                        48.8262191
+                    ],
+                    [
+                        2.2101382,
+                        48.8262879
+                    ],
+                    [
+                        2.2097202,
+                        48.8264001
+                    ],
+                    [
+                        2.2091721,
+                        48.8266096
+                    ],
+                    [
+                        2.2088093,
+                        48.8267625
+                    ],
+                    [
+                        2.2086955,
+                        48.8268104
+                    ],
+                    [
+                        2.2082537,
+                        48.8269885
+                    ],
+                    [
+                        2.2066098,
+                        48.8276494
+                    ],
+                    [
+                        2.2063748,
+                        48.8277344
+                    ],
+                    [
+                        2.206022,
+                        48.8278295
+                    ],
+                    [
+                        2.2057472,
+                        48.827861
+                    ],
+                    [
+                        2.2054722,
+                        48.8278723
+                    ],
+                    [
+                        2.2051772,
+                        48.827862
+                    ],
+                    [
+                        2.2034504,
+                        48.827705
+                    ],
+                    [
+                        2.2034335,
+                        48.8277035
+                    ],
+                    [
+                        2.2024444,
+                        48.8276168
+                    ],
+                    [
+                        2.2022033,
+                        48.8275642
+                    ],
+                    [
+                        2.2018188,
+                        48.8274397
+                    ],
+                    [
+                        2.2014456,
+                        48.827238
+                    ],
+                    [
+                        2.2012979,
+                        48.8271334
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Brancas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22079637,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2060068,
+                        48.8257908
+                    ],
+                    [
+                        2.2060099,
+                        48.8258359
+                    ],
+                    [
+                        2.206021,
+                        48.8262173
+                    ],
+                    [
+                        2.2059791,
+                        48.8262602
+                    ],
+                    [
+                        2.2058574,
+                        48.8262703
+                    ],
+                    [
+                        2.2044672,
+                        48.8263289
+                    ],
+                    [
+                        2.2039933,
+                        48.8263462
+                    ],
+                    [
+                        2.2038132,
+                        48.8263285
+                    ],
+                    [
+                        2.2036148,
+                        48.8262737
+                    ],
+                    [
+                        2.2033225,
+                        48.8262649
+                    ],
+                    [
+                        2.202819,
+                        48.8263015
+                    ],
+                    [
+                        2.2027294,
+                        48.8262693
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Cerisaie",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30014551,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2205979,
+                        48.8234312
+                    ],
+                    [
+                        2.2206419,
+                        48.8235075
+                    ],
+                    [
+                        2.2205697,
+                        48.8235998
+                    ],
+                    [
+                        2.2202841,
+                        48.8244511
+                    ],
+                    [
+                        2.2201479,
+                        48.8246649
+                    ],
+                    [
+                        2.2198645,
+                        48.8254417
+                    ],
+                    [
+                        2.2197828,
+                        48.8256793
+                    ],
+                    [
+                        2.2197413,
+                        48.8258547
+                    ],
+                    [
+                        2.2197144,
+                        48.8259248
+                    ],
+                    [
+                        2.2196402,
+                        48.8259951
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Diderot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35447515,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2194562,
+                        48.8145258
+                    ],
+                    [
+                        2.2184275,
+                        48.8140626
+                    ],
+                    [
+                        2.2169334,
+                        48.813339
+                    ],
+                    [
+                        2.2168083,
+                        48.8132784
+                    ],
+                    [
+                        2.2160059,
+                        48.8128784
+                    ],
+                    [
+                        2.2159476,
+                        48.8128494
+                    ],
+                    [
+                        2.2157839,
+                        48.8127533
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "no",
+                "ref": "D 181",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35447521,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2206836,
+                        48.8151984
+                    ],
+                    [
+                        2.2202459,
+                        48.8151023
+                    ],
+                    [
+                        2.2199541,
+                        48.8149441
+                    ],
+                    [
+                        2.2196761,
+                        48.8147105
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35448748,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2011149,
+                        48.8261269
+                    ],
+                    [
+                        2.2011206,
+                        48.826059
+                    ],
+                    [
+                        2.201128,
+                        48.8259685
+                    ],
+                    [
+                        2.2011284,
+                        48.8259404
+                    ],
+                    [
+                        2.2011304,
+                        48.8258892
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Brancas"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59831669,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2283083,
+                        48.8289568
+                    ],
+                    [
+                        2.2257126,
+                        48.82815
+                    ],
+                    [
+                        2.2254388,
+                        48.8280676
+                    ],
+                    [
+                        2.2253911,
+                        48.8280531
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de S\u00e8vres",
+                "old_ref": "N 10",
+                "oneway": "yes",
+                "ref": "D 910",
+                "sidewalk": "right",
+                "source": "survey",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119386449,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2123813,
+                        48.8132446
+                    ],
+                    [
+                        2.2124499,
+                        48.8131496
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Garenne",
+                "source": "survey",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119386461,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2124499,
+                        48.8131496
+                    ],
+                    [
+                        2.2129746,
+                        48.8124241
+                    ],
+                    [
+                        2.2130528,
+                        48.8123709
+                    ],
+                    [
+                        2.2130992,
+                        48.8123574
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxweight": "10",
+                "name": "Rue de la Garenne",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119386482,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2114835,
+                        48.8144796
+                    ],
+                    [
+                        2.2117271,
+                        48.8141491
+                    ],
+                    [
+                        2.2120212,
+                        48.8137424
+                    ],
+                    [
+                        2.2123401,
+                        48.8133015
+                    ],
+                    [
+                        2.2123813,
+                        48.8132446
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Garenne",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119429980,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2057244,
+                        48.8093075
+                    ],
+                    [
+                        2.2056775,
+                        48.8093008
+                    ],
+                    [
+                        2.2056344,
+                        48.8092825
+                    ],
+                    [
+                        2.205606,
+                        48.8092571
+                    ],
+                    [
+                        2.2055929,
+                        48.8092332
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "note": "not a roundabount",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 168246587,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.205846,
+                        48.8209025
+                    ],
+                    [
+                        2.2058232,
+                        48.8213652
+                    ],
+                    [
+                        2.2058514,
+                        48.8215233
+                    ],
+                    [
+                        2.2058912,
+                        48.821624
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "30",
+                "name": "Rue de la Garenne",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 168961874,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2058672,
+                        48.8092245
+                    ],
+                    [
+                        2.2059587,
+                        48.8093063
+                    ],
+                    [
+                        2.2066442,
+                        48.8096444
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "source": "Bing",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197710146,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.219173,
+                        48.8265677
+                    ],
+                    [
+                        2.2185306,
+                        48.8262763
+                    ],
+                    [
+                        2.2182967,
+                        48.8261732
+                    ],
+                    [
+                        2.2174904,
+                        48.8259181
+                    ],
+                    [
+                        2.2163605,
+                        48.8255578
+                    ],
+                    [
+                        2.2160719,
+                        48.8254917
+                    ],
+                    [
+                        2.2159387,
+                        48.8254485
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "ref": "D 910",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 229710868,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1959159,
+                        48.8084965
+                    ],
+                    [
+                        2.1964973,
+                        48.8086015
+                    ],
+                    [
+                        2.1968786,
+                        48.8086724
+                    ],
+                    [
+                        2.1974593,
+                        48.8087657
+                    ],
+                    [
+                        2.1983449,
+                        48.8088696
+                    ],
+                    [
+                        2.1994527,
+                        48.8089803
+                    ],
+                    [
+                        2.1997516,
+                        48.8089919
+                    ],
+                    [
+                        2.199988,
+                        48.8089795
+                    ],
+                    [
+                        2.2002074,
+                        48.8089647
+                    ],
+                    [
+                        2.200425,
+                        48.8089276
+                    ],
+                    [
+                        2.200667,
+                        48.8088745
+                    ],
+                    [
+                        2.2010384,
+                        48.8087744
+                    ],
+                    [
+                        2.2015467,
+                        48.8086373
+                    ],
+                    [
+                        2.2018505,
+                        48.8085768
+                    ],
+                    [
+                        2.2020981,
+                        48.8085385
+                    ],
+                    [
+                        2.2023213,
+                        48.8085212
+                    ],
+                    [
+                        2.2025408,
+                        48.8085163
+                    ],
+                    [
+                        2.2027546,
+                        48.8085225
+                    ],
+                    [
+                        2.2030622,
+                        48.8085509
+                    ],
+                    [
+                        2.203368,
+                        48.8086027
+                    ],
+                    [
+                        2.2035364,
+                        48.8086415
+                    ],
+                    [
+                        2.2037442,
+                        48.8086906
+                    ],
+                    [
+                        2.2046048,
+                        48.8089284
+                    ],
+                    [
+                        2.2054481,
+                        48.8091401
+                    ],
+                    [
+                        2.2055661,
+                        48.8091441
+                    ],
+                    [
+                        2.2056423,
+                        48.8091462
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "incline": "up",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxweight": "15",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "source": "Bing",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 229716194,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2055929,
+                        48.8092332
+                    ],
+                    [
+                        2.2055385,
+                        48.809232
+                    ],
+                    [
+                        2.2054505,
+                        48.8092297
+                    ],
+                    [
+                        2.2053806,
+                        48.809213
+                    ],
+                    [
+                        2.2037169,
+                        48.8087572
+                    ],
+                    [
+                        2.2034929,
+                        48.8086942
+                    ],
+                    [
+                        2.203156,
+                        48.8086237
+                    ],
+                    [
+                        2.2029216,
+                        48.8085966
+                    ],
+                    [
+                        2.2026177,
+                        48.8085743
+                    ],
+                    [
+                        2.2021519,
+                        48.8085936
+                    ],
+                    [
+                        2.201768,
+                        48.8086485
+                    ],
+                    [
+                        2.201451,
+                        48.8087263
+                    ],
+                    [
+                        2.2009446,
+                        48.808872
+                    ],
+                    [
+                        2.2004907,
+                        48.8089882
+                    ],
+                    [
+                        2.2002093,
+                        48.8090289
+                    ],
+                    [
+                        2.1998717,
+                        48.8090524
+                    ],
+                    [
+                        2.1994572,
+                        48.8090413
+                    ],
+                    [
+                        2.1983867,
+                        48.8089347
+                    ],
+                    [
+                        2.1982514,
+                        48.8089211
+                    ],
+                    [
+                        2.1979716,
+                        48.808893
+                    ],
+                    [
+                        2.1974408,
+                        48.8088226
+                    ],
+                    [
+                        2.1969306,
+                        48.8087448
+                    ],
+                    [
+                        2.1963643,
+                        48.8086532
+                    ],
+                    [
+                        2.195982,
+                        48.808589
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "incline": "down",
+                "lanes": "1",
+                "maxspeed": "50",
+                "maxweight": "15",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "source": "Bing",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 229716221,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2078112,
+                        48.8243942
+                    ],
+                    [
+                        2.2073675,
+                        48.8247631
+                    ],
+                    [
+                        2.2071958,
+                        48.8249101
+                    ],
+                    [
+                        2.2070928,
+                        48.8251078
+                    ],
+                    [
+                        2.2069898,
+                        48.8253395
+                    ],
+                    [
+                        2.2069212,
+                        48.825509
+                    ],
+                    [
+                        2.2068649,
+                        48.8255761
+                    ],
+                    [
+                        2.2068182,
+                        48.8256334
+                    ],
+                    [
+                        2.2066674,
+                        48.8256891
+                    ],
+                    [
+                        2.2064359,
+                        48.8257626
+                    ],
+                    [
+                        2.2060068,
+                        48.8257908
+                    ],
+                    [
+                        2.2058305,
+                        48.8258014
+                    ],
+                    [
+                        2.2058039,
+                        48.8258029
+                    ],
+                    [
+                        2.2056291,
+                        48.8258134
+                    ],
+                    [
+                        2.2054273,
+                        48.8258213
+                    ],
+                    [
+                        2.2045551,
+                        48.8258553
+                    ],
+                    [
+                        2.2030922,
+                        48.8258335
+                    ],
+                    [
+                        2.2030359,
+                        48.8258327
+                    ],
+                    [
+                        2.2028814,
+                        48.8258327
+                    ],
+                    [
+                        2.2027269,
+                        48.8258327
+                    ],
+                    [
+                        2.202581,
+                        48.8258327
+                    ],
+                    [
+                        2.2025499,
+                        48.8258341
+                    ],
+                    [
+                        2.2018171,
+                        48.8258666
+                    ],
+                    [
+                        2.201489,
+                        48.8258798
+                    ],
+                    [
+                        2.2012417,
+                        48.8258863
+                    ],
+                    [
+                        2.2011304,
+                        48.8258892
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de Ville d'Avray",
+                "ref": "D 407"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232584700,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2196761,
+                        48.8147105
+                    ],
+                    [
+                        2.2194562,
+                        48.8145258
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232584701,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2196944,
+                        48.8147038
+                    ],
+                    [
+                        2.2200085,
+                        48.8149385
+                    ],
+                    [
+                        2.2202918,
+                        48.8150742
+                    ],
+                    [
+                        2.2204464,
+                        48.8151072
+                    ],
+                    [
+                        2.2207002,
+                        48.8151613
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 259269379,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2149601,
+                        48.8122353
+                    ],
+                    [
+                        2.215042,
+                        48.812281
+                    ],
+                    [
+                        2.2151377,
+                        48.8123344
+                    ],
+                    [
+                        2.2152831,
+                        48.8124211
+                    ],
+                    [
+                        2.2153859,
+                        48.8124844
+                    ],
+                    [
+                        2.2157839,
+                        48.8127533
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Issy-Les-Mx;Paris-Pte de Versailles;Meudon-Centre",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 263539465,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2066215,
+                        48.8097189
+                    ],
+                    [
+                        2.2059563,
+                        48.8094025
+                    ],
+                    [
+                        2.2058921,
+                        48.8093824
+                    ],
+                    [
+                        2.2057244,
+                        48.8093075
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "source": "Bing",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 263539469,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2073615,
+                        48.8191973
+                    ],
+                    [
+                        2.2075224,
+                        48.8190167
+                    ],
+                    [
+                        2.2076547,
+                        48.8188458
+                    ],
+                    [
+                        2.2076651,
+                        48.8188365
+                    ],
+                    [
+                        2.2078821,
+                        48.8186414
+                    ],
+                    [
+                        2.2087244,
+                        48.8177875
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Garenne",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 263539474,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2011304,
+                        48.8258892
+                    ],
+                    [
+                        2.200963,
+                        48.8258988
+                    ],
+                    [
+                        2.2006335,
+                        48.8259138
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de Ville d'Avray",
+                "ref": "D 407"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 268632037,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2087244,
+                        48.8177875
+                    ],
+                    [
+                        2.2099354,
+                        48.8165787
+                    ],
+                    [
+                        2.2104854,
+                        48.8159262
+                    ],
+                    [
+                        2.2109091,
+                        48.8152927
+                    ],
+                    [
+                        2.2109604,
+                        48.8152092
+                    ],
+                    [
+                        2.2114835,
+                        48.8144796
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Garenne",
+                "sidewalk": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 330651554,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2283967,
+                        48.8288
+                    ],
+                    [
+                        2.2252246,
+                        48.8278051
+                    ],
+                    [
+                        2.2251321,
+                        48.8277582
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "bridge": "yes",
+                "foot": "designated",
+                "footway": "sidewalk",
+                "highway": "path",
+                "layer": "2",
+                "name": "Pont de S\u00e8vres",
+                "segregated": "yes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 346092439,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2236401,
+                        48.8271576
+                    ],
+                    [
+                        2.2238963,
+                        48.827103
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "ref": "D 910",
+                "sidewalk": "right",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 346092441,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2194566,
+                        48.826475
+                    ],
+                    [
+                        2.2196955,
+                        48.8265765
+                    ],
+                    [
+                        2.2200645,
+                        48.8267146
+                    ],
+                    [
+                        2.2207725,
+                        48.8268453
+                    ],
+                    [
+                        2.2214811,
+                        48.8269762
+                    ],
+                    [
+                        2.2220447,
+                        48.8270759
+                    ],
+                    [
+                        2.2229026,
+                        48.8272276
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "ref": "D 910",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 346092442,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2229026,
+                        48.8272276
+                    ],
+                    [
+                        2.2230679,
+                        48.8272238
+                    ],
+                    [
+                        2.2233724,
+                        48.8271865
+                    ],
+                    [
+                        2.2234885,
+                        48.827172
+                    ],
+                    [
+                        2.2236401,
+                        48.8271576
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "ref": "D 910",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "turn:lanes": "slight_left|slight_left;through|through;right"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 355762755,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2012979,
+                        48.8271334
+                    ],
+                    [
+                        2.2011648,
+                        48.8269515
+                    ],
+                    [
+                        2.2010961,
+                        48.8268046
+                    ],
+                    [
+                        2.201095,
+                        48.826644
+                    ],
+                    [
+                        2.2011149,
+                        48.8261269
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Brancas",
+                "oneway": "yes",
+                "parking:lane:left": "parallel",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 442654674,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2121567,
+                        48.8242256
+                    ],
+                    [
+                        2.2120606,
+                        48.8243182
+                    ],
+                    [
+                        2.2119834,
+                        48.8243549
+                    ],
+                    [
+                        2.2118614,
+                        48.8243556
+                    ],
+                    [
+                        2.2115651,
+                        48.8243378
+                    ],
+                    [
+                        2.2110859,
+                        48.8242713
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Grande Rue",
+                "oneway": "no",
+                "ref": "D 407",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 442654675,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2120922,
+                        48.8241637
+                    ],
+                    [
+                        2.2119512,
+                        48.8240798
+                    ],
+                    [
+                        2.2118581,
+                        48.8240404
+                    ],
+                    [
+                        2.2115733,
+                        48.8239273
+                    ],
+                    [
+                        2.2113998,
+                        48.8238593
+                    ],
+                    [
+                        2.2111492,
+                        48.8237611
+                    ],
+                    [
+                        2.210586,
+                        48.8235404
+                    ],
+                    [
+                        2.2099191,
+                        48.8232711
+                    ],
+                    [
+                        2.2097985,
+                        48.8232195
+                    ],
+                    [
+                        2.209652,
+                        48.8231568
+                    ],
+                    [
+                        2.2086304,
+                        48.8227197
+                    ],
+                    [
+                        2.2085873,
+                        48.8227012
+                    ],
+                    [
+                        2.2083383,
+                        48.8225947
+                    ],
+                    [
+                        2.2081157,
+                        48.8225075
+                    ],
+                    [
+                        2.2076713,
+                        48.8223334
+                    ],
+                    [
+                        2.2073992,
+                        48.8222518
+                    ],
+                    [
+                        2.206677,
+                        48.8221142
+                    ],
+                    [
+                        2.2065497,
+                        48.822086
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de l'Europe",
+                "oneway": "yes",
+                "ref": "D 910",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 466157195,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.207858,
+                        48.8102829
+                    ],
+                    [
+                        2.2066215,
+                        48.8097189
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "source": "Bing",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 466157318,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2066442,
+                        48.8096444
+                    ],
+                    [
+                        2.2074839,
+                        48.8100585
+                    ],
+                    [
+                        2.2078955,
+                        48.8102445
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "source": "Bing",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 466157319,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2078955,
+                        48.8102445
+                    ],
+                    [
+                        2.2080172,
+                        48.8102995
+                    ],
+                    [
+                        2.208874,
+                        48.8106698
+                    ],
+                    [
+                        2.2090496,
+                        48.8107395
+                    ],
+                    [
+                        2.2100755,
+                        48.8111976
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "oneway": "yes",
+                "ref": "D 181",
+                "source": "Bing",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 503513331,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1996044,
+                        48.8196494
+                    ],
+                    [
+                        2.1996987,
+                        48.8197073
+                    ],
+                    [
+                        2.2002692,
+                        48.8200577
+                    ],
+                    [
+                        2.2007999,
+                        48.8203639
+                    ],
+                    [
+                        2.2011257,
+                        48.8205543
+                    ],
+                    [
+                        2.2011894,
+                        48.8205915
+                    ],
+                    [
+                        2.2016662,
+                        48.8208916
+                    ],
+                    [
+                        2.2017237,
+                        48.8209218
+                    ],
+                    [
+                        2.2018267,
+                        48.8209747
+                    ],
+                    [
+                        2.2020174,
+                        48.8210701
+                    ],
+                    [
+                        2.2022122,
+                        48.8211529
+                    ],
+                    [
+                        2.2024261,
+                        48.8212231
+                    ],
+                    [
+                        2.2024938,
+                        48.8212453
+                    ],
+                    [
+                        2.2026928,
+                        48.821301
+                    ],
+                    [
+                        2.2032048,
+                        48.8214443
+                    ],
+                    [
+                        2.2035689,
+                        48.8215465
+                    ],
+                    [
+                        2.2038004,
+                        48.8215967
+                    ],
+                    [
+                        2.2042693,
+                        48.8216671
+                    ],
+                    [
+                        2.2048194,
+                        48.8217386
+                    ],
+                    [
+                        2.2052953,
+                        48.8218018
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "ref": "D 910",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 544871741,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.225077,
+                        48.8279616
+                    ],
+                    [
+                        2.2248644,
+                        48.8278977
+                    ],
+                    [
+                        2.2247661,
+                        48.8278633
+                    ],
+                    [
+                        2.2246678,
+                        48.8278215
+                    ],
+                    [
+                        2.2244365,
+                        48.8277071
+                    ],
+                    [
+                        2.2242639,
+                        48.8276231
+                    ],
+                    [
+                        2.2241064,
+                        48.8275616
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "no",
+                "destination": "S\u00c8VRES;SAINT CLOUD;MUS\u00c9E NATIONAL DE C\u00c9RAMIQUE",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "2",
+                "maxspeed": "50",
+                "name": "Pont de S\u00e8vres",
+                "old_ref": "N 10",
+                "oneway": "yes",
+                "ref": "D 910",
+                "sidewalk": "right",
+                "source": "Bing;survey",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 545303743,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2052953,
+                        48.8218018
+                    ],
+                    [
+                        2.2054769,
+                        48.8218131
+                    ],
+                    [
+                        2.205667,
+                        48.8218406
+                    ],
+                    [
+                        2.2059216,
+                        48.8218705
+                    ],
+                    [
+                        2.2062359,
+                        48.8219358
+                    ],
+                    [
+                        2.2063833,
+                        48.8219461
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 545304379,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2121622,
+                        48.8240604
+                    ],
+                    [
+                        2.2122119,
+                        48.8240485
+                    ],
+                    [
+                        2.212263,
+                        48.8240488
+                    ],
+                    [
+                        2.2123034,
+                        48.8240578
+                    ],
+                    [
+                        2.2123471,
+                        48.8240801
+                    ],
+                    [
+                        2.2123766,
+                        48.8241144
+                    ],
+                    [
+                        2.2123837,
+                        48.8241423
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de l'Europe",
+                "note": "not a roundabount",
+                "oneway": "yes",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 545304383,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2123837,
+                        48.8241423
+                    ],
+                    [
+                        2.2123773,
+                        48.8241723
+                    ],
+                    [
+                        2.2123615,
+                        48.8241953
+                    ],
+                    [
+                        2.212347,
+                        48.8242082
+                    ],
+                    [
+                        2.2123008,
+                        48.8242313
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de l'Europe",
+                "note": "not a roundabount",
+                "oneway": "yes",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 545304386,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2123008,
+                        48.8242313
+                    ],
+                    [
+                        2.2122444,
+                        48.8242409
+                    ],
+                    [
+                        2.2122095,
+                        48.8242394
+                    ],
+                    [
+                        2.2121567,
+                        48.8242256
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de l'Europe",
+                "note": "not a roundabount",
+                "oneway": "yes",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 545306447,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2158364,
+                        48.8254122
+                    ],
+                    [
+                        2.2157102,
+                        48.8253789
+                    ],
+                    [
+                        2.2154081,
+                        48.8252666
+                    ],
+                    [
+                        2.2145186,
+                        48.8249959
+                    ],
+                    [
+                        2.2143482,
+                        48.8249456
+                    ],
+                    [
+                        2.2135253,
+                        48.8247028
+                    ],
+                    [
+                        2.2127346,
+                        48.824404
+                    ],
+                    [
+                        2.2124313,
+                        48.8242833
+                    ],
+                    [
+                        2.2123008,
+                        48.8242313
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "ref": "D 910"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 545306453,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.216016,
+                        48.8253473
+                    ],
+                    [
+                        2.2161552,
+                        48.8253895
+                    ],
+                    [
+                        2.2164718,
+                        48.8254996
+                    ],
+                    [
+                        2.2170926,
+                        48.8257026
+                    ],
+                    [
+                        2.2184077,
+                        48.8261325
+                    ],
+                    [
+                        2.2190466,
+                        48.8263432
+                    ],
+                    [
+                        2.2192637,
+                        48.8264073
+                    ],
+                    [
+                        2.2193788,
+                        48.8264515
+                    ],
+                    [
+                        2.2194566,
+                        48.826475
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "ref": "D 910",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 548189207,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2055929,
+                        48.8092332
+                    ],
+                    [
+                        2.2055934,
+                        48.809202
+                    ],
+                    [
+                        2.2056033,
+                        48.80918
+                    ],
+                    [
+                        2.2056423,
+                        48.8091462
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "note": "not a roundabount",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 548189208,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2058672,
+                        48.8092245
+                    ],
+                    [
+                        2.2058549,
+                        48.809255
+                    ],
+                    [
+                        2.2058254,
+                        48.8092821
+                    ],
+                    [
+                        2.2057856,
+                        48.8092998
+                    ],
+                    [
+                        2.2057244,
+                        48.8093075
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Route du Pav\u00e9 des Gardes",
+                "note": "not a roundabount",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 609070988,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2121567,
+                        48.8242256
+                    ],
+                    [
+                        2.2121204,
+                        48.8242038
+                    ],
+                    [
+                        2.2120922,
+                        48.8241637
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de l'Europe",
+                "note": "not a roundabount",
+                "oneway": "yes",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 670193811,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2158804,
+                        48.825446
+                    ],
+                    [
+                        2.2158746,
+                        48.8254881
+                    ],
+                    [
+                        2.2158308,
+                        48.8256025
+                    ],
+                    [
+                        2.2158293,
+                        48.8256909
+                    ],
+                    [
+                        2.2158534,
+                        48.8257513
+                    ],
+                    [
+                        2.2159509,
+                        48.8258105
+                    ],
+                    [
+                        2.2167165,
+                        48.8260476
+                    ],
+                    [
+                        2.2170641,
+                        48.826177
+                    ],
+                    [
+                        2.2172156,
+                        48.8262671
+                    ],
+                    [
+                        2.21732,
+                        48.8263596
+                    ],
+                    [
+                        2.2174952,
+                        48.8265672
+                    ],
+                    [
+                        2.2176666,
+                        48.8267353
+                    ],
+                    [
+                        2.2177812,
+                        48.8268088
+                    ],
+                    [
+                        2.2178954,
+                        48.8268498
+                    ],
+                    [
+                        2.218077,
+                        48.8269221
+                    ],
+                    [
+                        2.2181634,
+                        48.8269943
+                    ],
+                    [
+                        2.2182082,
+                        48.8270964
+                    ],
+                    [
+                        2.2181628,
+                        48.8272051
+                    ],
+                    [
+                        2.2180574,
+                        48.8272811
+                    ],
+                    [
+                        2.2179154,
+                        48.8273259
+                    ],
+                    [
+                        2.2177849,
+                        48.8273215
+                    ],
+                    [
+                        2.2174812,
+                        48.8271877
+                    ],
+                    [
+                        2.2169367,
+                        48.8269386
+                    ],
+                    [
+                        2.2165709,
+                        48.8267834
+                    ],
+                    [
+                        2.2154523,
+                        48.8264473
+                    ],
+                    [
+                        2.2151187,
+                        48.8263541
+                    ],
+                    [
+                        2.2146166,
+                        48.8262674
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Brancas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 670200766,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2089055,
+                        48.8238193
+                    ],
+                    [
+                        2.208747,
+                        48.8237515
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30"
+            }
+        }
+    ]
+}

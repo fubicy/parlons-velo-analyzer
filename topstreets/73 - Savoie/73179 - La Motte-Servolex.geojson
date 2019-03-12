@@ -1,0 +1,831 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29081376,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8782389,
+                        45.5963523
+                    ],
+                    [
+                        5.8782031,
+                        45.5963415
+                    ],
+                    [
+                        5.8772118,
+                        45.596057
+                    ],
+                    [
+                        5.8765172,
+                        45.5958668
+                    ],
+                    [
+                        5.8763483,
+                        45.5958181
+                    ],
+                    [
+                        5.8760443,
+                        45.5957304
+                    ],
+                    [
+                        5.8757257,
+                        45.5956119
+                    ],
+                    [
+                        5.8756076,
+                        45.595568
+                    ],
+                    [
+                        5.8752471,
+                        45.5953166
+                    ],
+                    [
+                        5.8751723,
+                        45.5951618
+                    ],
+                    [
+                        5.8749469,
+                        45.5946959
+                    ],
+                    [
+                        5.8745595,
+                        45.5940855
+                    ],
+                    [
+                        5.8742076,
+                        45.5935054
+                    ],
+                    [
+                        5.8741889,
+                        45.5934304
+                    ],
+                    [
+                        5.8741909,
+                        45.5933114
+                    ],
+                    [
+                        5.8741918,
+                        45.5932615
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxweight": "3.5",
+                "name": "Avenue Jean Moulin",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38659156,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.872376,
+                        45.5968337
+                    ],
+                    [
+                        5.8721699,
+                        45.5967734
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Avenue Th\u00e9odore Reinach",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38927271,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8765647,
+                        45.5971879
+                    ],
+                    [
+                        5.8768773,
+                        45.5971533
+                    ],
+                    [
+                        5.8776302,
+                        45.5970639
+                    ],
+                    [
+                        5.8777872,
+                        45.5970462
+                    ],
+                    [
+                        5.8779683,
+                        45.5970258
+                    ],
+                    [
+                        5.8781002,
+                        45.5967163
+                    ],
+                    [
+                        5.8782389,
+                        45.5963523
+                    ],
+                    [
+                        5.8783847,
+                        45.5960406
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue des Allobroges",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39358870,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8721699,
+                        45.5967734
+                    ],
+                    [
+                        5.8724016,
+                        45.5967647
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Avenue Th\u00e9odore Reinach",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39359760,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8788046,
+                        45.5951743
+                    ],
+                    [
+                        5.8787677,
+                        45.5952052
+                    ],
+                    [
+                        5.87871,
+                        45.5952215
+                    ],
+                    [
+                        5.8786736,
+                        45.5952188
+                    ],
+                    [
+                        5.8786565,
+                        45.5952065
+                    ],
+                    [
+                        5.8786267,
+                        45.5951859
+                    ],
+                    [
+                        5.8786112,
+                        45.5951427
+                    ],
+                    [
+                        5.8786175,
+                        45.5950993
+                    ],
+                    [
+                        5.878641,
+                        45.5950617
+                    ],
+                    [
+                        5.8786749,
+                        45.5950445
+                    ],
+                    [
+                        5.8787055,
+                        45.595036
+                    ],
+                    [
+                        5.8787468,
+                        45.5950408
+                    ],
+                    [
+                        5.8787845,
+                        45.5950559
+                    ],
+                    [
+                        5.8788114,
+                        45.5950784
+                    ],
+                    [
+                        5.8788257,
+                        45.595106
+                    ],
+                    [
+                        5.8788162,
+                        45.5951436
+                    ],
+                    [
+                        5.8788046,
+                        45.5951743
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "name": "Rue des Allobroges",
+                "note": "ce rond point n'est pas rond !",
+                "source": "bing",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40856627,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8783847,
+                        45.5960406
+                    ],
+                    [
+                        5.8784127,
+                        45.595968
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Rue des Allobroges",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40856628,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8784127,
+                        45.595968
+                    ],
+                    [
+                        5.8784266,
+                        45.5959204
+                    ],
+                    [
+                        5.8786004,
+                        45.5953039
+                    ],
+                    [
+                        5.8786736,
+                        45.5952188
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue des Allobroges",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46831850,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8748094,
+                        45.5973595
+                    ],
+                    [
+                        5.8750315,
+                        45.5973473
+                    ],
+                    [
+                        5.875223,
+                        45.5973361
+                    ],
+                    [
+                        5.8754129,
+                        45.5973115
+                    ],
+                    [
+                        5.875694,
+                        45.5972704
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue des Allobroges",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94923792,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8734127,
+                        45.5997702
+                    ],
+                    [
+                        5.8727405,
+                        45.5996056
+                    ],
+                    [
+                        5.8725994,
+                        45.5995036
+                    ],
+                    [
+                        5.8719813,
+                        45.5993919
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Clos Saint-Exup\u00e9ry",
+                "source": "BING"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145662541,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8915815,
+                        45.6068142
+                    ],
+                    [
+                        5.8917922,
+                        45.6064801
+                    ],
+                    [
+                        5.892052,
+                        45.6060498
+                    ],
+                    [
+                        5.89211,
+                        45.6059177
+                    ],
+                    [
+                        5.8921368,
+                        45.6057913
+                    ],
+                    [
+                        5.8921427,
+                        45.6056787
+                    ],
+                    [
+                        5.8920772,
+                        45.6048672
+                    ],
+                    [
+                        5.8921058,
+                        45.6046927
+                    ],
+                    [
+                        5.8921485,
+                        45.6045892
+                    ],
+                    [
+                        5.8922246,
+                        45.6044678
+                    ],
+                    [
+                        5.8924413,
+                        45.6041761
+                    ],
+                    [
+                        5.8929416,
+                        45.6034677
+                    ],
+                    [
+                        5.8932078,
+                        45.6031002
+                    ],
+                    [
+                        5.8932831,
+                        45.6029682
+                    ],
+                    [
+                        5.8933212,
+                        45.6028752
+                    ],
+                    [
+                        5.8933501,
+                        45.602752
+                    ],
+                    [
+                        5.8933592,
+                        45.6026357
+                    ],
+                    [
+                        5.8933439,
+                        45.6025419
+                    ],
+                    [
+                        5.8933054,
+                        45.6024287
+                    ],
+                    [
+                        5.8932616,
+                        45.6023257
+                    ],
+                    [
+                        5.893164,
+                        45.6021903
+                    ],
+                    [
+                        5.89293,
+                        45.6018782
+                    ],
+                    [
+                        5.8928368,
+                        45.601747
+                    ],
+                    [
+                        5.8927681,
+                        45.6016069
+                    ],
+                    [
+                        5.892725,
+                        45.6014906
+                    ],
+                    [
+                        5.8927059,
+                        45.6013336
+                    ],
+                    [
+                        5.8927166,
+                        45.6011762
+                    ],
+                    [
+                        5.8927437,
+                        45.6010498
+                    ],
+                    [
+                        5.8927843,
+                        45.6009471
+                    ],
+                    [
+                        5.8928584,
+                        45.6008082
+                    ],
+                    [
+                        5.8931777,
+                        45.600288
+                    ],
+                    [
+                        5.8933439,
+                        45.6000233
+                    ],
+                    [
+                        5.8935215,
+                        45.5998016
+                    ],
+                    [
+                        5.8936914,
+                        45.5995909
+                    ],
+                    [
+                        5.8938795,
+                        45.5993997
+                    ],
+                    [
+                        5.8940209,
+                        45.5992697
+                    ],
+                    [
+                        5.8941304,
+                        45.5991855
+                    ],
+                    [
+                        5.8942769,
+                        45.5990834
+                    ],
+                    [
+                        5.8947866,
+                        45.5987285
+                    ],
+                    [
+                        5.895056,
+                        45.5985488
+                    ],
+                    [
+                        5.8956428,
+                        45.5981189
+                    ],
+                    [
+                        5.8963065,
+                        45.5976508
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue des Landiers",
+                "ref": "D 10",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 439792908,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8730378,
+                        45.596886
+                    ],
+                    [
+                        5.8731221,
+                        45.5969002
+                    ],
+                    [
+                        5.8734619,
+                        45.5969572
+                    ],
+                    [
+                        5.873788,
+                        45.5970292
+                    ],
+                    [
+                        5.8742258,
+                        45.5971614
+                    ],
+                    [
+                        5.8746377,
+                        45.5973175
+                    ],
+                    [
+                        5.8748094,
+                        45.5973595
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Avenue Th\u00e9odore Reinach",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 439792909,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8730378,
+                        45.596886
+                    ],
+                    [
+                        5.8726928,
+                        45.5968902
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue Th\u00e9odore Reinach",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 439792910,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8727128,
+                        45.5968044
+                    ],
+                    [
+                        5.8728041,
+                        45.5968145
+                    ],
+                    [
+                        5.8730378,
+                        45.596886
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue Th\u00e9odore Reinach",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 439792918,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8675995,
+                        45.5959306
+                    ],
+                    [
+                        5.8678965,
+                        45.5960681
+                    ],
+                    [
+                        5.8685339,
+                        45.5962552
+                    ],
+                    [
+                        5.8688763,
+                        45.5963175
+                    ],
+                    [
+                        5.8693092,
+                        45.5963569
+                    ],
+                    [
+                        5.869968,
+                        45.5964205
+                    ],
+                    [
+                        5.8705041,
+                        45.5964645
+                    ],
+                    [
+                        5.8709491,
+                        45.5965375
+                    ],
+                    [
+                        5.8710467,
+                        45.5965635
+                    ],
+                    [
+                        5.8718428,
+                        45.59674
+                    ],
+                    [
+                        5.8721699,
+                        45.5967734
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Avenue Th\u00e9odore Reinach",
+                "ref:FR:FANTOIR": "731790740N",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 439792919,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8675995,
+                        45.5959306
+                    ],
+                    [
+                        5.8673767,
+                        45.5958994
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Avenue Th\u00e9odore Reinach",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 439792920,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8674516,
+                        45.5958037
+                    ],
+                    [
+                        5.8675995,
+                        45.5959306
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Avenue Th\u00e9odore Reinach",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 521101666,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8759,
+                        45.5972485
+                    ],
+                    [
+                        5.8765647,
+                        45.5971879
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue des Allobroges",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 521101668,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.875694,
+                        45.5972704
+                    ],
+                    [
+                        5.8757953,
+                        45.5972596
+                    ],
+                    [
+                        5.8759,
+                        45.5972485
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue des Allobroges",
+                "surface": "asphalt",
+                "traffic_calming": "table"
+            }
+        }
+    ]
+}

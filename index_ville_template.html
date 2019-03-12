@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://fubicy.github.io/parlons-velo-analyzer/assets/css/style.css">
+</head>
+
+<body>
+  <header class="page-header" role="banner">
+    <h1>Résultat pour {{TOWN_NAME}}</h1>
+  </header>
+
+
+
+  <main id="content" class="main-content" role="main">
+    Sur l'ensemble de la ville il y a eu <strong>{{NB_RESPONSES}}</strong> réponses dont <strong>{{NB_RESPONSES_WITH_STREET}}</strong> réponses avec une rue citée
+    (<strong>{{NB_RESPONSES_PERCENT}}%</strong>)
+    <br/>
+    <br/><strong>{{NB_POINTS_NOIRS}}</strong> points noirs identifiés
+    <br/>
+    <br/> {{MAP_CONTENT}}
+    <br/>
+    <table>
+      <thead>
+        <tr>
+          <th style="padding: 6px 13px;">Rue</th>
+          <th style="padding: 6px 13px;">Vote</th>
+          <th style="padding: 6px 13px;"> % réponses</th>
+          <th style="padding: 6px 13px;">% Nb rues cités</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{STREETS_LIST}}
+      </tbody>
+    </table>
+
+    <footer class="site-footer">
+      <span>Cette page a été générée par
+        <a href="https://github.com/fubicy/parlons-velo-analyzer/">Parlons vélo analyzer</a>.</span>
+    </footer>
+  </main>
+</body>
+
+</html>

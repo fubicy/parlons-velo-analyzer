@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 38616370,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.2960015,
+                        45.7467991
+                    ],
+                    [
+                        6.2962576,
+                        45.7469109
+                    ],
+                    [
+                        6.2965331,
+                        45.7470624
+                    ],
+                    [
+                        6.2966541,
+                        45.747129
+                    ],
+                    [
+                        6.2973257,
+                        45.747518
+                    ],
+                    [
+                        6.2974529,
+                        45.7475917
+                    ],
+                    [
+                        6.2977041,
+                        45.7477373
+                    ],
+                    [
+                        6.2987102,
+                        45.7483201
+                    ],
+                    [
+                        6.3003587,
+                        45.7492845
+                    ],
+                    [
+                        6.3021412,
+                        45.7503161
+                    ],
+                    [
+                        6.3038674,
+                        45.7513152
+                    ],
+                    [
+                        6.3040878,
+                        45.7514427
+                    ],
+                    [
+                        6.3042004,
+                        45.7515081
+                    ],
+                    [
+                        6.3046747,
+                        45.7517838
+                    ],
+                    [
+                        6.3095533,
+                        45.7546188
+                    ],
+                    [
+                        6.3097968,
+                        45.754767
+                    ],
+                    [
+                        6.3100561,
+                        45.7549889
+                    ],
+                    [
+                        6.31015,
+                        45.7551042
+                    ],
+                    [
+                        6.3102314,
+                        45.755204
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route d'Albertville",
+                "ref": "D 2508",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185951078,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.3102314,
+                        45.755204
+                    ],
+                    [
+                        6.3104158,
+                        45.7555962
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route d'Albertville",
+                "oneway": "yes",
+                "ref": "D 2508",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248369892,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.240901,
+                        45.7718182
+                    ],
+                    [
+                        6.2480773,
+                        45.7663164
+                    ],
+                    [
+                        6.2491347,
+                        45.7655387
+                    ],
+                    [
+                        6.2496902,
+                        45.7652439
+                    ],
+                    [
+                        6.2502557,
+                        45.764995
+                    ],
+                    [
+                        6.2540662,
+                        45.763384
+                    ],
+                    [
+                        6.2549939,
+                        45.7630177
+                    ],
+                    [
+                        6.2550309,
+                        45.7630031
+                    ],
+                    [
+                        6.255067,
+                        45.7629888
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "hgv:conditional": "no @ (Feb 10,17,24 07:00-18:00,22:00-24:00; Mar 3,10 07:00-18:00,22:00-24:00; Jul 21,28 07:00-19:00; Aug 4,11,18 07:00-19:00 AND weight>7.5)",
+                "highway": "primary",
+                "horse": "no",
+                "maxspeed": "80",
+                "motor_vehicle": "yes",
+                "name": "Route d'Albertville",
+                "old_ref": "N 508",
+                "oneway": "no",
+                "ref": "D 1508",
+                "sidewalk": "none",
+                "surface": "asphalt"
+            }
+        }
+    ]
+}

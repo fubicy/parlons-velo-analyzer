@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 206161883,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1456154,
+                        49.1180525
+                    ],
+                    [
+                        6.1475077,
+                        49.1173487
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Pont de Verdun",
+                "oneway": "yes",
+                "ref": "D 157a",
+                "seamark:bridge:category": "fixed",
+                "seamark:bridge:clearance_height": "6.60",
+                "seamark:type": "bridge",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 527080484,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1476271,
+                        49.1174074
+                    ],
+                    [
+                        6.1446689,
+                        49.1185028
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "name": "Pont de Verdun",
+                "oneway": "yes",
+                "ref": "D 157a",
+                "seamark:bridge:category": "fixed",
+                "seamark:bridge:clearance_height": "6.60",
+                "seamark:type": "bridge",
+                "surface": "asphalt"
+            }
+        }
+    ]
+}
