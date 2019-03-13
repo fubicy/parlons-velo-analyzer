@@ -38,8 +38,8 @@ Sur l'ensemble du téritoire, il y a eu 81005 réponses dont 50075 réponses ave
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/17 - Charente-Maritime/index.html'>17 - Charente-Maritime</a>|1106|506(45%)|<img src="img/bar_22.gif" />&nbsp;157|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/18 - Cher/index.html'>18 - Cher</a>|456|233(51%)|<img src="img/bar_10.gif" />&nbsp;74|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/19 - Corrèze/index.html'>19 - Corrèze</a>|124|35(28%)|<img src="img/bar_3.gif" />&nbsp;22|
-|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/21 - Côte-d'Or/index.html'>21 - Côte-d'Or</a>|1053|2062(195%)|<img src="img/bar_23.gif" />&nbsp;165|
-|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/22 - Côtes-d'Armor/index.html'>22 - Côtes-d'Armor</a>|265|89(33%)|<img src="img/bar_8.gif" />&nbsp;59|
+|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/21 - Côte-d_Or/index.html'>21 - Côte-d'Or</a>|1053|2062(195%)|<img src="img/bar_23.gif" />&nbsp;165|
+|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/22 - Côtes-d_Armor/index.html'>22 - Côtes-d'Armor</a>|265|89(33%)|<img src="img/bar_8.gif" />&nbsp;59|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/23 - Creuse/index.html'>23 - Creuse</a>|2|0(0%)|<img src="img/bar_0.gif" />&nbsp;0|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/24 - Dordogne/index.html'>24 - Dordogne</a>|60|36(60%)|<img src="img/bar_3.gif" />&nbsp;23|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/25 - Doubs/index.html'>25 - Doubs</a>|695|390(56%)|<img src="img/bar_16.gif" />&nbsp;112|
@@ -114,5 +114,5 @@ Sur l'ensemble du téritoire, il y a eu 81005 réponses dont 50075 réponses ave
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/92 - Hauts-de-Seine/index.html'>92 - Hauts-de-Seine</a>|2767|1797(64%)|<img src="img/bar_84.gif" />&nbsp;581|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/93 - Seine-Saint-Denis/index.html'>93 - Seine-Saint-Denis</a>|1061|741(69%)|<img src="img/bar_33.gif" />&nbsp;231|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/94 - Val-de-Marne/index.html'>94 - Val-de-Marne</a>|1302|757(58%)|<img src="img/bar_44.gif" />&nbsp;310|
-|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/95 - Val-d'Oise/index.html'>95 - Val-d'Oise</a>|368|173(47%)|<img src="img/bar_13.gif" />&nbsp;90|
+|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/95 - Val-d_Oise/index.html'>95 - Val-d'Oise</a>|368|173(47%)|<img src="img/bar_13.gif" />&nbsp;90|
 | **Total** |81005|50075(61%)|12998|

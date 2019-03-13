@@ -347,7 +347,9 @@ def write_main_readme():
         for kd,v in sorted(stats['dep'].items()):
             backspots_percent = int(v['nb_points_noirs']/stats['total']['max_nb_points_noirs']*100.0)
             percent_bar = html_percent_bar('img',backspots_percent)
-            docfile.write(f"|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/{v['title']}/index.html'>{v['title']}</a>|{v['nb_responses']}|{v['nb_responses_with_street']}({v['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{v['nb_points_noirs']}|\n")             
+
+            path = v['title'].replace("'","_")
+            docfile.write(f"|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/{path}/index.html'>{v['title']}</a>|{v['nb_responses']}|{v['nb_responses_with_street']}({v['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{v['nb_points_noirs']}|\n")             
 
         docfile.write(f"| **Total** |{stats['total']['nb_responses']}|{stats['total']['nb_responses_with_street']}({stats['total']['nb_responses_with_street_percent']}%)|{stats['total']['nb_points_noirs']}|\n")             
 
@@ -357,7 +359,9 @@ def write_main_html():
     for kd,v in sorted(stats['dep'].items()):
         backspots_percent = int(v['nb_points_noirs']/stats['total']['max_nb_points_noirs']*100.0)
         percent_bar = html_percent_bar('img',backspots_percent)
-        deps_info += f"<tr><td><a href='topstreets/{v['title']}/index.html'>{v['title']}</a></td><td>{v['nb_responses']}</td><td>{v['nb_responses_with_street']}({v['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{v['nb_points_noirs']}</td></tr>\n"
+        
+        path = v['title'].replace("'","_")
+        deps_info += f"<tr><td><a href='topstreets/{path}/index.html'>{v['title']}</a></td><td>{v['nb_responses']}</td><td>{v['nb_responses_with_street']}({v['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{v['nb_points_noirs']}</td></tr>\n"
 
 
     deps_info += f"<tr><td><strong>Total</strong></td><td>{stats['total']['nb_responses']}</td><td>{stats['total']['nb_responses_with_street']}({stats['total']['nb_responses_with_street_percent']}%)</td><td>{stats['total']['nb_points_noirs']}</td></tr>\n"
@@ -380,7 +384,8 @@ def write_departments_readme():
     # Write stats
     for kd,d in sorted(stats['dep'].items()):
 
-        deppath = f"topstreets/{d['title']}"
+        path = d['title'].replace("'","_")
+        deppath = f"topstreets/{path}"
         os.makedirs(deppath,exist_ok=True)
 
         filename = f"{deppath}/README.md"
@@ -397,7 +402,8 @@ def write_departments_readme():
                     backspots_percent = int(t['nb_points_noirs']/stats['dep'][kd]['max_nb_points_noirs']*100.0)
                 
                 percent_bar = html_percent_bar('../../img',backspots_percent)
-                docfile.write("|<a href='{t['title']}.md'>{t['title']}</a>|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|\n")             
+                tfile = t['title'].replace("'","_")
+                docfile.write("|<a href='{tfile}.md'>{t['title']}</a>|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|\n")             
 
             docfile.write(f"| **Total** |{d['nb_responses']}|{d['nb_responses_with_street']}({d['nb_responses_with_street_percent']}%)|{d['nb_points_noirs']}|\n")             
 
@@ -405,7 +411,8 @@ def write_departments_html():
     # Write stats
     for kd,d in sorted(stats['dep'].items()):
 
-        deppath = f"topstreets/{d['title']}"
+        path = d['title'].replace("'","_")
+        deppath = f"topstreets/{path}"
         os.makedirs(deppath,exist_ok=True)
         filename = f"{deppath}/index.html"
 
@@ -416,7 +423,8 @@ def write_departments_html():
                 backspots_percent = int(t['nb_points_noirs']/stats['dep'][kd]['max_nb_points_noirs']*100.0)
             
             percent_bar = html_percent_bar('../../img',backspots_percent)
-            cities_info += f"<tr><td><a href='{t['title']}.html'>{t['title']}</a></td><td>{t['nb_responses']}</td><td>{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{t['nb_points_noirs']}</td></tr>\n"             
+            tfile = t['title'].replace("'","_")
+            cities_info += f"<tr><td><a href='{tfile}.html'>{t['title']}</a></td><td>{t['nb_responses']}</td><td>{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{t['nb_points_noirs']}</td></tr>\n"             
 
         cities_info += f"<tr><td> <strong>Total</strong> </td><td>{d['nb_responses']}</td><td>{d['nb_responses_with_street']}({d['nb_responses_with_street_percent']}%)</td><td>{d['nb_points_noirs']}</td></tr>\n"
 
@@ -447,7 +455,8 @@ def folium_style_function(feature):
 def write_towns_result():
     # Write stats
     for kd,d in sorted(stats['dep'].items()):
-        deppath = f"topstreets/{d['title']}"
+        path = d['title'].replace("'","_")
+        deppath = f"topstreets/{path}"
         for kt, t in sorted(stats['dep'][kd]['towns'].items()):
             townname = t['title']
             nb_responses = t['nb_responses']
@@ -455,9 +464,10 @@ def write_towns_result():
             nb_responses_with_street_percent = t['nb_responses_with_street_percent']
             nb_points_noirs = t['nb_points_noirs']
 
-            docfilename = f"{deppath}/{townname}.md"
-            mapfilename = f"{deppath}/{townname}.html"
-            gjsonfilename = f"{deppath}/{townname}.geojson"
+            tfile = townname.replace("'", " ")
+            docfilename = f"{deppath}/{tfile}.md"
+            mapfilename = f"{deppath}/{tfile}.html"
+            gjsonfilename = f"{deppath}/{tfile}.geojson"
             html_streets_list = ""
             try:
                 with open(docfilename, 'w') as docfile:
