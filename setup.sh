@@ -10,8 +10,8 @@ pip install -r requirements.txt
 # Télécharge les fichiers depuis le projet https://github.com/jesuisundesdeux/osm-tools
 if [ ! -d osm ]; then
     mkdir osm
-    wget -O osm/villes.csv https://github.com/jesuisundesdeux/osm-tools/blob/master/datas/villes.csv
-    wget -O osm/departements.csv https://github.com/jesuisundesdeux/osm-tools/blob/master/datas/departements.csv
+    wget -O osm/villes.csv 'https://github.com/jesuisundesdeux/osm-tools/blob/master/datas/villes.csv?raw=true'
+    wget -O osm/departements.csv 'https://github.com/jesuisundesdeux/osm-tools/blob/master/datas/departements.csv?raw=true'
 fi
 
 # Run and download geofabrik france map
