@@ -1,12 +1,14 @@
 # parlons-velo-analyzer
 Analyse des réponses du questionnaire de la FUB
 
-```
-# Generate Markdown files
-python top_streets.py
+## Installation
+Lance l'installation des prérequis, assez long, car lance à la fin le téléchargement et l'import de la map dans le serveur overpass local(docker)
+`./setup.sh` 
 
-# Test markdown content
-docker run --rm -v $(pwd):/root/docs:ro -p 80:80 -t -i fstab/grip grip /root/docs/README.md 0.0.0.0:80
+## Execution
+```
+# Generation des fichiers Markdown et Html
+python top_streets.py
 ```
 
 Les résultats sont dans le repertoire topstreets

@@ -403,7 +403,12 @@ def write_departments_readme():
                 
                 percent_bar = html_percent_bar('../../img',backspots_percent)
                 tfile = t['title'].replace("'","_")
-                docfile.write("|<a href='{tfile}.md'>{t['title']}</a>|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|\n")             
+                
+                if t['nb_responses_with_street']>0:
+                    docfile.write("|<a href='{tfile}.md'>{t['title']}</a>|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|\n")             
+                else:
+                    docfile.write("|{t['title']}|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|\n")             
+
 
             docfile.write(f"| **Total** |{d['nb_responses']}|{d['nb_responses_with_street']}({d['nb_responses_with_street_percent']}%)|{d['nb_points_noirs']}|\n")             
 
@@ -424,7 +429,11 @@ def write_departments_html():
             
             percent_bar = html_percent_bar('../../img',backspots_percent)
             tfile = t['title'].replace("'","_")
-            cities_info += f"<tr><td><a href='{tfile}.html'>{t['title']}</a></td><td>{t['nb_responses']}</td><td>{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{t['nb_points_noirs']}</td></tr>\n"             
+
+            if t['nb_responses_with_street']>0:
+                cities_info += f"<tr><td><a href='{tfile}.html'>{t['title']}</a></td><td>{t['nb_responses']}</td><td>{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{t['nb_points_noirs']}</td></tr>\n"             
+            else:
+                cities_info += f"<tr><td>{t['title']}</td><td>{t['nb_responses']}</td><td>{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{t['nb_points_noirs']}</td></tr>\n"             
 
         cities_info += f"<tr><td> <strong>Total</strong> </td><td>{d['nb_responses']}</td><td>{d['nb_responses_with_street']}({d['nb_responses_with_street_percent']}%)</td><td>{d['nb_points_noirs']}</td></tr>\n"
 

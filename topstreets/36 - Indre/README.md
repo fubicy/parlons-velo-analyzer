@@ -6,6 +6,6 @@ Sur l'ensemble du département, il y a eu 220 réponses dont 88 réponses avec u
 |-------------|-------------|----------------------|-----------------|
 |<a href='{tfile}.md'>{t['title']}</a>|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|
 |<a href='{tfile}.md'>{t['title']}</a>|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|
-|<a href='{tfile}.md'>{t['title']}</a>|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|
+|{t['title']}|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|
 |<a href='{tfile}.md'>{t['title']}</a>|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|
 | **Total** |220|88(40%)|34|
