@@ -15,9 +15,7 @@ if [ ! -d osm ]; then
 fi
 
 # Run and download geofabrik france map
-if [ ! -d data ]; then
-    docker run --rm -it \
-        -e PLANET_URL="https://download.geofabrik.de/europe/france-latest.osm.bz2" \
-        -e FLUSH_SIZE=4 \
-        -p 80:80 -v $(pwd)/data:/data badele/overpass-api:0.7.55
-fi
+docker run --rm -it \
+    -e PLANET_URL="https://download.geofabrik.de/europe/france-latest.osm.bz2" \
+    -e FLUSH_SIZE=4 \
+    -p 80:80 -v $(pwd)/data:/data badele/overpass-api:0.7.55
