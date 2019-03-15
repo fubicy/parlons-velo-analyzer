@@ -1,0 +1,1521 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 9926687,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0934607,
+                        48.434196
+                    ],
+                    [
+                        0.0933422,
+                        48.4343418
+                    ],
+                    [
+                        0.0932689,
+                        48.4344174
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard de Strasbourg",
+                "oneway": "-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9926690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0748026,
+                        48.4318539
+                    ],
+                    [
+                        0.0736833,
+                        48.4320184
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "oneway": "no",
+                "ref": "D 112",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9926695,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0834677,
+                        48.4304529
+                    ],
+                    [
+                        0.0833691,
+                        48.4305238
+                    ],
+                    [
+                        0.0832996,
+                        48.4305732
+                    ],
+                    [
+                        0.0831718,
+                        48.4306161
+                    ],
+                    [
+                        0.0827828,
+                        48.4306712
+                    ],
+                    [
+                        0.082712,
+                        48.430681
+                    ],
+                    [
+                        0.0825768,
+                        48.4306997
+                    ],
+                    [
+                        0.0824599,
+                        48.4307158
+                    ],
+                    [
+                        0.082411,
+                        48.4307234
+                    ],
+                    [
+                        0.0820843,
+                        48.4307745
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9926758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0831692,
+                        48.4388612
+                    ],
+                    [
+                        0.083012,
+                        48.4388196
+                    ],
+                    [
+                        0.0817612,
+                        48.4384436
+                    ],
+                    [
+                        0.0812775,
+                        48.4383018
+                    ],
+                    [
+                        0.0809731,
+                        48.4382071
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard M\u00e9zeray",
+                "ref": "D 112"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23981278,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0898275,
+                        48.423227
+                    ],
+                    [
+                        0.089924,
+                        48.4233553
+                    ],
+                    [
+                        0.0901964,
+                        48.4237175
+                    ],
+                    [
+                        0.090242,
+                        48.4237744
+                    ],
+                    [
+                        0.090443,
+                        48.4240255
+                    ],
+                    [
+                        0.091073,
+                        48.4248126
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard de la R\u00e9publique",
+                "ref": "D 438"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23981432,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0897059,
+                        48.4230682
+                    ],
+                    [
+                        0.0896697,
+                        48.4229682
+                    ],
+                    [
+                        0.0896546,
+                        48.4225674
+                    ],
+                    [
+                        0.0896306,
+                        48.4224695
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "ref": "D 438",
+                "turn:lanes:backward": "through|right",
+                "turn:lanes:forward": "through|right"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31642104,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0890594,
+                        48.4304439
+                    ],
+                    [
+                        0.0889506,
+                        48.4303442
+                    ],
+                    [
+                        0.08891,
+                        48.4302989
+                    ],
+                    [
+                        0.0888979,
+                        48.4302863
+                    ],
+                    [
+                        0.0887038,
+                        48.4300903
+                    ],
+                    [
+                        0.0886463,
+                        48.4300323
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "name": "Grande Rue",
+                "psv": "destination",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31642105,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0881235,
+                        48.4295099
+                    ],
+                    [
+                        0.0874194,
+                        48.4291775
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54048347,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0856337,
+                        48.4327623
+                    ],
+                    [
+                        0.0858398,
+                        48.4327153
+                    ],
+                    [
+                        0.0859306,
+                        48.4326899
+                    ],
+                    [
+                        0.0871611,
+                        48.4322688
+                    ],
+                    [
+                        0.0874402,
+                        48.4321754
+                    ],
+                    [
+                        0.0882763,
+                        48.4317863
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Cours Clemenceau",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54048352,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0770693,
+                        48.4315105
+                    ],
+                    [
+                        0.0769004,
+                        48.431536
+                    ],
+                    [
+                        0.076384,
+                        48.431613
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54048356,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0848173,
+                        48.4321712
+                    ],
+                    [
+                        0.0847527,
+                        48.4320824
+                    ],
+                    [
+                        0.084688,
+                        48.4319937
+                    ],
+                    [
+                        0.0845784,
+                        48.4317724
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Coll\u00e8ge",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102161071,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0894815,
+                        48.4151163
+                    ],
+                    [
+                        0.089425,
+                        48.4150012
+                    ],
+                    [
+                        0.0893806,
+                        48.4148585
+                    ],
+                    [
+                        0.0893853,
+                        48.4146722
+                    ],
+                    [
+                        0.089377,
+                        48.4142484
+                    ],
+                    [
+                        0.0893547,
+                        48.4136586
+                    ],
+                    [
+                        0.0893404,
+                        48.4131617
+                    ],
+                    [
+                        0.0893121,
+                        48.4126901
+                    ],
+                    [
+                        0.0892692,
+                        48.411761
+                    ],
+                    [
+                        0.0892391,
+                        48.4106467
+                    ],
+                    [
+                        0.089255,
+                        48.4105442
+                    ],
+                    [
+                        0.0892676,
+                        48.4104645
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "ref": "D 438"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112146381,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0896014,
+                        48.4222611
+                    ],
+                    [
+                        0.0896078,
+                        48.4216422
+                    ],
+                    [
+                        0.0896082,
+                        48.4216227
+                    ],
+                    [
+                        0.0896032,
+                        48.4213668
+                    ],
+                    [
+                        0.0895805,
+                        48.4204806
+                    ],
+                    [
+                        0.0895645,
+                        48.4198558
+                    ],
+                    [
+                        0.0895517,
+                        48.4193539
+                    ],
+                    [
+                        0.089533,
+                        48.4188433
+                    ],
+                    [
+                        0.0895138,
+                        48.4179397
+                    ],
+                    [
+                        0.0894247,
+                        48.41565
+                    ],
+                    [
+                        0.0894354,
+                        48.4154571
+                    ],
+                    [
+                        0.0894917,
+                        48.415299
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "ref": "D 438"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150236500,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0996224,
+                        48.4421806
+                    ],
+                    [
+                        0.0997318,
+                        48.4424482
+                    ],
+                    [
+                        0.0999866,
+                        48.4428971
+                    ],
+                    [
+                        0.1008852,
+                        48.4442699
+                    ],
+                    [
+                        0.101266,
+                        48.4448535
+                    ],
+                    [
+                        0.1018634,
+                        48.4456319
+                    ],
+                    [
+                        0.1028554,
+                        48.4468803
+                    ],
+                    [
+                        0.1041298,
+                        48.4482971
+                    ],
+                    [
+                        0.1056769,
+                        48.449743
+                    ],
+                    [
+                        0.1076831,
+                        48.4513364
+                    ],
+                    [
+                        0.108893,
+                        48.4523023
+                    ],
+                    [
+                        0.1092215,
+                        48.4525598
+                    ],
+                    [
+                        0.1101549,
+                        48.4532336
+                    ],
+                    [
+                        0.1102751,
+                        48.4533479
+                    ],
+                    [
+                        0.1104265,
+                        48.4535974
+                    ],
+                    [
+                        0.1106957,
+                        48.4538058
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "path",
+                "motor_vehicle": "no",
+                "name": "Voie Verte",
+                "railway": "abandoned",
+                "segregated": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151050717,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0874194,
+                        48.4291775
+                    ],
+                    [
+                        0.087005,
+                        48.4289283
+                    ],
+                    [
+                        0.0869275,
+                        48.4288891
+                    ],
+                    [
+                        0.086729,
+                        48.4287889
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155785051,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0932689,
+                        48.4344174
+                    ],
+                    [
+                        0.0917505,
+                        48.4352152
+                    ],
+                    [
+                        0.0915898,
+                        48.4353043
+                    ],
+                    [
+                        0.0914769,
+                        48.43537
+                    ],
+                    [
+                        0.0908766,
+                        48.435705
+                    ],
+                    [
+                        0.0904597,
+                        48.4359247
+                    ],
+                    [
+                        0.0894931,
+                        48.4364342
+                    ],
+                    [
+                        0.0890934,
+                        48.4366459
+                    ],
+                    [
+                        0.0887817,
+                        48.436811
+                    ],
+                    [
+                        0.0882998,
+                        48.4370662
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard de Strasbourg",
+                "ref": "D 112",
+                "source:maxspeed": "FR:urban"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155796083,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0937658,
+                        48.4281134
+                    ],
+                    [
+                        0.0940289,
+                        48.4284323
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard de la R\u00e9publique",
+                "ref": "D 438"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188212418,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0736833,
+                        48.4320184
+                    ],
+                    [
+                        0.0734397,
+                        48.4320537
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "oneway": "no",
+                "ref": "D 112",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202668033,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0958407,
+                        48.4306532
+                    ],
+                    [
+                        0.0958703,
+                        48.4307047
+                    ],
+                    [
+                        0.0958723,
+                        48.4307506
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard de la R\u00e9publique",
+                "ref": "D 438"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202671691,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0663468,
+                        48.4330727
+                    ],
+                    [
+                        0.0661842,
+                        48.4331085
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "oneway": "no",
+                "ref": "D 112",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202671698,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0734397,
+                        48.4320537
+                    ],
+                    [
+                        0.0723939,
+                        48.4322134
+                    ],
+                    [
+                        0.0715449,
+                        48.432335
+                    ],
+                    [
+                        0.0713642,
+                        48.4323605
+                    ],
+                    [
+                        0.0705278,
+                        48.4324837
+                    ],
+                    [
+                        0.0693896,
+                        48.4326429
+                    ],
+                    [
+                        0.0689627,
+                        48.432704
+                    ],
+                    [
+                        0.0679196,
+                        48.4328532
+                    ],
+                    [
+                        0.0665426,
+                        48.4330416
+                    ],
+                    [
+                        0.0663468,
+                        48.4330727
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "oneway": "no",
+                "ref": "D 112",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225902461,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0886463,
+                        48.4300323
+                    ],
+                    [
+                        0.0881235,
+                        48.4295099
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "name": "Grande Rue",
+                "psv": "destination",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225904874,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0820843,
+                        48.4307745
+                    ],
+                    [
+                        0.0819469,
+                        48.430796
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225904880,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0805954,
+                        48.4310068
+                    ],
+                    [
+                        0.0804683,
+                        48.4310258
+                    ],
+                    [
+                        0.0792269,
+                        48.4312112
+                    ],
+                    [
+                        0.0791468,
+                        48.4312146
+                    ],
+                    [
+                        0.0776206,
+                        48.4314353
+                    ],
+                    [
+                        0.0775523,
+                        48.4314569
+                    ],
+                    [
+                        0.0773885,
+                        48.4314748
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 230093169,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0845287,
+                        48.4316195
+                    ],
+                    [
+                        0.0843436,
+                        48.4314417
+                    ],
+                    [
+                        0.0841617,
+                        48.4312653
+                    ],
+                    [
+                        0.08392,
+                        48.4310163
+                    ],
+                    [
+                        0.0838443,
+                        48.4308919
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Coll\u00e8ge",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 272069001,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0939012,
+                        48.4339997
+                    ],
+                    [
+                        0.0940094,
+                        48.4340714
+                    ],
+                    [
+                        0.0940464,
+                        48.4341447
+                    ],
+                    [
+                        0.0940489,
+                        48.4341694
+                    ],
+                    [
+                        0.0940094,
+                        48.4342674
+                    ],
+                    [
+                        0.0939012,
+                        48.4343392
+                    ],
+                    [
+                        0.0937535,
+                        48.4343654
+                    ],
+                    [
+                        0.0936459,
+                        48.4343478
+                    ],
+                    [
+                        0.0936058,
+                        48.4343392
+                    ],
+                    [
+                        0.0934977,
+                        48.4342674
+                    ],
+                    [
+                        0.0934607,
+                        48.434196
+                    ],
+                    [
+                        0.0934581,
+                        48.4341694
+                    ],
+                    [
+                        0.0934977,
+                        48.4340714
+                    ],
+                    [
+                        0.0936058,
+                        48.4339997
+                    ],
+                    [
+                        0.0937535,
+                        48.4339734
+                    ],
+                    [
+                        0.0938884,
+                        48.4339936
+                    ],
+                    [
+                        0.0939012,
+                        48.4339997
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "junction": "roundabout",
+                "maxspeed": "50",
+                "name": "Place du G\u00e9n\u00e9ral de Gaulle",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 278157293,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.086463,
+                        48.4380209
+                    ],
+                    [
+                        0.0863565,
+                        48.4380553
+                    ],
+                    [
+                        0.0851841,
+                        48.4383847
+                    ],
+                    [
+                        0.0836925,
+                        48.4388029
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard de Strasbourg",
+                "ref": "D 112",
+                "source:maxspeed": "FR:urban"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 278218735,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0845784,
+                        48.4317724
+                    ],
+                    [
+                        0.0845456,
+                        48.431657
+                    ],
+                    [
+                        0.0845287,
+                        48.4316195
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Coll\u00e8ge",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 286895429,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0898111,
+                        48.4311289
+                    ],
+                    [
+                        0.0894365,
+                        48.4307922
+                    ],
+                    [
+                        0.0893213,
+                        48.4306887
+                    ],
+                    [
+                        0.0891294,
+                        48.4305097
+                    ],
+                    [
+                        0.0890594,
+                        48.4304439
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 302454787,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0795096,
+                        48.4377459
+                    ],
+                    [
+                        0.0781663,
+                        48.4373155
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard M\u00e9zeray",
+                "ref": "D 112",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 302454819,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0854897,
+                        48.4281322
+                    ],
+                    [
+                        0.0857123,
+                        48.4282488
+                    ],
+                    [
+                        0.0858788,
+                        48.4283393
+                    ],
+                    [
+                        0.0863526,
+                        48.4285914
+                    ],
+                    [
+                        0.0866252,
+                        48.4287365
+                    ],
+                    [
+                        0.086729,
+                        48.4287889
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 302454863,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.076384,
+                        48.431613
+                    ],
+                    [
+                        0.0752828,
+                        48.4317785
+                    ],
+                    [
+                        0.0749706,
+                        48.4318286
+                    ],
+                    [
+                        0.0748026,
+                        48.4318539
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 326109121,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0940821,
+                        48.4284967
+                    ],
+                    [
+                        0.0944171,
+                        48.4289026
+                    ],
+                    [
+                        0.0944645,
+                        48.4289608
+                    ],
+                    [
+                        0.0948484,
+                        48.4294286
+                    ],
+                    [
+                        0.0949138,
+                        48.4295146
+                    ],
+                    [
+                        0.0949629,
+                        48.4295817
+                    ],
+                    [
+                        0.0958407,
+                        48.4306532
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard de la R\u00e9publique",
+                "ref": "D 438",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2015"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 518025356,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.091073,
+                        48.4248126
+                    ],
+                    [
+                        0.0912329,
+                        48.4250083
+                    ],
+                    [
+                        0.0915829,
+                        48.4254367
+                    ],
+                    [
+                        0.0918974,
+                        48.4258215
+                    ],
+                    [
+                        0.0920907,
+                        48.4260541
+                    ],
+                    [
+                        0.0922491,
+                        48.4262448
+                    ],
+                    [
+                        0.0924218,
+                        48.4264526
+                    ],
+                    [
+                        0.0924384,
+                        48.4264726
+                    ],
+                    [
+                        0.0930797,
+                        48.427296
+                    ],
+                    [
+                        0.0934359,
+                        48.4277302
+                    ],
+                    [
+                        0.0935138,
+                        48.4278207
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard de la R\u00e9publique",
+                "ref": "D 438"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 529923099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0887473,
+                        48.4315787
+                    ],
+                    [
+                        0.0889474,
+                        48.4314942
+                    ],
+                    [
+                        0.0891352,
+                        48.4314177
+                    ],
+                    [
+                        0.0897028,
+                        48.4311752
+                    ],
+                    [
+                        0.0898111,
+                        48.4311289
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Cours Clemenceau",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 570324788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0801499,
+                        48.4379511
+                    ],
+                    [
+                        0.0795096,
+                        48.4377459
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Boulevard M\u00e9zeray",
+                "ref": "D 112",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 570324789,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0809731,
+                        48.4382071
+                    ],
+                    [
+                        0.0801499,
+                        48.4379511
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Boulevard M\u00e9zeray",
+                "ref": "D 112"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 570326655,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0882763,
+                        48.4317863
+                    ],
+                    [
+                        0.0887473,
+                        48.4315787
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Cours Clemenceau",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 570326656,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0819469,
+                        48.430796
+                    ],
+                    [
+                        0.0807051,
+                        48.4309868
+                    ],
+                    [
+                        0.0805954,
+                        48.4310068
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 670420108,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0940821,
+                        48.4284967
+                    ],
+                    [
+                        0.0940289,
+                        48.4284323
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Boulevard de la R\u00e9publique"
+            }
+        }
+    ]
+}

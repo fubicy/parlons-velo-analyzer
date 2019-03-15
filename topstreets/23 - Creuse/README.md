@@ -4,5 +4,5 @@ Sur l'ensemble du département, il y a eu 2 réponses dont 0 réponses avec une 
 
 | Ville | Nb réponses | Nb réponses avec rue | Nb points noirs |
 |-------------|-------------|----------------------|-----------------|
-|{t['title']}|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|
+|23096 - Guéret|2|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 | **Total** |2|0(0%)|0|

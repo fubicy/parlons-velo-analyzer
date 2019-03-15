@@ -1,0 +1,2644 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4760561,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7406577,
+                        48.053333
+                    ],
+                    [
+                        -0.7408627,
+                        48.0533424
+                    ],
+                    [
+                        -0.7411369,
+                        48.0534127
+                    ],
+                    [
+                        -0.741494,
+                        48.053598
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4760570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7535985,
+                        48.0601306
+                    ],
+                    [
+                        -0.7510069,
+                        48.0586994
+                    ],
+                    [
+                        -0.7506769,
+                        48.0585241
+                    ],
+                    [
+                        -0.7505612,
+                        48.0584636
+                    ],
+                    [
+                        -0.750439,
+                        48.0583957
+                    ],
+                    [
+                        -0.750049,
+                        48.0581838
+                    ],
+                    [
+                        -0.7480638,
+                        48.0570976
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "overtaking:hgv:conditional": "no @ (weight>7.5)",
+                "ref": "D 31",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4966333,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7760994,
+                        48.0597581
+                    ],
+                    [
+                        -0.7758638,
+                        48.0597168
+                    ],
+                    [
+                        -0.7739676,
+                        48.0593845
+                    ],
+                    [
+                        -0.772876,
+                        48.0592126
+                    ],
+                    [
+                        -0.7710398,
+                        48.0588947
+                    ],
+                    [
+                        -0.7699754,
+                        48.0587083
+                    ],
+                    [
+                        -0.7691167,
+                        48.058558
+                    ],
+                    [
+                        -0.7683056,
+                        48.0584177
+                    ],
+                    [
+                        -0.7678532,
+                        48.0583394
+                    ],
+                    [
+                        -0.7677226,
+                        48.0583201
+                    ],
+                    [
+                        -0.7673786,
+                        48.0582691
+                    ],
+                    [
+                        -0.7669682,
+                        48.0582279
+                    ],
+                    [
+                        -0.7663388,
+                        48.0582105
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Boulevard des Trappistines",
+                "oneway": "yes",
+                "overtaking:hgv:conditional": "no @ (weight>7.5)",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "wikidata": "Q18215077",
+                "wikipedia": "fr:Rocade de Laval"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8108480,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7529069,
+                        48.0762921
+                    ],
+                    [
+                        -0.7529318,
+                        48.0759452
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Paris",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through|through;right",
+                "turn:lanes:forward": "left|through;right"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8108584,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.8012064,
+                        48.068644
+                    ],
+                    [
+                        -0.7995206,
+                        48.068652
+                    ],
+                    [
+                        -0.7987804,
+                        48.0686804
+                    ],
+                    [
+                        -0.7983865,
+                        48.0687203
+                    ],
+                    [
+                        -0.7953547,
+                        48.0692526
+                    ],
+                    [
+                        -0.7951579,
+                        48.0692877
+                    ],
+                    [
+                        -0.7949826,
+                        48.0693228
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25776803,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7655736,
+                        48.0711546
+                    ],
+                    [
+                        -0.7658459,
+                        48.0711328
+                    ],
+                    [
+                        -0.7660109,
+                        48.0711229
+                    ],
+                    [
+                        -0.766029,
+                        48.071122
+                    ],
+                    [
+                        -0.76731,
+                        48.0710652
+                    ],
+                    [
+                        -0.767794,
+                        48.0710505
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue de la Paix",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q16510748",
+                "wikipedia": "fr:Rue de la Paix (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25848637,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7743006,
+                        48.067451
+                    ],
+                    [
+                        -0.7744333,
+                        48.0674304
+                    ],
+                    [
+                        -0.7748113,
+                        48.0673718
+                    ],
+                    [
+                        -0.7752562,
+                        48.0672948
+                    ],
+                    [
+                        -0.7759528,
+                        48.0670649
+                    ],
+                    [
+                        -0.7762519,
+                        48.0669644
+                    ],
+                    [
+                        -0.776752,
+                        48.0667475
+                    ],
+                    [
+                        -0.7779462,
+                        48.0661093
+                    ],
+                    [
+                        -0.778144,
+                        48.0660445
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue du Lyc\u00e9e",
+                "oneway": "yes",
+                "wikidata": "Q16510872",
+                "wikipedia": "fr:Rue du Lyc\u00e9e (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25917025,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7898186,
+                        48.0701409
+                    ],
+                    [
+                        -0.7897571,
+                        48.0701632
+                    ],
+                    [
+                        -0.7897222,
+                        48.0702032
+                    ],
+                    [
+                        -0.7897238,
+                        48.0702432
+                    ],
+                    [
+                        -0.7897654,
+                        48.0702831
+                    ],
+                    [
+                        -0.7898784,
+                        48.0702976
+                    ],
+                    [
+                        -0.7899848,
+                        48.0702887
+                    ],
+                    [
+                        -0.7900796,
+                        48.0702787
+                    ],
+                    [
+                        -0.7901578,
+                        48.0702665
+                    ],
+                    [
+                        -0.790186,
+                        48.0702587
+                    ],
+                    [
+                        -0.7902276,
+                        48.0702332
+                    ],
+                    [
+                        -0.7902475,
+                        48.0701765
+                    ],
+                    [
+                        -0.7902193,
+                        48.0701354
+                    ],
+                    [
+                        -0.7901594,
+                        48.0701143
+                    ],
+                    [
+                        -0.790058,
+                        48.0701198
+                    ],
+                    [
+                        -0.7898186,
+                        48.0701409
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "junction": "roundabout",
+                "lanes": "2",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25917028,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7909492,
+                        48.0701276
+                    ],
+                    [
+                        -0.7919294,
+                        48.0699779
+                    ],
+                    [
+                        -0.7922433,
+                        48.06993
+                    ],
+                    [
+                        -0.792289,
+                        48.0699201
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through;right",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25978581,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7927448,
+                        48.0697783
+                    ],
+                    [
+                        -0.7929707,
+                        48.0697953
+                    ],
+                    [
+                        -0.7931196,
+                        48.0697639
+                    ],
+                    [
+                        -0.7932899,
+                        48.0697324
+                    ],
+                    [
+                        -0.7935616,
+                        48.0696847
+                    ],
+                    [
+                        -0.7936911,
+                        48.0696591
+                    ],
+                    [
+                        -0.7941291,
+                        48.0695724
+                    ],
+                    [
+                        -0.7943675,
+                        48.0695208
+                    ],
+                    [
+                        -0.7950128,
+                        48.069381
+                    ],
+                    [
+                        -0.7958721,
+                        48.0692222
+                    ],
+                    [
+                        -0.7963024,
+                        48.0691475
+                    ],
+                    [
+                        -0.7968928,
+                        48.069045
+                    ],
+                    [
+                        -0.7979959,
+                        48.0688394
+                    ],
+                    [
+                        -0.7985327,
+                        48.0687649
+                    ],
+                    [
+                        -0.7992177,
+                        48.0687172
+                    ],
+                    [
+                        -0.8002507,
+                        48.0687111
+                    ],
+                    [
+                        -0.8013578,
+                        48.068706
+                    ],
+                    [
+                        -0.801567,
+                        48.068705
+                    ],
+                    [
+                        -0.8021278,
+                        48.0687124
+                    ],
+                    [
+                        -0.8023827,
+                        48.0687158
+                    ],
+                    [
+                        -0.8024857,
+                        48.0687431
+                    ],
+                    [
+                        -0.8025985,
+                        48.0687971
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25978582,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7927448,
+                        48.0697783
+                    ],
+                    [
+                        -0.7924693,
+                        48.069841
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26211330,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7610743,
+                        48.0602257
+                    ],
+                    [
+                        -0.7611576,
+                        48.0601793
+                    ],
+                    [
+                        -0.7620494,
+                        48.0596831
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxweight": "70",
+                "name": "Pont d'Avesni\u00e8res",
+                "oneway": "yes",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through|right",
+                "wikidata": "Q16510367",
+                "wikipedia": "fr:Pont d'Avesni\u00e8res"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26211333,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7619016,
+                        48.0595959
+                    ],
+                    [
+                        -0.7610142,
+                        48.0601562
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxweight": "70",
+                "name": "Pont d'Avesni\u00e8res",
+                "oneway": "yes",
+                "ref": "D 57",
+                "surface": "dirt",
+                "wikidata": "Q16510367",
+                "wikipedia": "fr:Pont d'Avesni\u00e8res"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26211338,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7733623,
+                        48.0711322
+                    ],
+                    [
+                        -0.7734153,
+                        48.0709899
+                    ],
+                    [
+                        -0.7734892,
+                        48.070902
+                    ],
+                    [
+                        -0.7735106,
+                        48.0708897
+                    ],
+                    [
+                        -0.7736179,
+                        48.0708222
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue du G\u00e9n\u00e9ral de Gaulle",
+                "oneway": "yes",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69232252,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7657047,
+                        48.0583533
+                    ],
+                    [
+                        -0.7658627,
+                        48.0583815
+                    ],
+                    [
+                        -0.7659573,
+                        48.0584175
+                    ],
+                    [
+                        -0.7660156,
+                        48.058506
+                    ],
+                    [
+                        -0.7659999,
+                        48.0585964
+                    ],
+                    [
+                        -0.7657799,
+                        48.0592175
+                    ],
+                    [
+                        -0.765703,
+                        48.059489
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de l'Huisserie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "width": "2.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69288452,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.765703,
+                        48.059489
+                    ],
+                    [
+                        -0.7654369,
+                        48.0598905
+                    ],
+                    [
+                        -0.7654026,
+                        48.0600053
+                    ],
+                    [
+                        -0.7654198,
+                        48.060229
+                    ],
+                    [
+                        -0.7654303,
+                        48.0602609
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de l'Huisserie",
+                "surface": "asphalt",
+                "width": "2.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109329056,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7647345,
+                        48.0583997
+                    ],
+                    [
+                        -0.7646622,
+                        48.0583566
+                    ],
+                    [
+                        -0.7645804,
+                        48.0583351
+                    ],
+                    [
+                        -0.7643523,
+                        48.0583777
+                    ],
+                    [
+                        -0.7641787,
+                        48.0584101
+                    ],
+                    [
+                        -0.7636346,
+                        48.0585566
+                    ],
+                    [
+                        -0.7635404,
+                        48.0586099
+                    ],
+                    [
+                        -0.7635377,
+                        48.0586692
+                    ],
+                    [
+                        -0.763535,
+                        48.0587285
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed:type": "FR:urban",
+                "name": "Boulevard des Trappistines",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "width": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138024058,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7626834,
+                        48.0712668
+                    ],
+                    [
+                        -0.7629208,
+                        48.07126
+                    ],
+                    [
+                        -0.7629625,
+                        48.0712579
+                    ],
+                    [
+                        -0.7635406,
+                        48.0712388
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Paris",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through;left|right",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180321325,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.791835,
+                        48.0698934
+                    ],
+                    [
+                        -0.7903932,
+                        48.0701425
+                    ],
+                    [
+                        -0.7902193,
+                        48.0701354
+                    ]
+                ]
+            },
+            "properties": {
+                "hgv": "no",
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 297999759,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7469008,
+                        48.056603
+                    ],
+                    [
+                        -0.7470361,
+                        48.0566771
+                    ],
+                    [
+                        -0.7498845,
+                        48.0582387
+                    ],
+                    [
+                        -0.750577,
+                        48.0586192
+                    ],
+                    [
+                        -0.7511643,
+                        48.0589327
+                    ],
+                    [
+                        -0.7528843,
+                        48.0598731
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "overtaking:hgv:conditional": "no @ (weight>7.5)",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 297999760,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7466283,
+                        48.0563121
+                    ],
+                    [
+                        -0.7464823,
+                        48.0562295
+                    ],
+                    [
+                        -0.7453913,
+                        48.055634
+                    ],
+                    [
+                        -0.7450564,
+                        48.0554473
+                    ],
+                    [
+                        -0.7425046,
+                        48.0540433
+                    ],
+                    [
+                        -0.7424608,
+                        48.0540145
+                    ],
+                    [
+                        -0.7423028,
+                        48.0539268
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "ref": "D 31",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 329745400,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7898186,
+                        48.0701409
+                    ],
+                    [
+                        -0.78959,
+                        48.0701536
+                    ],
+                    [
+                        -0.7886571,
+                        48.0702056
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 329745403,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7736179,
+                        48.0708222
+                    ],
+                    [
+                        -0.774018,
+                        48.0708061
+                    ],
+                    [
+                        -0.7740842,
+                        48.0708051
+                    ],
+                    [
+                        -0.7745001,
+                        48.0707826
+                    ],
+                    [
+                        -0.7745514,
+                        48.0707777
+                    ],
+                    [
+                        -0.774683,
+                        48.0707737
+                    ],
+                    [
+                        -0.7749297,
+                        48.0707637
+                    ],
+                    [
+                        -0.7759755,
+                        48.0707195
+                    ],
+                    [
+                        -0.7759973,
+                        48.0707184
+                    ],
+                    [
+                        -0.7760814,
+                        48.0707134
+                    ],
+                    [
+                        -0.7765554,
+                        48.0706981
+                    ],
+                    [
+                        -0.7766127,
+                        48.0706948
+                    ],
+                    [
+                        -0.7766597,
+                        48.0706928
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue du G\u00e9n\u00e9ral de Gaulle",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q16510870",
+                "wikipedia": "fr:Rue du G\u00e9n\u00e9ral-de-Gaulle (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 345337467,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7832147,
+                        48.0704395
+                    ],
+                    [
+                        -0.7831129,
+                        48.0704443
+                    ],
+                    [
+                        -0.7825442,
+                        48.0704635
+                    ],
+                    [
+                        -0.7808807,
+                        48.0705196
+                    ],
+                    [
+                        -0.7806113,
+                        48.0705287
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 345337471,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7806113,
+                        48.0705287
+                    ],
+                    [
+                        -0.7803668,
+                        48.0705385
+                    ],
+                    [
+                        -0.7793746,
+                        48.0705783
+                    ],
+                    [
+                        -0.7793469,
+                        48.0705795
+                    ],
+                    [
+                        -0.7787861,
+                        48.0706056
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 345337474,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7635406,
+                        48.0712388
+                    ],
+                    [
+                        -0.7653036,
+                        48.0711659
+                    ],
+                    [
+                        -0.7653565,
+                        48.0711622
+                    ],
+                    [
+                        -0.7655736,
+                        48.0711546
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 373875809,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.760524,
+                        48.0714286
+                    ],
+                    [
+                        -0.7606375,
+                        48.0714103
+                    ],
+                    [
+                        -0.761079,
+                        48.0713571
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue de Paris",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374302793,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7538322,
+                        48.0743259
+                    ],
+                    [
+                        -0.7539344,
+                        48.0742342
+                    ],
+                    [
+                        -0.7540327,
+                        48.0741502
+                    ],
+                    [
+                        -0.7544183,
+                        48.0738878
+                    ],
+                    [
+                        -0.7550645,
+                        48.0735778
+                    ],
+                    [
+                        -0.7553613,
+                        48.0734354
+                    ],
+                    [
+                        -0.7554268,
+                        48.073404
+                    ],
+                    [
+                        -0.7557631,
+                        48.0732426
+                    ],
+                    [
+                        -0.756408,
+                        48.0729327
+                    ],
+                    [
+                        -0.7565454,
+                        48.0728667
+                    ],
+                    [
+                        -0.7566494,
+                        48.0728184
+                    ],
+                    [
+                        -0.7574958,
+                        48.0724256
+                    ],
+                    [
+                        -0.7576521,
+                        48.072353
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue de Paris",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374303420,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.752967,
+                        48.0757342
+                    ],
+                    [
+                        -0.7530147,
+                        48.0756029
+                    ],
+                    [
+                        -0.7530769,
+                        48.0754318
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Rue de Paris",
+                "surface": "asphalt",
+                "wikidata": "Q16510749"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374303422,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7530769,
+                        48.0754318
+                    ],
+                    [
+                        -0.7531517,
+                        48.0752345
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "3",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Rue de Paris",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through|through;right",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374303428,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7529318,
+                        48.0759452
+                    ],
+                    [
+                        -0.7529478,
+                        48.0758492
+                    ],
+                    [
+                        -0.7529526,
+                        48.0758205
+                    ],
+                    [
+                        -0.752967,
+                        48.0757342
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Pont de Paris",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376829022,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7886571,
+                        48.0702056
+                    ],
+                    [
+                        -0.7885699,
+                        48.0702087
+                    ],
+                    [
+                        -0.7869716,
+                        48.0702737
+                    ],
+                    [
+                        -0.7867789,
+                        48.0702815
+                    ],
+                    [
+                        -0.7857998,
+                        48.0703211
+                    ],
+                    [
+                        -0.785219,
+                        48.0703446
+                    ],
+                    [
+                        -0.7851559,
+                        48.0703471
+                    ],
+                    [
+                        -0.7850517,
+                        48.0703521
+                    ],
+                    [
+                        -0.7832147,
+                        48.0704395
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377003728,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7778684,
+                        48.0706515
+                    ],
+                    [
+                        -0.7776258,
+                        48.0706598
+                    ],
+                    [
+                        -0.7769548,
+                        48.0706827
+                    ],
+                    [
+                        -0.7766597,
+                        48.0706928
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377115082,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7934135,
+                        48.0696041
+                    ],
+                    [
+                        -0.7929704,
+                        48.0696804
+                    ],
+                    [
+                        -0.7929061,
+                        48.0696922
+                    ],
+                    [
+                        -0.792866,
+                        48.0697018
+                    ],
+                    [
+                        -0.7927448,
+                        48.0697783
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377116074,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7421059,
+                        48.053812
+                    ],
+                    [
+                        -0.74145,
+                        48.0534547
+                    ],
+                    [
+                        -0.7411514,
+                        48.0533331
+                    ],
+                    [
+                        -0.7409673,
+                        48.0532725
+                    ],
+                    [
+                        -0.7408565,
+                        48.0532017
+                    ],
+                    [
+                        -0.7407746,
+                        48.0531185
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "ref": "D 31"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377119774,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7420717,
+                        48.0539219
+                    ],
+                    [
+                        -0.7424065,
+                        48.0541145
+                    ],
+                    [
+                        -0.7434085,
+                        48.0546795
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377285458,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7663466,
+                        48.0583215
+                    ],
+                    [
+                        -0.7666511,
+                        48.0583221
+                    ],
+                    [
+                        -0.7669408,
+                        48.0583368
+                    ],
+                    [
+                        -0.7674137,
+                        48.0583869
+                    ],
+                    [
+                        -0.7677951,
+                        48.0584425
+                    ],
+                    [
+                        -0.7698257,
+                        48.0587912
+                    ],
+                    [
+                        -0.7712563,
+                        48.0590446
+                    ],
+                    [
+                        -0.77353,
+                        48.0594352
+                    ],
+                    [
+                        -0.7738404,
+                        48.0594938
+                    ],
+                    [
+                        -0.7749935,
+                        48.0596823
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Boulevard des Trappistines",
+                "oneway": "yes",
+                "overtaking:hgv:conditional": "no @ (weight>7.5)",
+                "ref": "D 57",
+                "wikidata": "Q18215077",
+                "wikipedia": "fr:Rocade de Laval"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 380497236,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7924693,
+                        48.069841
+                    ],
+                    [
+                        -0.7923039,
+                        48.0698086
+                    ],
+                    [
+                        -0.7922233,
+                        48.0698174
+                    ],
+                    [
+                        -0.7921038,
+                        48.0698391
+                    ],
+                    [
+                        -0.791835,
+                        48.0698934
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382634002,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.767794,
+                        48.0710505
+                    ],
+                    [
+                        -0.7691566,
+                        48.0709941
+                    ],
+                    [
+                        -0.769816,
+                        48.0709654
+                    ],
+                    [
+                        -0.76988,
+                        48.0709626
+                    ],
+                    [
+                        -0.7700591,
+                        48.0709568
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue de la Paix",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q16510748",
+                "wikipedia": "fr:Rue de la Paix (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 432167791,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7533406,
+                        48.0748879
+                    ],
+                    [
+                        -0.7534778,
+                        48.0747185
+                    ],
+                    [
+                        -0.7536085,
+                        48.0745513
+                    ],
+                    [
+                        -0.7538322,
+                        48.0743259
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de Paris",
+                "surface": "asphalt",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 432351948,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.792289,
+                        48.0699201
+                    ],
+                    [
+                        -0.7924693,
+                        48.069841
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 432351949,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7941484,
+                        48.0694685
+                    ],
+                    [
+                        -0.7937758,
+                        48.0695397
+                    ],
+                    [
+                        -0.7934135,
+                        48.0696041
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|right|right",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 432351950,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7949826,
+                        48.0693228
+                    ],
+                    [
+                        -0.7941484,
+                        48.0694685
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "70",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|right",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 432351951,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7902276,
+                        48.0702332
+                    ],
+                    [
+                        -0.7904066,
+                        48.0702232
+                    ],
+                    [
+                        -0.7906833,
+                        48.0701646
+                    ],
+                    [
+                        -0.7909492,
+                        48.0701276
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through;right",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 432351953,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.8025676,
+                        48.0685466
+                    ],
+                    [
+                        -0.8024046,
+                        48.0685879
+                    ],
+                    [
+                        -0.8021368,
+                        48.0686134
+                    ],
+                    [
+                        -0.8015718,
+                        48.0686323
+                    ],
+                    [
+                        -0.8012064,
+                        48.068644
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "70",
+                "name": "Rue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 490716416,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7531517,
+                        48.0752345
+                    ],
+                    [
+                        -0.7531594,
+                        48.0752208
+                    ],
+                    [
+                        -0.753174,
+                        48.0751941
+                    ],
+                    [
+                        -0.7531954,
+                        48.0751571
+                    ],
+                    [
+                        -0.7533406,
+                        48.0748879
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Rue de Paris",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left;through|through;right",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 496498878,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7465035,
+                        48.0563825
+                    ],
+                    [
+                        -0.7468236,
+                        48.0565602
+                    ],
+                    [
+                        -0.7469008,
+                        48.056603
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 496498879,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7470187,
+                        48.0565279
+                    ],
+                    [
+                        -0.7467145,
+                        48.0563598
+                    ],
+                    [
+                        -0.7466283,
+                        48.0563121
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "ref": "D 31"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 496498882,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7434085,
+                        48.0546795
+                    ],
+                    [
+                        -0.7450057,
+                        48.0555543
+                    ],
+                    [
+                        -0.7453262,
+                        48.0557353
+                    ],
+                    [
+                        -0.7455161,
+                        48.0558396
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "overtaking:hgv:conditional": "no @ (weight>7.5)",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554499755,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7455161,
+                        48.0558396
+                    ],
+                    [
+                        -0.7462744,
+                        48.0562571
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554499756,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7480638,
+                        48.0570976
+                    ],
+                    [
+                        -0.7472371,
+                        48.0566486
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "ref": "D 31",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554499757,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7472371,
+                        48.0566486
+                    ],
+                    [
+                        -0.7471719,
+                        48.0566128
+                    ],
+                    [
+                        -0.7471347,
+                        48.0565929
+                    ],
+                    [
+                        -0.7470187,
+                        48.0565279
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "ref": "D 31",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554499758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7462744,
+                        48.0562571
+                    ],
+                    [
+                        -0.7463448,
+                        48.0562953
+                    ],
+                    [
+                        -0.7463886,
+                        48.0563187
+                    ],
+                    [
+                        -0.7465035,
+                        48.0563825
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "turn:lanes": "through|through|right"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554499759,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7528843,
+                        48.0598731
+                    ],
+                    [
+                        -0.7533123,
+                        48.0601087
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554499760,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7533123,
+                        48.0601087
+                    ],
+                    [
+                        -0.753395,
+                        48.0601584
+                    ],
+                    [
+                        -0.7535379,
+                        48.0602293
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554501180,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.741494,
+                        48.053598
+                    ],
+                    [
+                        -0.7420717,
+                        48.0539219
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "turn:lanes": "left|through"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554501272,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7423028,
+                        48.0539268
+                    ],
+                    [
+                        -0.7421059,
+                        48.053812
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Tours",
+                "oneway": "yes",
+                "ref": "D 31",
+                "turn:lanes": "slight_right|"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554658677,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7787861,
+                        48.0706056
+                    ],
+                    [
+                        -0.7781632,
+                        48.0706318
+                    ],
+                    [
+                        -0.7780685,
+                        48.0706381
+                    ],
+                    [
+                        -0.7778684,
+                        48.0706515
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de Bretagne",
+                "surface": "asphalt",
+                "wikidata": "Q16510689",
+                "wikipedia": "fr:Rue de Bretagne (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554658679,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7773712,
+                        48.0599861
+                    ],
+                    [
+                        -0.7763557,
+                        48.059803
+                    ],
+                    [
+                        -0.7760994,
+                        48.0597581
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Boulevard des Trappistines",
+                "oneway": "yes",
+                "overtaking:hgv:conditional": "no @ (weight>7.5)",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through|right",
+                "wikidata": "Q18215077",
+                "wikipedia": "fr:Rocade de Laval"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554658680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7838639,
+                        48.0610562
+                    ],
+                    [
+                        -0.783582,
+                        48.0610649
+                    ],
+                    [
+                        -0.7834996,
+                        48.061055
+                    ],
+                    [
+                        -0.7820269,
+                        48.0608009
+                    ],
+                    [
+                        -0.7790641,
+                        48.0602923
+                    ],
+                    [
+                        -0.7773712,
+                        48.0599861
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "70",
+                "name": "Boulevard des Trappistines",
+                "oneway": "yes",
+                "overtaking:hgv:conditional": "no @ (weight>7.5)",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "wikidata": "Q18215077",
+                "wikipedia": "fr:Rocade de Laval"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554658681,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7749935,
+                        48.0596823
+                    ],
+                    [
+                        -0.7758223,
+                        48.0598238
+                    ],
+                    [
+                        -0.7760661,
+                        48.0598644
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Boulevard des Trappistines",
+                "oneway": "yes",
+                "overtaking:hgv:conditional": "no @ (weight>7.5)",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through|right",
+                "wikidata": "Q18215077",
+                "wikipedia": "fr:Rocade de Laval"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554658682,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7760661,
+                        48.0598644
+                    ],
+                    [
+                        -0.7763066,
+                        48.0599061
+                    ],
+                    [
+                        -0.7830255,
+                        48.0610708
+                    ],
+                    [
+                        -0.7833586,
+                        48.0611477
+                    ],
+                    [
+                        -0.7835005,
+                        48.0611923
+                    ],
+                    [
+                        -0.7836738,
+                        48.0612433
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "70",
+                "name": "Boulevard des Trappistines",
+                "oneway": "yes",
+                "overtaking:hgv:conditional": "no @ (weight>7.5)",
+                "ref": "D 57",
+                "wikidata": "Q18215077",
+                "wikipedia": "fr:Rocade de Laval"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 586346594,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7576521,
+                        48.072353
+                    ],
+                    [
+                        -0.757706,
+                        48.0723276
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 586346595,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.757706,
+                        48.0723276
+                    ],
+                    [
+                        -0.7584616,
+                        48.0719746
+                    ],
+                    [
+                        -0.7588682,
+                        48.0718074
+                    ],
+                    [
+                        -0.7591847,
+                        48.0717106
+                    ],
+                    [
+                        -0.7598544,
+                        48.0715639
+                    ],
+                    [
+                        -0.7602422,
+                        48.0714893
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 631812726,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7736179,
+                        48.0708222
+                    ],
+                    [
+                        -0.7735054,
+                        48.0707929
+                    ],
+                    [
+                        -0.7734598,
+                        48.07079
+                    ],
+                    [
+                        -0.7733344,
+                        48.0707779
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "highway": "service",
+                "name": "Rue du G\u00e9n\u00e9ral de Gaulle",
+                "oneway": "yes",
+                "psv": "yes",
+                "sidewalk": "right",
+                "wikidata": "Q16510870",
+                "wikipedia": "fr:Rue du G\u00e9n\u00e9ral-de-Gaulle (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 662180365,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.761079,
+                        48.0713571
+                    ],
+                    [
+                        -0.7615169,
+                        48.071318
+                    ],
+                    [
+                        -0.7624064,
+                        48.0712846
+                    ],
+                    [
+                        -0.7624941,
+                        48.0712779
+                    ],
+                    [
+                        -0.7626834,
+                        48.0712668
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Paris",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 662180366,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7602422,
+                        48.0714893
+                    ],
+                    [
+                        -0.7604591,
+                        48.0714476
+                    ],
+                    [
+                        -0.760524,
+                        48.0714286
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q16510749",
+                "wikipedia": "fr:Rue de Paris (Laval)"
+            }
+        }
+    ]
+}

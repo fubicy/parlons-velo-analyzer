@@ -14,7 +14,8 @@ import folium
 
 from collections import Counter
 
-ONLYTOP=30
+TOPLIST=[10,30,50]
+
 MAP_WIDTH=700
 MAP_HEIGHT=500
 
@@ -404,10 +405,19 @@ def write_departments_readme():
                 percent_bar = html_percent_bar('../../img',backspots_percent)
                 tfile = t['title'].replace("'","_")
                 
-                if t['nb_responses_with_street']>0:
-                    docfile.write("|<a href='{tfile}.md'>{t['title']}</a>|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|\n")             
+                if t['nb_points_noirs']>0:
+                    links = ""
+                    
+                    lasttopvalue = 0
+                    for top in TOPLIST:
+                        mintop = min(top,t['nb_points_noirs'])
+                        if mintop != lasttopvalue:
+                            links += f"&nbsp;&#124;&nbsp;<a href='{tfile}_top{mintop}.md'>Top {top}</a>"
+                            lasttopvalue = mintop
+                    
+                    docfile.write(f"|{t['title']}{links}|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|\n")             
                 else:
-                    docfile.write("|{t['title']}|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|\n")             
+                    docfile.write(f"|{t['title']}|{t['nb_responses']}|{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{t['nb_points_noirs']}|\n")             
 
 
             docfile.write(f"| **Total** |{d['nb_responses']}|{d['nb_responses_with_street']}({d['nb_responses_with_street_percent']}%)|{d['nb_points_noirs']}|\n")             
@@ -430,8 +440,18 @@ def write_departments_html():
             percent_bar = html_percent_bar('../../img',backspots_percent)
             tfile = t['title'].replace("'","_")
 
-            if t['nb_responses_with_street']>0:
-                cities_info += f"<tr><td><a href='{tfile}.html'>{t['title']}</a></td><td>{t['nb_responses']}</td><td>{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{t['nb_points_noirs']}</td></tr>\n"             
+            if t['nb_points_noirs']>0:
+                links = ""
+                
+                lasttopvalue = 0
+                for top in TOPLIST:
+                    mintop = min(top,t['nb_points_noirs'])
+                    if mintop != lasttopvalue:
+                        links += f"&nbsp;|&nbsp;<a href='{tfile}_top{mintop}.html'>Top&nbsp;{mintop}</a>"
+                        lasttopvalue = mintop
+
+                nospace_title = t['title'].replace(" ","&nbsp;")
+                cities_info += f"<tr><td>{nospace_title}{links}</td><td>{t['nb_responses']}</td><td>{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{t['nb_points_noirs']}</td></tr>\n"             
             else:
                 cities_info += f"<tr><td>{t['title']}</td><td>{t['nb_responses']}</td><td>{t['nb_responses_with_street']}({t['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{t['nb_points_noirs']}</td></tr>\n"             
 
@@ -467,101 +487,106 @@ def write_towns_result():
         path = d['title'].replace("'","_")
         deppath = f"topstreets/{path}"
         for kt, t in sorted(stats['dep'][kd]['towns'].items()):
-            townname = t['title']
-            nb_responses = t['nb_responses']
-            nb_responses_with_street = t['nb_responses_with_street']
-            nb_responses_with_street_percent = t['nb_responses_with_street_percent']
-            nb_points_noirs = t['nb_points_noirs']
+            if t['nb_points_noirs']==0:
+                continue
 
-            tfile = townname.replace("'", " ")
-            docfilename = f"{deppath}/{tfile}.md"
-            mapfilename = f"{deppath}/{tfile}.html"
-            gjsonfilename = f"{deppath}/{tfile}.geojson"
-            html_streets_list = ""
-            try:
-                with open(docfilename, 'w') as docfile:
-                    docfile.write(f"# Résultat pour {townname}\n\n")
-                    docfile.write(f"Sur l'ensemble de la ville il y a eu {nb_responses} réponses dont {nb_responses_with_street} réponses avec une rue citée ({nb_responses_with_street_percent}%)\n\n")
-                    docfile.write(f"{nb_points_noirs} points noirs identifiés\n\n")
+            lasttopvalue = 0
+            for top in TOPLIST:
+                mintop = min(top,t['nb_points_noirs'])
+                if mintop == lasttopvalue:
+                    continue
 
-                    docfile.write('| Rue | Vote | % réponses | % Nb rues cités|\n')
-                    docfile.write("|-----|------|------------|----------------|\n")
+                lasttopvalue = mintop
+                tfile = t['title'].replace("'", " ")
+                docfilename = f"{deppath}/{tfile}_top{mintop}.md"
+                mapfilename = f"{deppath}/{tfile}_top{mintop}.html"
+                gjsonfilename = f"{deppath}/{tfile}_top{mintop}.geojson"
+                html_streets_list = ""
+                try:
+                    with open(docfilename, 'w') as docfile:
+                        docfile.write(f"# Résultat pour {t['title']}\n\n")
+                        docfile.write(f"Sur l'ensemble de la ville il y a eu {t['nb_responses']} réponses dont {t['nb_responses_with_street']} réponses avec une rue citée ({t['nb_responses_with_street_percent']}%)\n\n")
+                        docfile.write(f"{t['nb_points_noirs']} points noirs identifiés\n\n")
 
-                    total = 0
-                    ways = []
-                    for full_street,street_info in sorted(t['blackspots'].items(), reverse=True, key=lambda item: (item[1]['responses_with_this_street'], item[0]))[:ONLYTOP]:
-                        total += street_info['responses_with_this_street']
-                        ways.append(street_info['ways'])
+                        docfile.write('| Rue | Vote | % réponses | % Nb rues cités|\n')
+                        docfile.write("|-----|------|------------|----------------|\n")
 
-                        full_street = full_street.strip()
-                        percent_responses = 0
-                        percent_with_street = 0
+                        total = 0
+                        ways = []
+                        for full_street,street_info in sorted(t['blackspots'].items(), reverse=True, key=lambda item: (item[1]['responses_with_this_street'], item[0]))[:top]:
+                            total += street_info['responses_with_this_street']
+                            ways.append(street_info['ways'])
 
-                        if nb_responses > 0:
-                            percent_responses = int(street_info['responses_with_this_street']/nb_responses*100.0)
+                            full_street = full_street.strip()
+                            percent_responses = 0
+                            percent_with_street = 0
 
-                        if nb_responses_with_street>0:
-                            percent_with_street = int(street_info['responses_with_this_street']/nb_responses_with_street*100.0)
+                            if t['nb_responses'] > 0:
+                                percent_responses = int(street_info['responses_with_this_street']/t['nb_responses']*100.0)
+
+                            if t['nb_responses_with_street']>0:
+                                percent_with_street = int(street_info['responses_with_this_street']/t['nb_responses_with_street']*100.0)
+                            
+                            bar_percent = html_percent_bar('../../img',percent_with_street)
+                            docfile.write(f"| {full_street} | {street_info['responses_with_this_street']} | {percent_responses}% | {bar_percent}&nbsp;{percent_with_street}%|\n")
+
+                            html_streets_list += f"<tr><td> {full_street} </td><td> {street_info['responses_with_this_street']} </td><td> {percent_responses}% </td><td> {bar_percent}&nbsp;{percent_with_street}%</td></tr>\n"
+
+
+                        # Total
+                        if t['nb_responses'] > 0:
+                            percent_responses = int(total/t['nb_responses']*100.0)
+
+                        if t['nb_responses_with_street']>0:
+                            percent_with_street = int(total/t['nb_responses_with_street']*100.0)
                         
-                        bar_percent = html_percent_bar('../../img',percent_with_street)
-                        docfile.write(f"| {full_street} | {street_info['responses_with_this_street']} | {percent_responses}% | {bar_percent}&nbsp;{percent_with_street}%|\n")
+                        if t['nb_responses'] > 0 and t['nb_responses_with_street'] > 0:
+                            docfile.write(f"| **Total** | {total} | {percent_responses}% | {percent_with_street}%|\n")
+                            html_streets_list += f"<tr><td> <strong>Total</strong> </td><td> {total} </td><td> {percent_responses}% </td><td> {percent_with_street}%</td></tr>\n"
 
-                        html_streets_list += f"<tr><td> {full_street} </td><td> {street_info['responses_with_this_street']} </td><td> {percent_responses}% </td><td> {bar_percent}&nbsp;{percent_with_street}%</td></tr>\n"
-
-
-                    # Total
-                    if nb_responses > 0:
-                        percent_responses = int(total/nb_responses*100.0)
-
-                    if nb_responses_with_street>0:
-                        percent_with_street = int(total/nb_responses_with_street*100.0)
+                        # Generate Map
+                        allways = ','.join(ways)
                     
-                    if nb_responses > 0 and nb_responses_with_street > 0:
-                        docfile.write(f"| **Total** | {total} | {percent_responses}% | {percent_with_street}%|\n")
-                        html_streets_list += f"<tr><td> <strong>Total</strong> </td><td> {total} </td><td> {percent_responses}% </td><td> {percent_with_street}%</td></tr>\n"
+                    if len(ways)>0:
+                        insee = t['insee']
+                        lat = float(villes_info[insee]['lat'])
+                        lon = float(villes_info[insee]['lon'])
+                        jways = api.get(f'way(id:{allways})',responseformat='geojson',verbosity='geom')
+                        with open(gjsonfilename, 'w') as gjsonfile:
+                            gjsonfile.write(json.dumps(jways, indent=4, separators=(',', ': ')))
 
-                    # Generate Map
-                    allways = ','.join(ways)
-                
-                if len(ways)>0:
-                    insee = t['insee']
-                    lat = float(villes_info[insee]['lat'])
-                    lon = float(villes_info[insee]['lon'])
-                    jways = api.get(f'way(id:{allways})',responseformat='geojson',verbosity='geom')
-                    with open(gjsonfilename, 'w') as gjsonfile:
-                        gjsonfile.write(json.dumps(jways, indent=4, separators=(',', ': ')))
+                        m = folium.Map(location=[ lat, lon],height=MAP_HEIGHT,width=MAP_WIDTH,zoom_start=13)
+                        folium.GeoJson(
+                            gjsonfilename,
+                            name='geojson',
+                            style_function=folium_style_function
+                        ).add_to(m)
 
-                    m = folium.Map(location=[ lat, lon],height=MAP_HEIGHT,width=MAP_WIDTH,zoom_start=13)
-                    folium.GeoJson(
-                        gjsonfilename,
-                        name='geojson',
-                        style_function=folium_style_function
-                    ).add_to(m)
+                        
+                        # Read html ville template
+                        with open("index_ville_template.html", "r") as templatefile:
+                            template_content = templatefile.read()
 
-                    
-                    # Read html ville template
-                    with open("index_ville_template.html", "r") as templatefile:
-                        template_content = templatefile.read()
+                        ## Summaries town
+                        htmlcontent = template_content.replace("{{TOWN_NAME}}",t['title'])
+                        htmlcontent = htmlcontent.replace("{{TOPVALUE}}",str(mintop))
+                        htmlcontent = htmlcontent.replace("{{NB_RESPONSES}}",str(t['nb_responses']))
+                        htmlcontent = htmlcontent.replace("{{NB_RESPONSES_WITH_STREET}}",str(t['nb_responses_with_street']))
+                        htmlcontent = htmlcontent.replace("{{NB_RESPONSES_PERCENT}}",str(t['nb_responses_with_street_percent']))
+                        htmlcontent = htmlcontent.replace("{{NB_POINTS_NOIRS}}",str(t['nb_points_noirs']))
 
-                    ## Summaries town
-                    htmlcontent = template_content.replace("{{TOWN_NAME}}",townname)
-                    htmlcontent = htmlcontent.replace("{{NB_RESPONSES}}",str(nb_responses))
-                    htmlcontent = htmlcontent.replace("{{NB_RESPONSES_WITH_STREET}}",str(nb_responses_with_street))
-                    htmlcontent = htmlcontent.replace("{{NB_RESPONSES_PERCENT}}",str(nb_responses_with_street_percent))
-                    htmlcontent = htmlcontent.replace("{{NB_POINTS_NOIRS}}",str(nb_points_noirs))
+                        # leaflet Map
+                        div_width=MAP_WIDTH+200
+                        iframe_map = m._repr_html_()
+                        htmlcontent = htmlcontent.replace("{{MAP_CONTENT}}",iframe_map)
+                        htmlcontent = htmlcontent.replace('<div style="width:100%;"><div style="position:relative;width:100%;',f'<div style="width:{div_width}px;"><div style="position:relative;width:100%;')
+                        htmlcontent = htmlcontent.replace("{{STREETS_LIST}}",html_streets_list)
 
-                    # leaflet Map
-                    div_width=MAP_WIDTH+200
-                    iframe_map = m._repr_html_()
-                    htmlcontent = htmlcontent.replace("{{MAP_CONTENT}}",iframe_map)
-                    htmlcontent = htmlcontent.replace('<div style="width:100%;"><div style="position:relative;width:100%;',f'<div style="width:{div_width}px;"><div style="position:relative;width:100%;')
-                    htmlcontent = htmlcontent.replace("{{STREETS_LIST}}",html_streets_list)
-
-                    #m.save(mapfilename)
-                    with open(mapfilename, 'w') as htmlfile:
-                        htmlfile.write(htmlcontent)
-            except :
-                print (f"##### cannot generate a files for {kt}")
+                        #m.save(mapfilename)
+                        with open(mapfilename, 'w') as htmlfile:
+                            htmlfile.write(htmlcontent)
+                except:
+                    print (f"##### cannot generate a files for {kt}")
 
 
 def analyze_all_responses():

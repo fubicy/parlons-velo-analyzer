@@ -15,13 +15,21 @@
 
 
   <main id="content" class="main-content" role="main">
-    Sur l'ensemble de la ville il y a eu <strong>{{NB_RESPONSES}}</strong> réponses dont <strong>{{NB_RESPONSES_WITH_STREET}}</strong> réponses avec une rue citée
+
+    <h2>Carte des {{TOPVALUE}} points noirs</h2>
+
+    {{TOWN_NAME}} à reçu <strong>{{NB_RESPONSES}}</strong> réponses dont <strong>{{NB_RESPONSES_WITH_STREET}}</strong> réponses avec une rue citée
     (<strong>{{NB_RESPONSES_PERCENT}}%</strong>)
-    <br/>
-    <br/><strong>{{NB_POINTS_NOIRS}}</strong> points noirs identifiés
+   <br/>
+   <br/>
+
+    Seul les <strong>{{TOPVALUE}}</strong> points noirs sont affichés sur cette carte parmis <strong>{{NB_POINTS_NOIRS}}</strong> points noirs identifiés
     <br/>
     <br/> {{MAP_CONTENT}}
     <br/>
+    
+    <h2>Le top {{TOPVALUE}} des points noirs sur un total de {{NB_POINTS_NOIRS}} points noirs</h2>
+    
     <table>
       <thead>
         <tr>
