@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40685677,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1482764,
+                        43.9267667
+                    ],
+                    [
+                        2.1482351,
+                        43.9269013
+                    ],
+                    [
+                        2.1481946,
+                        43.9270605
+                    ],
+                    [
+                        2.1481786,
+                        43.9271236
+                    ],
+                    [
+                        2.1481385,
+                        43.9273419
+                    ],
+                    [
+                        2.148119,
+                        43.927421
+                    ],
+                    [
+                        2.1480892,
+                        43.9275279
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Place du Vigan",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 292338691,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1475013,
+                        43.9274586
+                    ],
+                    [
+                        2.1475392,
+                        43.9272863
+                    ],
+                    [
+                        2.1475882,
+                        43.9270867
+                    ],
+                    [
+                        2.147652,
+                        43.9268138
+                    ],
+                    [
+                        2.1476789,
+                        43.9266988
+                    ],
+                    [
+                        2.147747,
+                        43.9267047
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Place du Vigan",
+                "oneway": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

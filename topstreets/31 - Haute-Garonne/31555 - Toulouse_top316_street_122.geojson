@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23386485,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4020707,
+                        43.6246399
+                    ],
+                    [
+                        1.4011004,
+                        43.6246806
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "name": "Pont de Blagnac",
+                "political_division": "canton",
+                "ref": "D 1",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198764340,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3998149,
+                        43.6247117
+                    ],
+                    [
+                        1.4005926,
+                        43.6246684
+                    ],
+                    [
+                        1.4009985,
+                        43.624648
+                    ],
+                    [
+                        1.4018576,
+                        43.6246078
+                    ],
+                    [
+                        1.4020707,
+                        43.6246399
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "Pont de Blagnac",
+                "oneway": "yes",
+                "ref": "D 1",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 630853376,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4020707,
+                        43.6246399
+                    ],
+                    [
+                        1.4019521,
+                        43.6246793
+                    ],
+                    [
+                        1.3998031,
+                        43.6247909
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "Pont de Blagnac",
+                "oneway": "yes",
+                "ref": "D 1",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

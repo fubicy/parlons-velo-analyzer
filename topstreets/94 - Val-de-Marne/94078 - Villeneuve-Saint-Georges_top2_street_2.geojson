@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 247543488,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4506829,
+                        48.7330607
+                    ],
+                    [
+                        2.4492793,
+                        48.7330421
+                    ],
+                    [
+                        2.4489542,
+                        48.7330378
+                    ],
+                    [
+                        2.4483808,
+                        48.7330302
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue Carnot",
+                "ref": "D 229",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 302995811,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4483808,
+                        48.7330302
+                    ],
+                    [
+                        2.4469291,
+                        48.7330139
+                    ],
+                    [
+                        2.446837,
+                        48.7330129
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Avenue Carnot",
+                "ref": "D 229",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

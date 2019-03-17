@@ -32,7 +32,7 @@ Sur l'ensemble du département, il y a eu 5486 réponses dont 3358 réponses ave
 |69100 - Irigny&nbsp;&#124;&nbsp;<a href='69100 - Irigny_top2.md'>Top 10</a>|4|2(50%)|<img src="../../img/bar_0.gif" />&nbsp;2|
 |69112 - Lentilly&nbsp;&#124;&nbsp;<a href='69112 - Lentilly_top2.md'>Top 10</a>|4|2(50%)|<img src="../../img/bar_0.gif" />&nbsp;2|
 |69118 - Loire-sur-Rhône|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
-|69123 - Lyon&nbsp;&#124;&nbsp;<a href='69123 - Lyon_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='69123 - Lyon_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='69123 - Lyon_top50.md'>Top 50</a>|3657|1973(53%)|<img src="../../img/bar_41.gif" />&nbsp;286|
+|69123 - Lyon&nbsp;&#124;&nbsp;<a href='69123 - Lyon_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='69123 - Lyon_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='69123 - Lyon_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='69123 - Lyon_top286.md'>Top 1000</a>|3657|1973(53%)|<img src="../../img/bar_41.gif" />&nbsp;286|
 |69127 - Marcy-l'Étoile&nbsp;&#124;&nbsp;<a href='69127 - Marcy-l_Étoile_top1.md'>Top 10</a>|2|1(50%)|<img src="../../img/bar_0.gif" />&nbsp;1|
 |69131 - Messimy|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |69140 - Morancé&nbsp;&#124;&nbsp;<a href='69140 - Morancé_top1.md'>Top 10</a>|1|1(100%)|<img src="../../img/bar_0.gif" />&nbsp;1|
@@ -59,7 +59,7 @@ Sur l'ensemble du département, il y a eu 5486 réponses dont 3358 réponses ave
 |69259 - Vénissieux&nbsp;&#124;&nbsp;<a href='69259 - Vénissieux_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='69259 - Vénissieux_top27.md'>Top 30</a>|67|56(83%)|<img src="../../img/bar_3.gif" />&nbsp;27|
 |69260 - Vernaison&nbsp;&#124;&nbsp;<a href='69260 - Vernaison_top4.md'>Top 10</a>|36|13(36%)|<img src="../../img/bar_0.gif" />&nbsp;4|
 |69264 - Villefranche-sur-Saône&nbsp;&#124;&nbsp;<a href='69264 - Villefranche-sur-Saône_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='69264 - Villefranche-sur-Saône_top11.md'>Top 30</a>|25|24(96%)|<img src="../../img/bar_1.gif" />&nbsp;11|
-|69266 - Villeurbanne&nbsp;&#124;&nbsp;<a href='69266 - Villeurbanne_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='69266 - Villeurbanne_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='69266 - Villeurbanne_top50.md'>Top 50</a>|610|521(85%)|<img src="../../img/bar_12.gif" />&nbsp;87|
+|69266 - Villeurbanne&nbsp;&#124;&nbsp;<a href='69266 - Villeurbanne_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='69266 - Villeurbanne_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='69266 - Villeurbanne_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='69266 - Villeurbanne_top87.md'>Top 1000</a>|610|521(85%)|<img src="../../img/bar_12.gif" />&nbsp;87|
 |69268 - Vourles|3|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |69271 - Chassieu&nbsp;&#124;&nbsp;<a href='69271 - Chassieu_top7.md'>Top 10</a>|15|15(100%)|<img src="../../img/bar_1.gif" />&nbsp;7|
 |69272 - Communay&nbsp;&#124;&nbsp;<a href='69272 - Communay_top1.md'>Top 10</a>|1|1(100%)|<img src="../../img/bar_0.gif" />&nbsp;1|

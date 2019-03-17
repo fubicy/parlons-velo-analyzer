@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4435029,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2411491,
+                        48.8789662
+                    ],
+                    [
+                        2.2403685,
+                        48.8793211
+                    ],
+                    [
+                        2.2403285,
+                        48.8793393
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Rue Auguste Blanche",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68809416,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2402168,
+                        48.8793602
+                    ],
+                    [
+                        2.2400977,
+                        48.8793621
+                    ],
+                    [
+                        2.239314,
+                        48.8793909
+                    ],
+                    [
+                        2.2391454,
+                        48.8793999
+                    ],
+                    [
+                        2.2387278,
+                        48.8794237
+                    ],
+                    [
+                        2.2386254,
+                        48.8794312
+                    ],
+                    [
+                        2.236944,
+                        48.8795545
+                    ],
+                    [
+                        2.2366895,
+                        48.8795732
+                    ],
+                    [
+                        2.2366449,
+                        48.8795767
+                    ],
+                    [
+                        2.2365097,
+                        48.8795946
+                    ],
+                    [
+                        2.2363725,
+                        48.8796136
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Rue Auguste Blanche",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 450469114,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2403285,
+                        48.8793393
+                    ],
+                    [
+                        2.2402431,
+                        48.8793803
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Rue Auguste Blanche",
+                "source": "cadastre 2016 + survey",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

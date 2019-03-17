@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27582871,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4360682,
+                        43.5161754
+                    ],
+                    [
+                        5.4360216,
+                        43.5161466
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue Du Pigonnet",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27845693,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.436721,
+                        43.5170295
+                    ],
+                    [
+                        5.4372122,
+                        43.5171376
+                    ],
+                    [
+                        5.4373725,
+                        43.5171613
+                    ],
+                    [
+                        5.4383472,
+                        43.5174758
+                    ],
+                    [
+                        5.438791,
+                        43.5176243
+                    ],
+                    [
+                        5.4392115,
+                        43.5177818
+                    ],
+                    [
+                        5.4393013,
+                        43.5178234
+                    ],
+                    [
+                        5.4399117,
+                        43.5181062
+                    ],
+                    [
+                        5.440151,
+                        43.5182449
+                    ],
+                    [
+                        5.4412933,
+                        43.5188016
+                    ],
+                    [
+                        5.4417344,
+                        43.5190166
+                    ],
+                    [
+                        5.4421682,
+                        43.5192128
+                    ],
+                    [
+                        5.4425661,
+                        43.5193077
+                    ],
+                    [
+                        5.4427336,
+                        43.5192893
+                    ],
+                    [
+                        5.442775,
+                        43.5192883
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Du Pigonnet",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45088463,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4360682,
+                        43.5161754
+                    ],
+                    [
+                        5.4361532,
+                        43.5162293
+                    ],
+                    [
+                        5.4362724,
+                        43.5163049
+                    ],
+                    [
+                        5.4363791,
+                        43.5164033
+                    ],
+                    [
+                        5.4364478,
+                        43.5164666
+                    ],
+                    [
+                        5.4367358,
+                        43.5169582
+                    ],
+                    [
+                        5.436721,
+                        43.5170295
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Du Pigonnet",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

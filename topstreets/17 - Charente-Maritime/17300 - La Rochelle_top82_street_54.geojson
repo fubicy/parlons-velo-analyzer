@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40746229,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1451492,
+                        46.1399084
+                    ],
+                    [
+                        -1.1451728,
+                        46.1399038
+                    ],
+                    [
+                        -1.1451951,
+                        46.139903
+                    ],
+                    [
+                        -1.1452148,
+                        46.1399044
+                    ],
+                    [
+                        -1.1452591,
+                        46.1399104
+                    ],
+                    [
+                        -1.1453636,
+                        46.1399247
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Nicolas Gargot",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170075723,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1445418,
+                        46.1396939
+                    ],
+                    [
+                        -1.1447008,
+                        46.1397384
+                    ],
+                    [
+                        -1.1447897,
+                        46.1397998
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Nicolas Gargot",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

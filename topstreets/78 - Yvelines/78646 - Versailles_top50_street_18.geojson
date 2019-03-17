@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28702350,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1292676,
+                        48.8085313
+                    ],
+                    [
+                        2.1290412,
+                        48.8085413
+                    ],
+                    [
+                        2.1262164,
+                        48.8087703
+                    ],
+                    [
+                        2.126147,
+                        48.8087801
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Neuve Notre-Dame",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164583095,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1252483,
+                        48.808849
+                    ],
+                    [
+                        2.1253049,
+                        48.8088425
+                    ],
+                    [
+                        2.1253561,
+                        48.8088348
+                    ],
+                    [
+                        2.126061,
+                        48.808773
+                    ],
+                    [
+                        2.126147,
+                        48.8087801
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Neuve Notre-Dame",
+                "oneway": "yes",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

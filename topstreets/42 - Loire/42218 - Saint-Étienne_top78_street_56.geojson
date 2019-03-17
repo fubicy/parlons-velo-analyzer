@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 45868000,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3826544,
+                        45.4414122
+                    ],
+                    [
+                        4.3835148,
+                        45.4415375
+                    ],
+                    [
+                        4.3835752,
+                        45.4415463
+                    ],
+                    [
+                        4.3836473,
+                        45.4415558
+                    ],
+                    [
+                        4.3843284,
+                        45.4416457
+                    ],
+                    [
+                        4.3843704,
+                        45.4416513
+                    ],
+                    [
+                        4.3851857,
+                        45.4417589
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Praire",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

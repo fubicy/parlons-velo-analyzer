@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22660913,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4474899,
+                        43.6110307
+                    ],
+                    [
+                        1.4474202,
+                        43.6110739
+                    ],
+                    [
+                        1.4473409,
+                        43.6111257
+                    ],
+                    [
+                        1.4468429,
+                        43.6114857
+                    ],
+                    [
+                        1.4467894,
+                        43.6115248
+                    ],
+                    [
+                        1.44676,
+                        43.6115463
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Saint-Orens",
+                "oneway": "yes",
+                "parking:condition:right": "ticket",
+                "parking:condition:right:2": "ticket",
+                "parking:condition:right:2:fee_per_hour": "12\u20ac",
+                "parking:condition:right:2:maxstay": "2.5 hours",
+                "parking:condition:right:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:right:3": "residents",
+                "parking:condition:right:3:maxstay": "24 hours",
+                "parking:condition:right:3:residents": "RAYMOND IV",
+                "parking:condition:right:default": "free",
+                "parking:condition:right:fee_per_hour": "1.5\u20ac",
+                "parking:condition:right:maxstay": "2 hours",
+                "parking:condition:right:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "parallel",
+                "parking:lane:right:capacity": "10",
+                "parking:lane:right:parallel": "on_street",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24739165,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.263194,
+                        48.7811126
+                    ],
+                    [
+                        2.2633203,
+                        48.7813514
+                    ],
+                    [
+                        2.2628842,
+                        48.7814709
+                    ],
+                    [
+                        2.2627348,
+                        48.7815179
+                    ],
+                    [
+                        2.2626084,
+                        48.781317
+                    ],
+                    [
+                        2.2625818,
+                        48.7812746
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lanes": "1",
+                "name": "Grand'Place",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24739420,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2634322,
+                        48.7810803
+                    ],
+                    [
+                        2.263194,
+                        48.7811126
+                    ],
+                    [
+                        2.2625818,
+                        48.7812746
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lanes": "2",
+                "name": "Grand'Place",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

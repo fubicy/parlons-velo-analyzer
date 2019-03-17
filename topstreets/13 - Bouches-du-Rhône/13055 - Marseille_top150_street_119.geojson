@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 131118836,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4018838,
+                        43.3094216
+                    ],
+                    [
+                        5.4018209,
+                        43.3092806
+                    ]
+                ]
+            },
+            "properties": {
+                "conveying": "backward",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "level": "0;-2",
+                "name": "Chartreux",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "railway": "subway_entrance",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 421543447,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.401919,
+                        43.3094125
+                    ],
+                    [
+                        5.4018567,
+                        43.3092711
+                    ]
+                ]
+            },
+            "properties": {
+                "conveying": "forward",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "level": "0;-2",
+                "name": "Chartreux",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "railway": "subway_entrance",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 421543450,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4019009,
+                        43.309417
+                    ],
+                    [
+                        5.4018386,
+                        43.3092755
+                    ]
+                ]
+            },
+            "properties": {
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "level": "0;-2",
+                "name": "Chartreux",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "railway": "subway_entrance",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

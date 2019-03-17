@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17948773,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0325938,
+                        47.2379419
+                    ],
+                    [
+                        6.0337593,
+                        47.238334
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Bregille",
+                "oneway": "no",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17948791,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0323019,
+                        47.2374798
+                    ],
+                    [
+                        6.0322716,
+                        47.2375414
+                    ],
+                    [
+                        6.0322488,
+                        47.2376431
+                    ],
+                    [
+                        6.0322524,
+                        47.2377342
+                    ],
+                    [
+                        6.032318,
+                        47.2378108
+                    ],
+                    [
+                        6.0324752,
+                        47.2378862
+                    ],
+                    [
+                        6.0325938,
+                        47.2379419
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Pont de Bregille",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25869723,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3091103,
+                        48.9295371
+                    ],
+                    [
+                        2.3057498,
+                        48.9299952
+                    ],
+                    [
+                        2.3053285,
+                        48.9300567
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue du Moulin de Cage",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67828570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3110592,
+                        48.929028
+                    ],
+                    [
+                        2.3113172,
+                        48.9289788
+                    ],
+                    [
+                        2.311351,
+                        48.9289723
+                    ],
+                    [
+                        2.3144255,
+                        48.9283847
+                    ],
+                    [
+                        2.3187866,
+                        48.9274394
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Moulin de Cage",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 619408589,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3187425,
+                        48.9273688
+                    ],
+                    [
+                        2.3143905,
+                        48.9283352
+                    ],
+                    [
+                        2.3112993,
+                        48.9289409
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Rue du Moulin de Cage",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

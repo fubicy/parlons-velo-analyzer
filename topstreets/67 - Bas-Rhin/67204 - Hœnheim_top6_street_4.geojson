@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29397183,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7199159,
+                        48.6218395
+                    ],
+                    [
+                        7.7199507,
+                        48.621796
+                    ],
+                    [
+                        7.7200001,
+                        48.6217125
+                    ],
+                    [
+                        7.7201384,
+                        48.6214178
+                    ],
+                    [
+                        7.7201389,
+                        48.6217634
+                    ],
+                    [
+                        7.7201553,
+                        48.6218622
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue du Triage",
+                "oneway": "yes",
+                "source": "Bing",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88078182,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7201384,
+                        48.6214178
+                    ],
+                    [
+                        7.7204658,
+                        48.6193031
+                    ],
+                    [
+                        7.7206823,
+                        48.6178514
+                    ],
+                    [
+                        7.7207815,
+                        48.6171434
+                    ],
+                    [
+                        7.7207736,
+                        48.6170562
+                    ],
+                    [
+                        7.7207646,
+                        48.6169898
+                    ],
+                    [
+                        7.7207508,
+                        48.6169304
+                    ],
+                    [
+                        7.7207283,
+                        48.6168565
+                    ],
+                    [
+                        7.7206879,
+                        48.6167767
+                    ],
+                    [
+                        7.7206355,
+                        48.6166983
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "lit": "no",
+                "name": "Rue du Triage",
+                "sidewalk": "no",
+                "smoothness": "good",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

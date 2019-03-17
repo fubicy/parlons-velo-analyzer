@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 339021898,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.2062681,
+                        48.8913154
+                    ],
+                    [
+                        -0.206838,
+                        48.8911721
+                    ],
+                    [
+                        -0.2075446,
+                        48.8909047
+                    ],
+                    [
+                        -0.2109797,
+                        48.889585
+                    ],
+                    [
+                        -0.2110626,
+                        48.8895519
+                    ],
+                    [
+                        -0.2129746,
+                        48.888813
+                    ],
+                    [
+                        -0.2134164,
+                        48.8886422
+                    ],
+                    [
+                        -0.2139081,
+                        48.8884492
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route de Bretagne",
+                "ref:FR:FANTOIR": "142580110C",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 624354824,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.2139081,
+                        48.8884492
+                    ],
+                    [
+                        -0.2173485,
+                        48.8870985
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "80",
+                "name": "Route de Bretagne",
+                "ref:FR:FANTOIR": "142580110C",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:rural",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

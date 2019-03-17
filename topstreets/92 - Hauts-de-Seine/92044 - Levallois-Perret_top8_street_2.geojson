@@ -1,0 +1,355 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40040363,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3009883,
+                        48.8922821
+                    ],
+                    [
+                        2.3008507,
+                        48.8924036
+                    ],
+                    [
+                        2.3005266,
+                        48.8926816
+                    ],
+                    [
+                        2.2998615,
+                        48.8931842
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Victor Hugo",
+                "ref": "D 909",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44617081,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2994263,
+                        48.8935316
+                    ],
+                    [
+                        2.2993438,
+                        48.8935629
+                    ],
+                    [
+                        2.2985683,
+                        48.8942145
+                    ],
+                    [
+                        2.2975945,
+                        48.8949401
+                    ],
+                    [
+                        2.2971316,
+                        48.8952902
+                    ],
+                    [
+                        2.2969286,
+                        48.8954596
+                    ],
+                    [
+                        2.2968599,
+                        48.8955168
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "psv": "opposite_track",
+                "ref": "D 909",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60268250,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.296468,
+                        48.8959197
+                    ],
+                    [
+                        2.2963773,
+                        48.896022
+                    ],
+                    [
+                        2.295737,
+                        48.896744
+                    ],
+                    [
+                        2.2956875,
+                        48.8967998
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "ref": "D 909",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81514693,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2926172,
+                        48.9002557
+                    ],
+                    [
+                        2.2926883,
+                        48.9003704
+                    ],
+                    [
+                        2.2926559,
+                        48.9006748
+                    ],
+                    [
+                        2.292639,
+                        48.9007681
+                    ]
+                ]
+            },
+            "properties": {
+                "NOM_RD": "D909",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "maxheight": "4.50",
+                "maxspeed": "50",
+                "name": "Rue Victor Hugo",
+                "ref": "D 909",
+                "source": "opendata.hauts-de-seine.net 2012",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121881960,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2956875,
+                        48.8967998
+                    ],
+                    [
+                        2.2950416,
+                        48.897526
+                    ],
+                    [
+                        2.2949959,
+                        48.8975774
+                    ],
+                    [
+                        2.2944286,
+                        48.8982066
+                    ],
+                    [
+                        2.2943596,
+                        48.8982831
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "ref": "D 909",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121881961,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2943596,
+                        48.8982831
+                    ],
+                    [
+                        2.2942266,
+                        48.8984406
+                    ],
+                    [
+                        2.2940924,
+                        48.8985869
+                    ],
+                    [
+                        2.293992,
+                        48.8986983
+                    ],
+                    [
+                        2.2938276,
+                        48.8988809
+                    ],
+                    [
+                        2.2934638,
+                        48.8992852
+                    ],
+                    [
+                        2.2934343,
+                        48.8993188
+                    ],
+                    [
+                        2.2927811,
+                        48.9000233
+                    ],
+                    [
+                        2.2926172,
+                        48.9002557
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "ref": "D 909",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190910686,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2968599,
+                        48.8955168
+                    ],
+                    [
+                        2.2967966,
+                        48.895572
+                    ],
+                    [
+                        2.2965771,
+                        48.8958015
+                    ],
+                    [
+                        2.2965537,
+                        48.8958241
+                    ],
+                    [
+                        2.296468,
+                        48.8959197
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "ref": "D 909",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 648283088,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2998615,
+                        48.8931842
+                    ],
+                    [
+                        2.299498,
+                        48.8934857
+                    ],
+                    [
+                        2.2994263,
+                        48.8935316
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Victor Hugo",
+                "ref": "D 909",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

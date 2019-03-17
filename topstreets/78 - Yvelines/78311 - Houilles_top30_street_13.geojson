@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34235685,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1785219,
+                        48.9180588
+                    ],
+                    [
+                        2.1786294,
+                        48.9180481
+                    ],
+                    [
+                        2.1788232,
+                        48.9181064
+                    ],
+                    [
+                        2.180387,
+                        48.9185475
+                    ],
+                    [
+                        2.181116,
+                        48.9187532
+                    ],
+                    [
+                        2.1824875,
+                        48.9191145
+                    ],
+                    [
+                        2.1826551,
+                        48.9191587
+                    ],
+                    [
+                        2.1837077,
+                        48.9194264
+                    ],
+                    [
+                        2.1846428,
+                        48.919673
+                    ],
+                    [
+                        2.1848213,
+                        48.919696
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Gay-Lussac",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

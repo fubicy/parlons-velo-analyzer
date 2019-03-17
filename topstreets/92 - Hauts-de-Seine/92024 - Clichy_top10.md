@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 73 réponses dont 60 réponses avec une rue
 
 13 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Boulevard Jean Jaurès | 17 | 23% | <img src="../../img/bar_28.gif" />&nbsp;28%|
-| Rue Martre | 13 | 17% | <img src="../../img/bar_21.gif" />&nbsp;21%|
-| Rue Henri Barbusse | 7 | 9% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Boulevard Victor Hugo | 6 | 8% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Rue de Paris | 3 | 4% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Pont de Clichy | 3 | 4% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue de Neuilly | 2 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Villeneuve | 2 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Quai de Clichy | 2 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Pont de Gennevilliers | 2 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| **Total** | 57 | 78% | 95%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Boulevard Jean Jaurès | 17 | <img src="../../img/bar_29.gif" />&nbsp;29%|
+| Rue Martre | 13 | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| Rue Henri Barbusse | 7 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Boulevard Victor Hugo | 6 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Rue de Paris | 3 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Pont de Clichy | 3 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue de Neuilly | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue Villeneuve | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Quai de Clichy | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Pont de Gennevilliers | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 57 | 100%|

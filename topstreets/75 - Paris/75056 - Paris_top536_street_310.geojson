@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23123749,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3355133,
+                        48.8273725
+                    ],
+                    [
+                        2.3355107,
+                        48.8274372
+                    ],
+                    [
+                        2.3354752,
+                        48.8279711
+                    ],
+                    [
+                        2.3354891,
+                        48.828097
+                    ],
+                    [
+                        2.3354976,
+                        48.8281736
+                    ],
+                    [
+                        2.3356053,
+                        48.8287067
+                    ],
+                    [
+                        2.3356116,
+                        48.8289622
+                    ],
+                    [
+                        2.3355842,
+                        48.8291698
+                    ],
+                    [
+                        2.3354247,
+                        48.8295738
+                    ],
+                    [
+                        2.335319,
+                        48.8297419
+                    ],
+                    [
+                        2.3349339,
+                        48.8301587
+                    ],
+                    [
+                        2.3348945,
+                        48.8302013
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue du Saint-Gothard",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013P0951",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

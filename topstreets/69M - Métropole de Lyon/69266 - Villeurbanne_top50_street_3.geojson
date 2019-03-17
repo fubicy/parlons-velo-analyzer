@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 386078359,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8721768,
+                        45.7790832
+                    ],
+                    [
+                        4.8719772,
+                        45.7790619
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "La Doua",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "11205",
+                "route_ref": "C17A:R,C26A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386078360,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8717741,
+                        45.7788936
+                    ],
+                    [
+                        4.8719663,
+                        45.7789163
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "La Doua",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "12297",
+                "route_ref": "C17A:A,C26A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

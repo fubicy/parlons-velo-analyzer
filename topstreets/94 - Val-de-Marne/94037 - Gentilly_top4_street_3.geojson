@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 346572805,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3444258,
+                        48.8056939
+                    ],
+                    [
+                        2.3445418,
+                        48.8058147
+                    ],
+                    [
+                        2.3446881,
+                        48.8057508
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Parking",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 346572806,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3445418,
+                        48.8058147
+                    ],
+                    [
+                        2.3443677,
+                        48.8058888
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Parking",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

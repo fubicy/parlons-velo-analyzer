@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4262527,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7299629,
+                        45.1935756
+                    ],
+                    [
+                        5.7305969,
+                        45.1935296
+                    ],
+                    [
+                        5.7308135,
+                        45.1934926
+                    ],
+                    [
+                        5.7311045,
+                        45.1934274
+                    ],
+                    [
+                        5.73131,
+                        45.1933605
+                    ],
+                    [
+                        5.7316518,
+                        45.1931859
+                    ],
+                    [
+                        5.7316859,
+                        45.1931645
+                    ],
+                    [
+                        5.7317116,
+                        45.19315
+                    ],
+                    [
+                        5.7317409,
+                        45.1931334
+                    ],
+                    [
+                        5.7317705,
+                        45.1931167
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "30",
+                "name": "Rue Chenoise",
+                "note": "Va prochainement devenir une rue pi\u00e9tonne, dans le cadre de CVCM",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

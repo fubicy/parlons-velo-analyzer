@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22957049,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.367058,
+                        48.8455409
+                    ],
+                    [
+                        2.3650825,
+                        48.8444353
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont d'Austerlitz",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22957050,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3671667,
+                        48.8456052
+                    ],
+                    [
+                        2.367058,
+                        48.8455409
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "name": "Pont d'Austerlitz",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31830631,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3651719,
+                        48.8443669
+                    ],
+                    [
+                        2.3669495,
+                        48.8453645
+                    ],
+                    [
+                        2.3670275,
+                        48.8454209
+                    ],
+                    [
+                        2.3671363,
+                        48.8454852
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "lanes": "2",
+                "layer": "1",
+                "motor_vehicle": "no",
+                "name": "Pont d'Austerlitz",
+                "oneway": "no",
+                "psv": "yes",
+                "taxi": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

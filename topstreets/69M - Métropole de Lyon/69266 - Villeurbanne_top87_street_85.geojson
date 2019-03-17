@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8080867,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.88477,
+                        45.7609435
+                    ],
+                    [
+                        4.8847744,
+                        45.7610526
+                    ],
+                    [
+                        4.8847564,
+                        45.7614348
+                    ],
+                    [
+                        4.8847543,
+                        45.7614765
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue Auguste Blanqui",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181422641,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8847543,
+                        45.7614765
+                    ],
+                    [
+                        4.8847425,
+                        45.7617933
+                    ],
+                    [
+                        4.8846841,
+                        45.7626663
+                    ],
+                    [
+                        4.8846075,
+                        45.7638548
+                    ],
+                    [
+                        4.8845442,
+                        45.7646058
+                    ],
+                    [
+                        4.884531,
+                        45.7647208
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue Auguste Blanqui",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

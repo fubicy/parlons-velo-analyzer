@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29245959,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0284632,
+                        50.6355568
+                    ],
+                    [
+                        3.0286661,
+                        50.6356318
+                    ],
+                    [
+                        3.0287748,
+                        50.635676
+                    ],
+                    [
+                        3.0288969,
+                        50.6357272
+                    ],
+                    [
+                        3.0290001,
+                        50.6357734
+                    ],
+                    [
+                        3.0290542,
+                        50.6358017
+                    ],
+                    [
+                        3.0290946,
+                        50.6358228
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "maxstay": "1.5 hours @ (09:00-18:00)",
+                "name": "Avenue de Soubise",
+                "oneway": "yes",
+                "source": "survey",
+                "source:maxstay": "http://www.lambersart.fr/Vos-demarches/Actualites/Zone-bleue-a-Canteleu",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

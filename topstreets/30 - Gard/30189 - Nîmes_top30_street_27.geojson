@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16171185,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3591734,
+                        43.8389388
+                    ],
+                    [
+                        4.359155,
+                        43.8389956
+                    ],
+                    [
+                        4.3589669,
+                        43.8395776
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Halles",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16171333,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3591734,
+                        43.8389388
+                    ],
+                    [
+                        4.359397,
+                        43.8383709
+                    ]
+                ]
+            },
+            "properties": {
+                "created_by": "Editop",
+                "highway": "pedestrian",
+                "name": "Rue des Halles",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

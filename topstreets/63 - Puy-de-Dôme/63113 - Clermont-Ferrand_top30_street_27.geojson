@@ -1,0 +1,136 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4212866,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0914746,
+                        45.7807699
+                    ],
+                    [
+                        3.0915395,
+                        45.7808312
+                    ],
+                    [
+                        3.0915644,
+                        45.7808576
+                    ],
+                    [
+                        3.0915934,
+                        45.7808768
+                    ],
+                    [
+                        3.091636,
+                        45.7808947
+                    ],
+                    [
+                        3.0916914,
+                        45.7809038
+                    ],
+                    [
+                        3.091969,
+                        45.7809569
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue des Jacobins",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105555972,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.091969,
+                        45.7809569
+                    ],
+                    [
+                        3.0928828,
+                        45.7811096
+                    ],
+                    [
+                        3.0936071,
+                        45.7812564
+                    ],
+                    [
+                        3.0937719,
+                        45.7813014
+                    ],
+                    [
+                        3.0939213,
+                        45.781354
+                    ],
+                    [
+                        3.0940857,
+                        45.7814281
+                    ],
+                    [
+                        3.0941828,
+                        45.7814823
+                    ],
+                    [
+                        3.0950026,
+                        45.78194
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "secondary",
+                "name": "Rue des Jacobins",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 423687553,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0950026,
+                        45.78194
+                    ],
+                    [
+                        3.0952083,
+                        45.7820932
+                    ],
+                    [
+                        3.0952865,
+                        45.7821614
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "secondary",
+                "name": "Rue des Jacobins",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

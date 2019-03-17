@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 332468850,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.558607,
+                        47.2201608
+                    ],
+                    [
+                        -1.5585996,
+                        47.2202279
+                    ],
+                    [
+                        -1.5585831,
+                        47.22026
+                    ],
+                    [
+                        -1.558551,
+                        47.2202876
+                    ],
+                    [
+                        -1.558474,
+                        47.2203358
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Jeanne d'Arc",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332468855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5563172,
+                        47.2209603
+                    ],
+                    [
+                        -1.55641,
+                        47.2209124
+                    ],
+                    [
+                        -1.5564457,
+                        47.2209012
+                    ],
+                    [
+                        -1.5570492,
+                        47.2207363
+                    ],
+                    [
+                        -1.5571076,
+                        47.2207203
+                    ],
+                    [
+                        -1.5572839,
+                        47.2206722
+                    ],
+                    [
+                        -1.558474,
+                        47.2203358
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Jeanne d'Arc",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332468865,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.558474,
+                        47.2203358
+                    ],
+                    [
+                        -1.558534,
+                        47.2203248
+                    ],
+                    [
+                        -1.5585902,
+                        47.2203078
+                    ],
+                    [
+                        -1.5586403,
+                        47.2202869
+                    ],
+                    [
+                        -1.5586965,
+                        47.2202577
+                    ],
+                    [
+                        -1.5587181,
+                        47.2202453
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Jeanne d'Arc",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

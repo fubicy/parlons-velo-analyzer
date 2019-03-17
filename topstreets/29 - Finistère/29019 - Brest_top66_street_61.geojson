@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25713637,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4740709,
+                        48.3872173
+                    ],
+                    [
+                        -4.4743461,
+                        48.3872929
+                    ],
+                    [
+                        -4.4745919,
+                        48.387346
+                    ],
+                    [
+                        -4.4753444,
+                        48.3874566
+                    ],
+                    [
+                        -4.4759152,
+                        48.3875313
+                    ],
+                    [
+                        -4.4762493,
+                        48.387561
+                    ],
+                    [
+                        -4.4763781,
+                        48.3875839
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rampe du Moulin Grivart",
+                "oneway": "no",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

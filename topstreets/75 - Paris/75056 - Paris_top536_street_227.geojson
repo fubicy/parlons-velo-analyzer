@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32530221,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3337186,
+                        48.8174786
+                    ],
+                    [
+                        2.3342821,
+                        48.8178644
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bridge": "yes",
+                "highway": "footway",
+                "layer": "1",
+                "name": "Passerelle des Arts et M\u00e9tiers",
+                "opening_hours": "07:00-22:00",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 369019899,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3342821,
+                        48.8178644
+                    ],
+                    [
+                        2.3343246,
+                        48.8178928
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "highway": "steps",
+                "incline": "down",
+                "name": "Passerelle des Arts et M\u00e9tiers",
+                "opening_hours": "07:00-22:00",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 369019900,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3337394,
+                        48.817602
+                    ],
+                    [
+                        2.3336411,
+                        48.8175342
+                    ],
+                    [
+                        2.3337186,
+                        48.8174786
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "incline": "up",
+                "name": "Passerelle des Arts et M\u00e9tiers",
+                "opening_hours": "07:00-22:00",
+                "source": "survey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

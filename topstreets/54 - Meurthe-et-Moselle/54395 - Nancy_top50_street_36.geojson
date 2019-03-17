@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 161671775,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1692407,
+                        48.7047651
+                    ],
+                    [
+                        6.1693775,
+                        48.7046169
+                    ],
+                    [
+                        6.1694597,
+                        48.7045291
+                    ],
+                    [
+                        6.1695635,
+                        48.7044409
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Rue de Metz",
+                "old_ref": "N 57",
+                "oneway": "yes",
+                "ref": "D 570",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161855121,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1695635,
+                        48.7044409
+                    ],
+                    [
+                        6.1699607,
+                        48.7038849
+                    ],
+                    [
+                        6.1700092,
+                        48.7038171
+                    ],
+                    [
+                        6.1702249,
+                        48.7035142
+                    ],
+                    [
+                        6.1703751,
+                        48.7032988
+                    ],
+                    [
+                        6.1704732,
+                        48.7031627
+                    ],
+                    [
+                        6.1706805,
+                        48.7028728
+                    ],
+                    [
+                        6.1707451,
+                        48.7027837
+                    ],
+                    [
+                        6.1708601,
+                        48.702622
+                    ],
+                    [
+                        6.1710263,
+                        48.7023914
+                    ],
+                    [
+                        6.1712402,
+                        48.7020675
+                    ],
+                    [
+                        6.1714624,
+                        48.7017501
+                    ],
+                    [
+                        6.1714716,
+                        48.7017362
+                    ],
+                    [
+                        6.1715173,
+                        48.7016668
+                    ],
+                    [
+                        6.1715834,
+                        48.701576
+                    ],
+                    [
+                        6.1717287,
+                        48.7013766
+                    ],
+                    [
+                        6.171832,
+                        48.7012318
+                    ],
+                    [
+                        6.1719325,
+                        48.7010909
+                    ],
+                    [
+                        6.1720186,
+                        48.7009703
+                    ],
+                    [
+                        6.17206,
+                        48.7009121
+                    ],
+                    [
+                        6.1725119,
+                        48.7002788
+                    ],
+                    [
+                        6.1725443,
+                        48.7002334
+                    ],
+                    [
+                        6.1725822,
+                        48.7001803
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue de Metz",
+                "old_ref": "N 57",
+                "ref": "D 570",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164038615,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.169249,
+                        48.7049106
+                    ],
+                    [
+                        6.1691385,
+                        48.7049958
+                    ],
+                    [
+                        6.1689619,
+                        48.7051022
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Rue de Metz",
+                "old_ref": "N 57",
+                "oneway": "yes",
+                "ref": "D 570",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 213559675,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1689619,
+                        48.7051022
+                    ],
+                    [
+                        6.1691026,
+                        48.7049301
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Rue de Metz",
+                "oneway": "yes",
+                "ref": "D 570",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223409535,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1725822,
+                        48.7001803
+                    ],
+                    [
+                        6.1726347,
+                        48.7001067
+                    ],
+                    [
+                        6.1738659,
+                        48.6983809
+                    ],
+                    [
+                        6.1739109,
+                        48.6983147
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:forward": "Bus de Tourisme",
+                "destination:symbol:forward": "parking",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Metz",
+                "old_ref": "N 57",
+                "ref": "D 570",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 615455994,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1691026,
+                        48.7049301
+                    ],
+                    [
+                        6.1692407,
+                        48.7047651
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Rue de Metz",
+                "oneway": "yes",
+                "ref": "D 570",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

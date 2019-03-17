@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 303 réponses dont 78 réponses avec une ru
 
 46 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Boulevard des Pyrénées | 8 | 2% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Place de Catalogne | 7 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rond-Point du Moulin à Vent | 4 | 1% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Pont Arago | 4 | 1% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Passage de l'Université | 4 | 1% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Cours Lazare Escarguel | 4 | 1% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Pont Joffre | 3 | 0% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue de l'École | 2 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Route de Canet | 2 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Route d'Elne | 2 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 40 | 13% | 51%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Boulevard des Pyrénées | 8 | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| Place de Catalogne | 7 | <img src="../../img/bar_17.gif" />&nbsp;17%|
+| Rond-Point du Moulin à Vent | 4 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Pont Arago | 4 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Passage de l'Université | 4 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Cours Lazare Escarguel | 4 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Pont Joffre | 3 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rue de l'École | 2 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Route de Canet | 2 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Route d'Elne | 2 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| **Total** | 40 | 100%|

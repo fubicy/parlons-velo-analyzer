@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 138317379,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2755607,
+                        48.9019011
+                    ],
+                    [
+                        2.2758366,
+                        48.9016599
+                    ],
+                    [
+                        2.2785093,
+                        48.8992189
+                    ],
+                    [
+                        2.2785357,
+                        48.899194
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Pont de Levallois",
+                "ref": "D 9bis",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

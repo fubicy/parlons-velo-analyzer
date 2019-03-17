@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29261261,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.8511408,
+                        47.6347463
+                    ],
+                    [
+                        6.8513888,
+                        47.6348521
+                    ],
+                    [
+                        6.8517206,
+                        47.6349936
+                    ],
+                    [
+                        6.8517509,
+                        47.6350065
+                    ],
+                    [
+                        6.8519607,
+                        47.635096
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Michelet",
+                "oneway": "yes",
+                "ref": "D 483",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 262911295,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.8529054,
+                        47.6354989
+                    ],
+                    [
+                        6.8529995,
+                        47.6355327
+                    ],
+                    [
+                        6.8530885,
+                        47.6355647
+                    ],
+                    [
+                        6.8533229,
+                        47.6356597
+                    ],
+                    [
+                        6.8538732,
+                        47.6358828
+                    ],
+                    [
+                        6.8539835,
+                        47.6358983
+                    ],
+                    [
+                        6.8544118,
+                        47.6358719
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "name": "Rue Michelet",
+                "oneway": "yes",
+                "ref": "D 483",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 279131397,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.8519607,
+                        47.635096
+                    ],
+                    [
+                        6.8521107,
+                        47.6351599
+                    ],
+                    [
+                        6.8524989,
+                        47.6353255
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Michelet",
+                "oneway": "yes",
+                "ref": "D 483",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 590568136,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.8544118,
+                        47.6358719
+                    ],
+                    [
+                        6.8545246,
+                        47.6358707
+                    ],
+                    [
+                        6.8546346,
+                        47.6358695
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "20",
+                "name": "Rue Michelet",
+                "oneway": "yes",
+                "ref": "D 483",
+                "surface": "asphalt",
+                "traffic_calming": "hump",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

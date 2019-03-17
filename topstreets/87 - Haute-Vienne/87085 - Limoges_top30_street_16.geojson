@@ -1,0 +1,176 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27001833,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2550504,
+                        45.8297545
+                    ],
+                    [
+                        1.2550982,
+                        45.8296248
+                    ],
+                    [
+                        1.2551585,
+                        45.8294994
+                    ],
+                    [
+                        1.2552049,
+                        45.8294248
+                    ],
+                    [
+                        1.2552631,
+                        45.8293609
+                    ],
+                    [
+                        1.2558213,
+                        45.8288618
+                    ],
+                    [
+                        1.255926,
+                        45.8287726
+                    ],
+                    [
+                        1.2560482,
+                        45.8286685
+                    ],
+                    [
+                        1.2561488,
+                        45.8285892
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "shared_lane",
+                "cycleway:right": "shared_lane",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Boulevard Gambetta",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 333785885,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2581602,
+                        45.8277439
+                    ],
+                    [
+                        1.2582878,
+                        45.8277148
+                    ],
+                    [
+                        1.2597195,
+                        45.8274037
+                    ],
+                    [
+                        1.2599798,
+                        45.8273472
+                    ],
+                    [
+                        1.2601268,
+                        45.8273269
+                    ],
+                    [
+                        1.2602306,
+                        45.827304
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "shared_lane",
+                "cycleway:right": "shared_lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Gambetta",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 333785893,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2561488,
+                        45.8285892
+                    ],
+                    [
+                        1.2562406,
+                        45.8285104
+                    ],
+                    [
+                        1.256377,
+                        45.8284183
+                    ],
+                    [
+                        1.2565503,
+                        45.8283121
+                    ],
+                    [
+                        1.2568157,
+                        45.8281637
+                    ],
+                    [
+                        1.2569884,
+                        45.8280854
+                    ],
+                    [
+                        1.2571187,
+                        45.8280264
+                    ],
+                    [
+                        1.2572334,
+                        45.8279763
+                    ],
+                    [
+                        1.257426,
+                        45.8279111
+                    ],
+                    [
+                        1.2577912,
+                        45.827821
+                    ],
+                    [
+                        1.2581602,
+                        45.8277439
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "shared_lane",
+                "cycleway:right": "shared_lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Gambetta",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37420225,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6728088,
+                        45.1196041
+                    ],
+                    [
+                        5.6726946,
+                        45.1194606
+                    ],
+                    [
+                        5.6726478,
+                        45.119394
+                    ],
+                    [
+                        5.6725577,
+                        45.1193052
+                    ],
+                    [
+                        5.672443,
+                        45.1191938
+                    ],
+                    [
+                        5.6723603,
+                        45.1191097
+                    ],
+                    [
+                        5.6723562,
+                        45.1190664
+                    ],
+                    [
+                        5.6724363,
+                        45.118924
+                    ],
+                    [
+                        5.6725006,
+                        45.1187784
+                    ],
+                    [
+                        5.6725715,
+                        45.1186196
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du 11 Novembre",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

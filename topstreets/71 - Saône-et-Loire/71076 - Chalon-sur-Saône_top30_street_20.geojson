@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 97232875,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8454402,
+                        46.7776373
+                    ],
+                    [
+                        4.8454971,
+                        46.7775104
+                    ],
+                    [
+                        4.8455042,
+                        46.7774935
+                    ],
+                    [
+                        4.8457861,
+                        46.7769495
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue de la Grange Frangy",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 302885752,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8457861,
+                        46.7769495
+                    ],
+                    [
+                        4.8458041,
+                        46.7769255
+                    ],
+                    [
+                        4.8458458,
+                        46.7768701
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue de la Grange Frangy",
+                "traffic_calming": "hump",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

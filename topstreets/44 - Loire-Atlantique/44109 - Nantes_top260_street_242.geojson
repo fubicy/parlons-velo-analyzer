@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 148921247,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5284859,
+                        47.2029664
+                    ],
+                    [
+                        -1.5286381,
+                        47.2029059
+                    ],
+                    [
+                        -1.5287643,
+                        47.2028561
+                    ],
+                    [
+                        -1.5291038,
+                        47.2027324
+                    ],
+                    [
+                        -1.5292926,
+                        47.2026501
+                    ],
+                    [
+                        -1.5293995,
+                        47.202589
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway": "no",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard des Pas Enchant\u00e9s",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195229053,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.52947,
+                        47.2026051
+                    ],
+                    [
+                        -1.5293201,
+                        47.2026867
+                    ],
+                    [
+                        -1.5291475,
+                        47.2027737
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "cycleway",
+                "lit": "yes",
+                "mofa": "no",
+                "motor_vehicle": "no",
+                "motorcycle": "no",
+                "name": "Boulevard des Pas Enchant\u00e9s",
+                "segregated": "no",
+                "surface": "compacted",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

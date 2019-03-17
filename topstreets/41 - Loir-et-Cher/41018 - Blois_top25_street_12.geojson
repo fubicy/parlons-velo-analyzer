@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 53671761,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3386035,
+                        47.5934974
+                    ],
+                    [
+                        1.3384742,
+                        47.59356
+                    ],
+                    [
+                        1.3374742,
+                        47.5940439
+                    ],
+                    [
+                        1.3372361,
+                        47.5941648
+                    ],
+                    [
+                        1.3359936,
+                        47.5948653
+                    ],
+                    [
+                        1.3349033,
+                        47.5954308
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue d'Auvergne",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 569921509,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3349033,
+                        47.5954308
+                    ],
+                    [
+                        1.3340495,
+                        47.5958792
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue d'Auvergne",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 589412562,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3340495,
+                        47.5958792
+                    ],
+                    [
+                        1.3332626,
+                        47.5963033
+                    ],
+                    [
+                        1.3323578,
+                        47.5967572
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue d'Auvergne",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

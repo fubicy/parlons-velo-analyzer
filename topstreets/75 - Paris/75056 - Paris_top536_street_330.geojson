@@ -1,0 +1,358 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22770931,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4101357,
+                        48.8554996
+                    ],
+                    [
+                        2.4100097,
+                        48.8555117
+                    ],
+                    [
+                        2.4097975,
+                        48.8555341
+                    ],
+                    [
+                        2.4097007,
+                        48.8555204
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue des Orteaux",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22770936,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4058758,
+                        48.8560954
+                    ],
+                    [
+                        2.4057601,
+                        48.8562382
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue des Orteaux",
+                "oneway": "no",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23973878,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4030157,
+                        48.8564514
+                    ],
+                    [
+                        2.4028654,
+                        48.8564718
+                    ],
+                    [
+                        2.4024094,
+                        48.856534
+                    ],
+                    [
+                        2.4022301,
+                        48.8565584
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Orteaux",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49425744,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4049363,
+                        48.8561927
+                    ],
+                    [
+                        2.4048492,
+                        48.8562043
+                    ],
+                    [
+                        2.4047725,
+                        48.856216
+                    ],
+                    [
+                        2.4035483,
+                        48.8563782
+                    ],
+                    [
+                        2.4031372,
+                        48.8564348
+                    ],
+                    [
+                        2.4030157,
+                        48.8564514
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Orteaux",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90044452,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4054996,
+                        48.8561285
+                    ],
+                    [
+                        2.4058758,
+                        48.8560954
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Orteaux",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013P0846",
+                "surface": "paved",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90044453,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4057601,
+                        48.8562382
+                    ],
+                    [
+                        2.4054996,
+                        48.8561285
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Orteaux",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013P0846",
+                "surface": "paved",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90044457,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4054996,
+                        48.8561285
+                    ],
+                    [
+                        2.4050496,
+                        48.8561771
+                    ],
+                    [
+                        2.4049363,
+                        48.8561927
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Orteaux",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013P0846",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109400099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4022301,
+                        48.8565584
+                    ],
+                    [
+                        2.4019685,
+                        48.8565951
+                    ],
+                    [
+                        2.4005852,
+                        48.8567892
+                    ],
+                    [
+                        2.4001149,
+                        48.8568552
+                    ],
+                    [
+                        2.3999944,
+                        48.8568741
+                    ],
+                    [
+                        2.3998172,
+                        48.8568829
+                    ],
+                    [
+                        2.3987944,
+                        48.8569247
+                    ],
+                    [
+                        2.3982576,
+                        48.8569471
+                    ],
+                    [
+                        2.3982185,
+                        48.8569596
+                    ],
+                    [
+                        2.3981815,
+                        48.8570091
+                    ],
+                    [
+                        2.398131,
+                        48.8570723
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Orteaux",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 284231644,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4097007,
+                        48.8555204
+                    ],
+                    [
+                        2.4083742,
+                        48.8556934
+                    ],
+                    [
+                        2.4082396,
+                        48.8557499
+                    ],
+                    [
+                        2.4081116,
+                        48.8557975
+                    ],
+                    [
+                        2.4072068,
+                        48.8559291
+                    ],
+                    [
+                        2.4067607,
+                        48.8559883
+                    ],
+                    [
+                        2.4061112,
+                        48.8560681
+                    ],
+                    [
+                        2.4059861,
+                        48.8560835
+                    ],
+                    [
+                        2.4058758,
+                        48.8560954
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Orteaux",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013P0846",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

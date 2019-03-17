@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 267625340,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6866091,
+                        47.3734837
+                    ],
+                    [
+                        0.6864009,
+                        47.3735147
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Churchill",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 267625341,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.685628,
+                        47.373466
+                    ],
+                    [
+                        0.6857788,
+                        47.3734445
+                    ],
+                    [
+                        0.6858938,
+                        47.3734281
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Churchill",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

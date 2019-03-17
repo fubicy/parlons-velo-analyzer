@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18034699,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3543692,
+                        48.8728008
+                    ],
+                    [
+                        2.3542568,
+                        48.8728393
+                    ],
+                    [
+                        2.3526565,
+                        48.8733866
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Petites \u00c9curies",
+                "note": "[lapinos03] Pas de couloir de v\u00e9lo r\u00e9serv\u00e9, juste des symboles Cycliste au sol pour marquer le sens contraire de circulation",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "wikidata": "Q2401216",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25469115,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3479115,
+                        48.8740226
+                    ],
+                    [
+                        2.3480448,
+                        48.8740128
+                    ],
+                    [
+                        2.3505085,
+                        48.8738319
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Petites \u00c9curies",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q2401216",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32445669,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3526565,
+                        48.8733866
+                    ],
+                    [
+                        2.3525453,
+                        48.8734244
+                    ],
+                    [
+                        2.3524627,
+                        48.8734525
+                    ],
+                    [
+                        2.3519402,
+                        48.8736176
+                    ],
+                    [
+                        2.3516855,
+                        48.8736719
+                    ],
+                    [
+                        2.3506082,
+                        48.8738001
+                    ],
+                    [
+                        2.3505085,
+                        48.8738319
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_track",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Petites \u00c9curies",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "wikidata": "Q2401216",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

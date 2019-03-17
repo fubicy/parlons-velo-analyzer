@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 180283959,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.80645,
+                        47.69922
+                    ],
+                    [
+                        -2.8064408,
+                        47.6986143
+                    ],
+                    [
+                        -2.806464,
+                        47.6982906
+                    ],
+                    [
+                        -2.8064766,
+                        47.698115
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Pierre",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

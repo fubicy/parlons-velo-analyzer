@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 136714006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6815468,
+                        45.1991062
+                    ],
+                    [
+                        0.6813166,
+                        45.1997247
+                    ],
+                    [
+                        0.68131,
+                        45.1997379
+                    ],
+                    [
+                        0.6812923,
+                        45.1997834
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de l'Isle",
+                "oneway": "yes",
+                "source": "Bing",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136714023,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6818153,
+                        45.1983731
+                    ],
+                    [
+                        0.6820931,
+                        45.1976546
+                    ],
+                    [
+                        0.6824748,
+                        45.1969572
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de l'Isle",
+                "source": "Bing",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

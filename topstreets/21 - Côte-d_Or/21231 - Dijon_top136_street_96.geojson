@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4571756,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0468464,
+                        47.3191965
+                    ],
+                    [
+                        5.0467455,
+                        47.3192351
+                    ],
+                    [
+                        5.0467127,
+                        47.3192654
+                    ],
+                    [
+                        5.0466895,
+                        47.3193084
+                    ],
+                    [
+                        5.0467037,
+                        47.3195137
+                    ],
+                    [
+                        5.0467193,
+                        47.3197405
+                    ],
+                    [
+                        5.0468303,
+                        47.3202759
+                    ],
+                    [
+                        5.0469872,
+                        47.3206789
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saumaise",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23360802,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0469872,
+                        47.3206789
+                    ],
+                    [
+                        5.0470795,
+                        47.3208963
+                    ],
+                    [
+                        5.0472789,
+                        47.321106
+                    ],
+                    [
+                        5.0474815,
+                        47.3213358
+                    ],
+                    [
+                        5.0475842,
+                        47.321491
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saumaise",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

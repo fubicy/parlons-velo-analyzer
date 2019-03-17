@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 267625362,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6810095,
+                        47.3737074
+                    ],
+                    [
+                        0.6807481,
+                        47.3737077
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Saint-Sauveur",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 267625363,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6810118,
+                        47.373565
+                    ],
+                    [
+                        0.6811866,
+                        47.3735691
+                    ],
+                    [
+                        0.6813345,
+                        47.3735725
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Saint-Sauveur",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

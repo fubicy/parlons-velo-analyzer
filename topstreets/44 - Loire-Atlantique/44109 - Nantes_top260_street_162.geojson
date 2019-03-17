@@ -1,0 +1,193 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30409515,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5539675,
+                        47.2181433
+                    ],
+                    [
+                        -1.5538622,
+                        47.2182033
+                    ],
+                    [
+                        -1.5537451,
+                        47.2182512
+                    ],
+                    [
+                        -1.5535992,
+                        47.2182933
+                    ],
+                    [
+                        -1.5535346,
+                        47.2183139
+                    ],
+                    [
+                        -1.5534755,
+                        47.2183453
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Commune",
+                "name:br": "Straed ar Gumun",
+                "name:fr": "Rue de la Commune",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:capacity": "5",
+                "parking:condition:left:maxstay": "2 h",
+                "parking:lane:left": "marked",
+                "sidewalk": "both",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104491296,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5539675,
+                        47.2181433
+                    ],
+                    [
+                        -1.5540434,
+                        47.2180838
+                    ],
+                    [
+                        -1.5541968,
+                        47.2179956
+                    ],
+                    [
+                        -1.5542666,
+                        47.2179566
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Commune",
+                "name:br": "Straed ar Gumun",
+                "name:fr": "Rue de la Commune",
+                "sidewalk": "both",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104491298,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5542105,
+                        47.2178056
+                    ],
+                    [
+                        -1.554217,
+                        47.2178671
+                    ],
+                    [
+                        -1.5542302,
+                        47.2179086
+                    ],
+                    [
+                        -1.5542666,
+                        47.2179566
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Commune",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104491304,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5542666,
+                        47.2179566
+                    ],
+                    [
+                        -1.5544988,
+                        47.2178368
+                    ],
+                    [
+                        -1.5545459,
+                        47.2178149
+                    ],
+                    [
+                        -1.5545826,
+                        47.2177651
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Commune",
+                "name:br": "Straed ar Gumun",
+                "name:fr": "Rue de la Commune",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "parking:condition:right": "ticket",
+                "parking:condition:right:capacity": "5",
+                "parking:condition:right:maxstay": "2 h",
+                "parking:lane:right": "marked",
+                "sidewalk": "both",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

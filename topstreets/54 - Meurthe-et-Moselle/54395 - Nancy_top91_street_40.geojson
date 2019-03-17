@@ -1,0 +1,185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23380888,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1762449,
+                        48.7001995
+                    ],
+                    [
+                        6.1763402,
+                        48.7002056
+                    ],
+                    [
+                        6.1765892,
+                        48.70024
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Henri D\u00e9glin",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30510912,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1780458,
+                        48.7003679
+                    ],
+                    [
+                        6.1781413,
+                        48.7003761
+                    ],
+                    [
+                        6.1781812,
+                        48.7003795
+                    ],
+                    [
+                        6.1787124,
+                        48.700425
+                    ],
+                    [
+                        6.1788799,
+                        48.7004394
+                    ],
+                    [
+                        6.179007,
+                        48.7004772
+                    ],
+                    [
+                        6.1796368,
+                        48.7007554
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Henri D\u00e9glin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54787524,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1765892,
+                        48.70024
+                    ],
+                    [
+                        6.176655,
+                        48.700244
+                    ],
+                    [
+                        6.1779039,
+                        48.7003553
+                    ],
+                    [
+                        6.1780458,
+                        48.7003679
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Henri D\u00e9glin",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54787529,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1765892,
+                        48.70024
+                    ],
+                    [
+                        6.1764387,
+                        48.7002678
+                    ],
+                    [
+                        6.176393,
+                        48.70028
+                    ],
+                    [
+                        6.1763031,
+                        48.7003025
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Henri D\u00e9glin",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85692094,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1796368,
+                        48.7007554
+                    ],
+                    [
+                        6.1812409,
+                        48.7014745
+                    ],
+                    [
+                        6.1824782,
+                        48.7020363
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Henri D\u00e9glin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

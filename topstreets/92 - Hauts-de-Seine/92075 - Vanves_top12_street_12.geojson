@@ -1,0 +1,196 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17039602,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2916746,
+                        48.8186894
+                    ],
+                    [
+                        2.2915218,
+                        48.8187995
+                    ],
+                    [
+                        2.2913778,
+                        48.8189146
+                    ],
+                    [
+                        2.2912766,
+                        48.8190033
+                    ],
+                    [
+                        2.2911564,
+                        48.8191188
+                    ],
+                    [
+                        2.2910448,
+                        48.8192379
+                    ],
+                    [
+                        2.290942,
+                        48.8193605
+                    ],
+                    [
+                        2.2909145,
+                        48.8193959
+                    ],
+                    [
+                        2.2908511,
+                        48.8194824
+                    ],
+                    [
+                        2.290792,
+                        48.8195702
+                    ],
+                    [
+                        2.2906996,
+                        48.8197265
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "shared_lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Jacques J\u00e9z\u00e9quel",
+                "ref": "D 61A",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17039683,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2902333,
+                        48.8200844
+                    ],
+                    [
+                        2.2903101,
+                        48.8200233
+                    ],
+                    [
+                        2.290504,
+                        48.8198235
+                    ],
+                    [
+                        2.290792,
+                        48.8195702
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Avenue Jacques J\u00e9z\u00e9quel",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 346879724,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2906454,
+                        48.8202442
+                    ],
+                    [
+                        2.2905582,
+                        48.8201342
+                    ],
+                    [
+                        2.2905514,
+                        48.8200863
+                    ],
+                    [
+                        2.2905474,
+                        48.8200583
+                    ],
+                    [
+                        2.2905501,
+                        48.8199771
+                    ],
+                    [
+                        2.2905689,
+                        48.8198976
+                    ],
+                    [
+                        2.2906038,
+                        48.8198199
+                    ],
+                    [
+                        2.2906996,
+                        48.8197265
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Avenue Jacques J\u00e9z\u00e9quel",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 348493186,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2906996,
+                        48.8197265
+                    ],
+                    [
+                        2.2906547,
+                        48.8199029
+                    ],
+                    [
+                        2.2906413,
+                        48.8200106
+                    ],
+                    [
+                        2.2906583,
+                        48.8200599
+                    ],
+                    [
+                        2.2907593,
+                        48.8202153
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Avenue Jacques J\u00e9z\u00e9quel",
+                "oneway": "yes",
+                "ref": "D 61A",
+                "sidewalk": "right",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

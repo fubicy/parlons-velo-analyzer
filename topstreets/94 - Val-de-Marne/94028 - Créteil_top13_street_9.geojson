@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31233116,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4619285,
+                        48.8052774
+                    ],
+                    [
+                        2.4592026,
+                        48.8039069
+                    ],
+                    [
+                        2.4591486,
+                        48.8038801
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Henri",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "zone:maxspeed": "FR:30",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

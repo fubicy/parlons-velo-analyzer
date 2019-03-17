@@ -1,0 +1,219 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 64308443,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8410908,
+                        45.7635623
+                    ],
+                    [
+                        4.8412811,
+                        45.7635634
+                    ],
+                    [
+                        4.8413477,
+                        45.7635637
+                    ],
+                    [
+                        4.8414374,
+                        45.7635642
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Pont Lafayette",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64308444,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8386841,
+                        45.7635178
+                    ],
+                    [
+                        4.8410908,
+                        45.7635623
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Lafayette",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122524146,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8410919,
+                        45.7635134
+                    ],
+                    [
+                        4.8411301,
+                        45.7635144
+                    ],
+                    [
+                        4.8412789,
+                        45.7635018
+                    ],
+                    [
+                        4.8413115,
+                        45.7635022
+                    ],
+                    [
+                        4.8413419,
+                        45.7635015
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Pont Lafayette",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122524147,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8386834,
+                        45.7634727
+                    ],
+                    [
+                        4.8387231,
+                        45.7634857
+                    ],
+                    [
+                        4.8410919,
+                        45.7635134
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "Pont Lafayette",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122524148,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8410885,
+                        45.7636425
+                    ],
+                    [
+                        4.8410473,
+                        45.7636352
+                    ],
+                    [
+                        4.8387129,
+                        45.7636067
+                    ],
+                    [
+                        4.8386862,
+                        45.7636136
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "foot": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "Pont Lafayette",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172926613,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8384239,
+                        45.762611
+                    ],
+                    [
+                        4.8385969,
+                        45.7627492
+                    ],
+                    [
+                        4.8386253,
+                        45.7627793
+                    ],
+                    [
+                        4.8386321,
+                        45.7628111
+                    ],
+                    [
+                        4.8386245,
+                        45.7634072
+                    ],
+                    [
+                        4.8386506,
+                        45.7634435
+                    ],
+                    [
+                        4.8386689,
+                        45.7634598
+                    ],
+                    [
+                        4.8386834,
+                        45.7634727
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Pont Lafayette",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23247752,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4543108,
+                        43.6170725
+                    ],
+                    [
+                        1.4542324,
+                        43.6171053
+                    ],
+                    [
+                        1.4527273,
+                        43.6177338
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue Joubert",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31458554,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4033109,
+                        48.8898269
+                    ],
+                    [
+                        2.4032652,
+                        48.8898221
+                    ],
+                    [
+                        2.4032007,
+                        48.8898144
+                    ],
+                    [
+                        2.4016987,
+                        48.8896361
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Sept Arpents",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

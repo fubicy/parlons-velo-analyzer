@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 128131688,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.188152,
+                        48.700385
+                    ],
+                    [
+                        2.1881594,
+                        48.7003228
+                    ],
+                    [
+                        2.1881558,
+                        48.7002946
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "unclassified",
+                "maxspeed": "30",
+                "name": "Avenue du Mar\u00e9chal Foch",
+                "ref": "D 446",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163585086,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1881011,
+                        48.6995839
+                    ],
+                    [
+                        2.1880545,
+                        48.6994702
+                    ],
+                    [
+                        2.1879596,
+                        48.6992392
+                    ],
+                    [
+                        2.1879464,
+                        48.6992086
+                    ],
+                    [
+                        2.1879306,
+                        48.6991736
+                    ],
+                    [
+                        2.1878882,
+                        48.6990832
+                    ],
+                    [
+                        2.1878481,
+                        48.6989977
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "highway:cycle": "tertiary",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue du Mar\u00e9chal Foch",
+                "ref": "D 446",
+                "surface": "asphalt",
+                "turn:lanes:forward": "through|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180964039,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1878481,
+                        48.6989977
+                    ],
+                    [
+                        2.1878308,
+                        48.6989608
+                    ],
+                    [
+                        2.1878119,
+                        48.6989232
+                    ],
+                    [
+                        2.1877985,
+                        48.6989018
+                    ],
+                    [
+                        2.1876644,
+                        48.6986856
+                    ],
+                    [
+                        2.187635,
+                        48.6986534
+                    ],
+                    [
+                        2.187604,
+                        48.6986177
+                    ],
+                    [
+                        2.1875461,
+                        48.6985507
+                    ],
+                    [
+                        2.1873889,
+                        48.698417
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "highway:cycle": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue du Mar\u00e9chal Foch",
+                "ref": "D 446",
+                "surface": "asphalt",
+                "turn:lanes:forward": "through|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 213560705,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1881558,
+                        48.7002946
+                    ],
+                    [
+                        2.1881548,
+                        48.7002111
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue du Mar\u00e9chal Foch",
+                "ref": "D 446",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 555826580,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1881548,
+                        48.7002111
+                    ],
+                    [
+                        2.1881525,
+                        48.7000292
+                    ],
+                    [
+                        2.1881499,
+                        48.6998252
+                    ],
+                    [
+                        2.1881011,
+                        48.6995839
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "tertiary",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue du Mar\u00e9chal Foch",
+                "ref": "D 446",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left;through|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

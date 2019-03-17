@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 38143296,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4456588,
+                        48.1734367
+                    ],
+                    [
+                        6.4456656,
+                        48.1735393
+                    ],
+                    [
+                        6.4456994,
+                        48.1740477
+                    ],
+                    [
+                        6.4457155,
+                        48.1744526
+                    ],
+                    [
+                        6.445718,
+                        48.1745163
+                    ],
+                    [
+                        6.4457218,
+                        48.1746122
+                    ],
+                    [
+                        6.4457389,
+                        48.1750428
+                    ],
+                    [
+                        6.4457498,
+                        48.1753169
+                    ],
+                    [
+                        6.4457374,
+                        48.1756965
+                    ],
+                    [
+                        6.4457425,
+                        48.1757977
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Quai des Bons Enfants",
+                "oneway": "yes",
+                "ref": "D 157",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 603248317,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4457425,
+                        48.1757977
+                    ],
+                    [
+                        6.4458031,
+                        48.176127
+                    ],
+                    [
+                        6.4457914,
+                        48.1762321
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "name": "Quai des Bons Enfants",
+                "oneway": "yes",
+                "ref": "D 157",
+                "turn:lanes": "left|through|right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

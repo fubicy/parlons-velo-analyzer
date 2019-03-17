@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25701142,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7713635,
+                        48.0708213
+                    ],
+                    [
+                        -0.7713021,
+                        48.0708516
+                    ],
+                    [
+                        -0.7712511,
+                        48.0708767
+                    ],
+                    [
+                        -0.7711548,
+                        48.0709241
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Pont Aristide Briand",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303156685,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7711548,
+                        48.0709241
+                    ],
+                    [
+                        -0.7706885,
+                        48.0709376
+                    ],
+                    [
+                        -0.7702436,
+                        48.0709511
+                    ],
+                    [
+                        -0.7701482,
+                        48.0709539
+                    ],
+                    [
+                        -0.7700591,
+                        48.0709568
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Pont Aristide Briand",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "wikidata": "Q14628923",
+                "wikipedia": "fr:Pont Aristide-Briand (Laval)",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

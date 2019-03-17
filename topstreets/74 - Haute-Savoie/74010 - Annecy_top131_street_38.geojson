@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 634407457,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1109774,
+                        45.89189
+                    ],
+                    [
+                        6.1109834,
+                        45.8919147
+                    ],
+                    [
+                        6.1109962,
+                        45.8919465
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Orme",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 634407458,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1108701,
+                        45.8918811
+                    ],
+                    [
+                        6.1108185,
+                        45.8917962
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Orme",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

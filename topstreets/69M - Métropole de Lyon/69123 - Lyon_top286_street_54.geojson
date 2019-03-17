@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 82263767,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.828999,
+                        45.7593826
+                    ],
+                    [
+                        4.8292889,
+                        45.7592415
+                    ],
+                    [
+                        4.8293441,
+                        45.7592094
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary_link",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Bonaparte",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82263769,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8293902,
+                        45.7592679
+                    ],
+                    [
+                        4.828999,
+                        45.7593826
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Pont Bonaparte",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "wikipedia": "fr:Pont Bonaparte",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 242800824,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8294159,
+                        45.7593005
+                    ],
+                    [
+                        4.828999,
+                        45.7593826
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary_link",
+                "layer": "1",
+                "name": "Pont Bonaparte",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 249945788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.828999,
+                        45.7593826
+                    ],
+                    [
+                        4.8280159,
+                        45.7596752
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Pont Bonaparte",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "wikidata": "Q3396474",
+                "wikipedia": "fr:Pont Bonaparte",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 280277426,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8280159,
+                        45.7596752
+                    ],
+                    [
+                        4.8279151,
+                        45.7597073
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Pont Bonaparte",
+                "surface": "asphalt",
+                "wikipedia": "fr:Pont Bonaparte",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25023519,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.0934902,
+                        49.1146256
+                    ],
+                    [
+                        -1.0928587,
+                        49.114756
+                    ],
+                    [
+                        -1.0924456,
+                        49.1148186
+                    ],
+                    [
+                        -1.0917997,
+                        49.1148531
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Havin",
+                "ref": "D 999",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 285025282,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.0917997,
+                        49.1148531
+                    ],
+                    [
+                        -1.0905745,
+                        49.1148926
+                    ],
+                    [
+                        -1.0904666,
+                        49.114896
+                    ],
+                    [
+                        -1.0904436,
+                        49.1148983
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Havin",
+                "ref": "D 999",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

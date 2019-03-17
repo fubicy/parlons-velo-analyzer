@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 160097983,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4682245,
+                        46.8305287
+                    ],
+                    [
+                        3.468478,
+                        46.83045
+                    ],
+                    [
+                        3.4688727,
+                        46.8303649
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Avenue de Verdun",
+                "old_ref": "N81",
+                "oneway": "yes",
+                "ref": "D 981",
+                "source": "survey",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169784775,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4805203,
+                        46.8282266
+                    ],
+                    [
+                        3.483608,
+                        46.8278087
+                    ],
+                    [
+                        3.4837849,
+                        46.8277864
+                    ],
+                    [
+                        3.4839485,
+                        46.8278002
+                    ],
+                    [
+                        3.4841013,
+                        46.8278169
+                    ],
+                    [
+                        3.4847413,
+                        46.8278791
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Avenue de Verdun",
+                "old_ref": "N81",
+                "oneway": "no",
+                "ref": "D 981",
+                "source": "survey",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 210648742,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4688727,
+                        46.8303649
+                    ],
+                    [
+                        3.4690161,
+                        46.8303321
+                    ],
+                    [
+                        3.4692525,
+                        46.8302761
+                    ],
+                    [
+                        3.4711963,
+                        46.8298534
+                    ],
+                    [
+                        3.4712864,
+                        46.8298338
+                    ],
+                    [
+                        3.473269,
+                        46.8293847
+                    ],
+                    [
+                        3.474694,
+                        46.8290619
+                    ],
+                    [
+                        3.4748842,
+                        46.8290215
+                    ],
+                    [
+                        3.4758163,
+                        46.8288847
+                    ],
+                    [
+                        3.4766427,
+                        46.8287655
+                    ],
+                    [
+                        3.4771988,
+                        46.8286838
+                    ],
+                    [
+                        3.4778139,
+                        46.8285934
+                    ],
+                    [
+                        3.4781619,
+                        46.8285467
+                    ],
+                    [
+                        3.4783015,
+                        46.8285279
+                    ],
+                    [
+                        3.480426,
+                        46.8282394
+                    ],
+                    [
+                        3.4805203,
+                        46.8282266
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Verdun",
+                "old_ref": "N81",
+                "ref": "D 981",
+                "source": "survey",
+                "source:maxspeed": "sign",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 310413191,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4671735,
+                        46.8305908
+                    ],
+                    [
+                        3.4674058,
+                        46.8306332
+                    ],
+                    [
+                        3.4675895,
+                        46.8306407
+                    ],
+                    [
+                        3.4677146,
+                        46.8306302
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:lanes": "Nevers;St L\u00e9ger des Vignes;La Machine;Imphy|M\u00e2con;Digoin;Autun;Cercy la Tour;St Honor\u00e9 les Bains;Ch\u00e2teau-Chinon",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue de Verdun",
+                "old_ref": "N81",
+                "oneway": "yes",
+                "ref": "D 981",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 310413194,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.468144,
+                        46.8305505
+                    ],
+                    [
+                        3.4682245,
+                        46.8305287
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:lanes": "Nevers;St L\u00e9ger des Vignes;La Machine;Imphy|M\u00e2con;Digoin;Autun;Cercy la Tour;St Honor\u00e9 les Bains;Ch\u00e2teau-Chinon",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Verdun",
+                "old_ref": "N81",
+                "oneway": "yes",
+                "ref": "D 981",
+                "source": "survey",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 477239114,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4677146,
+                        46.8306302
+                    ],
+                    [
+                        3.4678573,
+                        46.8306109
+                    ],
+                    [
+                        3.4680689,
+                        46.8305672
+                    ],
+                    [
+                        3.468144,
+                        46.8305505
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:lanes": "Nevers;St L\u00e9ger des Vignes;La Machine;Imphy|M\u00e2con;Digoin;Autun;Cercy la Tour;St Honor\u00e9 les Bains;Ch\u00e2teau-Chinon",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Verdun",
+                "old_ref": "N81",
+                "oneway": "yes",
+                "ref": "D 981",
+                "source": "survey",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 492154227,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4670802,
+                        46.830557
+                    ],
+                    [
+                        3.4671735,
+                        46.8305908
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:lanes": "Nevers;St L\u00e9ger des Vignes;La Machine;Imphy|M\u00e2con;Digoin;Autun;Cercy la Tour;St Honor\u00e9 les Bains;Ch\u00e2teau-Chinon",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue de Verdun",
+                "old_ref": "N81",
+                "oneway": "yes",
+                "ref": "D 981",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

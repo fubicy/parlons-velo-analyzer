@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 81591063,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1157364,
+                        49.5212088
+                    ],
+                    [
+                        0.1159457,
+                        49.5210651
+                    ],
+                    [
+                        0.1164764,
+                        49.5207466
+                    ],
+                    [
+                        0.1173244,
+                        49.5202671
+                    ],
+                    [
+                        0.1174208,
+                        49.5202126
+                    ],
+                    [
+                        0.1175149,
+                        49.5201569
+                    ],
+                    [
+                        0.1175684,
+                        49.5201253
+                    ],
+                    [
+                        0.1178442,
+                        49.5199621
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de l'Avenir",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105943732,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1186804,
+                        49.5194972
+                    ],
+                    [
+                        0.1178442,
+                        49.5199621
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de l'Avenir",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105943735,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1178442,
+                        49.5199621
+                    ],
+                    [
+                        0.1185378,
+                        49.5194254
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de l'Avenir",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

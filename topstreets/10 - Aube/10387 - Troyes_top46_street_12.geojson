@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25497503,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0717068,
+                        48.2951453
+                    ],
+                    [
+                        4.0718418,
+                        48.2951892
+                    ],
+                    [
+                        4.072188,
+                        48.2953017
+                    ],
+                    [
+                        4.0722673,
+                        48.2953388
+                    ],
+                    [
+                        4.0726072,
+                        48.2954982
+                    ],
+                    [
+                        4.0727439,
+                        48.2955622
+                    ],
+                    [
+                        4.0729633,
+                        48.295665
+                    ],
+                    [
+                        4.0731516,
+                        48.2957533
+                    ],
+                    [
+                        4.0732073,
+                        48.2957792
+                    ],
+                    [
+                        4.0735542,
+                        48.2959409
+                    ],
+                    [
+                        4.0739687,
+                        48.2961085
+                    ],
+                    [
+                        4.074054,
+                        48.29614
+                    ],
+                    [
+                        4.0742426,
+                        48.2962098
+                    ],
+                    [
+                        4.0744766,
+                        48.296314
+                    ],
+                    [
+                        4.0748515,
+                        48.2964783
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "boundary": "political",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue \u00c9mile Zola",
+                "oneway": "yes",
+                "political_division": "canton",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52123700,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0748515,
+                        48.2964783
+                    ],
+                    [
+                        4.0752415,
+                        48.2966623
+                    ],
+                    [
+                        4.0754721,
+                        48.2967852
+                    ],
+                    [
+                        4.0754951,
+                        48.2967975
+                    ],
+                    [
+                        4.0755706,
+                        48.2968378
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue \u00c9mile Zola",
+                "oneway": "yes",
+                "political_division": "canton",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190668793,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0755706,
+                        48.2968378
+                    ],
+                    [
+                        4.0768465,
+                        48.2975554
+                    ],
+                    [
+                        4.0773288,
+                        48.2978087
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue \u00c9mile Zola",
+                "oneway": "yes",
+                "political_division": "canton",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "sign",
+                "surface": "paving_stones",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

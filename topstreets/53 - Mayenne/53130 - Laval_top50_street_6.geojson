@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26211330,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7610743,
+                        48.0602257
+                    ],
+                    [
+                        -0.7611576,
+                        48.0601793
+                    ],
+                    [
+                        -0.7620494,
+                        48.0596831
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxweight": "70",
+                "name": "Pont d'Avesni\u00e8res",
+                "oneway": "yes",
+                "ref": "D 57",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through|right",
+                "wikidata": "Q16510367",
+                "wikipedia": "fr:Pont d'Avesni\u00e8res",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26211333,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7619016,
+                        48.0595959
+                    ],
+                    [
+                        -0.7610142,
+                        48.0601562
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxweight": "70",
+                "name": "Pont d'Avesni\u00e8res",
+                "oneway": "yes",
+                "ref": "D 57",
+                "surface": "dirt",
+                "wikidata": "Q16510367",
+                "wikipedia": "fr:Pont d'Avesni\u00e8res",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37988867,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3042178,
+                        48.7406451
+                    ],
+                    [
+                        2.3041195,
+                        48.7406535
+                    ],
+                    [
+                        2.3040598,
+                        48.7406586
+                    ],
+                    [
+                        2.3026523,
+                        48.7407791
+                    ],
+                    [
+                        2.3025686,
+                        48.7407862
+                    ],
+                    [
+                        2.3024661,
+                        48.7407915
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Jour",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

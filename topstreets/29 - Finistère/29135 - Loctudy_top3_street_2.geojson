@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 60231909,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.1690917,
+                        47.8343164
+                    ],
+                    [
+                        -4.1690758,
+                        47.8342524
+                    ],
+                    [
+                        -4.1686622,
+                        47.8330084
+                    ],
+                    [
+                        -4.1686384,
+                        47.8328985
+                    ],
+                    [
+                        -4.1685964,
+                        47.8327611
+                    ],
+                    [
+                        -4.1686045,
+                        47.832726
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Port",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "paved",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152792578,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.1695267,
+                        47.8353138
+                    ],
+                    [
+                        -4.1694873,
+                        47.8352874
+                    ],
+                    [
+                        -4.1694346,
+                        47.8352383
+                    ],
+                    [
+                        -4.1693873,
+                        47.8351434
+                    ],
+                    [
+                        -4.1690917,
+                        47.8343164
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Port",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

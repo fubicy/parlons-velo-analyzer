@@ -1,0 +1,168 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25833499,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.073569,
+                        49.4208028
+                    ],
+                    [
+                        1.074465,
+                        49.4223137
+                    ],
+                    [
+                        1.0754811,
+                        49.424017
+                    ],
+                    [
+                        1.0755766,
+                        49.4242134
+                    ],
+                    [
+                        1.0755864,
+                        49.4242303
+                    ],
+                    [
+                        1.0756674,
+                        49.4243688
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "50",
+                "motor_vehicle": "permissive",
+                "name": "Rue Lethuillier-Pinel",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25833500,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0760201,
+                        49.4249807
+                    ],
+                    [
+                        1.0756827,
+                        49.4246174
+                    ],
+                    [
+                        1.0756504,
+                        49.4245826
+                    ],
+                    [
+                        1.0755428,
+                        49.4244668
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Lethuillier-Pinel",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25833501,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0756674,
+                        49.4243688
+                    ],
+                    [
+                        1.0757567,
+                        49.4245236
+                    ],
+                    [
+                        1.0760201,
+                        49.4249807
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Lethuillier-Pinel",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128287822,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0760201,
+                        49.4249807
+                    ],
+                    [
+                        1.0762474,
+                        49.4253562
+                    ],
+                    [
+                        1.0764845,
+                        49.4257449
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Lethuillier-Pinel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 639086490,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0764845,
+                        49.4257449
+                    ],
+                    [
+                        1.0771011,
+                        49.4267777
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Lethuillier-Pinel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

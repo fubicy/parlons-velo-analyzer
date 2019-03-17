@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23380652,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1801167,
+                        48.6787481
+                    ],
+                    [
+                        6.1800886,
+                        48.6787754
+                    ],
+                    [
+                        6.1800611,
+                        48.6788293
+                    ],
+                    [
+                        6.1799907,
+                        48.6789627
+                    ],
+                    [
+                        6.179247,
+                        48.6801231
+                    ],
+                    [
+                        6.1790054,
+                        48.6805126
+                    ],
+                    [
+                        6.1789954,
+                        48.6805276
+                    ],
+                    [
+                        6.1789306,
+                        48.6806247
+                    ],
+                    [
+                        6.1788812,
+                        48.6807032
+                    ],
+                    [
+                        6.1787784,
+                        48.6808668
+                    ],
+                    [
+                        6.1787253,
+                        48.6809888
+                    ],
+                    [
+                        6.1787025,
+                        48.681022
+                    ],
+                    [
+                        6.1784859,
+                        48.681361
+                    ],
+                    [
+                        6.17844,
+                        48.6814202
+                    ],
+                    [
+                        6.1783976,
+                        48.6814623
+                    ],
+                    [
+                        6.1783689,
+                        48.6815025
+                    ],
+                    [
+                        6.1783129,
+                        48.6815809
+                    ],
+                    [
+                        6.1779498,
+                        48.6821544
+                    ],
+                    [
+                        6.1779083,
+                        48.6822273
+                    ],
+                    [
+                        6.1778597,
+                        48.682304
+                    ],
+                    [
+                        6.1773384,
+                        48.6831029
+                    ],
+                    [
+                        6.1771403,
+                        48.6834191
+                    ],
+                    [
+                        6.1770496,
+                        48.68355
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Boulevard Jean Jaur\u00e8s",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 601949662,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.176812,
+                        48.6839666
+                    ],
+                    [
+                        6.1767222,
+                        48.6841045
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Boulevard Jean Jaur\u00e8s",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 601949665,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1770496,
+                        48.68355
+                    ],
+                    [
+                        6.1768661,
+                        48.6838569
+                    ],
+                    [
+                        6.176812,
+                        48.6839666
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Boulevard Jean Jaur\u00e8s",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through;right",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

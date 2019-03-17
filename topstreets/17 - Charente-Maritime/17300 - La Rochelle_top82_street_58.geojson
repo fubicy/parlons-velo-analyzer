@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18895112,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1517857,
+                        46.1642088
+                    ],
+                    [
+                        -1.1531909,
+                        46.164438
+                    ],
+                    [
+                        -1.1541353,
+                        46.1645071
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Delayant",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18902941,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1545489,
+                        46.1645743
+                    ],
+                    [
+                        -1.1555889,
+                        46.1647634
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "name": "Rue Delayant",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225667538,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1545489,
+                        46.1645743
+                    ],
+                    [
+                        -1.1541353,
+                        46.1645071
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Delayant",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

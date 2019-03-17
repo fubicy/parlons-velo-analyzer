@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32538591,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4936978,
+                        48.9340094
+                    ],
+                    [
+                        2.4936377,
+                        48.933537
+                    ],
+                    [
+                        2.4934493,
+                        48.9324252
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Anatole France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88525957,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4939316,
+                        48.9358451
+                    ],
+                    [
+                        2.4936978,
+                        48.9340094
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Anatole France",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

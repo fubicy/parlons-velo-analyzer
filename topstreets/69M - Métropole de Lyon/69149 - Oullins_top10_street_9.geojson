@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 6075999,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7981676,
+                        45.7201076
+                    ],
+                    [
+                        4.7979623,
+                        45.7202601
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Blanc",
+                "railway": "abandoned",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

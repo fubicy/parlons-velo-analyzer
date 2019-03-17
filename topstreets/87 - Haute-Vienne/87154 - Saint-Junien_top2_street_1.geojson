@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 112181456,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.8989614,
+                        45.887605
+                    ],
+                    [
+                        0.89913,
+                        45.8877139
+                    ],
+                    [
+                        0.90049,
+                        45.8885782
+                    ],
+                    [
+                        0.9005607,
+                        45.8886227
+                    ],
+                    [
+                        0.9010712,
+                        45.8889441
+                    ],
+                    [
+                        0.9011717,
+                        45.8890041
+                    ],
+                    [
+                        0.9015788,
+                        45.8892475
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Boulevard Victor Hugo",
+                "ref": "D 941",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2011",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 400467544,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.9023621,
+                        45.8896652
+                    ],
+                    [
+                        0.9021162,
+                        45.8895931
+                    ],
+                    [
+                        0.9020442,
+                        45.889572
+                    ],
+                    [
+                        0.9015788,
+                        45.8892475
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Boulevard Victor Hugo",
+                "oneway": "yes",
+                "ref": "D 941",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2011",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 179887717,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9046758,
+                        47.9026046
+                    ],
+                    [
+                        1.9047048,
+                        47.9021387
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Place du Martroi",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 422904527,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9057857,
+                        47.9027133
+                    ],
+                    [
+                        1.905258,
+                        47.9026556
+                    ],
+                    [
+                        1.9048153,
+                        47.9026144
+                    ],
+                    [
+                        1.9048096,
+                        47.902614
+                    ],
+                    [
+                        1.9046758,
+                        47.9026046
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Place du Martroi",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 422904529,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9046758,
+                        47.9026046
+                    ],
+                    [
+                        1.9046677,
+                        47.9027299
+                    ],
+                    [
+                        1.9047194,
+                        47.9027896
+                    ],
+                    [
+                        1.9047183,
+                        47.9028715
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "cycleway:both": "no",
+                "highway": "residential",
+                "name": "Place du Martroi",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

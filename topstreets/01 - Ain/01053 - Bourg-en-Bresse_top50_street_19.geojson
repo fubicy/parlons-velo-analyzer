@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28902749,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2301,
+                        46.2015223
+                    ],
+                    [
+                        5.2291939,
+                        46.2020664
+                    ],
+                    [
+                        5.2279141,
+                        46.2028348
+                    ],
+                    [
+                        5.2278443,
+                        46.202875
+                    ],
+                    [
+                        5.2275266,
+                        46.2030577
+                    ],
+                    [
+                        5.2271185,
+                        46.2032813
+                    ],
+                    [
+                        5.2266913,
+                        46.2035103
+                    ]
+                ]
+            },
+            "properties": {
+                "hgv": "destination",
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "maxweight": "3.5",
+                "name": "Rue de la R\u00e9publique",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

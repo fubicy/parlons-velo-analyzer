@@ -1,0 +1,262 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 201018680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2759901,
+                        48.1952253
+                    ],
+                    [
+                        3.2759772,
+                        48.1952509
+                    ],
+                    [
+                        3.2759532,
+                        48.1952726
+                    ],
+                    [
+                        3.2759204,
+                        48.1952885
+                    ],
+                    [
+                        3.2758819,
+                        48.1952968
+                    ],
+                    [
+                        3.2758,
+                        48.1952877
+                    ],
+                    [
+                        3.2757655,
+                        48.19527
+                    ],
+                    [
+                        3.2757416,
+                        48.1952457
+                    ],
+                    [
+                        3.2757311,
+                        48.1952175
+                    ],
+                    [
+                        3.275735,
+                        48.1951886
+                    ],
+                    [
+                        3.275753,
+                        48.1951622
+                    ],
+                    [
+                        3.2757788,
+                        48.1951433
+                    ],
+                    [
+                        3.2758117,
+                        48.1951303
+                    ],
+                    [
+                        3.2758488,
+                        48.1951242
+                    ],
+                    [
+                        3.2758869,
+                        48.1951255
+                    ],
+                    [
+                        3.2759229,
+                        48.1951341
+                    ],
+                    [
+                        3.2759552,
+                        48.1951504
+                    ],
+                    [
+                        3.2759785,
+                        48.1951725
+                    ],
+                    [
+                        3.2759905,
+                        48.1951983
+                    ],
+                    [
+                        3.2759901,
+                        48.1952253
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "junction": "roundabout",
+                "lit": "yes",
+                "name": "Quai Ernest Landry",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201080191,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2760086,
+                        48.195541
+                    ],
+                    [
+                        3.2758819,
+                        48.1952968
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "lit": "yes",
+                "name": "Quai Ernest Landry",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203731288,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2760647,
+                        48.1956555
+                    ],
+                    [
+                        3.2762771,
+                        48.1960714
+                    ],
+                    [
+                        3.276299,
+                        48.1961142
+                    ],
+                    [
+                        3.2767532,
+                        48.1970769
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Quai Ernest Landry",
+                "turn:lanes": "merge_to_right|none",
+                "zone:maxspeed": "FR:30",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 258933533,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2760647,
+                        48.1956555
+                    ],
+                    [
+                        3.2760086,
+                        48.195541
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "name": "Quai Ernest Landry",
+                "turn:lanes": "none|merge_to_right|none",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 634134465,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2766966,
+                        48.1973059
+                    ],
+                    [
+                        3.2767532,
+                        48.1970769
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "cycleway:left:width": "0.5",
+                "cycleway:right:width": "0.5",
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Quai Ernest Landry",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 634639909,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2767532,
+                        48.1970769
+                    ],
+                    [
+                        3.2768138,
+                        48.1972025
+                    ],
+                    [
+                        3.2768491,
+                        48.1972832
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Quai Ernest Landry",
+                "turn:lanes": "merge_to_right|none",
+                "zone:maxspeed": "FR:30",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

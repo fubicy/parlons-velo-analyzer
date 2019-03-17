@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18229612,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3430679,
+                        48.871489
+                    ],
+                    [
+                        2.3428763,
+                        48.8715186
+                    ],
+                    [
+                        2.341964,
+                        48.8716687
+                    ],
+                    [
+                        2.3418652,
+                        48.8716848
+                    ],
+                    [
+                        2.3416094,
+                        48.871724
+                    ],
+                    [
+                        2.3402235,
+                        48.8719702
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Montmartre",
+                "oneway": "no",
+                "surface": "asphalt",
+                "wikidata": "Q1027566",
+                "wikipedia": "fr:Boulevard Montmartre",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 478835111,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3402235,
+                        48.8719702
+                    ],
+                    [
+                        2.3400532,
+                        48.8719981
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Montmartre",
+                "oneway": "no",
+                "surface": "asphalt",
+                "wikidata": "Q1027566",
+                "wikipedia": "fr:Boulevard Montmartre",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

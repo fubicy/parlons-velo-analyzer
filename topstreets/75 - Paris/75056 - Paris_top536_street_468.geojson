@@ -1,0 +1,112 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4041056,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3134495,
+                        48.8628341
+                    ],
+                    [
+                        2.3134633,
+                        48.8629734
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lit": "yes",
+                "name": "Pont Alexandre III",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17066999,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3136243,
+                        48.8643112
+                    ],
+                    [
+                        2.3136446,
+                        48.8644802
+                    ],
+                    [
+                        2.3136521,
+                        48.8645429
+                    ],
+                    [
+                        2.3136555,
+                        48.8645793
+                    ],
+                    [
+                        2.3136679,
+                        48.8646741
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "6",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont Alexandre III",
+                "name:ru": "\u043c\u043e\u0441\u0442 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 III",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17067006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3134633,
+                        48.8629734
+                    ],
+                    [
+                        2.3134662,
+                        48.8629974
+                    ],
+                    [
+                        2.3136243,
+                        48.8643112
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "historic": "monument",
+                "lanes": "6",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont Alexandre III",
+                "name:ko": "\uc54c\ub809\uc0b0\ub4dc\ub974 3\uc138 \ub2e4\ub9ac",
+                "name:pl": "Most Aleksandra III",
+                "name:ru": "\u041c\u043e\u0441\u0442 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 III",
+                "name:uk": "\u041c\u0456\u0441\u0442 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u0399\u0399\u0399",
+                "name:zh": "\u4e9a\u5386\u5c71\u5927\u4e09\u4e16\u6865",
+                "surface": "asphalt",
+                "wikidata": "Q390418",
+                "wikipedia": "fr:Pont Alexandre-III",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

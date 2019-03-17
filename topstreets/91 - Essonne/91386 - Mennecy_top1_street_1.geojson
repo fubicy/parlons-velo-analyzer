@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 101149298,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4326911,
+                        48.5638935
+                    ],
+                    [
+                        2.4326433,
+                        48.5639265
+                    ],
+                    [
+                        2.4321414,
+                        48.5640853
+                    ],
+                    [
+                        2.432069,
+                        48.5640965
+                    ],
+                    [
+                        2.432021,
+                        48.5640905
+                    ],
+                    [
+                        2.4319856,
+                        48.5640616
+                    ],
+                    [
+                        2.4319188,
+                        48.5639811
+                    ],
+                    [
+                        2.4318866,
+                        48.5639545
+                    ],
+                    [
+                        2.4315428,
+                        48.5638752
+                    ],
+                    [
+                        2.4314922,
+                        48.5638632
+                    ],
+                    [
+                        2.4314626,
+                        48.5638314
+                    ],
+                    [
+                        2.4314628,
+                        48.563796
+                    ],
+                    [
+                        2.4315969,
+                        48.5635196
+                    ],
+                    [
+                        2.4316373,
+                        48.5634879
+                    ],
+                    [
+                        2.4316935,
+                        48.5634788
+                    ],
+                    [
+                        2.4325106,
+                        48.5636644
+                    ],
+                    [
+                        2.4326911,
+                        48.5638935
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "name": "Rue de Milly",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014 + Bing",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118092201,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4326911,
+                        48.5638935
+                    ],
+                    [
+                        2.4327395,
+                        48.5638515
+                    ],
+                    [
+                        2.4330139,
+                        48.5637753
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "name": "Rue de Milly",
+                "parking:condition:both": "residents",
+                "parking:lane:both": "marked",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014 + Bing",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203161751,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4330871,
+                        48.5634959
+                    ],
+                    [
+                        2.4330553,
+                        48.5635536
+                    ],
+                    [
+                        2.4330417,
+                        48.5635782
+                    ],
+                    [
+                        2.4330028,
+                        48.5636621
+                    ],
+                    [
+                        2.433003,
+                        48.5637113
+                    ],
+                    [
+                        2.4330071,
+                        48.5637413
+                    ],
+                    [
+                        2.4330139,
+                        48.5637753
+                    ],
+                    [
+                        2.43308,
+                        48.5639209
+                    ],
+                    [
+                        2.4330901,
+                        48.5639432
+                    ],
+                    [
+                        2.433185,
+                        48.5641352
+                    ],
+                    [
+                        2.4336485,
+                        48.5648933
+                    ],
+                    [
+                        2.4341549,
+                        48.565737
+                    ],
+                    [
+                        2.4343204,
+                        48.5659839
+                    ],
+                    [
+                        2.4344468,
+                        48.5661531
+                    ],
+                    [
+                        2.4345791,
+                        48.5662876
+                    ],
+                    [
+                        2.4346687,
+                        48.566353
+                    ],
+                    [
+                        2.4347078,
+                        48.5663816
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "kerb": "yes",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Milly",
+                "oneway": "yes",
+                "parking:condition:both": "residents",
+                "parking:lane:both": "marked",
+                "sidewalk": "both",
+                "smoothness": "good",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014 + Bing + Route500",
+                "source:maxspeed": "Bing",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

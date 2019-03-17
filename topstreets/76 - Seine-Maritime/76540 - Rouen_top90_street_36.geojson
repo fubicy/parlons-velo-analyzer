@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25850145,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1010364,
+                        49.4393179
+                    ],
+                    [
+                        1.100524,
+                        49.4384525
+                    ],
+                    [
+                        1.1005033,
+                        49.4384175
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "horse": "yes",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Place Saint-Marc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25850146,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1010461,
+                        49.4392688
+                    ],
+                    [
+                        1.1005478,
+                        49.4384382
+                    ],
+                    [
+                        1.1014279,
+                        49.4381795
+                    ],
+                    [
+                        1.1018976,
+                        49.4390284
+                    ],
+                    [
+                        1.1010461,
+                        49.4392688
+                    ]
+                ]
+            },
+            "properties": {
+                "amenity": "marketplace",
+                "area": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Place Saint-Marc",
+                "operator": "Ville de Rouen",
+                "surface": "asphalt",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40165757,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1004494,
+                        49.4383868
+                    ],
+                    [
+                        1.1008966,
+                        49.4382586
+                    ],
+                    [
+                        1.1014301,
+                        49.4381065
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bus": "yes",
+                "highway": "bus_guideway",
+                "name": "Place Saint-Marc",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110521130,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1005033,
+                        49.4384175
+                    ],
+                    [
+                        1.1009247,
+                        49.4383045
+                    ],
+                    [
+                        1.1014787,
+                        49.4381529
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "horse": "yes",
+                "lanes": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Place Saint-Marc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110521135,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1014787,
+                        49.4381529
+                    ],
+                    [
+                        1.1019541,
+                        49.4389814
+                    ],
+                    [
+                        1.1019861,
+                        49.4390371
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Saint-Marc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136540066,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1003991,
+                        49.4383005
+                    ],
+                    [
+                        1.1002706,
+                        49.4380765
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Place Saint-Marc",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

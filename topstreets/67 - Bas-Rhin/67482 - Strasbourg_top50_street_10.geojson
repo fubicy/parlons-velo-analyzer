@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25710456,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.8157647,
+                        48.6275844
+                    ],
+                    [
+                        7.8154376,
+                        48.6275804
+                    ],
+                    [
+                        7.8143886,
+                        48.6276293
+                    ],
+                    [
+                        7.8126365,
+                        48.6276943
+                    ],
+                    [
+                        7.8117132,
+                        48.6277274
+                    ],
+                    [
+                        7.8106365,
+                        48.6277658
+                    ],
+                    [
+                        7.8088955,
+                        48.6278279
+                    ],
+                    [
+                        7.8078655,
+                        48.6278562
+                    ],
+                    [
+                        7.8071461,
+                        48.6278827
+                    ],
+                    [
+                        7.8068994,
+                        48.6279136
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "track",
+                "name": "Chemin de l'Etoile",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25710498,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.8068994,
+                        48.6279136
+                    ],
+                    [
+                        7.8066304,
+                        48.627994
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "track",
+                "layer": "1",
+                "name": "Chemin de l'Etoile",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

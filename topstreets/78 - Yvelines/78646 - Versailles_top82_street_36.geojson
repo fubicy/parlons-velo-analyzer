@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 11767923,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.119074,
+                        48.8011382
+                    ],
+                    [
+                        2.1194826,
+                        48.8010289
+                    ],
+                    [
+                        2.1200339,
+                        48.8008762
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue de l'Orangerie",
+                "ref": "D 10",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 259583366,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1212364,
+                        48.8005311
+                    ],
+                    [
+                        2.1221007,
+                        48.8002884
+                    ],
+                    [
+                        2.1221572,
+                        48.8002726
+                    ],
+                    [
+                        2.1243339,
+                        48.7996772
+                    ],
+                    [
+                        2.1244417,
+                        48.7996508
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de l'Orangerie",
+                "ref": "D 10",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 460135459,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1200339,
+                        48.8008762
+                    ],
+                    [
+                        2.1201951,
+                        48.8008299
+                    ],
+                    [
+                        2.1203937,
+                        48.8007729
+                    ],
+                    [
+                        2.1212364,
+                        48.8005311
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue de l'Orangerie",
+                "ref": "D 10",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 533322284,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1154258,
+                        48.8021248
+                    ],
+                    [
+                        2.119074,
+                        48.8011382
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "70",
+                "name": "Rue de l'Orangerie",
+                "ref": "D 10",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

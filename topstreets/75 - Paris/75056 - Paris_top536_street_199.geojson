@@ -1,0 +1,260 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4294229,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3655374,
+                        48.846555
+                    ],
+                    [
+                        2.3657888,
+                        48.8462846
+                    ],
+                    [
+                        2.3660709,
+                        48.8460293
+                    ],
+                    [
+                        2.3662341,
+                        48.8458899
+                    ],
+                    [
+                        2.3666986,
+                        48.8454929
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "5",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Voie Mazas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162384244,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3653108,
+                        48.8468272
+                    ],
+                    [
+                        2.3655374,
+                        48.846555
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "bridge": "yes",
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "5",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Voie Mazas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169833591,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3666986,
+                        48.8454929
+                    ],
+                    [
+                        2.3669743,
+                        48.8452824
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "5",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Voie Mazas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169833592,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3669743,
+                        48.8452824
+                    ],
+                    [
+                        2.3682655,
+                        48.8443906
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "5",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Voie Mazas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205406161,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3654215,
+                        48.8465272
+                    ],
+                    [
+                        2.3655541,
+                        48.8463769
+                    ],
+                    [
+                        2.365758,
+                        48.8461694
+                    ],
+                    [
+                        2.3660484,
+                        48.845912
+                    ],
+                    [
+                        2.3664614,
+                        48.8455569
+                    ],
+                    [
+                        2.3666061,
+                        48.8454442
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "sidewalk",
+                "highway": "cycleway",
+                "name": "Voie Mazas",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 455719253,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.366895,
+                        48.845219
+                    ],
+                    [
+                        2.3670695,
+                        48.8450882
+                    ],
+                    [
+                        2.3681035,
+                        48.8443849
+                    ],
+                    [
+                        2.3683113,
+                        48.8442534
+                    ],
+                    [
+                        2.3684548,
+                        48.8441872
+                    ],
+                    [
+                        2.3685909,
+                        48.8441339
+                    ],
+                    [
+                        2.3689149,
+                        48.8440357
+                    ],
+                    [
+                        2.3689921,
+                        48.8440028
+                    ],
+                    [
+                        2.3691212,
+                        48.8439498
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "sidewalk",
+                "foot": "no",
+                "highway": "cycleway",
+                "name": "Voie Mazas",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 455719254,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3666061,
+                        48.8454442
+                    ],
+                    [
+                        2.366895,
+                        48.845219
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "sidewalk",
+                "highway": "cycleway",
+                "layer": "-1",
+                "name": "Voie Mazas",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

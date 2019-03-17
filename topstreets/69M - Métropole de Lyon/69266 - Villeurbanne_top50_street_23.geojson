@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 386078361,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8823587,
+                        45.780007
+                    ],
+                    [
+                        4.8822204,
+                        45.7799332
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Place Croix-Luizet",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2359",
+                "route_ref": "37A:R,69A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386078362,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8825845,
+                        45.7809094
+                    ],
+                    [
+                        4.8824854,
+                        45.7809856
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Place Croix-Luizet",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "43114",
+                "route_ref": "C17A:R,C26A:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386078363,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8827375,
+                        45.7800533
+                    ],
+                    [
+                        4.8828612,
+                        45.7801187
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Place Croix-Luizet",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2358",
+                "route_ref": "37A:A,69A:R,C17A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

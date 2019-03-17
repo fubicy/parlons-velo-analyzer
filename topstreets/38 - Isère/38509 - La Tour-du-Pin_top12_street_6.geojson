@@ -1,0 +1,193 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8268882,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4424353,
+                        45.5651702
+                    ],
+                    [
+                        5.4417981,
+                        45.5655208
+                    ],
+                    [
+                        5.4415524,
+                        45.565655
+                    ],
+                    [
+                        5.4412583,
+                        45.5658157
+                    ],
+                    [
+                        5.4403731,
+                        45.5662758
+                    ],
+                    [
+                        5.4402158,
+                        45.5663648
+                    ],
+                    [
+                        5.439553,
+                        45.5667399
+                    ],
+                    [
+                        5.4391754,
+                        45.5669467
+                    ],
+                    [
+                        5.439006,
+                        45.5670339
+                    ],
+                    [
+                        5.4383644,
+                        45.5673787
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Pierre Vincendon",
+                "old_ref": "N 6",
+                "ref": "D 1006",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8268914,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4383644,
+                        45.5673787
+                    ],
+                    [
+                        5.4382624,
+                        45.5674561
+                    ],
+                    [
+                        5.4380634,
+                        45.567579
+                    ],
+                    [
+                        5.4379973,
+                        45.5676228
+                    ],
+                    [
+                        5.437955,
+                        45.5676718
+                    ],
+                    [
+                        5.4379354,
+                        45.5676978
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "name": "Rue Pierre Vincendon",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "ref": "D 1006",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8304451,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.437806,
+                        45.5676096
+                    ],
+                    [
+                        5.4378661,
+                        45.5676021
+                    ],
+                    [
+                        5.4379417,
+                        45.5675765
+                    ],
+                    [
+                        5.4380043,
+                        45.5675443
+                    ],
+                    [
+                        5.4382207,
+                        45.5674329
+                    ],
+                    [
+                        5.4383644,
+                        45.5673787
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "name": "Rue Pierre Vincendon",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "ref": "D 1006",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 601078253,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4430012,
+                        45.5648472
+                    ],
+                    [
+                        5.4428521,
+                        45.564938
+                    ],
+                    [
+                        5.4425871,
+                        45.5650891
+                    ],
+                    [
+                        5.4424353,
+                        45.5651702
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Rue Pierre Vincendon",
+                "old_ref": "N 6",
+                "ref": "D 1006",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

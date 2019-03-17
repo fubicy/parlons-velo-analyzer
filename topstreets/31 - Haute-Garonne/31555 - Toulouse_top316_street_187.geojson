@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7230219,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4239931,
+                        43.5930728
+                    ],
+                    [
+                        1.423966,
+                        43.593126
+                    ],
+                    [
+                        1.4235429,
+                        43.5946926
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue de la Gravette",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30639897,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4234676,
+                        43.5949982
+                    ],
+                    [
+                        1.4231887,
+                        43.5960913
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de la Gravette",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30639898,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4235429,
+                        43.5946926
+                    ],
+                    [
+                        1.4235111,
+                        43.5948109
+                    ],
+                    [
+                        1.4234676,
+                        43.5949982
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Gravette",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116642938,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4231887,
+                        43.5960913
+                    ],
+                    [
+                        1.423134,
+                        43.5962331
+                    ],
+                    [
+                        1.4231335,
+                        43.5962807
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Gravette",
+                "oneway": "yes",
+                "pedestrians": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

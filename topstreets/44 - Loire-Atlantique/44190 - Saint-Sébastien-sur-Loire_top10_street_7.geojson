@@ -1,0 +1,150 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30198301,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.4999438,
+                        47.2077413
+                    ],
+                    [
+                        -1.5003571,
+                        47.2081763
+                    ],
+                    [
+                        -1.5008157,
+                        47.2083749
+                    ],
+                    [
+                        -1.5008623,
+                        47.2084132
+                    ],
+                    [
+                        -1.5012228,
+                        47.2086934
+                    ],
+                    [
+                        -1.5013939,
+                        47.2088
+                    ],
+                    [
+                        -1.5014533,
+                        47.2088357
+                    ],
+                    [
+                        -1.5016018,
+                        47.2088706
+                    ],
+                    [
+                        -1.5017577,
+                        47.2088676
+                    ],
+                    [
+                        -1.501887,
+                        47.2088426
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Prisonniers",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103423700,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.501887,
+                        47.2088426
+                    ],
+                    [
+                        -1.5019193,
+                        47.2087916
+                    ],
+                    [
+                        -1.5019766,
+                        47.2087532
+                    ],
+                    [
+                        -1.5020681,
+                        47.2087132
+                    ],
+                    [
+                        -1.5021556,
+                        47.2086957
+                    ],
+                    [
+                        -1.5024951,
+                        47.20872
+                    ],
+                    [
+                        -1.5032385,
+                        47.2088121
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Rue des Prisonniers",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 281734345,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5032385,
+                        47.2088121
+                    ],
+                    [
+                        -1.5033528,
+                        47.2088259
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Prisonniers",
+                "oneway": "no",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4277981,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8909336,
+                        44.9221974
+                    ],
+                    [
+                        4.8911011,
+                        44.9221574
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "name": "Pont de la C\u00e9cile",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203623542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8911011,
+                        44.9221574
+                    ],
+                    [
+                        4.8917893,
+                        44.9220899
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "layer": "2",
+                "name": "Pont de la C\u00e9cile",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203623544,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8917893,
+                        44.9220899
+                    ],
+                    [
+                        4.8918739,
+                        44.9220816
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "name": "Pont de la C\u00e9cile",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32724788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.172278,
+                        48.6919396
+                    ],
+                    [
+                        6.1722379,
+                        48.6919306
+                    ],
+                    [
+                        6.1722145,
+                        48.6919238
+                    ],
+                    [
+                        6.1721703,
+                        48.691911
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lorraine",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264635698,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1721703,
+                        48.691911
+                    ],
+                    [
+                        6.1720297,
+                        48.6918541
+                    ],
+                    [
+                        6.1707673,
+                        48.6913293
+                    ],
+                    [
+                        6.1707403,
+                        48.6913181
+                    ],
+                    [
+                        6.1706864,
+                        48.6912965
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lorraine",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

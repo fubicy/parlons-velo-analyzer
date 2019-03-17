@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5055724,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0416697,
+                        47.3171123
+                    ],
+                    [
+                        5.0406214,
+                        47.3169933
+                    ],
+                    [
+                        5.0404895,
+                        47.3169784
+                    ],
+                    [
+                        5.0394385,
+                        47.316859
+                    ],
+                    [
+                        5.0380014,
+                        47.3167941
+                    ],
+                    [
+                        5.0377262,
+                        47.3167847
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "name": "Rue de Tivoli",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5821542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0433702,
+                        47.3172853
+                    ],
+                    [
+                        5.0426302,
+                        47.31721
+                    ],
+                    [
+                        5.0418984,
+                        47.3171356
+                    ],
+                    [
+                        5.0416697,
+                        47.3171123
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Rue de Tivoli",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5821543,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0375816,
+                        47.3167754
+                    ],
+                    [
+                        5.0374063,
+                        47.3167707
+                    ],
+                    [
+                        5.0369802,
+                        47.3167459
+                    ],
+                    [
+                        5.0366739,
+                        47.316728
+                    ],
+                    [
+                        5.0351211,
+                        47.3166549
+                    ],
+                    [
+                        5.0349202,
+                        47.3166437
+                    ],
+                    [
+                        5.0342263,
+                        47.3166037
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "tertiary",
+                "name": "Rue de Tivoli",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28612619,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0377262,
+                        47.3167847
+                    ],
+                    [
+                        5.0375816,
+                        47.3167754
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "tertiary",
+                "name": "Rue de Tivoli",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30146925,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.6237807,
+                        43.6781971
+                    ],
+                    [
+                        4.6237404,
+                        43.6782393
+                    ],
+                    [
+                        4.6237063,
+                        43.6782757
+                    ],
+                    [
+                        4.6225381,
+                        43.6795263
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Trinquetaille",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162317066,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.6225381,
+                        43.6795263
+                    ],
+                    [
+                        4.6223993,
+                        43.6796727
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Trinquetaille",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

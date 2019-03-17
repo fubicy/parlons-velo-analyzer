@@ -4,12 +4,12 @@ Sur l'ensemble de la ville il y a eu 32 réponses dont 8 réponses avec une rue 
 
 6 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Mail | 3 | 9% | <img src="../../img/bar_37.gif" />&nbsp;37%|
-| T6 | 1 | 3% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Rue de Villacoublay | 1 | 3% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Rue Nieuport | 1 | 3% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Rue Dewoitine | 1 | 3% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Avenue Robert Wagner | 1 | 3% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| **Total** | 8 | 25% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Mail | 3 | <img src="../../img/bar_37.gif" />&nbsp;37%|
+| T6 | 1 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Rue de Villacoublay | 1 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Rue Nieuport | 1 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Rue Dewoitine | 1 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Avenue Robert Wagner | 1 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| **Total** | 8 | 100%|

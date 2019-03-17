@@ -4,7 +4,7 @@ Sur l'ensemble de la ville il y a eu 4 réponses dont 1 réponses avec une rue c
 
 1 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Chemin de l'Olagnier | 1 | 25% | <img src="../../img/bar_100.gif" />&nbsp;100%|
-| **Total** | 1 | 25% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Chemin de l'Olagnier | 1 | <img src="../../img/bar_100.gif" />&nbsp;100%|
+| **Total** | 1 | 100%|

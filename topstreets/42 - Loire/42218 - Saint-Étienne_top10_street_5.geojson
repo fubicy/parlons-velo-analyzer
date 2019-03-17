@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 45867998,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3872497,
+                        45.4355816
+                    ],
+                    [
+                        4.3870262,
+                        45.4359825
+                    ],
+                    [
+                        4.3869301,
+                        45.4361672
+                    ],
+                    [
+                        4.3867773,
+                        45.4364544
+                    ],
+                    [
+                        4.3865652,
+                        45.4368819
+                    ],
+                    [
+                        4.3864019,
+                        45.4374703
+                    ],
+                    [
+                        4.3861836,
+                        45.4382061
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de la R\u00e9sistance",
+                "oneway": "yes",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101629340,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3861836,
+                        45.4382061
+                    ],
+                    [
+                        4.3858639,
+                        45.4393664
+                    ],
+                    [
+                        4.3858048,
+                        45.4395725
+                    ],
+                    [
+                        4.3855261,
+                        45.4405448
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la R\u00e9sistance",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

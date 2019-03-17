@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29261324,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.8577989,
+                        47.6375002
+                    ],
+                    [
+                        6.8578822,
+                        47.6375275
+                    ],
+                    [
+                        6.8579216,
+                        47.6375404
+                    ],
+                    [
+                        6.8581165,
+                        47.6376078
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Pont Carnot",
+                "ref": "D 419",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29262041,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.8581165,
+                        47.6376078
+                    ],
+                    [
+                        6.8585236,
+                        47.6377457
+                    ],
+                    [
+                        6.8585431,
+                        47.6377523
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "residential",
+                "layer": "1",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Pont Carnot",
+                "ref": "D 419",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29262043,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.8585431,
+                        47.6377523
+                    ],
+                    [
+                        6.8585643,
+                        47.6377595
+                    ],
+                    [
+                        6.8587012,
+                        47.6378057
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Pont Carnot",
+                "ref": "D 419",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

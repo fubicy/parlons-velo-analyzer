@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 115651263,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.037149,
+                        50.6397362
+                    ],
+                    [
+                        3.0370941,
+                        50.6397574
+                    ],
+                    [
+                        3.0364458,
+                        50.6398828
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "foot": "yes",
+                "highway": "path",
+                "icn_ref": "5",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Passerelle Edmond Ory",
+                "name:en": "Ory Footbridge",
+                "ncn_ref": "32",
+                "oneway": "yes",
+                "segregated": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 360551911,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0364458,
+                        50.6398828
+                    ],
+                    [
+                        3.0364593,
+                        50.6398573
+                    ],
+                    [
+                        3.0371007,
+                        50.6397306
+                    ],
+                    [
+                        3.037149,
+                        50.6397362
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "foot": "designated",
+                "highway": "path",
+                "icn_ref": "5",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Passerelle Edmond Ory",
+                "name:en": "Ory Footbridge",
+                "ncn_ref": "32",
+                "oneway": "yes",
+                "segregated": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

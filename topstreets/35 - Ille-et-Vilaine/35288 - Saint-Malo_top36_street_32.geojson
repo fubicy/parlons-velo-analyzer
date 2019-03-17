@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 207510763,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.987634,
+                        48.6656612
+                    ],
+                    [
+                        -1.9875903,
+                        48.6656464
+                    ],
+                    [
+                        -1.9871251,
+                        48.6655031
+                    ],
+                    [
+                        -1.9867586,
+                        48.6653628
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Impasse John Kennedy",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 211138970,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.9867586,
+                        48.6653628
+                    ],
+                    [
+                        -1.9869129,
+                        48.6652111
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Impasse John Kennedy",
+                "service": "driveway",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

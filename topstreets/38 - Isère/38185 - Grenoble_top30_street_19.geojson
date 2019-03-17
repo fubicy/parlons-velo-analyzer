@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 182422689,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7278785,
+                        45.1816369
+                    ],
+                    [
+                        5.7277957,
+                        45.1817424
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Gustave Rivet",
+                "network": "TAG",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 182422694,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7279562,
+                        45.181254
+                    ],
+                    [
+                        5.7280317,
+                        45.1811517
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Gustave Rivet",
+                "network": "TAG",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "limited",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

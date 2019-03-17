@@ -1,0 +1,239 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7345550,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8740061,
+                        45.7652633
+                    ],
+                    [
+                        4.8738812,
+                        45.7652625
+                    ],
+                    [
+                        4.8716631,
+                        45.7652484
+                    ],
+                    [
+                        4.8715925,
+                        45.765248
+                    ],
+                    [
+                        4.8715154,
+                        45.7652465
+                    ],
+                    [
+                        4.8707854,
+                        45.7652325
+                    ],
+                    [
+                        4.8700591,
+                        45.76523
+                    ],
+                    [
+                        4.8699265,
+                        45.7652296
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Louis Becker",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33519832,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8699265,
+                        45.7652296
+                    ],
+                    [
+                        4.8689595,
+                        45.7652123
+                    ],
+                    [
+                        4.8688754,
+                        45.7652108
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Louis Becker",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33581445,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8803443,
+                        45.7653232
+                    ],
+                    [
+                        4.8792167,
+                        45.7653124
+                    ],
+                    [
+                        4.8790338,
+                        45.7653106
+                    ],
+                    [
+                        4.8789704,
+                        45.7653246
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Louis Becker",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131817724,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8765727,
+                        45.7652889
+                    ],
+                    [
+                        4.8763994,
+                        45.7652862
+                    ],
+                    [
+                        4.8761079,
+                        45.7652816
+                    ],
+                    [
+                        4.876012,
+                        45.7652801
+                    ],
+                    [
+                        4.8759076,
+                        45.7652808
+                    ],
+                    [
+                        4.8741709,
+                        45.7652643
+                    ],
+                    [
+                        4.8740061,
+                        45.7652633
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Louis Becker",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132967554,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8789704,
+                        45.7653246
+                    ],
+                    [
+                        4.8782084,
+                        45.7653169
+                    ],
+                    [
+                        4.878116,
+                        45.7653131
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue Louis Becker",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 373577568,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.878116,
+                        45.7653131
+                    ],
+                    [
+                        4.8780278,
+                        45.7653117
+                    ],
+                    [
+                        4.8767588,
+                        45.7652918
+                    ],
+                    [
+                        4.8765727,
+                        45.7652889
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Louis Becker",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

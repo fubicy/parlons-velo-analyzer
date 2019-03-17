@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32233984,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4342984,
+                        45.4821151
+                    ],
+                    [
+                        4.4327962,
+                        45.4811202
+                    ],
+                    [
+                        4.4321239,
+                        45.480675
+                    ],
+                    [
+                        4.4321159,
+                        45.4806698
+                    ],
+                    [
+                        4.4312139,
+                        45.4800742
+                    ],
+                    [
+                        4.4310602,
+                        45.4799558
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxweight": "7.5",
+                "name": "Rue de la R\u00e9publique",
+                "oneway": "yes",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 242178782,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4342984,
+                        45.4821151
+                    ],
+                    [
+                        4.4353091,
+                        45.4828021
+                    ],
+                    [
+                        4.4356946,
+                        45.4830642
+                    ],
+                    [
+                        4.4359237,
+                        45.4832466
+                    ],
+                    [
+                        4.4359807,
+                        45.483392
+                    ],
+                    [
+                        4.4362143,
+                        45.4839164
+                    ],
+                    [
+                        4.4363631,
+                        45.4845062
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de la R\u00e9publique",
+                "oneway": "no",
+                "ref": "D 3",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 274684507,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4363631,
+                        45.4845062
+                    ],
+                    [
+                        4.4364072,
+                        45.4849528
+                    ],
+                    [
+                        4.4363655,
+                        45.4854145
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de la R\u00e9publique",
+                "oneway": "no",
+                "ref": "D 3",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

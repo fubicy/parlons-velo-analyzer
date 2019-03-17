@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23254367,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.318692,
+                        48.9080415
+                    ],
+                    [
+                        2.316565,
+                        48.910277
+                    ],
+                    [
+                        2.3155794,
+                        48.9115953
+                    ],
+                    [
+                        2.314654,
+                        48.9128375
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Pierre",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 355984497,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.314654,
+                        48.9128375
+                    ],
+                    [
+                        2.3144202,
+                        48.9132175
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Pierre",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

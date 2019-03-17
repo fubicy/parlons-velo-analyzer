@@ -1,0 +1,230 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 15414417,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3885977,
+                        48.8527435
+                    ],
+                    [
+                        2.3887289,
+                        48.8527693
+                    ],
+                    [
+                        2.3888359,
+                        48.8527903
+                    ],
+                    [
+                        2.3925158,
+                        48.8535128
+                    ],
+                    [
+                        2.3927034,
+                        48.8535496
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Alexandre Dumas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15414570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3959136,
+                        48.8543083
+                    ],
+                    [
+                        2.3961334,
+                        48.8543665
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_track",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Alexandre Dumas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23103520,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3987036,
+                        48.8550957
+                    ],
+                    [
+                        2.3988172,
+                        48.8551273
+                    ],
+                    [
+                        2.3993426,
+                        48.8552733
+                    ],
+                    [
+                        2.3994297,
+                        48.8552975
+                    ],
+                    [
+                        2.3999329,
+                        48.8554373
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Alexandre Dumas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48804904,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3999329,
+                        48.8554373
+                    ],
+                    [
+                        2.4005861,
+                        48.8556359
+                    ],
+                    [
+                        2.4006327,
+                        48.8556484
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Alexandre Dumas",
+                "oneway": "yes",
+                "surface": "paving_stones",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62117001,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3927034,
+                        48.8535496
+                    ],
+                    [
+                        2.3928449,
+                        48.853583
+                    ],
+                    [
+                        2.3938256,
+                        48.8538148
+                    ],
+                    [
+                        2.3938981,
+                        48.8538319
+                    ],
+                    [
+                        2.3958044,
+                        48.8542825
+                    ],
+                    [
+                        2.3959136,
+                        48.8543083
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Alexandre Dumas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114871482,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3961334,
+                        48.8543665
+                    ],
+                    [
+                        2.3962034,
+                        48.8543824
+                    ],
+                    [
+                        2.3975052,
+                        48.8547515
+                    ],
+                    [
+                        2.3985634,
+                        48.855056
+                    ],
+                    [
+                        2.3987036,
+                        48.8550957
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Alexandre Dumas",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

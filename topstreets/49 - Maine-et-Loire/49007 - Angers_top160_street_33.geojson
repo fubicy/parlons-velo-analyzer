@@ -1,0 +1,163 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31052245,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5531301,
+                        47.466489
+                    ],
+                    [
+                        -0.5532281,
+                        47.4663635
+                    ],
+                    [
+                        -0.5532798,
+                        47.466305
+                    ],
+                    [
+                        -0.5533582,
+                        47.466232
+                    ],
+                    [
+                        -0.5535111,
+                        47.4661073
+                    ],
+                    [
+                        -0.5539554,
+                        47.4657794
+                    ],
+                    [
+                        -0.5541481,
+                        47.4656409
+                    ],
+                    [
+                        -0.5542212,
+                        47.4656068
+                    ],
+                    [
+                        -0.5542792,
+                        47.4655798
+                    ],
+                    [
+                        -0.5544541,
+                        47.465529
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue du Haras",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145352215,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5543682,
+                        47.4653573
+                    ],
+                    [
+                        -0.5543158,
+                        47.4653895
+                    ],
+                    [
+                        -0.5542847,
+                        47.4654212
+                    ],
+                    [
+                        -0.5542462,
+                        47.4654679
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1435",
+                "highway": "residential",
+                "name": "Rue du Haras",
+                "oneway": "yes",
+                "psv": "yes",
+                "railway": "tram",
+                "service": "bus",
+                "voltage": "750",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 243910759,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.553146,
+                        47.4663049
+                    ],
+                    [
+                        -0.552928,
+                        47.4664186
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "highway": "residential",
+                "name": "Rue du Haras",
+                "oneway": "yes",
+                "psv": "yes",
+                "service": "bus",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 637602407,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5542462,
+                        47.4654679
+                    ],
+                    [
+                        -0.553146,
+                        47.4663049
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "private",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue du Haras",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

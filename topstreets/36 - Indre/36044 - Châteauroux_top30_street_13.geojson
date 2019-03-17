@@ -1,0 +1,112 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29240604,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.6918182,
+                        46.8041702
+                    ],
+                    [
+                        1.6920018,
+                        46.8041072
+                    ],
+                    [
+                        1.6925877,
+                        46.8039995
+                    ],
+                    [
+                        1.6937795,
+                        46.8037805
+                    ],
+                    [
+                        1.6953395,
+                        46.8034938
+                    ],
+                    [
+                        1.6955455,
+                        46.8034918
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Croix-Normand",
+                "oneway": "yes",
+                "ref": "D 925",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37216586,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.6954786,
+                        46.8036295
+                    ],
+                    [
+                        1.6953154,
+                        46.8036551
+                    ],
+                    [
+                        1.6942743,
+                        46.8038471
+                    ],
+                    [
+                        1.6920643,
+                        46.8042547
+                    ],
+                    [
+                        1.6917847,
+                        46.8043062
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Croix-Normand",
+                "oneway": "yes",
+                "ref": "D 925",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37216588,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.6917847,
+                        46.8043062
+                    ],
+                    [
+                        1.6918182,
+                        46.8041702
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed:type": "FR:urban",
+                "name": "Boulevard Croix-Normand",
+                "ref": "D 925",
+                "source": "cadastre-dgi-fr : Direction G\u00e9n\u00e9ral des Impots - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

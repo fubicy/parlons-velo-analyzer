@@ -1,0 +1,193 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 48059051,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4565833,
+                        43.6035854
+                    ],
+                    [
+                        1.4565916,
+                        43.6037227
+                    ],
+                    [
+                        1.4565951,
+                        43.603759
+                    ],
+                    [
+                        1.4566263,
+                        43.604082
+                    ],
+                    [
+                        1.4566556,
+                        43.6044809
+                    ],
+                    [
+                        1.4566482,
+                        43.6048479
+                    ],
+                    [
+                        1.4566378,
+                        43.6049412
+                    ],
+                    [
+                        1.4566131,
+                        43.6050307
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard Riquet",
+                "name:oc": "Baloard Riquet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51832719,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4559091,
+                        43.6063692
+                    ],
+                    [
+                        1.4558789,
+                        43.6064157
+                    ],
+                    [
+                        1.4555826,
+                        43.6069534
+                    ],
+                    [
+                        1.455144,
+                        43.6077479
+                    ],
+                    [
+                        1.4551111,
+                        43.6078076
+                    ],
+                    [
+                        1.4546783,
+                        43.6085931
+                    ],
+                    [
+                        1.4546084,
+                        43.6086922
+                    ],
+                    [
+                        1.4545272,
+                        43.6087867
+                    ],
+                    [
+                        1.4543685,
+                        43.6089156
+                    ],
+                    [
+                        1.454183,
+                        43.6090534
+                    ],
+                    [
+                        1.4541089,
+                        43.6091084
+                    ],
+                    [
+                        1.453992,
+                        43.609207
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard Riquet",
+                "name:oc": "Baloard Riquet",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee_per_hour": "12\u20ac",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:maxstay": "24 hours",
+                "parking:condition:both:3:residents": "PERI",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 hours",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "parallel",
+                "parking:lane:both:capacity": "78",
+                "parking:lane:both:parallel": "on_street",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 523973388,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566131,
+                        43.6050307
+                    ],
+                    [
+                        1.4565834,
+                        43.6051061
+                    ],
+                    [
+                        1.4565449,
+                        43.605205
+                    ],
+                    [
+                        1.456465,
+                        43.6053723
+                    ],
+                    [
+                        1.4561976,
+                        43.6058491
+                    ],
+                    [
+                        1.4560339,
+                        43.6061678
+                    ],
+                    [
+                        1.4559514,
+                        43.6063039
+                    ],
+                    [
+                        1.4559091,
+                        43.6063692
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard Riquet",
+                "name:oc": "Baloard Riquet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

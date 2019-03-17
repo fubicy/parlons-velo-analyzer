@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4082846,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0754528,
+                        45.7736621
+                    ],
+                    [
+                        3.0755143,
+                        45.7737436
+                    ],
+                    [
+                        3.0755502,
+                        45.7737789
+                    ],
+                    [
+                        3.0756185,
+                        45.7738186
+                    ],
+                    [
+                        3.0764932,
+                        45.7740289
+                    ],
+                    [
+                        3.0777442,
+                        45.7743765
+                    ],
+                    [
+                        3.0785696,
+                        45.7745737
+                    ],
+                    [
+                        3.07948,
+                        45.7748145
+                    ],
+                    [
+                        3.0795494,
+                        45.7748329
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Julien",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 356586395,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0811531,
+                        45.7752471
+                    ],
+                    [
+                        3.0812339,
+                        45.7752688
+                    ],
+                    [
+                        3.0812993,
+                        45.7752862
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Avenue Julien",
+                "oneway": "yes",
+                "source": "local_knowledge",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 356586396,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0795494,
+                        45.7748329
+                    ],
+                    [
+                        3.0796252,
+                        45.774849
+                    ],
+                    [
+                        3.0811531,
+                        45.7752471
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Avenue Julien",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 356586397,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0812993,
+                        45.7752862
+                    ],
+                    [
+                        3.081878,
+                        45.775435
+                    ],
+                    [
+                        3.0819242,
+                        45.7754468
+                    ],
+                    [
+                        3.0820072,
+                        45.7754682
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Avenue Julien",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

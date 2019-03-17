@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4786969,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2728289,
+                        48.8239716
+                    ],
+                    [
+                        2.2727387,
+                        48.8241097
+                    ],
+                    [
+                        2.2726447,
+                        48.8242532
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Diderot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100822067,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2721221,
+                        48.8250532
+                    ],
+                    [
+                        2.2720834,
+                        48.8251112
+                    ],
+                    [
+                        2.2719564,
+                        48.8253011
+                    ],
+                    [
+                        2.2713978,
+                        48.8261613
+                    ],
+                    [
+                        2.2713347,
+                        48.8262614
+                    ],
+                    [
+                        2.2711115,
+                        48.8266042
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Diderot",
+                "old_name": "Rue des Pr\u00e8s",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 252698920,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2726447,
+                        48.8242532
+                    ],
+                    [
+                        2.2721506,
+                        48.8250096
+                    ],
+                    [
+                        2.2721221,
+                        48.8250532
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Diderot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28283926,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.2514893,
+                        43.7037216
+                    ],
+                    [
+                        7.2514985,
+                        43.7037997
+                    ],
+                    [
+                        7.2515829,
+                        43.70452
+                    ],
+                    [
+                        7.2516357,
+                        43.7051133
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue Anatole France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

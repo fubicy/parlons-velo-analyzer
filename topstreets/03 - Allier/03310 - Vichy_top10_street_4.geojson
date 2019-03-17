@@ -1,0 +1,142 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10191187,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4223497,
+                        46.1234889
+                    ],
+                    [
+                        3.422319,
+                        46.1233005
+                    ],
+                    [
+                        3.4223176,
+                        46.1232923
+                    ],
+                    [
+                        3.4223138,
+                        46.1232727
+                    ],
+                    [
+                        3.4222754,
+                        46.1231066
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "shared_lane",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Georges Clemenceau",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33902478,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4227335,
+                        46.1260246
+                    ],
+                    [
+                        3.4227118,
+                        46.1258847
+                    ],
+                    [
+                        3.4226947,
+                        46.1257442
+                    ],
+                    [
+                        3.422676,
+                        46.1256264
+                    ],
+                    [
+                        3.422668,
+                        46.1255592
+                    ],
+                    [
+                        3.4226334,
+                        46.1253018
+                    ],
+                    [
+                        3.4226,
+                        46.1250875
+                    ],
+                    [
+                        3.4225216,
+                        46.1244938
+                    ],
+                    [
+                        3.4224545,
+                        46.124108
+                    ],
+                    [
+                        3.4224138,
+                        46.1238633
+                    ],
+                    [
+                        3.4224021,
+                        46.1237954
+                    ],
+                    [
+                        3.4223546,
+                        46.1235175
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Georges Clemenceau",
+                "oneway": "yes",
+                "source": "survey 2016",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90893594,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4223546,
+                        46.1235175
+                    ],
+                    [
+                        3.4223497,
+                        46.1234889
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "shared_lane",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Georges Clemenceau",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2007",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

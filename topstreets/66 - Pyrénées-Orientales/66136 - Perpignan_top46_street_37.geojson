@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27681676,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8930609,
+                        42.6917703
+                    ],
+                    [
+                        2.8924472,
+                        42.6922257
+                    ],
+                    [
+                        2.8919403,
+                        42.6925604
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard F\u00e9lix Mercader",
+                "name:ca": "Ronda F\u00e9lix Mercader",
+                "old_name:ca": "Bulevard de les Alberes",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 414249114,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8919403,
+                        42.6925604
+                    ],
+                    [
+                        2.8919075,
+                        42.6925857
+                    ],
+                    [
+                        2.890645,
+                        42.6935602
+                    ],
+                    [
+                        2.8905483,
+                        42.6936349
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard F\u00e9lix Mercader",
+                "name:ca": "Ronda F\u00e9lix Mercader",
+                "old_name:ca": "Bulevard de les Alberes",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 414249116,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8895601,
+                        42.6943832
+                    ],
+                    [
+                        2.8892115,
+                        42.6946371
+                    ],
+                    [
+                        2.8891723,
+                        42.6946758
+                    ],
+                    [
+                        2.8891066,
+                        42.6947743
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "5",
+                "lanes:backward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard F\u00e9lix Mercader",
+                "name:ca": "Ronda F\u00e9lix Mercader",
+                "old_name:ca": "Bulevard de les Alberes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes:forward": "through|through|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 636024097,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8905483,
+                        42.6936349
+                    ],
+                    [
+                        2.890467,
+                        42.6936964
+                    ],
+                    [
+                        2.8895601,
+                        42.6943832
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard F\u00e9lix Mercader",
+                "name:ca": "Ronda F\u00e9lix Mercader",
+                "old_name:ca": "Bulevard de les Alberes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

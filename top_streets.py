@@ -9,15 +9,84 @@ import csv
 import sys
 import json
 import shutil
-import overpass
+import branca
 import folium
+import overpass
 
 from collections import Counter
 
-TOPLIST=[10,30,50]
+TOPLIST=[10,30,50,1000]
 
 MAP_WIDTH=700
 MAP_HEIGHT=500
+
+# Folium
+# LINES_COLOR = [
+#     "#00E6CC",
+#     "#00CC7F",
+#     "#00B300",
+#     "#7FCC00",
+#     "#CCE600",
+#     "#FFFF00",
+#     "#FFCC00",
+#     "#FF9900",
+#     "#FF6600",
+#     "#FF0000",
+#     "#CC0000",
+#     "#cc00ff",
+#     "#5500ff",
+#     "#000000"
+# ]
+# LINES_COLOR = [
+#     "#5200ff",
+#     "#4b00ea",
+#     "#4400d4",
+#     "#3e00bf",
+#     "#3700aa",
+#     "#300095",
+#     "#290080",
+#     "#22006a",
+#     "#1b0055",
+#     "#150040",
+#     "#0e002b",
+#     "#070015",
+#     "#000000",
+# ]
+
+# LINES_COLOR = [
+#     "#afd423",
+#     "#5dbf30",
+#     "#39aa4c",
+#     "#3e9576",
+#     "#407880",
+#     "#3e4f6a",
+#     "#3b3955",
+#     "#393040",
+#     "#2b232a",
+#     "#151314",
+#     "#000000",
+# ]
+
+LINES_COLOR = [
+    "#ff4000",
+    "#ea3b00",
+    "#d43500",
+    "#bf3000",
+    "#aa2b00",
+    "#952500",
+    "#802000",
+    "#6a1b00",
+    "#551500",
+    "#401000",
+    "#2b0b00",
+    "#150500",
+    "#000000",
+]
+
+
+MIN_LINE_WIDTH=5
+MAX_LINE_WIDTH=5+len(LINES_COLOR)
+SRC_RANGE=MAX_LINE_WIDTH-MIN_LINE_WIDTH
 
 # Replace short word
 REPLACE_WORDS = {
@@ -472,15 +541,6 @@ def write_departments_html():
             htmlfile.write(htmlcontent)
 
 
-
-def folium_style_function(feature):
-    return {
-        'fillOpacity': 1,
-        'weight': 5,
-        'color': '#CB2431' 
-    }
-
-
 def write_towns_result():
     # Write stats
     for kd,d in sorted(stats['dep'].items()):
@@ -490,8 +550,14 @@ def write_towns_result():
             if t['nb_points_noirs']==0:
                 continue
 
+            insee = t['insee']
+            lat = float(villes_info[insee]['lat'])
+            lon = float(villes_info[insee]['lon'])
             lasttopvalue = 0
             for top in TOPLIST:
+                m = folium.Map(location=[ lat, lon],height=MAP_HEIGHT,width=MAP_WIDTH,zoom_start=13)
+
+
                 mintop = min(top,t['nb_points_noirs'])
                 if mintop == lasttopvalue:
                     continue
@@ -500,7 +566,6 @@ def write_towns_result():
                 tfile = t['title'].replace("'", " ")
                 docfilename = f"{deppath}/{tfile}_top{mintop}.md"
                 mapfilename = f"{deppath}/{tfile}_top{mintop}.html"
-                gjsonfilename = f"{deppath}/{tfile}_top{mintop}.geojson"
                 html_streets_list = ""
                 try:
                     with open(docfilename, 'w') as docfile:
@@ -508,61 +573,70 @@ def write_towns_result():
                         docfile.write(f"Sur l'ensemble de la ville il y a eu {t['nb_responses']} réponses dont {t['nb_responses_with_street']} réponses avec une rue citée ({t['nb_responses_with_street_percent']}%)\n\n")
                         docfile.write(f"{t['nb_points_noirs']} points noirs identifiés\n\n")
 
-                        docfile.write('| Rue | Vote | % réponses | % Nb rues cités|\n')
-                        docfile.write("|-----|------|------------|----------------|\n")
+                        docfile.write('| Rue | Vote | % / les rues cités|\n')
+                        docfile.write("|-----|------|-------------------|\n")
 
-                        total = 0
-                        ways = []
+                        # Compute total response with street
+                        top_total_response_with_street = 0
                         for full_street,street_info in sorted(t['blackspots'].items(), reverse=True, key=lambda item: (item[1]['responses_with_this_street'], item[0]))[:top]:
-                            total += street_info['responses_with_this_street']
-                            ways.append(street_info['ways'])
+                            top_total_response_with_street += street_info['responses_with_this_street']
+
+                        # Compute min/max percent response
+                        max_percent = 0
+                        for full_street,street_info in sorted(t['blackspots'].items(), reverse=True, key=lambda item: (item[1]['responses_with_this_street'], item[0]))[:top]:
+                            if top_total_response_with_street>0:
+                                percent_with_street = int(street_info['responses_with_this_street']/top_total_response_with_street*100.0)
+
+                                if percent_with_street > max_percent:
+                                    max_percent = percent_with_street
+
+                        # Compute line ratio
+                        ratio_line = max_percent/SRC_RANGE
+
+                        idx = 0
+                        for full_street,street_info in sorted(t['blackspots'].items(), reverse=True, key=lambda item: (item[1]['responses_with_this_street'], item[0]))[:top]:
+                            idx += 1
+                            percent_with_street = int(street_info['responses_with_this_street']/top_total_response_with_street*100.0)
+                            bar_percent = html_percent_bar('../../img',percent_with_street)
+                            docfile.write(f"| {full_street} | {street_info['responses_with_this_street']} | {bar_percent}&nbsp;{percent_with_street}%|\n")
+                            html_streets_list += f"<tr><td> {full_street} </td><td> {street_info['responses_with_this_street']} </td><td> {bar_percent}&nbsp;{percent_with_street}%</td></tr>\n"
+
+                            # Get geojson streetfile
+                            jways = api.get(f"way(id:{street_info['ways']})",responseformat='geojson',verbosity='geom')
+                            idxcolor = round(percent_with_street/ratio_line)
+                            linewidth = idxcolor+MIN_LINE_WIDTH
+                            for feature in jways['features']:
+                                feature['properties']['line_width'] = linewidth
+                                feature['properties']['line_color'] = LINES_COLOR[idxcolor-1]
+
+                            gjsonfilename = f"{deppath}/{tfile}_top{mintop}_street_{idx}.geojson"
+                            with open(gjsonfilename, 'w') as gjsonfile:
+                                gjsonfile.write(json.dumps(jways, indent=4, separators=(',', ': ')))
 
                             full_street = full_street.strip()
-                            percent_responses = 0
-                            percent_with_street = 0
+                            style_function = lambda x: {
+                                'fillOpacity': 1,
+                                'weight': x['properties']['line_width'],
+                                'color': x['properties']['line_color']
+                            }
 
-                            if t['nb_responses'] > 0:
-                                percent_responses = int(street_info['responses_with_this_street']/t['nb_responses']*100.0)
-
-                            if t['nb_responses_with_street']>0:
-                                percent_with_street = int(street_info['responses_with_this_street']/t['nb_responses_with_street']*100.0)
-                            
-                            bar_percent = html_percent_bar('../../img',percent_with_street)
-                            docfile.write(f"| {full_street} | {street_info['responses_with_this_street']} | {percent_responses}% | {bar_percent}&nbsp;{percent_with_street}%|\n")
-
-                            html_streets_list += f"<tr><td> {full_street} </td><td> {street_info['responses_with_this_street']} </td><td> {percent_responses}% </td><td> {bar_percent}&nbsp;{percent_with_street}%</td></tr>\n"
+                            folium.GeoJson(
+                                gjsonfilename,
+                                name=f"{idx} - {full_street}",
+                                style_function=style_function
+                            ).add_to(m)
 
 
                         # Total
-                        if t['nb_responses'] > 0:
-                            percent_responses = int(total/t['nb_responses']*100.0)
+                        if top_total_response_with_street>0:
+                            percent_with_street = int(top_total_response_with_street/top_total_response_with_street*100.0)
+                            docfile.write(f"| **Total** | {top_total_response_with_street} | {percent_with_street}%|\n")
+                            html_streets_list += f"<tr><td> <strong>Total</strong> </td><td> {top_total_response_with_street} </td><td> {percent_with_street}%</td></tr>\n"
 
-                        if t['nb_responses_with_street']>0:
-                            percent_with_street = int(total/t['nb_responses_with_street']*100.0)
-                        
-                        if t['nb_responses'] > 0 and t['nb_responses_with_street'] > 0:
-                            docfile.write(f"| **Total** | {total} | {percent_responses}% | {percent_with_street}%|\n")
-                            html_streets_list += f"<tr><td> <strong>Total</strong> </td><td> {total} </td><td> {percent_responses}% </td><td> {percent_with_street}%</td></tr>\n"
-
-                        # Generate Map
-                        allways = ','.join(ways)
+                        # # Generate Map
+                        # allways = ','.join(ways)
                     
-                    if len(ways)>0:
-                        insee = t['insee']
-                        lat = float(villes_info[insee]['lat'])
-                        lon = float(villes_info[insee]['lon'])
-                        jways = api.get(f'way(id:{allways})',responseformat='geojson',verbosity='geom')
-                        with open(gjsonfilename, 'w') as gjsonfile:
-                            gjsonfile.write(json.dumps(jways, indent=4, separators=(',', ': ')))
-
-                        m = folium.Map(location=[ lat, lon],height=MAP_HEIGHT,width=MAP_WIDTH,zoom_start=13)
-                        folium.GeoJson(
-                            gjsonfilename,
-                            name='geojson',
-                            style_function=folium_style_function
-                        ).add_to(m)
-
-                        
+                    if top_total_response_with_street>0:
                         # Read html ville template
                         with open("index_ville_template.html", "r") as templatefile:
                             template_content = templatefile.read()
@@ -577,6 +651,16 @@ def write_towns_result():
 
                         # leaflet Map
                         div_width=MAP_WIDTH+200
+
+                        # Color map
+                        levels = len(LINES_COLOR)
+                        cm     = branca.colormap.LinearColormap(LINES_COLOR, vmin=0, vmax=max_percent).to_step(levels)
+                        cm.caption = '% Criticité point noir'
+                        m.add_child(cm)
+
+                        # Street name layer control
+                        folium.LayerControl().add_to(m)
+
                         iframe_map = m._repr_html_()
                         htmlcontent = htmlcontent.replace("{{MAP_CONTENT}}",iframe_map)
                         htmlcontent = htmlcontent.replace('<div style="width:100%;"><div style="position:relative;width:100%;',f'<div style="width:{div_width}px;"><div style="position:relative;width:100%;')
@@ -585,7 +669,7 @@ def write_towns_result():
                         #m.save(mapfilename)
                         with open(mapfilename, 'w') as htmlfile:
                             htmlfile.write(htmlcontent)
-                except:
+                except IOError:
                     print (f"##### cannot generate a files for {kt}")
 
 

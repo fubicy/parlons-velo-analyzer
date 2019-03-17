@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22660912,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4482031,
+                        43.6124838
+                    ],
+                    [
+                        1.4470136,
+                        43.611719
+                    ],
+                    [
+                        1.4468755,
+                        43.6116249
+                    ],
+                    [
+                        1.4468665,
+                        43.6116188
+                    ],
+                    [
+                        1.44676,
+                        43.6115463
+                    ],
+                    [
+                        1.4467194,
+                        43.6115205
+                    ],
+                    [
+                        1.4455232,
+                        43.6107593
+                    ],
+                    [
+                        1.4454335,
+                        43.6107022
+                    ],
+                    [
+                        1.4453857,
+                        43.6106713
+                    ],
+                    [
+                        1.4445678,
+                        43.6101427
+                    ],
+                    [
+                        1.4444405,
+                        43.6100746
+                    ],
+                    [
+                        1.4443688,
+                        43.6100362
+                    ],
+                    [
+                        1.4442945,
+                        43.6099956
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Roquelaine",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 371542953,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4442945,
+                        43.6099956
+                    ],
+                    [
+                        1.4442179,
+                        43.6099511
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Roquelaine",
+                "note": "interdiction de tourner \u00e0 gauche en venant de la Rue Roquelaine",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24580781,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3218026,
+                        48.756199
+                    ],
+                    [
+                        2.3217214,
+                        48.756161
+                    ],
+                    [
+                        2.3214942,
+                        48.7558985
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "name": "Rue Roger Salengro",
+                "old_ref": "D 67",
+                "oneway": "yes",
+                "ref": "D 226",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84152075,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3214942,
+                        48.7558985
+                    ],
+                    [
+                        2.3214597,
+                        48.7558572
+                    ],
+                    [
+                        2.3211887,
+                        48.7555611
+                    ],
+                    [
+                        2.3211367,
+                        48.7555022
+                    ],
+                    [
+                        2.3209041,
+                        48.7552281
+                    ],
+                    [
+                        2.3208316,
+                        48.7551309
+                    ],
+                    [
+                        2.3207921,
+                        48.7550526
+                    ],
+                    [
+                        2.3207733,
+                        48.7549731
+                    ],
+                    [
+                        2.3207589,
+                        48.7548725
+                    ],
+                    [
+                        2.3207421,
+                        48.7547843
+                    ],
+                    [
+                        2.3207289,
+                        48.7547584
+                    ],
+                    [
+                        2.32072,
+                        48.7547423
+                    ],
+                    [
+                        2.3206629,
+                        48.7546745
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "opposite_share_busway",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "name": "Rue Roger Salengro",
+                "old_ref": "D 67",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "ref": "D 226",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

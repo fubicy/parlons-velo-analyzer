@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 41432776,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0645808,
+                        50.6301501
+                    ],
+                    [
+                        3.0645578,
+                        50.630135
+                    ],
+                    [
+                        3.0644805,
+                        50.6300787
+                    ],
+                    [
+                        3.0636253,
+                        50.6294485
+                    ],
+                    [
+                        3.0635723,
+                        50.6294094
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Valmy",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41432791,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0617362,
+                        50.6279848
+                    ],
+                    [
+                        3.0617776,
+                        50.6280624
+                    ],
+                    [
+                        3.0618771,
+                        50.6281452
+                    ],
+                    [
+                        3.061919,
+                        50.6281793
+                    ],
+                    [
+                        3.0619993,
+                        50.62823
+                    ],
+                    [
+                        3.0620218,
+                        50.6282474
+                    ],
+                    [
+                        3.0635029,
+                        50.6293577
+                    ],
+                    [
+                        3.0635723,
+                        50.6294094
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Valmy",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102143189,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0646539,
+                        50.6302016
+                    ],
+                    [
+                        3.0646758,
+                        50.630218
+                    ],
+                    [
+                        3.0647578,
+                        50.6302787
+                    ],
+                    [
+                        3.0655118,
+                        50.6308361
+                    ],
+                    [
+                        3.0655631,
+                        50.630874
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Valmy",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 168846086,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0645808,
+                        50.6301501
+                    ],
+                    [
+                        3.0646539,
+                        50.6302016
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Valmy",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

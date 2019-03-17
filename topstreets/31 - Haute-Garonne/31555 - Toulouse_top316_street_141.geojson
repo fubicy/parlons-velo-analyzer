@@ -1,0 +1,448 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4612507,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4501478,
+                        43.6043586
+                    ],
+                    [
+                        1.4503078,
+                        43.6044003
+                    ],
+                    [
+                        1.4503964,
+                        43.6044279
+                    ],
+                    [
+                        1.4504796,
+                        43.6044296
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Colombette",
+                "oneway": "yes",
+                "parking:lane:right": "no",
+                "source:maxspeed": "FR:zone",
+                "surface": "asphalt",
+                "zone:maxspeed": "30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4612515,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566131,
+                        43.6050307
+                    ],
+                    [
+                        1.4567208,
+                        43.6050516
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de la Colombette",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 315778517,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.453889,
+                        43.6045669
+                    ],
+                    [
+                        1.4541382,
+                        43.6046027
+                    ],
+                    [
+                        1.4541869,
+                        43.6046112
+                    ],
+                    [
+                        1.4548401,
+                        43.604721
+                    ],
+                    [
+                        1.4556898,
+                        43.60487
+                    ],
+                    [
+                        1.4558879,
+                        43.6049046
+                    ],
+                    [
+                        1.4564922,
+                        43.6050097
+                    ],
+                    [
+                        1.4566131,
+                        43.6050307
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue de la Colombette",
+                "name:oc": "Carri\u00e8ra de la Colombeta",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:residents": "PERI",
+                "parking:condition:left:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "parallel",
+                "parking:lane:left:capacity": "19",
+                "parking:lane:left:parallel": "on_street",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382262952,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4527344,
+                        43.6044787
+                    ],
+                    [
+                        1.4528871,
+                        43.6044908
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Colombette",
+                "oneway": "yes",
+                "parking:lane:left": "no",
+                "parking:lane:right": "no",
+                "source:maxspeed": "FR:zone",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382262953,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4504796,
+                        43.6044296
+                    ],
+                    [
+                        1.4508667,
+                        43.6044373
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Colombette",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:residents": "PERI",
+                "parking:condition:left:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "parallel",
+                "parking:lane:left:capacity": "6",
+                "parking:lane:left:parallel": "on_street",
+                "parking:lane:right": "no",
+                "source:maxspeed": "FR:zone",
+                "surface": "asphalt",
+                "zone:maxspeed": "30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382262954,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4529847,
+                        43.6044972
+                    ],
+                    [
+                        1.4530376,
+                        43.6045009
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Colombette",
+                "oneway": "yes",
+                "parking:lane:left": "no",
+                "parking:lane:right": "no",
+                "source:maxspeed": "FR:zone",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382262955,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4528871,
+                        43.6044908
+                    ],
+                    [
+                        1.4529847,
+                        43.6044972
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Colombette",
+                "oneway": "yes",
+                "parking:condition:left": "delivery",
+                "parking:lane:left": "parallel",
+                "parking:lane:right": "no",
+                "source:maxspeed": "FR:zone",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382262956,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4530376,
+                        43.6045009
+                    ],
+                    [
+                        1.4538042,
+                        43.6045554
+                    ],
+                    [
+                        1.453889,
+                        43.6045669
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Colombette",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:residents": "PERI",
+                "parking:condition:left:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "parallel",
+                "parking:lane:left:parallel": "on_street",
+                "parking:lane:right": "no",
+                "source:maxspeed": "FR:zone",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382262957,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4525117,
+                        43.604464
+                    ],
+                    [
+                        1.4527344,
+                        43.6044787
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Colombette",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:residents": "PERI",
+                "parking:condition:left:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "parallel",
+                "parking:lane:left:capacity": "3",
+                "parking:lane:left:parallel": "on_street",
+                "parking:lane:right": "no",
+                "source:maxspeed": "FR:zone",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382262958,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4521639,
+                        43.6044551
+                    ],
+                    [
+                        1.4522512,
+                        43.6044563
+                    ],
+                    [
+                        1.4523048,
+                        43.604457
+                    ],
+                    [
+                        1.4524489,
+                        43.6044619
+                    ],
+                    [
+                        1.4525117,
+                        43.604464
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Colombette",
+                "oneway": "yes",
+                "parking:lane:left": "no",
+                "parking:lane:right": "no",
+                "source:maxspeed": "FR:zone",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382262959,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4508667,
+                        43.6044373
+                    ],
+                    [
+                        1.4509648,
+                        43.6044393
+                    ],
+                    [
+                        1.4521639,
+                        43.6044551
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Colombette",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:residents": "PERI",
+                "parking:condition:left:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "parallel",
+                "parking:lane:left:parallel": "on_street",
+                "parking:lane:right": "no",
+                "source:maxspeed": "FR:zone",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

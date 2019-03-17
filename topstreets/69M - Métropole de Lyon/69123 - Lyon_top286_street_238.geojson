@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 199415577,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8412584,
+                        45.7646153
+                    ],
+                    [
+                        4.8412419,
+                        45.7638506
+                    ],
+                    [
+                        4.8412378,
+                        45.7637304
+                    ],
+                    [
+                        4.8412383,
+                        45.7636984
+                    ],
+                    [
+                        4.8412251,
+                        45.7636839
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Quai du G\u00e9n\u00e9ral Sarrail",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604741952,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8414751,
+                        45.7646905
+                    ],
+                    [
+                        4.8414058,
+                        45.764685
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "yes",
+                "highway": "cycleway",
+                "name": "Quai du G\u00e9n\u00e9ral Sarrail",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

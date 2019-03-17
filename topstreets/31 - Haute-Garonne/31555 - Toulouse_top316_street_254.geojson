@@ -1,0 +1,884 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26405564,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4184203,
+                        43.5645274
+                    ],
+                    [
+                        1.4184364,
+                        43.5642033
+                    ],
+                    [
+                        1.4184098,
+                        43.5639859
+                    ],
+                    [
+                        1.4183478,
+                        43.563734
+                    ],
+                    [
+                        1.4182546,
+                        43.5635148
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "maxspeed": "90",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "toll": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30850136,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4155337,
+                        43.5601341
+                    ],
+                    [
+                        1.4164947,
+                        43.5610723
+                    ],
+                    [
+                        1.417172,
+                        43.561736
+                    ],
+                    [
+                        1.4175822,
+                        43.5621695
+                    ],
+                    [
+                        1.4178428,
+                        43.5624761
+                    ],
+                    [
+                        1.4181174,
+                        43.5628371
+                    ],
+                    [
+                        1.4182737,
+                        43.5630874
+                    ],
+                    [
+                        1.4184331,
+                        43.5633655
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:lanes": "P\u00e9riph\u00e9rique int\u00e9rieur;Paris;Bordeaux;Auch;Blagnac;Le Mirail||P\u00e9riph\u00e9rique ext\u00e9rieur;Albi;Montpellier;Foix;Toulouse-Centre;Empalot|",
+                "destination:ref:lanes": "E 9|E 9|E 80|E 80",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "maxspeed:lanes": "|||70",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "none|none|none|merge_to_left",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32073304,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4064686,
+                        43.5506292
+                    ],
+                    [
+                        1.4059636,
+                        43.55008
+                    ],
+                    [
+                        1.4052737,
+                        43.5493354
+                    ],
+                    [
+                        1.4045792,
+                        43.5486074
+                    ],
+                    [
+                        1.4041981,
+                        43.5482157
+                    ],
+                    [
+                        1.4037144,
+                        43.5477166
+                    ],
+                    [
+                        1.4031904,
+                        43.5471887
+                    ],
+                    [
+                        1.4023013,
+                        43.5463064
+                    ],
+                    [
+                        1.4013699,
+                        43.5454136
+                    ],
+                    [
+                        1.4009138,
+                        43.5449772
+                    ],
+                    [
+                        1.4003987,
+                        43.5444979
+                    ],
+                    [
+                        1.3995184,
+                        43.5436913
+                    ],
+                    [
+                        1.3974153,
+                        43.5417685
+                    ],
+                    [
+                        1.396414,
+                        43.5408005
+                    ],
+                    [
+                        1.3959597,
+                        43.5403534
+                    ],
+                    [
+                        1.3955577,
+                        43.5399578
+                    ],
+                    [
+                        1.3952208,
+                        43.5396165
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight > 3.5)",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32073306,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4184331,
+                        43.5633655
+                    ],
+                    [
+                        1.418568,
+                        43.5636446
+                    ],
+                    [
+                        1.4186914,
+                        43.5639144
+                    ],
+                    [
+                        1.4188685,
+                        43.5643705
+                    ],
+                    [
+                        1.4190106,
+                        43.5647942
+                    ],
+                    [
+                        1.4191782,
+                        43.5653656
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:lanes": "P\u00e9riph\u00e9rique int\u00e9rieur;Paris;Bordeaux;Auch;Blagnac;Le Mirail||P\u00e9riph\u00e9rique ext\u00e9rieur;Albi;Montpellier;Foix;Toulouse-Centre;Empalot|",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "slight_left|slight_left|slight_right|slight_right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397983056,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.397256,
+                        43.5414037
+                    ],
+                    [
+                        1.397596,
+                        43.5417326
+                    ],
+                    [
+                        1.3996609,
+                        43.5436215
+                    ],
+                    [
+                        1.4005938,
+                        43.5444788
+                    ],
+                    [
+                        1.4011033,
+                        43.5449554
+                    ],
+                    [
+                        1.4015476,
+                        43.5453742
+                    ],
+                    [
+                        1.4024375,
+                        43.546235
+                    ],
+                    [
+                        1.4033431,
+                        43.5471298
+                    ],
+                    [
+                        1.4040437,
+                        43.5478352
+                    ],
+                    [
+                        1.4043309,
+                        43.548136
+                    ],
+                    [
+                        1.4047262,
+                        43.5485422
+                    ],
+                    [
+                        1.4054212,
+                        43.5492742
+                    ],
+                    [
+                        1.4061083,
+                        43.5500136
+                    ],
+                    [
+                        1.4068195,
+                        43.5507957
+                    ],
+                    [
+                        1.4071976,
+                        43.5512213
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Toulouse",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397983057,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4095375,
+                        43.5539257
+                    ],
+                    [
+                        1.4107642,
+                        43.5552955
+                    ],
+                    [
+                        1.4110599,
+                        43.5556191
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Toulouse",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "maxspeed:lanes": "|||70",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "none|none|none|merge_to_left",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397983058,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4071976,
+                        43.5512213
+                    ],
+                    [
+                        1.4077118,
+                        43.5517963
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Toulouse",
+                "destination:lanes": "Toulouse|Toulouse|Toulouse|Tournefeuille;Le Mirail;La Croix de Pierre",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "maxspeed:lanes": "|||70",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "none|none|none|slight_right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397983059,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4110599,
+                        43.5556191
+                    ],
+                    [
+                        1.4113804,
+                        43.5559637
+                    ],
+                    [
+                        1.4121455,
+                        43.5567789
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Toulouse",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "none|none|none|merge_to_left",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397983060,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4077118,
+                        43.5517963
+                    ],
+                    [
+                        1.4081214,
+                        43.552273
+                    ],
+                    [
+                        1.4087538,
+                        43.553018
+                    ],
+                    [
+                        1.4095375,
+                        43.5539257
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Toulouse",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "none|none|none|merge_to_left",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397983062,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.412412,
+                        43.5570219
+                    ],
+                    [
+                        1.4134911,
+                        43.5581498
+                    ],
+                    [
+                        1.4142644,
+                        43.5589002
+                    ],
+                    [
+                        1.4150623,
+                        43.5596832
+                    ],
+                    [
+                        1.4155337,
+                        43.5601341
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Toulouse",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "maxspeed:lanes": "|||70",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "none|none|none|merge_to_left",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 499650708,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4125264,
+                        43.557421
+                    ],
+                    [
+                        1.4120303,
+                        43.5568758
+                    ]
+                ]
+            },
+            "properties": {
+                "change:lanes": "not_left|yes|not_right|no",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "90",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "placement": "transition",
+                "ref": "A 64",
+                "smoothness": "good",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "toll": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 499650709,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4182546,
+                        43.5635148
+                    ],
+                    [
+                        1.4180584,
+                        43.5631373
+                    ],
+                    [
+                        1.4179153,
+                        43.5629089
+                    ],
+                    [
+                        1.4176273,
+                        43.5625176
+                    ],
+                    [
+                        1.4173771,
+                        43.5622219
+                    ],
+                    [
+                        1.4169762,
+                        43.5618079
+                    ],
+                    [
+                        1.4163083,
+                        43.5611549
+                    ],
+                    [
+                        1.4153467,
+                        43.56022
+                    ],
+                    [
+                        1.4148653,
+                        43.5597525
+                    ],
+                    [
+                        1.4140888,
+                        43.5589925
+                    ],
+                    [
+                        1.4133109,
+                        43.558216
+                    ],
+                    [
+                        1.4125264,
+                        43.557421
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "90",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "smoothness": "good",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "toll": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 499650711,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4183833,
+                        43.5651746
+                    ],
+                    [
+                        1.4184203,
+                        43.5645274
+                    ]
+                ]
+            },
+            "properties": {
+                "change:lanes": "not_left|not_right|not_left|not_right",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "maxspeed": "90",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "toll": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 499666314,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4121455,
+                        43.5567789
+                    ],
+                    [
+                        1.412412,
+                        43.5570219
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Toulouse",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "placement": "transition",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "none|none|none|merge_to_left",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 499673584,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4079494,
+                        43.5523027
+                    ],
+                    [
+                        1.4075509,
+                        43.5518441
+                    ],
+                    [
+                        1.4070573,
+                        43.5512843
+                    ],
+                    [
+                        1.4064686,
+                        43.5506292
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight > 3.5)",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "|||merge_to_left",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 499673590,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4120303,
+                        43.5568758
+                    ],
+                    [
+                        1.4112109,
+                        43.55601
+                    ],
+                    [
+                        1.4103243,
+                        43.5550399
+                    ],
+                    [
+                        1.4093712,
+                        43.5539797
+                    ],
+                    [
+                        1.4085607,
+                        43.5530283
+                    ],
+                    [
+                        1.4082858,
+                        43.5527014
+                    ],
+                    [
+                        1.4079494,
+                        43.5523027
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight > 3.5)",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 509848585,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4191782,
+                        43.5653656
+                    ],
+                    [
+                        1.4192909,
+                        43.5657358
+                    ],
+                    [
+                        1.4195222,
+                        43.5664974
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:lanes": "P\u00e9riph\u00e9rique int\u00e9rieur;Paris;Bordeaux;Auch;Blagnac;Le Mirail||P\u00e9riph\u00e9rique ext\u00e9rieur;Albi;Montpellier;Foix;Toulouse-Centre;Empalot|",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "90",
+                "name": "La Pyr\u00e9n\u00e9enne",
+                "oneway": "yes",
+                "ref": "A 64",
+                "shoulder:right": "yes",
+                "smoothness": "good",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "slight_left|slight_left|slight_right|slight_right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

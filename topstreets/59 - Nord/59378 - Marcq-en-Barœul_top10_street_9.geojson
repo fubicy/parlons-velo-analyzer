@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 274199706,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1065811,
+                        50.660275
+                    ],
+                    [
+                        3.1055372,
+                        50.6601016
+                    ],
+                    [
+                        3.1036809,
+                        50.6596154
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Boissonnet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

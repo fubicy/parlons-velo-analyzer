@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31956711,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.334144,
+                        48.8709721
+                    ],
+                    [
+                        2.3339753,
+                        48.8709429
+                    ],
+                    [
+                        2.333151,
+                        48.8708001
+                    ],
+                    [
+                        2.3327791,
+                        48.8707357
+                    ],
+                    [
+                        2.3325441,
+                        48.870695
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Boulevard des Capucines",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q590441",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68915107,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3320706,
+                        48.8706136
+                    ],
+                    [
+                        2.3318395,
+                        48.8705741
+                    ],
+                    [
+                        2.3303006,
+                        48.8703112
+                    ],
+                    [
+                        2.329943,
+                        48.8702501
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Boulevard des Capucines",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q590441",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69315569,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.329943,
+                        48.8702501
+                    ],
+                    [
+                        2.3297807,
+                        48.8702216
+                    ],
+                    [
+                        2.3294524,
+                        48.8701654
+                    ],
+                    [
+                        2.3290503,
+                        48.8700956
+                    ],
+                    [
+                        2.3290267,
+                        48.8700919
+                    ],
+                    [
+                        2.3282086,
+                        48.8699635
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Boulevard des Capucines",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q590441",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70995648,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3325441,
+                        48.870695
+                    ],
+                    [
+                        2.3320706,
+                        48.8706136
+                    ]
+                ]
+            },
+            "properties": {
+                "change:lanes:backward": "not_left|yes|yes|yes",
+                "change:lanes:forward": "not_left|yes|yes",
+                "highway": "secondary",
+                "lanes": "7",
+                "lanes:backward": "4",
+                "lanes:forward": "3",
+                "lit": "yes",
+                "name": "Boulevard des Capucines",
+                "sidewalk": "no",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|left;through|through|through",
+                "turn:lanes:forward": "through|through|through",
+                "wikidata": "Q590441",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

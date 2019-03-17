@@ -1,0 +1,339 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31526233,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0435748,
+                        49.24802
+                    ],
+                    [
+                        4.0436718,
+                        49.2479441
+                    ],
+                    [
+                        4.0437924,
+                        49.2479225
+                    ],
+                    [
+                        4.0440339,
+                        49.2478174
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Henry Vasnier",
+                "oneway": "yes",
+                "ref": "N 44",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31526234,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0440339,
+                        49.2478174
+                    ],
+                    [
+                        4.0438609,
+                        49.2480654
+                    ],
+                    [
+                        4.0436851,
+                        49.2482925
+                    ],
+                    [
+                        4.0435449,
+                        49.2484859
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Henry Vasnier",
+                "oneway": "yes",
+                "ref": "N 44",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "turn:lanes": "through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38547040,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0467899,
+                        49.2460281
+                    ],
+                    [
+                        4.0467069,
+                        49.2460838
+                    ],
+                    [
+                        4.046285,
+                        49.2463569
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Henry Vasnier",
+                "oneway": "no",
+                "ref": "N 44",
+                "source": "GPS",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42720832,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0496042,
+                        49.2441427
+                    ],
+                    [
+                        4.0497434,
+                        49.2438366
+                    ],
+                    [
+                        4.0526885,
+                        49.2410369
+                    ],
+                    [
+                        4.0528189,
+                        49.2409143
+                    ],
+                    [
+                        4.0530545,
+                        49.2407892
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Henry Vasnier",
+                "oneway": "yes",
+                "ref": "N 44",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84665769,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0531097,
+                        49.2409453
+                    ],
+                    [
+                        4.0530031,
+                        49.2409796
+                    ],
+                    [
+                        4.0528699,
+                        49.2410441
+                    ],
+                    [
+                        4.0527814,
+                        49.241092
+                    ],
+                    [
+                        4.052682,
+                        49.2411725
+                    ],
+                    [
+                        4.0503246,
+                        49.2434224
+                    ],
+                    [
+                        4.0498718,
+                        49.2438545
+                    ],
+                    [
+                        4.0498408,
+                        49.2438842
+                    ],
+                    [
+                        4.0498049,
+                        49.2439186
+                    ],
+                    [
+                        4.0496042,
+                        49.2441427
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:lanes": "left|through;right",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Henry Vasnier",
+                "oneway": "yes",
+                "ref": "N 44",
+                "source": "GPS",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84665772,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0496042,
+                        49.2441427
+                    ],
+                    [
+                        4.0493273,
+                        49.2443701
+                    ],
+                    [
+                        4.0493067,
+                        49.2443833
+                    ],
+                    [
+                        4.0491363,
+                        49.2445013
+                    ],
+                    [
+                        4.0483277,
+                        49.2450301
+                    ],
+                    [
+                        4.0472561,
+                        49.2457331
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Henry Vasnier",
+                "oneway": "no",
+                "ref": "N 44",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449255058,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.046285,
+                        49.2463569
+                    ],
+                    [
+                        4.0459101,
+                        49.2466058
+                    ],
+                    [
+                        4.0449786,
+                        49.2472203
+                    ],
+                    [
+                        4.044896,
+                        49.2472725
+                    ],
+                    [
+                        4.0440339,
+                        49.2478174
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Henry Vasnier",
+                "oneway": "no",
+                "ref": "N 44",
+                "source": "GPS",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449255059,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0472561,
+                        49.2457331
+                    ],
+                    [
+                        4.0468714,
+                        49.2459758
+                    ],
+                    [
+                        4.0467899,
+                        49.2460281
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Henry Vasnier",
+                "oneway": "no",
+                "ref": "N 44",
+                "source": "GPS",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25209230,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0875464,
+                        49.4258622
+                    ],
+                    [
+                        1.0876164,
+                        49.4257254
+                    ],
+                    [
+                        1.0876853,
+                        49.4255918
+                    ],
+                    [
+                        1.0877149,
+                        49.4255418
+                    ],
+                    [
+                        1.0878283,
+                        49.4253685
+                    ],
+                    [
+                        1.0878965,
+                        49.4252643
+                    ],
+                    [
+                        1.0881875,
+                        49.4248864
+                    ],
+                    [
+                        1.0885536,
+                        49.4244252
+                    ],
+                    [
+                        1.0887871,
+                        49.4241002
+                    ],
+                    [
+                        1.0888391,
+                        49.4240142
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue de Sotteville",
+                "oneway": "yes",
+                "ref": "D 18",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25567200,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0878611,
+                        49.4290632
+                    ],
+                    [
+                        1.0877756,
+                        49.428801
+                    ],
+                    [
+                        1.08777,
+                        49.4287836
+                    ],
+                    [
+                        1.0877383,
+                        49.4286864
+                    ],
+                    [
+                        1.0876619,
+                        49.4284695
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "horse": "yes",
+                "lanes": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue de Sotteville",
+                "oneway": "yes",
+                "ref": "D 18",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32982778,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0889605,
+                        49.4240718
+                    ],
+                    [
+                        1.0886642,
+                        49.4244412
+                    ],
+                    [
+                        1.0883089,
+                        49.4249172
+                    ],
+                    [
+                        1.0880117,
+                        49.4253154
+                    ],
+                    [
+                        1.0877777,
+                        49.4257225
+                    ],
+                    [
+                        1.0877597,
+                        49.42576
+                    ],
+                    [
+                        1.0876851,
+                        49.4258925
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue de Sotteville",
+                "oneway": "yes",
+                "ref": "D 18",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143946252,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0876619,
+                        49.4284695
+                    ],
+                    [
+                        1.087425,
+                        49.4279016
+                    ],
+                    [
+                        1.0873361,
+                        49.4273984
+                    ],
+                    [
+                        1.0873449,
+                        49.4270684
+                    ],
+                    [
+                        1.087393,
+                        49.426688
+                    ],
+                    [
+                        1.0873966,
+                        49.4266592
+                    ],
+                    [
+                        1.0874692,
+                        49.4263265
+                    ],
+                    [
+                        1.0874738,
+                        49.4262877
+                    ],
+                    [
+                        1.087508,
+                        49.4261652
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "horse": "yes",
+                "lanes": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue de Sotteville",
+                "oneway": "no",
+                "ref": "D 18",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "vehicle:backward:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

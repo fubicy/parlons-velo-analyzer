@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33457163,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6931994,
+                        47.3798859
+                    ],
+                    [
+                        0.6931901,
+                        47.3799903
+                    ],
+                    [
+                        0.6931495,
+                        47.3800872
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "path",
+                "name": "Avenue Grammont",
+                "oneway": "yes",
+                "segregated": "no",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33523089,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6934116,
+                        47.3787815
+                    ],
+                    [
+                        0.6933351,
+                        47.3787448
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Avenue Grammont",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33523092,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.69452,
+                        47.3759342
+                    ],
+                    [
+                        0.6945612,
+                        47.3759355
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue Grammont",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162139186,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6925927,
+                        47.3805643
+                    ],
+                    [
+                        0.692745,
+                        47.380496
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "name": "Avenue Grammont",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 265599446,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6931495,
+                        47.3800872
+                    ],
+                    [
+                        0.6931361,
+                        47.3801214
+                    ],
+                    [
+                        0.693024,
+                        47.3804068
+                    ],
+                    [
+                        0.6929834,
+                        47.3805037
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "service",
+                "name": "Avenue Grammont",
+                "oneway": "yes",
+                "segregated": "no",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

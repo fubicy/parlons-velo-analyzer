@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 220256240,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6764577,
+                        45.0530228
+                    ],
+                    [
+                        5.6765656,
+                        45.0529727
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bin": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Rivalta",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "limited",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220256241,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6767204,
+                        45.0530503
+                    ],
+                    [
+                        5.6765466,
+                        45.0531108
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Rivalta",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "limited",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

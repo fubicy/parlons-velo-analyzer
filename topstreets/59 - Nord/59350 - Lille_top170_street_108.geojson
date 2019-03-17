@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 39178019,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0609594,
+                        50.6276941
+                    ],
+                    [
+                        3.0607864,
+                        50.6276923
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue des Pyramides",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 497944366,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0607864,
+                        50.6276923
+                    ],
+                    [
+                        3.0606356,
+                        50.6276895
+                    ],
+                    [
+                        3.0591557,
+                        50.6276707
+                    ],
+                    [
+                        3.0579371,
+                        50.6276432
+                    ],
+                    [
+                        3.0577507,
+                        50.6276401
+                    ],
+                    [
+                        3.0576782,
+                        50.627643
+                    ],
+                    [
+                        3.0575756,
+                        50.6276424
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue des Pyramides",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28117381,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3889804,
+                        43.3017084
+                    ],
+                    [
+                        5.3903809,
+                        43.302359
+                    ],
+                    [
+                        5.3920295,
+                        43.3031259
+                    ],
+                    [
+                        5.3921333,
+                        43.3031732
+                    ],
+                    [
+                        5.3925937,
+                        43.3033877
+                    ],
+                    [
+                        5.3928872,
+                        43.3035209
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Boulevard Longchamp",
+                "surface": "unhewn_cobblestone",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34962297,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3868847,
+                        43.3007337
+                    ],
+                    [
+                        5.3878803,
+                        43.3011964
+                    ],
+                    [
+                        5.3879038,
+                        43.3012073
+                    ],
+                    [
+                        5.3879328,
+                        43.3012207
+                    ],
+                    [
+                        5.3879652,
+                        43.3012359
+                    ],
+                    [
+                        5.3883724,
+                        43.3014268
+                    ],
+                    [
+                        5.38884,
+                        43.3016426
+                    ],
+                    [
+                        5.3889804,
+                        43.3017084
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Boulevard Longchamp",
+                "name:oc": "Baloard Longchamp",
+                "oneway": "no",
+                "sidewalk": "both",
+                "source:name:oc": "ieo-bdtopoc",
+                "surface": "asphalt",
+                "width": "20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

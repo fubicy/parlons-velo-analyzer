@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24692723,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3315385,
+                        48.8085425
+                    ],
+                    [
+                        2.3321421,
+                        48.8090213
+                    ],
+                    [
+                        2.3330403,
+                        48.8097726
+                    ],
+                    [
+                        2.3332314,
+                        48.8099319
+                    ],
+                    [
+                        2.3333213,
+                        48.8100069
+                    ],
+                    [
+                        2.334163,
+                        48.8106853
+                    ],
+                    [
+                        2.3342416,
+                        48.8107733
+                    ],
+                    [
+                        2.3342623,
+                        48.8108214
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue Jeanne d'Arc",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

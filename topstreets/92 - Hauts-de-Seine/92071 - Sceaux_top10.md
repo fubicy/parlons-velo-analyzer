@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 61 réponses dont 38 réponses avec une rue
 
 13 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue Houdan | 7 | 11% | <img src="../../img/bar_18.gif" />&nbsp;18%|
-| Avenue de Camberwell | 6 | 9% | <img src="../../img/bar_15.gif" />&nbsp;15%|
-| Rue du Lycée | 4 | 6% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| La Coulée Verte | 4 | 6% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Avenue Jean Perrin | 4 | 6% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Place du Général de Gaulle | 3 | 4% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Boulevard Colbert | 3 | 4% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Rue des Mouilleboeufs | 2 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue de Fontenay | 1 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue Paul Couderc | 1 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 35 | 57% | 92%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue Houdan | 7 | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| Avenue de Camberwell | 6 | <img src="../../img/bar_17.gif" />&nbsp;17%|
+| Rue du Lycée | 4 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| La Coulée Verte | 4 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Avenue Jean Perrin | 4 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Place du Général de Gaulle | 3 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Boulevard Colbert | 3 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Rue des Mouilleboeufs | 2 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue de Fontenay | 1 | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| Rue Paul Couderc | 1 | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| **Total** | 35 | 100%|

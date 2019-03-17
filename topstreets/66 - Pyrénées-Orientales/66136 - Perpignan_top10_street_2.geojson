@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25003500,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8872843,
+                        42.6984064
+                    ],
+                    [
+                        2.8873533,
+                        42.6983781
+                    ],
+                    [
+                        2.8875403,
+                        42.6980069
+                    ],
+                    [
+                        2.8875776,
+                        42.6980074
+                    ],
+                    [
+                        2.8876149,
+                        42.6980078
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Place de Catalogne",
+                "name:ca": "Pla\u00e7a de Catalunya",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 22-06-2008",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220950630,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8881106,
+                        42.6981399
+                    ],
+                    [
+                        2.8882468,
+                        42.6981761
+                    ],
+                    [
+                        2.8883576,
+                        42.6982056
+                    ],
+                    [
+                        2.8884952,
+                        42.6982423
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "maxspeed": "30",
+                "name": "Place de Catalogne",
+                "name:ca": "Pla\u00e7a de Catalunya",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 588464419,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8881283,
+                        42.6986884
+                    ],
+                    [
+                        2.8883379,
+                        42.6982478
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Place de Catalogne",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 615439962,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8876149,
+                        42.6980078
+                    ],
+                    [
+                        2.8877396,
+                        42.698041
+                    ],
+                    [
+                        2.8881106,
+                        42.6981399
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "maxspeed": "30",
+                "name": "Place de Catalogne",
+                "name:ca": "Pla\u00e7a de Catalunya",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        }
+    ]
+}

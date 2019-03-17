@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 329297583,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9016531,
+                        45.5292987
+                    ],
+                    [
+                        4.9017553,
+                        45.5294086
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Le Pont",
+                "network": "L'Va",
+                "public_transport": "platform",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 329297584,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9016713,
+                        45.5296054
+                    ],
+                    [
+                        4.9016507,
+                        45.5294886
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Le Pont",
+                "network": "L'Va",
+                "public_transport": "platform",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

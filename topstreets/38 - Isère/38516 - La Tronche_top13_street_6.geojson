@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8016085,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7354487,
+                        45.2028119
+                    ],
+                    [
+                        5.7357971,
+                        45.2023935
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxweight": "5",
+                "name": "Rue de l'Is\u00e8re",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 394965850,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7357971,
+                        45.2023935
+                    ],
+                    [
+                        5.7358477,
+                        45.2023327
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxweight": "5",
+                "name": "Rue de l'Is\u00e8re",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22950086,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4257617,
+                        48.8561972
+                    ],
+                    [
+                        2.4258172,
+                        48.8556383
+                    ],
+                    [
+                        2.4259179,
+                        48.8546512
+                    ],
+                    [
+                        2.4259754,
+                        48.8540884
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Marceau",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89436039,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.426098,
+                        48.8529891
+                    ],
+                    [
+                        2.4261047,
+                        48.8529402
+                    ],
+                    [
+                        2.4261676,
+                        48.8524562
+                    ],
+                    [
+                        2.4261827,
+                        48.8522632
+                    ],
+                    [
+                        2.426269,
+                        48.8514225
+                    ],
+                    [
+                        2.4262771,
+                        48.8513209
+                    ],
+                    [
+                        2.4262892,
+                        48.8510921
+                    ],
+                    [
+                        2.4262966,
+                        48.8510297
+                    ],
+                    [
+                        2.4263314,
+                        48.8507384
+                    ],
+                    [
+                        2.4263375,
+                        48.8506868
+                    ],
+                    [
+                        2.4263444,
+                        48.8506334
+                    ],
+                    [
+                        2.4264579,
+                        48.84975
+                    ],
+                    [
+                        2.4265095,
+                        48.849156
+                    ],
+                    [
+                        2.4264973,
+                        48.8491154
+                    ],
+                    [
+                        2.4264396,
+                        48.8490589
+                    ],
+                    [
+                        2.4263772,
+                        48.8490262
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue Marceau",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 594331401,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4259754,
+                        48.8540884
+                    ],
+                    [
+                        2.4260916,
+                        48.8530308
+                    ],
+                    [
+                        2.426098,
+                        48.8529891
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Marceau",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

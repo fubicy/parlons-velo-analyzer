@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 394068320,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.7065701,
+                        45.9387581
+                    ],
+                    [
+                        6.7066504,
+                        45.9388883
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "interzone:Montenbus": "no",
+                "is_in:city": "Passy",
+                "name": "Plateau d'Assy",
+                "network": "Montenbus",
+                "public_transport": "platform",
+                "source": "CCPMB/Borini; local knowlege",
+                "zone:Montenbus": "Plaine",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 394068330,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.7066215,
+                        45.9389747
+                    ],
+                    [
+                        6.7065359,
+                        45.938873
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "interzone:Montenbus": "no",
+                "is_in:city": "Passy",
+                "name": "Plateau d'Assy",
+                "network": "Montenbus",
+                "public_transport": "platform",
+                "source": "CCPMB/Borini; local knowlege",
+                "zone:Montenbus": "Plaine",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

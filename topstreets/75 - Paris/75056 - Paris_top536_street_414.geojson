@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4227124,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3368794,
+                        48.8545063
+                    ],
+                    [
+                        2.3368028,
+                        48.8545322
+                    ],
+                    [
+                        2.3365165,
+                        48.8546289
+                    ],
+                    [
+                        2.336101,
+                        48.8547693
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jacob",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3448385",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66486068,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.336101,
+                        48.8547693
+                    ],
+                    [
+                        2.3340272,
+                        48.8554764
+                    ],
+                    [
+                        2.3339395,
+                        48.8555049
+                    ],
+                    [
+                        2.3338879,
+                        48.8555233
+                    ],
+                    [
+                        2.3335929,
+                        48.8556287
+                    ],
+                    [
+                        2.3335083,
+                        48.8556589
+                    ],
+                    [
+                        2.3334422,
+                        48.8556826
+                    ],
+                    [
+                        2.3317511,
+                        48.8562876
+                    ],
+                    [
+                        2.3316717,
+                        48.8563151
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Jacob",
+                "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0416\u0430\u043a\u043e\u0431",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02014P0193",
+                "surface": "asphalt",
+                "wikidata": "Q3448385",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

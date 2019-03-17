@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 511433200,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3322684,
+                        47.8435853
+                    ],
+                    [
+                        5.3323114,
+                        47.844363
+                    ],
+                    [
+                        5.3323135,
+                        47.844465
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Route de Dijon",
+                "old_ref": "N 74",
+                "ref": "D 974",
+                "source": "Bing;DGFiP 2015/BANO",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 511433201,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3320939,
+                        47.8400055
+                    ],
+                    [
+                        5.3321098,
+                        47.8405291
+                    ],
+                    [
+                        5.3321413,
+                        47.8409299
+                    ],
+                    [
+                        5.3322684,
+                        47.8435853
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "70",
+                "name": "Route de Dijon",
+                "old_ref": "N 74",
+                "ref": "D 974",
+                "source": "Bing;DGFiP 2015/BANO",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

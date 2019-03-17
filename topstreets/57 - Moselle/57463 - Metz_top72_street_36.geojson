@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 236361668,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1784906,
+                        49.1227174
+                    ],
+                    [
+                        6.1782881,
+                        49.1225231
+                    ],
+                    [
+                        6.1781653,
+                        49.1223866
+                    ],
+                    [
+                        6.178146,
+                        49.1223652
+                    ],
+                    [
+                        6.177637,
+                        49.1218003
+                    ],
+                    [
+                        6.1774958,
+                        49.1216475
+                    ],
+                    [
+                        6.1770674,
+                        49.1211835
+                    ],
+                    [
+                        6.1764267,
+                        49.1204896
+                    ],
+                    [
+                        6.1763822,
+                        49.1204141
+                    ],
+                    [
+                        6.1763287,
+                        49.1203209
+                    ],
+                    [
+                        6.1762178,
+                        49.1202148
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Jardins",
+                "name:de": "Gartenstra\u00dfe",
+                "name:fr": "Rue des Jardins",
+                "oneway": "yes",
+                "parking:lane:right": "parallel",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

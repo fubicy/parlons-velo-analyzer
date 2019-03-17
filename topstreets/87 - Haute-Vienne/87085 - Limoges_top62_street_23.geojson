@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25308696,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2558631,
+                        45.8328231
+                    ],
+                    [
+                        1.255988,
+                        45.8327721
+                    ],
+                    [
+                        1.2561742,
+                        45.8326988
+                    ],
+                    [
+                        1.2568345,
+                        45.8324329
+                    ],
+                    [
+                        1.2571143,
+                        45.8323203
+                    ],
+                    [
+                        1.2573966,
+                        45.8322122
+                    ],
+                    [
+                        1.25797,
+                        45.8321678
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue des Combes",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 443773794,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.25797,
+                        45.8321678
+                    ],
+                    [
+                        1.2581005,
+                        45.8321575
+                    ],
+                    [
+                        1.2582602,
+                        45.8321194
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "name": "Rue des Combes",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4316110,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3645692,
+                        49.1886658
+                    ],
+                    [
+                        -0.3646655,
+                        49.1886367
+                    ],
+                    [
+                        -0.3647499,
+                        49.1886138
+                    ],
+                    [
+                        -0.3649492,
+                        49.1885408
+                    ],
+                    [
+                        -0.365093,
+                        49.1884793
+                    ],
+                    [
+                        -0.3651089,
+                        49.188472
+                    ],
+                    [
+                        -0.3652765,
+                        49.1883944
+                    ],
+                    [
+                        -0.3656791,
+                        49.1882124
+                    ],
+                    [
+                        -0.3657301,
+                        49.1881882
+                    ],
+                    [
+                        -0.3659179,
+                        49.1881026
+                    ],
+                    [
+                        -0.3660035,
+                        49.1880644
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Rue du Gaillon",
+                "turn:lanes:forward": "through|through;right",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173141510,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3663181,
+                        49.1879286
+                    ],
+                    [
+                        -0.3665634,
+                        49.1878697
+                    ],
+                    [
+                        -0.3668196,
+                        49.187818
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue du Gaillon",
+                "oneway": "yes",
+                "turn:lanes": "through|through;right",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188680366,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3660035,
+                        49.1880644
+                    ],
+                    [
+                        -0.3662385,
+                        49.1879622
+                    ],
+                    [
+                        -0.3663001,
+                        49.1879359
+                    ],
+                    [
+                        -0.3663181,
+                        49.1879286
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "name": "Rue du Gaillon",
+                "turn:lanes:forward": "through|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

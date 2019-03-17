@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 42826379,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0407651,
+                        49.039644
+                    ],
+                    [
+                        2.0423687,
+                        49.0382342
+                    ],
+                    [
+                        2.0435108,
+                        49.0372472
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "foot": "yes",
+                "highway": "track",
+                "layer": "1",
+                "motor_vehicle": "no",
+                "name": "La Passerelle",
+                "source": "Bing",
+                "surface": "asphalt",
+                "tracktype": "grade1",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

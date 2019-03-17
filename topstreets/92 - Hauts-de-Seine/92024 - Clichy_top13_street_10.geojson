@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 583699764,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3103671,
+                        48.9139853
+                    ],
+                    [
+                        2.3116046,
+                        48.9121602
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxweight": "40.00",
+                "name": "Pont de Gennevilliers",
+                "ref": "D 17",
+                "sidewalk": "both",
+                "source": "opendata.hauts-de-seine.net 2012",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

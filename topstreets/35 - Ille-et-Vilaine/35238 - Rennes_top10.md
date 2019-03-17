@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 1534 réponses dont 1212 réponses avec une
 
 162 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Place de Bretagne | 271 | 17% | <img src="../../img/bar_22.gif" />&nbsp;22%|
-| Boulevard de la Liberté | 150 | 9% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Rue de Nantes | 63 | 4% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue de Fougères | 56 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue de Saint-Malo | 51 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue Saint-Hélier | 51 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Boulevard de Verdun | 43 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue de Paris | 37 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Place de la République | 30 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Boulevard de la Tour d'Auvergne | 28 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 780 | 50% | 64%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Place de Bretagne | 271 | <img src="../../img/bar_34.gif" />&nbsp;34%|
+| Boulevard de la Liberté | 150 | <img src="../../img/bar_19.gif" />&nbsp;19%|
+| Rue de Nantes | 63 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Rue de Fougères | 56 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rue de Saint-Malo | 51 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Rue Saint-Hélier | 51 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Boulevard de Verdun | 43 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue de Paris | 37 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Place de la République | 30 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Boulevard de la Tour d'Auvergne | 28 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 780 | 100%|

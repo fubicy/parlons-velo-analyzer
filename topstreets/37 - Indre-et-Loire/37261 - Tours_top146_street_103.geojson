@@ -1,0 +1,114 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 160342672,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6828204,
+                        47.3892679
+                    ],
+                    [
+                        0.6828603,
+                        47.3891889
+                    ],
+                    [
+                        0.683055,
+                        47.3888037
+                    ],
+                    [
+                        0.6833015,
+                        47.3883145
+                    ],
+                    [
+                        0.6833325,
+                        47.3882529
+                    ],
+                    [
+                        0.683364,
+                        47.3881951
+                    ],
+                    [
+                        0.6835023,
+                        47.3879416
+                    ],
+                    [
+                        0.6835552,
+                        47.3878522
+                    ],
+                    [
+                        0.683841,
+                        47.3873404
+                    ],
+                    [
+                        0.6838716,
+                        47.3872855
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Jehan Fouquet",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160342673,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6838716,
+                        47.3872855
+                    ],
+                    [
+                        0.6838796,
+                        47.3872241
+                    ],
+                    [
+                        0.6839878,
+                        47.3863903
+                    ],
+                    [
+                        0.6839933,
+                        47.3863478
+                    ],
+                    [
+                        0.6839976,
+                        47.386315
+                    ],
+                    [
+                        0.6840569,
+                        47.385862
+                    ],
+                    [
+                        0.6840635,
+                        47.3858117
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jehan Fouquet",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5120898,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8333971,
+                        45.7704286
+                    ],
+                    [
+                        4.8334547,
+                        45.7704346
+                    ],
+                    [
+                        4.8338626,
+                        45.7704758
+                    ],
+                    [
+                        4.8338799,
+                        45.7704775
+                    ],
+                    [
+                        4.834127,
+                        45.7705022
+                    ],
+                    [
+                        4.8341445,
+                        45.770504
+                    ],
+                    [
+                        4.8344663,
+                        45.7705362
+                    ],
+                    [
+                        4.8348523,
+                        45.7705749
+                    ],
+                    [
+                        4.8357818,
+                        45.7706646
+                    ],
+                    [
+                        4.8358397,
+                        45.7706721
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Burdeau",
+                "oneway": "yes",
+                "parking:lane:both": "parallel",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5120903,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8333971,
+                        45.7704286
+                    ],
+                    [
+                        4.8333397,
+                        45.7704226
+                    ],
+                    [
+                        4.832818,
+                        45.7703725
+                    ],
+                    [
+                        4.8325805,
+                        45.7703497
+                    ],
+                    [
+                        4.8321468,
+                        45.7703059
+                    ],
+                    [
+                        4.8316451,
+                        45.7702553
+                    ],
+                    [
+                        4.8315808,
+                        45.7702445
+                    ],
+                    [
+                        4.8315116,
+                        45.7702329
+                    ],
+                    [
+                        4.8309463,
+                        45.7701401
+                    ],
+                    [
+                        4.8307645,
+                        45.7701185
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Burdeau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5120904,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8293058,
+                        45.76986
+                    ],
+                    [
+                        4.8294064,
+                        45.7698927
+                    ],
+                    [
+                        4.8295069,
+                        45.7699253
+                    ],
+                    [
+                        4.8296759,
+                        45.769955
+                    ],
+                    [
+                        4.8299293,
+                        45.7699825
+                    ],
+                    [
+                        4.8302962,
+                        45.7700426
+                    ],
+                    [
+                        4.8307645,
+                        45.7701185
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Rue Burdeau",
+                "note": "panneau B13 3,5t",
+                "source:maxweight": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

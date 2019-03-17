@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 383949451,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8175632,
+                        45.7336845
+                    ],
+                    [
+                        4.8174548,
+                        45.7335584
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Mus\u00e9e des Confluences",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2542",
+                "route_ref": "C7B:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383949452,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8177539,
+                        45.7329673
+                    ],
+                    [
+                        4.8178497,
+                        45.7330792
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "covered": "no",
+                "fixme": "V\u00e9rifier l'accessibilit\u00e9, shelter et bench",
+                "highway": "bus_stop",
+                "name": "Mus\u00e9e des Confluences",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2543",
+                "route_ref": "C7B:R",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

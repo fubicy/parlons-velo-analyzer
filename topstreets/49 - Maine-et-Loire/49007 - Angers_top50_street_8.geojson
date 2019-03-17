@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 189108485,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5437256,
+                        47.4871727
+                    ],
+                    [
+                        -0.5436908,
+                        47.4872017
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "highway": "platform",
+                "name": "Carrefour Saint-Serge",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189108486,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5431302,
+                        47.4875642
+                    ],
+                    [
+                        -0.5430899,
+                        47.4875987
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "highway": "platform",
+                "name": "Carrefour Saint-Serge",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 49292596,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.225493,
+                        47.279627
+                    ],
+                    [
+                        -2.2256449,
+                        47.2795264
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Boulevard Jean Mermoz",
+                "old_ref": "D 971",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 381481076,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.2256449,
+                        47.2795264
+                    ],
+                    [
+                        -2.2264766,
+                        47.2789193
+                    ],
+                    [
+                        -2.2270446,
+                        47.2783355
+                    ],
+                    [
+                        -2.2272396,
+                        47.2779856
+                    ],
+                    [
+                        -2.2274326,
+                        47.2776391
+                    ],
+                    [
+                        -2.2274449,
+                        47.2775492
+                    ],
+                    [
+                        -2.2274831,
+                        47.2773333
+                    ],
+                    [
+                        -2.2274943,
+                        47.2772489
+                    ],
+                    [
+                        -2.2275142,
+                        47.2771786
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Boulevard Jean Mermoz",
+                "name:br": "Boulouard Jean Mermoz",
+                "old_ref": "D 971",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

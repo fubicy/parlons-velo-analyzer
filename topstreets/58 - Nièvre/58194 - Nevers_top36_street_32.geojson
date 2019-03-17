@@ -1,0 +1,132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31364515,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1521392,
+                        46.9833613
+                    ],
+                    [
+                        3.1517962,
+                        46.9833226
+                    ],
+                    [
+                        3.1515364,
+                        46.983354
+                    ],
+                    [
+                        3.151347,
+                        46.9833591
+                    ],
+                    [
+                        3.1510257,
+                        46.9833591
+                    ],
+                    [
+                        3.150831,
+                        46.9833636
+                    ],
+                    [
+                        3.1506409,
+                        46.98335
+                    ],
+                    [
+                        3.1504192,
+                        46.9833048
+                    ],
+                    [
+                        3.1501702,
+                        46.9832505
+                    ],
+                    [
+                        3.1499213,
+                        46.9831916
+                    ],
+                    [
+                        3.1496588,
+                        46.9831147
+                    ],
+                    [
+                        3.1494509,
+                        46.9830565
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Quai des Eduens",
+                "oneway": "no",
+                "ref": "D 504",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31364522,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1494509,
+                        46.9830565
+                    ],
+                    [
+                        3.1492236,
+                        46.9830403
+                    ],
+                    [
+                        3.1491473,
+                        46.9830661
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Quai des Eduens",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31364523,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1491048,
+                        46.9829617
+                    ],
+                    [
+                        3.149262,
+                        46.9829992
+                    ],
+                    [
+                        3.1494509,
+                        46.9830565
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Quai des Eduens",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

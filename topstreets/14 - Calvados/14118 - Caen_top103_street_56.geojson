@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4610496,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3599683,
+                        49.1782514
+                    ],
+                    [
+                        -0.3600099,
+                        49.1784315
+                    ],
+                    [
+                        -0.3600241,
+                        49.1784704
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Jacobins",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192939799,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3600241,
+                        49.1784704
+                    ],
+                    [
+                        -0.3603074,
+                        49.1791286
+                    ],
+                    [
+                        -0.3603502,
+                        49.1792075
+                    ],
+                    [
+                        -0.3603911,
+                        49.1792559
+                    ],
+                    [
+                        -0.360606,
+                        49.1794552
+                    ],
+                    [
+                        -0.3610203,
+                        49.1798607
+                    ],
+                    [
+                        -0.3610776,
+                        49.1799134
+                    ],
+                    [
+                        -0.3610944,
+                        49.1799288
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Rue des Jacobins",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376426225,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3610944,
+                        49.1799288
+                    ],
+                    [
+                        -0.3614181,
+                        49.1802266
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Rue des Jacobins",
+                "oneway": "yes",
+                "parking:lane:both": "parallel",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376426226,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3614181,
+                        49.1802266
+                    ],
+                    [
+                        -0.3615099,
+                        49.180311
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Rue des Jacobins",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

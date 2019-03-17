@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23308644,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8301103,
+                        45.7667692
+                    ],
+                    [
+                        4.830304,
+                        45.7666296
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Quai de la P\u00eacherie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58649868,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.830304,
+                        45.7666296
+                    ],
+                    [
+                        4.8303285,
+                        45.7666009
+                    ],
+                    [
+                        4.8308829,
+                        45.7659527
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Quai de la P\u00eacherie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58649876,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8308829,
+                        45.7659527
+                    ],
+                    [
+                        4.8312396,
+                        45.7655131
+                    ],
+                    [
+                        4.8314959,
+                        45.7651971
+                    ],
+                    [
+                        4.8316105,
+                        45.7650415
+                    ],
+                    [
+                        4.8316743,
+                        45.7649239
+                    ],
+                    [
+                        4.8317153,
+                        45.7648514
+                    ],
+                    [
+                        4.8317468,
+                        45.7648143
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Quai de la P\u00eacherie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30156599,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3953199,
+                        48.8166965
+                    ],
+                    [
+                        2.3954021,
+                        48.8166211
+                    ],
+                    [
+                        2.3963506,
+                        48.8157554
+                    ],
+                    [
+                        2.3966955,
+                        48.8154406
+                    ],
+                    [
+                        2.3972337,
+                        48.8149267
+                    ],
+                    [
+                        2.3972709,
+                        48.8148912
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jean-Jacques Rousseau",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30156600,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3953199,
+                        48.8166965
+                    ],
+                    [
+                        2.395289,
+                        48.8167247
+                    ],
+                    [
+                        2.3947705,
+                        48.8172163
+                    ],
+                    [
+                        2.3947188,
+                        48.8172618
+                    ],
+                    [
+                        2.3940981,
+                        48.8178615
+                    ],
+                    [
+                        2.394055,
+                        48.8179032
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Rue Jean-Jacques Rousseau",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137133096,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.394055,
+                        48.8179032
+                    ],
+                    [
+                        2.3938916,
+                        48.8180596
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Jean-Jacques Rousseau",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 371575080,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3938916,
+                        48.8180596
+                    ],
+                    [
+                        2.3938762,
+                        48.8180744
+                    ],
+                    [
+                        2.393338,
+                        48.8185892
+                    ],
+                    [
+                        2.3926257,
+                        48.8192708
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Jean-Jacques Rousseau",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 568693509,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3926257,
+                        48.8192708
+                    ],
+                    [
+                        2.3903882,
+                        48.8213423
+                    ],
+                    [
+                        2.3903144,
+                        48.8214106
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Jean-Jacques Rousseau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

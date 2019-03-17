@@ -1,0 +1,204 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 208898782,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7359347,
+                        45.2023647
+                    ],
+                    [
+                        5.7360719,
+                        45.2024152
+                    ],
+                    [
+                        5.7363428,
+                        45.2024764
+                    ],
+                    [
+                        5.7366175,
+                        45.2025256
+                    ],
+                    [
+                        5.7366524,
+                        45.2025318
+                    ],
+                    [
+                        5.7368186,
+                        45.2025616
+                    ],
+                    [
+                        5.7373385,
+                        45.2026203
+                    ],
+                    [
+                        5.7373701,
+                        45.2026219
+                    ],
+                    [
+                        5.7376818,
+                        45.2026384
+                    ],
+                    [
+                        5.7378929,
+                        45.2026252
+                    ],
+                    [
+                        5.7380072,
+                        45.202618
+                    ],
+                    [
+                        5.7380681,
+                        45.2026142
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxweight": "5",
+                "name": "Quai Eug\u00e8ne Charpenay",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 343405655,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7337595,
+                        45.2010459
+                    ],
+                    [
+                        5.7338199,
+                        45.2010293
+                    ],
+                    [
+                        5.7338559,
+                        45.2010238
+                    ],
+                    [
+                        5.7339634,
+                        45.2010634
+                    ],
+                    [
+                        5.7340989,
+                        45.201228
+                    ],
+                    [
+                        5.7344197,
+                        45.2014667
+                    ],
+                    [
+                        5.7347528,
+                        45.2016721
+                    ],
+                    [
+                        5.7348923,
+                        45.2017674
+                    ],
+                    [
+                        5.7353694,
+                        45.2020932
+                    ],
+                    [
+                        5.7355283,
+                        45.2021796
+                    ],
+                    [
+                        5.7357171,
+                        45.2022701
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxweight": "5",
+                "name": "Quai Eug\u00e8ne Charpenay",
+                "note": "Route ferm\u00e9e suite \u00e0 un affaissement",
+                "ref:FR:FANTOIR": "385160120N",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 394965848,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7357171,
+                        45.2022701
+                    ],
+                    [
+                        5.7357739,
+                        45.2022951
+                    ],
+                    [
+                        5.7358477,
+                        45.2023327
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxweight": "5",
+                "name": "Quai Eug\u00e8ne Charpenay",
+                "ref:FR:FANTOIR": "385160120N",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 394965849,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7358477,
+                        45.2023327
+                    ],
+                    [
+                        5.7359347,
+                        45.2023647
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxweight": "5",
+                "name": "Quai Eug\u00e8ne Charpenay",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

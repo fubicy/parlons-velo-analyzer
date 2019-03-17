@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4275145,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.832835,
+                        45.7671481
+                    ],
+                    [
+                        4.8328449,
+                        45.7670749
+                    ],
+                    [
+                        4.8328928,
+                        45.7667188
+                    ],
+                    [
+                        4.8329168,
+                        45.7665365
+                    ],
+                    [
+                        4.8329419,
+                        45.7663464
+                    ],
+                    [
+                        4.8329547,
+                        45.7662586
+                    ],
+                    [
+                        4.8329683,
+                        45.7661663
+                    ],
+                    [
+                        4.8329743,
+                        45.7661251
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Paul Chenavard",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111579614,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8330595,
+                        45.7655942
+                    ],
+                    [
+                        4.8330688,
+                        45.7653131
+                    ],
+                    [
+                        4.8331145,
+                        45.7649407
+                    ],
+                    [
+                        4.8331195,
+                        45.7648918
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Paul Chenavard",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133025974,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.832982,
+                        45.7660784
+                    ],
+                    [
+                        4.8329896,
+                        45.7660308
+                    ],
+                    [
+                        4.8330472,
+                        45.7656708
+                    ],
+                    [
+                        4.8330595,
+                        45.7655942
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Paul Chenavard",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 226201171,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8329743,
+                        45.7661251
+                    ],
+                    [
+                        4.832982,
+                        45.7660784
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Paul Chenavard",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

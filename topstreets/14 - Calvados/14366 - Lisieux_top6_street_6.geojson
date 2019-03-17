@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 130078485,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.2306359,
+                        49.1427607
+                    ],
+                    [
+                        0.2309589,
+                        49.1426027
+                    ],
+                    [
+                        0.2316088,
+                        49.1422548
+                    ],
+                    [
+                        0.2319697,
+                        49.1420762
+                    ],
+                    [
+                        0.2323748,
+                        49.1418572
+                    ],
+                    [
+                        0.2328344,
+                        49.1416152
+                    ],
+                    [
+                        0.2330597,
+                        49.1415169
+                    ],
+                    [
+                        0.2330938,
+                        49.1415013
+                    ],
+                    [
+                        0.2332204,
+                        49.1414434
+                    ],
+                    [
+                        0.2332948,
+                        49.1414093
+                    ],
+                    [
+                        0.2333818,
+                        49.1413695
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue Ste Th\u00e9r\u00e8se",
+                "old_ref": "N13",
+                "ref": "D267",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130078491,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.2306359,
+                        49.1427607
+                    ],
+                    [
+                        0.2303822,
+                        49.1428965
+                    ],
+                    [
+                        0.2292622,
+                        49.1434972
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Ste Th\u00e9r\u00e8se",
+                "oneway": "no",
+                "ref": "D267",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

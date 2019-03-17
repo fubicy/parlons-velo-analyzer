@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19173454,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0315272,
+                        47.2353021
+                    ],
+                    [
+                        6.0313935,
+                        47.2352554
+                    ],
+                    [
+                        6.0312719,
+                        47.2352215
+                    ],
+                    [
+                        6.0308364,
+                        47.235098
+                    ],
+                    [
+                        6.0305915,
+                        47.2350584
+                    ],
+                    [
+                        6.0301983,
+                        47.2350086
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "name": "Rue P\u00e9clet",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

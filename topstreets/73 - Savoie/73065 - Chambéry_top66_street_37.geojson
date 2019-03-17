@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25972294,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9340766,
+                        45.5660939
+                    ],
+                    [
+                        5.9340307,
+                        45.5660088
+                    ],
+                    [
+                        5.9339047,
+                        45.5658185
+                    ],
+                    [
+                        5.9338445,
+                        45.5657218
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Avenue Marius Berroir",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36924142,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9319966,
+                        45.5638481
+                    ],
+                    [
+                        5.9320817,
+                        45.5639318
+                    ],
+                    [
+                        5.9327958,
+                        45.5646396
+                    ],
+                    [
+                        5.9333931,
+                        45.5652198
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Avenue Marius Berroir",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 488766273,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9338445,
+                        45.5657218
+                    ],
+                    [
+                        5.9337181,
+                        45.5655403
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Avenue Marius Berroir",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 669566022,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.933586,
+                        45.5654078
+                    ],
+                    [
+                        5.9337181,
+                        45.5655403
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Avenue Marius Berroir",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 669566023,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9333931,
+                        45.5652198
+                    ],
+                    [
+                        5.9335671,
+                        45.5653889
+                    ],
+                    [
+                        5.933586,
+                        45.5654078
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Avenue Marius Berroir",
+                "source:maxspeed": "FR:zone30",
+                "traffic_calming": "hump",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

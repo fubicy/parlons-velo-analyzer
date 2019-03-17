@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 48608247,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.317476,
+                        45.68707
+                    ],
+                    [
+                        -0.3175512,
+                        45.6871427
+                    ],
+                    [
+                        -0.3176064,
+                        45.6872068
+                    ],
+                    [
+                        -0.3187848,
+                        45.6882463
+                    ],
+                    [
+                        -0.3188088,
+                        45.6882666
+                    ],
+                    [
+                        -0.318944,
+                        45.6883865
+                    ],
+                    [
+                        -0.3190933,
+                        45.6885137
+                    ],
+                    [
+                        -0.3192656,
+                        45.6886795
+                    ],
+                    [
+                        -0.3195867,
+                        45.688972
+                    ],
+                    [
+                        -0.3200724,
+                        45.6894057
+                    ],
+                    [
+                        -0.320468,
+                        45.6897411
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de Segonzac",
+                "ref": "D 24",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 237683827,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3213339,
+                        45.6905219
+                    ],
+                    [
+                        -0.3210133,
+                        45.6902328
+                    ],
+                    [
+                        -0.320468,
+                        45.6897411
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de Segonzac",
+                "oneway": "yes",
+                "ref": "D 24",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

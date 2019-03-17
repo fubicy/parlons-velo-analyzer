@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25891429,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1110314,
+                        45.8019698
+                    ],
+                    [
+                        3.1111092,
+                        45.8020965
+                    ],
+                    [
+                        3.1114622,
+                        45.8020769
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de l'Esp\u00e9rance",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42807698,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1114622,
+                        45.8020769
+                    ],
+                    [
+                        3.1120382,
+                        45.8020046
+                    ],
+                    [
+                        3.1131438,
+                        45.8018901
+                    ],
+                    [
+                        3.1132012,
+                        45.8018842
+                    ],
+                    [
+                        3.1132413,
+                        45.80188
+                    ],
+                    [
+                        3.1132896,
+                        45.8018752
+                    ],
+                    [
+                        3.1142288,
+                        45.8017804
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de l'Esp\u00e9rance",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

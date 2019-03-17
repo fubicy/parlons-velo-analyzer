@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 13466910,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3526101,
+                        48.8696795
+                    ],
+                    [
+                        2.3525452,
+                        48.8696942
+                    ],
+                    [
+                        2.352378,
+                        48.8697313
+                    ],
+                    [
+                        2.3522815,
+                        48.8697507
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Boulevard de Bonne Nouvelle",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29991514,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3525473,
+                        48.8695398
+                    ],
+                    [
+                        2.3524984,
+                        48.8695816
+                    ],
+                    [
+                        2.352472,
+                        48.869601
+                    ],
+                    [
+                        2.3523987,
+                        48.8696254
+                    ],
+                    [
+                        2.3519636,
+                        48.8697252
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Boulevard de Bonne Nouvelle",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31956307,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3522815,
+                        48.8697507
+                    ],
+                    [
+                        2.3513967,
+                        48.8699442
+                    ],
+                    [
+                        2.3509547,
+                        48.8700498
+                    ],
+                    [
+                        2.3507349,
+                        48.8700963
+                    ],
+                    [
+                        2.3505604,
+                        48.8701349
+                    ],
+                    [
+                        2.3500585,
+                        48.870242
+                    ],
+                    [
+                        2.3497538,
+                        48.8703074
+                    ],
+                    [
+                        2.3495659,
+                        48.8703465
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Bonne Nouvelle",
+                "oneway": "no",
+                "surface": "asphalt",
+                "wikidata": "Q2921972",
+                "wikipedia": "fr:Boulevard de Bonne-Nouvelle",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 538550997,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3495659,
+                        48.8703465
+                    ],
+                    [
+                        2.3490926,
+                        48.8704483
+                    ],
+                    [
+                        2.3488452,
+                        48.870501
+                    ],
+                    [
+                        2.3487081,
+                        48.8705302
+                    ],
+                    [
+                        2.3482793,
+                        48.8706023
+                    ],
+                    [
+                        2.3480388,
+                        48.8706492
+                    ],
+                    [
+                        2.3478915,
+                        48.8706755
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Bonne Nouvelle",
+                "oneway": "no",
+                "surface": "asphalt",
+                "wikidata": "Q2921972",
+                "wikipedia": "fr:Boulevard de Bonne-Nouvelle",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

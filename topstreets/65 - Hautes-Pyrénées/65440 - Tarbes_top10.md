@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 88 réponses dont 25 réponses avec une rue
 
 18 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Place de Verdun | 4 | 4% | <img src="../../img/bar_16.gif" />&nbsp;16%|
-| Rue André Fourcade | 3 | 3% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Route de Pau | 2 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Avenue Alsace-Lorraine | 2 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rue Massey | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue Georges Lassalle | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue Brauhauban | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue Ampère | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rond-Point de l'Hôpital | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Pont Alstom | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| **Total** | 17 | 19% | 68%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Place de Verdun | 4 | <img src="../../img/bar_23.gif" />&nbsp;23%|
+| Rue André Fourcade | 3 | <img src="../../img/bar_17.gif" />&nbsp;17%|
+| Route de Pau | 2 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Avenue Alsace-Lorraine | 2 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Rue Massey | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue Georges Lassalle | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue Brauhauban | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue Ampère | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rond-Point de l'Hôpital | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Pont Alstom | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| **Total** | 17 | 100%|

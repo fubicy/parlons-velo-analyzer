@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24584189,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3968533,
+                        43.634525
+                    ],
+                    [
+                        1.3969124,
+                        43.6345224
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Lavigne",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "traffic_calming": "table",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 284169027,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3976294,
+                        43.6344644
+                    ],
+                    [
+                        1.3983849,
+                        43.6343852
+                    ],
+                    [
+                        1.3986005,
+                        43.6343921
+                    ],
+                    [
+                        1.3986624,
+                        43.6344077
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Lavigne",
+                "oneway": "yes",
+                "parking:lane:right": "parallel",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

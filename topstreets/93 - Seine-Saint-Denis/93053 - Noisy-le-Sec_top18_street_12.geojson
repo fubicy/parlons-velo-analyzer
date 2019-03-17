@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 35284531,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4620729,
+                        48.8915257
+                    ],
+                    [
+                        2.4623036,
+                        48.8917867
+                    ],
+                    [
+                        2.4628722,
+                        48.8924498
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Fraternit\u00e9",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

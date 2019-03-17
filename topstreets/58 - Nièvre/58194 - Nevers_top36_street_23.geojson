@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 153785248,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1632902,
+                        46.9928914
+                    ],
+                    [
+                        3.1629359,
+                        46.9932177
+                    ],
+                    [
+                        3.162834,
+                        46.9933297
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Places",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

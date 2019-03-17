@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 183574912,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6813588,
+                        45.2172707
+                    ],
+                    [
+                        5.6812434,
+                        45.2173803
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Cap des H'",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183574918,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6813413,
+                        45.217094
+                    ],
+                    [
+                        5.6814339,
+                        45.2170062
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bin": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Cap des H'",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

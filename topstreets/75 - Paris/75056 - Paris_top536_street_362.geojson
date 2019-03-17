@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8412426,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3181597,
+                        48.8778715
+                    ],
+                    [
+                        2.3196583,
+                        48.8782169
+                    ],
+                    [
+                        2.3198588,
+                        48.878261
+                    ],
+                    [
+                        2.3221139,
+                        48.8787385
+                    ],
+                    [
+                        2.3222401,
+                        48.8787659
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Madrid",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3450855",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53157334,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3222585,
+                        48.8787317
+                    ],
+                    [
+                        2.3225031,
+                        48.8787772
+                    ],
+                    [
+                        2.3231668,
+                        48.8789086
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "motor_vehicle": "no",
+                "name": "Rue de Madrid",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 424708347,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3222401,
+                        48.8787659
+                    ],
+                    [
+                        2.3223076,
+                        48.8788125
+                    ],
+                    [
+                        2.3223489,
+                        48.8788236
+                    ],
+                    [
+                        2.3223744,
+                        48.8788297
+                    ],
+                    [
+                        2.3224801,
+                        48.8788521
+                    ],
+                    [
+                        2.3229021,
+                        48.8789411
+                    ],
+                    [
+                        2.322981,
+                        48.8789583
+                    ],
+                    [
+                        2.3231148,
+                        48.8789873
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "unclassified",
+                "motor_vehicle": "no",
+                "name": "Rue de Madrid",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

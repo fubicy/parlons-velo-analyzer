@@ -1,0 +1,222 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 20859602,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3530101,
+                        48.8602936
+                    ],
+                    [
+                        2.3527712,
+                        48.859871
+                    ],
+                    [
+                        2.3526356,
+                        48.8596223
+                    ],
+                    [
+                        2.3525978,
+                        48.8595577
+                    ],
+                    [
+                        2.3522604,
+                        48.8589391
+                    ],
+                    [
+                        2.3521319,
+                        48.8586859
+                    ],
+                    [
+                        2.3519829,
+                        48.8583996
+                    ],
+                    [
+                        2.3519526,
+                        48.858342
+                    ],
+                    [
+                        2.3519219,
+                        48.8582859
+                    ],
+                    [
+                        2.3515412,
+                        48.8575822
+                    ],
+                    [
+                        2.3515052,
+                        48.8575157
+                    ],
+                    [
+                        2.3514846,
+                        48.8574756
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Renard",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "wikidata": "Q3452560",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55697115,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3529254,
+                        48.8603285
+                    ],
+                    [
+                        2.3528164,
+                        48.8601253
+                    ],
+                    [
+                        2.3526581,
+                        48.859841
+                    ],
+                    [
+                        2.3525489,
+                        48.8596449
+                    ],
+                    [
+                        2.3524908,
+                        48.8595407
+                    ],
+                    [
+                        2.3520614,
+                        48.8587205
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "maxspeed": "50",
+                "motor_vehicle": "no",
+                "name": "Rue du Renard",
+                "oneway": "yes",
+                "psv": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83262061,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3514234,
+                        48.8575427
+                    ],
+                    [
+                        2.3513924,
+                        48.8575053
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "highway": "service",
+                "maxspeed": "50",
+                "name": "Rue du Renard",
+                "note": "[lapinos03] tron\u00e7on permettant au calcul d'itin\u00e9raire l'\u00e9change rue/voie de service au-dessus d'une rue \u00e0 sens unique.",
+                "oneway": "yes",
+                "psv": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 555199446,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3520614,
+                        48.8587205
+                    ],
+                    [
+                        2.3519013,
+                        48.858417
+                    ],
+                    [
+                        2.3518767,
+                        48.8583695
+                    ],
+                    [
+                        2.3518426,
+                        48.8583073
+                    ],
+                    [
+                        2.3514559,
+                        48.857602
+                    ],
+                    [
+                        2.3514234,
+                        48.8575427
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "highway": "service",
+                "maxspeed": "50",
+                "name": "Rue du Renard",
+                "oneway": "yes",
+                "psv": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 611974688,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3513924,
+                        48.8575053
+                    ],
+                    [
+                        2.3513614,
+                        48.8574656
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Rue du Renard",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

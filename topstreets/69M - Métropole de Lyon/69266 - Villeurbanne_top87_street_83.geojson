@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7654099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8761802,
+                        45.7557571
+                    ],
+                    [
+                        4.8760426,
+                        45.7557277
+                    ],
+                    [
+                        4.8758078,
+                        45.7556747
+                    ],
+                    [
+                        4.8755276,
+                        45.7556115
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue F\u00e9lix Faure",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7654100,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8755276,
+                        45.7556115
+                    ],
+                    [
+                        4.876029,
+                        45.7556542
+                    ],
+                    [
+                        4.8760584,
+                        45.7556598
+                    ],
+                    [
+                        4.8761905,
+                        45.7556851
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue F\u00e9lix Faure",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

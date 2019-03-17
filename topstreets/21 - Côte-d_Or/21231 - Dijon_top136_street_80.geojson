@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4868008,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0368983,
+                        47.3224643
+                    ],
+                    [
+                        5.0367756,
+                        47.3219863
+                    ],
+                    [
+                        5.0367443,
+                        47.3218648
+                    ],
+                    [
+                        5.0366124,
+                        47.3214245
+                    ],
+                    [
+                        5.0365464,
+                        47.3212257
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bus": "yes",
+                "emergency": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Chapeau Rouge",
+                "oneway": "yes",
+                "psv": "yes",
+                "surface": "paved",
+                "vehicle": "destination",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

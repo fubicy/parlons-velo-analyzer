@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23172772,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3351563,
+                        48.8226255
+                    ],
+                    [
+                        2.3355451,
+                        48.8232316
+                    ],
+                    [
+                        2.335725,
+                        48.8235172
+                    ],
+                    [
+                        2.3357477,
+                        48.8235525
+                    ],
+                    [
+                        2.3360335,
+                        48.8240002
+                    ],
+                    [
+                        2.336055,
+                        48.8240434
+                    ],
+                    [
+                        2.3360648,
+                        48.8240869
+                    ],
+                    [
+                        2.3360422,
+                        48.8242167
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Nansouty",
+                "source:maxspeed": "opendata.paris.fr",
+                "surface": "asphalt",
+                "wikidata": "Q3449274",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

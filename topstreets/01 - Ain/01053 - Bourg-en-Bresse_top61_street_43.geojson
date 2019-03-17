@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 108259629,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2272461,
+                        46.1983768
+                    ],
+                    [
+                        5.2269203,
+                        46.1989423
+                    ],
+                    [
+                        5.2269506,
+                        46.1990482
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Am\u00e9d\u00e9e Fornet",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163963573,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2272461,
+                        46.1983768
+                    ],
+                    [
+                        5.2275386,
+                        46.1984187
+                    ],
+                    [
+                        5.2287912,
+                        46.198673
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Am\u00e9d\u00e9e Fornet",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

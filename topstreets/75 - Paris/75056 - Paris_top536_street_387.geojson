@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4574493,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3497241,
+                        48.868581
+                    ],
+                    [
+                        2.3496974,
+                        48.8686172
+                    ],
+                    [
+                        2.349482,
+                        48.868909
+                    ],
+                    [
+                        2.3494563,
+                        48.8689439
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Saint-Philippe",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02010 - 031",
+                "surface": "asphalt",
+                "wikidata": "Q3449954",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

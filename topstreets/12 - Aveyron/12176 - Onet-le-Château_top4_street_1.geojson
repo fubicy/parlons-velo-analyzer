@@ -1,0 +1,1292 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7999584,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5922081,
+                        44.3739084
+                    ],
+                    [
+                        2.5921843,
+                        44.3740402
+                    ],
+                    [
+                        2.5922034,
+                        44.3742016
+                    ],
+                    [
+                        2.592262,
+                        44.3745606
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Aurillac;S\u00e9bazac;Bozouls;Espalion;Station de l'Aubrac",
+                "destination:colour": "green;white;white;white;white",
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25334138,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5921551,
+                        44.3743264
+                    ],
+                    [
+                        2.5919582,
+                        44.3740668
+                    ],
+                    [
+                        2.591811,
+                        44.3740155
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25334139,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.593452,
+                        44.3802432
+                    ],
+                    [
+                        2.5930902,
+                        44.3785196
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "80",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "source:maxspeed": "FR:rural",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25334140,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5964222,
+                        44.391024
+                    ],
+                    [
+                        2.5964603,
+                        44.3909783
+                    ],
+                    [
+                        2.596477,
+                        44.3909027
+                    ],
+                    [
+                        2.5964533,
+                        44.3907379
+                    ],
+                    [
+                        2.5964658,
+                        44.3906723
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "70",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25334141,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5964658,
+                        44.3906723
+                    ],
+                    [
+                        2.5964287,
+                        44.390358
+                    ],
+                    [
+                        2.5963896,
+                        44.3901828
+                    ]
+                ]
+            },
+            "properties": {
+                "divider": "solid_line",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "lit": "yes",
+                "maxspeed": "70",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25334145,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5935306,
+                        44.3813219
+                    ],
+                    [
+                        2.5935536,
+                        44.3811382
+                    ],
+                    [
+                        2.5935113,
+                        44.3807657
+                    ],
+                    [
+                        2.593452,
+                        44.3802432
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed:type": "FR:rural",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25334146,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5938853,
+                        44.3817893
+                    ],
+                    [
+                        2.5938649,
+                        44.3819287
+                    ],
+                    [
+                        2.5938804,
+                        44.3824041
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed:type": "FR:rural",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25334147,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.593452,
+                        44.3802432
+                    ],
+                    [
+                        2.5936652,
+                        44.3808132
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed:type": "FR:rural",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25334148,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5938804,
+                        44.3824041
+                    ],
+                    [
+                        2.5937532,
+                        44.3821194
+                    ],
+                    [
+                        2.5936309,
+                        44.3818057
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed:type": "FR:rural",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25339545,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5918808,
+                        44.3727647
+                    ],
+                    [
+                        2.5918624,
+                        44.3726533
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81758803,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5865366,
+                        44.3641571
+                    ],
+                    [
+                        2.5866633,
+                        44.363982
+                    ],
+                    [
+                        2.5867252,
+                        44.3638731
+                    ],
+                    [
+                        2.5867766,
+                        44.3637625
+                    ],
+                    [
+                        2.5868047,
+                        44.3636472
+                    ],
+                    [
+                        2.5868266,
+                        44.3634853
+                    ],
+                    [
+                        2.586824,
+                        44.3634073
+                    ],
+                    [
+                        2.5868078,
+                        44.3632313
+                    ],
+                    [
+                        2.5868093,
+                        44.3631223
+                    ],
+                    [
+                        2.5868311,
+                        44.3630725
+                    ],
+                    [
+                        2.5868903,
+                        44.3629825
+                    ],
+                    [
+                        2.5869417,
+                        44.3629042
+                    ],
+                    [
+                        2.5870243,
+                        44.362831
+                    ],
+                    [
+                        2.5871317,
+                        44.3627456
+                    ],
+                    [
+                        2.5873294,
+                        44.3626043
+                    ],
+                    [
+                        2.5874588,
+                        44.3625261
+                    ],
+                    [
+                        2.5875192,
+                        44.3624894
+                    ]
+                ]
+            },
+            "properties": {
+                "hgv": "destination",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Route d'Espalion",
+                "oneway": "no",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "width": "6",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129114146,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5966755,
+                        44.3924607
+                    ],
+                    [
+                        2.5965908,
+                        44.3919843
+                    ],
+                    [
+                        2.5965837,
+                        44.3919431
+                    ],
+                    [
+                        2.5965446,
+                        44.3916932
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "70",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source": "GPS",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129114147,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5967046,
+                        44.3914528
+                    ],
+                    [
+                        2.5966536,
+                        44.3915658
+                    ],
+                    [
+                        2.5966599,
+                        44.3919364
+                    ],
+                    [
+                        2.5966755,
+                        44.3924607
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "70",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source": "GPS",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158593702,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5906918,
+                        44.3700019
+                    ],
+                    [
+                        2.590589,
+                        44.3699243
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:colour:forward": "green;white;white",
+                "destination:forward": "Rodez Centre;La baleine;Le Studio",
+                "highway": "secondary",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158685556,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5892905,
+                        44.3687597
+                    ],
+                    [
+                        2.5896298,
+                        44.369045
+                    ]
+                ]
+            },
+            "properties": {
+                "hgv": "destination",
+                "highway": "secondary",
+                "maxweight": "7.5",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192437566,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5964658,
+                        44.3906723
+                    ],
+                    [
+                        2.5965274,
+                        44.3907461
+                    ],
+                    [
+                        2.5966527,
+                        44.3909497
+                    ],
+                    [
+                        2.5967026,
+                        44.3909951
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197484769,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.590589,
+                        44.3699243
+                    ],
+                    [
+                        2.5904652,
+                        44.3699002
+                    ],
+                    [
+                        2.5903181,
+                        44.3697881
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Rodez Centre;La baleine;Le Studio",
+                "destination:colour": "green;white;white",
+                "highway": "secondary",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197484775,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5906918,
+                        44.3700019
+                    ],
+                    [
+                        2.5908698,
+                        44.3700674
+                    ],
+                    [
+                        2.5911241,
+                        44.3703444
+                    ],
+                    [
+                        2.5912472,
+                        44.3705732
+                    ],
+                    [
+                        2.5913174,
+                        44.3707661
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Autres Directions;Sebazac;Espalion;Centre Commercial Saint-Marc",
+                "destination:colour": "green;white;white;white",
+                "highway": "secondary",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197512095,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5892905,
+                        44.3687597
+                    ],
+                    [
+                        2.5889713,
+                        44.3684784
+                    ],
+                    [
+                        2.5888121,
+                        44.3683371
+                    ],
+                    [
+                        2.5886533,
+                        44.368202
+                    ],
+                    [
+                        2.5884895,
+                        44.368064
+                    ],
+                    [
+                        2.5880068,
+                        44.3676572
+                    ]
+                ]
+            },
+            "properties": {
+                "hgv": "destination",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220132060,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5903181,
+                        44.3697881
+                    ],
+                    [
+                        2.5899344,
+                        44.3694594
+                    ],
+                    [
+                        2.5897474,
+                        44.3692572
+                    ],
+                    [
+                        2.5894328,
+                        44.3689522
+                    ],
+                    [
+                        2.5892905,
+                        44.3687597
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Rodez Centre;La baleine;Le Studio",
+                "destination:colour": "green;white;white",
+                "hgv": "destination",
+                "highway": "secondary",
+                "maxweight": "7.5",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014; survey2014",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220634570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5904644,
+                        44.3697521
+                    ],
+                    [
+                        2.5905493,
+                        44.369849
+                    ],
+                    [
+                        2.590589,
+                        44.3699243
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 228931642,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5930902,
+                        44.3785196
+                    ],
+                    [
+                        2.5930057,
+                        44.3781269
+                    ],
+                    [
+                        2.5928436,
+                        44.3773732
+                    ],
+                    [
+                        2.5927587,
+                        44.3769727
+                    ],
+                    [
+                        2.5926986,
+                        44.3766898
+                    ],
+                    [
+                        2.5925728,
+                        44.3760821
+                    ],
+                    [
+                        2.5924985,
+                        44.3757184
+                    ],
+                    [
+                        2.592262,
+                        44.3745606
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 237673791,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5915498,
+                        44.3712298
+                    ],
+                    [
+                        2.5914837,
+                        44.3710717
+                    ],
+                    [
+                        2.5913174,
+                        44.3707661
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:backward": "Autres Directions;Sebazac;Espalion;Centre Commercial Saint-Marc",
+                "destination:colour:backward": "green;white;white;white",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 237673792,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5896298,
+                        44.369045
+                    ],
+                    [
+                        2.5896942,
+                        44.3690997
+                    ],
+                    [
+                        2.5899778,
+                        44.3693307
+                    ],
+                    [
+                        2.5900796,
+                        44.3694136
+                    ],
+                    [
+                        2.5901274,
+                        44.3694525
+                    ],
+                    [
+                        2.5903326,
+                        44.3696269
+                    ],
+                    [
+                        2.5904644,
+                        44.3697521
+                    ]
+                ]
+            },
+            "properties": {
+                "hgv": "destination",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxweight": "7.5",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "turn:lanes": "left|through;slight_right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 310240934,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5965446,
+                        44.3916932
+                    ],
+                    [
+                        2.5965236,
+                        44.3914561
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source": "GPS;survey",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 310243564,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5963896,
+                        44.3901828
+                    ],
+                    [
+                        2.5962859,
+                        44.3895495
+                    ],
+                    [
+                        2.5961021,
+                        44.3891475
+                    ],
+                    [
+                        2.5959354,
+                        44.3888975
+                    ],
+                    [
+                        2.5957521,
+                        44.3886475
+                    ],
+                    [
+                        2.5951187,
+                        44.3878142
+                    ],
+                    [
+                        2.595051,
+                        44.3877149
+                    ],
+                    [
+                        2.5949443,
+                        44.3874222
+                    ]
+                ]
+            },
+            "properties": {
+                "divider": "solid_line",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed:backward": "90",
+                "maxspeed:forward": "80",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "source:maxspeed": "FR:rural",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 310252300,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5918181,
+                        44.3724558
+                    ],
+                    [
+                        2.5917135,
+                        44.3719578
+                    ],
+                    [
+                        2.5915498,
+                        44.3712298
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:backward": "Autres Directions;Sebazac;Espalion;Centre Commercial Saint-Marc",
+                "destination:colour:backward": "green;white;white;white",
+                "highway": "secondary",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 310252301,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5918181,
+                        44.3724558
+                    ],
+                    [
+                        2.5918543,
+                        44.3724846
+                    ],
+                    [
+                        2.5918812,
+                        44.3726207
+                    ],
+                    [
+                        2.5918624,
+                        44.3726533
+                    ],
+                    [
+                        2.5918235,
+                        44.3726217
+                    ],
+                    [
+                        2.5917953,
+                        44.3724865
+                    ],
+                    [
+                        2.5918181,
+                        44.3724558
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source": "survey 2014",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 415461511,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5936652,
+                        44.3808132
+                    ],
+                    [
+                        2.5937777,
+                        44.381114
+                    ],
+                    [
+                        2.5938687,
+                        44.3813017
+                    ]
+                ]
+            },
+            "properties": {
+                "fixme": "il faudrait voir d'ou commence la double voie mais sur bing pas encore visible en 2016",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed:type": "FR:rural",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 459832526,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.592262,
+                        44.3745606
+                    ],
+                    [
+                        2.5921551,
+                        44.3743264
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Route d'Espalion",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 530111541,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5949443,
+                        44.3874222
+                    ],
+                    [
+                        2.5948612,
+                        44.3871239
+                    ],
+                    [
+                        2.5947562,
+                        44.3867174
+                    ],
+                    [
+                        2.5946944,
+                        44.3864231
+                    ],
+                    [
+                        2.5938804,
+                        44.3824041
+                    ]
+                ]
+            },
+            "properties": {
+                "divider": "solid_line",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed:backward": "90",
+                "maxspeed:forward": "80",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "source:maxspeed": "FR:rural",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 614045518,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5880068,
+                        44.3676572
+                    ],
+                    [
+                        2.5878138,
+                        44.3674921
+                    ]
+                ]
+            },
+            "properties": {
+                "fixme": "ameliorer position tourne gauche quand dispo sur image aerienne",
+                "hgv": "destination",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "turn:lanes:backward": "left|through",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 614045519,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5878138,
+                        44.3674921
+                    ],
+                    [
+                        2.5874921,
+                        44.3672142
+                    ],
+                    [
+                        2.5869589,
+                        44.3667406
+                    ],
+                    [
+                        2.5867593,
+                        44.3665708
+                    ],
+                    [
+                        2.58671,
+                        44.3665218
+                    ],
+                    [
+                        2.5866174,
+                        44.3664316
+                    ],
+                    [
+                        2.5865657,
+                        44.3663813
+                    ],
+                    [
+                        2.5863719,
+                        44.3662308
+                    ],
+                    [
+                        2.5861552,
+                        44.3660387
+                    ],
+                    [
+                        2.5859787,
+                        44.365835
+                    ],
+                    [
+                        2.5859285,
+                        44.3657265
+                    ],
+                    [
+                        2.585859,
+                        44.3655763
+                    ],
+                    [
+                        2.5858924,
+                        44.365346
+                    ],
+                    [
+                        2.5859082,
+                        44.3653096
+                    ],
+                    [
+                        2.5859977,
+                        44.3651037
+                    ],
+                    [
+                        2.5863446,
+                        44.3644959
+                    ],
+                    [
+                        2.5864406,
+                        44.3643265
+                    ],
+                    [
+                        2.5865366,
+                        44.3641571
+                    ]
+                ]
+            },
+            "properties": {
+                "hgv": "destination",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Route d'Espalion",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

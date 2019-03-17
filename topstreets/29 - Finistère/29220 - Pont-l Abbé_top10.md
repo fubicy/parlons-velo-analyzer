@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 43 réponses dont 31 réponses avec une rue
 
 16 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue du Lycée | 5 | 11% | <img src="../../img/bar_16.gif" />&nbsp;16%|
-| Rue Victor Hugo | 5 | 11% | <img src="../../img/bar_16.gif" />&nbsp;16%|
-| Rue du Général de Gaulle | 3 | 6% | <img src="../../img/bar_9.gif" />&nbsp;9%|
-| Rue du Château | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Rue Louis Lagadic | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Route de Quimper | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Route de Plobannalec | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Place de Pont-Guern | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Rue de Kerembleis | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Raymonde Folgoas Guillou | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| **Total** | 25 | 58% | 80%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue du Lycée | 5 | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| Rue Victor Hugo | 5 | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| Rue du Général de Gaulle | 3 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Rue du Château | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Rue Louis Lagadic | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Route de Quimper | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Route de Plobannalec | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Place de Pont-Guern | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Rue de Kerembleis | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue Raymonde Folgoas Guillou | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| **Total** | 25 | 100%|

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 616054672,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1622527,
+                        49.1107861
+                    ],
+                    [
+                        6.1627926,
+                        49.1105117
+                    ],
+                    [
+                        6.1634393,
+                        49.1101829
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "lanes",
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Pont Saint-Symphorien",
+                "ref": "D 157a",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

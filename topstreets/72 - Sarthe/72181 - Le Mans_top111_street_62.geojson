@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 118337199,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.2023034,
+                        48.0062719
+                    ],
+                    [
+                        0.2023741,
+                        48.0063308
+                    ],
+                    [
+                        0.203311,
+                        48.0071118
+                    ],
+                    [
+                        0.2039537,
+                        48.0076216
+                    ],
+                    [
+                        0.2039757,
+                        48.0076471
+                    ],
+                    [
+                        0.2040247,
+                        48.0077662
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue des Ar\u00e8nes",
+                "source": "Direction g\u00e9n\u00e9rale des imp\u00f4ts \u2013 Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516966896,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.2017304,
+                        48.0057822
+                    ],
+                    [
+                        0.201777,
+                        48.0058221
+                    ],
+                    [
+                        0.2023034,
+                        48.0062719
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite_lane",
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue des Ar\u00e8nes",
+                "oneway": "yes",
+                "source": "Direction g\u00e9n\u00e9rale des imp\u00f4ts \u2013 Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

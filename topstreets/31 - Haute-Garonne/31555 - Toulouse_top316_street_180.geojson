@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22293453,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.456941,
+                        43.568522
+                    ],
+                    [
+                        1.4570295,
+                        43.5685841
+                    ],
+                    [
+                        1.457123,
+                        43.5686498
+                    ],
+                    [
+                        1.4573373,
+                        43.5688003
+                    ],
+                    [
+                        1.4587449,
+                        43.569885
+                    ],
+                    [
+                        1.4587832,
+                        43.569941
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Roseaux",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60091326,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4605488,
+                        43.571339
+                    ],
+                    [
+                        1.4606196,
+                        43.5714065
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "layer": "0",
+                "name": "Rue des Roseaux",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60091355,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4588923,
+                        43.5700203
+                    ],
+                    [
+                        1.4589702,
+                        43.5700549
+                    ],
+                    [
+                        1.4598412,
+                        43.5707492
+                    ],
+                    [
+                        1.4599974,
+                        43.5708712
+                    ],
+                    [
+                        1.4600558,
+                        43.5709213
+                    ],
+                    [
+                        1.4604043,
+                        43.5712205
+                    ],
+                    [
+                        1.4604808,
+                        43.5712833
+                    ],
+                    [
+                        1.4605488,
+                        43.571339
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Roseaux",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

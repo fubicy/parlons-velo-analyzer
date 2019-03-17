@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 191625963,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7576379,
+                        45.2122195
+                    ],
+                    [
+                        5.7574582,
+                        45.2121741
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Montfleury",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 191625968,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7562834,
+                        45.2118075
+                    ],
+                    [
+                        5.7564497,
+                        45.2118699
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bin": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Montfleury",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

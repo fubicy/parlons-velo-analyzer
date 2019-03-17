@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5103403,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3228398,
+                        48.870699
+                    ],
+                    [
+                        2.3227286,
+                        48.8704826
+                    ],
+                    [
+                        2.3226987,
+                        48.8704215
+                    ],
+                    [
+                        2.3223885,
+                        48.8698119
+                    ],
+                    [
+                        2.3223839,
+                        48.8698032
+                    ],
+                    [
+                        2.3221725,
+                        48.8693982
+                    ],
+                    [
+                        2.3218883,
+                        48.8688561
+                    ],
+                    [
+                        2.3218477,
+                        48.8687911
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Boissy d'Anglas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3447184",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51547619,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3218477,
+                        48.8687911
+                    ],
+                    [
+                        2.3218027,
+                        48.8687152
+                    ],
+                    [
+                        2.3208417,
+                        48.8673432
+                    ],
+                    [
+                        2.3207524,
+                        48.8672249
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "private",
+                "bicycle": "private",
+                "foot": "yes",
+                "highway": "residential",
+                "name": "Rue Boissy d'Anglas",
+                "oneway": "yes",
+                "vehicle": "private",
+                "wikidata": "Q3447184",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 333779960,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3207524,
+                        48.8672249
+                    ],
+                    [
+                        2.3206535,
+                        48.8670939
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Boissy d'Anglas",
+                "oneway": "yes",
+                "vehicle": "private",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

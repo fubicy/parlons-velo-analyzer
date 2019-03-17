@@ -1,0 +1,177 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23175119,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3598462,
+                        48.8686186
+                    ],
+                    [
+                        2.35987,
+                        48.8686522
+                    ],
+                    [
+                        2.3606837,
+                        48.869804
+                    ],
+                    [
+                        2.3607266,
+                        48.8698647
+                    ],
+                    [
+                        2.3607601,
+                        48.8699108
+                    ],
+                    [
+                        2.361144,
+                        48.870438
+                    ],
+                    [
+                        2.3612095,
+                        48.8705348
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue de Lancry",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24037053,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3612095,
+                        48.8705348
+                    ],
+                    [
+                        2.3612716,
+                        48.8706364
+                    ],
+                    [
+                        2.3613813,
+                        48.870791
+                    ],
+                    [
+                        2.3614229,
+                        48.8708496
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lancry",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 310361821,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3620788,
+                        48.8714858
+                    ],
+                    [
+                        2.362601,
+                        48.8719623
+                    ],
+                    [
+                        2.3632169,
+                        48.8725047
+                    ],
+                    [
+                        2.3632709,
+                        48.8725522
+                    ],
+                    [
+                        2.363405,
+                        48.8726588
+                    ],
+                    [
+                        2.3636551,
+                        48.8728483
+                    ],
+                    [
+                        2.3637458,
+                        48.8729141
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)",
+                "name": "Rue de Lancry",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 548362310,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3614229,
+                        48.8708496
+                    ],
+                    [
+                        2.3614604,
+                        48.8708957
+                    ],
+                    [
+                        2.3620315,
+                        48.8714407
+                    ],
+                    [
+                        2.3620788,
+                        48.8714858
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lancry",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

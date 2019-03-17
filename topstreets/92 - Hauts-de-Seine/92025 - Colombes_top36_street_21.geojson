@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 67421723,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.256331,
+                        48.925824
+                    ],
+                    [
+                        2.2566827,
+                        48.9258361
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Besson",
+                "source": "Microsoft Bing orbital imagery 2013",
+                "source:oneway": "Plan de d\u00e9placement de Colombes - http://www.colombes.fr/documents/Documents/Colombes_Developpement/Developpement_urbain/Amenagements_urbains/Rue_Saint-Denis/Plan_de_deplacements_de_Colombes.pdf",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 330924610,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2566827,
+                        48.9258361
+                    ],
+                    [
+                        2.2581818,
+                        48.9257141
+                    ],
+                    [
+                        2.258389,
+                        48.9257018
+                    ],
+                    [
+                        2.2584225,
+                        48.9256876
+                    ],
+                    [
+                        2.2584577,
+                        48.9256771
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Besson",
+                "oneway": "yes",
+                "source": "Microsoft Bing orbital imagery 2013",
+                "source:oneway": "Plan de d\u00e9placement de Colombes - http://www.colombes.fr/documents/Documents/Colombes_Developpement/Developpement_urbain/Amenagements_urbains/Rue_Saint-Denis/Plan_de_deplacements_de_Colombes.pdf",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

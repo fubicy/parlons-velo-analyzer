@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23361534,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.037193,
+                        47.3211744
+                    ],
+                    [
+                        5.0372282,
+                        47.3211931
+                    ],
+                    [
+                        5.0374998,
+                        47.3215708
+                    ],
+                    [
+                        5.0375267,
+                        47.3216094
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "emergency": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Bossuet",
+                "psv": "yes",
+                "surface": "asphalt",
+                "vehicle": "destination",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80839448,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0375267,
+                        47.3216094
+                    ],
+                    [
+                        5.0375545,
+                        47.3216379
+                    ],
+                    [
+                        5.0375889,
+                        47.3216808
+                    ],
+                    [
+                        5.0376844,
+                        47.3217996
+                    ],
+                    [
+                        5.0378852,
+                        47.3220667
+                    ],
+                    [
+                        5.0379317,
+                        47.322109
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "cycleway": "opposite",
+                "emergency": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "maxspeed": "30",
+                "motor_vehicle": "designated",
+                "name": "Rue Bossuet",
+                "oneway": "yes",
+                "psv": "yes",
+                "surface": "paved",
+                "vehicle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

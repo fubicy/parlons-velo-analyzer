@@ -1,0 +1,166 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 48629968,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1683977,
+                        48.6922123
+                    ],
+                    [
+                        6.1682513,
+                        48.6921959
+                    ],
+                    [
+                        6.1682228,
+                        48.6921935
+                    ],
+                    [
+                        6.1681205,
+                        48.6921851
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155160927,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.167951,
+                        48.6923597
+                    ],
+                    [
+                        6.1681205,
+                        48.6921851
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "destination": "Laxou;Quartier Gare;Quartier Charles \u2162",
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 418641215,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1681205,
+                        48.6921851
+                    ],
+                    [
+                        6.168209,
+                        48.6921021
+                    ],
+                    [
+                        6.1683282,
+                        48.6919002
+                    ],
+                    [
+                        6.1686819,
+                        48.6912603
+                    ],
+                    [
+                        6.169014,
+                        48.6906609
+                    ],
+                    [
+                        6.1690372,
+                        48.6906191
+                    ],
+                    [
+                        6.1690741,
+                        48.6905522
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "source": "survey",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605504173,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1690741,
+                        48.6905522
+                    ],
+                    [
+                        6.1690991,
+                        48.6905084
+                    ],
+                    [
+                        6.1696682,
+                        48.6895106
+                    ],
+                    [
+                        6.1696919,
+                        48.6894683
+                    ],
+                    [
+                        6.1697332,
+                        48.6893981
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "source": "survey",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

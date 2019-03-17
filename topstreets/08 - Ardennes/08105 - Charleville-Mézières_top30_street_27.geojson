@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26340454,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7198895,
+                        49.754926
+                    ],
+                    [
+                        4.7199323,
+                        49.7553202
+                    ],
+                    [
+                        4.7199637,
+                        49.7556092
+                    ],
+                    [
+                        4.7200329,
+                        49.7562464
+                    ],
+                    [
+                        4.7201326,
+                        49.7571636
+                    ],
+                    [
+                        4.7201874,
+                        49.7576692
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "track",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard de B\u00e9thune",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 448857501,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7198153,
+                        49.7542431
+                    ],
+                    [
+                        4.7198742,
+                        49.7547856
+                    ],
+                    [
+                        4.7198834,
+                        49.75487
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Boulevard de B\u00e9thune",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 565054420,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7198834,
+                        49.75487
+                    ],
+                    [
+                        4.7198895,
+                        49.754926
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Boulevard de B\u00e9thune",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 11771788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0501646,
+                        48.7875371
+                    ],
+                    [
+                        2.0500502,
+                        48.7876306
+                    ],
+                    [
+                        2.0499976,
+                        48.7876735
+                    ],
+                    [
+                        2.048989,
+                        48.7885666
+                    ],
+                    [
+                        2.0488436,
+                        48.7887215
+                    ],
+                    [
+                        2.0487316,
+                        48.7888137
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue des Fr\u00e8res Lumi\u00e8re",
+                "oneway": "yes",
+                "ref": "D 127",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31171247,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0487316,
+                        48.7888137
+                    ],
+                    [
+                        2.0481637,
+                        48.7893178
+                    ],
+                    [
+                        2.0479016,
+                        48.7895439
+                    ],
+                    [
+                        2.0475444,
+                        48.7898383
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "date": "existe avant 1933 puis ouvert en double en 11 1983",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue des Fr\u00e8res Lumi\u00e8re",
+                "oneway": "yes",
+                "ref": "D 127",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5985078,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7924716,
+                        45.7734854
+                    ],
+                    [
+                        4.7926468,
+                        45.7735148
+                    ],
+                    [
+                        4.7928118,
+                        45.7735424
+                    ],
+                    [
+                        4.7930122,
+                        45.7735547
+                    ],
+                    [
+                        4.7940412,
+                        45.7735573
+                    ],
+                    [
+                        4.7942568,
+                        45.773573
+                    ],
+                    [
+                        4.7950427,
+                        45.7735917
+                    ],
+                    [
+                        4.7951259,
+                        45.7735936
+                    ],
+                    [
+                        4.7952259,
+                        45.773596
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Bourbonnais",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

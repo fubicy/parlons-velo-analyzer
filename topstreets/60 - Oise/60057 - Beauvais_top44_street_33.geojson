@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27860497,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0812066,
+                        49.4268185
+                    ],
+                    [
+                        2.0811647,
+                        49.426672
+                    ],
+                    [
+                        2.0811486,
+                        49.4264767
+                    ],
+                    [
+                        2.0811647,
+                        49.4262952
+                    ],
+                    [
+                        2.0812036,
+                        49.4261588
+                    ],
+                    [
+                        2.0813042,
+                        49.4259428
+                    ],
+                    [
+                        2.0814061,
+                        49.4257998
+                    ],
+                    [
+                        2.0815402,
+                        49.4256428
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Paris",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 553351577,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0813042,
+                        49.4259428
+                    ],
+                    [
+                        2.0812843,
+                        49.4255703
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "footway",
+                "layer": "1",
+                "name": "Pont de Paris",
+                "surface": "wood",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

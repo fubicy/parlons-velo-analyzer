@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 441052535,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8386308,
+                        45.8757479
+                    ],
+                    [
+                        4.8386664,
+                        45.8756344
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Neuville",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "11226",
+                "route_ref": "96A:A,97A:A",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "no",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 441052536,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8385423,
+                        45.8760855
+                    ],
+                    [
+                        4.8386092,
+                        45.8758117
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Neuville",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "10966",
+                "route_ref": "84A:R,R2A:R",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "no",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 441052537,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8385269,
+                        45.8761449
+                    ],
+                    [
+                        4.8385206,
+                        45.8764184
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Neuville",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "3364",
+                "route_ref": "40A:A,40A:R,70A:A,S14A:A",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "no",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 441052538,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8383947,
+                        45.8759989
+                    ],
+                    [
+                        4.8384673,
+                        45.8756937
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Neuville",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2118;37374",
+                "route_ref": "84A:A,84A:R,92A:R,96A:A,96A:R,97A:R,R2A:A,S14A:A;40A:R,70A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "no",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1288 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039615,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3787955,
+                        48.828501
+                    ],
+                    [
+                        2.3787239,
+                        48.8285766
+                    ],
+                    [
+                        2.3786827,
+                        48.8286199
+                    ],
+                    [
+                        2.378502,
+                        48.828814
+                    ],
+                    [
+                        2.378425,
+                        48.8288943
+                    ],
+                    [
+                        2.3782453,
+                        48.829076
+                    ],
+                    [
+                        2.3781548,
+                        48.8291755
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4039728,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3731375,
+                        48.8344579
+                    ],
+                    [
+                        2.373038,
+                        48.8344034
+                    ],
+                    [
+                        2.3729368,
+                        48.8343479
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "unclassified",
+                "name": "Avenue de France",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4039908,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3796776,
+                        48.8275831
+                    ],
+                    [
+                        2.3796528,
+                        48.8276081
+                    ],
+                    [
+                        2.3793924,
+                        48.8278843
+                    ],
+                    [
+                        2.3792978,
+                        48.827984
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4572215,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3729368,
+                        48.8343479
+                    ],
+                    [
+                        2.3729997,
+                        48.8342823
+                    ],
+                    [
+                        2.3735346,
+                        48.8337246
+                    ],
+                    [
+                        2.3739968,
+                        48.8332426
+                    ],
+                    [
+                        2.3744489,
+                        48.8327433
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23920013,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3779076,
+                        48.8290817
+                    ],
+                    [
+                        2.3780035,
+                        48.8289796
+                    ],
+                    [
+                        2.3781737,
+                        48.8288002
+                    ],
+                    [
+                        2.3784767,
+                        48.8284778
+                    ],
+                    [
+                        2.3784776,
+                        48.8284768
+                    ],
+                    [
+                        2.3785514,
+                        48.8283985
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25761203,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3744489,
+                        48.8327433
+                    ],
+                    [
+                        2.3745689,
+                        48.8327831
+                    ],
+                    [
+                        2.3746964,
+                        48.8328314
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "name": "Avenue de France",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27585929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3731375,
+                        48.8344579
+                    ],
+                    [
+                        2.3730794,
+                        48.8345253
+                    ],
+                    [
+                        2.3727136,
+                        48.8349152
+                    ],
+                    [
+                        2.3726238,
+                        48.8350153
+                    ],
+                    [
+                        2.372554,
+                        48.8350871
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54148235,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3819521,
+                        48.8257153
+                    ],
+                    [
+                        2.3818892,
+                        48.8257963
+                    ],
+                    [
+                        2.3818479,
+                        48.8258178
+                    ],
+                    [
+                        2.3817648,
+                        48.8258611
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77652434,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3744489,
+                        48.8327433
+                    ],
+                    [
+                        2.3745607,
+                        48.8326251
+                    ],
+                    [
+                        2.3746639,
+                        48.8325169
+                    ],
+                    [
+                        2.3750774,
+                        48.8320759
+                    ],
+                    [
+                        2.3751328,
+                        48.8320179
+                    ],
+                    [
+                        2.375495,
+                        48.8316324
+                    ],
+                    [
+                        2.3756656,
+                        48.8314508
+                    ],
+                    [
+                        2.3757348,
+                        48.8313818
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "service",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77652437,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3747816,
+                        48.8327329
+                    ],
+                    [
+                        2.3746964,
+                        48.8328314
+                    ],
+                    [
+                        2.3742063,
+                        48.8333295
+                    ],
+                    [
+                        2.3737486,
+                        48.8338127
+                    ],
+                    [
+                        2.3732974,
+                        48.834288
+                    ],
+                    [
+                        2.3732186,
+                        48.8343723
+                    ],
+                    [
+                        2.3731375,
+                        48.8344579
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue de France",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77666665,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3765852,
+                        48.830483
+                    ],
+                    [
+                        2.3766957,
+                        48.8303661
+                    ],
+                    [
+                        2.376953,
+                        48.830093
+                    ],
+                    [
+                        2.3771123,
+                        48.8299243
+                    ],
+                    [
+                        2.3771791,
+                        48.8298535
+                    ],
+                    [
+                        2.3777518,
+                        48.8292451
+                    ],
+                    [
+                        2.3778336,
+                        48.8291598
+                    ],
+                    [
+                        2.3779076,
+                        48.8290817
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77666668,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3767523,
+                        48.8306416
+                    ],
+                    [
+                        2.3766796,
+                        48.8307147
+                    ],
+                    [
+                        2.3762709,
+                        48.8311468
+                    ],
+                    [
+                        2.3760652,
+                        48.8313648
+                    ],
+                    [
+                        2.3759776,
+                        48.8314623
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "separate",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85145847,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3781548,
+                        48.8291755
+                    ],
+                    [
+                        2.3780747,
+                        48.8292533
+                    ],
+                    [
+                        2.377673,
+                        48.8296775
+                    ],
+                    [
+                        2.3774522,
+                        48.8299111
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132318108,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3773512,
+                        48.8300214
+                    ],
+                    [
+                        2.3771078,
+                        48.8302764
+                    ],
+                    [
+                        2.3769153,
+                        48.8304787
+                    ],
+                    [
+                        2.3768538,
+                        48.8305434
+                    ],
+                    [
+                        2.3767523,
+                        48.8306416
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161704790,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3785514,
+                        48.8283985
+                    ],
+                    [
+                        2.3786363,
+                        48.8283091
+                    ],
+                    [
+                        2.3789784,
+                        48.827949
+                    ],
+                    [
+                        2.3790432,
+                        48.8278807
+                    ],
+                    [
+                        2.3791408,
+                        48.8277786
+                    ],
+                    [
+                        2.3797452,
+                        48.8271814
+                    ],
+                    [
+                        2.3798337,
+                        48.8270915
+                    ]
+                ]
+            },
+            "properties": {
+                "check_date": "2019-01-08",
+                "construction": "tertiary",
+                "highway": "construction",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223679294,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3798337,
+                        48.8270915
+                    ],
+                    [
+                        2.3799166,
+                        48.8270019
+                    ],
+                    [
+                        2.3803814,
+                        48.8265117
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 241210782,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3757348,
+                        48.8313818
+                    ],
+                    [
+                        2.3758255,
+                        48.8312816
+                    ],
+                    [
+                        2.376486,
+                        48.8305854
+                    ],
+                    [
+                        2.3765852,
+                        48.830483
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 241210783,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3759776,
+                        48.8314623
+                    ],
+                    [
+                        2.3759122,
+                        48.831542
+                    ],
+                    [
+                        2.375906,
+                        48.8315496
+                    ],
+                    [
+                        2.3756097,
+                        48.8318678
+                    ],
+                    [
+                        2.3753784,
+                        48.8321145
+                    ],
+                    [
+                        2.3749077,
+                        48.8326058
+                    ],
+                    [
+                        2.3747816,
+                        48.8327329
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue de France",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 249594227,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3807568,
+                        48.8262028
+                    ],
+                    [
+                        2.3808249,
+                        48.8262201
+                    ],
+                    [
+                        2.3808542,
+                        48.8262419
+                    ],
+                    [
+                        2.3808661,
+                        48.82626
+                    ],
+                    [
+                        2.3808723,
+                        48.8262819
+                    ],
+                    [
+                        2.3808669,
+                        48.8263086
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "source": "local Knowledge",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264720377,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3808669,
+                        48.8263086
+                    ],
+                    [
+                        2.3807991,
+                        48.8263826
+                    ],
+                    [
+                        2.380137,
+                        48.8270885
+                    ],
+                    [
+                        2.3800475,
+                        48.8271874
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264720378,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3807568,
+                        48.8262028
+                    ],
+                    [
+                        2.3810219,
+                        48.8261383
+                    ],
+                    [
+                        2.3811147,
+                        48.826101
+                    ],
+                    [
+                        2.3815417,
+                        48.8258799
+                    ],
+                    [
+                        2.3815905,
+                        48.8258546
+                    ],
+                    [
+                        2.3816524,
+                        48.8258202
+                    ],
+                    [
+                        2.3817298,
+                        48.8257772
+                    ],
+                    [
+                        2.3817688,
+                        48.8257555
+                    ],
+                    [
+                        2.3819521,
+                        48.8257153
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264720379,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3803814,
+                        48.8265117
+                    ],
+                    [
+                        2.3805902,
+                        48.8262951
+                    ],
+                    [
+                        2.3806519,
+                        48.8262328
+                    ],
+                    [
+                        2.3807014,
+                        48.8262086
+                    ],
+                    [
+                        2.3807568,
+                        48.8262028
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 356824576,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3766452,
+                        48.8305881
+                    ],
+                    [
+                        2.3766923,
+                        48.8305471
+                    ],
+                    [
+                        2.3767413,
+                        48.830544
+                    ],
+                    [
+                        2.376781,
+                        48.8305035
+                    ],
+                    [
+                        2.3768097,
+                        48.830465
+                    ],
+                    [
+                        2.3768446,
+                        48.8304005
+                    ],
+                    [
+                        2.3772057,
+                        48.8300189
+                    ],
+                    [
+                        2.3772506,
+                        48.8299727
+                    ],
+                    [
+                        2.3772858,
+                        48.8299334
+                    ],
+                    [
+                        2.3780262,
+                        48.8291529
+                    ],
+                    [
+                        2.3780415,
+                        48.8291309
+                    ],
+                    [
+                        2.3780874,
+                        48.8290897
+                    ],
+                    [
+                        2.3786622,
+                        48.8284817
+                    ],
+                    [
+                        2.3786705,
+                        48.828449
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "sidewalk",
+                "foot": "designated",
+                "highway": "cycleway",
+                "motor_vehicle": "no",
+                "name": "Avenue de France",
+                "segregated": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383059313,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3786705,
+                        48.828449
+                    ],
+                    [
+                        2.3791494,
+                        48.8279515
+                    ],
+                    [
+                        2.3791723,
+                        48.8279325
+                    ],
+                    [
+                        2.379947,
+                        48.8271416
+                    ],
+                    [
+                        2.379991,
+                        48.827093
+                    ],
+                    [
+                        2.3800363,
+                        48.827047
+                    ],
+                    [
+                        2.3807043,
+                        48.8263441
+                    ],
+                    [
+                        2.3807568,
+                        48.8262028
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "sidewalk",
+                "foot": "designated",
+                "highway": "cycleway",
+                "motor_vehicle": "no",
+                "name": "Avenue de France",
+                "segregated": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 550946703,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3774522,
+                        48.8299111
+                    ],
+                    [
+                        2.3774142,
+                        48.8299545
+                    ],
+                    [
+                        2.3773512,
+                        48.8300214
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551096357,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3810808,
+                        48.8262308
+                    ],
+                    [
+                        2.3808669,
+                        48.8263086
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551096358,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3817648,
+                        48.8258611
+                    ],
+                    [
+                        2.381702,
+                        48.8258938
+                    ],
+                    [
+                        2.3810808,
+                        48.8262308
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 583872427,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.372554,
+                        48.8350871
+                    ],
+                    [
+                        2.3721269,
+                        48.8355419
+                    ],
+                    [
+                        2.3720417,
+                        48.8356342
+                    ],
+                    [
+                        2.3715872,
+                        48.8361058
+                    ],
+                    [
+                        2.3714895,
+                        48.8362129
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 611974676,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3800475,
+                        48.8271874
+                    ],
+                    [
+                        2.37998,
+                        48.8272686
+                    ],
+                    [
+                        2.3796776,
+                        48.8275831
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 644947958,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3714895,
+                        48.8362129
+                    ],
+                    [
+                        2.3713522,
+                        48.8363674
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "yes",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 670272112,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3792978,
+                        48.827984
+                    ],
+                    [
+                        2.3792274,
+                        48.8280557
+                    ],
+                    [
+                        2.37888,
+                        48.8284097
+                    ],
+                    [
+                        2.3787955,
+                        48.828501
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de France",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

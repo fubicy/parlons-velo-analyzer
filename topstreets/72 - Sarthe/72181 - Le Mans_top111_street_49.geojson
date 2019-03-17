@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 110268703,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1707055,
+                        48.0255085
+                    ],
+                    [
+                        0.1705691,
+                        48.0255637
+                    ],
+                    [
+                        0.1702838,
+                        48.0257119
+                    ],
+                    [
+                        0.1699382,
+                        48.0259602
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Saint-Aubin",
+                "oneway": "no",
+                "ref": "D 304",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 573740308,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1699382,
+                        48.0259602
+                    ],
+                    [
+                        0.1695401,
+                        48.0262497
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Saint-Aubin",
+                "oneway": "no",
+                "ref": "D 304",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

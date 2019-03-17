@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 533353600,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4773151,
+                        43.5315645
+                    ],
+                    [
+                        1.4773352,
+                        43.531513
+                    ],
+                    [
+                        1.4774626,
+                        43.5314226
+                    ],
+                    [
+                        1.4775458,
+                        43.5314012
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Coteaux",
+                "operator": "Tiss\u00e9o",
+                "public_transport": "platform",
+                "ref": "14910",
+                "source": "https://www.tisseo.fr",
+                "source:date": "2017-09-04",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

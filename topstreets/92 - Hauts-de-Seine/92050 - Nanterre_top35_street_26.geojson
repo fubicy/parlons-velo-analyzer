@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 35974240,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1955976,
+                        48.89812
+                    ],
+                    [
+                        2.1956878,
+                        48.8980853
+                    ],
+                    [
+                        2.1965776,
+                        48.8977451
+                    ],
+                    [
+                        2.1966167,
+                        48.8977294
+                    ],
+                    [
+                        2.1966596,
+                        48.8977122
+                    ],
+                    [
+                        2.1969016,
+                        48.8976014
+                    ],
+                    [
+                        2.1970041,
+                        48.8975544
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:city": "Nanterre",
+                "addr:country": "FR",
+                "addr:postcode": "92000",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Faidherbe",
+                "source": "survey;bing;knowledge",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 238832566,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1970041,
+                        48.8975544
+                    ],
+                    [
+                        2.1974927,
+                        48.897328
+                    ],
+                    [
+                        2.1975495,
+                        48.8973105
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:city": "Nanterre",
+                "addr:country": "FR",
+                "addr:postcode": "92000",
+                "highway": "residential",
+                "name": "Rue Faidherbe",
+                "old_name": "Rue du G\u00e9n\u00e9ral Faidherbe",
+                "source": "survey;knowledge;bing",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 378011458,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1975495,
+                        48.8973105
+                    ],
+                    [
+                        2.1976083,
+                        48.8972851
+                    ],
+                    [
+                        2.1978606,
+                        48.8971441
+                    ],
+                    [
+                        2.1979093,
+                        48.8971191
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:city": "Nanterre",
+                "addr:country": "FR",
+                "addr:postcode": "92000",
+                "highway": "residential",
+                "name": "Rue Faidherbe",
+                "old_name": "Rue du G\u00e9n\u00e9ral Faidherbe",
+                "oneway": "yes",
+                "source": "survey;knowledge;bing",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

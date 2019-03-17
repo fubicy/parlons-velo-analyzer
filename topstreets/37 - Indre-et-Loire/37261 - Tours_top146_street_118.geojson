@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 273082462,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6986068,
+                        47.4188803
+                    ],
+                    [
+                        0.6982617,
+                        47.4188862
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Pas Notre-Dame",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 273082463,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6982579,
+                        47.4188005
+                    ],
+                    [
+                        0.6986017,
+                        47.4187945
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Pas Notre-Dame",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

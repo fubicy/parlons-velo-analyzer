@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25346645,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2010348,
+                        48.8764548
+                    ],
+                    [
+                        2.2010968,
+                        48.8764974
+                    ],
+                    [
+                        2.2012499,
+                        48.8766031
+                    ],
+                    [
+                        2.2013819,
+                        48.8766947
+                    ],
+                    [
+                        2.2018606,
+                        48.8770051
+                    ],
+                    [
+                        2.2030031,
+                        48.8775203
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Eugene Sue",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

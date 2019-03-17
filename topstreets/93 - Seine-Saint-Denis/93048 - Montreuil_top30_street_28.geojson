@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22950011,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4247407,
+                        48.8528559
+                    ],
+                    [
+                        2.4248435,
+                        48.852866
+                    ],
+                    [
+                        2.4260021,
+                        48.8529797
+                    ],
+                    [
+                        2.426098,
+                        48.8529891
+                    ],
+                    [
+                        2.4261869,
+                        48.8529978
+                    ],
+                    [
+                        2.4268317,
+                        48.853056
+                    ],
+                    [
+                        2.4269049,
+                        48.8530641
+                    ],
+                    [
+                        2.4277285,
+                        48.8531432
+                    ],
+                    [
+                        2.4278192,
+                        48.8531502
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Raspail",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25694384,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4237663,
+                        48.8527555
+                    ],
+                    [
+                        2.4238928,
+                        48.8527685
+                    ],
+                    [
+                        2.4246302,
+                        48.8528445
+                    ],
+                    [
+                        2.4247407,
+                        48.8528559
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Raspail",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

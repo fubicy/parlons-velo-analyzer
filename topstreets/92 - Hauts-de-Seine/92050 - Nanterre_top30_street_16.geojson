@@ -1,0 +1,142 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17475789,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2026502,
+                        48.8892903
+                    ],
+                    [
+                        2.2027507,
+                        48.8892098
+                    ],
+                    [
+                        2.2028524,
+                        48.8891178
+                    ],
+                    [
+                        2.2028777,
+                        48.8890949
+                    ],
+                    [
+                        2.202937,
+                        48.8890433
+                    ],
+                    [
+                        2.2031046,
+                        48.8888973
+                    ],
+                    [
+                        2.2031609,
+                        48.8888482
+                    ],
+                    [
+                        2.2031829,
+                        48.8888291
+                    ],
+                    [
+                        2.2032083,
+                        48.8888069
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "is_in:city": "Nanterre",
+                "is_in:country_code": "FR",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de la C\u00f4te",
+                "oneway": "yes",
+                "postal_code": "92000",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58177877,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2032083,
+                        48.8888069
+                    ],
+                    [
+                        2.2032963,
+                        48.8887286
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "is_in:city": "Nanterre",
+                "is_in:country_code": "FR",
+                "name": "Rue de la C\u00f4te",
+                "oneway": "yes",
+                "postal_code": "92000",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 244764224,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2032963,
+                        48.8887286
+                    ],
+                    [
+                        2.2033555,
+                        48.8886739
+                    ],
+                    [
+                        2.2046813,
+                        48.8874704
+                    ],
+                    [
+                        2.2050244,
+                        48.8870502
+                    ],
+                    [
+                        2.2050768,
+                        48.8869526
+                    ],
+                    [
+                        2.2050732,
+                        48.8868604
+                    ],
+                    [
+                        2.2050916,
+                        48.886789
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "is_in:city": "Nanterre",
+                "is_in:country_code": "FR",
+                "lanes": "1",
+                "name": "Rue de la C\u00f4te",
+                "old_name": "Sentier des Belles Vues; Rural No 60",
+                "oneway": "yes",
+                "postal_code": "92000",
+                "source": "survey;knowledge;bing",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

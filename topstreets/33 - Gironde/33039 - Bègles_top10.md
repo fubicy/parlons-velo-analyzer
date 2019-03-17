@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 69 réponses dont 64 réponses avec une rue
 
 24 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Route de Toulouse | 15 | 21% | <img src="../../img/bar_23.gif" />&nbsp;23%|
-| Cours Victor Hugo | 14 | 20% | <img src="../../img/bar_21.gif" />&nbsp;21%|
-| Bègles | 7 | 10% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Rue Léon Gambetta | 5 | 7% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Rue des Frères Moga | 3 | 4% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Place de la Liberté | 2 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Émile Combes | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue du Prêche | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue des Sècheries | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue Pierre et Marie Curie | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| **Total** | 50 | 72% | 78%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Route de Toulouse | 15 | <img src="../../img/bar_30.gif" />&nbsp;30%|
+| Cours Victor Hugo | 14 | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| Bègles | 7 | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| Rue Léon Gambetta | 5 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Rue des Frères Moga | 3 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Place de la Liberté | 2 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue Émile Combes | 1 | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| Rue du Prêche | 1 | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| Rue des Sècheries | 1 | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| Rue Pierre et Marie Curie | 1 | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| **Total** | 50 | 100%|

@@ -1,0 +1,163 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 127998854,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8267458,
+                        46.3033597
+                    ],
+                    [
+                        4.8267568,
+                        46.3033357
+                    ],
+                    [
+                        4.826766,
+                        46.3033156
+                    ],
+                    [
+                        4.8267221,
+                        46.3032337
+                    ],
+                    [
+                        4.8262783,
+                        46.3027299
+                    ],
+                    [
+                        4.825853,
+                        46.3022472
+                    ],
+                    [
+                        4.82495,
+                        46.3012135
+                    ],
+                    [
+                        4.8249339,
+                        46.301196
+                    ],
+                    [
+                        4.8244779,
+                        46.300698
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Bigonnet",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159929236,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8224946,
+                        46.298443
+                    ],
+                    [
+                        4.8226754,
+                        46.2982669
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Bigonnet",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 242270783,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8244779,
+                        46.300698
+                    ],
+                    [
+                        4.8228534,
+                        46.2988455
+                    ],
+                    [
+                        4.8225892,
+                        46.2985442
+                    ],
+                    [
+                        4.8224946,
+                        46.298443
+                    ],
+                    [
+                        4.8223829,
+                        46.2983236
+                    ],
+                    [
+                        4.8222592,
+                        46.2981913
+                    ],
+                    [
+                        4.8221691,
+                        46.2980874
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "opposite_track",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Bigonnet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 360362041,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8221691,
+                        46.2980874
+                    ],
+                    [
+                        4.8220892,
+                        46.2980201
+                    ],
+                    [
+                        4.822039,
+                        46.2979588
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "opposite_track",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Bigonnet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 256082934,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.919907,
+                        45.5699699
+                    ],
+                    [
+                        5.9196838,
+                        45.5703859
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Gare",
+                "network": "STAC",
+                "public_transport": "platform",
+                "wheelchair": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256082939,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9200284,
+                        45.5699996
+                    ],
+                    [
+                        5.9198164,
+                        45.5704108
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Gare",
+                "network": "STAC",
+                "public_transport": "platform",
+                "wheelchair": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

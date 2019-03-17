@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4378897,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8334949,
+                        45.7602483
+                    ],
+                    [
+                        4.8334859,
+                        45.7602001
+                    ],
+                    [
+                        4.8334824,
+                        45.7601696
+                    ],
+                    [
+                        4.8334797,
+                        45.7601527
+                    ],
+                    [
+                        4.8333692,
+                        45.7594706
+                    ],
+                    [
+                        4.8332756,
+                        45.7588348
+                    ],
+                    [
+                        4.8331941,
+                        45.7583478
+                    ],
+                    [
+                        4.8331803,
+                        45.7582657
+                    ],
+                    [
+                        4.8331711,
+                        45.7582109
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Gasparin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

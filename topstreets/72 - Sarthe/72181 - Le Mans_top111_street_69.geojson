@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26547711,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1917857,
+                        47.9990819
+                    ],
+                    [
+                        0.1917189,
+                        47.9991086
+                    ],
+                    [
+                        0.1901941,
+                        47.9996527
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "no",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Sarthe",
+                "oneway": "yes",
+                "parking:condition:left": "free",
+                "parking:lane:left": "parallel",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

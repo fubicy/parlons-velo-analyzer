@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23231715,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1658315,
+                        43.9216862
+                    ],
+                    [
+                        2.1655324,
+                        43.9217502
+                    ],
+                    [
+                        2.1650145,
+                        43.9218567
+                    ],
+                    [
+                        2.1648152,
+                        43.9218993
+                    ],
+                    [
+                        2.1646373,
+                        43.9219378
+                    ],
+                    [
+                        2.1638388,
+                        43.9221081
+                    ],
+                    [
+                        2.1633685,
+                        43.9222286
+                    ],
+                    [
+                        2.1633395,
+                        43.9222363
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Colonel Teyssier",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40278601,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1658315,
+                        43.9216862
+                    ],
+                    [
+                        2.1662657,
+                        43.921592
+                    ],
+                    [
+                        2.1664275,
+                        43.9215595
+                    ],
+                    [
+                        2.1667278,
+                        43.9214994
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "no",
+                "cycleway:right": "shared_lane",
+                "cycleway:right:lane": "pictogram",
+                "highway": "secondary",
+                "name": "Avenue Colonel Teyssier",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 254578994,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1631101,
+                        43.9222974
+                    ],
+                    [
+                        2.1629174,
+                        43.9223599
+                    ],
+                    [
+                        2.1628303,
+                        43.9223881
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "name": "Avenue Colonel Teyssier",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 306457851,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1667278,
+                        43.9214994
+                    ],
+                    [
+                        2.1668668,
+                        43.9214217
+                    ],
+                    [
+                        2.1669347,
+                        43.9213734
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "name": "Avenue Colonel Teyssier",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 509420191,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1633395,
+                        43.9222363
+                    ],
+                    [
+                        2.1631101,
+                        43.9222974
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Colonel Teyssier",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4325325,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8264517,
+                        45.7458158
+                    ],
+                    [
+                        4.8263975,
+                        45.74575
+                    ],
+                    [
+                        4.8256276,
+                        45.7448622
+                    ],
+                    [
+                        4.8255853,
+                        45.7448135
+                    ],
+                    [
+                        4.8255609,
+                        45.7447842
+                    ],
+                    [
+                        4.8247586,
+                        45.743822
+                    ],
+                    [
+                        4.8247395,
+                        45.7437991
+                    ],
+                    [
+                        4.8247215,
+                        45.7437775
+                    ],
+                    [
+                        4.8246948,
+                        45.7437464
+                    ],
+                    [
+                        4.8239316,
+                        45.7428575
+                    ],
+                    [
+                        4.8238641,
+                        45.7427789
+                    ],
+                    [
+                        4.8238091,
+                        45.7427144
+                    ],
+                    [
+                        4.8229619,
+                        45.7417205
+                    ],
+                    [
+                        4.8229477,
+                        45.7417039
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Delandine",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20544019,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8264517,
+                        45.7458158
+                    ],
+                    [
+                        4.8264931,
+                        45.7458669
+                    ],
+                    [
+                        4.8265089,
+                        45.7458854
+                    ],
+                    [
+                        4.8269294,
+                        45.7463759
+                    ],
+                    [
+                        4.8273522,
+                        45.746869
+                    ],
+                    [
+                        4.8273795,
+                        45.7469008
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Delandine",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25479704,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8275487,
+                        45.7470992
+                    ],
+                    [
+                        4.8281776,
+                        45.747835
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "maxheight": "4.8",
+                "maxspeed": "50",
+                "name": "Rue Delandine",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25479705,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8281776,
+                        45.747835
+                    ],
+                    [
+                        4.8281988,
+                        45.7478586
+                    ],
+                    [
+                        4.8286825,
+                        45.7484401
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue Delandine",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 227186506,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8273795,
+                        45.7469008
+                    ],
+                    [
+                        4.8275487,
+                        45.7470992
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue Delandine",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

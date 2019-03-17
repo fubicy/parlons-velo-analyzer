@@ -1,0 +1,166 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8100168,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8671624,
+                        45.773599
+                    ],
+                    [
+                        4.8672659,
+                        45.7735758
+                    ],
+                    [
+                        4.8678779,
+                        45.7734077
+                    ],
+                    [
+                        4.8679367,
+                        45.7733916
+                    ],
+                    [
+                        4.8684988,
+                        45.7732515
+                    ],
+                    [
+                        4.8687193,
+                        45.7731982
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "cycleway:right": "shared_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Wilson",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "survey",
+                "source:date": "2014-03-07",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120171227,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8687193,
+                        45.7731982
+                    ],
+                    [
+                        4.8689831,
+                        45.7737185
+                    ],
+                    [
+                        4.8690271,
+                        45.7738044
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "cycleway:right": "shared_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Wilson",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "survey",
+                "source:date": "2014-03-07",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 281905692,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8671624,
+                        45.773599
+                    ],
+                    [
+                        4.8672472,
+                        45.7736726
+                    ],
+                    [
+                        4.8677407,
+                        45.7740225
+                    ],
+                    [
+                        4.8678493,
+                        45.7740889
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "shared_lane",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Place Wilson",
+                "source": "survey",
+                "source:date": "2014-03-07",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 281905693,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8690271,
+                        45.7738044
+                    ],
+                    [
+                        4.8689575,
+                        45.7738231
+                    ],
+                    [
+                        4.8682513,
+                        45.7739885
+                    ],
+                    [
+                        4.8681856,
+                        45.774004
+                    ],
+                    [
+                        4.8680652,
+                        45.7740663
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Wilson",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

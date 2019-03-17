@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 267625342,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6794781,
+                        47.3774584
+                    ],
+                    [
+                        0.6794405,
+                        47.377299
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Erables",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 267625343,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6795964,
+                        47.3775478
+                    ],
+                    [
+                        0.6796258,
+                        47.3776576
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Erables",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

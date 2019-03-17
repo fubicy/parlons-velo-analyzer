@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37985956,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3068909,
+                        48.748836
+                    ],
+                    [
+                        2.3065441,
+                        48.7482645
+                    ],
+                    [
+                        2.3042824,
+                        48.748745
+                    ],
+                    [
+                        2.3041286,
+                        48.7487759
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Dupressoir Chailloux",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "ref:FR:FANTOIR": "920022580A",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

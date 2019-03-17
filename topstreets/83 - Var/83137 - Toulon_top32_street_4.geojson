@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 255662856,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9555887,
+                        43.1244453
+                    ],
+                    [
+                        5.9557468,
+                        43.1244993
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Pont Saint-Jean",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

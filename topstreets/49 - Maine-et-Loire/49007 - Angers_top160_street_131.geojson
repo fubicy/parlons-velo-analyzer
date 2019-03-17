@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31049464,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5481839,
+                        47.4781556
+                    ],
+                    [
+                        -0.5473891,
+                        47.4778432
+                    ],
+                    [
+                        -0.5465115,
+                        47.4774649
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Ernest Mourin",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

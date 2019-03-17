@@ -1,0 +1,287 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 157312857,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.083634,
+                        49.4272435
+                    ],
+                    [
+                        1.0836928,
+                        49.427349
+                    ],
+                    [
+                        1.083722,
+                        49.4273886
+                    ],
+                    [
+                        1.0839709,
+                        49.4277268
+                    ],
+                    [
+                        1.0842358,
+                        49.4280868
+                    ],
+                    [
+                        1.0842515,
+                        49.4281081
+                    ],
+                    [
+                        1.0842938,
+                        49.4281655
+                    ],
+                    [
+                        1.084352,
+                        49.4282517
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue d'Elbeuf",
+                "source:maxspeed": "FR:zone30",
+                "vehicle:conditional": "delivery @ (weight>7.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169504961,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0800094,
+                        49.4221548
+                    ],
+                    [
+                        1.08007,
+                        49.4222337
+                    ],
+                    [
+                        1.0800854,
+                        49.4222575
+                    ],
+                    [
+                        1.0801814,
+                        49.4223871
+                    ],
+                    [
+                        1.0807491,
+                        49.4232034
+                    ],
+                    [
+                        1.0807766,
+                        49.4232433
+                    ],
+                    [
+                        1.0811319,
+                        49.4237111
+                    ],
+                    [
+                        1.0812928,
+                        49.4239315
+                    ],
+                    [
+                        1.0814266,
+                        49.4241203
+                    ],
+                    [
+                        1.0816944,
+                        49.4244937
+                    ],
+                    [
+                        1.0818159,
+                        49.4246611
+                    ],
+                    [
+                        1.0821159,
+                        49.4250744
+                    ],
+                    [
+                        1.0825261,
+                        49.4256562
+                    ],
+                    [
+                        1.0825368,
+                        49.4256714
+                    ],
+                    [
+                        1.0826157,
+                        49.4257834
+                    ],
+                    [
+                        1.0826826,
+                        49.4258767
+                    ],
+                    [
+                        1.0826956,
+                        49.4258948
+                    ],
+                    [
+                        1.0828441,
+                        49.426102
+                    ],
+                    [
+                        1.0829693,
+                        49.4262788
+                    ],
+                    [
+                        1.0834501,
+                        49.4269755
+                    ],
+                    [
+                        1.0834714,
+                        49.4270088
+                    ],
+                    [
+                        1.0835277,
+                        49.4270959
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:right": "share_busway",
+                "foot": "yes",
+                "highway": "secondary",
+                "horse": "yes",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "lanes:psv:forward": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue d'Elbeuf",
+                "oneway": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188872170,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0835277,
+                        49.4270959
+                    ],
+                    [
+                        1.0835638,
+                        49.4271472
+                    ],
+                    [
+                        1.0835858,
+                        49.4271755
+                    ],
+                    [
+                        1.083634,
+                        49.4272435
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue d'Elbeuf",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195606415,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.084352,
+                        49.4282517
+                    ],
+                    [
+                        1.0845004,
+                        49.4284369
+                    ],
+                    [
+                        1.0845137,
+                        49.4284535
+                    ],
+                    [
+                        1.0846544,
+                        49.4286292
+                    ],
+                    [
+                        1.0847333,
+                        49.4287232
+                    ],
+                    [
+                        1.0848239,
+                        49.4288311
+                    ],
+                    [
+                        1.0852737,
+                        49.4294366
+                    ],
+                    [
+                        1.0852974,
+                        49.4294685
+                    ],
+                    [
+                        1.0853731,
+                        49.4295665
+                    ],
+                    [
+                        1.0854095,
+                        49.4296169
+                    ],
+                    [
+                        1.0854283,
+                        49.4296408
+                    ],
+                    [
+                        1.085783,
+                        49.4300921
+                    ],
+                    [
+                        1.0860803,
+                        49.4304866
+                    ],
+                    [
+                        1.0862679,
+                        49.4307027
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "permissive",
+                "name": "Rue d'Elbeuf",
+                "oneway": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>7.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17237460,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.289019,
+                        48.8168838
+                    ],
+                    [
+                        2.2891403,
+                        48.8167967
+                    ],
+                    [
+                        2.2893675,
+                        48.8166334
+                    ],
+                    [
+                        2.2897334,
+                        48.8163645
+                    ],
+                    [
+                        2.2899931,
+                        48.8161691
+                    ],
+                    [
+                        2.2904859,
+                        48.8157552
+                    ],
+                    [
+                        2.2905437,
+                        48.8157067
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Hoche",
+                "oneway": "no",
+                "sidewalk": "both",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32489888,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2930597,
+                        48.812996
+                    ],
+                    [
+                        2.293116,
+                        48.8129007
+                    ],
+                    [
+                        2.2934803,
+                        48.8123603
+                    ],
+                    [
+                        2.2935512,
+                        48.8122546
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "tertiary",
+                "horse": "permissive",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue Hoche",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33636359,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2905437,
+                        48.8157067
+                    ],
+                    [
+                        2.2905982,
+                        48.815661
+                    ],
+                    [
+                        2.2908639,
+                        48.8154381
+                    ],
+                    [
+                        2.2908791,
+                        48.8154254
+                    ],
+                    [
+                        2.2913259,
+                        48.8150518
+                    ],
+                    [
+                        2.2913783,
+                        48.8149895
+                    ],
+                    [
+                        2.2916598,
+                        48.8146592
+                    ],
+                    [
+                        2.2919034,
+                        48.8143819
+                    ],
+                    [
+                        2.2919466,
+                        48.8143295
+                    ],
+                    [
+                        2.292013,
+                        48.8142446
+                    ],
+                    [
+                        2.2923192,
+                        48.8138897
+                    ],
+                    [
+                        2.292887,
+                        48.8131993
+                    ],
+                    [
+                        2.2929811,
+                        48.8130849
+                    ],
+                    [
+                        2.2930597,
+                        48.812996
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Hoche",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

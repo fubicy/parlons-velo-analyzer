@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23233047,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.3874877,
+                        47.7538316
+                    ],
+                    [
+                        -3.3876849,
+                        47.7538344
+                    ],
+                    [
+                        -3.3882173,
+                        47.753842
+                    ],
+                    [
+                        -3.3889129,
+                        47.7538519
+                    ],
+                    [
+                        -3.3891703,
+                        47.7538398
+                    ],
+                    [
+                        -3.3893283,
+                        47.7537933
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Kerforn",
+                "name:br": "Straed Kerforn",
+                "source:name:br": "proper translation",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 260854930,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.3893283,
+                        47.7537933
+                    ],
+                    [
+                        -3.3893815,
+                        47.7537998
+                    ],
+                    [
+                        -3.3894591,
+                        47.7538054
+                    ],
+                    [
+                        -3.38955,
+                        47.7538077
+                    ],
+                    [
+                        -3.3901177,
+                        47.7537868
+                    ],
+                    [
+                        -3.3918045,
+                        47.7536664
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Rue de Kerforn",
+                "name:br": "Straed Kerforn",
+                "oneway": "yes",
+                "source:name:br": "proper translation",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

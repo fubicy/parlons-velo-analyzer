@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 386616499,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.282381,
+                        49.8869523
+                    ],
+                    [
+                        2.2824009,
+                        49.886834
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Alfred Lemaire",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386616501,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2824009,
+                        49.886834
+                    ],
+                    [
+                        2.2814715,
+                        49.8860327
+                    ],
+                    [
+                        2.2805381,
+                        49.8852959
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Alfred Lemaire",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

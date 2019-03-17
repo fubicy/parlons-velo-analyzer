@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27100721,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5101708,
+                        48.8107349
+                    ],
+                    [
+                        2.5102193,
+                        48.8108619
+                    ],
+                    [
+                        2.5103497,
+                        48.8112196
+                    ],
+                    [
+                        2.5104786,
+                        48.8115056
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue Albert Thomas",
+                "old_ref": "D 30",
+                "ref": "D 130",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69822044,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5112696,
+                        48.813464
+                    ],
+                    [
+                        2.5112897,
+                        48.8135125
+                    ],
+                    [
+                        2.5113205,
+                        48.8135865
+                    ],
+                    [
+                        2.5115971,
+                        48.8142651
+                    ],
+                    [
+                        2.5116386,
+                        48.8143584
+                    ],
+                    [
+                        2.5116615,
+                        48.8144099
+                    ],
+                    [
+                        2.5120609,
+                        48.815431
+                    ],
+                    [
+                        2.5121175,
+                        48.8155756
+                    ],
+                    [
+                        2.5121229,
+                        48.8156816
+                    ],
+                    [
+                        2.5120915,
+                        48.815907
+                    ],
+                    [
+                        2.5121368,
+                        48.8160481
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Thomas",
+                "old_ref": "D 30",
+                "oneway": "yes",
+                "ref": "D 130A",
+                "source:maxspeed": "FR:urban",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88199946,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5107636,
+                        48.8122295
+                    ],
+                    [
+                        2.5107736,
+                        48.812305
+                    ],
+                    [
+                        2.5109426,
+                        48.812697
+                    ],
+                    [
+                        2.5112299,
+                        48.8133681
+                    ],
+                    [
+                        2.5112696,
+                        48.813464
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:bus": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Albert Thomas",
+                "old_ref": "D30",
+                "oneway": "yes",
+                "ref": "D 130A",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264265688,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5104786,
+                        48.8115056
+                    ],
+                    [
+                        2.5106362,
+                        48.8118776
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Rue Albert Thomas",
+                "old_ref": "D 30",
+                "ref": "D 130",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

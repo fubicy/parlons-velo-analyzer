@@ -1,0 +1,176 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 61108434,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1494524,
+                        50.7202683
+                    ],
+                    [
+                        3.1495065,
+                        50.7203761
+                    ],
+                    [
+                        3.1495153,
+                        50.7203937
+                    ],
+                    [
+                        3.1501078,
+                        50.7215744
+                    ],
+                    [
+                        3.1502981,
+                        50.7218332
+                    ],
+                    [
+                        3.1506007,
+                        50.7220848
+                    ],
+                    [
+                        3.1506516,
+                        50.7221396
+                    ],
+                    [
+                        3.1506693,
+                        50.7222057
+                    ],
+                    [
+                        3.1506599,
+                        50.7224054
+                    ],
+                    [
+                        3.1506488,
+                        50.7224679
+                    ],
+                    [
+                        3.1506299,
+                        50.7225709
+                    ],
+                    [
+                        3.1506246,
+                        50.7226037
+                    ],
+                    [
+                        3.150613,
+                        50.7227195
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue du Dragon",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138318150,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1494524,
+                        50.7202683
+                    ],
+                    [
+                        3.1494089,
+                        50.7201892
+                    ],
+                    [
+                        3.1493547,
+                        50.7200907
+                    ],
+                    [
+                        3.1493314,
+                        50.7200483
+                    ],
+                    [
+                        3.1493192,
+                        50.7200261
+                    ],
+                    [
+                        3.1483946,
+                        50.7183442
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Dragon",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138318151,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1482583,
+                        50.7180533
+                    ],
+                    [
+                        3.147876,
+                        50.7173536
+                    ],
+                    [
+                        3.1478408,
+                        50.7172892
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Dragon",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 363594462,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1483946,
+                        50.7183442
+                    ],
+                    [
+                        3.1482583,
+                        50.7180533
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Dragon",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

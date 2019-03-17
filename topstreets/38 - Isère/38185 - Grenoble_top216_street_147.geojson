@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 101579,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7256495,
+                        45.1753144
+                    ],
+                    [
+                        5.7257184,
+                        45.1752487
+                    ],
+                    [
+                        5.7257717,
+                        45.1752345
+                    ],
+                    [
+                        5.7264245,
+                        45.1750602
+                    ],
+                    [
+                        5.7270321,
+                        45.1749171
+                    ],
+                    [
+                        5.7283431,
+                        45.174573
+                    ],
+                    [
+                        5.7292443,
+                        45.1743364
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue \u00c9mile Zola",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 184724723,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7292443,
+                        45.1743364
+                    ],
+                    [
+                        5.7303142,
+                        45.174073
+                    ],
+                    [
+                        5.7317378,
+                        45.1737225
+                    ],
+                    [
+                        5.7318518,
+                        45.1737073
+                    ],
+                    [
+                        5.7318936,
+                        45.1737083
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue \u00c9mile Zola",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 503216575,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7303142,
+                        45.174073
+                    ],
+                    [
+                        5.7302874,
+                        45.1740108
+                    ],
+                    [
+                        5.7300728,
+                        45.1735554
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "private",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue \u00c9mile Zola",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

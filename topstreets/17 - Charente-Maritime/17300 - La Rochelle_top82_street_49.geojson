@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18898623,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1499833,
+                        46.161764
+                    ],
+                    [
+                        -1.1497423,
+                        46.1616827
+                    ],
+                    [
+                        -1.1496841,
+                        46.1616518
+                    ],
+                    [
+                        -1.1490339,
+                        46.1615074
+                    ],
+                    [
+                        -1.1488386,
+                        46.1614712
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Thiers",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18901049,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1488386,
+                        46.1614712
+                    ],
+                    [
+                        -1.1479409,
+                        46.1613119
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Thiers",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 354586057,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1475492,
+                        46.1612408
+                    ],
+                    [
+                        -1.1469927,
+                        46.1611439
+                    ],
+                    [
+                        -1.1469067,
+                        46.1611289
+                    ],
+                    [
+                        -1.1468539,
+                        46.1611198
+                    ],
+                    [
+                        -1.1462987,
+                        46.1610243
+                    ],
+                    [
+                        -1.1461944,
+                        46.1610027
+                    ],
+                    [
+                        -1.1461117,
+                        46.1609917
+                    ],
+                    [
+                        -1.1456672,
+                        46.1609127
+                    ],
+                    [
+                        -1.1456017,
+                        46.1609006
+                    ],
+                    [
+                        -1.1444959,
+                        46.1606963
+                    ],
+                    [
+                        -1.1444248,
+                        46.1606832
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Thiers",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 354586058,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1479409,
+                        46.1613119
+                    ],
+                    [
+                        -1.1475492,
+                        46.1612408
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Thiers",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

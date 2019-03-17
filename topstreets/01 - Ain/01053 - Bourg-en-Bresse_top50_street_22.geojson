@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7999148,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2266913,
+                        46.2035103
+                    ],
+                    [
+                        5.2264749,
+                        46.2033817
+                    ],
+                    [
+                        5.2262426,
+                        46.203263
+                    ],
+                    [
+                        5.2260538,
+                        46.2032122
+                    ],
+                    [
+                        5.2259455,
+                        46.2031831
+                    ],
+                    [
+                        5.2256485,
+                        46.2030868
+                    ],
+                    [
+                        5.2255266,
+                        46.2031298
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "shared_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jules Migonney",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

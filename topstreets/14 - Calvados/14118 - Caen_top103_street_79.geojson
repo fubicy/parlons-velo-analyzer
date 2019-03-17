@@ -1,0 +1,98 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22889518,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3710788,
+                        49.17832
+                    ],
+                    [
+                        -0.370945,
+                        49.1783125
+                    ],
+                    [
+                        -0.370784,
+                        49.1783093
+                    ],
+                    [
+                        -0.3707445,
+                        49.1783085
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Fred Scamaroni",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234236722,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3688537,
+                        49.1782706
+                    ],
+                    [
+                        -0.3677048,
+                        49.1782462
+                    ],
+                    [
+                        -0.3675124,
+                        49.1782387
+                    ],
+                    [
+                        -0.3674086,
+                        49.1782435
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "name": "Rue Fred Scamaroni",
+                "parking:condition:both": "free",
+                "parking:lane:both": "parallel",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 434440667,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3707445,
+                        49.1783085
+                    ],
+                    [
+                        -0.3688537,
+                        49.1782706
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Fred Scamaroni",
+                "parking:condition:both": "free",
+                "parking:lane:both": "marked",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

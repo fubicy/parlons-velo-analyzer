@@ -1,0 +1,680 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22540758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4557071,
+                        43.594288
+                    ],
+                    [
+                        1.4557442,
+                        43.594337
+                    ],
+                    [
+                        1.4558353,
+                        43.5944734
+                    ],
+                    [
+                        1.4558531,
+                        43.5945358
+                    ],
+                    [
+                        1.4558601,
+                        43.5946028
+                    ],
+                    [
+                        1.4558461,
+                        43.5946691
+                    ],
+                    [
+                        1.4558451,
+                        43.5946781
+                    ],
+                    [
+                        1.4558124,
+                        43.594838
+                    ],
+                    [
+                        1.4557055,
+                        43.5953564
+                    ],
+                    [
+                        1.455635,
+                        43.5957559
+                    ],
+                    [
+                        1.4556577,
+                        43.5961573
+                    ],
+                    [
+                        1.4557443,
+                        43.5966465
+                    ],
+                    [
+                        1.455751,
+                        43.5966821
+                    ],
+                    [
+                        1.4557572,
+                        43.5967286
+                    ],
+                    [
+                        1.455761,
+                        43.5967553
+                    ],
+                    [
+                        1.4557641,
+                        43.596777
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87949226,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566911,
+                        43.5970342
+                    ],
+                    [
+                        1.4566917,
+                        43.5965302
+                    ],
+                    [
+                        1.4566877,
+                        43.5960641
+                    ],
+                    [
+                        1.4566805,
+                        43.5953375
+                    ],
+                    [
+                        1.4566828,
+                        43.5951202
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Port Saint-Sauveur",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99270758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4559352,
+                        43.5970262
+                    ],
+                    [
+                        1.455985,
+                        43.5971126
+                    ],
+                    [
+                        1.4560123,
+                        43.5972276
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "short_name": "All\u00e9e Sabatier",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103272740,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566663,
+                        43.5977731
+                    ],
+                    [
+                        1.4566513,
+                        43.5977043
+                    ],
+                    [
+                        1.4566564,
+                        43.5974323
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122948651,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4560123,
+                        43.5972276
+                    ],
+                    [
+                        1.4560187,
+                        43.5976075
+                    ],
+                    [
+                        1.4560194,
+                        43.5976438
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "primary",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:maxstay": "24 hours",
+                "parking:condition:left:3:residents": "DUPUY",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "parallel",
+                "parking:lane:left:capacity": "9",
+                "parking:lane:left:parallel": "on_street",
+                "parking:lane:right": "no_parking",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171894926,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566564,
+                        43.5974323
+                    ],
+                    [
+                        1.4566628,
+                        43.5973024
+                    ],
+                    [
+                        1.4566676,
+                        43.5972096
+                    ],
+                    [
+                        1.4566696,
+                        43.5971223
+                    ],
+                    [
+                        1.4566911,
+                        43.5970342
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171894927,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566663,
+                        43.5977731
+                    ],
+                    [
+                        1.4566926,
+                        43.5981696
+                    ],
+                    [
+                        1.4566898,
+                        43.5982562
+                    ],
+                    [
+                        1.4566752,
+                        43.5983063
+                    ],
+                    [
+                        1.4566493,
+                        43.5983726
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Port Saint-Sauveur",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171894928,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566911,
+                        43.5970342
+                    ],
+                    [
+                        1.4567117,
+                        43.5971258
+                    ],
+                    [
+                        1.4567158,
+                        43.5972224
+                    ],
+                    [
+                        1.4567166,
+                        43.5973015
+                    ],
+                    [
+                        1.4567181,
+                        43.5974837
+                    ],
+                    [
+                        1.4567036,
+                        43.59771
+                    ],
+                    [
+                        1.4566663,
+                        43.5977731
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219208859,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4560194,
+                        43.5976438
+                    ],
+                    [
+                        1.4559944,
+                        43.5977573
+                    ],
+                    [
+                        1.4559703,
+                        43.5979792
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:maxstay": "24 hours",
+                "parking:condition:left:3:residents": "DUPUY",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "perpendicular",
+                "parking:lane:left:capacity": "5",
+                "parking:lane:left:perpendicular": "on_street",
+                "parking:lane:right": "no_parking",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219375667,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566828,
+                        43.5951202
+                    ],
+                    [
+                        1.456686,
+                        43.5949564
+                    ],
+                    [
+                        1.4567247,
+                        43.5948355
+                    ],
+                    [
+                        1.4568073,
+                        43.5947309
+                    ],
+                    [
+                        1.4568677,
+                        43.5946533
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Port Saint-Sauveur",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 344527549,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4557641,
+                        43.596777
+                    ],
+                    [
+                        1.4558793,
+                        43.5969173
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383633396,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.455993,
+                        43.5985041
+                    ],
+                    [
+                        1.4561131,
+                        43.5986464
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "layer": "1",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383633397,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4559703,
+                        43.5979792
+                    ],
+                    [
+                        1.455973,
+                        43.598465
+                    ],
+                    [
+                        1.455993,
+                        43.5985041
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383633404,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4558909,
+                        43.5969458
+                    ],
+                    [
+                        1.4559352,
+                        43.5970262
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Port Saint-Sauveur",
+                "oneway": "yes",
+                "turn:lanes": "left|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 486625457,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4568677,
+                        43.5946533
+                    ],
+                    [
+                        1.4569424,
+                        43.5945482
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Port Saint-Sauveur",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 615276998,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4564837,
+                        43.5941267
+                    ],
+                    [
+                        1.4564259,
+                        43.5941001
+                    ],
+                    [
+                        1.4564097,
+                        43.5940926
+                    ],
+                    [
+                        1.4563616,
+                        43.5940707
+                    ],
+                    [
+                        1.4563101,
+                        43.5940939
+                    ],
+                    [
+                        1.4558341,
+                        43.5942649
+                    ],
+                    [
+                        1.4557971,
+                        43.5942803
+                    ],
+                    [
+                        1.4557763,
+                        43.5943022
+                    ],
+                    [
+                        1.455777,
+                        43.594325
+                    ],
+                    [
+                        1.4557964,
+                        43.5943707
+                    ],
+                    [
+                        1.4558521,
+                        43.5944731
+                    ],
+                    [
+                        1.4558715,
+                        43.5945334
+                    ],
+                    [
+                        1.4558796,
+                        43.5945805
+                    ],
+                    [
+                        1.4558762,
+                        43.5946169
+                    ],
+                    [
+                        1.4559268,
+                        43.5946297
+                    ],
+                    [
+                        1.4560573,
+                        43.5946548
+                    ],
+                    [
+                        1.4560801,
+                        43.5946222
+                    ],
+                    [
+                        1.4560984,
+                        43.5945698
+                    ],
+                    [
+                        1.4561395,
+                        43.5945226
+                    ],
+                    [
+                        1.4561461,
+                        43.594515
+                    ],
+                    [
+                        1.456296,
+                        43.5943426
+                    ],
+                    [
+                        1.4563026,
+                        43.5943349
+                    ],
+                    [
+                        1.4564837,
+                        43.5941267
+                    ]
+                ]
+            },
+            "properties": {
+                "area": "yes",
+                "highway": "pedestrian",
+                "name": "Port Saint-Sauveur",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

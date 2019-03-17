@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 74202461,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0945959,
+                        49.4989987
+                    ],
+                    [
+                        0.0945636,
+                        49.4989018
+                    ],
+                    [
+                        0.0942963,
+                        49.4982735
+                    ],
+                    [
+                        0.0942172,
+                        49.4980449
+                    ],
+                    [
+                        0.094164,
+                        49.4977394
+                    ],
+                    [
+                        0.0941029,
+                        49.497372
+                    ],
+                    [
+                        0.0940918,
+                        49.4972628
+                    ],
+                    [
+                        0.0941384,
+                        49.4956742
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Guillemard",
+                "source": "GPS",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

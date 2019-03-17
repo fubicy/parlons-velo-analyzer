@@ -4,7 +4,7 @@ Sur l'ensemble de la ville il y a eu 8 réponses dont 1 réponses avec une rue c
 
 1 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Boulevard du Maréchal Foch | 1 | 12% | <img src="../../img/bar_100.gif" />&nbsp;100%|
-| **Total** | 1 | 12% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Boulevard du Maréchal Foch | 1 | <img src="../../img/bar_100.gif" />&nbsp;100%|
+| **Total** | 1 | 100%|

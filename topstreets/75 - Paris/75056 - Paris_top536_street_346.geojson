@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10588201,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3472127,
+                        48.8256558
+                    ],
+                    [
+                        2.3473061,
+                        48.8257775
+                    ],
+                    [
+                        2.3474332,
+                        48.8259455
+                    ],
+                    [
+                        2.3474783,
+                        48.8260051
+                    ],
+                    [
+                        2.3475113,
+                        48.8260503
+                    ],
+                    [
+                        2.348167,
+                        48.8269249
+                    ],
+                    [
+                        2.3486655,
+                        48.8273214
+                    ],
+                    [
+                        2.3487375,
+                        48.8273732
+                    ],
+                    [
+                        2.3490245,
+                        48.8275872
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway:left": "opposite_lane",
+                "foot": "designated",
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "20",
+                "motor_vehicle": "yes",
+                "name": "Rue de l'Esp\u00e9rance",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013P0819",
+                "surface": "sett",
+                "wikidata": "Q3451244",
+                "zone:maxspeed": "FR:20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107710243,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.346653,
+                        48.8250663
+                    ],
+                    [
+                        2.3467722,
+                        48.8251221
+                    ],
+                    [
+                        2.3468471,
+                        48.8251663
+                    ],
+                    [
+                        2.3470048,
+                        48.8253798
+                    ],
+                    [
+                        2.3471601,
+                        48.825584
+                    ],
+                    [
+                        2.3472127,
+                        48.8256558
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de l'Esp\u00e9rance",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013P0857",
+                "surface": "asphalt",
+                "wikidata": "Q3451244",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

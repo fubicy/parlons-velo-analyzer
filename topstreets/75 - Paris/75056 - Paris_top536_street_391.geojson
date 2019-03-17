@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 15459829,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3808514,
+                        48.8573693
+                    ],
+                    [
+                        2.3808119,
+                        48.8573083
+                    ],
+                    [
+                        2.3807919,
+                        48.8572719
+                    ],
+                    [
+                        2.3807765,
+                        48.8571945
+                    ],
+                    [
+                        2.3808707,
+                        48.8570124
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Richard Lenoir",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3449726",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62117447,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3808707,
+                        48.8570124
+                    ],
+                    [
+                        2.3812205,
+                        48.8564457
+                    ],
+                    [
+                        2.3814747,
+                        48.8560337
+                    ],
+                    [
+                        2.3815644,
+                        48.8558884
+                    ],
+                    [
+                        2.3815978,
+                        48.8558342
+                    ],
+                    [
+                        2.38177,
+                        48.8555543
+                    ],
+                    [
+                        2.3818147,
+                        48.8554816
+                    ],
+                    [
+                        2.3818401,
+                        48.8554395
+                    ],
+                    [
+                        2.3826294,
+                        48.8541298
+                    ],
+                    [
+                        2.3826573,
+                        48.8540835
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Richard Lenoir",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

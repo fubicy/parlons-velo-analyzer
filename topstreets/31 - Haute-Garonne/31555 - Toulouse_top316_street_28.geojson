@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31898267,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4603097,
+                        43.5875913
+                    ],
+                    [
+                        1.4607054,
+                        43.5876211
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont des Demoiselles",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123879058,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4606871,
+                        43.5877312
+                    ],
+                    [
+                        1.4605113,
+                        43.5877218
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont des Demoiselles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

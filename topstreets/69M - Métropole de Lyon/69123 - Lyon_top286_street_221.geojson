@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4324356,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8479398,
+                        45.7535847
+                    ],
+                    [
+                        4.8479506,
+                        45.7534739
+                    ],
+                    [
+                        4.8479604,
+                        45.7534013
+                    ],
+                    [
+                        4.8479694,
+                        45.7533323
+                    ],
+                    [
+                        4.8478812,
+                        45.7531923
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Jean-Marie Chavant",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 378103028,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.84726,
+                        45.7522025
+                    ],
+                    [
+                        4.8470137,
+                        45.7518358
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Jean-Marie Chavant",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 522603858,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8478812,
+                        45.7531923
+                    ],
+                    [
+                        4.84726,
+                        45.7522025
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Jean-Marie Chavant",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

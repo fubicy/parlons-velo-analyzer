@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32754374,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3273376,
+                        48.8941137
+                    ],
+                    [
+                        2.3270579,
+                        48.8937596
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Impasse Saint-Ouen",
+                "note": "FIXME",
+                "source:maxspeed": "opendata.paris.fr",
+                "surface": "asphalt",
+                "wikidata": "Q3149294",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

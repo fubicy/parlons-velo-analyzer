@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 427074679,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3575449,
+                        43.36
+                    ],
+                    [
+                        5.3575687,
+                        43.3598122
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "La Viste",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 427074680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3577037,
+                        43.3594139
+                    ],
+                    [
+                        5.3576763,
+                        43.3596199
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "La Viste",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "no",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

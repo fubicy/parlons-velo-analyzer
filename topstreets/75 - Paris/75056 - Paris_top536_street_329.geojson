@@ -1,0 +1,195 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4263260,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3473075,
+                        48.8673701
+                    ],
+                    [
+                        2.347296,
+                        48.8673029
+                    ],
+                    [
+                        2.34728,
+                        48.8671989
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "10",
+                "bicycle": "yes",
+                "boundary": "administrative",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "maxspeed": "walk",
+                "motor_vehicle": "no",
+                "motor_vehicle:conditional": "delivery @ (6:00-10:00,13:30-15:30)",
+                "name": "Rue des Petits Carreaux",
+                "surface": "paving_stones",
+                "wikidata": "Q3451960",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4574495,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3473075,
+                        48.8673701
+                    ],
+                    [
+                        2.3473172,
+                        48.8674521
+                    ],
+                    [
+                        2.3473416,
+                        48.8676185
+                    ],
+                    [
+                        2.347371,
+                        48.8678269
+                    ],
+                    [
+                        2.3473823,
+                        48.867879
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "10",
+                "boundary": "administrative",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Petits Carreaux",
+                "oneway": "yes",
+                "source": "Contre-sens cyclable : BMO 20080801",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02010 - 031",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4574503,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3476779,
+                        48.8684499
+                    ],
+                    [
+                        2.3476462,
+                        48.8683866
+                    ],
+                    [
+                        2.3475251,
+                        48.8681602
+                    ],
+                    [
+                        2.3474224,
+                        48.8679476
+                    ],
+                    [
+                        2.3473823,
+                        48.867879
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "10",
+                "bicycle": "yes",
+                "boundary": "administrative",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue des Petits Carreaux",
+                "surface": "cobblestone",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54916774,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3475251,
+                        48.8681602
+                    ],
+                    [
+                        2.3476242,
+                        48.8680001
+                    ],
+                    [
+                        2.3476486,
+                        48.8679612
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue des Petits Carreaux",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173278571,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.347153,
+                        48.866344
+                    ],
+                    [
+                        2.347273,
+                        48.8671432
+                    ],
+                    [
+                        2.34728,
+                        48.8671989
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "10",
+                "bicycle": "yes",
+                "boundary": "administrative",
+                "cycleway": "opposite",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "maxspeed": "walk",
+                "motor_vehicle": "no",
+                "motor_vehicle:conditional": "delivery @ (6:00-10:00,13:30-15:30)",
+                "name": "Rue des Petits Carreaux",
+                "oneway": "yes",
+                "surface": "paving_stones",
+                "wikidata": "Q3451960",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

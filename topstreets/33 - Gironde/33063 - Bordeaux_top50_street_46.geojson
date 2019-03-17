@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23861289,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5546695,
+                        44.8411353
+                    ],
+                    [
+                        -0.5544484,
+                        44.8411778
+                    ],
+                    [
+                        -0.5537469,
+                        44.8413116
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue de l'\u00c9cole",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

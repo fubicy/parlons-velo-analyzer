@@ -1,0 +1,236 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40525745,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7531202,
+                        48.5775839
+                    ],
+                    [
+                        7.7531486,
+                        48.57756
+                    ],
+                    [
+                        7.7534323,
+                        48.5773218
+                    ],
+                    [
+                        7.7535401,
+                        48.5770883
+                    ],
+                    [
+                        7.753584,
+                        48.5769731
+                    ],
+                    [
+                        7.7536541,
+                        48.5768659
+                    ],
+                    [
+                        7.7538842,
+                        48.5765391
+                    ],
+                    [
+                        7.7539456,
+                        48.576407
+                    ],
+                    [
+                        7.7540322,
+                        48.5763243
+                    ],
+                    [
+                        7.7540943,
+                        48.5762835
+                    ],
+                    [
+                        7.7541741,
+                        48.576194
+                    ],
+                    [
+                        7.7542736,
+                        48.5760816
+                    ],
+                    [
+                        7.7542917,
+                        48.5760424
+                    ],
+                    [
+                        7.7545549,
+                        48.5757029
+                    ],
+                    [
+                        7.7546327,
+                        48.5755679
+                    ],
+                    [
+                        7.7546927,
+                        48.5755093
+                    ],
+                    [
+                        7.7547981,
+                        48.5753057
+                    ],
+                    [
+                        7.7548628,
+                        48.575169
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "lcn": "yes",
+                "lit": "yes",
+                "name": "Rue de la Brigade Alsace-Lorraine",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40582719,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7547347,
+                        48.5751474
+                    ],
+                    [
+                        7.7546686,
+                        48.5753024
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Rue de la Brigade Alsace-Lorraine",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235053645,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7546686,
+                        48.5753024
+                    ],
+                    [
+                        7.7546265,
+                        48.5754597
+                    ],
+                    [
+                        7.7544928,
+                        48.5757019
+                    ],
+                    [
+                        7.7543788,
+                        48.5758638
+                    ],
+                    [
+                        7.7542055,
+                        48.5760625
+                    ],
+                    [
+                        7.7541165,
+                        48.5761673
+                    ],
+                    [
+                        7.7540394,
+                        48.5762493
+                    ],
+                    [
+                        7.7539279,
+                        48.5763298
+                    ],
+                    [
+                        7.7538564,
+                        48.5764036
+                    ],
+                    [
+                        7.7535438,
+                        48.5768769
+                    ],
+                    [
+                        7.7534938,
+                        48.5769682
+                    ],
+                    [
+                        7.7533192,
+                        48.5773468
+                    ],
+                    [
+                        7.7531619,
+                        48.5774716
+                    ],
+                    [
+                        7.7530394,
+                        48.5775688
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Brigade Alsace-Lorraine",
+                "name:de": "Metzgertor",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 487893006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7534206,
+                        48.5776249
+                    ],
+                    [
+                        7.7534271,
+                        48.5775988
+                    ],
+                    [
+                        7.753584,
+                        48.5769731
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "foot": "yes",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "horse": "no",
+                "lit": "yes",
+                "name": "Rue de la Brigade Alsace-Lorraine",
+                "name:de": "Metzgertor",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

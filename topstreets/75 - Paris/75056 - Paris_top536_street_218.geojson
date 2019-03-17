@@ -1,0 +1,127 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22956648,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.365556,
+                        48.8474791
+                    ],
+                    [
+                        2.3658167,
+                        48.847254
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:forward": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Morland",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22956670,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3658167,
+                        48.847254
+                    ],
+                    [
+                        2.3660289,
+                        48.8470984
+                    ],
+                    [
+                        2.366178,
+                        48.8469718
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Morland",
+                "surface": "asphalt",
+                "wikidata": "Q3396657",
+                "wikipedia": "fr:Pont Morland",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22956671,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.366178,
+                        48.8469718
+                    ],
+                    [
+                        2.366417,
+                        48.8467844
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:forward": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Morland",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30173241,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3658778,
+                        48.8473053
+                    ],
+                    [
+                        2.3661824,
+                        48.8470849
+                    ],
+                    [
+                        2.3662991,
+                        48.8469832
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "sidewalk",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "Pont Morland",
+                "wikidata": "Q3396657",
+                "wikipedia": "fr:Pont Morland",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

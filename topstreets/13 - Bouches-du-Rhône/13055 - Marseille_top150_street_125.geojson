@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 144168986,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3948786,
+                        43.276204
+                    ],
+                    [
+                        5.3952424,
+                        43.2775191
+                    ],
+                    [
+                        5.3953285,
+                        43.2778431
+                    ],
+                    [
+                        5.3953979,
+                        43.2781046
+                    ],
+                    [
+                        5.3954273,
+                        43.2782214
+                    ],
+                    [
+                        5.3956171,
+                        43.2789383
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Maillane",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 326332577,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3956171,
+                        43.2789383
+                    ],
+                    [
+                        5.3958233,
+                        43.2792044
+                    ],
+                    [
+                        5.3958694,
+                        43.2792765
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Maillane",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

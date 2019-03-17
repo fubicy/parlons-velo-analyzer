@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 58416043,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1901391,
+                        48.6926366
+                    ],
+                    [
+                        6.1925518,
+                        48.6917798
+                    ],
+                    [
+                        6.1926158,
+                        48.6917571
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "cycleway:right:width": "0.87",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue du Tapis Vert",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58490688,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1936166,
+                        48.6913799
+                    ],
+                    [
+                        6.1931086,
+                        48.6915722
+                    ],
+                    [
+                        6.1930342,
+                        48.6916004
+                    ],
+                    [
+                        6.1928412,
+                        48.691707
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Tapis Vert",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 609413449,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1926158,
+                        48.6917571
+                    ],
+                    [
+                        6.1926489,
+                        48.6917224
+                    ],
+                    [
+                        6.1926815,
+                        48.6916685
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue du Tapis Vert",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

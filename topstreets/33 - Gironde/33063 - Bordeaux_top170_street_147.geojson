@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 171818693,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5750652,
+                        44.8461847
+                    ],
+                    [
+                        -0.5750921,
+                        44.8463225
+                    ],
+                    [
+                        -0.5751609,
+                        44.8467224
+                    ],
+                    [
+                        -0.5751905,
+                        44.8468817
+                    ],
+                    [
+                        -0.5752118,
+                        44.8470095
+                    ],
+                    [
+                        -0.5753429,
+                        44.8477016
+                    ],
+                    [
+                        -0.5753668,
+                        44.8478273
+                    ],
+                    [
+                        -0.5753905,
+                        44.8479503
+                    ],
+                    [
+                        -0.5755087,
+                        44.8485573
+                    ],
+                    [
+                        -0.5755217,
+                        44.8486357
+                    ],
+                    [
+                        -0.5755278,
+                        44.8486725
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Cours du Mar\u00e9chal Foch",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181001901,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5755278,
+                        44.8486725
+                    ],
+                    [
+                        -0.5755476,
+                        44.8487919
+                    ],
+                    [
+                        -0.5756686,
+                        44.8488332
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Cours du Mar\u00e9chal Foch",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

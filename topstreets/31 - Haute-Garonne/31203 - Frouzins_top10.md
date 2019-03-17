@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 30 réponses dont 17 réponses avec une rue
 
 11 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Route de Plaisance | 3 | 10% | <img src="../../img/bar_17.gif" />&nbsp;17%|
-| Route de Seysses | 2 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Avenue du Chêne Vert | 2 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Avenue des Pyrénées | 2 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Avenue de Gascogne | 2 | 6% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Rue du Vieux Moulin | 1 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Route de Plaisance du Touch | 1 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Route de Fonsorbes | 1 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Chemin de Treville | 1 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Boulevard de la Méditerranée | 1 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| **Total** | 16 | 53% | 94%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Route de Plaisance | 3 | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| Route de Seysses | 2 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Avenue du Chêne Vert | 2 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Avenue des Pyrénées | 2 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Avenue de Gascogne | 2 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Rue du Vieux Moulin | 1 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Route de Plaisance du Touch | 1 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Route de Fonsorbes | 1 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Chemin de Treville | 1 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Boulevard de la Méditerranée | 1 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| **Total** | 16 | 100%|

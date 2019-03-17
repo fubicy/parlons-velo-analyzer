@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 142975845,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5658295,
+                        47.2160733
+                    ],
+                    [
+                        -1.5658765,
+                        47.2160293
+                    ],
+                    [
+                        -1.5659006,
+                        47.2160067
+                    ],
+                    [
+                        -1.5669153,
+                        47.215056
+                    ],
+                    [
+                        -1.5673184,
+                        47.2147063
+                    ],
+                    [
+                        -1.5674796,
+                        47.2145653
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Bertrand Geslin",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

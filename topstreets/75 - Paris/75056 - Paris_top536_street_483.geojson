@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 299518561,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3205058,
+                        48.8426165
+                    ],
+                    [
+                        2.3205321,
+                        48.842375
+                    ],
+                    [
+                        2.3205083,
+                        48.8422683
+                    ],
+                    [
+                        2.3204926,
+                        48.8421923
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Place Bienven\u00fce",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

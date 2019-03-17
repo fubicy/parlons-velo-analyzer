@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4222981,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8310601,
+                        45.7518978
+                    ],
+                    [
+                        4.8297575,
+                        45.75226
+                    ],
+                    [
+                        4.8289964,
+                        45.7524733
+                    ],
+                    [
+                        4.8288439,
+                        45.752516
+                    ],
+                    [
+                        4.828083,
+                        45.7527156
+                    ],
+                    [
+                        4.8270421,
+                        45.7530074
+                    ],
+                    [
+                        4.8269712,
+                        45.7530273
+                    ],
+                    [
+                        4.826913,
+                        45.7530436
+                    ],
+                    [
+                        4.8259159,
+                        45.7533232
+                    ],
+                    [
+                        4.8257658,
+                        45.7533653
+                    ],
+                    [
+                        4.8251311,
+                        45.7535343
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Franklin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 525211190,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8325212,
+                        45.7514988
+                    ],
+                    [
+                        4.8310601,
+                        45.7518978
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Franklin",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

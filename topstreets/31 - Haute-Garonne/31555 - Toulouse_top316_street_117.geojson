@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22812139,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4741588,
+                        43.5839254
+                    ],
+                    [
+                        1.4739768,
+                        43.5838575
+                    ],
+                    [
+                        1.473055,
+                        43.5829485
+                    ],
+                    [
+                        1.4728638,
+                        43.5827215
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de l'Est",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

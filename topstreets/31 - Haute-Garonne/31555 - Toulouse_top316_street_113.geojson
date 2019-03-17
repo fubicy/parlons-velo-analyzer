@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 42607684,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4505505,
+                        43.5836641
+                    ],
+                    [
+                        1.4505037,
+                        43.5836778
+                    ],
+                    [
+                        1.4498328,
+                        43.583874
+                    ],
+                    [
+                        1.449059,
+                        43.5840889
+                    ],
+                    [
+                        1.4489323,
+                        43.5841241
+                    ],
+                    [
+                        1.4487238,
+                        43.5841856
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Delacourtie",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 191047444,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.449173,
+                        43.5835566
+                    ],
+                    [
+                        1.4492432,
+                        43.5835403
+                    ],
+                    [
+                        1.4494786,
+                        43.5836307
+                    ],
+                    [
+                        1.449525,
+                        43.583691
+                    ],
+                    [
+                        1.4497831,
+                        43.5837953
+                    ],
+                    [
+                        1.4497996,
+                        43.5838214
+                    ],
+                    [
+                        1.4498328,
+                        43.583874
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "private",
+                "highway": "service",
+                "name": "Boulevard Delacourtie",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223071403,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4480489,
+                        43.5843879
+                    ],
+                    [
+                        1.4479353,
+                        43.584407
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Delacourtie",
+                "oneway": "yes",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223071405,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4487238,
+                        43.5841856
+                    ],
+                    [
+                        1.4486123,
+                        43.5842349
+                    ],
+                    [
+                        1.4481141,
+                        43.5843711
+                    ],
+                    [
+                        1.4480489,
+                        43.5843879
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Delacourtie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223071406,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4479856,
+                        43.5843033
+                    ],
+                    [
+                        1.4480868,
+                        43.5842904
+                    ],
+                    [
+                        1.4482099,
+                        43.5842754
+                    ],
+                    [
+                        1.4486255,
+                        43.584195
+                    ],
+                    [
+                        1.4487238,
+                        43.5841856
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Delacourtie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

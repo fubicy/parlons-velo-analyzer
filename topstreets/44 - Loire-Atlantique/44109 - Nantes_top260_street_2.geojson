@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 509605890,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5555458,
+                        47.214478
+                    ],
+                    [
+                        -1.5557637,
+                        47.2147276
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Commerce",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "COM57;COMF1",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 509605891,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.555877,
+                        47.2146856
+                    ],
+                    [
+                        -1.5556537,
+                        47.2144301
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Commerce",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "COM56;COME3",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

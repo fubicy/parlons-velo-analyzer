@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22746861,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6919224,
+                        47.390786
+                    ],
+                    [
+                        0.6919032,
+                        47.3908344
+                    ],
+                    [
+                        0.6915,
+                        47.3916644
+                    ],
+                    [
+                        0.6914805,
+                        47.3917053
+                    ],
+                    [
+                        0.6908865,
+                        47.3929476
+                    ],
+                    [
+                        0.6908223,
+                        47.3930833
+                    ],
+                    [
+                        0.6907303,
+                        47.3932283
+                    ],
+                    [
+                        0.6904529,
+                        47.3936653
+                    ],
+                    [
+                        0.690443,
+                        47.3936809
+                    ],
+                    [
+                        0.6904194,
+                        47.393718
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Rue de Buffon",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Buffon",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

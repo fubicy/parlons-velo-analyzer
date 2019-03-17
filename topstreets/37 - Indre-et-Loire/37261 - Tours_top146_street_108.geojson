@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28676032,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6826379,
+                        47.3931699
+                    ],
+                    [
+                        0.6829023,
+                        47.3924323
+                    ],
+                    [
+                        0.6830488,
+                        47.3919624
+                    ],
+                    [
+                        0.6830684,
+                        47.3919094
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Descartes",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32503036,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0325928,
+                        47.2475031
+                    ],
+                    [
+                        6.0340191,
+                        47.2462542
+                    ],
+                    [
+                        6.034072,
+                        47.2462347
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:opposite": "lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Alexis Chopard",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32503076,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.034072,
+                        47.2462347
+                    ],
+                    [
+                        6.0341251,
+                        47.2462117
+                    ],
+                    [
+                        6.0341727,
+                        47.246188
+                    ],
+                    [
+                        6.0344837,
+                        47.2460144
+                    ],
+                    [
+                        6.0348841,
+                        47.2458053
+                    ],
+                    [
+                        6.0349553,
+                        47.2457824
+                    ],
+                    [
+                        6.0350993,
+                        47.2457589
+                    ],
+                    [
+                        6.035241,
+                        47.2457466
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Alexis Chopard",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35100294,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0325928,
+                        47.2475031
+                    ],
+                    [
+                        6.0313443,
+                        47.2489895
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Alexis Chopard",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 347594755,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0313443,
+                        47.2489895
+                    ],
+                    [
+                        6.0312736,
+                        47.2490612
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Alexis Chopard",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

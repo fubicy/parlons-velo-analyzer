@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28363325,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1907984,
+                        48.9179301
+                    ],
+                    [
+                        2.1932099,
+                        48.9167737
+                    ]
+                ]
+            },
+            "properties": {
+                "created_by": "Potlatch 0.10f",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Tonkin",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28363358,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1932099,
+                        48.9167737
+                    ],
+                    [
+                        2.194545,
+                        48.9161445
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Tonkin",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

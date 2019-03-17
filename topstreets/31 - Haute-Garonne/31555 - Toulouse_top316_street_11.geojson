@@ -1,0 +1,220 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5210221,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4373557,
+                        43.5990259
+                    ],
+                    [
+                        1.4372033,
+                        43.598998
+                    ],
+                    [
+                        1.4366888,
+                        43.5989022
+                    ],
+                    [
+                        1.4365363,
+                        43.5988741
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de la R\u00e9publique",
+                "name:oc": "Carri\u00e8ra de la Republica",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "source:name:oc": "ToulouseMetropole",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61566630,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4365363,
+                        43.5988741
+                    ],
+                    [
+                        1.4363372,
+                        43.5988366
+                    ],
+                    [
+                        1.4361546,
+                        43.598802
+                    ],
+                    [
+                        1.4358615,
+                        43.5987465
+                    ],
+                    [
+                        1.4347549,
+                        43.5985467
+                    ],
+                    [
+                        1.4346714,
+                        43.5985312
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de la R\u00e9publique",
+                "name:oc": "Carri\u00e8ra de la Republica",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee_per_hour": "12\u20ac",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:residents": "LA GRAVE",
+                "parking:condition:both:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 hours",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "parallel",
+                "parking:lane:both:capacity": "15",
+                "parking:lane:both:parallel": "on_street",
+                "source:name:oc": "Donn\u00e9es Toulouse M\u00e9tropole",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 640388568,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4346714,
+                        43.5985312
+                    ],
+                    [
+                        1.4342434,
+                        43.5984518
+                    ],
+                    [
+                        1.4340867,
+                        43.5984227
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de la R\u00e9publique",
+                "name:oc": "Carri\u00e8ra de la Republica",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "parking:condition:right": "ticket",
+                "parking:condition:right:2": "ticket",
+                "parking:condition:right:2:fee_per_hour": "12\u20ac",
+                "parking:condition:right:2:maxstay": "2.5 hours",
+                "parking:condition:right:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:right:3": "residents",
+                "parking:condition:right:3:residents": "LA GRAVE",
+                "parking:condition:right:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:right:default": "free",
+                "parking:condition:right:fee_per_hour": "1.5\u20ac",
+                "parking:condition:right:maxstay": "2 hours",
+                "parking:condition:right:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "parallel",
+                "parking:lane:right:capacity": "3",
+                "parking:lane:right:parallel": "on_street",
+                "source:name:oc": "Donn\u00e9es Toulouse M\u00e9tropole",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 640388571,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4340867,
+                        43.5984227
+                    ],
+                    [
+                        1.4328567,
+                        43.5981965
+                    ],
+                    [
+                        1.432238,
+                        43.5980932
+                    ],
+                    [
+                        1.4321623,
+                        43.5980889
+                    ],
+                    [
+                        1.4320149,
+                        43.5980829
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de la R\u00e9publique",
+                "name:oc": "Carri\u00e8ra de la Republica",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee_per_hour": "12\u20ac",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:residents": "LA GRAVE",
+                "parking:condition:both:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 hours",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "parallel",
+                "parking:lane:both:capacity": "15",
+                "parking:lane:both:parallel": "on_street",
+                "source:name:oc": "Donn\u00e9es Toulouse M\u00e9tropole",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

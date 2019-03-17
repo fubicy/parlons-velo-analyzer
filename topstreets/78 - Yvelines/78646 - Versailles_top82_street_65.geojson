@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8032033,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1332733,
+                        48.7876767
+                    ],
+                    [
+                        2.1332981,
+                        48.7877684
+                    ],
+                    [
+                        2.1333148,
+                        48.7877985
+                    ],
+                    [
+                        2.1333497,
+                        48.7878613
+                    ],
+                    [
+                        2.1335736,
+                        48.7882648
+                    ],
+                    [
+                        2.1336754,
+                        48.788417
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Louis Bl\u00e9riot",
+                "ref": "D 939",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

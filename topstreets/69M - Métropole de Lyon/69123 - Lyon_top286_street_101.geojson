@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4378865,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8341954,
+                        45.7633728
+                    ],
+                    [
+                        4.8342983,
+                        45.7633792
+                    ],
+                    [
+                        4.8343611,
+                        45.7633831
+                    ],
+                    [
+                        4.8344423,
+                        45.7633873
+                    ],
+                    [
+                        4.8350674,
+                        45.76342
+                    ],
+                    [
+                        4.8356961,
+                        45.7634605
+                    ],
+                    [
+                        4.8358241,
+                        45.7634688
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:right": "shared_lane",
+                "cycleway:right:lane": "pictogram",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Grenette",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 522736236,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8320011,
+                        45.7632511
+                    ],
+                    [
+                        4.8321325,
+                        45.7632646
+                    ],
+                    [
+                        4.8326414,
+                        45.7632947
+                    ],
+                    [
+                        4.8332663,
+                        45.7633267
+                    ],
+                    [
+                        4.8341164,
+                        45.7633689
+                    ],
+                    [
+                        4.8341954,
+                        45.7633728
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue Grenette",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

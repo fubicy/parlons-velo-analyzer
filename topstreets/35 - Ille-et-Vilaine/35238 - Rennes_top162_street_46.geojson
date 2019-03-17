@@ -1,0 +1,287 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4900508,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6662208,
+                        48.1162791
+                    ],
+                    [
+                        -1.6660326,
+                        48.1162729
+                    ],
+                    [
+                        -1.6659465,
+                        48.11627
+                    ],
+                    [
+                        -1.665889,
+                        48.1162681
+                    ],
+                    [
+                        -1.6655156,
+                        48.1162558
+                    ],
+                    [
+                        -1.6648099,
+                        48.1162182
+                    ],
+                    [
+                        -1.6646485,
+                        48.1162144
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Boulevard de S\u00e9vign\u00e9",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4900652,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6738579,
+                        48.1164122
+                    ],
+                    [
+                        -1.6725778,
+                        48.1163826
+                    ],
+                    [
+                        -1.6712414,
+                        48.1163554
+                    ],
+                    [
+                        -1.6709972,
+                        48.1163508
+                    ],
+                    [
+                        -1.6708232,
+                        48.1163492
+                    ],
+                    [
+                        -1.6684587,
+                        48.1162934
+                    ],
+                    [
+                        -1.6683835,
+                        48.1162918
+                    ],
+                    [
+                        -1.6682953,
+                        48.1162912
+                    ],
+                    [
+                        -1.667668,
+                        48.116287
+                    ],
+                    [
+                        -1.6666406,
+                        48.1162802
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "1",
+                "name": "Boulevard de S\u00e9vign\u00e9",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 339949890,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6646485,
+                        48.1162144
+                    ],
+                    [
+                        -1.6645438,
+                        48.116213
+                    ],
+                    [
+                        -1.6636065,
+                        48.1162017
+                    ],
+                    [
+                        -1.6635053,
+                        48.1162007
+                    ],
+                    [
+                        -1.6623782,
+                        48.1161819
+                    ],
+                    [
+                        -1.6622911,
+                        48.1161796
+                    ],
+                    [
+                        -1.6613637,
+                        48.1161551
+                    ],
+                    [
+                        -1.6612639,
+                        48.1161516
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Boulevard de S\u00e9vign\u00e9",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 405985218,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6666406,
+                        48.1162802
+                    ],
+                    [
+                        -1.6664879,
+                        48.1162595
+                    ],
+                    [
+                        -1.6664338,
+                        48.1162587
+                    ],
+                    [
+                        -1.6663828,
+                        48.1162579
+                    ],
+                    [
+                        -1.6662208,
+                        48.1162791
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed:type": "FR:urban",
+                "name": "Boulevard de S\u00e9vign\u00e9",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 405985219,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6741496,
+                        48.1164893
+                    ],
+                    [
+                        -1.6740144,
+                        48.1164275
+                    ],
+                    [
+                        -1.6739804,
+                        48.1164184
+                    ],
+                    [
+                        -1.6739531,
+                        48.1164154
+                    ],
+                    [
+                        -1.6738579,
+                        48.1164122
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "disused:boundary": "political",
+                "disused:political_division": "canton",
+                "highway": "tertiary",
+                "name": "Boulevard de S\u00e9vign\u00e9",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "data.rennes-metropole.fr - ville de Rennes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 474234818,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6612639,
+                        48.1161516
+                    ],
+                    [
+                        -1.658607,
+                        48.1161274
+                    ],
+                    [
+                        -1.6585158,
+                        48.1161322
+                    ],
+                    [
+                        -1.6584626,
+                        48.1161392
+                    ],
+                    [
+                        -1.6583876,
+                        48.1161512
+                    ],
+                    [
+                        -1.6582932,
+                        48.1161669
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Boulevard de S\u00e9vign\u00e9",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

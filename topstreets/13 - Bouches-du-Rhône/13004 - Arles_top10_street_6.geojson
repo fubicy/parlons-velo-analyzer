@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 80185988,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.6303213,
+                        43.6794856
+                    ],
+                    [
+                        4.630415,
+                        43.6794814
+                    ],
+                    [
+                        4.6310055,
+                        43.6796608
+                    ],
+                    [
+                        4.6310901,
+                        43.6796664
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "name": "Rue du 4 Septembre",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155066864,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.6303213,
+                        43.6794856
+                    ],
+                    [
+                        4.6302644,
+                        43.6794483
+                    ],
+                    [
+                        4.6298251,
+                        43.6792814
+                    ],
+                    [
+                        4.6294544,
+                        43.679078
+                    ],
+                    [
+                        4.6291382,
+                        43.678936
+                    ],
+                    [
+                        4.6289366,
+                        43.6788596
+                    ],
+                    [
+                        4.6288527,
+                        43.6788407
+                    ],
+                    [
+                        4.6284061,
+                        43.6787601
+                    ],
+                    [
+                        4.628159,
+                        43.6787176
+                    ],
+                    [
+                        4.6276274,
+                        43.6787217
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "service",
+                "maxspeed": "20",
+                "name": "Rue du 4 Septembre",
+                "old_name": "Rue Sainte-Luce",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

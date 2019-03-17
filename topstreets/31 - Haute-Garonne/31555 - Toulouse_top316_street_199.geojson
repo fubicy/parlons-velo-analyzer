@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23346672,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4354466,
+                        43.6211357
+                    ],
+                    [
+                        1.4355153,
+                        43.6211436
+                    ],
+                    [
+                        1.4356125,
+                        43.6211537
+                    ],
+                    [
+                        1.4370431,
+                        43.6213034
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Villemur",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

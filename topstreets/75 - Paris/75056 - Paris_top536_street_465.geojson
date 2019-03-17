@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 286551,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.357066,
+                        48.8524438
+                    ],
+                    [
+                        2.3570834,
+                        48.852468
+                    ],
+                    [
+                        2.3571044,
+                        48.8524968
+                    ],
+                    [
+                        2.3571243,
+                        48.8525232
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Pont Marie",
+                "oneway": "-1",
+                "source:maxspeed": "BMO Arr\u00eat\u00e9 n o 2018 P 12837",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17249298,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3577171,
+                        48.8532252
+                    ],
+                    [
+                        2.3578164,
+                        48.8533327
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Pont Marie",
+                "source:maxspeed": "BMO Arr\u00eat\u00e9  n o   2018  P  12837",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17249305,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3571243,
+                        48.8525232
+                    ],
+                    [
+                        2.3577171,
+                        48.8532252
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "hgv": "no",
+                "highway": "residential",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Pont Marie",
+                "note": "bus RATP autoris\u00e9s",
+                "source": "BMO Arr\u00eat\u00e9  n o   2018  P  12837",
+                "surface": "asphalt",
+                "wikidata": "Q963509",
+                "wikipedia": "fr:Pont Marie",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

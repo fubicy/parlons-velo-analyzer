@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 127998851,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8281642,
+                        46.304875
+                    ],
+                    [
+                        4.8278428,
+                        46.3045273
+                    ],
+                    [
+                        4.827563,
+                        46.3042047
+                    ],
+                    [
+                        4.8270302,
+                        46.3036167
+                    ],
+                    [
+                        4.8269664,
+                        46.3035891
+                    ],
+                    [
+                        4.8268818,
+                        46.3035507
+                    ],
+                    [
+                        4.8268332,
+                        46.3035287
+                    ]
+                ]
+            },
+            "properties": {
+                "bus:lanes:forward": "designated",
+                "cycleway:forward": "shared_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169308592,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8291332,
+                        46.3060678
+                    ],
+                    [
+                        4.8290692,
+                        46.3059692
+                    ],
+                    [
+                        4.8289972,
+                        46.3058695
+                    ],
+                    [
+                        4.8287744,
+                        46.3056181
+                    ],
+                    [
+                        4.8285355,
+                        46.305287
+                    ],
+                    [
+                        4.828433,
+                        46.3051664
+                    ],
+                    [
+                        4.8281642,
+                        46.304875
+                    ]
+                ]
+            },
+            "properties": {
+                "bus:lanes:backward": "designated",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

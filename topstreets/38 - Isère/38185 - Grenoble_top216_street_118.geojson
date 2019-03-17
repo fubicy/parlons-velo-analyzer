@@ -1,0 +1,258 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8015624,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7180928,
+                        45.1982772
+                    ],
+                    [
+                        5.7179939,
+                        45.198404
+                    ],
+                    [
+                        5.7179144,
+                        45.1984956
+                    ],
+                    [
+                        5.7177245,
+                        45.1987542
+                    ],
+                    [
+                        5.7176274,
+                        45.1988864
+                    ],
+                    [
+                        5.7176039,
+                        45.1989429
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Route de Lyon",
+                "ref": "D 1075",
+                "ref:FR:FANTOIR": "381854571R",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173094530,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7188762,
+                        45.1963157
+                    ],
+                    [
+                        5.7189108,
+                        45.196194
+                    ],
+                    [
+                        5.7189851,
+                        45.1959208
+                    ],
+                    [
+                        5.7190045,
+                        45.1958605
+                    ],
+                    [
+                        5.7190264,
+                        45.1957926
+                    ],
+                    [
+                        5.7190446,
+                        45.1957293
+                    ],
+                    [
+                        5.7190538,
+                        45.1956975
+                    ],
+                    [
+                        5.7190812,
+                        45.1955327
+                    ],
+                    [
+                        5.7190897,
+                        45.1953718
+                    ],
+                    [
+                        5.7190929,
+                        45.1953117
+                    ],
+                    [
+                        5.7191165,
+                        45.1949693
+                    ],
+                    [
+                        5.719122,
+                        45.1948903
+                    ],
+                    [
+                        5.7191263,
+                        45.1948251
+                    ],
+                    [
+                        5.7191303,
+                        45.1947655
+                    ],
+                    [
+                        5.7191466,
+                        45.1944528
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Route de Lyon",
+                "ref": "D 1075",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220646213,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7184976,
+                        45.1975024
+                    ],
+                    [
+                        5.7185213,
+                        45.1974313
+                    ],
+                    [
+                        5.7188762,
+                        45.1963157
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Route de Lyon",
+                "ref": "D 1075",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 290337749,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7176039,
+                        45.1989429
+                    ],
+                    [
+                        5.7175492,
+                        45.198996
+                    ],
+                    [
+                        5.7174908,
+                        45.1990201
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Route de Lyon",
+                "ref": "D 1075",
+                "ref:FR:FANTOIR": "381854571R",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 343405656,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7174908,
+                        45.1990201
+                    ],
+                    [
+                        5.7174124,
+                        45.1990833
+                    ],
+                    [
+                        5.7173444,
+                        45.1991753
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Route de Lyon",
+                "oneway": "yes",
+                "ref": "D 1075",
+                "ref:FR:FANTOIR": "381854571R",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 343963079,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7175492,
+                        45.198996
+                    ],
+                    [
+                        5.7173212,
+                        45.1993234
+                    ],
+                    [
+                        5.7173037,
+                        45.199459
+                    ],
+                    [
+                        5.7172845,
+                        45.1995958
+                    ],
+                    [
+                        5.7172393,
+                        45.1996482
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Route de Lyon",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

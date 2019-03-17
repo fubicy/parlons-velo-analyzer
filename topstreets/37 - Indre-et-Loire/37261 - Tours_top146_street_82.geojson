@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 283484155,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.698491,
+                        47.3596709
+                    ],
+                    [
+                        0.6982489,
+                        47.3595959
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Alouette",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 283484156,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6986086,
+                        47.3596137
+                    ],
+                    [
+                        0.6987831,
+                        47.3597203
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Alouette",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

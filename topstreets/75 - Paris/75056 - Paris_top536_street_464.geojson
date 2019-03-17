@@ -1,0 +1,98 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10427193,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2769366,
+                        48.8460845
+                    ],
+                    [
+                        2.2768391,
+                        48.8461304
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Pont Mirabeau",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86424728,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2745283,
+                        48.8470976
+                    ],
+                    [
+                        2.274423,
+                        48.8471424
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Pont Mirabeau",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 244669308,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2768391,
+                        48.8461304
+                    ],
+                    [
+                        2.27663,
+                        48.8462178
+                    ],
+                    [
+                        2.2746009,
+                        48.8470669
+                    ],
+                    [
+                        2.2745283,
+                        48.8470976
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont Mirabeau",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q291093",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 158090886,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8530829,
+                        46.7840389
+                    ],
+                    [
+                        4.8532373,
+                        46.7840955
+                    ],
+                    [
+                        4.8538234,
+                        46.7843192
+                    ],
+                    [
+                        4.854439,
+                        46.7845541
+                    ],
+                    [
+                        4.8544942,
+                        46.7845752
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue du Palais de Justice",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 213921810,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8542996,
+                        46.7848381
+                    ],
+                    [
+                        4.8542405,
+                        46.784817
+                    ],
+                    [
+                        4.8541958,
+                        46.784801
+                    ],
+                    [
+                        4.8530465,
+                        46.7843983
+                    ],
+                    [
+                        4.852932,
+                        46.7843526
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "designated",
+                "bicycle": "designated",
+                "bus": "yes",
+                "busway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue du Palais de Justice",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

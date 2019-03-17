@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26484109,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1839319,
+                        48.6912374
+                    ],
+                    [
+                        6.1839515,
+                        48.6912025
+                    ],
+                    [
+                        6.1839671,
+                        48.6911742
+                    ],
+                    [
+                        6.1843671,
+                        48.6902634
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Pont Mouja",
+                "oneway": "yes",
+                "source": "survey",
+                "source:maxspeed": "FR:zone30",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

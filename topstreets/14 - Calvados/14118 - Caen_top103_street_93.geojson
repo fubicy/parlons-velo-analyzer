@@ -1,0 +1,279 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4315984,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3634066,
+                        49.1779642
+                    ],
+                    [
+                        -0.3635589,
+                        49.1780089
+                    ],
+                    [
+                        -0.363646,
+                        49.1780486
+                    ],
+                    [
+                        -0.3637733,
+                        49.1781067
+                    ],
+                    [
+                        -0.3639692,
+                        49.1782228
+                    ],
+                    [
+                        -0.3641449,
+                        49.1783516
+                    ],
+                    [
+                        -0.3643184,
+                        49.1784787
+                    ],
+                    [
+                        -0.3643667,
+                        49.1785142
+                    ],
+                    [
+                        -0.3644104,
+                        49.1785464
+                    ],
+                    [
+                        -0.3649459,
+                        49.1789405
+                    ],
+                    [
+                        -0.3649953,
+                        49.1789769
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "10",
+                "boundary": "administrative",
+                "highway": "tertiary",
+                "lanes": "1",
+                "name": "Boulevard Aristide Briand",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2014",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28679595,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.363905,
+                        49.1779011
+                    ],
+                    [
+                        -0.3638424,
+                        49.1779566
+                    ],
+                    [
+                        -0.3638103,
+                        49.1780182
+                    ],
+                    [
+                        -0.3638059,
+                        49.1780529
+                    ],
+                    [
+                        -0.3638227,
+                        49.1780946
+                    ],
+                    [
+                        -0.3638578,
+                        49.1781268
+                    ],
+                    [
+                        -0.3639692,
+                        49.1782228
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary_link",
+                "lanes": "1",
+                "name": "Boulevard Aristide Briand",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171570657,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3634066,
+                        49.1779642
+                    ],
+                    [
+                        -0.3630833,
+                        49.1780061
+                    ],
+                    [
+                        -0.362813,
+                        49.1780622
+                    ],
+                    [
+                        -0.3626595,
+                        49.178099
+                    ],
+                    [
+                        -0.3624067,
+                        49.1781656
+                    ],
+                    [
+                        -0.3621619,
+                        49.1782359
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "name": "Boulevard Aristide Briand",
+                "surface": "asphalt",
+                "turn:lanes:backward": "merge_to_right|through",
+                "turn:lanes:forward": "left;through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385668120,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3649953,
+                        49.1789769
+                    ],
+                    [
+                        -0.364996,
+                        49.1791069
+                    ],
+                    [
+                        -0.3649967,
+                        49.1791443
+                    ],
+                    [
+                        -0.3649983,
+                        49.1791615
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "10",
+                "boundary": "administrative",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard Aristide Briand",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2014",
+                "surface": "asphalt",
+                "turn:lanes": "left|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547303121,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3614858,
+                        49.1785274
+                    ],
+                    [
+                        -0.3616241,
+                        49.1784584
+                    ],
+                    [
+                        -0.3621103,
+                        49.1782735
+                    ],
+                    [
+                        -0.3621619,
+                        49.1782359
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard Aristide Briand",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through|through",
+                "turn:lanes:forward": "merge_to_right|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 583754038,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3621619,
+                        49.1782359
+                    ],
+                    [
+                        -0.3620332,
+                        49.1782529
+                    ],
+                    [
+                        -0.361596,
+                        49.1784058
+                    ],
+                    [
+                        -0.3615873,
+                        49.1784085
+                    ],
+                    [
+                        -0.3613468,
+                        49.1784337
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Aristide Briand",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

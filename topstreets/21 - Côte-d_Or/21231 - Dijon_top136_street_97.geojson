@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23343232,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0388455,
+                        47.3201403
+                    ],
+                    [
+                        5.0384348,
+                        47.3204363
+                    ],
+                    [
+                        5.0380826,
+                        47.3205954
+                    ],
+                    [
+                        5.0376883,
+                        47.320729
+                    ],
+                    [
+                        5.0370104,
+                        47.320884
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Piron",
+                "surface": "concrete",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

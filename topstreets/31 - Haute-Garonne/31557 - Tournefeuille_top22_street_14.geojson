@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30278985,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3237111,
+                        43.5908064
+                    ],
+                    [
+                        1.3235365,
+                        43.5907442
+                    ],
+                    [
+                        1.323166,
+                        43.5905665
+                    ],
+                    [
+                        1.3221465,
+                        43.590093
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Longchamp",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32142801,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.321748,
+                        43.5898969
+                    ],
+                    [
+                        1.3221465,
+                        43.590093
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Longchamp",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32939744,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0208958,
+                        47.2582536
+                    ],
+                    [
+                        6.0207988,
+                        47.2583749
+                    ],
+                    [
+                        6.0205261,
+                        47.2588121
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Violet",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35147490,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0173681,
+                        47.2588979
+                    ],
+                    [
+                        6.0175813,
+                        47.258886
+                    ],
+                    [
+                        6.018064,
+                        47.2588667
+                    ],
+                    [
+                        6.0182686,
+                        47.2588484
+                    ],
+                    [
+                        6.0188012,
+                        47.2587722
+                    ],
+                    [
+                        6.0188948,
+                        47.2587604
+                    ],
+                    [
+                        6.0196026,
+                        47.2586708
+                    ],
+                    [
+                        6.019963,
+                        47.2586364
+                    ],
+                    [
+                        6.0201733,
+                        47.2586822
+                    ],
+                    [
+                        6.0205261,
+                        47.2588121
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Violet",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

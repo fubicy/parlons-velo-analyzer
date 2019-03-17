@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30998532,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3988642,
+                        43.6362316
+                    ],
+                    [
+                        1.3991631,
+                        43.6358927
+                    ],
+                    [
+                        1.3993363,
+                        43.6356712
+                    ],
+                    [
+                        1.3994535,
+                        43.6355081
+                    ],
+                    [
+                        1.3995068,
+                        43.6354246
+                    ],
+                    [
+                        1.3995492,
+                        43.6353425
+                    ],
+                    [
+                        1.3995804,
+                        43.635238
+                    ],
+                    [
+                        1.3996178,
+                        43.6349636
+                    ],
+                    [
+                        1.3996144,
+                        43.6348134
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "cycleway:right": "shared_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Bacqui\u00e9-Fonade",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

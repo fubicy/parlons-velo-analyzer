@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23055008,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4165995,
+                        48.8915147
+                    ],
+                    [
+                        2.4164545,
+                        48.8915184
+                    ],
+                    [
+                        2.4157606,
+                        48.891536
+                    ],
+                    [
+                        2.4142161,
+                        48.8915988
+                    ],
+                    [
+                        2.4140896,
+                        48.8916039
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Jean Nicot",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97979554,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4140896,
+                        48.8916039
+                    ],
+                    [
+                        2.4141991,
+                        48.8915615
+                    ],
+                    [
+                        2.4157654,
+                        48.891498
+                    ],
+                    [
+                        2.4165105,
+                        48.8914749
+                    ],
+                    [
+                        2.4165995,
+                        48.8915147
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Rue Jean Nicot",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

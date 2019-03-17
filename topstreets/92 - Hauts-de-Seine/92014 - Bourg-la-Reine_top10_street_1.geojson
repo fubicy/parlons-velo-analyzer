@@ -1,0 +1,160 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 11289004,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3165659,
+                        48.7823992
+                    ],
+                    [
+                        2.3167004,
+                        48.7823116
+                    ],
+                    [
+                        2.3175029,
+                        48.7817853
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue de la Bi\u00e8vre",
+                "ref": "D 74",
+                "source:maxspeed": "sign",
+                "source_ref": "http://www.hauts-de-seine.fr/fileadmin/images/Cadredevie/Voirie/DV-RD_par_commune_v2_20150407.pdf",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 305641066,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3184106,
+                        48.7814093
+                    ],
+                    [
+                        2.3190009,
+                        48.7811967
+                    ],
+                    [
+                        2.3190994,
+                        48.7811631
+                    ],
+                    [
+                        2.3196775,
+                        48.7809598
+                    ],
+                    [
+                        2.3199625,
+                        48.7808833
+                    ],
+                    [
+                        2.3205327,
+                        48.7807503
+                    ],
+                    [
+                        2.3206754,
+                        48.7807224
+                    ],
+                    [
+                        2.321208,
+                        48.7806184
+                    ],
+                    [
+                        2.3213609,
+                        48.7805885
+                    ],
+                    [
+                        2.3220741,
+                        48.7804493
+                    ],
+                    [
+                        2.3221549,
+                        48.7804335
+                    ],
+                    [
+                        2.3228587,
+                        48.7802427
+                    ],
+                    [
+                        2.3229073,
+                        48.7802362
+                    ],
+                    [
+                        2.3239574,
+                        48.7800716
+                    ],
+                    [
+                        2.3243592,
+                        48.7800084
+                    ],
+                    [
+                        2.3246019,
+                        48.7799711
+                    ],
+                    [
+                        2.3248246,
+                        48.7799372
+                    ],
+                    [
+                        2.3250091,
+                        48.7799074
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de la Bi\u00e8vre",
+                "ref": "D 74",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 305641067,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3175029,
+                        48.7817853
+                    ],
+                    [
+                        2.3180208,
+                        48.7815643
+                    ],
+                    [
+                        2.3184106,
+                        48.7814093
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue de la Bi\u00e8vre",
+                "ref": "D 74",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

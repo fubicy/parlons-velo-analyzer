@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30409639,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3778589,
+                        48.820748
+                    ],
+                    [
+                        2.3777804,
+                        48.8205743
+                    ],
+                    [
+                        2.3775817,
+                        48.8201408
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Mirabeau",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "zone:maxspeed": "FR:30",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81450113,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3775817,
+                        48.8201408
+                    ],
+                    [
+                        2.3774615,
+                        48.8198785
+                    ],
+                    [
+                        2.3774575,
+                        48.8198625
+                    ],
+                    [
+                        2.3774582,
+                        48.8198462
+                    ],
+                    [
+                        2.3774681,
+                        48.8198026
+                    ],
+                    [
+                        2.3775101,
+                        48.8197056
+                    ],
+                    [
+                        2.377608,
+                        48.8195315
+                    ],
+                    [
+                        2.3780176,
+                        48.8187186
+                    ],
+                    [
+                        2.3780527,
+                        48.8186578
+                    ],
+                    [
+                        2.3780774,
+                        48.8186209
+                    ],
+                    [
+                        2.3783029,
+                        48.8183396
+                    ],
+                    [
+                        2.3787821,
+                        48.8177191
+                    ],
+                    [
+                        2.3794085,
+                        48.8169934
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Mirabeau",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

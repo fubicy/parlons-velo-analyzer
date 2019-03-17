@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 601745328,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7112265,
+                        47.3157534
+                    ],
+                    [
+                        0.7116834,
+                        47.314279
+                    ],
+                    [
+                        0.7118744,
+                        47.3136225
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Route Nationale 10",
+                "old_ref": "N 10",
+                "oneway": "yes",
+                "ref": "D 910",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 601745329,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7121648,
+                        47.3130467
+                    ],
+                    [
+                        0.7116941,
+                        47.3145488
+                    ],
+                    [
+                        0.711351,
+                        47.3156421
+                    ],
+                    [
+                        0.7111947,
+                        47.3161741
+                    ],
+                    [
+                        0.7108964,
+                        47.3171188
+                    ],
+                    [
+                        0.7106086,
+                        47.3181285
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Route Nationale 10",
+                "old_ref": "N 10",
+                "oneway": "yes",
+                "ref": "D 910",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

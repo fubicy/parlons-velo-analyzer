@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28548597,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2813074,
+                        48.7815173
+                    ],
+                    [
+                        2.2807335,
+                        48.7817704
+                    ],
+                    [
+                        2.2800709,
+                        48.7820485
+                    ],
+                    [
+                        2.2799749,
+                        48.7820492
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Mouilleboeufs",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "920716175H",
+                "source": "cadastre-dgi-fr source : Direction Generale des Impots - Cadastre. Mise a jour : 2016",
+                "zone:maxspeed": "FR:30",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

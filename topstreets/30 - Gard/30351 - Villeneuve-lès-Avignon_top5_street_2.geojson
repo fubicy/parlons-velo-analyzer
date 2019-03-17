@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 343768735,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7905052,
+                        43.9525442
+                    ],
+                    [
+                        4.7904947,
+                        43.9526116
+                    ],
+                    [
+                        4.7906939,
+                        43.9531395
+                    ],
+                    [
+                        4.7909414,
+                        43.9538155
+                    ],
+                    [
+                        4.7910287,
+                        43.9540539
+                    ],
+                    [
+                        4.7912967,
+                        43.9544933
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Route d'Aramon",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 445348853,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7912967,
+                        43.9544933
+                    ],
+                    [
+                        4.7913016,
+                        43.9545014
+                    ],
+                    [
+                        4.7913253,
+                        43.954543
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "name": "Route d'Aramon",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

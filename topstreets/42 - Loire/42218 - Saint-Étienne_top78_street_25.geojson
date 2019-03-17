@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28895499,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3877943,
+                        45.4396529
+                    ],
+                    [
+                        4.3888322,
+                        45.4397926
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Blanqui",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 210650068,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3888322,
+                        45.4397926
+                    ],
+                    [
+                        4.3896377,
+                        45.4398985
+                    ],
+                    [
+                        4.3908181,
+                        45.4400691
+                    ],
+                    [
+                        4.3909112,
+                        45.4400825
+                    ],
+                    [
+                        4.3910123,
+                        45.4400796
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Blanqui",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

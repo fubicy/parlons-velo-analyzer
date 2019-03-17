@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 147156933,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.549265,
+                        47.235207
+                    ],
+                    [
+                        -1.547774,
+                        47.2354236
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bridge": "yes",
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de la Torti\u00e8re",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

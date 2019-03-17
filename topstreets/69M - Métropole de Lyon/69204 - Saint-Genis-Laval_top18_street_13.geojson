@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 384240772,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8059076,
+                        45.6997365
+                    ],
+                    [
+                        4.8059926,
+                        45.6996311
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "H\u00f4pital Lyon Sud",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "40694",
+                "route_ref": "88B:A",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384240773,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8062454,
+                        45.6999331
+                    ],
+                    [
+                        4.8064186,
+                        45.7000007
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "H\u00f4pital Lyon Sud",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "1182;46082",
+                "route_ref": "17B:A,17B:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384240774,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8064824,
+                        45.6994798
+                    ],
+                    [
+                        4.8063527,
+                        45.69964
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "H\u00f4pital Lyon Sud",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "37014",
+                "route_ref": "C7B:A,C7B:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384240775,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.806323,
+                        45.6996712
+                    ],
+                    [
+                        4.8061944,
+                        45.6998292
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "H\u00f4pital Lyon Sud",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "40234",
+                "route_ref": "88B:A,88B:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

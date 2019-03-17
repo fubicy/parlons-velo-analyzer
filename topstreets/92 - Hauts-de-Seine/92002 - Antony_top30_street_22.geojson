@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26007607,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2921551,
+                        48.7543267
+                    ],
+                    [
+                        2.2921317,
+                        48.7544112
+                    ],
+                    [
+                        2.2915616,
+                        48.7552754
+                    ],
+                    [
+                        2.2914713,
+                        48.7554523
+                    ],
+                    [
+                        2.2914183,
+                        48.7555561
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Goutti\u00e8res",
+                "oneway": "yes",
+                "source": "Arret\u00e9 mairie d'Antony 2009",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26007609,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2914183,
+                        48.7555561
+                    ],
+                    [
+                        2.2913811,
+                        48.7556586
+                    ],
+                    [
+                        2.2910404,
+                        48.7565593
+                    ],
+                    [
+                        2.2907624,
+                        48.7570988
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Goutti\u00e8res",
+                "oneway": "no",
+                "source": "Arret\u00e9 mairie d'Antony 2009",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

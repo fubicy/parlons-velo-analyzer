@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 236013841,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8669893,
+                        44.9081088
+                    ],
+                    [
+                        4.8644775,
+                        44.9096895
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "bridge": "yes",
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "2",
+                "lit": "yes",
+                "maxspeed": "90",
+                "name": "Pont des L\u00f4nes",
+                "name:oc": "P\u00f2nt de las L\u00f2nas",
+                "oneway": "yes",
+                "ref": "D 96",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:rural",
+                "source:name:oc": "ieo-bdtopoc",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236013842,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8669171,
+                        44.9080542
+                    ],
+                    [
+                        4.8694286,
+                        44.9064737
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "2",
+                "lit": "yes",
+                "maxspeed": "90",
+                "name": "Pont des L\u00f4nes",
+                "name:oc": "P\u00f2nt de las L\u00f2nas",
+                "oneway": "yes",
+                "ref": "D 534N",
+                "source:name:oc": "ieo-bdtopoc",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 507939438,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8644073,
+                        44.9096335
+                    ],
+                    [
+                        4.8669171,
+                        44.9080542
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "2",
+                "lit": "yes",
+                "maxspeed": "90",
+                "name": "Pont des L\u00f4nes",
+                "oneway": "yes",
+                "ref": "D 96",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 507939449,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8694988,
+                        44.9065296
+                    ],
+                    [
+                        4.8669893,
+                        44.9081088
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "bridge": "yes",
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "2",
+                "lit": "yes",
+                "maxspeed": "90",
+                "name": "Pont des L\u00f4nes",
+                "oneway": "yes",
+                "ref": "D 534N",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2017",
+                "source:maxspeed": "FR:rural",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

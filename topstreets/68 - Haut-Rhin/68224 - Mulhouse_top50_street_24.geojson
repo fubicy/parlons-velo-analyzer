@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33696252,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3340627,
+                        47.7322535
+                    ],
+                    [
+                        7.3327747,
+                        47.7315522
+                    ],
+                    [
+                        7.3326973,
+                        47.7315418
+                    ],
+                    [
+                        7.3323943,
+                        47.7315806
+                    ],
+                    [
+                        7.3317978,
+                        47.7316104
+                    ],
+                    [
+                        7.3315749,
+                        47.7315944
+                    ],
+                    [
+                        7.3314723,
+                        47.7315583
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "alt_name": "Sentier du Bois",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Sentier au Bois",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

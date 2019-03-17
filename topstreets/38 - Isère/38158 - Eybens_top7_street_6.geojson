@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31558313,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.746515,
+                        45.1487092
+                    ],
+                    [
+                        5.7467019,
+                        45.1488477
+                    ],
+                    [
+                        5.7471226,
+                        45.1490895
+                    ],
+                    [
+                        5.7475213,
+                        45.1493077
+                    ],
+                    [
+                        5.7476657,
+                        45.1493029
+                    ],
+                    [
+                        5.747683,
+                        45.1493752
+                    ],
+                    [
+                        5.7475543,
+                        45.149416
+                    ],
+                    [
+                        5.7475213,
+                        45.1493077
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Impasse des Ruires",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

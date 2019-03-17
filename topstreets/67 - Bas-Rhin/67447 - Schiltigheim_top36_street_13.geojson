@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25484987,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7641147,
+                        48.6028199
+                    ],
+                    [
+                        7.764396,
+                        48.6023711
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "foot": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "L'Aar",
+                "note": "Absence de signalisation coh\u00e9rente sur terrain, Piste cyclable d\u2019apr\u00e8s l'Open Data ON3V",
+                "operator": "Eurom\u00e9tropole de Strasbourg",
+                "smoothness": "intermediate",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162535479,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7645592,
+                        48.602896
+                    ],
+                    [
+                        7.7647784,
+                        48.602586
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "footway",
+                "layer": "1",
+                "name": "L'Aar",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

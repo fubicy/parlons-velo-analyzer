@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24014540,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3595955,
+                        48.0766153
+                    ],
+                    [
+                        7.3600955,
+                        48.0764747
+                    ],
+                    [
+                        7.3602958,
+                        48.0768373
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue de l'H\u00f4pital",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24518490,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3602958,
+                        48.0768373
+                    ],
+                    [
+                        7.3603663,
+                        48.0769429
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "name": "Rue de l'H\u00f4pital",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

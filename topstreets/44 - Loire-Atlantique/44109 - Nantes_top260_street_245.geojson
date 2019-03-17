@@ -1,0 +1,885 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 20360663,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5418147,
+                        47.2180682
+                    ],
+                    [
+                        -1.5420186,
+                        47.2180344
+                    ],
+                    [
+                        -1.542341,
+                        47.2179755
+                    ],
+                    [
+                        -1.5428039,
+                        47.217891
+                    ],
+                    [
+                        -1.5428649,
+                        47.2178798
+                    ],
+                    [
+                        -1.5428949,
+                        47.2178744
+                    ],
+                    [
+                        -1.543097,
+                        47.2178448
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "designated",
+                "check_date": "2019-02-15",
+                "cycleway": "opposite_lane",
+                "foot": "designated",
+                "highway": "construction",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26770104,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5428144,
+                        47.2176816
+                    ],
+                    [
+                        -1.5419949,
+                        47.2178357
+                    ],
+                    [
+                        -1.5419378,
+                        47.2178464
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "road",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42751344,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5347591,
+                        47.2194041
+                    ],
+                    [
+                        -1.5348606,
+                        47.219384
+                    ],
+                    [
+                        -1.5348847,
+                        47.2193792
+                    ],
+                    [
+                        -1.5349509,
+                        47.2193666
+                    ],
+                    [
+                        -1.5363899,
+                        47.2190941
+                    ],
+                    [
+                        -1.5368145,
+                        47.2190137
+                    ],
+                    [
+                        -1.536866,
+                        47.2190039
+                    ],
+                    [
+                        -1.5369581,
+                        47.2189852
+                    ],
+                    [
+                        -1.5369759,
+                        47.2189818
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "admin_level": "11",
+                "bicycle": "designated",
+                "boundary": "administrative",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "no",
+                "parking:lane:left": "diagonal",
+                "political_division": "canton",
+                "ref": "D 68",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46722484,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5416915,
+                        47.218022
+                    ],
+                    [
+                        -1.5431385,
+                        47.2177178
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "track",
+                "foot": "no",
+                "hazard": "flood",
+                "highway": "tertiary",
+                "lanes": "2",
+                "layer": "-1",
+                "lit": "yes",
+                "maxheight": "4.2",
+                "maxspeed": "50",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "no",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46722485,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.539127,
+                        47.2185542
+                    ],
+                    [
+                        -1.5387143,
+                        47.2186393
+                    ],
+                    [
+                        -1.5386501,
+                        47.2186525
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "admin_level": "11",
+                "bicycle": "designated",
+                "boundary": "administrative",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "no",
+                "parking:condition:left": "free",
+                "parking:condition:left:capacity": "4",
+                "parking:condition:left:maxstay": "24 h",
+                "parking:lane:left": "marked",
+                "political_division": "canton",
+                "ref": "D 68",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104128429,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5339003,
+                        47.2195411
+                    ],
+                    [
+                        -1.5330665,
+                        47.2196982
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "ref": "D 68",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142342326,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.539127,
+                        47.2185542
+                    ],
+                    [
+                        -1.5396866,
+                        47.2184712
+                    ],
+                    [
+                        -1.5404524,
+                        47.2183325
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142380057,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5417516,
+                        47.2178828
+                    ],
+                    [
+                        -1.5415163,
+                        47.2179283
+                    ],
+                    [
+                        -1.5401488,
+                        47.2181895
+                    ],
+                    [
+                        -1.5387206,
+                        47.21846
+                    ],
+                    [
+                        -1.538577,
+                        47.2184895
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "service",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178211895,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5343325,
+                        47.2194841
+                    ],
+                    [
+                        -1.5341927,
+                        47.2194791
+                    ],
+                    [
+                        -1.5339003,
+                        47.2195411
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "ref": "D 68",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186116634,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5330912,
+                        47.2197599
+                    ],
+                    [
+                        -1.533219,
+                        47.2197322
+                    ],
+                    [
+                        -1.533447,
+                        47.219675
+                    ],
+                    [
+                        -1.5338963,
+                        47.2195859
+                    ],
+                    [
+                        -1.5342115,
+                        47.2195301
+                    ],
+                    [
+                        -1.5343325,
+                        47.2194841
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "ref": "D 68",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186116670,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5319224,
+                        47.2199205
+                    ],
+                    [
+                        -1.532006,
+                        47.2199473
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway": "no",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186116671,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5319837,
+                        47.2199788
+                    ],
+                    [
+                        -1.5320786,
+                        47.2199441
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "ref": "D 68",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 282943847,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5343325,
+                        47.2194841
+                    ],
+                    [
+                        -1.5347056,
+                        47.2194147
+                    ],
+                    [
+                        -1.5347591,
+                        47.2194041
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "admin_level": "11",
+                "bicycle": "designated",
+                "boundary": "administrative",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "no",
+                "parking:condition:right": "free",
+                "parking:condition:right:capacity": "3",
+                "parking:condition:right:maxstay": "24 h",
+                "parking:lane:right": "marked",
+                "political_division": "canton",
+                "ref": "D 68",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 371824453,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5386501,
+                        47.2186525
+                    ],
+                    [
+                        -1.5385569,
+                        47.218674
+                    ],
+                    [
+                        -1.5385023,
+                        47.2186834
+                    ],
+                    [
+                        -1.5384399,
+                        47.2186964
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "admin_level": "11",
+                "bicycle": "designated",
+                "boundary": "administrative",
+                "cycleway": "no",
+                "cycleway:left": "lane",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "no",
+                "political_division": "canton",
+                "ref": "D 68",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 555285958,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5384093,
+                        47.2185415
+                    ],
+                    [
+                        -1.5384044,
+                        47.2185558
+                    ],
+                    [
+                        -1.538399,
+                        47.2185718
+                    ],
+                    [
+                        -1.538398,
+                        47.2185868
+                    ],
+                    [
+                        -1.5383973,
+                        47.2185966
+                    ],
+                    [
+                        -1.5384049,
+                        47.2186222
+                    ],
+                    [
+                        -1.5384399,
+                        47.2186964
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "service",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "no",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 555285959,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5384093,
+                        47.2185415
+                    ],
+                    [
+                        -1.5384382,
+                        47.2185245
+                    ],
+                    [
+                        -1.5384717,
+                        47.2185111
+                    ],
+                    [
+                        -1.538577,
+                        47.2184895
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "service",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 565389064,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5419378,
+                        47.2178464
+                    ],
+                    [
+                        -1.5417516,
+                        47.2178828
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "footway",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "segregated": "no",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 565389065,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5430275,
+                        47.2176749
+                    ],
+                    [
+                        -1.5428144,
+                        47.2176816
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "road",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 669526663,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5404524,
+                        47.2183325
+                    ],
+                    [
+                        -1.5416329,
+                        47.2181065
+                    ],
+                    [
+                        -1.5418147,
+                        47.2180682
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "construction",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 669526664,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5369759,
+                        47.2189818
+                    ],
+                    [
+                        -1.5384399,
+                        47.2186964
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "admin_level": "11",
+                "bicycle": "designated",
+                "boundary": "administrative",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "no",
+                "parking:lane:left": "diagonal",
+                "political_division": "canton",
+                "ref": "D 68",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 669526667,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.532006,
+                        47.2199473
+                    ],
+                    [
+                        -1.5320786,
+                        47.2199441
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway": "no",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de Stalingrad",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

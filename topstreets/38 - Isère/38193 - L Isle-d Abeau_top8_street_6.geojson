@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 304051292,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2409129,
+                        45.6134116
+                    ],
+                    [
+                        5.24115,
+                        45.6133131
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "platform",
+                "name": "Pierre Louve",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 304051293,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2412411,
+                        45.613434
+                    ],
+                    [
+                        5.2410607,
+                        45.61351
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "platform",
+                "name": "Pierre Louve",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

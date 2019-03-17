@@ -1,0 +1,210 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37847853,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.139811,
+                        50.6275861
+                    ],
+                    [
+                        3.1398981,
+                        50.6276015
+                    ],
+                    [
+                        3.1399954,
+                        50.6275925
+                    ],
+                    [
+                        3.1401028,
+                        50.6275643
+                    ],
+                    [
+                        3.1408324,
+                        50.6272622
+                    ],
+                    [
+                        3.1413329,
+                        50.6270551
+                    ],
+                    [
+                        3.1413649,
+                        50.6270418
+                    ],
+                    [
+                        3.1428091,
+                        50.626464
+                    ],
+                    [
+                        3.1432841,
+                        50.626297
+                    ],
+                    [
+                        3.1433597,
+                        50.6262704
+                    ],
+                    [
+                        3.1434379,
+                        50.6262446
+                    ],
+                    [
+                        3.144559,
+                        50.6258687
+                    ],
+                    [
+                        3.1447153,
+                        50.6258163
+                    ],
+                    [
+                        3.145405,
+                        50.6255769
+                    ],
+                    [
+                        3.1462551,
+                        50.6252802
+                    ],
+                    [
+                        3.147038,
+                        50.6250011
+                    ],
+                    [
+                        3.1471398,
+                        50.6249666
+                    ],
+                    [
+                        3.1472303,
+                        50.6249356
+                    ],
+                    [
+                        3.1475127,
+                        50.6248391
+                    ],
+                    [
+                        3.147913,
+                        50.6246992
+                    ],
+                    [
+                        3.148015,
+                        50.6246635
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Lille",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38360690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.148015,
+                        50.6246635
+                    ],
+                    [
+                        3.1480873,
+                        50.6246382
+                    ],
+                    [
+                        3.1504367,
+                        50.623817
+                    ],
+                    [
+                        3.1509326,
+                        50.623667
+                    ],
+                    [
+                        3.1510006,
+                        50.6236477
+                    ],
+                    [
+                        3.1510635,
+                        50.6236301
+                    ],
+                    [
+                        3.1511019,
+                        50.6236194
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lille",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149269790,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1514606,
+                        50.6235056
+                    ],
+                    [
+                        3.1514935,
+                        50.623494
+                    ],
+                    [
+                        3.152457,
+                        50.62318
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lille",
+                "source": "bing",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149269791,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1511019,
+                        50.6236194
+                    ],
+                    [
+                        3.1514606,
+                        50.6235056
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "residential",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Rue de Lille",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

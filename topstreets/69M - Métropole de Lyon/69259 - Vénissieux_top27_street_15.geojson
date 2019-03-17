@@ -1,0 +1,235 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 42764138,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8837372,
+                        45.6949291
+                    ],
+                    [
+                        4.8838639,
+                        45.6958173
+                    ],
+                    [
+                        4.8838531,
+                        45.6961085
+                    ],
+                    [
+                        4.8838332,
+                        45.6962545
+                    ],
+                    [
+                        4.8838084,
+                        45.6963304
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Gambetta",
+                "oneway": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42764784,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8832385,
+                        45.6995646
+                    ],
+                    [
+                        4.8832657,
+                        45.6994495
+                    ],
+                    [
+                        4.8831934,
+                        45.6990093
+                    ],
+                    [
+                        4.8831627,
+                        45.698822
+                    ],
+                    [
+                        4.8830141,
+                        45.6986022
+                    ],
+                    [
+                        4.8829964,
+                        45.6985775
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Gambetta",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146343776,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8837648,
+                        45.6964636
+                    ],
+                    [
+                        4.8837478,
+                        45.6965368
+                    ],
+                    [
+                        4.8836292,
+                        45.6970516
+                    ],
+                    [
+                        4.8835982,
+                        45.6972017
+                    ],
+                    [
+                        4.8835453,
+                        45.6973945
+                    ],
+                    [
+                        4.8835279,
+                        45.6974581
+                    ],
+                    [
+                        4.8834741,
+                        45.6976201
+                    ],
+                    [
+                        4.8834542,
+                        45.6976617
+                    ],
+                    [
+                        4.8834202,
+                        45.697733
+                    ],
+                    [
+                        4.8832393,
+                        45.6980457
+                    ],
+                    [
+                        4.883207,
+                        45.6981192
+                    ],
+                    [
+                        4.8831899,
+                        45.6981895
+                    ],
+                    [
+                        4.8832013,
+                        45.6982244
+                    ],
+                    [
+                        4.8832191,
+                        45.6982791
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "destination:backward": "Corbas",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Gambetta",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219678736,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8838084,
+                        45.6963304
+                    ],
+                    [
+                        4.8837913,
+                        45.6963827
+                    ],
+                    [
+                        4.883783,
+                        45.6964082
+                    ],
+                    [
+                        4.8837648,
+                        45.6964636
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Gambetta",
+                "oneway": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 231689975,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8832385,
+                        45.6995646
+                    ],
+                    [
+                        4.883169,
+                        45.699669
+                    ],
+                    [
+                        4.8830466,
+                        45.6998442
+                    ],
+                    [
+                        4.8829967,
+                        45.6999011
+                    ],
+                    [
+                        4.8829348,
+                        45.6999648
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Gambetta",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31261785,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1858147,
+                        47.9997292
+                    ],
+                    [
+                        0.1857322,
+                        47.9997693
+                    ],
+                    [
+                        0.185461,
+                        47.9998844
+                    ],
+                    [
+                        0.1849832,
+                        48.0000992
+                    ],
+                    [
+                        0.1840792,
+                        48.0005057
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue d'Eichthal",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156822513,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1872676,
+                        47.9990677
+                    ],
+                    [
+                        0.1872084,
+                        47.9991022
+                    ],
+                    [
+                        0.1858147,
+                        47.9997292
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue d'Eichthal",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 582886209,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1840792,
+                        48.0005057
+                    ],
+                    [
+                        0.1835745,
+                        48.0007326
+                    ],
+                    [
+                        0.1835439,
+                        48.0007464
+                    ],
+                    [
+                        0.1833902,
+                        48.0008155
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue d'Eichthal",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

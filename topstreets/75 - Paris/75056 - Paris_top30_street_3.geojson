@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039813,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3471014,
+                        48.8535774
+                    ],
+                    [
+                        2.3470475,
+                        48.8534699
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Petit-Pont",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20104606,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3468598,
+                        48.8531418
+                    ],
+                    [
+                        2.3468399,
+                        48.853107
+                    ],
+                    [
+                        2.3468233,
+                        48.853066
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Petit-Pont",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

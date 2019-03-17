@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25856266,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0458731,
+                        48.9279935
+                    ],
+                    [
+                        2.0475646,
+                        48.9290788
+                    ],
+                    [
+                        2.0480466,
+                        48.9293739
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Charles Mar\u00e9chal",
+                "oneway": "yes",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25856282,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0560399,
+                        48.9338082
+                    ],
+                    [
+                        2.0554116,
+                        48.933458
+                    ],
+                    [
+                        2.0544748,
+                        48.9329633
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Charles Mar\u00e9chal",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83590001,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0544748,
+                        48.9329633
+                    ],
+                    [
+                        2.0515642,
+                        48.9313952
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Charles Mar\u00e9chal",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 1983",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148736848,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0483327,
+                        48.9295576
+                    ],
+                    [
+                        2.0480466,
+                        48.9293739
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Charles Mar\u00e9chal",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 1983",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 567796654,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0515642,
+                        48.9313952
+                    ],
+                    [
+                        2.0514316,
+                        48.9313237
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Charles Mar\u00e9chal",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 1983",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 567796655,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0514316,
+                        48.9313237
+                    ],
+                    [
+                        2.0506507,
+                        48.93091
+                    ],
+                    [
+                        2.0495944,
+                        48.9303397
+                    ],
+                    [
+                        2.0491847,
+                        48.9300918
+                    ],
+                    [
+                        2.0483327,
+                        48.9295576
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "cycleway:right": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Charles Mar\u00e9chal",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 1983",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

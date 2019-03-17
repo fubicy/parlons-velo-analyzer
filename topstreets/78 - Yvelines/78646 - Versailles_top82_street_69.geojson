@@ -1,0 +1,189 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19782222,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.131209,
+                        48.8052377
+                    ],
+                    [
+                        2.1310561,
+                        48.8052412
+                    ],
+                    [
+                        2.1308694,
+                        48.8052892
+                    ],
+                    [
+                        2.1292164,
+                        48.8056869
+                    ],
+                    [
+                        2.1284149,
+                        48.805896
+                    ],
+                    [
+                        2.1282661,
+                        48.8059372
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "name": "Rue Carnot",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19782223,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1272597,
+                        48.8062254
+                    ],
+                    [
+                        2.1264545,
+                        48.8064296
+                    ],
+                    [
+                        2.1263855,
+                        48.8064517
+                    ],
+                    [
+                        2.1261387,
+                        48.8065128
+                    ],
+                    [
+                        2.1251608,
+                        48.8067675
+                    ],
+                    [
+                        2.1251237,
+                        48.8067762
+                    ],
+                    [
+                        2.1249962,
+                        48.806808
+                    ],
+                    [
+                        2.1246555,
+                        48.8068961
+                    ],
+                    [
+                        2.1243455,
+                        48.8069478
+                    ],
+                    [
+                        2.1242868,
+                        48.807001
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue Carnot",
+                "old_ref": "En 1820/1824, plusieurs d\u00e9partementales de Seine-et-Oise forment la N 184 (route de Versailles \u00e0 Pontoise), puis en 1978, cette partie est prise par la N 186 qui forme la deuxi\u00e8me rocade de Paris, puis vers 1991, l'A 86, la fait devenir D 186",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104416816,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1242868,
+                        48.807001
+                    ],
+                    [
+                        2.1242468,
+                        48.8070214
+                    ],
+                    [
+                        2.1241715,
+                        48.8070945
+                    ],
+                    [
+                        2.1241511,
+                        48.8071611
+                    ],
+                    [
+                        2.124158,
+                        48.807215
+                    ],
+                    [
+                        2.1242106,
+                        48.8073301
+                    ],
+                    [
+                        2.1242688,
+                        48.807447
+                    ],
+                    [
+                        2.1242561,
+                        48.8075109
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue Carnot",
+                "old_ref": "En 1820/1824, plusieurs d\u00e9partementales de Seine-et-Oise forment la N 184 (route de Versailles \u00e0 Pontoise), puis en 1978, cette partie est prise par la N 186 qui forme la deuxi\u00e8me rocade de Paris, puis vers 1991, l'A 86, la fait devenir D 186",
+                "oneway": "yes",
+                "source": "Cadastre - Direction g\u00e9n\u00e9rales des finances publiques - Ann\u00e9e 2011",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104416817,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1243455,
+                        48.8069478
+                    ],
+                    [
+                        2.1242653,
+                        48.8069483
+                    ],
+                    [
+                        2.124207,
+                        48.8069638
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Rue Carnot",
+                "oneway": "yes",
+                "source": "Cadastre - Direction g\u00e9n\u00e9rales des finances publiques - Ann\u00e9e 2011",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

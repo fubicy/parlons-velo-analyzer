@@ -1,0 +1,566 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 6281688,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1730238,
+                        48.6904009
+                    ],
+                    [
+                        6.1729479,
+                        48.6903783
+                    ],
+                    [
+                        6.1720159,
+                        48.690096
+                    ],
+                    [
+                        6.1719531,
+                        48.6900759
+                    ],
+                    [
+                        6.1718166,
+                        48.6900321
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes": "through|through;right",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6993472,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1751408,
+                        48.6910252
+                    ],
+                    [
+                        6.1750825,
+                        48.6910078
+                    ],
+                    [
+                        6.1750015,
+                        48.6909837
+                    ],
+                    [
+                        6.1745178,
+                        48.6908396
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "destination": "Gare Thiers;Mus\u00e9e de l\u2019\u00c9cole de Nancy;La Manufacture",
+                "destination:symbol": "parking",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "30",
+                "name": "Rue Raymond Poincar\u00e9",
+                "note": "aucune signalisation autorisant cycles a circuler le long du quai de bus",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26611821,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1735752,
+                        48.6905671
+                    ],
+                    [
+                        6.1733319,
+                        48.6904927
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "comment": "La voie de bus a \u00e9t\u00e9 remplac\u00e9 par une bande cyclable",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41383900,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.166122,
+                        48.6883032
+                    ],
+                    [
+                        6.1659842,
+                        48.6882604
+                    ],
+                    [
+                        6.1659595,
+                        48.6882523
+                    ],
+                    [
+                        6.16586,
+                        48.68822
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "destination": "Laxou;Villers;C.R.O.U.S.",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155261894,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1718166,
+                        48.6900321
+                    ],
+                    [
+                        6.1716985,
+                        48.6899949
+                    ],
+                    [
+                        6.1712878,
+                        48.6898683
+                    ],
+                    [
+                        6.1707264,
+                        48.6897021
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Autres directions;Laxou;Villers;Mus\u00e9e de l\u2019\u00c9cole de Nancy;Caisse d\u2019Allocations Familiales",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160202753,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1662442,
+                        48.6883407
+                    ],
+                    [
+                        6.166122,
+                        48.6883032
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236416612,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1697332,
+                        48.6893981
+                    ],
+                    [
+                        6.1696225,
+                        48.6893657
+                    ],
+                    [
+                        6.1692921,
+                        48.6892648
+                    ],
+                    [
+                        6.1692545,
+                        48.6892534
+                    ],
+                    [
+                        6.168738,
+                        48.6890991
+                    ],
+                    [
+                        6.1687071,
+                        48.6890899
+                    ],
+                    [
+                        6.1685798,
+                        48.6890519
+                    ],
+                    [
+                        6.1674342,
+                        48.6887012
+                    ],
+                    [
+                        6.1673763,
+                        48.6886835
+                    ],
+                    [
+                        6.1673303,
+                        48.6886695
+                    ],
+                    [
+                        6.1668169,
+                        48.6885129
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "destination": "Laxou;Villers;Mus\u00e9e de l\u2019\u00c9cole de Nancy;Pr\u00e9ville;Caisse d\u2019Allocations Familiales",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 237182709,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1741943,
+                        48.6907528
+                    ],
+                    [
+                        6.1737723,
+                        48.6906278
+                    ],
+                    [
+                        6.1737543,
+                        48.6906224
+                    ],
+                    [
+                        6.1737354,
+                        48.690617
+                    ],
+                    [
+                        6.173641,
+                        48.6905866
+                    ],
+                    [
+                        6.1735752,
+                        48.6905671
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "destination": "Toutes directions;Mus\u00e9e de l\u2019\u00c9cole de Nancy;Manufacture",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 265788251,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1707264,
+                        48.6897021
+                    ],
+                    [
+                        6.1705424,
+                        48.6896455
+                    ],
+                    [
+                        6.1698879,
+                        48.6894442
+                    ],
+                    [
+                        6.1698362,
+                        48.6894279
+                    ],
+                    [
+                        6.1697332,
+                        48.6893981
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323311971,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1733319,
+                        48.6904927
+                    ],
+                    [
+                        6.1730456,
+                        48.6904075
+                    ],
+                    [
+                        6.1730238,
+                        48.6904009
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "comment": "La voie de bus a \u00e9t\u00e9 remplac\u00e9 par une bande cyclable",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 405154625,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1613906,
+                        48.681554
+                    ],
+                    [
+                        6.161762,
+                        48.6816131
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue Raymond Poincar\u00e9",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 407334659,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1668169,
+                        48.6885129
+                    ],
+                    [
+                        6.1667187,
+                        48.688483
+                    ],
+                    [
+                        6.1665063,
+                        48.688419
+                    ],
+                    [
+                        6.1662442,
+                        48.6883407
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through|right",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605504174,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1745178,
+                        48.6908396
+                    ],
+                    [
+                        6.1744896,
+                        48.6908311
+                    ],
+                    [
+                        6.1744549,
+                        48.6908214
+                    ],
+                    [
+                        6.1744189,
+                        48.6908113
+                    ],
+                    [
+                        6.1743265,
+                        48.6907871
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 612520318,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1743265,
+                        48.6907871
+                    ],
+                    [
+                        6.1742199,
+                        48.6907603
+                    ],
+                    [
+                        6.1741943,
+                        48.6907528
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Raymond Poincar\u00e9",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18895051,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.149845,
+                        46.1587703
+                    ],
+                    [
+                        -1.1498148,
+                        46.1587163
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Pont Louis Durand",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123232947,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1498148,
+                        46.1587163
+                    ],
+                    [
+                        -1.1496863,
+                        46.1585342
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "aqueduct",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Pont Louis Durand",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232032543,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1496863,
+                        46.1585342
+                    ],
+                    [
+                        -1.1496437,
+                        46.158506
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont Louis Durand",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

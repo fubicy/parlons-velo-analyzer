@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 152199358,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1753084,
+                        48.6908921
+                    ],
+                    [
+                        6.1752935,
+                        48.6909149
+                    ],
+                    [
+                        6.175283,
+                        48.6909293
+                    ],
+                    [
+                        6.1752661,
+                        48.6909523
+                    ],
+                    [
+                        6.1752344,
+                        48.6909909
+                    ],
+                    [
+                        6.1752103,
+                        48.6910073
+                    ],
+                    [
+                        6.1751801,
+                        48.6910193
+                    ],
+                    [
+                        6.1751408,
+                        48.6910252
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Mazagran",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2016",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160084288,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1755173,
+                        48.690603
+                    ],
+                    [
+                        6.1754703,
+                        48.6906687
+                    ],
+                    [
+                        6.1753084,
+                        48.6908921
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Mazagran",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2016",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "wikidata": "Q16511037",
+                "wikipedia": "fr:Rue Mazagran (Nancy)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236420036,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1763483,
+                        48.6894079
+                    ],
+                    [
+                        6.1762955,
+                        48.6894686
+                    ],
+                    [
+                        6.1760726,
+                        48.6897836
+                    ],
+                    [
+                        6.1760382,
+                        48.6898332
+                    ],
+                    [
+                        6.1759598,
+                        48.6899434
+                    ],
+                    [
+                        6.1758353,
+                        48.6901295
+                    ],
+                    [
+                        6.1756801,
+                        48.6903646
+                    ],
+                    [
+                        6.1756037,
+                        48.6904779
+                    ],
+                    [
+                        6.1755858,
+                        48.6905034
+                    ],
+                    [
+                        6.1755173,
+                        48.690603
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "destination": "Place Stanislas;Office de tourisme;Gare S.N.C.F.;Gare Thiers;Saint Jean",
+                "destination:symbol": "parking;info",
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Mazagran",
+                "oneway": "yes",
+                "source": "Bing;survey",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "wikidata": "Q16511037",
+                "wikipedia": "fr:Rue Mazagran (Nancy)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

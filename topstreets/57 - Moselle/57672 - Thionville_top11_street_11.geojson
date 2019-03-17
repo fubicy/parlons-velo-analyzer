@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 182025778,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1417583,
+                        49.3641998
+                    ],
+                    [
+                        6.1417064,
+                        49.3643011
+                    ],
+                    [
+                        6.1416943,
+                        49.3643496
+                    ],
+                    [
+                        6.1417004,
+                        49.3644106
+                    ],
+                    [
+                        6.1417101,
+                        49.3644488
+                    ],
+                    [
+                        6.1417548,
+                        49.3645098
+                    ],
+                    [
+                        6.1418417,
+                        49.3645888
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "30",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

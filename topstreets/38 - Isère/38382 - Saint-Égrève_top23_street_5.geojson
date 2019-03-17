@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 218646738,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6887652,
+                        45.2379001
+                    ],
+                    [
+                        5.6889404,
+                        45.2378551
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "La Monta",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218646739,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6887439,
+                        45.2379709
+                    ],
+                    [
+                        5.6885596,
+                        45.2380174
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "La Monta",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26636272,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5810006,
+                        47.2377459
+                    ],
+                    [
+                        -1.580876,
+                        47.2379607
+                    ],
+                    [
+                        -1.5806792,
+                        47.2388585
+                    ],
+                    [
+                        -1.5805239,
+                        47.2395668
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Ch\u00eane Cartier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152822808,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5806792,
+                        47.2388585
+                    ],
+                    [
+                        -1.5812609,
+                        47.2389243
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Ch\u00eane Cartier",
+                "source": "bing",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

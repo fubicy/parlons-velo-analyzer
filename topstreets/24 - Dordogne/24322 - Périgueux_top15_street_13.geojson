@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 164427081,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7188347,
+                        45.1835246
+                    ],
+                    [
+                        0.7189004,
+                        45.183948
+                    ],
+                    [
+                        0.7189874,
+                        45.1844745
+                    ],
+                    [
+                        0.7190384,
+                        45.1845536
+                    ],
+                    [
+                        0.7190863,
+                        45.1846083
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Place Bugeaud",
+                "oneway": "yes",
+                "political_division": "canton",
+                "ref": "D 939",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164427088,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7179434,
+                        45.1836857
+                    ],
+                    [
+                        0.7188347,
+                        45.1835246
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Place Bugeaud",
+                "oneway": "no",
+                "ref": "D 939",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 428859479,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7189116,
+                        45.1846841
+                    ],
+                    [
+                        0.7188604,
+                        45.1846154
+                    ],
+                    [
+                        0.7187978,
+                        45.1845604
+                    ],
+                    [
+                        0.7180527,
+                        45.1837939
+                    ],
+                    [
+                        0.7179434,
+                        45.1836857
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Place Bugeaud",
+                "oneway": "yes",
+                "ref": "D 939",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

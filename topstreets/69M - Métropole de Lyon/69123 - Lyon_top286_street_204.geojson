@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4084694,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8603776,
+                        45.7420953
+                    ],
+                    [
+                        4.8604552,
+                        45.7421158
+                    ],
+                    [
+                        4.8604889,
+                        45.7421247
+                    ],
+                    [
+                        4.8605392,
+                        45.7421331
+                    ],
+                    [
+                        4.8606012,
+                        45.742124
+                    ],
+                    [
+                        4.8620353,
+                        45.7417668
+                    ],
+                    [
+                        4.8620842,
+                        45.7417546
+                    ],
+                    [
+                        4.8621114,
+                        45.7417479
+                    ],
+                    [
+                        4.8621301,
+                        45.7417432
+                    ],
+                    [
+                        4.8621839,
+                        45.7417297
+                    ],
+                    [
+                        4.8641368,
+                        45.7412409
+                    ],
+                    [
+                        4.8641718,
+                        45.7412265
+                    ],
+                    [
+                        4.8642064,
+                        45.7412123
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Saint-Romain",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22674828,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8642064,
+                        45.7412123
+                    ],
+                    [
+                        4.8642626,
+                        45.7411892
+                    ],
+                    [
+                        4.8653439,
+                        45.7409349
+                    ],
+                    [
+                        4.8663083,
+                        45.7407068
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Saint-Romain",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22674829,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8663083,
+                        45.7407068
+                    ],
+                    [
+                        4.8677313,
+                        45.7403478
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Saint-Romain",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

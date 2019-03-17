@@ -1,0 +1,170 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 9227845,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6866661,
+                        48.1123963
+                    ],
+                    [
+                        -1.6866997,
+                        48.1124014
+                    ],
+                    [
+                        -1.6867404,
+                        48.1124016
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Carrefour Jouaust",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39354191,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6866883,
+                        48.1123122
+                    ],
+                    [
+                        -1.6866585,
+                        48.1123192
+                    ],
+                    [
+                        -1.6866337,
+                        48.1123301
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Carrefour Jouaust",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40160979,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6860356,
+                        48.1124167
+                    ],
+                    [
+                        -1.6859948,
+                        48.1127013
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "name": "Carrefour Jouaust",
+                "surface": "cobblestone",
+                "tunnel": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181401482,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.686598,
+                        48.1124773
+                    ],
+                    [
+                        -1.6865758,
+                        48.1124358
+                    ],
+                    [
+                        -1.6864846,
+                        48.1124414
+                    ],
+                    [
+                        -1.6862676,
+                        48.1124547
+                    ],
+                    [
+                        -1.6860795,
+                        48.1124663
+                    ],
+                    [
+                        -1.6860986,
+                        48.1125048
+                    ],
+                    [
+                        -1.686117,
+                        48.1125419
+                    ],
+                    [
+                        -1.6861901,
+                        48.1125323
+                    ],
+                    [
+                        -1.686262,
+                        48.1125272
+                    ],
+                    [
+                        -1.6863977,
+                        48.1125242
+                    ],
+                    [
+                        -1.6864778,
+                        48.1125237
+                    ],
+                    [
+                        -1.6865124,
+                        48.1125229
+                    ],
+                    [
+                        -1.6866153,
+                        48.1125205
+                    ],
+                    [
+                        -1.686598,
+                        48.1124773
+                    ]
+                ]
+            },
+            "properties": {
+                "area": "yes",
+                "bicycle": "no",
+                "highway": "pedestrian",
+                "name": "Carrefour Jouaust",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

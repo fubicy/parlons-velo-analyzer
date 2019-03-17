@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23108359,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9039363,
+                        47.9013538
+                    ],
+                    [
+                        1.9035024,
+                        47.9013109
+                    ],
+                    [
+                        1.9030926,
+                        47.9012776
+                    ],
+                    [
+                        1.9030603,
+                        47.9012704
+                    ],
+                    [
+                        1.9030281,
+                        47.9012529
+                    ],
+                    [
+                        1.90299,
+                        47.901221
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "30",
+                "name": "Rue Jeanne d'Arc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180080121,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9039363,
+                        47.9013538
+                    ],
+                    [
+                        1.9040543,
+                        47.9013632
+                    ],
+                    [
+                        1.9045847,
+                        47.9014056
+                    ],
+                    [
+                        1.9053618,
+                        47.9014713
+                    ],
+                    [
+                        1.9060823,
+                        47.9015292
+                    ],
+                    [
+                        1.9068839,
+                        47.9015824
+                    ],
+                    [
+                        1.9074561,
+                        47.901621
+                    ],
+                    [
+                        1.9080903,
+                        47.9016743
+                    ],
+                    [
+                        1.9085136,
+                        47.9017159
+                    ],
+                    [
+                        1.9085844,
+                        47.9017217
+                    ],
+                    [
+                        1.9090382,
+                        47.9017484
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Jeanne d'Arc",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

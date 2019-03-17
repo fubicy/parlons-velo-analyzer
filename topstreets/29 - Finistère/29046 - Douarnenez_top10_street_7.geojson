@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 39747054,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.3167458,
+                        48.0828827
+                    ],
+                    [
+                        -4.3164731,
+                        48.0827098
+                    ],
+                    [
+                        -4.3164266,
+                        48.0826673
+                    ],
+                    [
+                        -4.3163992,
+                        48.0826368
+                    ],
+                    [
+                        -4.3163802,
+                        48.0826153
+                    ],
+                    [
+                        -4.3163119,
+                        48.0825273
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Laennec",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 596554998,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.3169205,
+                        48.0830043
+                    ],
+                    [
+                        -4.3168322,
+                        48.0829428
+                    ],
+                    [
+                        -4.3167458,
+                        48.0828827
+                    ]
+                ]
+            },
+            "properties": {
+                "bus_bay": "right",
+                "highway": "residential",
+                "name": "Rue Laennec",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

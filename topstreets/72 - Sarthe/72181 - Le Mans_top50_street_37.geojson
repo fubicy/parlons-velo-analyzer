@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4914227,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1945926,
+                        48.0098852
+                    ],
+                    [
+                        0.1946465,
+                        48.0098552
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Yssoir",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 637163969,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1946465,
+                        48.0098552
+                    ],
+                    [
+                        0.1946681,
+                        48.0098439
+                    ],
+                    [
+                        0.1946981,
+                        48.0098265
+                    ],
+                    [
+                        0.1951959,
+                        48.0095495
+                    ],
+                    [
+                        0.1952865,
+                        48.0094992
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Yssoir",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

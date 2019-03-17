@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 13642690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1254578,
+                        48.801252
+                    ],
+                    [
+                        2.1253881,
+                        48.8011384
+                    ],
+                    [
+                        2.125374,
+                        48.801117
+                    ],
+                    [
+                        2.1248687,
+                        48.8003471
+                    ],
+                    [
+                        2.124831,
+                        48.8002897
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "highway": "pedestrian",
+                "maxspeed": "10",
+                "name": "Rue de Satory",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19786007,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1244417,
+                        48.7996508
+                    ],
+                    [
+                        2.1244813,
+                        48.7997093
+                    ],
+                    [
+                        2.124831,
+                        48.8002897
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "goods": "delivery",
+                "hgv": "delivery",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "maxweight": "3.5",
+                "name": "Rue de Satory",
+                "oneway": "yes",
+                "source": "http://fr.calameo.com/read/001296577809dab798482",
+                "surface": "paving_stones",
+                "zone:maxspeed": "20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,296 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23380880,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1780525,
+                        48.6985798
+                    ],
+                    [
+                        6.1780886,
+                        48.6985396
+                    ],
+                    [
+                        6.178262,
+                        48.6983467
+                    ],
+                    [
+                        6.1783265,
+                        48.6982791
+                    ],
+                    [
+                        6.1785145,
+                        48.6980647
+                    ],
+                    [
+                        6.1787426,
+                        48.6977985
+                    ],
+                    [
+                        6.1789891,
+                        48.6974914
+                    ],
+                    [
+                        6.1790288,
+                        48.6974471
+                    ],
+                    [
+                        6.1791655,
+                        48.6972827
+                    ],
+                    [
+                        6.1793032,
+                        48.6971141
+                    ],
+                    [
+                        6.1793708,
+                        48.6970364
+                    ],
+                    [
+                        6.179403,
+                        48.6970092
+                    ],
+                    [
+                        6.1794194,
+                        48.6969954
+                    ],
+                    [
+                        6.179913,
+                        48.6966527
+                    ],
+                    [
+                        6.1800104,
+                        48.6965767
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Vaud\u00e9mont",
+                "destination:symbol": "parking",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "sett",
+                "vehicle:conditional": "no@May-Sep Fr,Sa 20:00-02:00",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23380891,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1778619,
+                        48.6988104
+                    ],
+                    [
+                        6.1778295,
+                        48.6988134
+                    ],
+                    [
+                        6.1777977,
+                        48.698809
+                    ],
+                    [
+                        6.1777641,
+                        48.6988013
+                    ],
+                    [
+                        6.1777269,
+                        48.6987899
+                    ],
+                    [
+                        6.1774911,
+                        48.698706
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256709706,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1817346,
+                        48.6944103
+                    ],
+                    [
+                        6.1815336,
+                        48.6947145
+                    ],
+                    [
+                        6.1813678,
+                        48.6949738
+                    ],
+                    [
+                        6.1808555,
+                        48.6958043
+                    ],
+                    [
+                        6.1807424,
+                        48.6959734
+                    ],
+                    [
+                        6.1805753,
+                        48.6961246
+                    ],
+                    [
+                        6.1802909,
+                        48.696377
+                    ],
+                    [
+                        6.1802728,
+                        48.6963924
+                    ],
+                    [
+                        6.1801149,
+                        48.6965269
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Grand-Rue",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "smoothness": "intermediate",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014",
+                "source:maxspeed": "FR:zone30",
+                "surface": "paving_stones",
+                "vehicle:conditional": "no @ (May-Sep Fr,Sa 20:00-02:00)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 434060074,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1801149,
+                        48.6965269
+                    ],
+                    [
+                        6.1800104,
+                        48.6965767
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Grand-Rue",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "oneway": "no",
+                "smoothness": "intermediate",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014",
+                "source:maxspeed": "FR:zone30",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 480602319,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1780525,
+                        48.6985798
+                    ],
+                    [
+                        6.1780115,
+                        48.698627
+                    ],
+                    [
+                        6.1778619,
+                        48.6988104
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "source:maxspeed": "FR:zone30",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 586672650,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1818289,
+                        48.6942988
+                    ],
+                    [
+                        6.181785,
+                        48.6943233
+                    ],
+                    [
+                        6.1817676,
+                        48.6943482
+                    ],
+                    [
+                        6.1817346,
+                        48.6944103
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Grand-Rue",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grande Rue",
+                "oneway": "yes",
+                "smoothness": "intermediate",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014",
+                "source:maxspeed": "FR:zone30",
+                "surface": "paving_stones",
+                "vehicle:conditional": "no @ (May-Sep Mo-Sa 19:30-02:00; May-Sep Su 12:00-02:00; PH 12:00-24:00)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4304808,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8501276,
+                        45.7707944
+                    ],
+                    [
+                        4.8502816,
+                        45.7708086
+                    ],
+                    [
+                        4.850356,
+                        45.7708154
+                    ],
+                    [
+                        4.8519849,
+                        45.7709649
+                    ],
+                    [
+                        4.8520265,
+                        45.7709687
+                    ],
+                    [
+                        4.8520707,
+                        45.7709728
+                    ],
+                    [
+                        4.8521549,
+                        45.7709808
+                    ],
+                    [
+                        4.8538008,
+                        45.7711381
+                    ],
+                    [
+                        4.8539171,
+                        45.7711492
+                    ],
+                    [
+                        4.8540305,
+                        45.7711601
+                    ],
+                    [
+                        4.8548323,
+                        45.7712373
+                    ],
+                    [
+                        4.8548964,
+                        45.7712435
+                    ],
+                    [
+                        4.8549463,
+                        45.771248
+                    ],
+                    [
+                        4.8554636,
+                        45.7712947
+                    ],
+                    [
+                        4.8556281,
+                        45.7713057
+                    ],
+                    [
+                        4.8557896,
+                        45.7713205
+                    ],
+                    [
+                        4.8566094,
+                        45.7713968
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Crillon",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6127567,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8447334,
+                        45.7702749
+                    ],
+                    [
+                        4.8457573,
+                        45.7703728
+                    ],
+                    [
+                        4.847007,
+                        45.7705016
+                    ],
+                    [
+                        4.8486285,
+                        45.7706448
+                    ],
+                    [
+                        4.848709,
+                        45.7706519
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Crillon",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6127569,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.848709,
+                        45.7706519
+                    ],
+                    [
+                        4.8487817,
+                        45.7706594
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue Crillon",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89956704,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8487817,
+                        45.7706594
+                    ],
+                    [
+                        4.8489751,
+                        45.7706765
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "layer": "-1",
+                "lit": "yes",
+                "name": "Rue Crillon",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89956710,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8489751,
+                        45.7706765
+                    ],
+                    [
+                        4.8499731,
+                        45.7707786
+                    ],
+                    [
+                        4.8501276,
+                        45.7707944
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue Crillon",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616370026,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8566094,
+                        45.7713968
+                    ],
+                    [
+                        4.8566843,
+                        45.7714038
+                    ],
+                    [
+                        4.8567976,
+                        45.7714143
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Crillon",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "traffic_calming": "hump",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

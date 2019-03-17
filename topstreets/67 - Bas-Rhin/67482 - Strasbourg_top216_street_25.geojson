@@ -1,0 +1,143 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40204859,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7385805,
+                        48.5834389
+                    ],
+                    [
+                        7.7386708,
+                        48.5833879
+                    ],
+                    [
+                        7.7387502,
+                        48.5833661
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue du Maire Kuss",
+                "name:de": "Kussbr\u00fccke",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41123362,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7361458,
+                        48.5843602
+                    ],
+                    [
+                        7.7363093,
+                        48.584291
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Rue du Maire Kuss",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41123364,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7375675,
+                        48.5837829
+                    ],
+                    [
+                        7.7376697,
+                        48.583744
+                    ],
+                    [
+                        7.7382568,
+                        48.5835205
+                    ],
+                    [
+                        7.7385805,
+                        48.5834389
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue du Maire Kuss",
+                "name:de": "Kussgasse",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55063574,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7363093,
+                        48.584291
+                    ],
+                    [
+                        7.7364162,
+                        48.5842421
+                    ],
+                    [
+                        7.7364566,
+                        48.5842232
+                    ],
+                    [
+                        7.737515,
+                        48.5838037
+                    ],
+                    [
+                        7.7375675,
+                        48.5837829
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue du Maire Kuss",
+                "name:de": "Kussgasse",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

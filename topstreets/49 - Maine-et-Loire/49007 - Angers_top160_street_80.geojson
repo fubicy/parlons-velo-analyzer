@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31049036,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5541608,
+                        47.4700378
+                    ],
+                    [
+                        -0.5540666,
+                        47.469948
+                    ],
+                    [
+                        -0.5538532,
+                        47.4697696
+                    ],
+                    [
+                        -0.553678,
+                        47.4696393
+                    ],
+                    [
+                        -0.5533052,
+                        47.4693507
+                    ],
+                    [
+                        -0.553053,
+                        47.4691555
+                    ],
+                    [
+                        -0.5526288,
+                        47.4688742
+                    ],
+                    [
+                        -0.552339,
+                        47.4686703
+                    ],
+                    [
+                        -0.5516026,
+                        47.468165
+                    ],
+                    [
+                        -0.5512693,
+                        47.4679712
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue Saint-Aubin",
+                "surface": "asphalt",
+                "wikipedia": "fr:Rue Saint-Aubin",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 489138547,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5512693,
+                        47.4679712
+                    ],
+                    [
+                        -0.5512089,
+                        47.467936
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "name": "Rue Saint-Aubin",
+                "wikipedia": "fr:Rue Saint-Aubin",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

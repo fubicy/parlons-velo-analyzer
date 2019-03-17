@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 154713213,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4400363,
+                        44.9262716
+                    ],
+                    [
+                        2.4391171,
+                        44.9254927
+                    ],
+                    [
+                        2.4381217,
+                        44.9246302
+                    ],
+                    [
+                        2.4376723,
+                        44.9242371
+                    ],
+                    [
+                        2.4374986,
+                        44.9240971
+                    ],
+                    [
+                        2.436894,
+                        44.9235835
+                    ],
+                    [
+                        2.4366767,
+                        44.9233994
+                    ],
+                    [
+                        2.436517,
+                        44.923268
+                    ],
+                    [
+                        2.4362786,
+                        44.9230841
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue de la R\u00e9publique",
+                "oneway": "reversible",
+                "ref": "avenue de la r\u00e9publique",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235855109,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4425572,
+                        44.9283392
+                    ],
+                    [
+                        2.4424785,
+                        44.9283151
+                    ],
+                    [
+                        2.4422853,
+                        44.928162
+                    ],
+                    [
+                        2.441671,
+                        44.9276567
+                    ],
+                    [
+                        2.4408596,
+                        44.9269692
+                    ],
+                    [
+                        2.4401976,
+                        44.9264083
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de la R\u00e9publique",
+                "oneway": "reversible",
+                "ref": "Avenue de la R\u00e9publique",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 296170918,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4401976,
+                        44.9264083
+                    ],
+                    [
+                        2.4400363,
+                        44.9262716
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de la R\u00e9publique",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "source:maxspeed": "sign",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

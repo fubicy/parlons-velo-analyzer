@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22757770,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4839293,
+                        48.3962015
+                    ],
+                    [
+                        -4.4838762,
+                        48.3961891
+                    ],
+                    [
+                        -4.4837784,
+                        48.3961592
+                    ],
+                    [
+                        -4.4832834,
+                        48.3960077
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Malakoff",
+                "name:br": "Straed Malakoff",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:ticket:zone": "Verte",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 214642470,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4832834,
+                        48.3960077
+                    ],
+                    [
+                        -4.4827755,
+                        48.3958538
+                    ],
+                    [
+                        -4.4826768,
+                        48.3958254
+                    ],
+                    [
+                        -4.4825285,
+                        48.3957809
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Malakoff",
+                "name:br": "Straed Malakoff",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:ticket:zone": "Verte",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 214642472,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4825285,
+                        48.3957809
+                    ],
+                    [
+                        -4.4823959,
+                        48.3957449
+                    ],
+                    [
+                        -4.4821125,
+                        48.3956675
+                    ],
+                    [
+                        -4.4817261,
+                        48.3955646
+                    ],
+                    [
+                        -4.4816512,
+                        48.3955424
+                    ],
+                    [
+                        -4.48116,
+                        48.3954018
+                    ],
+                    [
+                        -4.4810033,
+                        48.3953829
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Malakoff",
+                "name:br": "Straed Malakoff",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:ticket:zone": "Orange",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30084517,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.469886,
+                        48.9052836
+                    ],
+                    [
+                        2.470072,
+                        48.9048981
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "name": "Pont de Bondy",
+                "old_ref": "N 186",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30084518,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.470072,
+                        48.9048981
+                    ],
+                    [
+                        2.4703661,
+                        48.9043259
+                    ],
+                    [
+                        2.4703825,
+                        48.9042924
+                    ],
+                    [
+                        2.4704855,
+                        48.9040828
+                    ],
+                    [
+                        2.4705166,
+                        48.9040225
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "name": "Pont de Bondy",
+                "old_ref": "N 186",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

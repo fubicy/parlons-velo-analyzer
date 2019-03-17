@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26627979,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2526891,
+                        45.8172564
+                    ],
+                    [
+                        1.2527127,
+                        45.8172131
+                    ],
+                    [
+                        1.2528269,
+                        45.8169641
+                    ],
+                    [
+                        1.2532488,
+                        45.8157723
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Georges Guingouin",
+                "oneway": "yes",
+                "wikidata": "Q24931346",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 529754270,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2526212,
+                        45.8173811
+                    ],
+                    [
+                        1.2526891,
+                        45.8172564
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Pont Georges Guingouin",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25850138,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0992542,
+                        49.439829
+                    ],
+                    [
+                        1.099119,
+                        49.4395042
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Moli\u00e8re",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 546142282,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.099119,
+                        49.4395042
+                    ],
+                    [
+                        1.0989155,
+                        49.4387871
+                    ],
+                    [
+                        1.0989054,
+                        49.4387489
+                    ],
+                    [
+                        1.0988898,
+                        49.4386952
+                    ],
+                    [
+                        1.0988418,
+                        49.4385302
+                    ],
+                    [
+                        1.098707,
+                        49.4379908
+                    ],
+                    [
+                        1.0987026,
+                        49.4379735
+                    ],
+                    [
+                        1.098696,
+                        49.4379469
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "foot": "yes",
+                "highway": "unclassified",
+                "horse": "yes",
+                "lanes": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue Moli\u00e8re",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

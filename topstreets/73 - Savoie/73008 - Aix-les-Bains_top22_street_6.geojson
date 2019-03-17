@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 322511206,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9085532,
+                        45.6687602
+                    ],
+                    [
+                        5.9085669,
+                        45.6689751
+                    ],
+                    [
+                        5.9085701,
+                        45.669406
+                    ],
+                    [
+                        5.908565,
+                        45.6694996
+                    ],
+                    [
+                        5.9085299,
+                        45.6699222
+                    ],
+                    [
+                        5.9084916,
+                        45.6701007
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue du Golf",
+                "oneway": "yes",
+                "ref": "D 991",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 322511207,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9084916,
+                        45.6701007
+                    ],
+                    [
+                        5.9084207,
+                        45.6713473
+                    ],
+                    [
+                        5.9084176,
+                        45.6715109
+                    ],
+                    [
+                        5.9084527,
+                        45.6716138
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue du Golf",
+                "ref": "D 991",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 322511208,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9087094,
+                        45.6661027
+                    ],
+                    [
+                        5.9086009,
+                        45.6679479
+                    ],
+                    [
+                        5.9086004,
+                        45.6679568
+                    ],
+                    [
+                        5.9085532,
+                        45.6687602
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue du Golf",
+                "ref": "D 991",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

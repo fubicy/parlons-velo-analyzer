@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 193144383,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8478721,
+                        45.2066062
+                    ],
+                    [
+                        5.8480257,
+                        45.2066952
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Les Arnauds",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "limited",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193144384,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8478712,
+                        45.2069355
+                    ],
+                    [
+                        5.8478754,
+                        45.2067545
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Les Arnauds",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 320640097,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8492552,
+                        45.2075909
+                    ],
+                    [
+                        5.8491351,
+                        45.2075593
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Les Arnauds",
+                "network": "TAG",
+                "public_transport": "platform",
+                "wheelchair": "no",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 320640098,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8491958,
+                        45.2074203
+                    ],
+                    [
+                        5.8492791,
+                        45.2074412
+                    ],
+                    [
+                        5.8493166,
+                        45.2074506
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Les Arnauds",
+                "network": "TAG",
+                "public_transport": "platform",
+                "wheelchair": "no",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

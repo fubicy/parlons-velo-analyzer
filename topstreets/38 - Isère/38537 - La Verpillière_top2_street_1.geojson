@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5069707,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1479011,
+                        45.6326498
+                    ],
+                    [
+                        5.1481529,
+                        45.6325439
+                    ],
+                    [
+                        5.1488956,
+                        45.6322695
+                    ],
+                    [
+                        5.1508237,
+                        45.6315349
+                    ],
+                    [
+                        5.1512715,
+                        45.6313492
+                    ],
+                    [
+                        5.1516215,
+                        45.6312507
+                    ],
+                    [
+                        5.1517626,
+                        45.6312001
+                    ],
+                    [
+                        5.1518487,
+                        45.6311649
+                    ],
+                    [
+                        5.152213,
+                        45.6310383
+                    ],
+                    [
+                        5.1522678,
+                        45.6310111
+                    ],
+                    [
+                        5.1524082,
+                        45.6309412
+                    ],
+                    [
+                        5.1528811,
+                        45.6307648
+                    ],
+                    [
+                        5.1529501,
+                        45.630738
+                    ],
+                    [
+                        5.1531423,
+                        45.6306634
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Rue des Alpes",
+                "ref": "D 125",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303060046,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1518509,
+                        45.6312005
+                    ],
+                    [
+                        5.151698,
+                        45.631261
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Rue des Alpes",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303060047,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1531423,
+                        45.6306634
+                    ],
+                    [
+                        5.1532919,
+                        45.6306053
+                    ],
+                    [
+                        5.1533612,
+                        45.6305784
+                    ],
+                    [
+                        5.1536416,
+                        45.6304695
+                    ],
+                    [
+                        5.1561664,
+                        45.6295385
+                    ],
+                    [
+                        5.1567184,
+                        45.6294097
+                    ],
+                    [
+                        5.1571185,
+                        45.6294374
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Rue des Alpes",
+                "ref": "D 125",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

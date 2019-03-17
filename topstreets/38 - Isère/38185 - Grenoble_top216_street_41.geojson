@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 199256913,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7049147,
+                        45.1686017
+                    ],
+                    [
+                        5.7049212,
+                        45.1687013
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bin": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Cit\u00e9 Paul Mistral",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "limited",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199256914,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7047689,
+                        45.1686421
+                    ],
+                    [
+                        5.7047622,
+                        45.1685152
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Cit\u00e9 Paul Mistral",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

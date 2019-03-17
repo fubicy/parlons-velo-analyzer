@@ -1,0 +1,503 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 143299437,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5425873,
+                        47.2271465
+                    ],
+                    [
+                        -1.5427615,
+                        47.2271962
+                    ],
+                    [
+                        -1.5427986,
+                        47.2271994
+                    ],
+                    [
+                        -1.542869,
+                        47.2272054
+                    ],
+                    [
+                        -1.5434544,
+                        47.2272705
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Desaix",
+                "oneway": "no",
+                "parking:condition:right": "free",
+                "parking:lane:right": "marked",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159408438,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5486581,
+                        47.2278282
+                    ],
+                    [
+                        -1.5484751,
+                        47.2278089
+                    ],
+                    [
+                        -1.5483904,
+                        47.2278
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "foot": "no",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxweight": "5.5",
+                "name": "Rue Desaix",
+                "oneway": "no",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188763205,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5451921,
+                        47.227445
+                    ],
+                    [
+                        -1.5451411,
+                        47.2274384
+                    ],
+                    [
+                        -1.5450828,
+                        47.2274321
+                    ],
+                    [
+                        -1.5448718,
+                        47.2274121
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "foot": "no",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Desaix",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188763206,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5448718,
+                        47.2274121
+                    ],
+                    [
+                        -1.5446838,
+                        47.2273967
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "foot": "no",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Desaix",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332468772,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5508386,
+                        47.2280605
+                    ],
+                    [
+                        -1.5509193,
+                        47.2280864
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Desaix",
+                "oneway": "no",
+                "parking:condition:left": "free",
+                "parking:condition:left:capacity": "18",
+                "parking:condition:right": "free",
+                "parking:condition:right:capacity": "5",
+                "parking:lane:left": "marked",
+                "parking:lane:right": "marked",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332468785,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5488279,
+                        47.2278471
+                    ],
+                    [
+                        -1.5486581,
+                        47.2278282
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "foot": "no",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxweight": "5.5",
+                "name": "Rue Desaix",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332468788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5489725,
+                        47.2278619
+                    ],
+                    [
+                        -1.5488279,
+                        47.2278471
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "foot": "no",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Desaix",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332468791,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5492798,
+                        47.2278935
+                    ],
+                    [
+                        -1.5489725,
+                        47.2278619
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Desaix",
+                "oneway": "yes",
+                "parking:condition:left": "free",
+                "parking:condition:left:capacity": "18",
+                "parking:condition:right": "free",
+                "parking:condition:right:capacity": "5",
+                "parking:lane:left": "marked",
+                "parking:lane:right": "marked",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332468797,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5453772,
+                        47.2274691
+                    ],
+                    [
+                        -1.5451921,
+                        47.227445
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "admin_level": "11",
+                "bicycle": "yes",
+                "boundary": "administrative",
+                "foot": "no",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxweight": "5.5",
+                "name": "Rue Desaix",
+                "oneway": "no",
+                "parking:condition:left": "free",
+                "parking:condition:left:capacity": "28",
+                "parking:condition:right": "free",
+                "parking:condition:right:capacity": "38",
+                "parking:lane:left": "marked",
+                "parking:lane:right": "marked",
+                "political_division": "canton",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332468805,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5446838,
+                        47.2273967
+                    ],
+                    [
+                        -1.543569,
+                        47.2272828
+                    ],
+                    [
+                        -1.5434544,
+                        47.2272705
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Desaix",
+                "oneway": "no",
+                "parking:condition:left": "free",
+                "parking:lane:left": "marked",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332468816,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5492798,
+                        47.2278935
+                    ],
+                    [
+                        -1.5492944,
+                        47.2278951
+                    ],
+                    [
+                        -1.5494789,
+                        47.2279158
+                    ],
+                    [
+                        -1.5496808,
+                        47.2279383
+                    ],
+                    [
+                        -1.5501027,
+                        47.2279855
+                    ],
+                    [
+                        -1.5508386,
+                        47.2280605
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "admin_level": "11",
+                "bicycle": "designated",
+                "boundary": "administrative",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Desaix",
+                "oneway": "no",
+                "parking:condition:left": "free",
+                "parking:condition:left:capacity": "18",
+                "parking:condition:right": "free",
+                "parking:condition:right:capacity": "5",
+                "parking:lane:left": "marked",
+                "parking:lane:right": "marked",
+                "political_division": "canton",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332468823,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5483904,
+                        47.2278
+                    ],
+                    [
+                        -1.5469338,
+                        47.2276396
+                    ],
+                    [
+                        -1.5454436,
+                        47.227477
+                    ],
+                    [
+                        -1.5453772,
+                        47.2274691
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "admin_level": "11",
+                "bicycle": "yes",
+                "boundary": "administrative",
+                "cycleway:left": "lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxweight": "5.5",
+                "name": "Rue Desaix",
+                "oneway": "no",
+                "parking:condition:left": "free",
+                "parking:condition:left:capacity": "28",
+                "parking:condition:right": "free",
+                "parking:condition:right:capacity": "38",
+                "parking:lane:left": "marked",
+                "parking:lane:right": "marked",
+                "political_division": "canton",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

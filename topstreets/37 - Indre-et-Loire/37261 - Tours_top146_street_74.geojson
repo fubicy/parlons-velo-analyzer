@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 246171338,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6974365,
+                        47.4237923
+                    ],
+                    [
+                        0.6978423,
+                        47.4235686
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Marne",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307425716,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6968898,
+                        47.4240045
+                    ],
+                    [
+                        0.6965705,
+                        47.4239812
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "description": "Arr\u00eat ligne \"Plan B\" en cas de coupure de la ligne de Tram",
+                "highway": "platform",
+                "name": "Marne",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

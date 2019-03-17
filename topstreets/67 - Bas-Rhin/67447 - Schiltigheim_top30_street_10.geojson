@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4753868,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7410874,
+                        48.609723
+                    ],
+                    [
+                        7.7412745,
+                        48.6096591
+                    ],
+                    [
+                        7.7414104,
+                        48.6096225
+                    ],
+                    [
+                        7.7414969,
+                        48.6096019
+                    ],
+                    [
+                        7.7416107,
+                        48.6095859
+                    ],
+                    [
+                        7.7421862,
+                        48.6095168
+                    ],
+                    [
+                        7.7429715,
+                        48.6094225
+                    ],
+                    [
+                        7.7434428,
+                        48.6093659
+                    ],
+                    [
+                        7.7435699,
+                        48.6093484
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Lauterbourg",
+                "parking:lane:both": "marked",
+                "parking:lane:both:capacity": "7",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4753872,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7396192,
+                        48.6102113
+                    ],
+                    [
+                        7.7399741,
+                        48.6100977
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de Lauterbourg",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5896947,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7477598,
+                        48.6088696
+                    ],
+                    [
+                        7.7463704,
+                        48.6090212
+                    ],
+                    [
+                        7.7462034,
+                        48.6090393
+                    ],
+                    [
+                        7.7460697,
+                        48.6090542
+                    ],
+                    [
+                        7.7448051,
+                        48.6091948
+                    ],
+                    [
+                        7.7446781,
+                        48.6092083
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de Lauterbourg",
+                "oneway": "yes",
+                "parking:lane:both": "marked",
+                "parking:lane:both:capacity": "42",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198812642,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7399741,
+                        48.6100977
+                    ],
+                    [
+                        7.7410874,
+                        48.609723
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "layer": "1",
+                "lit": "yes",
+                "maxheight": "3.8",
+                "maxspeed": "50",
+                "name": "Rue de Lauterbourg",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 517251014,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7435699,
+                        48.6093484
+                    ],
+                    [
+                        7.7436733,
+                        48.6093353
+                    ],
+                    [
+                        7.7445438,
+                        48.6092253
+                    ],
+                    [
+                        7.7446781,
+                        48.6092083
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de Lauterbourg",
+                "parking:lane": "left",
+                "parking:lane:left:capacity": "10",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

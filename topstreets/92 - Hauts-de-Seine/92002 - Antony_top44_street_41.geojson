@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22493119,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3018395,
+                        48.7574892
+                    ],
+                    [
+                        2.3018871,
+                        48.7576311
+                    ],
+                    [
+                        2.3018663,
+                        48.7577824
+                    ],
+                    [
+                        2.3017696,
+                        48.75825
+                    ]
+                ]
+            },
+            "properties": {
+                "fixme": "pas de panneaux zone 30 panneaux interdit aux cycles",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue de Sceaux",
+                "note": "pas de DSC",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22493128,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3014652,
+                        48.7596723
+                    ],
+                    [
+                        2.3014191,
+                        48.7597077
+                    ],
+                    [
+                        2.3013649,
+                        48.7597243
+                    ],
+                    [
+                        2.3013088,
+                        48.7597208
+                    ],
+                    [
+                        2.3012764,
+                        48.7597026
+                    ],
+                    [
+                        2.3012335,
+                        48.7596523
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Avenue de Sceaux",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 262602521,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3017696,
+                        48.75825
+                    ],
+                    [
+                        2.3015893,
+                        48.7590133
+                    ],
+                    [
+                        2.3014682,
+                        48.7596243
+                    ],
+                    [
+                        2.3014652,
+                        48.7596723
+                    ]
+                ]
+            },
+            "properties": {
+                "fixme": "pas de panneaux zone 30 panneaux interdit aux cycles",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue de Sceaux",
+                "note": "pas de DSC",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

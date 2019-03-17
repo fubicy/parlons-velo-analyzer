@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 228602913,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.5512858,
+                        43.5382446
+                    ],
+                    [
+                        1.5512582,
+                        43.5382524
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Route de Revel",
+                "oneway": "no",
+                "ref": "D 2",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 228602914,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.5512582,
+                        43.5382524
+                    ],
+                    [
+                        1.5509354,
+                        43.5383302
+                    ],
+                    [
+                        1.5504693,
+                        43.5385109
+                    ],
+                    [
+                        1.5501832,
+                        43.5386448
+                    ],
+                    [
+                        1.5480732,
+                        43.5397798
+                    ],
+                    [
+                        1.5480031,
+                        43.5398174
+                    ],
+                    [
+                        1.5479493,
+                        43.5398296
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Route de Revel",
+                "oneway": "no",
+                "ref": "D 2",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

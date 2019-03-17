@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 49835740,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5355288,
+                        47.4675367
+                    ],
+                    [
+                        -0.5354387,
+                        47.4674883
+                    ],
+                    [
+                        -0.5334833,
+                        47.4668047
+                    ],
+                    [
+                        -0.5334364,
+                        47.4667866
+                    ],
+                    [
+                        -0.5333937,
+                        47.4667714
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Fran\u00e7ois Besnard",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

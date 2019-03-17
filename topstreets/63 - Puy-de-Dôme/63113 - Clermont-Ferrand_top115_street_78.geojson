@@ -1,0 +1,249 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4081485,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0865941,
+                        45.7664459
+                    ],
+                    [
+                        3.0867031,
+                        45.7665182
+                    ],
+                    [
+                        3.0868259,
+                        45.7665981
+                    ],
+                    [
+                        3.0869225,
+                        45.7666854
+                    ],
+                    [
+                        3.0869616,
+                        45.7667722
+                    ],
+                    [
+                        3.0869779,
+                        45.7668615
+                    ],
+                    [
+                        3.0869824,
+                        45.7670838
+                    ],
+                    [
+                        3.0869974,
+                        45.7673086
+                    ],
+                    [
+                        3.0870106,
+                        45.7674065
+                    ],
+                    [
+                        3.0870677,
+                        45.76768
+                    ],
+                    [
+                        3.087076,
+                        45.7677972
+                    ],
+                    [
+                        3.0870844,
+                        45.7679254
+                    ],
+                    [
+                        3.0870953,
+                        45.7680154
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Kessler",
+                "oneway": "yes",
+                "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27879600,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0870953,
+                        45.7680154
+                    ],
+                    [
+                        3.0871102,
+                        45.7680715
+                    ],
+                    [
+                        3.087184,
+                        45.7683496
+                    ],
+                    [
+                        3.0872738,
+                        45.7686153
+                    ],
+                    [
+                        3.087302,
+                        45.7687017
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "living_street",
+                "name": "Rue Kessler",
+                "oneway": "yes",
+                "psv": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58489483,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0872772,
+                        45.7695708
+                    ],
+                    [
+                        3.0872753,
+                        45.769613
+                    ],
+                    [
+                        3.0872731,
+                        45.769663
+                    ],
+                    [
+                        3.0872429,
+                        45.77066
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "motor_vehicle": "destination",
+                "name": "Rue Kessler",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385243465,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0872429,
+                        45.77066
+                    ],
+                    [
+                        3.0872328,
+                        45.7707035
+                    ],
+                    [
+                        3.0872162,
+                        45.7707249
+                    ],
+                    [
+                        3.0871811,
+                        45.7707706
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "living_street",
+                "name": "Rue Kessler",
+                "oneway": "yes",
+                "psv": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385243466,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.087302,
+                        45.7687017
+                    ],
+                    [
+                        3.0872988,
+                        45.7688338
+                    ],
+                    [
+                        3.0872937,
+                        45.7690124
+                    ],
+                    [
+                        3.0872916,
+                        45.7690845
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "cycleway:right": "lane",
+                "highway": "living_street",
+                "name": "Rue Kessler",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 625010464,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0872916,
+                        45.7690845
+                    ],
+                    [
+                        3.0872764,
+                        45.7695197
+                    ],
+                    [
+                        3.0872772,
+                        45.7695708
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "motor_vehicle": "destination",
+                "name": "Rue Kessler",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

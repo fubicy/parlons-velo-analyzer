@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34568584,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.9989807,
+                        47.1295226
+                    ],
+                    [
+                        0.9989013,
+                        47.129436
+                    ],
+                    [
+                        0.9985102,
+                        47.1292147
+                    ],
+                    [
+                        0.9984547,
+                        47.1291779
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de la R\u00e9publique",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "sett",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51978335,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.9984547,
+                        47.1291779
+                    ],
+                    [
+                        0.9983524,
+                        47.1291177
+                    ],
+                    [
+                        0.9981871,
+                        47.1290458
+                    ],
+                    [
+                        0.9980211,
+                        47.1289466
+                    ],
+                    [
+                        0.9978424,
+                        47.128822
+                    ],
+                    [
+                        0.9973191,
+                        47.1284019
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de la R\u00e9publique",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

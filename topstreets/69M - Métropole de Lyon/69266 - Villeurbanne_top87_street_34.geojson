@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 386295469,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8911539,
+                        45.755401
+                    ],
+                    [
+                        4.8911751,
+                        45.7552594
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Gare de Villeurbanne",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "33949",
+                "route_ref": "C26A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386295470,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8911892,
+                        45.7561254
+                    ],
+                    [
+                        4.8911733,
+                        45.7562646
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Gare de Villeurbanne",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "443",
+                "route_ref": "C26A:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

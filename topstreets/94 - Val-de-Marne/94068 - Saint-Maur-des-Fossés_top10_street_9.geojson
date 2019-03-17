@@ -1,0 +1,294 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23897845,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4753203,
+                        48.8071964
+                    ],
+                    [
+                        2.4751731,
+                        48.8072215
+                    ],
+                    [
+                        2.4749352,
+                        48.8072838
+                    ],
+                    [
+                        2.4745343,
+                        48.807395
+                    ],
+                    [
+                        2.474103,
+                        48.807515
+                    ],
+                    [
+                        2.4739717,
+                        48.807557
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de la Varenne",
+                "old_ref": "D 123",
+                "oneway": "no",
+                "parking:condition": "disc",
+                "parking:lane:both": "marked",
+                "ref": "D 3",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26808653,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4753203,
+                        48.8071964
+                    ],
+                    [
+                        2.4753966,
+                        48.8070884
+                    ],
+                    [
+                        2.4755766,
+                        48.8069027
+                    ],
+                    [
+                        2.4758621,
+                        48.8067218
+                    ],
+                    [
+                        2.4761497,
+                        48.8066087
+                    ],
+                    [
+                        2.4764416,
+                        48.8065763
+                    ],
+                    [
+                        2.4765911,
+                        48.8065641
+                    ],
+                    [
+                        2.4767312,
+                        48.8065678
+                    ],
+                    [
+                        2.4770498,
+                        48.8066205
+                    ],
+                    [
+                        2.4775718,
+                        48.8067073
+                    ],
+                    [
+                        2.4776309,
+                        48.8067594
+                    ],
+                    [
+                        2.4776701,
+                        48.8068149
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de la Varenne",
+                "oneway": "yes",
+                "parking:condition": "disc",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28611627,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4712658,
+                        48.8098273
+                    ],
+                    [
+                        2.4710474,
+                        48.8099521
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de la Varenne",
+                "oneway": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71093995,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4739717,
+                        48.807557
+                    ],
+                    [
+                        2.4738634,
+                        48.807598
+                    ],
+                    [
+                        2.4737595,
+                        48.8076635
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Rue de la Varenne",
+                "old_ref": "D 123",
+                "oneway": "no",
+                "parking:lane:both": "no_parking",
+                "ref": "D 3",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108421624,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4737595,
+                        48.8076635
+                    ],
+                    [
+                        2.4736725,
+                        48.8077578
+                    ],
+                    [
+                        2.4733279,
+                        48.8081111
+                    ],
+                    [
+                        2.4732197,
+                        48.808222
+                    ],
+                    [
+                        2.4721482,
+                        48.8091177
+                    ],
+                    [
+                        2.4720813,
+                        48.8091761
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Rue de la Varenne",
+                "old_ref": "D 123",
+                "oneway": "no",
+                "parking:condition:both": "ticket",
+                "parking:lane:both": "marked",
+                "ref": "D 3",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 279400708,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4715823,
+                        48.8095834
+                    ],
+                    [
+                        2.4714334,
+                        48.8097313
+                    ],
+                    [
+                        2.4712658,
+                        48.8098273
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de la Varenne",
+                "old_ref": "D 123",
+                "oneway": "yes",
+                "ref": "D 3",
+                "turn:lanes": "left;through|through",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 450269783,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4720813,
+                        48.8091761
+                    ],
+                    [
+                        2.4720032,
+                        48.8092443
+                    ],
+                    [
+                        2.4715823,
+                        48.8095834
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Rue de la Varenne",
+                "old_ref": "D 123",
+                "oneway": "no",
+                "parking:condition:both": "ticket",
+                "parking:lane:both": "marked",
+                "ref": "D 3",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

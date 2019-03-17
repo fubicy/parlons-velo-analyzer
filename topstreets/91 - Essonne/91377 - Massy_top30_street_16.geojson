@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 172735332,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2878046,
+                        48.7304875
+                    ],
+                    [
+                        2.2876742,
+                        48.7304606
+                    ],
+                    [
+                        2.2875962,
+                        48.7304429
+                    ],
+                    [
+                        2.2873896,
+                        48.7303973
+                    ],
+                    [
+                        2.2872401,
+                        48.7303624
+                    ],
+                    [
+                        2.2870355,
+                        48.7303087
+                    ],
+                    [
+                        2.2853422,
+                        48.7298645
+                    ],
+                    [
+                        2.2852909,
+                        48.7298511
+                    ],
+                    [
+                        2.2851827,
+                        48.7298227
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue de Moscou",
+                "note": "p bi lateral \u00e0 cheval sur trottoir",
+                "parking:lane": "parallel",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

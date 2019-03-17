@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28939440,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1769412,
+                        48.9198793
+                    ],
+                    [
+                        2.1775655,
+                        48.9189109
+                    ],
+                    [
+                        2.1778917,
+                        48.9184653
+                    ],
+                    [
+                        2.1783492,
+                        48.9176967
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue des \u00c9parges",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

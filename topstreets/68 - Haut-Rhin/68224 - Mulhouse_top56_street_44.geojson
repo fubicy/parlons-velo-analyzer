@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 150519197,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3099395,
+                        47.7453403
+                    ],
+                    [
+                        7.3097836,
+                        47.7453175
+                    ],
+                    [
+                        7.3096051,
+                        47.7452971
+                    ],
+                    [
+                        7.3094057,
+                        47.7452234
+                    ],
+                    [
+                        7.3088496,
+                        47.7449824
+                    ],
+                    [
+                        7.3083479,
+                        47.7447199
+                    ],
+                    [
+                        7.3078056,
+                        47.7442857
+                    ],
+                    [
+                        7.3069903,
+                        47.7438351
+                    ],
+                    [
+                        7.3064596,
+                        47.7435299
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Gustave Schaeffer",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18895111,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.15483,
+                        46.1631317
+                    ],
+                    [
+                        -1.1548068,
+                        46.1632042
+                    ],
+                    [
+                        -1.1546894,
+                        46.1635528
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des \u00c9coles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111866484,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1546894,
+                        46.1635528
+                    ],
+                    [
+                        -1.1544954,
+                        46.1641005
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des \u00c9coles",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

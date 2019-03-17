@@ -1,0 +1,550 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27261916,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5208296,
+                        48.7909443
+                    ],
+                    [
+                        2.5205665,
+                        48.7910327
+                    ],
+                    [
+                        2.5205285,
+                        48.7910461
+                    ],
+                    [
+                        2.5202438,
+                        48.7911591
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "ref": "D 123",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27313415,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5126856,
+                        48.7940867
+                    ],
+                    [
+                        2.51224,
+                        48.7942463
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "layer": "-1",
+                "maxheight": "4.15",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue du Bac",
+                "ref": "D 123",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27313417,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.51224,
+                        48.7942463
+                    ],
+                    [
+                        2.5115338,
+                        48.7944949
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "parking:condition:both": "ticket",
+                "ref": "D 123",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71055539,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5126856,
+                        48.7940867
+                    ],
+                    [
+                        2.5134546,
+                        48.7938246
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "parking:condition:both": "ticket",
+                "ref": "D 123",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71055541,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5115338,
+                        48.7944949
+                    ],
+                    [
+                        2.5113922,
+                        48.7945474
+                    ],
+                    [
+                        2.5103937,
+                        48.7949175
+                    ],
+                    [
+                        2.5099996,
+                        48.7950703
+                    ],
+                    [
+                        2.5099225,
+                        48.7951002
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "parking:condition:both": "ticket",
+                "ref": "D 123",
+                "surface": "asphalt",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71056910,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5144612,
+                        48.7935021
+                    ],
+                    [
+                        2.514332,
+                        48.7935383
+                    ],
+                    [
+                        2.5135604,
+                        48.7937901
+                    ],
+                    [
+                        2.5134546,
+                        48.7938246
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "parking:condition": "ticket",
+                "ref": "D 123",
+                "surface": "asphalt",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131597111,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5067128,
+                        48.7963611
+                    ],
+                    [
+                        2.5065477,
+                        48.7964262
+                    ],
+                    [
+                        2.5061934,
+                        48.7965659
+                    ],
+                    [
+                        2.5059018,
+                        48.7966809
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "oneway": "no",
+                "parking:condition:both": "ticket",
+                "ref": "D 123",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264061679,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5098021,
+                        48.7951469
+                    ],
+                    [
+                        2.5096797,
+                        48.7951944
+                    ],
+                    [
+                        2.5092008,
+                        48.7953801
+                    ],
+                    [
+                        2.5085767,
+                        48.7956221
+                    ],
+                    [
+                        2.5084646,
+                        48.7956656
+                    ],
+                    [
+                        2.5083933,
+                        48.7956932
+                    ],
+                    [
+                        2.5076572,
+                        48.7959787
+                    ],
+                    [
+                        2.5075948,
+                        48.7960029
+                    ],
+                    [
+                        2.5068086,
+                        48.7963222
+                    ],
+                    [
+                        2.5067128,
+                        48.7963611
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "parking:condition:both": "ticket",
+                "ref": "D 123",
+                "surface": "asphalt",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264061680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5157257,
+                        48.7930906
+                    ],
+                    [
+                        2.5156574,
+                        48.7931125
+                    ],
+                    [
+                        2.5150926,
+                        48.7932939
+                    ],
+                    [
+                        2.5150446,
+                        48.79331
+                    ],
+                    [
+                        2.5150055,
+                        48.7933217
+                    ],
+                    [
+                        2.5145658,
+                        48.7934642
+                    ],
+                    [
+                        2.5144612,
+                        48.7935021
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "parking:condition": "ticket",
+                "ref": "D 123",
+                "surface": "asphalt",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 279465081,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5202438,
+                        48.7911591
+                    ],
+                    [
+                        2.5195759,
+                        48.7914422
+                    ],
+                    [
+                        2.5189635,
+                        48.7917017
+                    ],
+                    [
+                        2.5189112,
+                        48.7917239
+                    ],
+                    [
+                        2.5177936,
+                        48.79221
+                    ],
+                    [
+                        2.5176983,
+                        48.7922524
+                    ],
+                    [
+                        2.5167979,
+                        48.7926533
+                    ],
+                    [
+                        2.5167224,
+                        48.7926869
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "parking:condition": "ticket",
+                "ref": "D 123",
+                "surface": "asphalt",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449655207,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5059018,
+                        48.7966809
+                    ],
+                    [
+                        2.5057694,
+                        48.7967331
+                    ],
+                    [
+                        2.5050094,
+                        48.7970328
+                    ],
+                    [
+                        2.5049286,
+                        48.7970646
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "oneway": "no",
+                "parking:condition:both": "ticket",
+                "ref": "D 123",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449655208,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5049286,
+                        48.7970646
+                    ],
+                    [
+                        2.5048272,
+                        48.7971043
+                    ],
+                    [
+                        2.5029377,
+                        48.7978434
+                    ],
+                    [
+                        2.5028534,
+                        48.7978769
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "oneway": "no",
+                "parking:condition:both": "ticket",
+                "ref": "D 123",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 450249955,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5099225,
+                        48.7951002
+                    ],
+                    [
+                        2.5098021,
+                        48.7951469
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "parking:condition:both": "ticket",
+                "ref": "D 123",
+                "surface": "asphalt",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 450255933,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5167224,
+                        48.7926869
+                    ],
+                    [
+                        2.5166423,
+                        48.7927225
+                    ],
+                    [
+                        2.516057,
+                        48.7929669
+                    ],
+                    [
+                        2.5157257,
+                        48.7930906
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Bac",
+                "parking:condition": "ticket",
+                "ref": "D 123",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        }
+    ]
+}

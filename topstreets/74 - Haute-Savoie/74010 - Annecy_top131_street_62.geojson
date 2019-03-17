@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 612379782,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1448031,
+                        45.9142103
+                    ],
+                    [
+                        6.1449586,
+                        45.914267
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Buisson",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 612379792,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1450803,
+                        45.9144739
+                    ],
+                    [
+                        6.1449513,
+                        45.9144261
+                    ],
+                    [
+                        6.1448812,
+                        45.9144002
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Buisson",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 374837363,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8299629,
+                        45.7981855
+                    ],
+                    [
+                        4.8299059,
+                        45.7981243
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Mairie de Saint-Rambert",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "30566",
+                "route_ref": "S10A:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

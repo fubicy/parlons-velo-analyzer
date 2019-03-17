@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 307425711,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6831053,
+                        47.3961704
+                    ],
+                    [
+                        0.6833877,
+                        47.3962062
+                    ],
+                    [
+                        0.6835839,
+                        47.3962222
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "description": "Arr\u00eat ligne \"Plan B\" en cas de coupure de la ligne de Tram",
+                "highway": "platform",
+                "name": "Constantine",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

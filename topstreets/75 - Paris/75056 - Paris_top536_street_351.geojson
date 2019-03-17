@@ -1,0 +1,242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4227146,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3369559,
+                        48.8538497
+                    ],
+                    [
+                        2.3369588,
+                        48.8539085
+                    ],
+                    [
+                        2.3368794,
+                        48.8545063
+                    ],
+                    [
+                        2.3368692,
+                        48.8545818
+                    ],
+                    [
+                        2.3368031,
+                        48.8550692
+                    ],
+                    [
+                        2.3367856,
+                        48.855225
+                    ],
+                    [
+                        2.3367788,
+                        48.8552849
+                    ],
+                    [
+                        2.3366922,
+                        48.8556727
+                    ],
+                    [
+                        2.3366912,
+                        48.85568
+                    ],
+                    [
+                        2.3366118,
+                        48.8562265
+                    ],
+                    [
+                        2.3366043,
+                        48.8562785
+                    ],
+                    [
+                        2.3365211,
+                        48.8570819
+                    ],
+                    [
+                        2.3365141,
+                        48.8571498
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Seine",
+                "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0421\u0435\u043d\u0430",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02014P0193",
+                "surface": "asphalt",
+                "wikidata": "Q2384721",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19780814,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3369559,
+                        48.8538497
+                    ],
+                    [
+                        2.3369519,
+                        48.8537879
+                    ],
+                    [
+                        2.3369896,
+                        48.8530197
+                    ],
+                    [
+                        2.3369912,
+                        48.8528989
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue de Seine",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013 P 0109",
+                "surface": "asphalt",
+                "wikidata": "Q2384721",
+                "zone:maxspeed": "FR:20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19780815,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3369912,
+                        48.8528989
+                    ],
+                    [
+                        2.3369932,
+                        48.8528465
+                    ],
+                    [
+                        2.336996,
+                        48.8527699
+                    ],
+                    [
+                        2.3370046,
+                        48.85254
+                    ],
+                    [
+                        2.337007,
+                        48.8524845
+                    ],
+                    [
+                        2.3370215,
+                        48.8521437
+                    ],
+                    [
+                        2.3370442,
+                        48.8518112
+                    ],
+                    [
+                        2.337048,
+                        48.8517558
+                    ],
+                    [
+                        2.3370495,
+                        48.8517044
+                    ],
+                    [
+                        2.3370552,
+                        48.8515085
+                    ],
+                    [
+                        2.3370565,
+                        48.8514647
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Seine",
+                "source:maxspeed": "opendata.paris.fr",
+                "surface": "asphalt",
+                "wikidata": "Q2384721",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62235594,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3365141,
+                        48.8571498
+                    ],
+                    [
+                        2.3364895,
+                        48.8572568
+                    ],
+                    [
+                        2.3364795,
+                        48.8573069
+                    ],
+                    [
+                        2.3364602,
+                        48.8573492
+                    ],
+                    [
+                        2.336433,
+                        48.8574009
+                    ],
+                    [
+                        2.3363866,
+                        48.8574606
+                    ],
+                    [
+                        2.3363123,
+                        48.8575206
+                    ],
+                    [
+                        2.3362394,
+                        48.8575542
+                    ],
+                    [
+                        2.3361703,
+                        48.8575733
+                    ],
+                    [
+                        2.3360807,
+                        48.857598
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Seine",
+                "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0421\u0435\u043d\u0430",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02014P0193",
+                "surface": "asphalt",
+                "wikidata": "Q2384721",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

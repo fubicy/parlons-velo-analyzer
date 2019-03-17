@@ -1,0 +1,146 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26636271,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5833923,
+                        47.2395028
+                    ],
+                    [
+                        -1.5829566,
+                        47.2386625
+                    ],
+                    [
+                        -1.5827955,
+                        47.2383999
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Petite Avenue de Longchamp",
+                "oneway": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26636274,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5820459,
+                        47.2381168
+                    ],
+                    [
+                        -1.5810006,
+                        47.2377459
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "foot": "designated",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Petite Avenue de Longchamp",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45065629,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5785157,
+                        47.2364018
+                    ],
+                    [
+                        -1.5791464,
+                        47.2369377
+                    ],
+                    [
+                        -1.5798909,
+                        47.2373229
+                    ],
+                    [
+                        -1.5801056,
+                        47.2374234
+                    ],
+                    [
+                        -1.580236,
+                        47.2374716
+                    ],
+                    [
+                        -1.5810006,
+                        47.2377459
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Petite Avenue de Longchamp",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162257570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5827955,
+                        47.2383999
+                    ],
+                    [
+                        -1.5820459,
+                        47.2381168
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Petite Avenue de Longchamp",
+                "oneway": "no",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

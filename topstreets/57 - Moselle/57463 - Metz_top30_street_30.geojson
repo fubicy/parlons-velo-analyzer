@@ -1,0 +1,222 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8056469,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1713583,
+                        49.1070216
+                    ],
+                    [
+                        6.1714289,
+                        49.106972
+                    ],
+                    [
+                        6.1718211,
+                        49.1069065
+                    ],
+                    [
+                        6.1719275,
+                        49.1068888
+                    ],
+                    [
+                        6.1720342,
+                        49.1068735
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "track",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Passage du Sablon",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23258016,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1738093,
+                        49.1057831
+                    ],
+                    [
+                        6.1736635,
+                        49.1058756
+                    ],
+                    [
+                        6.173487,
+                        49.1059878
+                    ],
+                    [
+                        6.1725553,
+                        49.1065646
+                    ],
+                    [
+                        6.1720342,
+                        49.1068735
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "track",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "name": "Passage du Sablon",
+                "overtaking": "no",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172047264,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1720342,
+                        49.1068735
+                    ],
+                    [
+                        6.1719792,
+                        49.1069306
+                    ],
+                    [
+                        6.1719527,
+                        49.1069788
+                    ],
+                    [
+                        6.1718874,
+                        49.1071633
+                    ],
+                    [
+                        6.1718691,
+                        49.1072106
+                    ],
+                    [
+                        6.1718539,
+                        49.1072884
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Passage du Sablon",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 211150470,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1741657,
+                        49.1057342
+                    ],
+                    [
+                        6.1740998,
+                        49.105734
+                    ],
+                    [
+                        6.1740407,
+                        49.1057349
+                    ],
+                    [
+                        6.1739712,
+                        49.1057424
+                    ],
+                    [
+                        6.1738958,
+                        49.1057541
+                    ],
+                    [
+                        6.1738093,
+                        49.1057831
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Passage du Sablon",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 367823420,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1738093,
+                        49.1057831
+                    ],
+                    [
+                        6.1738884,
+                        49.1057269
+                    ],
+                    [
+                        6.1739103,
+                        49.1057113
+                    ],
+                    [
+                        6.1739846,
+                        49.1056555
+                    ],
+                    [
+                        6.1740218,
+                        49.1056302
+                    ],
+                    [
+                        6.1740589,
+                        49.1055997
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Passage du Sablon",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4040038,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3468233,
+                        48.853066
+                    ],
+                    [
+                        2.3466523,
+                        48.8531348
+                    ],
+                    [
+                        2.3464585,
+                        48.8531897
+                    ],
+                    [
+                        2.3462483,
+                        48.8532466
+                    ],
+                    [
+                        2.3459126,
+                        48.8533342
+                    ],
+                    [
+                        2.3445202,
+                        48.8536989
+                    ],
+                    [
+                        2.3442925,
+                        48.8537909
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "history": "Retrieved from v4",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Quai Saint-Michel",
+                "name:ru": "\u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f \u0421\u0430\u043d-\u041c\u0438\u0448\u0435\u043b\u044c",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "wikidata": "Q3412655",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 668878769,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3468399,
+                        48.853107
+                    ],
+                    [
+                        2.3466998,
+                        48.8531758
+                    ],
+                    [
+                        2.3461103,
+                        48.8533293
+                    ],
+                    [
+                        2.3445413,
+                        48.8537494
+                    ],
+                    [
+                        2.3443246,
+                        48.8538241
+                    ]
+                ]
+            },
+            "properties": {
+                "construction": "cycleway",
+                "highway": "construction",
+                "name": "Quai Saint-Michel",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

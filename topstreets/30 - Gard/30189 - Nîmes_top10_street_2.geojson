@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16171190,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3615874,
+                        43.8387181
+                    ],
+                    [
+                        4.3616279,
+                        43.8383441
+                    ],
+                    [
+                        4.361678,
+                        43.8379346
+                    ],
+                    [
+                        4.3617372,
+                        43.8378198
+                    ],
+                    [
+                        4.3618372,
+                        43.8376502
+                    ],
+                    [
+                        4.3619936,
+                        43.837435
+                    ],
+                    [
+                        4.3622181,
+                        43.8370834
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Grand'Rue",
+                "oneway": "yes",
+                "line_width": 17,
+                "line_color": "#150500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40112628,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3621156,
+                        43.8368328
+                    ],
+                    [
+                        4.3622181,
+                        43.8370834
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Grand'Rue",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 17,
+                "line_color": "#150500"
+            }
+        }
+    ]
+}

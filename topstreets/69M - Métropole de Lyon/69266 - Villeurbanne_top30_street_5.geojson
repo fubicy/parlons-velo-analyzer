@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 386120052,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.880316,
+                        45.7696869
+                    ],
+                    [
+                        4.8803084,
+                        45.7695175
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Gratte-Ciel",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "11920",
+                "route_ref": "C26A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386120053,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8816382,
+                        45.7690903
+                    ],
+                    [
+                        4.8818545,
+                        45.76905
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Gratte-Ciel",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "1106",
+                "route_ref": "69A:A,C26A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386120054,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8823422,
+                        45.7687143
+                    ],
+                    [
+                        4.8821326,
+                        45.7686785
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Gratte-Ciel",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "1105",
+                "route_ref": "69A:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "no",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

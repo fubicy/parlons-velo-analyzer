@@ -1,0 +1,758 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23128194,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8429797,
+                        45.7553077
+                    ],
+                    [
+                        4.8428424,
+                        45.7553887
+                    ],
+                    [
+                        4.8428057,
+                        45.755405
+                    ],
+                    [
+                        4.8427036,
+                        45.7554396
+                    ],
+                    [
+                        4.8420488,
+                        45.7556633
+                    ],
+                    [
+                        4.841834,
+                        45.7557366
+                    ],
+                    [
+                        4.8417412,
+                        45.7557682
+                    ],
+                    [
+                        4.8409963,
+                        45.7560186
+                    ],
+                    [
+                        4.8409536,
+                        45.756033
+                    ],
+                    [
+                        4.8408769,
+                        45.7560594
+                    ],
+                    [
+                        4.8405223,
+                        45.7561815
+                    ],
+                    [
+                        4.8404896,
+                        45.7561927
+                    ],
+                    [
+                        4.8403528,
+                        45.7562442
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157518927,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8508506,
+                        45.7525894
+                    ],
+                    [
+                        4.8507021,
+                        45.7526436
+                    ],
+                    [
+                        4.8504394,
+                        45.7527287
+                    ],
+                    [
+                        4.8503431,
+                        45.7527626
+                    ],
+                    [
+                        4.8498989,
+                        45.7529117
+                    ],
+                    [
+                        4.8492639,
+                        45.75313
+                    ],
+                    [
+                        4.8490111,
+                        45.7532098
+                    ],
+                    [
+                        4.8489161,
+                        45.7532418
+                    ],
+                    [
+                        4.8481567,
+                        45.7535106
+                    ],
+                    [
+                        4.8481167,
+                        45.7535242
+                    ],
+                    [
+                        4.8479398,
+                        45.7535847
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157518929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8469929,
+                        45.7539082
+                    ],
+                    [
+                        4.8467941,
+                        45.7539764
+                    ],
+                    [
+                        4.8463708,
+                        45.7541217
+                    ],
+                    [
+                        4.8462352,
+                        45.7541682
+                    ],
+                    [
+                        4.8455991,
+                        45.7543967
+                    ],
+                    [
+                        4.8455045,
+                        45.7544296
+                    ],
+                    [
+                        4.8453956,
+                        45.7544675
+                    ],
+                    [
+                        4.8452633,
+                        45.7545135
+                    ],
+                    [
+                        4.8452384,
+                        45.7545222
+                    ],
+                    [
+                        4.8437596,
+                        45.7550367
+                    ],
+                    [
+                        4.8435226,
+                        45.755119
+                    ],
+                    [
+                        4.8433065,
+                        45.7551937
+                    ],
+                    [
+                        4.8432776,
+                        45.7552039
+                    ],
+                    [
+                        4.8429797,
+                        45.7553077
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185997357,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8588742,
+                        45.7498097
+                    ],
+                    [
+                        4.8591742,
+                        45.7496804
+                    ],
+                    [
+                        4.8593199,
+                        45.7496352
+                    ],
+                    [
+                        4.8594318,
+                        45.7495937
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "emergency": "yes",
+                "foot": "yes",
+                "highway": "service",
+                "lit": "yes",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "psv": "yes",
+                "ref": "D 506",
+                "sidewalk": "right",
+                "source": "local_knowledge",
+                "source:date": "2014-05-07",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192922521,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8588742,
+                        45.7498097
+                    ],
+                    [
+                        4.8583846,
+                        45.7499739
+                    ],
+                    [
+                        4.858269,
+                        45.7500127
+                    ],
+                    [
+                        4.8571628,
+                        45.7503838
+                    ],
+                    [
+                        4.8569612,
+                        45.7504514
+                    ],
+                    [
+                        4.8565071,
+                        45.7506114
+                    ],
+                    [
+                        4.8557608,
+                        45.7508822
+                    ],
+                    [
+                        4.8554849,
+                        45.750982
+                    ],
+                    [
+                        4.8553196,
+                        45.7510417
+                    ],
+                    [
+                        4.8551894,
+                        45.7510888
+                    ],
+                    [
+                        4.8539631,
+                        45.7515031
+                    ],
+                    [
+                        4.8538933,
+                        45.7515267
+                    ],
+                    [
+                        4.8538092,
+                        45.7515551
+                    ],
+                    [
+                        4.8535893,
+                        45.7516294
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207572286,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8402914,
+                        45.7561594
+                    ],
+                    [
+                        4.8404333,
+                        45.7561183
+                    ],
+                    [
+                        4.8408271,
+                        45.7559836
+                    ],
+                    [
+                        4.8408973,
+                        45.7559588
+                    ],
+                    [
+                        4.8417477,
+                        45.7556585
+                    ],
+                    [
+                        4.8425277,
+                        45.7553831
+                    ],
+                    [
+                        4.8425671,
+                        45.7553697
+                    ],
+                    [
+                        4.8426728,
+                        45.7553319
+                    ],
+                    [
+                        4.8427516,
+                        45.7553187
+                    ],
+                    [
+                        4.8427925,
+                        45.7553118
+                    ],
+                    [
+                        4.842937,
+                        45.7553086
+                    ],
+                    [
+                        4.8429797,
+                        45.7553077
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207572289,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8594138,
+                        45.7496891
+                    ],
+                    [
+                        4.8592682,
+                        45.749735
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "sidewalk": "no",
+                "source": "local_knowledge",
+                "source:date": "2014-05-07",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 269173305,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8401309,
+                        45.7562051
+                    ],
+                    [
+                        4.8402914,
+                        45.7561594
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 280017365,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8592682,
+                        45.749735
+                    ],
+                    [
+                        4.8588742,
+                        45.7498097
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "source": "local_knowledge",
+                "source:date": "2014-05-07",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 379931459,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8474102,
+                        45.7537656
+                    ],
+                    [
+                        4.8472669,
+                        45.7538146
+                    ],
+                    [
+                        4.8469929,
+                        45.7539082
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 379931460,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8479398,
+                        45.7535847
+                    ],
+                    [
+                        4.8477772,
+                        45.7536402
+                    ],
+                    [
+                        4.8477592,
+                        45.7536464
+                    ],
+                    [
+                        4.8476633,
+                        45.7536792
+                    ],
+                    [
+                        4.8474102,
+                        45.7537656
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 476298583,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8522383,
+                        45.7520881
+                    ],
+                    [
+                        4.8515738,
+                        45.7523254
+                    ],
+                    [
+                        4.8515732,
+                        45.7523256
+                    ],
+                    [
+                        4.8511004,
+                        45.7524961
+                    ],
+                    [
+                        4.8508506,
+                        45.7525894
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 476298585,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8535893,
+                        45.7516294
+                    ],
+                    [
+                        4.8534178,
+                        45.751688
+                    ],
+                    [
+                        4.8532825,
+                        45.7517322
+                    ],
+                    [
+                        4.8528555,
+                        45.7518786
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 521673257,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8403528,
+                        45.7562442
+                    ],
+                    [
+                        4.8401924,
+                        45.7563052
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 651796853,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8528555,
+                        45.7518786
+                    ],
+                    [
+                        4.8522383,
+                        45.7520881
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Gambetta",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

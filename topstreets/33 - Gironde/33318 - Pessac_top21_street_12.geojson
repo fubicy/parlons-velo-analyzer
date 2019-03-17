@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26117751,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6463903,
+                        44.8020941
+                    ],
+                    [
+                        -0.6471684,
+                        44.8020619
+                    ],
+                    [
+                        -0.6476634,
+                        44.8020414
+                    ],
+                    [
+                        -0.647908,
+                        44.8020321
+                    ],
+                    [
+                        -0.6483307,
+                        44.8020129
+                    ],
+                    [
+                        -0.6485215,
+                        44.8020353
+                    ],
+                    [
+                        -0.6487657,
+                        44.8020576
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place du Monteil",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26117753,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6476634,
+                        44.8020414
+                    ],
+                    [
+                        -0.6476761,
+                        44.8023579
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Place du Monteil",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

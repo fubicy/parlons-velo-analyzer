@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22759913,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3216243,
+                        48.8410717
+                    ],
+                    [
+                        2.3216973,
+                        48.8411395
+                    ],
+                    [
+                        2.3225508,
+                        48.8418199
+                    ],
+                    [
+                        2.3226177,
+                        48.8418723
+                    ],
+                    [
+                        2.3228047,
+                        48.8420224
+                    ],
+                    [
+                        2.3228525,
+                        48.842061
+                    ],
+                    [
+                        2.3238892,
+                        48.8428934
+                    ],
+                    [
+                        2.3241729,
+                        48.8431278
+                    ],
+                    [
+                        2.3242596,
+                        48.8433562
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue du D\u00e9part",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3452292",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53538209,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3240079,
+                        48.8434395
+                    ],
+                    [
+                        2.3240589,
+                        48.8432995
+                    ],
+                    [
+                        2.3240167,
+                        48.8431924
+                    ],
+                    [
+                        2.3236595,
+                        48.8429083
+                    ],
+                    [
+                        2.3236479,
+                        48.842896
+                    ],
+                    [
+                        2.3226983,
+                        48.8421193
+                    ],
+                    [
+                        2.3226592,
+                        48.842088
+                    ],
+                    [
+                        2.3224657,
+                        48.8419334
+                    ],
+                    [
+                        2.3223995,
+                        48.8418806
+                    ],
+                    [
+                        2.3222992,
+                        48.8418018
+                    ],
+                    [
+                        2.3215283,
+                        48.8411567
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du D\u00e9part",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "wikidata": "Q3452292",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

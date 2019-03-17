@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23154217,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5704695,
+                        44.841505
+                    ],
+                    [
+                        -0.5706793,
+                        44.8414502
+                    ],
+                    [
+                        -0.5707526,
+                        44.8414343
+                    ],
+                    [
+                        -0.5708831,
+                        44.8414233
+                    ],
+                    [
+                        -0.5713114,
+                        44.8413871
+                    ],
+                    [
+                        -0.5719985,
+                        44.841329
+                    ],
+                    [
+                        -0.57237,
+                        44.8412976
+                    ],
+                    [
+                        -0.5728907,
+                        44.8412535
+                    ],
+                    [
+                        -0.5731466,
+                        44.8412319
+                    ],
+                    [
+                        -0.5735284,
+                        44.8411996
+                    ],
+                    [
+                        -0.5735917,
+                        44.8411943
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "motor_vehicle": "destination",
+                "name": "Rue Saint-R\u00e9mi",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193477668,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5735917,
+                        44.8411943
+                    ],
+                    [
+                        -0.5736388,
+                        44.8411903
+                    ],
+                    [
+                        -0.5743817,
+                        44.8411292
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "pedestrian",
+                "motor_vehicle": "destination",
+                "name": "Rue Saint-R\u00e9mi",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

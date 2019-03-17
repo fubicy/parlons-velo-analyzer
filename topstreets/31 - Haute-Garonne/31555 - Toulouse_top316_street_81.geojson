@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23229286,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4808035,
+                        43.6143365
+                    ],
+                    [
+                        1.4802278,
+                        43.6140418
+                    ],
+                    [
+                        1.4796642,
+                        43.6137592
+                    ],
+                    [
+                        1.4795231,
+                        43.6136927
+                    ],
+                    [
+                        1.4785487,
+                        43.613209
+                    ],
+                    [
+                        1.4780511,
+                        43.6129797
+                    ],
+                    [
+                        1.4779076,
+                        43.6129095
+                    ],
+                    [
+                        1.4774707,
+                        43.612695
+                    ],
+                    [
+                        1.4773715,
+                        43.6126427
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue de l'Hers",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23229290,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4795231,
+                        43.6136927
+                    ],
+                    [
+                        1.4793963,
+                        43.6138287
+                    ],
+                    [
+                        1.4790578,
+                        43.6142203
+                    ],
+                    [
+                        1.4787194,
+                        43.6140478
+                    ],
+                    [
+                        1.4783875,
+                        43.6144128
+                    ],
+                    [
+                        1.4792039,
+                        43.6148044
+                    ],
+                    [
+                        1.479914,
+                        43.6140743
+                    ],
+                    [
+                        1.4795423,
+                        43.6138885
+                    ],
+                    [
+                        1.4793963,
+                        43.6138287
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Avenue de l'Hers",
+                "oneway": "yes",
+                "service": "alley",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23229291,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4796642,
+                        43.6137592
+                    ],
+                    [
+                        1.4795423,
+                        43.6138885
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Avenue de l'Hers",
+                "oneway": "yes",
+                "service": "alley",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25382631,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1913772,
+                        48.6860002
+                    ],
+                    [
+                        6.1915741,
+                        48.6860337
+                    ],
+                    [
+                        6.1917204,
+                        48.6860588
+                    ],
+                    [
+                        6.191848,
+                        48.6860882
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Albert Lebrun",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 267803517,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1913772,
+                        48.6860002
+                    ],
+                    [
+                        6.1911788,
+                        48.6859415
+                    ],
+                    [
+                        6.1910591,
+                        48.6859025
+                    ],
+                    [
+                        6.190965,
+                        48.6858643
+                    ],
+                    [
+                        6.1908277,
+                        48.6857866
+                    ],
+                    [
+                        6.1905503,
+                        48.6855576
+                    ],
+                    [
+                        6.1902389,
+                        48.6853068
+                    ],
+                    [
+                        6.1898952,
+                        48.685023
+                    ],
+                    [
+                        6.1897258,
+                        48.6848776
+                    ],
+                    [
+                        6.1894415,
+                        48.6847604
+                    ],
+                    [
+                        6.188988,
+                        48.6845874
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Albert Lebrun",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 267803519,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1918114,
+                        48.6861528
+                    ],
+                    [
+                        6.191679,
+                        48.6861146
+                    ],
+                    [
+                        6.1913772,
+                        48.6860002
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Albert Lebrun",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605504184,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.188988,
+                        48.6845874
+                    ],
+                    [
+                        6.1888968,
+                        48.6845444
+                    ],
+                    [
+                        6.1887273,
+                        48.6844042
+                    ],
+                    [
+                        6.1885794,
+                        48.6842888
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:backward": "Toutes directions;Quartier Ville Vieille-L\u00e9opold;Quartier Stanislas;Rives de Meurthe;Marcel Brot;CHU de Nancy;Urgences;Facult\u00e9 de Pharmacie",
+                "destination:symbol:backward": "motorway;hospital",
+                "highway": "secondary",
+                "lanes": "5",
+                "lanes:backward": "2",
+                "maxspeed": "50",
+                "name": "Rue Albert Lebrun",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left;through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

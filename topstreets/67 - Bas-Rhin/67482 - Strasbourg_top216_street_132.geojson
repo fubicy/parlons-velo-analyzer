@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 15804532,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7481539,
+                        48.5830005
+                    ],
+                    [
+                        7.7481799,
+                        48.5830094
+                    ],
+                    [
+                        7.7485571,
+                        48.5831137
+                    ],
+                    [
+                        7.7492553,
+                        48.5833046
+                    ],
+                    [
+                        7.7492751,
+                        48.5833381
+                    ],
+                    [
+                        7.7493316,
+                        48.5834337
+                    ],
+                    [
+                        7.7496129,
+                        48.5838941
+                    ],
+                    [
+                        7.7496457,
+                        48.5839287
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue du Temple Neuf",
+                "name:de": "Neukirchgasse",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

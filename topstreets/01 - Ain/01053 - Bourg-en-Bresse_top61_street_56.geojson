@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 48616247,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2172081,
+                        46.2024707
+                    ],
+                    [
+                        5.2174967,
+                        46.2025024
+                    ],
+                    [
+                        5.2177874,
+                        46.2025344
+                    ],
+                    [
+                        5.2185902,
+                        46.2026398
+                    ],
+                    [
+                        5.2188446,
+                        46.2026732
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de la Victoire",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48616257,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2148649,
+                        46.2021554
+                    ],
+                    [
+                        5.2150068,
+                        46.2022185
+                    ],
+                    [
+                        5.2150829,
+                        46.2022422
+                    ],
+                    [
+                        5.2172081,
+                        46.2024707
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Avenue de la Victoire",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

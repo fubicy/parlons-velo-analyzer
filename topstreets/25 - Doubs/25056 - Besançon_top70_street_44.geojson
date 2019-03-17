@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32202353,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0280144,
+                        47.2407261
+                    ],
+                    [
+                        6.0279344,
+                        47.2406401
+                    ],
+                    [
+                        6.0278413,
+                        47.2405851
+                    ],
+                    [
+                        6.0272216,
+                        47.2401112
+                    ],
+                    [
+                        6.0271569,
+                        47.2400601
+                    ],
+                    [
+                        6.0265349,
+                        47.2396787
+                    ],
+                    [
+                        6.0263961,
+                        47.2395864
+                    ],
+                    [
+                        6.0263365,
+                        47.2395535
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de la R\u00e9publique",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39351629,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0263365,
+                        47.2395535
+                    ],
+                    [
+                        6.0262727,
+                        47.2395102
+                    ],
+                    [
+                        6.0260882,
+                        47.2393909
+                    ],
+                    [
+                        6.0251064,
+                        47.2387558
+                    ],
+                    [
+                        6.0250149,
+                        47.2386993
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "living_street",
+                "name": "Rue de la R\u00e9publique",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50733672,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0250149,
+                        47.2386993
+                    ],
+                    [
+                        6.0247107,
+                        47.2385125
+                    ],
+                    [
+                        6.0243945,
+                        47.2383181
+                    ],
+                    [
+                        6.0243702,
+                        47.2382944
+                    ],
+                    [
+                        6.0243197,
+                        47.2382441
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "name": "Rue de la R\u00e9publique",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

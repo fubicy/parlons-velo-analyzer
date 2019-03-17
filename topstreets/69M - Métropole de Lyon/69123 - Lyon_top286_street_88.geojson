@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 283404610,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8086416,
+                        45.7749155
+                    ],
+                    [
+                        4.8097233,
+                        45.7748189
+                    ],
+                    [
+                        4.8107376,
+                        45.7747077
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Georges Clemenceau",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "sidewalk": "no",
+                "source": "survey",
+                "source:date": "2014-05-21",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 283404613,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8087208,
+                        45.7748401
+                    ],
+                    [
+                        4.8087849,
+                        45.7748599
+                    ],
+                    [
+                        4.8096648,
+                        45.7747863
+                    ],
+                    [
+                        4.8097233,
+                        45.7748189
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary_link",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Georges Clemenceau",
+                "oneway": "yes",
+                "source": "survey",
+                "source:date": "2014-05-21",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 293441585,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8106592,
+                        45.7748036
+                    ],
+                    [
+                        4.8104513,
+                        45.7747886
+                    ],
+                    [
+                        4.8090029,
+                        45.7749289
+                    ],
+                    [
+                        4.8086416,
+                        45.7749155
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "motor_vehicle": "no",
+                "name": "Pont Georges Clemenceau",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "psv": "yes",
+                "ref": "D 506",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 467777647,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8106592,
+                        45.7748036
+                    ],
+                    [
+                        4.8086518,
+                        45.7749997
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Georges Clemenceau",
+                "oneway": "yes",
+                "sidewalk": "no",
+                "source": "survey",
+                "source:date": "2014-05-21",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

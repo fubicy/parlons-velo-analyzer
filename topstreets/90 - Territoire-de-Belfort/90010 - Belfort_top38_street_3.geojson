@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29342117,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.860965,
+                        47.6421125
+                    ],
+                    [
+                        6.8608824,
+                        47.6421561
+                    ],
+                    [
+                        6.8608644,
+                        47.6421673
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Pont du Magasin",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29342125,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.8608644,
+                        47.6421673
+                    ],
+                    [
+                        6.8608419,
+                        47.6421802
+                    ],
+                    [
+                        6.8605646,
+                        47.6423391
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "unclassified",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont du Magasin",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

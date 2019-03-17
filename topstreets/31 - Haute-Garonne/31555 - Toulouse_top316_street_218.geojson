@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22392908,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4488368,
+                        43.5923804
+                    ],
+                    [
+                        1.4488351,
+                        43.5924432
+                    ],
+                    [
+                        1.4488105,
+                        43.5933934
+                    ],
+                    [
+                        1.4484514,
+                        43.5940028
+                    ],
+                    [
+                        1.448417,
+                        43.5940613
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Lamarck",
+                "note": "Changement de sens de circulation, f\u00e9vrier 2012",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

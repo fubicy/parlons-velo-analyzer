@@ -1,0 +1,256 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 97029742,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2799908,
+                        49.84904
+                    ],
+                    [
+                        3.2800805,
+                        49.8490672
+                    ],
+                    [
+                        3.2810391,
+                        49.8495788
+                    ],
+                    [
+                        3.2816685,
+                        49.8499147
+                    ],
+                    [
+                        3.2817766,
+                        49.8499724
+                    ],
+                    [
+                        3.2819156,
+                        49.8500471
+                    ],
+                    [
+                        3.2832348,
+                        49.8507716
+                    ],
+                    [
+                        3.283323,
+                        49.8508228
+                    ],
+                    [
+                        3.2839442,
+                        49.8511641
+                    ],
+                    [
+                        3.2843634,
+                        49.8513907
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Richelieu",
+                "old_ref": "D 8",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105207944,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2862451,
+                        49.8525009
+                    ],
+                    [
+                        3.2861879,
+                        49.8524644
+                    ],
+                    [
+                        3.2861367,
+                        49.8523841
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Richelieu",
+                "old_ref": "D 8",
+                "oneway": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132363247,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.284767,
+                        49.8516127
+                    ],
+                    [
+                        3.2849038,
+                        49.8516883
+                    ],
+                    [
+                        3.2854302,
+                        49.8519804
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Richelieu",
+                "old_ref": "D 8",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132363248,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2843634,
+                        49.8513907
+                    ],
+                    [
+                        3.2846836,
+                        49.8515684
+                    ],
+                    [
+                        3.284767,
+                        49.8516127
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Richelieu",
+                "old_ref": "D 8",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132363249,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2854302,
+                        49.8519804
+                    ],
+                    [
+                        3.2854603,
+                        49.8519992
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Richelieu",
+                "old_ref": "D 8",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158720832,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2861367,
+                        49.8523841
+                    ],
+                    [
+                        3.2862635,
+                        49.8524188
+                    ],
+                    [
+                        3.2863269,
+                        49.8524413
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Richelieu",
+                "old_ref": "D 8",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 555301669,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2854603,
+                        49.8519992
+                    ],
+                    [
+                        3.2861367,
+                        49.8523841
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Richelieu",
+                "old_ref": "D 8",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

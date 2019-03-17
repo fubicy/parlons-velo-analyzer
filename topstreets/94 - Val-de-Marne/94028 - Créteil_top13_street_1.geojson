@@ -1,0 +1,134 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27437272,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4453998,
+                        48.799705
+                    ],
+                    [
+                        2.4464925,
+                        48.7996846
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "lanes": "2",
+                "layer": "1",
+                "name": "Rue de l'Echat",
+                "oneway": "yes",
+                "ref": "D 48",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27437349,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4464925,
+                        48.7996846
+                    ],
+                    [
+                        2.4471234,
+                        48.7996648
+                    ],
+                    [
+                        2.4478604,
+                        48.7996608
+                    ],
+                    [
+                        2.4482371,
+                        48.7996627
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue de l'Echat",
+                "oneway": "yes",
+                "ref": "D 48",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75620916,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4486027,
+                        48.7995682
+                    ],
+                    [
+                        2.4488667,
+                        48.7995898
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "name": "Rue de l'Echat",
+                "oneway": "yes",
+                "ref": "D 48",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256062759,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4467278,
+                        48.7995476
+                    ],
+                    [
+                        2.4469613,
+                        48.7995546
+                    ],
+                    [
+                        2.4471558,
+                        48.7995594
+                    ],
+                    [
+                        2.4473387,
+                        48.7995605
+                    ],
+                    [
+                        2.4486027,
+                        48.7995682
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "maxspeed": "50",
+                "name": "Rue de l'Echat",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

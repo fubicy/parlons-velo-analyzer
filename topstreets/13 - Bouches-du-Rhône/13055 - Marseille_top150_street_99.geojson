@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 99498659,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3904357,
+                        43.3093588
+                    ],
+                    [
+                        5.390127,
+                        43.3091823
+                    ],
+                    [
+                        5.3887711,
+                        43.3084169
+                    ],
+                    [
+                        5.3879134,
+                        43.3079316
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "9",
+                "boundary": "administrative",
+                "cycleway": "opposite_track",
+                "highway": "residential",
+                "lanes": "1",
+                "name": "Rue Guibal",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138601277,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3850729,
+                        43.3063192
+                    ],
+                    [
+                        5.3845413,
+                        43.3060147
+                    ],
+                    [
+                        5.3842762,
+                        43.3058587
+                    ],
+                    [
+                        5.3840363,
+                        43.3057191
+                    ],
+                    [
+                        5.3839154,
+                        43.3056511
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "9",
+                "boundary": "administrative",
+                "highway": "residential",
+                "lanes": "2",
+                "name": "Rue Guibal",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138601278,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3879134,
+                        43.3079316
+                    ],
+                    [
+                        5.3857255,
+                        43.3066846
+                    ],
+                    [
+                        5.3853537,
+                        43.3064729
+                    ],
+                    [
+                        5.3850729,
+                        43.3063192
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "9",
+                "boundary": "administrative",
+                "highway": "residential",
+                "lanes": "2",
+                "maxheight": "3.9",
+                "name": "Rue Guibal",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

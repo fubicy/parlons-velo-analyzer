@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22147549,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5538181,
+                        47.4628263
+                    ],
+                    [
+                        -0.5538268,
+                        47.4629018
+                    ],
+                    [
+                        -0.5539427,
+                        47.4635854
+                    ],
+                    [
+                        -0.5540722,
+                        47.4643128
+                    ],
+                    [
+                        -0.5540825,
+                        47.4643704
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue de Contades",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 611618812,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5540895,
+                        47.4644179
+                    ],
+                    [
+                        -0.5541059,
+                        47.4645301
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Avenue de Contades",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 618990017,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5540825,
+                        47.4643704
+                    ],
+                    [
+                        -0.5540895,
+                        47.4644179
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue de Contades",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

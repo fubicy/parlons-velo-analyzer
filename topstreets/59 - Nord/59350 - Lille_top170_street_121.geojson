@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23209088,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0664334,
+                        50.6261472
+                    ],
+                    [
+                        3.0664239,
+                        50.6269705
+                    ],
+                    [
+                        3.0664233,
+                        50.6270246
+                    ],
+                    [
+                        3.0664224,
+                        50.6270824
+                    ],
+                    [
+                        3.0664128,
+                        50.6277385
+                    ],
+                    [
+                        3.0664118,
+                        50.6278042
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue de Bruxelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikipedia": "fr:Rue de Bruxelles (Lille)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

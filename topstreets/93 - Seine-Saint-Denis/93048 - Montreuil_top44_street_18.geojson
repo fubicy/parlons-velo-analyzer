@@ -1,0 +1,147 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23037259,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4416079,
+                        48.8626187
+                    ],
+                    [
+                        2.4416392,
+                        48.8627327
+                    ],
+                    [
+                        2.4419214,
+                        48.863762
+                    ],
+                    [
+                        2.4419655,
+                        48.8638671
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "ref": "N 302",
+                "ref:FR:FANTOIR": "930487190D",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23304500,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4467932,
+                        48.8681902
+                    ],
+                    [
+                        2.4465963,
+                        48.8680211
+                    ],
+                    [
+                        2.4463538,
+                        48.8678129
+                    ],
+                    [
+                        2.4456595,
+                        48.8672169
+                    ],
+                    [
+                        2.4455141,
+                        48.8670921
+                    ],
+                    [
+                        2.4451786,
+                        48.8667824
+                    ],
+                    [
+                        2.4451229,
+                        48.8667309
+                    ],
+                    [
+                        2.4440432,
+                        48.8657611
+                    ],
+                    [
+                        2.4438691,
+                        48.8656048
+                    ],
+                    [
+                        2.4437254,
+                        48.8654757
+                    ],
+                    [
+                        2.4436635,
+                        48.8654201
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "ref": "N 302",
+                "ref:FR:FANTOIR": "930487190D",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24227869,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4419655,
+                        48.8638671
+                    ],
+                    [
+                        2.4420039,
+                        48.8639566
+                    ],
+                    [
+                        2.4420586,
+                        48.864006
+                    ],
+                    [
+                        2.44334,
+                        48.8651633
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "ref": "N 302",
+                "ref:FR:FANTOIR": "930487190D",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

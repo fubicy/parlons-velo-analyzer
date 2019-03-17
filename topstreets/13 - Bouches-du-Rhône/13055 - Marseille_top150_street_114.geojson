@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 430026121,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3555305,
+                        43.3472056
+                    ],
+                    [
+                        5.3556702,
+                        43.3474416
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Lyc\u00e9e Saint-Exup\u00e9ry",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 430026122,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3553895,
+                        43.3475335
+                    ],
+                    [
+                        5.3551902,
+                        43.3472233
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Lyc\u00e9e Saint-Exup\u00e9ry",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 430026123,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.354963,
+                        43.3465926
+                    ],
+                    [
+                        5.3548464,
+                        43.3463926
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Lyc\u00e9e Saint-Exup\u00e9ry",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

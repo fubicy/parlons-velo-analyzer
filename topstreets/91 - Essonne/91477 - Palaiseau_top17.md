@@ -4,23 +4,23 @@ Sur l'ensemble de la ville il y a eu 63 réponses dont 29 réponses avec une rue
 
 17 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue de Paris | 6 | 9% | <img src="../../img/bar_20.gif" />&nbsp;20%|
-| Avenue du 8 Mai 1945 | 4 | 6% | <img src="../../img/bar_13.gif" />&nbsp;13%|
-| Avenue du Général Leclerc | 3 | 4% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Rue Denfert Rochereau | 2 | 3% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Avenue des Alliés | 2 | 3% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Rue Élisée Reclus | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue de l'Effort Mutuel | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Maurice Berteaux | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Marceau | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Gutenberg | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue George Sand | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Charles Gounod | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Route de Saclay | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Route de Palaiseau | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Avenue du Général de Gaulle | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Avenue des Cosmonautes | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Avenue de Stalingrad | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| **Total** | 29 | 46% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue de Paris | 6 | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| Avenue du 8 Mai 1945 | 4 | <img src="../../img/bar_13.gif" />&nbsp;13%|
+| Avenue du Général Leclerc | 3 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Rue Denfert Rochereau | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Avenue des Alliés | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Rue Élisée Reclus | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue de l'Effort Mutuel | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue Maurice Berteaux | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue Marceau | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue Gutenberg | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue George Sand | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue Charles Gounod | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Route de Saclay | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Route de Palaiseau | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Avenue du Général de Gaulle | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Avenue des Cosmonautes | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Avenue de Stalingrad | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 29 | 100%|

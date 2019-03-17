@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 3210 réponses dont 2040 réponses avec une
 
 316 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Avenue de Grande Bretagne | 96 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue d'Alsace-Lorraine | 82 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Avenue de Muret | 76 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Avenue des Minimes | 53 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Grande Rue Saint-Michel | 44 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Avenue Jean Rieux | 41 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Route de Saint-Simon | 38 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Purpan | 38 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rampe | 36 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Auch | 36 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| **Total** | 540 | 16% | 26%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Avenue de Grande Bretagne | 96 | <img src="../../img/bar_17.gif" />&nbsp;17%|
+| Rue d'Alsace-Lorraine | 82 | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| Avenue de Muret | 76 | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| Avenue des Minimes | 53 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Grande Rue Saint-Michel | 44 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Avenue Jean Rieux | 41 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Route de Saint-Simon | 38 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Purpan | 38 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rampe | 36 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Auch | 36 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| **Total** | 540 | 100%|

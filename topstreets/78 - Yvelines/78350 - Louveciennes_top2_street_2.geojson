@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 38249511,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1218075,
+                        48.8617243
+                    ],
+                    [
+                        2.1224145,
+                        48.8615512
+                    ],
+                    [
+                        2.1231596,
+                        48.8614317
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Vig\u00e9e-Lebrun",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38358375,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1231596,
+                        48.8614317
+                    ],
+                    [
+                        2.1239682,
+                        48.8613094
+                    ],
+                    [
+                        2.1248755,
+                        48.8612474
+                    ],
+                    [
+                        2.1264603,
+                        48.8612177
+                    ],
+                    [
+                        2.1266301,
+                        48.8612138
+                    ],
+                    [
+                        2.1271841,
+                        48.8611732
+                    ],
+                    [
+                        2.1275792,
+                        48.8611346
+                    ],
+                    [
+                        2.1283663,
+                        48.8609474
+                    ],
+                    [
+                        2.1286338,
+                        48.8609638
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Vig\u00e9e-Lebrun",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

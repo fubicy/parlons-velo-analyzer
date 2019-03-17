@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 41369485,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8197504,
+                        43.9527972
+                    ],
+                    [
+                        4.8202723,
+                        43.9528819
+                    ],
+                    [
+                        4.8203451,
+                        43.9528891
+                    ],
+                    [
+                        4.8205646,
+                        43.9529066
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "mapillary": "8LfbeZojZAxLjLFMGr2uwQ",
+                "name": "Avenue des Italiens",
+                "survey:date": "2017-06-04",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130636597,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8194029,
+                        43.9522904
+                    ],
+                    [
+                        4.81964,
+                        43.952622
+                    ],
+                    [
+                        4.8196912,
+                        43.9527033
+                    ],
+                    [
+                        4.8197504,
+                        43.9527972
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Avenue des Italiens",
+                "source": "survey 2014",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130636598,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8198133,
+                        43.9528577
+                    ],
+                    [
+                        4.8200602,
+                        43.953085
+                    ],
+                    [
+                        4.8202445,
+                        43.9532523
+                    ],
+                    [
+                        4.8203274,
+                        43.9533436
+                    ],
+                    [
+                        4.8204678,
+                        43.9534634
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "mapillary": "OsfM6qEG9-8EBPgY7gFfyg",
+                "name": "Avenue des Italiens",
+                "oneway": "yes",
+                "smoothness": "intermediate",
+                "survey:date": "2018-05-24",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161178425,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8197504,
+                        43.9527972
+                    ],
+                    [
+                        4.8198133,
+                        43.9528577
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Avenue des Italiens",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

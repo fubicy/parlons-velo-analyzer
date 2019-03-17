@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 39178025,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0551538,
+                        50.6338781
+                    ],
+                    [
+                        3.0551059,
+                        50.6336036
+                    ],
+                    [
+                        3.0550978,
+                        50.6335529
+                    ],
+                    [
+                        3.0550428,
+                        50.6331234
+                    ],
+                    [
+                        3.0550368,
+                        50.633059
+                    ],
+                    [
+                        3.0550294,
+                        50.6330162
+                    ],
+                    [
+                        3.0549163,
+                        50.6322522
+                    ],
+                    [
+                        3.0549035,
+                        50.6321663
+                    ],
+                    [
+                        3.0548929,
+                        50.6320886
+                    ],
+                    [
+                        3.0548878,
+                        50.6320557
+                    ],
+                    [
+                        3.0547808,
+                        50.6313677
+                    ],
+                    [
+                        3.0547749,
+                        50.6313294
+                    ],
+                    [
+                        3.0547726,
+                        50.6313149
+                    ],
+                    [
+                        3.0547668,
+                        50.6312539
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Mass\u00e9na",
+                "oneway": "yes",
+                "parking:lane:both": "parallel",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 524132250,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0547668,
+                        50.6312539
+                    ],
+                    [
+                        3.0547529,
+                        50.6311543
+                    ],
+                    [
+                        3.0546761,
+                        50.6306058
+                    ],
+                    [
+                        3.0546377,
+                        50.6301957
+                    ],
+                    [
+                        3.0546654,
+                        50.6301353
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Mass\u00e9na",
+                "oneway": "yes",
+                "parking:lane:both": "parallel",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

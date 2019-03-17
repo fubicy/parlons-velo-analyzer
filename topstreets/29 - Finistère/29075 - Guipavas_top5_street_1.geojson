@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 13702807,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4117209,
+                        48.4284348
+                    ],
+                    [
+                        -4.4116562,
+                        48.4284717
+                    ],
+                    [
+                        -4.4077787,
+                        48.4306828
+                    ],
+                    [
+                        -4.4075531,
+                        48.4308091
+                    ],
+                    [
+                        -4.4070372,
+                        48.4311117
+                    ],
+                    [
+                        -4.4069687,
+                        48.4311519
+                    ],
+                    [
+                        -4.4061143,
+                        48.4316447
+                    ],
+                    [
+                        -4.4050806,
+                        48.4322333
+                    ],
+                    [
+                        -4.4043198,
+                        48.4327064
+                    ],
+                    [
+                        -4.4021859,
+                        48.4339236
+                    ],
+                    [
+                        -4.4019825,
+                        48.4340819
+                    ],
+                    [
+                        -4.401917,
+                        48.4341536
+                    ],
+                    [
+                        -4.4017903,
+                        48.4342987
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de Brest",
+                "name:br": "Straed Brest",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13702813,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4119841,
+                        48.4282007
+                    ],
+                    [
+                        -4.4117209,
+                        48.4284348
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de Brest",
+                "name:br": "Straed Brest",
+                "oneway": "yes",
+                "ref": "D 712",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13702814,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4117209,
+                        48.4284348
+                    ],
+                    [
+                        -4.4120944,
+                        48.4283196
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue de Brest",
+                "name:br": "Straed Brest",
+                "oneway": "yes",
+                "ref": "D 712",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

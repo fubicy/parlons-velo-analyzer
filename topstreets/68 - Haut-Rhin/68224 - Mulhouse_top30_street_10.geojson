@@ -1,0 +1,136 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 20966904,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.343541,
+                        47.7468127
+                    ],
+                    [
+                        7.343471,
+                        47.7466525
+                    ],
+                    [
+                        7.3433423,
+                        47.7464039
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Porte de B\u00e2le",
+                "name:gsw": "B\u00e0slertor",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20966907,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3436717,
+                        47.7467838
+                    ],
+                    [
+                        7.3436123,
+                        47.7467992
+                    ],
+                    [
+                        7.343541,
+                        47.7468127
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Porte de B\u00e2le",
+                "name:gsw": "B\u00e0slertor",
+                "ref": "N 66",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28698503,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3435493,
+                        47.7463694
+                    ],
+                    [
+                        7.3435369,
+                        47.7464118
+                    ],
+                    [
+                        7.3435409,
+                        47.7464623
+                    ],
+                    [
+                        7.3436198,
+                        47.7466297
+                    ],
+                    [
+                        7.3436717,
+                        47.7467838
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "FR:urban",
+                "name": "Porte de B\u00e2le",
+                "name:gsw": "B\u00e0slertor",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|left|none",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28698504,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3433423,
+                        47.7464039
+                    ],
+                    [
+                        7.3434404,
+                        47.7463938
+                    ],
+                    [
+                        7.3435493,
+                        47.7463694
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Porte de B\u00e2le",
+                "name:gsw": "B\u00e0slertor",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

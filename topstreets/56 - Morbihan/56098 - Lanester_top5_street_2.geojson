@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 447235794,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.3549333,
+                        47.7573861
+                    ],
+                    [
+                        -3.352788,
+                        47.7591754
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "bridge": "yes",
+                "cycleway": "track",
+                "foot": "designated",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Pont des Indes",
+                "name:br": "Pont an Indez",
+                "segregated": "yes",
+                "source": "Yahoo",
+                "source:name:br": "proper translation",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 447235795,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.352788,
+                        47.7591754
+                    ],
+                    [
+                        -3.352658,
+                        47.7592613
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "track",
+                "foot": "designated",
+                "highway": "secondary",
+                "name": "Pont des Indes",
+                "segregated": "yes",
+                "source": "Yahoo",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

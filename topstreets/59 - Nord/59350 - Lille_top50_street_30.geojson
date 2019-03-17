@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 147396980,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0350897,
+                        50.6211199
+                    ],
+                    [
+                        3.0351006,
+                        50.6211318
+                    ],
+                    [
+                        3.0351519,
+                        50.6211851
+                    ],
+                    [
+                        3.0352005,
+                        50.6212355
+                    ],
+                    [
+                        3.0353363,
+                        50.6213763
+                    ],
+                    [
+                        3.0354656,
+                        50.6215104
+                    ],
+                    [
+                        3.03557,
+                        50.6216186
+                    ],
+                    [
+                        3.0357754,
+                        50.621822
+                    ],
+                    [
+                        3.0362153,
+                        50.6222538
+                    ],
+                    [
+                        3.0362599,
+                        50.6222976
+                    ],
+                    [
+                        3.0367399,
+                        50.6227597
+                    ],
+                    [
+                        3.0370346,
+                        50.623043
+                    ],
+                    [
+                        3.0372499,
+                        50.6232562
+                    ],
+                    [
+                        3.0373326,
+                        50.6233295
+                    ],
+                    [
+                        3.0375827,
+                        50.6235762
+                    ],
+                    [
+                        3.0378771,
+                        50.6238661
+                    ],
+                    [
+                        3.0386187,
+                        50.6245902
+                    ],
+                    [
+                        3.0386757,
+                        50.6246483
+                    ],
+                    [
+                        3.0387601,
+                        50.6247341
+                    ],
+                    [
+                        3.0391144,
+                        50.6250756
+                    ],
+                    [
+                        3.0391709,
+                        50.62513
+                    ],
+                    [
+                        3.0392342,
+                        50.6251892
+                    ],
+                    [
+                        3.0399189,
+                        50.6258302
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "name": "Rue d'Isly",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150688619,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0399189,
+                        50.6258302
+                    ],
+                    [
+                        3.0399271,
+                        50.6258386
+                    ],
+                    [
+                        3.0400355,
+                        50.6259508
+                    ],
+                    [
+                        3.0401517,
+                        50.6260846
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "name": "Rue d'Isly",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150689879,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0401517,
+                        50.6260846
+                    ],
+                    [
+                        3.0401676,
+                        50.6260987
+                    ],
+                    [
+                        3.0402443,
+                        50.6261722
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue d'Isly",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150691249,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0402443,
+                        50.6261722
+                    ],
+                    [
+                        3.0403013,
+                        50.6262039
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue d'Isly",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 209877631,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0402443,
+                        50.6261722
+                    ],
+                    [
+                        3.0402669,
+                        50.6262096
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue d'Isly",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

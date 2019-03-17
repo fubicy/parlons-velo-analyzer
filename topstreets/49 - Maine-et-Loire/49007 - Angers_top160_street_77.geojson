@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 243901750,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5513548,
+                        47.4709093
+                    ],
+                    [
+                        -0.550698,
+                        47.4704822
+                    ],
+                    [
+                        -0.5504284,
+                        47.4703102
+                    ],
+                    [
+                        -0.549922,
+                        47.4699763
+                    ],
+                    [
+                        -0.5497705,
+                        47.469879
+                    ],
+                    [
+                        -0.5491971,
+                        47.4695084
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "motor_vehicle": "no",
+                "name": "Rue d'Alsace",
+                "surface": "cobblestone",
+                "wikipedia": "fr:Rue d'Alsace (Angers)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

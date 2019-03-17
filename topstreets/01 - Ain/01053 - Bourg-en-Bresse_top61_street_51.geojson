@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28902702,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2252699,
+                        46.1953835
+                    ],
+                    [
+                        5.2251246,
+                        46.1953946
+                    ],
+                    [
+                        5.2241598,
+                        46.1954684
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Boulevard \u00c9mile Huchet",
+                "turn:lanes:backward": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 606797786,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2241598,
+                        46.1954684
+                    ],
+                    [
+                        5.223008,
+                        46.1955565
+                    ],
+                    [
+                        5.2229186,
+                        46.1955633
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Boulevard \u00c9mile Huchet",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

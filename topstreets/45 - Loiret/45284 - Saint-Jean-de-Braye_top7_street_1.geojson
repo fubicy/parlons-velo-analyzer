@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22822340,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9569187,
+                        47.9239422
+                    ],
+                    [
+                        1.9579899,
+                        47.924017
+                    ],
+                    [
+                        1.9590886,
+                        47.9241029
+                    ],
+                    [
+                        1.9599759,
+                        47.9241692
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "2",
+                "maxspeed": "90",
+                "name": "Tangentielle",
+                "old_ref": "N 60",
+                "oneway": "yes",
+                "ref": "D 2060",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 655738621,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9599759,
+                        47.9241692
+                    ],
+                    [
+                        1.9628083,
+                        47.9243852
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "3",
+                "maxspeed": "90",
+                "name": "Tangentielle",
+                "old_ref": "N 60",
+                "oneway": "yes",
+                "ref": "D 2060",
+                "surface": "asphalt",
+                "turn:lanes": "none|none|merge_to_left",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 655738628,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9628083,
+                        47.9243852
+                    ],
+                    [
+                        1.9647637,
+                        47.9245319
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "2",
+                "maxspeed": "90",
+                "name": "Tangentielle",
+                "old_ref": "N 60",
+                "oneway": "yes",
+                "ref": "D 2060",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

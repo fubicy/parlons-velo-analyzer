@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8749034,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6778326,
+                        48.109349
+                    ],
+                    [
+                        -1.6778293,
+                        48.1094067
+                    ],
+                    [
+                        -1.6778284,
+                        48.109536
+                    ],
+                    [
+                        -1.6778305,
+                        48.1098036
+                    ],
+                    [
+                        -1.677831,
+                        48.109861
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "foot": "yes",
+                "highway": "service",
+                "horse": "no",
+                "maxspeed": "30",
+                "motor_vehicle": "no",
+                "name": "Rue du Mar\u00e9chal Joffre",
+                "name:br": "Straed ar Marichal Joffre",
+                "oneway": "no",
+                "psv": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50557250,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6778326,
+                        48.109349
+                    ],
+                    [
+                        -1.6778345,
+                        48.1093146
+                    ],
+                    [
+                        -1.6778249,
+                        48.108614
+                    ],
+                    [
+                        -1.6778279,
+                        48.1076279
+                    ],
+                    [
+                        -1.677827,
+                        48.1075474
+                    ],
+                    [
+                        -1.6778206,
+                        48.1074797
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "foot": "yes",
+                "highway": "residential",
+                "horse": "no",
+                "lanes": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "no",
+                "name": "Rue du Mar\u00e9chal Joffre",
+                "name:br": "Straed ar Marichal Joffre",
+                "oneway": "no",
+                "psv": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

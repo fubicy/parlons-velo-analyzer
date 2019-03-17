@@ -1,0 +1,201 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4261422,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3508213,
+                        48.8558248
+                    ],
+                    [
+                        2.3507931,
+                        48.8558739
+                    ],
+                    [
+                        2.3507803,
+                        48.8558962
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "unclassified",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Pont d'Arcole",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4261423,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3508213,
+                        48.8558248
+                    ],
+                    [
+                        2.3508875,
+                        48.8558409
+                    ],
+                    [
+                        2.3509185,
+                        48.8558484
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "unclassified",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Pont d'Arcole",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22973459,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3502619,
+                        48.8550649
+                    ],
+                    [
+                        2.3503014,
+                        48.8551261
+                    ],
+                    [
+                        2.3503185,
+                        48.8551478
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont d'Arcole",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "75104P226H;75104P225G",
+                "sidewalk": "both",
+                "source": "Bing",
+                "surface": "asphalt",
+                "wikidata": "Q1418458",
+                "wikipedia": "fr:Pont d'Arcole",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138032009,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3507803,
+                        48.8558962
+                    ],
+                    [
+                        2.350692,
+                        48.8560629
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont d'Arcole",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138032010,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3509185,
+                        48.8558484
+                    ],
+                    [
+                        2.3511152,
+                        48.8559051
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont d'Arcole",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 474063681,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3503185,
+                        48.8551478
+                    ],
+                    [
+                        2.3508213,
+                        48.8558248
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "residential",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont d'Arcole",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "75104P226H;75104P225G",
+                "sidewalk": "both",
+                "source": "Bing",
+                "surface": "asphalt",
+                "turn:lanes": "left|right",
+                "wikidata": "Q1418458",
+                "wikipedia": "fr:Pont d'Arcole",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

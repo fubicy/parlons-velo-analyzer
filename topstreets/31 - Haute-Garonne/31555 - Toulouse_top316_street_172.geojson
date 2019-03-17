@@ -1,0 +1,268 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22549962,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4531896,
+                        43.6001144
+                    ],
+                    [
+                        1.4533726,
+                        43.6000477
+                    ],
+                    [
+                        1.4534166,
+                        43.6000337
+                    ],
+                    [
+                        1.4535844,
+                        43.5999853
+                    ],
+                    [
+                        1.4536697,
+                        43.5999469
+                    ],
+                    [
+                        1.4537783,
+                        43.5998941
+                    ],
+                    [
+                        1.4539242,
+                        43.5998167
+                    ],
+                    [
+                        1.4541463,
+                        43.5996881
+                    ],
+                    [
+                        1.4543684,
+                        43.5995646
+                    ],
+                    [
+                        1.4547522,
+                        43.5993571
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue du Pont Montaudran",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122928973,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4563314,
+                        43.5985329
+                    ],
+                    [
+                        1.4565603,
+                        43.5984169
+                    ],
+                    [
+                        1.4566493,
+                        43.5983726
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue du Pont Montaudran",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199860700,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4563314,
+                        43.5985329
+                    ],
+                    [
+                        1.4564428,
+                        43.5985766
+                    ],
+                    [
+                        1.4565394,
+                        43.5986232
+                    ],
+                    [
+                        1.4566104,
+                        43.5986927
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue du Pont Montaudran",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383633400,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4561131,
+                        43.5986464
+                    ],
+                    [
+                        1.4563314,
+                        43.5985329
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "opposite_track",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue du Pont Montaudran",
+                "oneway": "yes",
+                "turn:lanes": "left|through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383633401,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4559854,
+                        43.5987145
+                    ],
+                    [
+                        1.4561131,
+                        43.5986464
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue du Pont Montaudran",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383633402,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4556723,
+                        43.5988613
+                    ],
+                    [
+                        1.4558159,
+                        43.5987861
+                    ],
+                    [
+                        1.4559184,
+                        43.5987455
+                    ],
+                    [
+                        1.4559854,
+                        43.5987145
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_track",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue du Pont Montaudran",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 644367423,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4547522,
+                        43.5993571
+                    ],
+                    [
+                        1.4547791,
+                        43.5993433
+                    ],
+                    [
+                        1.454811,
+                        43.5993269
+                    ],
+                    [
+                        1.4552271,
+                        43.5991011
+                    ],
+                    [
+                        1.4556723,
+                        43.5988613
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_track",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue du Pont Montaudran",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

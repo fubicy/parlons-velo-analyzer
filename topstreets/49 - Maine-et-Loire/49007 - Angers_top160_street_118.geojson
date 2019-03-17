@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31050322,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5505659,
+                        47.4647078
+                    ],
+                    [
+                        -0.5505814,
+                        47.4647146
+                    ],
+                    [
+                        -0.5505993,
+                        47.4647204
+                    ],
+                    [
+                        -0.5506234,
+                        47.4647246
+                    ],
+                    [
+                        -0.5506483,
+                        47.4647263
+                    ],
+                    [
+                        -0.5506739,
+                        47.4647242
+                    ],
+                    [
+                        -0.5520158,
+                        47.4645812
+                    ],
+                    [
+                        -0.5520804,
+                        47.4645743
+                    ],
+                    [
+                        -0.552812,
+                        47.464501
+                    ],
+                    [
+                        -0.5539446,
+                        47.4643846
+                    ],
+                    [
+                        -0.5540825,
+                        47.4643704
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Bel-Air",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119079362,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5540825,
+                        47.4643704
+                    ],
+                    [
+                        -0.5542176,
+                        47.4643582
+                    ],
+                    [
+                        -0.5542976,
+                        47.4643509
+                    ],
+                    [
+                        -0.5553173,
+                        47.4642376
+                    ],
+                    [
+                        -0.5553772,
+                        47.4642309
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue de Bel-Air",
+                "oneway": "yes",
+                "source:cycleway": "survey;mapillary",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

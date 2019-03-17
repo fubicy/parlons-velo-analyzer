@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19722381,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1558414,
+                        48.8060988
+                    ],
+                    [
+                        2.155958,
+                        48.8057419
+                    ],
+                    [
+                        2.1560888,
+                        48.8056673
+                    ],
+                    [
+                        2.1562255,
+                        48.805587
+                    ],
+                    [
+                        2.1563806,
+                        48.8055239
+                    ],
+                    [
+                        2.156436,
+                        48.805482
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Bazin",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 536874238,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1556719,
+                        48.8067128
+                    ],
+                    [
+                        2.1556715,
+                        48.8066378
+                    ],
+                    [
+                        2.1556783,
+                        48.8066163
+                    ],
+                    [
+                        2.1558414,
+                        48.8060988
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Bazin",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

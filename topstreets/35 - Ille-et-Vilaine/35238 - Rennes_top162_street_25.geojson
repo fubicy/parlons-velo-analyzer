@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 9669533,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6808367,
+                        48.1171657
+                    ],
+                    [
+                        -1.6807119,
+                        48.117177
+                    ],
+                    [
+                        -1.6806662,
+                        48.1171798
+                    ],
+                    [
+                        -1.6799635,
+                        48.1172295
+                    ],
+                    [
+                        -1.679124,
+                        48.1172858
+                    ],
+                    [
+                        -1.678774,
+                        48.1173121
+                    ],
+                    [
+                        -1.6786249,
+                        48.1173242
+                    ],
+                    [
+                        -1.6782998,
+                        48.1173469
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "disused:boundary": "political",
+                "disused:political_division": "canton",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "name": "Rue de l'H\u00f4tel Dieu",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:bus": "no",
+                "psv": "opposite_lane",
+                "surface": "asphalt",
+                "traffic_signals:direction": "forward",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 462556848,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6782998,
+                        48.1173469
+                    ],
+                    [
+                        -1.6781029,
+                        48.1173238
+                    ],
+                    [
+                        -1.6780069,
+                        48.1173124
+                    ],
+                    [
+                        -1.6777319,
+                        48.1172714
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Rue de l'H\u00f4tel Dieu",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "traffic_signals:direction": "forward",
+                "turn:lanes": "left;through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 462556849,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6777319,
+                        48.1172714
+                    ],
+                    [
+                        -1.6779371,
+                        48.1173709
+                    ],
+                    [
+                        -1.6779901,
+                        48.1173758
+                    ],
+                    [
+                        -1.6781014,
+                        48.11737
+                    ],
+                    [
+                        -1.6782998,
+                        48.1173469
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "share_busway",
+                "highway": "service",
+                "name": "Rue de l'H\u00f4tel Dieu",
+                "oneway": "yes",
+                "psv": "yes",
+                "service": "busway",
+                "traffic_signals:direction": "forward",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

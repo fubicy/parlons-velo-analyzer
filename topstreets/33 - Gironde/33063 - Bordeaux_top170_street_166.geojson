@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24020471,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5993152,
+                        44.8524168
+                    ],
+                    [
+                        -0.5991287,
+                        44.85235
+                    ],
+                    [
+                        -0.5969323,
+                        44.8515429
+                    ],
+                    [
+                        -0.5956728,
+                        44.8510838
+                    ],
+                    [
+                        -0.5955927,
+                        44.8510543
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Avenue Carnot",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186328353,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5955927,
+                        44.8510543
+                    ],
+                    [
+                        -0.5954521,
+                        44.8510683
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Avenue Carnot",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 377088658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3463817,
+                        43.2170565
+                    ],
+                    [
+                        5.3463188,
+                        43.2171618
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Les Goudes",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377088659,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3461749,
+                        43.2172031
+                    ],
+                    [
+                        5.3462187,
+                        43.2171057
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Les Goudes",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4342271,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7510241,
+                        45.1637849
+                    ],
+                    [
+                        5.7509494,
+                        45.1637248
+                    ],
+                    [
+                        5.7508076,
+                        45.1636107
+                    ],
+                    [
+                        5.750731,
+                        45.1635488
+                    ],
+                    [
+                        5.7506653,
+                        45.163498
+                    ],
+                    [
+                        5.7503619,
+                        45.1632824
+                    ],
+                    [
+                        5.7501185,
+                        45.1630873
+                    ],
+                    [
+                        5.749766,
+                        45.1628046
+                    ],
+                    [
+                        5.7496095,
+                        45.1626791
+                    ],
+                    [
+                        5.7495463,
+                        45.1626284
+                    ],
+                    [
+                        5.749503,
+                        45.1625937
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue du Vercors",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42386441,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.749503,
+                        45.1625937
+                    ],
+                    [
+                        5.7494186,
+                        45.1625224
+                    ],
+                    [
+                        5.7493123,
+                        45.1624327
+                    ],
+                    [
+                        5.749142,
+                        45.1622366
+                    ],
+                    [
+                        5.7491324,
+                        45.1622256
+                    ],
+                    [
+                        5.7490891,
+                        45.1621757
+                    ],
+                    [
+                        5.7490456,
+                        45.1621298
+                    ],
+                    [
+                        5.7490316,
+                        45.162115
+                    ],
+                    [
+                        5.7489428,
+                        45.1620211
+                    ],
+                    [
+                        5.7487955,
+                        45.1618862
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue du Vercors",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour :2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

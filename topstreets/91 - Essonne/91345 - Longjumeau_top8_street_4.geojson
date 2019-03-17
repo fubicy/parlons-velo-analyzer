@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28654861,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2928254,
+                        48.6931373
+                    ],
+                    [
+                        2.2924728,
+                        48.6932438
+                    ],
+                    [
+                        2.2920273,
+                        48.6933448
+                    ],
+                    [
+                        2.2915408,
+                        48.6934296
+                    ],
+                    [
+                        2.291362,
+                        48.6934536
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Maurice",
+                "oneway": "yes",
+                "ref": "D 118",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151504031,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.291362,
+                        48.6934536
+                    ],
+                    [
+                        2.2883322,
+                        48.6939385
+                    ],
+                    [
+                        2.2882097,
+                        48.6939798
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Maurice",
+                "ref": "D 118",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 295887114,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9356824,
+                        45.7235056
+                    ],
+                    [
+                        4.935624,
+                        45.7234484
+                    ],
+                    [
+                        4.9352118,
+                        45.7230298
+                    ],
+                    [
+                        4.9349207,
+                        45.7228117
+                    ],
+                    [
+                        4.9346002,
+                        45.7226609
+                    ],
+                    [
+                        4.9343735,
+                        45.722601
+                    ],
+                    [
+                        4.9336735,
+                        45.7225822
+                    ],
+                    [
+                        4.9327186,
+                        45.7223979
+                    ],
+                    [
+                        4.9324446,
+                        45.7223933
+                    ],
+                    [
+                        4.9321714,
+                        45.7224119
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Impasse de l'Aviation",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 623405293,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9357888,
+                        45.72362
+                    ],
+                    [
+                        4.9356824,
+                        45.7235056
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Impasse de l'Aviation",
+                "oneway": "yes",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

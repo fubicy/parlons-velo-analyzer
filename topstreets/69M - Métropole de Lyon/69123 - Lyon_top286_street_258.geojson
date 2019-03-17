@@ -1,0 +1,292 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4304857,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8585782,
+                        45.7679927
+                    ],
+                    [
+                        4.8587252,
+                        45.7680421
+                    ],
+                    [
+                        4.8588087,
+                        45.768044
+                    ],
+                    [
+                        4.8588383,
+                        45.7680365
+                    ],
+                    [
+                        4.8588786,
+                        45.7680219
+                    ],
+                    [
+                        4.8589205,
+                        45.768
+                    ],
+                    [
+                        4.8589472,
+                        45.7679707
+                    ],
+                    [
+                        4.8589652,
+                        45.7679344
+                    ],
+                    [
+                        4.8589874,
+                        45.7673572
+                    ],
+                    [
+                        4.8589953,
+                        45.7670481
+                    ],
+                    [
+                        4.8590079,
+                        45.7667571
+                    ],
+                    [
+                        4.8590269,
+                        45.7663468
+                    ],
+                    [
+                        4.8590293,
+                        45.7662442
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Place Jules Ferry",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4304858,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.859239,
+                        45.7659102
+                    ],
+                    [
+                        4.8592234,
+                        45.7661703
+                    ],
+                    [
+                        4.8592218,
+                        45.7662076
+                    ],
+                    [
+                        4.8592204,
+                        45.7662421
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_way",
+                "busway:right": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Place Jules Ferry",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33281892,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8591658,
+                        45.767952
+                    ],
+                    [
+                        4.8591872,
+                        45.7680415
+                    ],
+                    [
+                        4.8591883,
+                        45.7681672
+                    ],
+                    [
+                        4.8591889,
+                        45.768232
+                    ],
+                    [
+                        4.8591899,
+                        45.7683425
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Place Jules Ferry",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122457416,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8592099,
+                        45.7658095
+                    ],
+                    [
+                        4.8593619,
+                        45.7658117
+                    ],
+                    [
+                        4.8595344,
+                        45.7658143
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Place Jules Ferry",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 206790075,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8592204,
+                        45.7662421
+                    ],
+                    [
+                        4.8592155,
+                        45.7663491
+                    ],
+                    [
+                        4.8591943,
+                        45.7668116
+                    ],
+                    [
+                        4.8591921,
+                        45.7668591
+                    ],
+                    [
+                        4.859185,
+                        45.767014
+                    ],
+                    [
+                        4.8591833,
+                        45.7670523
+                    ],
+                    [
+                        4.8591697,
+                        45.7673579
+                    ],
+                    [
+                        4.8591688,
+                        45.7675025
+                    ],
+                    [
+                        4.8591658,
+                        45.767952
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_way",
+                "busway:right": "lane",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Place Jules Ferry",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207243051,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8591658,
+                        45.767952
+                    ],
+                    [
+                        4.859134,
+                        45.7680065
+                    ],
+                    [
+                        4.8590545,
+                        45.7680979
+                    ],
+                    [
+                        4.8590064,
+                        45.7681403
+                    ],
+                    [
+                        4.8589294,
+                        45.7682081
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_way",
+                "busway:right": "lane",
+                "cycleway:right": "no",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Place Jules Ferry",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

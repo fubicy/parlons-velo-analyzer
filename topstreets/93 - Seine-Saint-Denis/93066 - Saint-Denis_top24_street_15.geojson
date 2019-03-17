@@ -1,0 +1,178 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 11289855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3586381,
+                        48.9353935
+                    ],
+                    [
+                        2.3586007,
+                        48.9353227
+                    ],
+                    [
+                        2.3583562,
+                        48.934843
+                    ],
+                    [
+                        2.3583132,
+                        48.9347582
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue de la L\u00e9gion d'Honneur",
+                "surface": "sett",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109099068,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3564876,
+                        48.9305567
+                    ],
+                    [
+                        2.3566114,
+                        48.9308034
+                    ],
+                    [
+                        2.356683,
+                        48.9309531
+                    ],
+                    [
+                        2.3570065,
+                        48.9317106
+                    ],
+                    [
+                        2.3572205,
+                        48.9321985
+                    ],
+                    [
+                        2.3574382,
+                        48.9327256
+                    ],
+                    [
+                        2.3574554,
+                        48.9327672
+                    ],
+                    [
+                        2.3574649,
+                        48.9327904
+                    ],
+                    [
+                        2.3574875,
+                        48.932845
+                    ],
+                    [
+                        2.3575345,
+                        48.9329431
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxweight": "5.5",
+                "name": "Rue de la L\u00e9gion d'Honneur",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109099084,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3575345,
+                        48.9329431
+                    ],
+                    [
+                        2.3575648,
+                        48.9330063
+                    ],
+                    [
+                        2.3575819,
+                        48.9330464
+                    ],
+                    [
+                        2.3579752,
+                        48.9339689
+                    ],
+                    [
+                        2.3580398,
+                        48.934018
+                    ],
+                    [
+                        2.358198,
+                        48.9344539
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "foot": "yes",
+                "highway": "residential",
+                "horse": "yes",
+                "motor_vehicle": "designated",
+                "name": "Rue de la L\u00e9gion d'Honneur",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 654160917,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.358198,
+                        48.9344539
+                    ],
+                    [
+                        2.3582381,
+                        48.9345644
+                    ],
+                    [
+                        2.3583132,
+                        48.9347582
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "foot": "yes",
+                "highway": "residential",
+                "horse": "yes",
+                "motor_vehicle": "designated",
+                "name": "Rue de la L\u00e9gion d'Honneur",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

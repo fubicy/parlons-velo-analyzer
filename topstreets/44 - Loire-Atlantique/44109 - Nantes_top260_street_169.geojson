@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 142570735,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5518279,
+                        47.2213479
+                    ],
+                    [
+                        -1.5517839,
+                        47.221294
+                    ],
+                    [
+                        -1.5515593,
+                        47.221019
+                    ],
+                    [
+                        -1.5514647,
+                        47.2209031
+                    ],
+                    [
+                        -1.5513449,
+                        47.2207564
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Tournefort",
+                "name:br": "Straed Tournefort",
+                "name:fr": "Rue Tournefort",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "both",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 626009520,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5513449,
+                        47.2207564
+                    ],
+                    [
+                        -1.55045,
+                        47.2196606
+                    ],
+                    [
+                        -1.5504399,
+                        47.2196482
+                    ],
+                    [
+                        -1.5504271,
+                        47.2196325
+                    ],
+                    [
+                        -1.550357,
+                        47.2195467
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "foot": "yes",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Tournefort",
+                "name:br": "Straed Tournefort",
+                "name:fr": "Rue Tournefort",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "both",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

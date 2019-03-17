@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 230365757,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4159532,
+                        48.879692
+                    ],
+                    [
+                        2.4159844,
+                        48.8796869
+                    ],
+                    [
+                        2.4161464,
+                        48.8796606
+                    ],
+                    [
+                        2.4171373,
+                        48.8798072
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Boulevard de la Libert\u00e9",
+                "note": "ferm\u00e9 \u00e0 la circulation sauf pi\u00e9tons pour travaux jusqu'en automne 2018 http://www.ville-leslilas.fr/news/13-0-886/station-mairie-des-lilas-installation-du-chantier-et-fermeture-du-boulevard-de-la-liberte",
+                "surface": "paved",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 283488372,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4171373,
+                        48.8798072
+                    ],
+                    [
+                        2.4191419,
+                        48.880067
+                    ],
+                    [
+                        2.4196115,
+                        48.8801327
+                    ],
+                    [
+                        2.4203184,
+                        48.8802251
+                    ],
+                    [
+                        2.4219238,
+                        48.8804468
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Boulevard de la Libert\u00e9",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

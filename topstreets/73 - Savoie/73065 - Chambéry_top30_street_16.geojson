@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 15259565,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9214035,
+                        45.5685029
+                    ],
+                    [
+                        5.9213484,
+                        45.5685653
+                    ],
+                    [
+                        5.9213021,
+                        45.5686087
+                    ],
+                    [
+                        5.9211079,
+                        45.5688265
+                    ],
+                    [
+                        5.9207988,
+                        45.5692254
+                    ],
+                    [
+                        5.9206118,
+                        45.5694666
+                    ],
+                    [
+                        5.9202736,
+                        45.5699243
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Sommeiller",
+                "old_name": "Rue Neuve de la Boisse",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

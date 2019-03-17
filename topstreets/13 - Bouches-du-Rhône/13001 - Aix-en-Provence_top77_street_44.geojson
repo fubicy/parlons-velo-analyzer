@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7989623,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4448962,
+                        43.5272571
+                    ],
+                    [
+                        5.4449388,
+                        43.5276886
+                    ],
+                    [
+                        5.444971,
+                        43.5280973
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Fontaine",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

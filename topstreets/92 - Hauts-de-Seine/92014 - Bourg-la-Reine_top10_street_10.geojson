@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28553432,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3211592,
+                        48.7830604
+                    ],
+                    [
+                        2.3212043,
+                        48.7831326
+                    ],
+                    [
+                        2.3217203,
+                        48.7839585
+                    ],
+                    [
+                        2.3213504,
+                        48.7840664
+                    ],
+                    [
+                        2.3200856,
+                        48.7844354
+                    ],
+                    [
+                        2.3177295,
+                        48.7851204
+                    ],
+                    [
+                        2.3176426,
+                        48.7851457
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue du Panorama",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

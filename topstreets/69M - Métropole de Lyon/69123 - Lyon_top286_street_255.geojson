@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5936140,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8674867,
+                        45.7546491
+                    ],
+                    [
+                        4.8674392,
+                        45.7545576
+                    ],
+                    [
+                        4.867428,
+                        45.7545361
+                    ],
+                    [
+                        4.8673555,
+                        45.7543964
+                    ],
+                    [
+                        4.8672582,
+                        45.754204
+                    ],
+                    [
+                        4.867271,
+                        45.7541249
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Place Rouget de l'Isle",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "smoothness": "excellent",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 239283743,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8667899,
+                        45.7544687
+                    ],
+                    [
+                        4.8667897,
+                        45.7544848
+                    ],
+                    [
+                        4.8668076,
+                        45.7544946
+                    ],
+                    [
+                        4.8668456,
+                        45.7545021
+                    ],
+                    [
+                        4.867367,
+                        45.7545596
+                    ],
+                    [
+                        4.8673773,
+                        45.7545552
+                    ],
+                    [
+                        4.8673838,
+                        45.7545481
+                    ],
+                    [
+                        4.8673853,
+                        45.754541
+                    ],
+                    [
+                        4.8672348,
+                        45.754218
+                    ],
+                    [
+                        4.867225,
+                        45.7542125
+                    ],
+                    [
+                        4.8672134,
+                        45.7542114
+                    ],
+                    [
+                        4.8667899,
+                        45.7544687
+                    ]
+                ]
+            },
+            "properties": {
+                "area": "yes",
+                "bicycle": "permissive",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Place Rouget de l'Isle",
+                "surface": "compacted",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

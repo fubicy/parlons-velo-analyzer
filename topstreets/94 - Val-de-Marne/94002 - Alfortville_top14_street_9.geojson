@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 235813741,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4256937,
+                        48.7897919
+                    ],
+                    [
+                        2.4258535,
+                        48.7899968
+                    ],
+                    [
+                        2.4258708,
+                        48.7900357
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Place Petit Pont",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

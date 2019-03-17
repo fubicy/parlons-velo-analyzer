@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 119439799,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8794398,
+                        45.7783201
+                    ],
+                    [
+                        4.8794631,
+                        45.7782255
+                    ],
+                    [
+                        4.8797157,
+                        45.7773681
+                    ],
+                    [
+                        4.8799935,
+                        45.7763438
+                    ],
+                    [
+                        4.8801108,
+                        45.7758715
+                    ],
+                    [
+                        4.8802189,
+                        45.7754004
+                    ],
+                    [
+                        4.8802578,
+                        45.7752377
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue \u00c9douard Vaillant",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "survey",
+                "source:date": "2014-03-06",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219495257,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8808624,
+                        45.7725488
+                    ],
+                    [
+                        4.8809458,
+                        45.7717343
+                    ],
+                    [
+                        4.8809589,
+                        45.7716064
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue \u00c9douard Vaillant",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219495258,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8807725,
+                        45.7733204
+                    ],
+                    [
+                        4.8807804,
+                        45.7732683
+                    ],
+                    [
+                        4.88081,
+                        45.7729978
+                    ],
+                    [
+                        4.8808624,
+                        45.7725488
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue \u00c9douard Vaillant",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 242582938,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8802578,
+                        45.7752377
+                    ],
+                    [
+                        4.8804317,
+                        45.7746154
+                    ],
+                    [
+                        4.8804402,
+                        45.7745786
+                    ],
+                    [
+                        4.8804583,
+                        45.7745284
+                    ],
+                    [
+                        4.8806105,
+                        45.7739321
+                    ],
+                    [
+                        4.8807695,
+                        45.7733603
+                    ],
+                    [
+                        4.8807725,
+                        45.7733204
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue \u00c9douard Vaillant",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "survey",
+                "source:date": "2014-03-06",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

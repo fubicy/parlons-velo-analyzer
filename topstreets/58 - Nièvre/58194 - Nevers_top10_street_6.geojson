@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26975775,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1601391,
+                        46.9820518
+                    ],
+                    [
+                        3.157959,
+                        46.9847623
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Loire",
+                "ref": "D 907",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30620187,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1578242,
+                        46.9849029
+                    ],
+                    [
+                        3.1578525,
+                        46.9848563
+                    ],
+                    [
+                        3.1579196,
+                        46.9847917
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "maxspeed": "50",
+                "name": "Pont de Loire",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30620190,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.157959,
+                        46.9847623
+                    ],
+                    [
+                        3.1579714,
+                        46.9848033
+                    ],
+                    [
+                        3.1579826,
+                        46.9848528
+                    ],
+                    [
+                        3.1580052,
+                        46.9849061
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "cycleway:right:lane": "advisory",
+                "highway": "primary_link",
+                "maxspeed": "50",
+                "name": "Pont de Loire",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 609300633,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1579196,
+                        46.9847917
+                    ],
+                    [
+                        3.157959,
+                        46.9847623
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "maxspeed": "50",
+                "name": "Pont de Loire",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

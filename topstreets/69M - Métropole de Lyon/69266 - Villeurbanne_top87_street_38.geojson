@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33283835,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8616745,
+                        45.7703377
+                    ],
+                    [
+                        4.8616858,
+                        45.7704812
+                    ],
+                    [
+                        4.8617205,
+                        45.7708387
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue Thiers",
+                "oneway": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

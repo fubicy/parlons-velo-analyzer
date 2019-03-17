@@ -1,0 +1,134 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22921663,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.147194,
+                        45.9146591
+                    ],
+                    [
+                        6.1472627,
+                        45.9144984
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Rue des Champs",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85212311,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1481812,
+                        45.9126221
+                    ],
+                    [
+                        6.1482044,
+                        45.9125792
+                    ],
+                    [
+                        6.1482255,
+                        45.9125352
+                    ],
+                    [
+                        6.148315,
+                        45.9121764
+                    ],
+                    [
+                        6.1483545,
+                        45.9120887
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Rue des Champs",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85212318,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1476918,
+                        45.9136219
+                    ],
+                    [
+                        6.1477197,
+                        45.9135649
+                    ],
+                    [
+                        6.1478877,
+                        45.9131687
+                    ],
+                    [
+                        6.1480119,
+                        45.9128875
+                    ],
+                    [
+                        6.1481812,
+                        45.9126221
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "path",
+                "name": "Rue des Champs",
+                "segregated": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 511509375,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1472627,
+                        45.9144984
+                    ],
+                    [
+                        6.1476638,
+                        45.9136792
+                    ],
+                    [
+                        6.1476918,
+                        45.9136219
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "designated",
+                "highway": "path",
+                "name": "Rue des Champs",
+                "segregated": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

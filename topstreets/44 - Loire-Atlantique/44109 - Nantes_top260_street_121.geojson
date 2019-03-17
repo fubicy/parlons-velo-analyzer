@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25778038,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5498019,
+                        47.2084711
+                    ],
+                    [
+                        -1.5489028,
+                        47.2070625
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont G\u00e9n\u00e9ral Audibert",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 285609261,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5486314,
+                        47.2071643
+                    ],
+                    [
+                        -1.5494959,
+                        47.2085036
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "foot": "no",
+                "highway": "cycleway",
+                "layer": "1",
+                "motor_vehicle": "no",
+                "name": "Pont G\u00e9n\u00e9ral Audibert",
+                "sidewalk": "left",
+                "smoothness": "excellent",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 312779490,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.548556,
+                        47.2071714
+                    ],
+                    [
+                        -1.5494298,
+                        47.2085208
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont G\u00e9n\u00e9ral Audibert",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

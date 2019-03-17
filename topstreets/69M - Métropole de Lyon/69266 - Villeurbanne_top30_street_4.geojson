@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 384276261,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8681614,
+                        45.7706602
+                    ],
+                    [
+                        4.8681557,
+                        45.7705222
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Zola",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "3209",
+                "route_ref": "C16A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

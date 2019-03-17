@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4770485,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7326323,
+                        48.5820521
+                    ],
+                    [
+                        7.7326725,
+                        48.5821135
+                    ],
+                    [
+                        7.7327126,
+                        48.5821746
+                    ],
+                    [
+                        7.7327572,
+                        48.5822391
+                    ],
+                    [
+                        7.7328671,
+                        48.5823815
+                    ],
+                    [
+                        7.7330863,
+                        48.5825983
+                    ],
+                    [
+                        7.7331304,
+                        48.5826368
+                    ],
+                    [
+                        7.7337984,
+                        48.5832241
+                    ],
+                    [
+                        7.7338453,
+                        48.5832654
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard de Metz",
+                "name:de": "Bahnhofsring",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140514799,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7342974,
+                        48.5839261
+                    ],
+                    [
+                        7.7340463,
+                        48.5836978
+                    ],
+                    [
+                        7.7336141,
+                        48.5833113
+                    ],
+                    [
+                        7.7328952,
+                        48.5826657
+                    ],
+                    [
+                        7.73277,
+                        48.5825427
+                    ],
+                    [
+                        7.7326973,
+                        48.5824713
+                    ],
+                    [
+                        7.7325556,
+                        48.5822814
+                    ],
+                    [
+                        7.7324761,
+                        48.5821551
+                    ]
+                ]
+            },
+            "properties": {
+                "access:lanes": "yes|no",
+                "bus:lanes": "yes|designated",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Boulevard de Metz",
+                "name:de": "Bahnhofsring",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 416458656,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7338453,
+                        48.5832654
+                    ],
+                    [
+                        7.7344864,
+                        48.5838494
+                    ],
+                    [
+                        7.7345132,
+                        48.5838766
+                    ],
+                    [
+                        7.7345579,
+                        48.5839218
+                    ]
+                ]
+            },
+            "properties": {
+                "access:lanes": "no|yes|yes",
+                "bus:lanes": "designated|yes|yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Boulevard de Metz",
+                "name:de": "Bahnhofsring",
+                "oneway": "yes",
+                "placement": "right_of:2",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes": "slight_left|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

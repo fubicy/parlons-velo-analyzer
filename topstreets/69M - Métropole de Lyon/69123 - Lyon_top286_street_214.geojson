@@ -1,0 +1,185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23332051,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8588214,
+                        45.771898
+                    ],
+                    [
+                        4.858841,
+                        45.7718431
+                    ],
+                    [
+                        4.8588933,
+                        45.7716964
+                    ],
+                    [
+                        4.8589735,
+                        45.7714681
+                    ],
+                    [
+                        4.8592176,
+                        45.7707729
+                    ],
+                    [
+                        4.8593044,
+                        45.7705839
+                    ],
+                    [
+                        4.8594397,
+                        45.7703785
+                    ],
+                    [
+                        4.8595309,
+                        45.7702539
+                    ],
+                    [
+                        4.8595826,
+                        45.7701579
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Michel Rambaud",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33199044,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8595826,
+                        45.7701579
+                    ],
+                    [
+                        4.8596429,
+                        45.7700836
+                    ],
+                    [
+                        4.8604322,
+                        45.7691108
+                    ],
+                    [
+                        4.8604944,
+                        45.7690536
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Michel Rambaud",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52831364,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8604944,
+                        45.7690536
+                    ],
+                    [
+                        4.8607043,
+                        45.7688201
+                    ],
+                    [
+                        4.8608337,
+                        45.7686455
+                    ],
+                    [
+                        4.8610366,
+                        45.7683934
+                    ],
+                    [
+                        4.8615044,
+                        45.7678123
+                    ],
+                    [
+                        4.8615766,
+                        45.7676768
+                    ],
+                    [
+                        4.8616178,
+                        45.7675316
+                    ],
+                    [
+                        4.8616294,
+                        45.7673231
+                    ],
+                    [
+                        4.8616298,
+                        45.7673163
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Part-Dieu",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Michel Rambaud",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 587144730,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8616298,
+                        45.7673163
+                    ],
+                    [
+                        4.8616329,
+                        45.7672618
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Part-Dieu",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Michel Rambaud",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

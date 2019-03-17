@@ -4,7 +4,7 @@ Sur l'ensemble du département, il y a eu 1497 réponses dont 957 réponses avec
 
 | Ville | Nb réponses | Nb réponses avec rue | Nb points noirs |
 |-------------|-------------|----------------------|-----------------|
-|49007 - Angers&nbsp;&#124;&nbsp;<a href='49007 - Angers_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='49007 - Angers_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='49007 - Angers_top50.md'>Top 50</a>|1220|851(69%)|<img src="../../img/bar_68.gif" />&nbsp;160|
+|49007 - Angers&nbsp;&#124;&nbsp;<a href='49007 - Angers_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='49007 - Angers_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='49007 - Angers_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='49007 - Angers_top160.md'>Top 1000</a>|1220|851(69%)|<img src="../../img/bar_68.gif" />&nbsp;160|
 |49015 - Avrillé&nbsp;&#124;&nbsp;<a href='49015 - Avrillé_top3.md'>Top 10</a>|17|5(29%)|<img src="../../img/bar_1.gif" />&nbsp;3|
 |49018 - Baugé-en-Anjou&nbsp;&#124;&nbsp;<a href='49018 - Baugé-en-Anjou_top1.md'>Top 10</a>|2|1(50%)|<img src="../../img/bar_0.gif" />&nbsp;1|
 |49020 - Beaucouzé&nbsp;&#124;&nbsp;<a href='49020 - Beaucouzé_top1.md'>Top 10</a>|1|1(100%)|<img src="../../img/bar_0.gif" />&nbsp;1|

@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23163063,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.341301,
+                        48.8302846
+                    ],
+                    [
+                        2.3411686,
+                        48.8302855
+                    ],
+                    [
+                        2.3406201,
+                        48.8302893
+                    ],
+                    [
+                        2.3404694,
+                        48.8302904
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Cabanis",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013P0951",
+                "surface": "asphalt",
+                "wikidata": "Q3447282",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53207349,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3404694,
+                        48.8302904
+                    ],
+                    [
+                        2.3403747,
+                        48.8302925
+                    ],
+                    [
+                        2.3394138,
+                        48.8303133
+                    ],
+                    [
+                        2.3389543,
+                        48.8303232
+                    ],
+                    [
+                        2.3384527,
+                        48.8303341
+                    ],
+                    [
+                        2.3367615,
+                        48.8303707
+                    ],
+                    [
+                        2.3366892,
+                        48.8303723
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Cabanis",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013P0951",
+                "surface": "asphalt",
+                "wikidata": "Q3447282",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

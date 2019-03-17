@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26926634,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2988016,
+                        49.8943883
+                    ],
+                    [
+                        2.2992124,
+                        49.8949546
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Sergents",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141243267,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2985306,
+                        49.8939185
+                    ],
+                    [
+                        2.2985168,
+                        49.893973
+                    ],
+                    [
+                        2.2985701,
+                        49.8940645
+                    ],
+                    [
+                        2.2987554,
+                        49.8943164
+                    ],
+                    [
+                        2.2988016,
+                        49.8943883
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Sergents",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 286207097,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.298033,
+                        49.8936045
+                    ],
+                    [
+                        2.2984033,
+                        49.8938682
+                    ],
+                    [
+                        2.2984535,
+                        49.8938903
+                    ],
+                    [
+                        2.2985306,
+                        49.8939185
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue des Sergents",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 382697172,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8733908,
+                        45.7596134
+                    ],
+                    [
+                        4.8735528,
+                        45.7596118
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Ferrandi\u00e8re",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "10327",
+                "route_ref": "C9A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382697173,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8733303,
+                        45.7596548
+                    ],
+                    [
+                        4.8731387,
+                        45.7596588
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Ferrandi\u00e8re",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "10328",
+                "route_ref": "C9A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

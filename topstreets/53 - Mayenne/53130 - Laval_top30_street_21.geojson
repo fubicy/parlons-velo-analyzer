@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25701144,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7676591,
+                        48.0696028
+                    ],
+                    [
+                        -0.7677146,
+                        48.0696012
+                    ],
+                    [
+                        -0.7686997,
+                        48.0695685
+                    ],
+                    [
+                        -0.7693911,
+                        48.0695129
+                    ],
+                    [
+                        -0.7694646,
+                        48.0695071
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Mazagran",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25851758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7656808,
+                        48.0697463
+                    ],
+                    [
+                        -0.7657574,
+                        48.0697409
+                    ],
+                    [
+                        -0.7662372,
+                        48.0697132
+                    ],
+                    [
+                        -0.76684,
+                        48.0696773
+                    ],
+                    [
+                        -0.7676591,
+                        48.0696028
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "20",
+                "name": "Rue Mazagran",
+                "oneway": "-1",
+                "surface": "sett",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

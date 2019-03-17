@@ -1,0 +1,722 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 123812729,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5332199,
+                        47.2068963
+                    ],
+                    [
+                        -1.5330461,
+                        47.206961
+                    ],
+                    [
+                        -1.5327926,
+                        47.2070494
+                    ],
+                    [
+                        -1.5326719,
+                        47.2070743
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "busway": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141519233,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5338277,
+                        47.2067343
+                    ],
+                    [
+                        -1.5339463,
+                        47.2066793
+                    ],
+                    [
+                        -1.5354259,
+                        47.2061236
+                    ],
+                    [
+                        -1.535519,
+                        47.2060872
+                    ],
+                    [
+                        -1.5355884,
+                        47.2060575
+                    ],
+                    [
+                        -1.5356862,
+                        47.2060205
+                    ],
+                    [
+                        -1.5363576,
+                        47.2057663
+                    ],
+                    [
+                        -1.5365774,
+                        47.205683
+                    ],
+                    [
+                        -1.5368408,
+                        47.2055833
+                    ],
+                    [
+                        -1.5373981,
+                        47.2053621
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "busway:left": "lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141519234,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5377894,
+                        47.2050315
+                    ],
+                    [
+                        -1.5377694,
+                        47.2051352
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "busway:left": "lane",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141560059,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5334478,
+                        47.2068626
+                    ],
+                    [
+                        -1.5337024,
+                        47.2067903
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141684747,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5336632,
+                        47.2067151
+                    ],
+                    [
+                        -1.5334031,
+                        47.2067927
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141685071,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5304305,
+                        47.208032
+                    ],
+                    [
+                        -1.5306688,
+                        47.2079449
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "busway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248461480,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5377694,
+                        47.2051352
+                    ],
+                    [
+                        -1.5377177,
+                        47.2051549
+                    ],
+                    [
+                        -1.5376687,
+                        47.2051736
+                    ],
+                    [
+                        -1.5367655,
+                        47.2055183
+                    ],
+                    [
+                        -1.5364679,
+                        47.2056318
+                    ],
+                    [
+                        -1.5363349,
+                        47.2056826
+                    ],
+                    [
+                        -1.5356482,
+                        47.2059446
+                    ],
+                    [
+                        -1.5338716,
+                        47.2066226
+                    ],
+                    [
+                        -1.5336901,
+                        47.2066918
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "busway:left": "lane",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248461481,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5373981,
+                        47.2053621
+                    ],
+                    [
+                        -1.5377464,
+                        47.2052671
+                    ],
+                    [
+                        -1.5377881,
+                        47.2052559
+                    ],
+                    [
+                        -1.5379105,
+                        47.2052361
+                    ],
+                    [
+                        -1.5379699,
+                        47.2052449
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248461482,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5373981,
+                        47.2053621
+                    ],
+                    [
+                        -1.5377188,
+                        47.2052352
+                    ],
+                    [
+                        -1.5379062,
+                        47.2051707
+                    ],
+                    [
+                        -1.5379899,
+                        47.205153
+                    ],
+                    [
+                        -1.5380728,
+                        47.205153
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "no",
+                "busway": "lane",
+                "emergency": "yes",
+                "foot": "no",
+                "highway": "service",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle": "no",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "note": "Voie r\u00e9serv\u00e9e Bus. Ce n'est pas un bus guid\u00e9.",
+                "oneway": "yes",
+                "psv": "designated",
+                "service": "busway",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248461483,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5380728,
+                        47.205153
+                    ],
+                    [
+                        -1.5380217,
+                        47.2051177
+                    ],
+                    [
+                        -1.5379635,
+                        47.2051014
+                    ],
+                    [
+                        -1.5378809,
+                        47.2050987
+                    ],
+                    [
+                        -1.5378538,
+                        47.2051075
+                    ],
+                    [
+                        -1.5377694,
+                        47.2051352
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "no",
+                "busway": "lane",
+                "emergency": "yes",
+                "foot": "no",
+                "highway": "service",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle": "no",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "note": "Voie r\u00e9serv\u00e9e Bus. Ce n'est pas un bus guid\u00e9.",
+                "oneway": "yes",
+                "psv": "designated",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248657256,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5305971,
+                        47.207863
+                    ],
+                    [
+                        -1.5304207,
+                        47.2079143
+                    ],
+                    [
+                        -1.530321,
+                        47.2079305
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "busway:left": "lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248657258,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5306688,
+                        47.2079449
+                    ],
+                    [
+                        -1.5310664,
+                        47.2077898
+                    ],
+                    [
+                        -1.531842,
+                        47.2074871
+                    ],
+                    [
+                        -1.5321008,
+                        47.2073861
+                    ],
+                    [
+                        -1.5323909,
+                        47.2072729
+                    ],
+                    [
+                        -1.532723,
+                        47.2071436
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "busway:left": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307321159,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.532723,
+                        47.2071436
+                    ],
+                    [
+                        -1.5328316,
+                        47.2070832
+                    ],
+                    [
+                        -1.5330701,
+                        47.2069934
+                    ],
+                    [
+                        -1.5332459,
+                        47.2069185
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "busway": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307321160,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5332075,
+                        47.2068732
+                    ],
+                    [
+                        -1.5330201,
+                        47.2069259
+                    ],
+                    [
+                        -1.5329166,
+                        47.2069665
+                    ],
+                    [
+                        -1.5327588,
+                        47.20702
+                    ],
+                    [
+                        -1.5326719,
+                        47.2070743
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307321161,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.532723,
+                        47.2071436
+                    ],
+                    [
+                        -1.5328509,
+                        47.2071177
+                    ],
+                    [
+                        -1.5329116,
+                        47.207094
+                    ],
+                    [
+                        -1.5329502,
+                        47.207076
+                    ],
+                    [
+                        -1.5330938,
+                        47.2070252
+                    ],
+                    [
+                        -1.5332057,
+                        47.2069738
+                    ],
+                    [
+                        -1.5332785,
+                        47.2069327
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307321162,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5326719,
+                        47.2070743
+                    ],
+                    [
+                        -1.5323788,
+                        47.2071845
+                    ],
+                    [
+                        -1.532044,
+                        47.207312
+                    ],
+                    [
+                        -1.5316271,
+                        47.2074708
+                    ],
+                    [
+                        -1.531164,
+                        47.2076471
+                    ],
+                    [
+                        -1.5309465,
+                        47.20773
+                    ],
+                    [
+                        -1.5305971,
+                        47.207863
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "busway:left": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Ga\u00ebtan Rondeau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

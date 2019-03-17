@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 489343013,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.2020187,
+                        48.0050732
+                    ],
+                    [
+                        0.2017036,
+                        48.0055065
+                    ],
+                    [
+                        0.2016392,
+                        48.0055712
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Gougeard",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 496442652,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.2025293,
+                        48.0041211
+                    ],
+                    [
+                        0.2025231,
+                        48.0041896
+                    ],
+                    [
+                        0.2025136,
+                        48.0043249
+                    ],
+                    [
+                        0.2024938,
+                        48.004395
+                    ],
+                    [
+                        0.2021826,
+                        48.0048392
+                    ],
+                    [
+                        0.2020187,
+                        48.0050732
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Gougeard",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

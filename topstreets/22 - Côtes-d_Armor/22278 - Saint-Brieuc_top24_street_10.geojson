@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28342975,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.7623393,
+                        48.5125803
+                    ],
+                    [
+                        -2.7627816,
+                        48.5130814
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Rohan",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161236264,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.7627816,
+                        48.5130814
+                    ],
+                    [
+                        -2.7626783,
+                        48.5136964
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Rohan",
+                "name:br": "Straed Roc'han",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 429606301,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.7626783,
+                        48.5136964
+                    ],
+                    [
+                        -2.7626425,
+                        48.5139875
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Rohan",
+                "name:br": "Straed Roc'han",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

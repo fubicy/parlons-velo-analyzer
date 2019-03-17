@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24357178,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2278416,
+                        46.2065345
+                    ],
+                    [
+                        5.2278894,
+                        46.206391
+                    ],
+                    [
+                        5.2279577,
+                        46.2061856
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Bernard",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94748846,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2279577,
+                        46.2061856
+                    ],
+                    [
+                        5.228017,
+                        46.2060073
+                    ],
+                    [
+                        5.2280326,
+                        46.2059604
+                    ],
+                    [
+                        5.2280772,
+                        46.2058266
+                    ],
+                    [
+                        5.2281949,
+                        46.2054558
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Bernard",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

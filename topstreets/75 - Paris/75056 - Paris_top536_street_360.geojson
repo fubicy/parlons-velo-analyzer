@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8058934,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3550429,
+                        48.8705853
+                    ],
+                    [
+                        2.3549378,
+                        48.8706076
+                    ],
+                    [
+                        2.3548307,
+                        48.8706305
+                    ],
+                    [
+                        2.3533671,
+                        48.8709441
+                    ],
+                    [
+                        2.3532949,
+                        48.8709596
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Metz",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "paved",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

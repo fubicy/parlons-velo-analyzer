@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 252787253,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.706117,
+                        47.3818386
+                    ],
+                    [
+                        0.7059773,
+                        47.3818666
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Jolivet",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 252787254,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7059469,
+                        47.3817759
+                    ],
+                    [
+                        0.7060898,
+                        47.3817501
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Jolivet",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256423438,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7066994,
+                        47.381837
+                    ],
+                    [
+                        0.7066802,
+                        47.3819913
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Jolivet",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

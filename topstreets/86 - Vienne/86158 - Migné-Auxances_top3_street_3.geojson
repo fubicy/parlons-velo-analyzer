@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37095999,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3137733,
+                        46.616606
+                    ],
+                    [
+                        0.3139085,
+                        46.6165178
+                    ],
+                    [
+                        0.3140372,
+                        46.6163932
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de la Loge",
+                "oneway": "yes",
+                "ref": "D 757",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156358384,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3140372,
+                        46.6163932
+                    ],
+                    [
+                        0.3143268,
+                        46.6160551
+                    ],
+                    [
+                        0.3146432,
+                        46.6156364
+                    ],
+                    [
+                        0.3156665,
+                        46.6142123
+                    ],
+                    [
+                        0.3158792,
+                        46.6139163
+                    ],
+                    [
+                        0.3176596,
+                        46.6115152
+                    ]
+                ]
+            },
+            "properties": {
+                "FIXME": "nom de l'avenue \u00e0 contr\u00f4ler",
+                "cycleway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de la Loge",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "ref": "D 757",
+                "source": "Observations locales et GPS",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156358385,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3179545,
+                        46.6113134
+                    ],
+                    [
+                        0.3179222,
+                        46.6113634
+                    ],
+                    [
+                        0.3177665,
+                        46.6115599
+                    ],
+                    [
+                        0.3170558,
+                        46.6125192
+                    ],
+                    [
+                        0.315901,
+                        46.6140861
+                    ],
+                    [
+                        0.3143912,
+                        46.6161367
+                    ],
+                    [
+                        0.3142335,
+                        46.6163217
+                    ],
+                    [
+                        0.3141931,
+                        46.616399
+                    ]
+                ]
+            },
+            "properties": {
+                "FIXME": "nom de l'avenue \u00e0 contr\u00f4ler",
+                "cycleway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de la Loge",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "ref": "D 757",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156358424,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3141931,
+                        46.616399
+                    ],
+                    [
+                        0.314185,
+                        46.616479
+                    ],
+                    [
+                        0.3142171,
+                        46.616562
+                    ],
+                    [
+                        0.3142781,
+                        46.6166361
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Avenue de la Loge",
+                "oneway": "yes",
+                "ref": "D 757",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,897 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19926079,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1891302,
+                        48.6968041
+                    ],
+                    [
+                        2.1891593,
+                        48.6968401
+                    ],
+                    [
+                        2.1891987,
+                        48.6968822
+                    ],
+                    [
+                        2.1891844,
+                        48.6969554
+                    ],
+                    [
+                        2.1889912,
+                        48.6972849
+                    ],
+                    [
+                        2.1888891,
+                        48.6974592
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34061407,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1891302,
+                        48.6968041
+                    ],
+                    [
+                        2.1894184,
+                        48.6967271
+                    ],
+                    [
+                        2.1895153,
+                        48.6967009
+                    ],
+                    [
+                        2.1899194,
+                        48.6965971
+                    ],
+                    [
+                        2.1899466,
+                        48.6965901
+                    ],
+                    [
+                        2.1900828,
+                        48.6965551
+                    ],
+                    [
+                        2.1903235,
+                        48.6964932
+                    ],
+                    [
+                        2.1903675,
+                        48.6964828
+                    ],
+                    [
+                        2.1904146,
+                        48.6964714
+                    ],
+                    [
+                        2.1907155,
+                        48.6963985
+                    ],
+                    [
+                        2.1910303,
+                        48.6963222
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "tertiary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34061940,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1848929,
+                        48.6966206
+                    ],
+                    [
+                        2.1850017,
+                        48.696632
+                    ],
+                    [
+                        2.1854204,
+                        48.6966815
+                    ],
+                    [
+                        2.1857381,
+                        48.696719
+                    ],
+                    [
+                        2.1862963,
+                        48.6967873
+                    ],
+                    [
+                        2.1863361,
+                        48.6967909
+                    ],
+                    [
+                        2.1867762,
+                        48.6968306
+                    ],
+                    [
+                        2.1868834,
+                        48.6968365
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36724616,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2080443,
+                        48.6989853
+                    ],
+                    [
+                        2.2082692,
+                        48.6990187
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue de Paris",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60844542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1877312,
+                        48.6977953
+                    ],
+                    [
+                        2.1877386,
+                        48.6977353
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "highway:cycle": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148643088,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1910303,
+                        48.6963222
+                    ],
+                    [
+                        2.1911907,
+                        48.6962671
+                    ],
+                    [
+                        2.1912981,
+                        48.696246
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "highway:cycle": "secondary",
+                "lanes": "1",
+                "lcn_ref": "17",
+                "maxspeed": "20",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151173082,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1870427,
+                        48.6969639
+                    ],
+                    [
+                        2.1869755,
+                        48.6969249
+                    ],
+                    [
+                        2.1869102,
+                        48.6968838
+                    ],
+                    [
+                        2.1868834,
+                        48.6968365
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "highway:cycle": "unclassified",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163513456,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1877312,
+                        48.6977953
+                    ],
+                    [
+                        2.1878434,
+                        48.6977819
+                    ],
+                    [
+                        2.18794,
+                        48.6977848
+                    ],
+                    [
+                        2.1881317,
+                        48.6977607
+                    ],
+                    [
+                        2.1881767,
+                        48.6977358
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "highway:cycle": "unclassified",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163513457,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1879444,
+                        48.6978081
+                    ],
+                    [
+                        2.1878976,
+                        48.697799
+                    ],
+                    [
+                        2.1878434,
+                        48.6977819
+                    ],
+                    [
+                        2.1877386,
+                        48.6977353
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186290717,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1910303,
+                        48.6963222
+                    ],
+                    [
+                        2.1912971,
+                        48.6963181
+                    ],
+                    [
+                        2.1918679,
+                        48.6963296
+                    ],
+                    [
+                        2.1919255,
+                        48.6963308
+                    ],
+                    [
+                        2.1932284,
+                        48.6963571
+                    ],
+                    [
+                        2.193468,
+                        48.6963162
+                    ],
+                    [
+                        2.1935858,
+                        48.6963105
+                    ],
+                    [
+                        2.1936362,
+                        48.6963098
+                    ],
+                    [
+                        2.193692,
+                        48.6963109
+                    ],
+                    [
+                        2.1937198,
+                        48.6963115
+                    ],
+                    [
+                        2.1937351,
+                        48.6963118
+                    ],
+                    [
+                        2.1938219,
+                        48.6963135
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "unclassified",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193862002,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2061738,
+                        48.6986369
+                    ],
+                    [
+                        2.2068545,
+                        48.6987887
+                    ],
+                    [
+                        2.2071965,
+                        48.6988417
+                    ],
+                    [
+                        2.2074187,
+                        48.6988761
+                    ],
+                    [
+                        2.2077428,
+                        48.6989372
+                    ],
+                    [
+                        2.2080443,
+                        48.6989853
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 214483907,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1912981,
+                        48.696246
+                    ],
+                    [
+                        2.1919897,
+                        48.6962598
+                    ],
+                    [
+                        2.1920263,
+                        48.6962605
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "highway:cycle": "secondary",
+                "lanes": "1",
+                "lcn_ref": "17",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233525230,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1926823,
+                        48.6962708
+                    ],
+                    [
+                        2.1932252,
+                        48.6962818
+                    ],
+                    [
+                        2.193468,
+                        48.6963162
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "highway:cycle": "tertiary",
+                "lanes": "1",
+                "lcn_ref": "17",
+                "maxspeed": "20",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233525231,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1888891,
+                        48.6974592
+                    ],
+                    [
+                        2.188863,
+                        48.6975059
+                    ],
+                    [
+                        2.1888107,
+                        48.6975822
+                    ],
+                    [
+                        2.1886838,
+                        48.6976621
+                    ],
+                    [
+                        2.188597,
+                        48.6976961
+                    ],
+                    [
+                        2.1881845,
+                        48.697778
+                    ],
+                    [
+                        2.1879444,
+                        48.6978081
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 282530473,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1870427,
+                        48.6969639
+                    ],
+                    [
+                        2.187071,
+                        48.696911
+                    ],
+                    [
+                        2.1871502,
+                        48.6968495
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "highway:cycle": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 282530475,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1879444,
+                        48.6978081
+                    ],
+                    [
+                        2.1878889,
+                        48.6978344
+                    ],
+                    [
+                        2.1878419,
+                        48.6978704
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "highway:cycle": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 282530481,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1877386,
+                        48.6977353
+                    ],
+                    [
+                        2.1877072,
+                        48.6976935
+                    ],
+                    [
+                        2.1875599,
+                        48.6974245
+                    ],
+                    [
+                        2.1875276,
+                        48.6973655
+                    ],
+                    [
+                        2.1874521,
+                        48.6972625
+                    ],
+                    [
+                        2.1873398,
+                        48.6971617
+                    ],
+                    [
+                        2.1870427,
+                        48.6969639
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "tertiary",
+                "incline": "5%",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "source:incline": "incline calcul\u00e9 avec g\u00e9oportail",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 289952364,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1938219,
+                        48.6963135
+                    ],
+                    [
+                        2.1945878,
+                        48.6963283
+                    ],
+                    [
+                        2.1951185,
+                        48.696343
+                    ],
+                    [
+                        2.1951993,
+                        48.6963452
+                    ],
+                    [
+                        2.1966422,
+                        48.696385
+                    ],
+                    [
+                        2.1973319,
+                        48.6964041
+                    ],
+                    [
+                        2.1974264,
+                        48.6964067
+                    ],
+                    [
+                        2.1982588,
+                        48.6964283
+                    ],
+                    [
+                        2.1984815,
+                        48.6964378
+                    ],
+                    [
+                        2.1985647,
+                        48.6964414
+                    ],
+                    [
+                        2.1986205,
+                        48.6964478
+                    ],
+                    [
+                        2.1989049,
+                        48.6964805
+                    ],
+                    [
+                        2.1989579,
+                        48.696495
+                    ],
+                    [
+                        2.1993615,
+                        48.6966083
+                    ],
+                    [
+                        2.1994372,
+                        48.6966363
+                    ],
+                    [
+                        2.1998815,
+                        48.6967755
+                    ],
+                    [
+                        2.200166,
+                        48.6968647
+                    ],
+                    [
+                        2.2029452,
+                        48.6976856
+                    ],
+                    [
+                        2.2030382,
+                        48.697713
+                    ],
+                    [
+                        2.203217,
+                        48.6977686
+                    ],
+                    [
+                        2.2032485,
+                        48.6977762
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "unclassified",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "sidewalk": "left",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444420008,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1920263,
+                        48.6962605
+                    ],
+                    [
+                        2.1926823,
+                        48.6962708
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "highway:cycle": "secondary",
+                "lanes": "1",
+                "lcn_ref": "17",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 599273217,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2034021,
+                        48.697819
+                    ],
+                    [
+                        2.20342,
+                        48.6978286
+                    ],
+                    [
+                        2.2054959,
+                        48.698438
+                    ],
+                    [
+                        2.2059828,
+                        48.6985809
+                    ],
+                    [
+                        2.2061738,
+                        48.6986369
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "highway:cycle": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "ref": "D 988",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

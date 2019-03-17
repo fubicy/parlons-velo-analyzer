@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23055105,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4433364,
+                        48.8954306
+                    ],
+                    [
+                        2.4434833,
+                        48.8954584
+                    ],
+                    [
+                        2.4435612,
+                        48.8954589
+                    ],
+                    [
+                        2.4436645,
+                        48.8954515
+                    ],
+                    [
+                        2.4458773,
+                        48.8948567
+                    ],
+                    [
+                        2.4487187,
+                        48.8940701
+                    ],
+                    [
+                        2.4509541,
+                        48.8935337
+                    ],
+                    [
+                        2.4511429,
+                        48.8935167
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "unclassified",
+                "name": "Avenue de Bobigny",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23055139,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4544474,
+                        48.8933587
+                    ],
+                    [
+                        2.4541208,
+                        48.8932757
+                    ],
+                    [
+                        2.4537345,
+                        48.8932789
+                    ],
+                    [
+                        2.4524463,
+                        48.8933059
+                    ],
+                    [
+                        2.4511429,
+                        48.8935167
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue de Bobigny",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

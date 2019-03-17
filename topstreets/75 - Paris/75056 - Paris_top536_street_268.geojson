@@ -1,0 +1,164 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31822542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3320972,
+                        48.8586269
+                    ],
+                    [
+                        2.3317489,
+                        48.8587412
+                    ],
+                    [
+                        2.3303054,
+                        48.8592215
+                    ],
+                    [
+                        2.330205,
+                        48.8592549
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Quai Voltaire",
+                "name:ru": "\u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f \u0412\u043e\u043b\u044c\u0442\u0435\u0440",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3090472",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31822568,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.330205,
+                        48.8592549
+                    ],
+                    [
+                        2.3301248,
+                        48.8592808
+                    ],
+                    [
+                        2.3296632,
+                        48.8594296
+                    ],
+                    [
+                        2.3294548,
+                        48.8594992
+                    ],
+                    [
+                        2.3292843,
+                        48.8595543
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lit": "yes",
+                "name": "Quai Voltaire",
+                "name:ru": "\u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f \u0412\u043e\u043b\u044c\u0442\u0435\u0440",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3090472",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83261039,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3332665,
+                        48.8582658
+                    ],
+                    [
+                        2.3328541,
+                        48.8583914
+                    ],
+                    [
+                        2.3325144,
+                        48.8584963
+                    ],
+                    [
+                        2.3323681,
+                        48.8585421
+                    ],
+                    [
+                        2.3320972,
+                        48.8586269
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Quai Voltaire",
+                "name:ru": "\u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f \u0412\u043e\u043b\u044c\u0442\u0435\u0440",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3090472",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181731946,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3325144,
+                        48.8584963
+                    ],
+                    [
+                        2.3325312,
+                        48.8584272
+                    ],
+                    [
+                        2.3332211,
+                        48.8582115
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "emergency": "yes",
+                "goods": "no",
+                "hgv": "no",
+                "highway": "service",
+                "hov": "no",
+                "motor_vehicle": "no",
+                "motorcar": "no",
+                "motorcycle": "no",
+                "name": "Quai Voltaire",
+                "oneway": "yes",
+                "psv": "yes",
+                "vehicle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

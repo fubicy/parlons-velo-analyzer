@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31091634,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.244085,
+                        45.8263047
+                    ],
+                    [
+                        1.2440964,
+                        45.8263463
+                    ],
+                    [
+                        1.2444232,
+                        45.8280114
+                    ],
+                    [
+                        1.2444725,
+                        45.8282532
+                    ],
+                    [
+                        1.2446685,
+                        45.8292761
+                    ],
+                    [
+                        1.244729,
+                        45.8293615
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Rochechouart",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

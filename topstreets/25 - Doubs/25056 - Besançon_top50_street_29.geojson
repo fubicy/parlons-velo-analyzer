@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18960957,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0250812,
+                        47.2426402
+                    ],
+                    [
+                        6.0254972,
+                        47.2426707
+                    ],
+                    [
+                        6.025806,
+                        47.2427197
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Quai de Strasbourg",
+                "ref:FR:FANTOIR": "250564800T",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35101540,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0236769,
+                        47.2425057
+                    ],
+                    [
+                        6.0229576,
+                        47.2423004
+                    ],
+                    [
+                        6.0224963,
+                        47.2419902
+                    ],
+                    [
+                        6.022199,
+                        47.2416835
+                    ],
+                    [
+                        6.0216098,
+                        47.241107
+                    ],
+                    [
+                        6.0215198,
+                        47.241019
+                    ],
+                    [
+                        6.0202443,
+                        47.2400452
+                    ],
+                    [
+                        6.0201709,
+                        47.2399805
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Quai de Strasbourg",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "ref:FR:FANTOIR": "250564800T",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123264271,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0236769,
+                        47.2425057
+                    ],
+                    [
+                        6.0239917,
+                        47.2425192
+                    ],
+                    [
+                        6.0245836,
+                        47.2425801
+                    ],
+                    [
+                        6.0250812,
+                        47.2426402
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Quai de Strasbourg",
+                "ref:FR:FANTOIR": "250564800T",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

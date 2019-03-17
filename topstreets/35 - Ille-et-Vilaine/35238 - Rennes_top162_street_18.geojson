@@ -1,0 +1,112 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 9669532,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6777319,
+                        48.1172714
+                    ],
+                    [
+                        -1.6775622,
+                        48.1172365
+                    ],
+                    [
+                        -1.6775205,
+                        48.1172309
+                    ],
+                    [
+                        -1.6773035,
+                        48.1172111
+                    ],
+                    [
+                        -1.6769159,
+                        48.11717
+                    ],
+                    [
+                        -1.6757465,
+                        48.1170377
+                    ],
+                    [
+                        -1.6756378,
+                        48.1170258
+                    ],
+                    [
+                        -1.6754806,
+                        48.1169836
+                    ],
+                    [
+                        -1.6751153,
+                        48.1168463
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "10",
+                "boundary": "administrative",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Rue Lesage",
+                "name:br": "Straed Lesage",
+                "oneway": "yes",
+                "political_division": "canton",
+                "source": "data.rennes-metropole.fr - ville de Rennes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482903263,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6751153,
+                        48.1168463
+                    ],
+                    [
+                        -1.6750277,
+                        48.1168134
+                    ],
+                    [
+                        -1.6744293,
+                        48.1165898
+                    ],
+                    [
+                        -1.6743704,
+                        48.1165678
+                    ],
+                    [
+                        -1.6743368,
+                        48.1165552
+                    ],
+                    [
+                        -1.6741496,
+                        48.1164893
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "10",
+                "boundary": "administrative",
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Rue Lesage",
+                "name:br": "Straed Lesage",
+                "oneway": "yes",
+                "political_division": "canton",
+                "source": "data.rennes-metropole.fr - ville de Rennes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

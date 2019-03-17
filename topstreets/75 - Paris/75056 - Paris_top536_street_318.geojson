@@ -1,0 +1,294 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3216656,
+                        48.8400591
+                    ],
+                    [
+                        2.3216273,
+                        48.8400264
+                    ],
+                    [
+                        2.3215756,
+                        48.8399822
+                    ],
+                    [
+                        2.3215325,
+                        48.8399455
+                    ],
+                    [
+                        2.3214623,
+                        48.8398855
+                    ],
+                    [
+                        2.3214546,
+                        48.8398781
+                    ],
+                    [
+                        2.3212532,
+                        48.8397069
+                    ],
+                    [
+                        2.3212099,
+                        48.8396699
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "name": "Rue du Commandant Ren\u00e9 Mouchotte",
+                "ref:FR:FANTOIR": "751142236H",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26118404,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4180002,
+                        48.8376219
+                    ],
+                    [
+                        2.4179053,
+                        48.837596
+                    ],
+                    [
+                        2.4174728,
+                        48.8374777
+                    ],
+                    [
+                        2.4172402,
+                        48.8374141
+                    ],
+                    [
+                        2.4155437,
+                        48.8369504
+                    ],
+                    [
+                        2.4142678,
+                        48.8365988
+                    ],
+                    [
+                        2.4129727,
+                        48.8362459
+                    ],
+                    [
+                        2.4127533,
+                        48.836213
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Commandant Ren\u00e9 Mouchotte",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "940671445Y",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 336796578,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3187919,
+                        48.8375803
+                    ],
+                    [
+                        2.3189936,
+                        48.837633
+                    ],
+                    [
+                        2.3196977,
+                        48.8382388
+                    ],
+                    [
+                        2.3212444,
+                        48.8395695
+                    ],
+                    [
+                        2.3212099,
+                        48.8396699
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "name": "Rue du Commandant Ren\u00e9 Mouchotte",
+                "oneway": "yes",
+                "psv": "official",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 336796584,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3187919,
+                        48.8375803
+                    ],
+                    [
+                        2.318706,
+                        48.8375079
+                    ],
+                    [
+                        2.3185898,
+                        48.8374104
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue du Commandant Ren\u00e9 Mouchotte",
+                "ref:FR:FANTOIR": "751142236H",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 336796588,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3212099,
+                        48.8396699
+                    ],
+                    [
+                        2.3203374,
+                        48.8389249
+                    ],
+                    [
+                        2.3190215,
+                        48.8377962
+                    ],
+                    [
+                        2.3187919,
+                        48.8375803
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue du Commandant Ren\u00e9 Mouchotte",
+                "note": "signalisation 30km/h temporaire",
+                "ref:FR:FANTOIR": "751142236H",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 492871398,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3212099,
+                        48.8396699
+                    ],
+                    [
+                        2.3210337,
+                        48.8396561
+                    ],
+                    [
+                        2.3205928,
+                        48.8392833
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "name": "Rue du Commandant Ren\u00e9 Mouchotte",
+                "oneway": "yes",
+                "psv": "official",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 492871399,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3205928,
+                        48.8392833
+                    ],
+                    [
+                        2.3203997,
+                        48.8391102
+                    ],
+                    [
+                        2.3202424,
+                        48.8389747
+                    ],
+                    [
+                        2.3195104,
+                        48.8383444
+                    ],
+                    [
+                        2.3194518,
+                        48.8382939
+                    ],
+                    [
+                        2.3187878,
+                        48.8377222
+                    ],
+                    [
+                        2.3187919,
+                        48.8375803
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "name": "Rue du Commandant Ren\u00e9 Mouchotte",
+                "oneway": "yes",
+                "psv": "official",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

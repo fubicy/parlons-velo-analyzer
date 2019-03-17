@@ -1,0 +1,200 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4262606,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7261027,
+                        45.1891735
+                    ],
+                    [
+                        5.7261481,
+                        45.1892055
+                    ],
+                    [
+                        5.7266218,
+                        45.189539
+                    ],
+                    [
+                        5.7269983,
+                        45.1897972
+                    ],
+                    [
+                        5.7273854,
+                        45.1900683
+                    ],
+                    [
+                        5.7275768,
+                        45.1902014
+                    ],
+                    [
+                        5.7276158,
+                        45.1902186
+                    ],
+                    [
+                        5.7276427,
+                        45.1902304
+                    ],
+                    [
+                        5.7276629,
+                        45.1902393
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "name": "Rue de Bonne",
+                "source": "v2;cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4262658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7255885,
+                        45.1888787
+                    ],
+                    [
+                        5.7256983,
+                        45.1889167
+                    ],
+                    [
+                        5.7258957,
+                        45.1890273
+                    ],
+                    [
+                        5.7260185,
+                        45.1890537
+                    ],
+                    [
+                        5.7260406,
+                        45.1890585
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "delivery": "yes",
+                "highway": "pedestrian",
+                "maxspeed": "30",
+                "name": "Rue de Bonne",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "taxi": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37451082,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7260406,
+                        45.1890585
+                    ],
+                    [
+                        5.7260489,
+                        45.1890739
+                    ],
+                    [
+                        5.726059,
+                        45.1890926
+                    ],
+                    [
+                        5.7261027,
+                        45.1891735
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "delivery": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Bonne",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "concrete",
+                "taxi": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 490191832,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7261027,
+                        45.1891735
+                    ],
+                    [
+                        5.7259763,
+                        45.1891266
+                    ],
+                    [
+                        5.7258688,
+                        45.1890744
+                    ],
+                    [
+                        5.7256463,
+                        45.1889537
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue de Bonne",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 490191833,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7257442,
+                        45.1888705
+                    ],
+                    [
+                        5.7259922,
+                        45.1890056
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue de Bonne",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 193922458,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.5793835,
+                        48.360683
+                    ],
+                    [
+                        -4.5784153,
+                        48.3604768
+                    ],
+                    [
+                        -4.5773855,
+                        48.360249
+                    ],
+                    [
+                        -4.5771253,
+                        48.3602034
+                    ],
+                    [
+                        -4.5769649,
+                        48.3601753
+                    ],
+                    [
+                        -4.5765852,
+                        48.3601339
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue du Technopole",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

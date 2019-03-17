@@ -1,0 +1,461 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 15238680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1842888,
+                        48.6825654
+                    ],
+                    [
+                        6.1854439,
+                        48.6819687
+                    ],
+                    [
+                        6.1856273,
+                        48.6818761
+                    ],
+                    [
+                        6.1857718,
+                        48.6817842
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:forward": "Cimeti\u00e8re du Sud;Cr\u00e9matorium;Cit\u00e9 Universitaire;Restaurant Universitaire;Rectorat-Site Saurupt;O.N.I.S.E.P.",
+                "highway": "tertiary",
+                "name": "Quai de la Bataille",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15258577,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1944617,
+                        48.6738865
+                    ],
+                    [
+                        6.1944083,
+                        48.6739542
+                    ],
+                    [
+                        6.1943794,
+                        48.6739908
+                    ],
+                    [
+                        6.1943393,
+                        48.674018
+                    ],
+                    [
+                        6.1942952,
+                        48.6740483
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Rectorat-Site Saurupt;O.N.I.S.E.P.;Cimeti\u00e8re du Sud;Cr\u00e9matorium",
+                "highway": "tertiary",
+                "name": "Quai de la Bataille",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15258579,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1941665,
+                        48.6740917
+                    ],
+                    [
+                        6.1942449,
+                        48.6739644
+                    ],
+                    [
+                        6.1943052,
+                        48.6738712
+                    ],
+                    [
+                        6.194328,
+                        48.6738046
+                    ],
+                    [
+                        6.1943527,
+                        48.6736839
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Quai de la Bataille",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196533842,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1947672,
+                        48.674137
+                    ],
+                    [
+                        6.1946187,
+                        48.6740795
+                    ],
+                    [
+                        6.1945335,
+                        48.6740528
+                    ],
+                    [
+                        6.1944847,
+                        48.6740422
+                    ],
+                    [
+                        6.1943953,
+                        48.6740336
+                    ],
+                    [
+                        6.1943529,
+                        48.6740372
+                    ],
+                    [
+                        6.1942952,
+                        48.6740483
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Quai de la Bataille",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200785906,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1857718,
+                        48.6817842
+                    ],
+                    [
+                        6.1860833,
+                        48.6816009
+                    ],
+                    [
+                        6.1873928,
+                        48.68085
+                    ],
+                    [
+                        6.1881472,
+                        48.6802967
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Quai de la Bataille",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200785911,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1891509,
+                        48.6795303
+                    ],
+                    [
+                        6.1892455,
+                        48.679458
+                    ],
+                    [
+                        6.189285,
+                        48.6794278
+                    ],
+                    [
+                        6.1893783,
+                        48.679355
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:backward": "Rectorat-Site Saurupt;O.N.I.S.E.P.",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "name": "Quai de la Bataille",
+                "turn:lanes:forward": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200785915,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1917911,
+                        48.6769823
+                    ],
+                    [
+                        6.1919416,
+                        48.6767701
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai de la Bataille",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|none",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236090126,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1942449,
+                        48.6739644
+                    ],
+                    [
+                        6.1942946,
+                        48.6739374
+                    ],
+                    [
+                        6.1943537,
+                        48.6739181
+                    ],
+                    [
+                        6.1944617,
+                        48.6738865
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Quai de la Bataille",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 238952739,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1942952,
+                        48.6740483
+                    ],
+                    [
+                        6.1941665,
+                        48.6740917
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Quai de la Bataille",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256008202,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1898942,
+                        48.6789557
+                    ],
+                    [
+                        6.1902753,
+                        48.678656
+                    ],
+                    [
+                        6.1904756,
+                        48.6785081
+                    ],
+                    [
+                        6.1905726,
+                        48.6784283
+                    ],
+                    [
+                        6.1906454,
+                        48.6783628
+                    ],
+                    [
+                        6.1907204,
+                        48.6782879
+                    ],
+                    [
+                        6.1907963,
+                        48.6782061
+                    ],
+                    [
+                        6.1910691,
+                        48.6778908
+                    ],
+                    [
+                        6.1917911,
+                        48.6769823
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Quai de la Bataille",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256008203,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1919416,
+                        48.6767701
+                    ],
+                    [
+                        6.1920101,
+                        48.6766823
+                    ],
+                    [
+                        6.1930284,
+                        48.6754161
+                    ],
+                    [
+                        6.1933714,
+                        48.6750128
+                    ],
+                    [
+                        6.1940542,
+                        48.6741896
+                    ],
+                    [
+                        6.1941665,
+                        48.6740917
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai de la Bataille",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 613972092,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1881472,
+                        48.6802967
+                    ],
+                    [
+                        6.1888117,
+                        48.6797893
+                    ],
+                    [
+                        6.1891509,
+                        48.6795303
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Quai de la Bataille",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 613972093,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1893783,
+                        48.679355
+                    ],
+                    [
+                        6.1895385,
+                        48.6792262
+                    ],
+                    [
+                        6.1895977,
+                        48.6791792
+                    ],
+                    [
+                        6.1898942,
+                        48.6789557
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:forward": "Cimeti\u00e8re du Sud;Cr\u00e9matorium",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "name": "Quai de la Bataille",
+                "turn:lanes:backward": "through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

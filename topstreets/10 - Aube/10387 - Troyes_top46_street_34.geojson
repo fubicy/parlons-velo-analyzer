@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28397996,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.067467,
+                        48.2972072
+                    ],
+                    [
+                        4.0675346,
+                        48.2972311
+                    ],
+                    [
+                        4.0686871,
+                        48.2976232
+                    ],
+                    [
+                        4.0689087,
+                        48.2976986
+                    ],
+                    [
+                        4.0691196,
+                        48.2977707
+                    ],
+                    [
+                        4.0706896,
+                        48.2983073
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Argence",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24215068,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.3873636,
+                        47.7464716
+                    ],
+                    [
+                        -3.3872392,
+                        47.7462944
+                    ],
+                    [
+                        -3.3866907,
+                        47.7455126
+                    ],
+                    [
+                        -3.3859909,
+                        47.74447
+                    ],
+                    [
+                        -3.384881,
+                        47.743249
+                    ],
+                    [
+                        -3.3846628,
+                        47.742916
+                    ],
+                    [
+                        -3.3844511,
+                        47.7425929
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Jean Zay",
+                "name:br": "Straed Jean Zay",
+                "source": "yahoo;cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2006 (nom)",
+                "source:maxspeed": "sign",
+                "source:name:br": "proper translation",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 189020201,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5260338,
+                        47.4681977
+                    ],
+                    [
+                        -0.5259506,
+                        47.4681632
+                    ],
+                    [
+                        -0.526015,
+                        47.4680907
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "highway": "platform",
+                "name": "Espace Anjou",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

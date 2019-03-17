@@ -1,0 +1,235 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26709149,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2949583,
+                        49.888939
+                    ],
+                    [
+                        2.2946971,
+                        49.8890043
+                    ],
+                    [
+                        2.294653,
+                        49.8890181
+                    ],
+                    [
+                        2.2944768,
+                        49.8890733
+                    ],
+                    [
+                        2.2911823,
+                        49.8902271
+                    ],
+                    [
+                        2.2911312,
+                        49.8902449
+                    ],
+                    [
+                        2.2910906,
+                        49.8902584
+                    ],
+                    [
+                        2.2909517,
+                        49.8903088
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Maignan-Larivi\u00e8re",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26709150,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2908585,
+                        49.8902118
+                    ],
+                    [
+                        2.2910002,
+                        49.8901627
+                    ],
+                    [
+                        2.2912025,
+                        49.8900945
+                    ],
+                    [
+                        2.2940691,
+                        49.8890972
+                    ],
+                    [
+                        2.2948297,
+                        49.8888497
+                    ],
+                    [
+                        2.2949447,
+                        49.8888265
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Maignan-Larivi\u00e8re",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26769819,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2913091,
+                        49.8903277
+                    ],
+                    [
+                        2.2910535,
+                        49.8904161
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "service",
+                "name": "Boulevard Maignan-Larivi\u00e8re",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 665051207,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2947424,
+                        49.8891588
+                    ],
+                    [
+                        2.2947451,
+                        49.8891243
+                    ],
+                    [
+                        2.294653,
+                        49.8890181
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Boulevard Maignan-Larivi\u00e8re",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 665051208,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2947424,
+                        49.8891588
+                    ],
+                    [
+                        2.2950592,
+                        49.889051
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "service",
+                "name": "Boulevard Maignan-Larivi\u00e8re",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 665051209,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2913091,
+                        49.8903277
+                    ],
+                    [
+                        2.2947424,
+                        49.8891588
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Boulevard Maignan-Larivi\u00e8re",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 665051210,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2911823,
+                        49.8902271
+                    ],
+                    [
+                        2.2912522,
+                        49.8903214
+                    ],
+                    [
+                        2.2913091,
+                        49.8903277
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Boulevard Maignan-Larivi\u00e8re",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

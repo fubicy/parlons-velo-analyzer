@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8724843,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.3109635,
+                        46.0659563
+                    ],
+                    [
+                        6.310909,
+                        46.0657402
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue du Pont Neuf",
+                "ref": "D 2",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178150022,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.3108788,
+                        46.0648706
+                    ],
+                    [
+                        6.3109036,
+                        46.0647112
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue du Pont Neuf",
+                "ref": "D 2",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178150023,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.310909,
+                        46.0657402
+                    ],
+                    [
+                        6.3108788,
+                        46.0648706
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue du Pont Neuf",
+                "ref": "D 2",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23599262,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5035668,
+                        48.6886321
+                    ],
+                    [
+                        2.5035373,
+                        48.6886372
+                    ],
+                    [
+                        2.5034061,
+                        48.6886598
+                    ],
+                    [
+                        2.5029833,
+                        48.6887549
+                    ],
+                    [
+                        2.5025281,
+                        48.6888662
+                    ],
+                    [
+                        2.5022563,
+                        48.6889345
+                    ],
+                    [
+                        2.5018685,
+                        48.689024
+                    ],
+                    [
+                        2.5016622,
+                        48.6890807
+                    ],
+                    [
+                        2.50147,
+                        48.6891778
+                    ],
+                    [
+                        2.5013364,
+                        48.689289
+                    ],
+                    [
+                        2.50114,
+                        48.689433
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Dupont-Chaumont",
+                "oneway": "yes",
+                "planned:boundary": "political",
+                "planned:political_division": "canton",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41679355,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4959691,
+                        48.6905145
+                    ],
+                    [
+                        2.4961163,
+                        48.6904928
+                    ],
+                    [
+                        2.4965993,
+                        48.6903652
+                    ],
+                    [
+                        2.4969331,
+                        48.6901925
+                    ],
+                    [
+                        2.4973316,
+                        48.6899734
+                    ],
+                    [
+                        2.4975036,
+                        48.689887
+                    ],
+                    [
+                        2.4975635,
+                        48.689845
+                    ],
+                    [
+                        2.4980852,
+                        48.6896314
+                    ],
+                    [
+                        2.4986873,
+                        48.6895179
+                    ],
+                    [
+                        2.4990519,
+                        48.6894512
+                    ],
+                    [
+                        2.4994109,
+                        48.6894031
+                    ],
+                    [
+                        2.4995568,
+                        48.6893994
+                    ],
+                    [
+                        2.4996652,
+                        48.6894031
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Dupont-Chaumont",
+                "oneway": "yes",
+                "planned:boundary": "political",
+                "planned:political_division": "canton",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 565538668,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.50114,
+                        48.689433
+                    ],
+                    [
+                        2.5007884,
+                        48.689433
+                    ],
+                    [
+                        2.5004565,
+                        48.6894181
+                    ],
+                    [
+                        2.5000405,
+                        48.6894082
+                    ],
+                    [
+                        2.4997334,
+                        48.6893983
+                    ],
+                    [
+                        2.4996652,
+                        48.6894031
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Dupont-Chaumont",
+                "oneway": "yes",
+                "planned:boundary": "political",
+                "planned:political_division": "canton",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

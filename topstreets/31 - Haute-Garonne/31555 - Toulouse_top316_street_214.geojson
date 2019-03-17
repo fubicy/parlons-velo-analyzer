@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22392220,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.446168,
+                        43.5887278
+                    ],
+                    [
+                        1.4461005,
+                        43.5886956
+                    ],
+                    [
+                        1.4460626,
+                        43.5886857
+                    ],
+                    [
+                        1.445321,
+                        43.5885339
+                    ],
+                    [
+                        1.4451718,
+                        43.58851
+                    ],
+                    [
+                        1.4444615,
+                        43.5884696
+                    ],
+                    [
+                        1.4444247,
+                        43.5884678
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Rue Beethoven",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "20",
+                "name": "Rue Ludwig van Beethoven",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

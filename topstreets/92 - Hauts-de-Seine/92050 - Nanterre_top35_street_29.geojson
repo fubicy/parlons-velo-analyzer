@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 132153989,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2125492,
+                        48.9078948
+                    ],
+                    [
+                        2.2128126,
+                        48.9078214
+                    ],
+                    [
+                        2.2133969,
+                        48.9076585
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "path",
+                "layer": "2",
+                "name": "Pont de Rouen",
+                "old_name": "Pont de la Folie",
+                "source": "knowledge;survey;bing",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

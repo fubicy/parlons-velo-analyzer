@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4261465,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.351262,
+                        48.8575446
+                    ],
+                    [
+                        2.3511865,
+                        48.8575174
+                    ],
+                    [
+                        2.3509029,
+                        48.8574693
+                    ],
+                    [
+                        2.350631,
+                        48.8574232
+                    ],
+                    [
+                        2.3502062,
+                        48.8573501
+                    ],
+                    [
+                        2.3499157,
+                        48.8572985
+                    ],
+                    [
+                        2.3498454,
+                        48.8572848
+                    ],
+                    [
+                        2.3498013,
+                        48.8572762
+                    ],
+                    [
+                        2.3495508,
+                        48.8572365
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:psv": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de la Coutellerie",
+                "oneway": "yes",
+                "source": "Bing",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "wikidata": "Q3451400",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 370998154,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3509739,
+                        48.8575371
+                    ],
+                    [
+                        2.350845,
+                        48.8575762
+                    ]
+                ]
+            },
+            "properties": {
+                "conveying": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "name": "Rue de la Coutellerie",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

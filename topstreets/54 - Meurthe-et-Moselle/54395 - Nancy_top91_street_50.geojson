@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 6271334,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1683101,
+                        48.6778911
+                    ],
+                    [
+                        6.1682389,
+                        48.6778556
+                    ],
+                    [
+                        6.165396,
+                        48.6769784
+                    ],
+                    [
+                        6.1651081,
+                        48.676887
+                    ],
+                    [
+                        6.1650437,
+                        48.6768665
+                    ],
+                    [
+                        6.1649673,
+                        48.6768432
+                    ],
+                    [
+                        6.1634252,
+                        48.6763723
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue du Placieux",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22633161,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1634252,
+                        48.6763723
+                    ],
+                    [
+                        6.1628892,
+                        48.6762021
+                    ],
+                    [
+                        6.1628709,
+                        48.6761963
+                    ],
+                    [
+                        6.1627616,
+                        48.6761616
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed:type": "sign",
+                "name": "Rue du Placieux",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

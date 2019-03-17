@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27679049,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2581642,
+                        48.8117908
+                    ],
+                    [
+                        2.2580479,
+                        48.8117572
+                    ],
+                    [
+                        2.2575548,
+                        48.8115597
+                    ],
+                    [
+                        2.2572104,
+                        48.8114285
+                    ],
+                    [
+                        2.2571243,
+                        48.8113736
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Vieux Chemin de Fleury",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 378041834,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2581642,
+                        48.8117908
+                    ],
+                    [
+                        2.2588556,
+                        48.8120888
+                    ],
+                    [
+                        2.2595641,
+                        48.8124531
+                    ],
+                    [
+                        2.2601332,
+                        48.8127694
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Vieux Chemin de Fleury",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

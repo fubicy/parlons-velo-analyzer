@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 51338085,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3237183,
+                        47.5823928
+                    ],
+                    [
+                        1.3244119,
+                        47.5825037
+                    ],
+                    [
+                        1.3255878,
+                        47.5828158
+                    ],
+                    [
+                        1.3258073,
+                        47.5828859
+                    ],
+                    [
+                        1.3265502,
+                        47.583026
+                    ],
+                    [
+                        1.3272877,
+                        47.5831301
+                    ],
+                    [
+                        1.3276545,
+                        47.5831371
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "name": "Rue Augustin Thierry",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51338095,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3227058,
+                        47.582021
+                    ],
+                    [
+                        1.3227759,
+                        47.5820124
+                    ],
+                    [
+                        1.3228842,
+                        47.5820406
+                    ],
+                    [
+                        1.3231233,
+                        47.5821611
+                    ],
+                    [
+                        1.3234181,
+                        47.5823167
+                    ],
+                    [
+                        1.3237183,
+                        47.5823928
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Rue Augustin Thierry",
+                "oneway": "yes",
+                "ref": "D 202A",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

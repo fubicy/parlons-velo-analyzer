@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 645471092,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7950121,
+                        45.7756771
+                    ],
+                    [
+                        4.7951574,
+                        45.775803
+                    ],
+                    [
+                        4.7953085,
+                        45.775919
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Rue Marietton",
+                "source:maxspeed": "FR:urban",
+                "turn:lanes:backward": "through|through|right",
+                "turn:lanes:forward": "through|right",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 645471095,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.794845,
+                        45.7755323
+                    ],
+                    [
+                        4.7949635,
+                        45.7756352
+                    ],
+                    [
+                        4.7950121,
+                        45.7756771
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue Marietton",
+                "source:maxspeed": "FR:urban",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

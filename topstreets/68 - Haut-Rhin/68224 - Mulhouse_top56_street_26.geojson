@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31857986,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3202439,
+                        47.7472744
+                    ],
+                    [
+                        7.3202169,
+                        47.7473611
+                    ],
+                    [
+                        7.3201353,
+                        47.7474571
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Fil",
+                "source": "Microsoft Bing satellite",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 587832029,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3201353,
+                        47.7474571
+                    ],
+                    [
+                        7.3198363,
+                        47.7478047
+                    ],
+                    [
+                        7.3198452,
+                        47.7478615
+                    ],
+                    [
+                        7.3217225,
+                        47.7487006
+                    ],
+                    [
+                        7.3218199,
+                        47.7487396
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "name": "Rue du Fil",
+                "oneway": "yes",
+                "source": "Microsoft Bing satellite",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

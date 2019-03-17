@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039815,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3311169,
+                        48.8515902
+                    ],
+                    [
+                        2.3309849,
+                        48.8516315
+                    ],
+                    [
+                        2.3306585,
+                        48.8517411
+                    ],
+                    [
+                        2.3304197,
+                        48.8518213
+                    ],
+                    [
+                        2.3299624,
+                        48.8519777
+                    ],
+                    [
+                        2.329883,
+                        48.8520856
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "name": "Rue du Vieux Colombier",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "wikidata": "Q3452630",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17178092,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3319045,
+                        48.85138
+                    ],
+                    [
+                        2.3317918,
+                        48.8513976
+                    ],
+                    [
+                        2.3312783,
+                        48.8515415
+                    ],
+                    [
+                        2.3311169,
+                        48.8515902
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "name": "Rue du Vieux Colombier",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "wikidata": "Q3452630",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197340114,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3328947,
+                        48.8512993
+                    ],
+                    [
+                        2.3327817,
+                        48.8513085
+                    ],
+                    [
+                        2.3321559,
+                        48.8513595
+                    ],
+                    [
+                        2.3320553,
+                        48.8513677
+                    ],
+                    [
+                        2.3319045,
+                        48.85138
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue du Vieux Colombier",
+                "surface": "asphalt",
+                "wikidata": "Q3452630",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

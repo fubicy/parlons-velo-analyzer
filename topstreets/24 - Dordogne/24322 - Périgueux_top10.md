@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 31 réponses dont 25 réponses avec une rue
 
 15 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Voie Verte | 7 | 22% | <img src="../../img/bar_28.gif" />&nbsp;28%|
-| Cours Fénelon | 3 | 9% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Rue de la Cité | 2 | 6% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rue Victor Hugo | 2 | 6% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rue de l'Isle | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue de l'Arsault | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue Saint-Front | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue Chanzy | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Route de Lyon | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Route d'Angoulême | 1 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| **Total** | 20 | 64% | 80%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Voie Verte | 7 | <img src="../../img/bar_35.gif" />&nbsp;35%|
+| Cours Fénelon | 3 | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| Rue de la Cité | 2 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Rue Victor Hugo | 2 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Rue de l'Isle | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue de l'Arsault | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue Saint-Front | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue Chanzy | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Route de Lyon | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Route d'Angoulême | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| **Total** | 20 | 100%|

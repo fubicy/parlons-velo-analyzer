@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 219657558,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6968257,
+                        45.2049205
+                    ],
+                    [
+                        5.6960778,
+                        45.205459
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "disused": "yes",
+                "highway": "platform",
+                "name": "Polygone Scientifique",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 289992978,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6980936,
+                        45.2043009
+                    ],
+                    [
+                        5.6984513,
+                        45.2045239
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "disused": "yes",
+                "highway": "platform",
+                "name": "Polygone Scientifique",
+                "network": "TAG",
+                "public_transport": "platform",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 20213773,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3607959,
+                        48.0803166
+                    ],
+                    [
+                        7.3607761,
+                        48.0802974
+                    ],
+                    [
+                        7.3605047,
+                        48.0800003
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue \u00c9troite",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24438245,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3605047,
+                        48.0800003
+                    ],
+                    [
+                        7.3599784,
+                        48.07931
+                    ],
+                    [
+                        7.3598866,
+                        48.0792026
+                    ],
+                    [
+                        7.3597812,
+                        48.0790604
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue \u00c9troite",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 286589706,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3597812,
+                        48.0790604
+                    ],
+                    [
+                        7.3596342,
+                        48.0788228
+                    ],
+                    [
+                        7.3594557,
+                        48.0786614
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lanes": "1",
+                "maxspeed": "20",
+                "name": "Rue \u00c9troite",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

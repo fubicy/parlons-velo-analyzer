@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23070797,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.8276743,
+                        48.5771157
+                    ],
+                    [
+                        -3.8275361,
+                        48.5771746
+                    ],
+                    [
+                        -3.8273998,
+                        48.5772612
+                    ],
+                    [
+                        -3.8273633,
+                        48.5772914
+                    ],
+                    [
+                        -3.8271889,
+                        48.5774354
+                    ],
+                    [
+                        -3.8271078,
+                        48.5775036
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Carnot",
+                "name:br": "Straed Carnot",
+                "oneway": "yes",
+                "ref": "D 786",
+                "source:name:br": "proper translation",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 440749920,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.828025,
+                        48.5769661
+                    ],
+                    [
+                        -3.8276743,
+                        48.5771157
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Carnot",
+                "name:br": "Straed Carnot",
+                "oneway": "yes",
+                "ref": "D 786",
+                "source:name:br": "proper translation",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

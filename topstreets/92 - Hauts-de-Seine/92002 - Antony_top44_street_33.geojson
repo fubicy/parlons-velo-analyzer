@@ -1,0 +1,98 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 179060611,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.300482,
+                        48.7507864
+                    ],
+                    [
+                        2.3004499,
+                        48.7505226
+                    ],
+                    [
+                        2.300429,
+                        48.7503518
+                    ],
+                    [
+                        2.3004254,
+                        48.7503038
+                    ],
+                    [
+                        2.300491,
+                        48.750245
+                    ],
+                    [
+                        2.3006393,
+                        48.7501706
+                    ],
+                    [
+                        2.3009202,
+                        48.7500279
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue C\u00e9line",
+                "oneway": "no",
+                "source": "Arret\u00e9 mairie d'Antony 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179060614,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3007616,
+                        48.7526168
+                    ],
+                    [
+                        2.3007442,
+                        48.7525435
+                    ],
+                    [
+                        2.300661,
+                        48.7519792
+                    ],
+                    [
+                        2.3005454,
+                        48.7512754
+                    ],
+                    [
+                        2.3005073,
+                        48.7509974
+                    ],
+                    [
+                        2.300482,
+                        48.7507864
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue C\u00e9line",
+                "note": "DSC non autoris\u00e9",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

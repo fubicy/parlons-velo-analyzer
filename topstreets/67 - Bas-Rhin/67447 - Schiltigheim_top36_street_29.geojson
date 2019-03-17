@@ -1,0 +1,134 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24879501,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7454161,
+                        48.6020662
+                    ],
+                    [
+                        7.7453517,
+                        48.6020777
+                    ],
+                    [
+                        7.7443846,
+                        48.6022514
+                    ],
+                    [
+                        7.7438371,
+                        48.6023453
+                    ],
+                    [
+                        7.742138,
+                        48.6026557
+                    ],
+                    [
+                        7.7421022,
+                        48.602661
+                    ],
+                    [
+                        7.7420396,
+                        48.6026704
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Mundolsheim",
+                "oneway": "yes",
+                "parking:lane:both": "parallel",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24879523,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7381983,
+                        48.6028257
+                    ],
+                    [
+                        7.7383146,
+                        48.6028222
+                    ],
+                    [
+                        7.7395128,
+                        48.6027747
+                    ],
+                    [
+                        7.74014,
+                        48.6027498
+                    ],
+                    [
+                        7.7410136,
+                        48.6027179
+                    ],
+                    [
+                        7.7419341,
+                        48.6026784
+                    ],
+                    [
+                        7.7419764,
+                        48.6026757
+                    ],
+                    [
+                        7.7420396,
+                        48.6026704
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue de Mundolsheim",
+                "oneway": "yes",
+                "parking:lane:both": "parallel",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 295614267,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.74014,
+                        48.6027498
+                    ],
+                    [
+                        7.7401429,
+                        48.6027976
+                    ],
+                    [
+                        7.7401756,
+                        48.6033356
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Mundolsheim",
+                "source": "Bing",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

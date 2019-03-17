@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 387286991,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8852811,
+                        45.7416751
+                    ],
+                    [
+                        4.8853028,
+                        45.7418444
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Ambroise Par\u00e9",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2087",
+                "route_ref": "C26A:R,C8A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 387286992,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8845701,
+                        45.7415934
+                    ],
+                    [
+                        4.8843136,
+                        45.7416745
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Ambroise Par\u00e9",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2088",
+                "route_ref": "C26A:A,C8A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

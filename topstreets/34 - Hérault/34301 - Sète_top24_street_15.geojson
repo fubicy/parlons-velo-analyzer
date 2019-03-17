@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17703200,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.6956483,
+                        43.4016337
+                    ],
+                    [
+                        3.6956446,
+                        43.4016639
+                    ],
+                    [
+                        3.6956376,
+                        43.4017322
+                    ],
+                    [
+                        3.695601,
+                        43.4020866
+                    ],
+                    [
+                        3.6955972,
+                        43.4021136
+                    ],
+                    [
+                        3.6955813,
+                        43.4023244
+                    ],
+                    [
+                        3.695544,
+                        43.4025912
+                    ]
+                ]
+            },
+            "properties": {
+                "description": "pi\u00e9ton depuis 2018",
+                "highway": "pedestrian",
+                "name": "Rue Gambetta",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25735930,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.695544,
+                        43.4025912
+                    ],
+                    [
+                        3.6954929,
+                        43.4029856
+                    ],
+                    [
+                        3.6953463,
+                        43.4041185
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue Gambetta",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

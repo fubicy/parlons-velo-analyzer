@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23055146,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4525207,
+                        48.8913351
+                    ],
+                    [
+                        2.4518229,
+                        48.8916616
+                    ],
+                    [
+                        2.4516708,
+                        48.8917212
+                    ],
+                    [
+                        2.4514348,
+                        48.8917674
+                    ],
+                    [
+                        2.4484179,
+                        48.8924977
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue L\u00e9o Lagrange",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35536295,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4478213,
+                        48.8926421
+                    ],
+                    [
+                        2.4446202,
+                        48.8934275
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "unclassified",
+                "name": "Rue L\u00e9o Lagrange",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 329911013,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4484179,
+                        48.8924977
+                    ],
+                    [
+                        2.4483966,
+                        48.8925029
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue L\u00e9o Lagrange",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 515456202,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4483966,
+                        48.8925029
+                    ],
+                    [
+                        2.4478213,
+                        48.8926421
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_track",
+                "highway": "residential",
+                "name": "Rue L\u00e9o Lagrange",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

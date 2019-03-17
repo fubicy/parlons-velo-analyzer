@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5150672,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4438177,
+                        43.5999152
+                    ],
+                    [
+                        1.4439013,
+                        43.5995956
+                    ],
+                    [
+                        1.4439114,
+                        43.5995569
+                    ],
+                    [
+                        1.4441211,
+                        43.5988649
+                    ],
+                    [
+                        1.4441499,
+                        43.5987263
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "highway": "pedestrian",
+                "motor_vehicle": "delivery",
+                "name": "Rue des Filatiers",
+                "name:oc": "Carri\u00e8ra dels Filati\u00e8rs",
+                "oneway": "yes",
+                "tourism": "attraction",
+                "wikidata": "Q14378579",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 608470610,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4441499,
+                        43.5987263
+                    ],
+                    [
+                        1.4441646,
+                        43.5985744
+                    ],
+                    [
+                        1.4441726,
+                        43.5984694
+                    ],
+                    [
+                        1.4441741,
+                        43.5984293
+                    ],
+                    [
+                        1.4441851,
+                        43.5982112
+                    ],
+                    [
+                        1.4442427,
+                        43.5979874
+                    ],
+                    [
+                        1.4442896,
+                        43.5979392
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "motor_vehicle": "yes",
+                "name": "Rue des Filatiers",
+                "name:oc": "Carri\u00e8ra dels Filati\u00e8rs",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

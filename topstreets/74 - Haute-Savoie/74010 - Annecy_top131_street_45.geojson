@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 595903220,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1686811,
+                        45.9303754
+                    ],
+                    [
+                        6.1686073,
+                        45.9304911
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Parc des Glaisins",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,452 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23049080,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7419137,
+                        48.5912921
+                    ],
+                    [
+                        7.7418489,
+                        48.5913415
+                    ],
+                    [
+                        7.7415461,
+                        48.591588
+                    ],
+                    [
+                        7.7414842,
+                        48.5916551
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place de Haguenau",
+                "name:de": "Hagenauer Platz",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "paved",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23049246,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7417295,
+                        48.5921813
+                    ],
+                    [
+                        7.7417192,
+                        48.5919831
+                    ],
+                    [
+                        7.7417209,
+                        48.5918956
+                    ],
+                    [
+                        7.7417488,
+                        48.5918109
+                    ],
+                    [
+                        7.7417685,
+                        48.5917693
+                    ],
+                    [
+                        7.7417856,
+                        48.591746
+                    ],
+                    [
+                        7.7418211,
+                        48.5917007
+                    ],
+                    [
+                        7.7419375,
+                        48.5915977
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "name": "Place de Haguenau",
+                "name:de": "Hagenauer Platz",
+                "oneway": "yes",
+                "ref": "D 263",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78443335,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7440976,
+                        48.5915882
+                    ],
+                    [
+                        7.7440645,
+                        48.5915149
+                    ],
+                    [
+                        7.743924,
+                        48.5913251
+                    ],
+                    [
+                        7.7438097,
+                        48.5912241
+                    ],
+                    [
+                        7.7437463,
+                        48.5912001
+                    ],
+                    [
+                        7.7436598,
+                        48.5911697
+                    ],
+                    [
+                        7.7436444,
+                        48.5911669
+                    ],
+                    [
+                        7.7428473,
+                        48.5910216
+                    ],
+                    [
+                        7.742769,
+                        48.5910073
+                    ],
+                    [
+                        7.7426902,
+                        48.5909968
+                    ],
+                    [
+                        7.7426253,
+                        48.5909881
+                    ],
+                    [
+                        7.742539,
+                        48.5910136
+                    ],
+                    [
+                        7.7421439,
+                        48.5911294
+                    ],
+                    [
+                        7.7421136,
+                        48.59114
+                    ],
+                    [
+                        7.7420585,
+                        48.5911593
+                    ],
+                    [
+                        7.7419137,
+                        48.5912921
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Place de Haguenau",
+                "name:de": "Hagenauer Platz",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78443336,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7442377,
+                        48.5921765
+                    ],
+                    [
+                        7.744167,
+                        48.5917162
+                    ],
+                    [
+                        7.7441501,
+                        48.591691
+                    ],
+                    [
+                        7.7441073,
+                        48.5916271
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Place de Haguenau",
+                "name:de": "Hagenauer Platz",
+                "oneway": "yes",
+                "service": "parking_aisle",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122917583,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7434935,
+                        48.5914854
+                    ],
+                    [
+                        7.7436356,
+                        48.5915814
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed:type": "FR:urban",
+                "name": "Place de Haguenau",
+                "name:de": "Hagenauer Platz",
+                "oneway": "yes",
+                "psv": "opposite_lane",
+                "ref": "D 263",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192606003,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7425429,
+                        48.5913497
+                    ],
+                    [
+                        7.7427348,
+                        48.5913276
+                    ],
+                    [
+                        7.742881,
+                        48.591327
+                    ],
+                    [
+                        7.7430292,
+                        48.591342
+                    ],
+                    [
+                        7.7431744,
+                        48.5913681
+                    ],
+                    [
+                        7.7432907,
+                        48.5914006
+                    ],
+                    [
+                        7.7433925,
+                        48.5914413
+                    ],
+                    [
+                        7.7434935,
+                        48.5914854
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "name": "Place de Haguenau",
+                "name:de": "Hagenauer Platz",
+                "oneway": "yes",
+                "ref": "D 263",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193185456,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7423512,
+                        48.5913953
+                    ],
+                    [
+                        7.7425429,
+                        48.5913497
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "name": "Place de Haguenau",
+                "oneway": "yes",
+                "ref": "D 263",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 359327863,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7419375,
+                        48.5915977
+                    ],
+                    [
+                        7.7420864,
+                        48.5915021
+                    ],
+                    [
+                        7.7422459,
+                        48.5914333
+                    ],
+                    [
+                        7.7423512,
+                        48.5913953
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "name": "Place de Haguenau",
+                "name:de": "Hagenauer Platz",
+                "oneway": "yes",
+                "ref": "D 263",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 416461069,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7438934,
+                        48.5923027
+                    ],
+                    [
+                        7.74387,
+                        48.5923671
+                    ],
+                    [
+                        7.7438106,
+                        48.5925024
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "name": "Place de Haguenau",
+                "name:de": "Hagenauer Platz",
+                "oneway": "yes",
+                "psv": "opposite_lane",
+                "ref": "D 263",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 666535788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7436356,
+                        48.5915814
+                    ],
+                    [
+                        7.7436865,
+                        48.5916158
+                    ],
+                    [
+                        7.7437675,
+                        48.5917086
+                    ],
+                    [
+                        7.7438476,
+                        48.5918351
+                    ],
+                    [
+                        7.7438805,
+                        48.5919225
+                    ],
+                    [
+                        7.7439069,
+                        48.5920543
+                    ],
+                    [
+                        7.7439083,
+                        48.5921676
+                    ],
+                    [
+                        7.7438934,
+                        48.5923027
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed:type": "FR:urban",
+                "name": "Place de Haguenau",
+                "name:de": "Hagenauer Platz",
+                "oneway": "yes",
+                "psv": "opposite_lane",
+                "ref": "D 263",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

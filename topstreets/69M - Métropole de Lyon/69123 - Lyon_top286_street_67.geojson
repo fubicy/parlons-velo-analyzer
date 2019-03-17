@@ -1,0 +1,161 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4266600,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8407901,
+                        45.7599972
+                    ],
+                    [
+                        4.8381848,
+                        45.7601317
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "4",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "maxweight": "25",
+                "name": "Pont Wilson",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|left|through;right|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60391721,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8410246,
+                        45.7599959
+                    ],
+                    [
+                        4.8409476,
+                        45.7599945
+                    ],
+                    [
+                        4.8408849,
+                        45.7599934
+                    ],
+                    [
+                        4.8408668,
+                        45.7599942
+                    ],
+                    [
+                        4.8407901,
+                        45.7599972
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Pont Wilson",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147949536,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8380464,
+                        45.7600396
+                    ],
+                    [
+                        4.8381765,
+                        45.7600568
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Pont Wilson",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 242291664,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8381765,
+                        45.7600568
+                    ],
+                    [
+                        4.8407823,
+                        45.7599258
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Pont Wilson",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 242291667,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8381848,
+                        45.7601317
+                    ],
+                    [
+                        4.8381149,
+                        45.7601433
+                    ],
+                    [
+                        4.8380449,
+                        45.7601529
+                    ],
+                    [
+                        4.8379393,
+                        45.7601703
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont Wilson",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

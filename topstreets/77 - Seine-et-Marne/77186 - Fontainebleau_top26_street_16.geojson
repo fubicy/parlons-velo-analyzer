@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16071846,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7047998,
+                        48.4104036
+                    ],
+                    [
+                        2.7032244,
+                        48.410802
+                    ],
+                    [
+                        2.7020078,
+                        48.4111441
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Neuville",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

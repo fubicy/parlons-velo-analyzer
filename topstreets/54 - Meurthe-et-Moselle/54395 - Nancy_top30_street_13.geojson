@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 38212477,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1879223,
+                        48.684625
+                    ],
+                    [
+                        6.1876583,
+                        48.6847674
+                    ],
+                    [
+                        6.1871277,
+                        48.6850384
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Place des Vosges",
+                "name:de": "Vogesenplatz",
+                "name:fr": "Place des Vosges",
+                "ref": "D 400",
+                "smoothness": "intermediate",
+                "source": "survey;BDOrtho IGN",
+                "surface": "paving_stones",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160200246,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1871277,
+                        48.6850384
+                    ],
+                    [
+                        6.186819,
+                        48.6852112
+                    ],
+                    [
+                        6.1866626,
+                        48.6852804
+                    ],
+                    [
+                        6.1865784,
+                        48.6852995
+                    ],
+                    [
+                        6.1864934,
+                        48.6853158
+                    ],
+                    [
+                        6.1864484,
+                        48.6853317
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Place des Vosges",
+                "name:de": "Vogesenplatz",
+                "name:fr": "Place des Vosges",
+                "oneway": "yes",
+                "ref": "D 400",
+                "smoothness": "intermediate",
+                "source": "survey;BDOrtho IGN",
+                "surface": "paving_stones",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235930723,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1881382,
+                        48.6845074
+                    ],
+                    [
+                        6.1882518,
+                        48.6844456
+                    ],
+                    [
+                        6.1883299,
+                        48.6844052
+                    ],
+                    [
+                        6.1885794,
+                        48.6842888
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:backward": "Quartier Charles \u2162;Saint-Dizier;;Place des Vosges",
+                "destination:symbol:backward": "parking",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "name": "Place des Vosges",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246800436,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1868415,
+                        48.6848008
+                    ],
+                    [
+                        6.1871277,
+                        48.6850384
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Place des Vosges",
+                "name:de": "Vogesenplatz",
+                "name:fr": "Place des Vosges",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "smoothness": "intermediate",
+                "surface": "paving_stones",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 523002456,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1881382,
+                        48.6845074
+                    ],
+                    [
+                        6.1880606,
+                        48.6845504
+                    ],
+                    [
+                        6.1879223,
+                        48.684625
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Place des Vosges",
+                "name:de": "Vogesenplatz",
+                "name:fr": "Place des Vosges",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

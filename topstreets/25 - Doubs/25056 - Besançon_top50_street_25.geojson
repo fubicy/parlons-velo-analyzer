@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32282174,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0264881,
+                        47.2361236
+                    ],
+                    [
+                        6.0262528,
+                        47.2359459
+                    ],
+                    [
+                        6.0259553,
+                        47.2357402
+                    ],
+                    [
+                        6.0256059,
+                        47.2354964
+                    ],
+                    [
+                        6.0255538,
+                        47.2354596
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de la Pr\u00e9fecture",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32342616,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0255538,
+                        47.2354596
+                    ],
+                    [
+                        6.0248408,
+                        47.2349583
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de la Pr\u00e9fecture",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32342774,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0248408,
+                        47.2349583
+                    ],
+                    [
+                        6.0246121,
+                        47.2348031
+                    ],
+                    [
+                        6.023607,
+                        47.2340945
+                    ],
+                    [
+                        6.0231562,
+                        47.233765
+                    ],
+                    [
+                        6.0228007,
+                        47.2335155
+                    ],
+                    [
+                        6.0226154,
+                        47.2333905
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue de la Pr\u00e9fecture",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

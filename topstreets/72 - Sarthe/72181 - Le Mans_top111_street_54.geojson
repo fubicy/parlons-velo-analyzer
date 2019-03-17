@@ -1,0 +1,202 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4976173,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.183572,
+                        48.0009136
+                    ],
+                    [
+                        0.1837125,
+                        48.0009585
+                    ],
+                    [
+                        0.1837851,
+                        48.0009809
+                    ],
+                    [
+                        0.1838453,
+                        48.0009964
+                    ],
+                    [
+                        0.1841479,
+                        48.0010307
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Anatole France",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178780093,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1838641,
+                        48.0011339
+                    ],
+                    [
+                        0.1839395,
+                        48.0010855
+                    ],
+                    [
+                        0.1840136,
+                        48.0010626
+                    ],
+                    [
+                        0.1841479,
+                        48.0010307
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Anatole France",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178780104,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1841479,
+                        48.0010307
+                    ],
+                    [
+                        0.18457,
+                        48.0010335
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Anatole France",
+                "oneway": "no",
+                "parking:condition:both": "free",
+                "parking:lane:both": "diagonal",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 493668908,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1870821,
+                        48.0010667
+                    ],
+                    [
+                        0.1881304,
+                        48.0010825
+                    ],
+                    [
+                        0.1887605,
+                        48.0010926
+                    ],
+                    [
+                        0.1889435,
+                        48.0010947
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway:left": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Anatole France",
+                "oneway": "no",
+                "parking:condition:both": "free",
+                "parking:lane:both": "diagonal",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 568785412,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.18457,
+                        48.0010335
+                    ],
+                    [
+                        0.1856579,
+                        48.0010505
+                    ],
+                    [
+                        0.1857762,
+                        48.0010524
+                    ],
+                    [
+                        0.186896,
+                        48.0010642
+                    ],
+                    [
+                        0.1870821,
+                        48.0010667
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway:left": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Anatole France",
+                "oneway": "no",
+                "parking:condition:both": "free",
+                "parking:lane:both": "diagonal",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

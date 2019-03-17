@@ -1,0 +1,178 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 115257440,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0292677,
+                        49.2616864
+                    ],
+                    [
+                        4.0291501,
+                        49.2616292
+                    ],
+                    [
+                        4.0287804,
+                        49.2613279
+                    ],
+                    [
+                        4.0285497,
+                        49.2611708
+                    ],
+                    [
+                        4.0281587,
+                        49.2608789
+                    ],
+                    [
+                        4.0278233,
+                        49.2605864
+                    ],
+                    [
+                        4.0270491,
+                        49.259929
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Joffre",
+                "oneway": "yes",
+                "source": "GPS",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171068792,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0270491,
+                        49.259929
+                    ],
+                    [
+                        4.0258847,
+                        49.2590586
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Joffre",
+                "oneway": "no",
+                "source": "GPS",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171068793,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0270491,
+                        49.259929
+                    ],
+                    [
+                        4.0275211,
+                        49.2602308
+                    ],
+                    [
+                        4.0280312,
+                        49.2605989
+                    ],
+                    [
+                        4.0283556,
+                        49.2608776
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Joffre",
+                "oneway": "yes",
+                "source": "GPS",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 486555116,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0283556,
+                        49.2608776
+                    ],
+                    [
+                        4.0286184,
+                        49.2610534
+                    ],
+                    [
+                        4.0286856,
+                        49.2610929
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard Joffre",
+                "oneway": "yes",
+                "source": "GPS",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 486555117,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0286856,
+                        49.2610929
+                    ],
+                    [
+                        4.0292728,
+                        49.2615073
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Boulevard Joffre",
+                "oneway": "yes",
+                "source": "GPS",
+                "surface": "asphalt",
+                "turn:lanes": "left|left;through|right|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

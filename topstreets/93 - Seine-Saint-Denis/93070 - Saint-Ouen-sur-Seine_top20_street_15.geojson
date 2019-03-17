@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 49860191,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3409857,
+                        48.907686
+                    ],
+                    [
+                        2.3410402,
+                        48.9077248
+                    ],
+                    [
+                        2.3418249,
+                        48.9082834
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Entrepreneurs",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

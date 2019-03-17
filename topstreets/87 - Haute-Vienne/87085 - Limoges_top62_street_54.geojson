@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25379308,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2624342,
+                        45.8318763
+                    ],
+                    [
+                        1.2621764,
+                        45.8318887
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Boulevard Carnot",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41083615,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2627485,
+                        45.8318036
+                    ],
+                    [
+                        1.2631583,
+                        45.8318971
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Carnot",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41083617,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2627485,
+                        45.8318036
+                    ],
+                    [
+                        1.2626402,
+                        45.8318297
+                    ],
+                    [
+                        1.2624342,
+                        45.8318763
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Carnot",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67370743,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2589757,
+                        45.8329673
+                    ],
+                    [
+                        1.2587823,
+                        45.8330291
+                    ],
+                    [
+                        1.2578893,
+                        45.8333611
+                    ],
+                    [
+                        1.2578227,
+                        45.8333722
+                    ],
+                    [
+                        1.2574617,
+                        45.8334362
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Carnot",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 333837516,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2621764,
+                        45.8318887
+                    ],
+                    [
+                        1.2621081,
+                        45.8319148
+                    ],
+                    [
+                        1.2613394,
+                        45.8321709
+                    ],
+                    [
+                        1.26071,
+                        45.8323928
+                    ],
+                    [
+                        1.2598816,
+                        45.8326727
+                    ],
+                    [
+                        1.2598021,
+                        45.8326986
+                    ],
+                    [
+                        1.259488,
+                        45.832801
+                    ],
+                    [
+                        1.2590885,
+                        45.8329279
+                    ],
+                    [
+                        1.2589757,
+                        45.8329673
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "lanes:psv": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Carnot",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

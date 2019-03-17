@@ -1,0 +1,364 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24861309,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4373275,
+                        43.6158458
+                    ],
+                    [
+                        1.4373641,
+                        43.6157105
+                    ],
+                    [
+                        1.4375101,
+                        43.6153269
+                    ],
+                    [
+                        1.4376411,
+                        43.6149184
+                    ],
+                    [
+                        1.4378195,
+                        43.6143457
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Honor\u00e9 Serres",
+                "political_division": "canton",
+                "short_name": "Avenue Serres",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62081493,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4387355,
+                        43.6116409
+                    ],
+                    [
+                        1.4386839,
+                        43.6117409
+                    ],
+                    [
+                        1.438594,
+                        43.6118343
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Avenue Honor\u00e9 Serres",
+                "oneway": "yes",
+                "short_name": "Avenue Serres",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62081506,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.438594,
+                        43.6118343
+                    ],
+                    [
+                        1.438569,
+                        43.6117803
+                    ],
+                    [
+                        1.4385629,
+                        43.61172
+                    ],
+                    [
+                        1.4385448,
+                        43.611616
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Avenue Honor\u00e9 Serres",
+                "oneway": "yes",
+                "short_name": "Avenue Serres",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122998587,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4373275,
+                        43.6158458
+                    ],
+                    [
+                        1.4374154,
+                        43.6159232
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "bridge": "yes",
+                "cycleway:right": "shared_lane",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue Honor\u00e9 Serres",
+                "oneway": "yes",
+                "political_division": "canton",
+                "short_name": "Avenue Serres",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122998589,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4371901,
+                        43.616273
+                    ],
+                    [
+                        1.4371215,
+                        43.6162053
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "shared_lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue Honor\u00e9 Serres",
+                "oneway": "yes",
+                "short_name": "Avenue Serres",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264685768,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4373117,
+                        43.6162386
+                    ],
+                    [
+                        1.4371901,
+                        43.616273
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway:right": "shared_lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue Honor\u00e9 Serres",
+                "oneway": "yes",
+                "political_division": "canton",
+                "short_name": "Avenue Serres",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264685769,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4371215,
+                        43.6162053
+                    ],
+                    [
+                        1.4372159,
+                        43.6158899
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "bridge:name": "Pont des Minimes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue Honor\u00e9 Serres",
+                "oneway": "yes",
+                "short_name": "Avenue Serres",
+                "source:bridge:name": "https://structurae.info/ouvrages/pont-des-minimes-1968",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264685770,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4374154,
+                        43.6159232
+                    ],
+                    [
+                        1.4373274,
+                        43.6161908
+                    ],
+                    [
+                        1.4373117,
+                        43.6162386
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "bridge": "yes",
+                "bridge:name": "Pont des Minimes",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue Honor\u00e9 Serres",
+                "oneway": "yes",
+                "political_division": "canton",
+                "short_name": "Avenue Serres",
+                "source:bridge:name": "https://structurae.info/ouvrages/pont-des-minimes-1968",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264685771,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4372159,
+                        43.6158899
+                    ],
+                    [
+                        1.4373275,
+                        43.6158458
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "shared_lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue Honor\u00e9 Serres",
+                "oneway": "yes",
+                "short_name": "Avenue Serres",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 315761983,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4378195,
+                        43.6143457
+                    ],
+                    [
+                        1.4378692,
+                        43.6141815
+                    ],
+                    [
+                        1.4380157,
+                        43.6137152
+                    ],
+                    [
+                        1.4380369,
+                        43.6136363
+                    ],
+                    [
+                        1.4380576,
+                        43.6135713
+                    ],
+                    [
+                        1.4381765,
+                        43.613181
+                    ],
+                    [
+                        1.4383185,
+                        43.6127392
+                    ],
+                    [
+                        1.4384548,
+                        43.6122951
+                    ],
+                    [
+                        1.4385163,
+                        43.6120986
+                    ],
+                    [
+                        1.438594,
+                        43.6118343
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Honor\u00e9 Serres",
+                "short_name": "Avenue Serres",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

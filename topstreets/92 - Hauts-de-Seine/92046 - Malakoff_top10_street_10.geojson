@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16202917,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3044031,
+                        48.8214709
+                    ],
+                    [
+                        2.3044759,
+                        48.8215104
+                    ],
+                    [
+                        2.3049728,
+                        48.8217796
+                    ],
+                    [
+                        2.3051142,
+                        48.8218545
+                    ],
+                    [
+                        2.3054803,
+                        48.822046
+                    ],
+                    [
+                        2.3056413,
+                        48.8221301
+                    ],
+                    [
+                        2.3057039,
+                        48.8221628
+                    ],
+                    [
+                        2.3057491,
+                        48.8221942
+                    ],
+                    [
+                        2.3074666,
+                        48.8231204
+                    ],
+                    [
+                        2.3075505,
+                        48.8231514
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234880334,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3075505,
+                        48.8231514
+                    ],
+                    [
+                        2.3076349,
+                        48.8231829
+                    ],
+                    [
+                        2.3083245,
+                        48.8235672
+                    ],
+                    [
+                        2.3084067,
+                        48.8236151
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

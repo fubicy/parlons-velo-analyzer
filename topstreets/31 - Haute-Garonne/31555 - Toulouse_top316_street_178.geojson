@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22386347,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4438402,
+                        43.5838871
+                    ],
+                    [
+                        1.4436936,
+                        43.5839278
+                    ],
+                    [
+                        1.4435171,
+                        43.5839787
+                    ],
+                    [
+                        1.4432934,
+                        43.5840055
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Saules",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69599675,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4419574,
+                        43.5852639
+                    ],
+                    [
+                        1.4420606,
+                        43.5864461
+                    ],
+                    [
+                        1.4421067,
+                        43.5871419
+                    ],
+                    [
+                        1.442174,
+                        43.5881583
+                    ],
+                    [
+                        1.4421767,
+                        43.5881992
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Saules",
+                "oneway": "yes",
+                "surface": "paved",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202440982,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4432934,
+                        43.5840055
+                    ],
+                    [
+                        1.4433159,
+                        43.5839634
+                    ],
+                    [
+                        1.4433339,
+                        43.5839053
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Saules",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202440983,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4432934,
+                        43.5840055
+                    ],
+                    [
+                        1.4431541,
+                        43.5840257
+                    ],
+                    [
+                        1.4428605,
+                        43.5840554
+                    ],
+                    [
+                        1.4421729,
+                        43.5841341
+                    ],
+                    [
+                        1.4420242,
+                        43.5841578
+                    ],
+                    [
+                        1.4419699,
+                        43.5841792
+                    ],
+                    [
+                        1.4419259,
+                        43.5842127
+                    ],
+                    [
+                        1.4418988,
+                        43.5842746
+                    ],
+                    [
+                        1.4418988,
+                        43.5843413
+                    ],
+                    [
+                        1.4419127,
+                        43.5844689
+                    ],
+                    [
+                        1.4419574,
+                        43.5852639
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Saules",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

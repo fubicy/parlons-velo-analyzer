@@ -1,0 +1,230 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19172681,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.025806,
+                        47.2427197
+                    ],
+                    [
+                        6.0258388,
+                        47.2427666
+                    ],
+                    [
+                        6.0258639,
+                        47.2427958
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Avenue Denfert Rochereau",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39359926,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0270588,
+                        47.2440671
+                    ],
+                    [
+                        6.0278675,
+                        47.2449289
+                    ],
+                    [
+                        6.0280528,
+                        47.2451257
+                    ],
+                    [
+                        6.02809,
+                        47.2451695
+                    ],
+                    [
+                        6.0281202,
+                        47.2451972
+                    ],
+                    [
+                        6.0282058,
+                        47.2452765
+                    ],
+                    [
+                        6.0283016,
+                        47.2453436
+                    ],
+                    [
+                        6.0283898,
+                        47.2453905
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Denfert Rochereau",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 288211512,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0258639,
+                        47.2427958
+                    ],
+                    [
+                        6.0259649,
+                        47.2428621
+                    ],
+                    [
+                        6.0260468,
+                        47.2429414
+                    ],
+                    [
+                        6.0262958,
+                        47.2432128
+                    ],
+                    [
+                        6.026998,
+                        47.2439682
+                    ],
+                    [
+                        6.0270305,
+                        47.2440345
+                    ],
+                    [
+                        6.0270588,
+                        47.2440671
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Denfert Rochereau",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 461128095,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0284871,
+                        47.2455312
+                    ],
+                    [
+                        6.0284375,
+                        47.2454692
+                    ],
+                    [
+                        6.0284177,
+                        47.2454563
+                    ],
+                    [
+                        6.0283971,
+                        47.245442
+                    ],
+                    [
+                        6.0282635,
+                        47.2453701
+                    ],
+                    [
+                        6.0281356,
+                        47.2452888
+                    ],
+                    [
+                        6.0280726,
+                        47.2452184
+                    ],
+                    [
+                        6.0280117,
+                        47.2451433
+                    ],
+                    [
+                        6.0270393,
+                        47.2440848
+                    ],
+                    [
+                        6.0261761,
+                        47.24315
+                    ],
+                    [
+                        6.0259273,
+                        47.2428803
+                    ],
+                    [
+                        6.0258639,
+                        47.2427958
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "name": "Avenue Denfert Rochereau",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 620260806,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0283898,
+                        47.2453905
+                    ],
+                    [
+                        6.0284455,
+                        47.2454137
+                    ],
+                    [
+                        6.0284921,
+                        47.2454322
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "name": "Avenue Denfert Rochereau",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

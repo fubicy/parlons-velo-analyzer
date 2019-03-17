@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5984594,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8920925,
+                        45.7389942
+                    ],
+                    [
+                        4.8921882,
+                        45.7389305
+                    ],
+                    [
+                        4.8924131,
+                        45.738862
+                    ],
+                    [
+                        4.8927576,
+                        45.7387638
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Franklin Roosevelt",
+                "note": "Carrefour ferm\u00e9 jusqu'\u00e0 15 septembre 2018 pour cause du chantier T6",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "placement": "transition",
+                "placement:end": "right_of:2",
+                "source": "survey",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18834605,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8930064,
+                        45.7387707
+                    ],
+                    [
+                        4.8926513,
+                        45.7388819
+                    ],
+                    [
+                        4.892475,
+                        45.7389493
+                    ],
+                    [
+                        4.8922548,
+                        45.7390239
+                    ],
+                    [
+                        4.8920925,
+                        45.7389942
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Franklin Roosevelt",
+                "note": "Carrefour ferm\u00e9 jusqu'\u00e0 15 septembre 2018 pour cause du chantier T6",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "source": "survey",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

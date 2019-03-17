@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 153272740,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4745814,
+                        43.5460319
+                    ],
+                    [
+                        1.4746529,
+                        43.5460792
+                    ],
+                    [
+                        1.4746779,
+                        43.5460957
+                    ],
+                    [
+                        1.4751427,
+                        43.546407
+                    ],
+                    [
+                        1.4751686,
+                        43.5464238
+                    ],
+                    [
+                        1.4752898,
+                        43.546496
+                    ],
+                    [
+                        1.4753018,
+                        43.5465034
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Sanguinettes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 211997539,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4753018,
+                        43.5465034
+                    ],
+                    [
+                        1.4760233,
+                        43.5469365
+                    ],
+                    [
+                        1.4764323,
+                        43.5471626
+                    ],
+                    [
+                        1.4766877,
+                        43.5470866
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Sanguinettes",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

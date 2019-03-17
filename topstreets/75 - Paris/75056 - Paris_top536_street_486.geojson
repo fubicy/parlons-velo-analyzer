@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4251051,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3351406,
+                        48.8640194
+                    ],
+                    [
+                        2.3350246,
+                        48.8639311
+                    ],
+                    [
+                        2.3347643,
+                        48.863733
+                    ],
+                    [
+                        2.3346931,
+                        48.8636789
+                    ],
+                    [
+                        2.3346306,
+                        48.8636313
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Place Andr\u00e9 Malraux",
+                "name:ru": "\u043f\u043b\u043e\u0449\u0430\u0434\u044c \u0410\u043d\u0434\u0440\u0435 \u041c\u0430\u043b\u044c\u0440\u043e",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4251052,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3351406,
+                        48.8640194
+                    ],
+                    [
+                        2.335329,
+                        48.8639825
+                    ],
+                    [
+                        2.3357652,
+                        48.863897
+                    ],
+                    [
+                        2.3359014,
+                        48.8638717
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed:type": "FR:urban",
+                "name": "Place Andr\u00e9 Malraux",
+                "name:ru": "\u043f\u043b\u043e\u0449\u0430\u0434\u044c \u0410\u043d\u0434\u0440\u0435 \u041c\u0430\u043b\u044c\u0440\u043e",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54053055,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3351406,
+                        48.8640194
+                    ],
+                    [
+                        2.3353199,
+                        48.8636209
+                    ],
+                    [
+                        2.3353617,
+                        48.8635405
+                    ],
+                    [
+                        2.3353779,
+                        48.8635093
+                    ],
+                    [
+                        2.3355182,
+                        48.8632226
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Place Andr\u00e9 Malraux",
+                "name:ru": "\u043f\u043b\u043e\u0449\u0430\u0434\u044c \u0410\u043d\u0434\u0440\u0435 \u041c\u0430\u043b\u044c\u0440\u043e",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54053060,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.335735,
+                        48.8636073
+                    ],
+                    [
+                        2.3354786,
+                        48.863616
+                    ],
+                    [
+                        2.3353199,
+                        48.8636209
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed:type": "FR:urban",
+                "name": "Place Andr\u00e9 Malraux",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

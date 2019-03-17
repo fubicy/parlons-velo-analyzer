@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 611316726,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1547772,
+                        45.9194505
+                    ],
+                    [
+                        6.1549106,
+                        45.9193484
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "IUT",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 611316727,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1549468,
+                        45.9194076
+                    ],
+                    [
+                        6.1547933,
+                        45.9195256
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "IUT",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

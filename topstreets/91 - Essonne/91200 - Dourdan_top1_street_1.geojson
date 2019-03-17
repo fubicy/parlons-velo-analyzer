@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 47374776,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0174765,
+                        48.5301751
+                    ],
+                    [
+                        2.0173777,
+                        48.5302231
+                    ],
+                    [
+                        2.0172808,
+                        48.5302518
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue Gautreau",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115560406,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0172808,
+                        48.5302518
+                    ],
+                    [
+                        2.0171363,
+                        48.5302881
+                    ],
+                    [
+                        2.0150584,
+                        48.5307955
+                    ],
+                    [
+                        2.0147227,
+                        48.5308775
+                    ],
+                    [
+                        2.014609,
+                        48.5309113
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue Gautreau",
+                "source": "Bing",
+                "zone:maxspeed": "FR:30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115560442,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0172808,
+                        48.5302518
+                    ],
+                    [
+                        2.0173144,
+                        48.5301824
+                    ],
+                    [
+                        2.0173344,
+                        48.5301095
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue Gautreau",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

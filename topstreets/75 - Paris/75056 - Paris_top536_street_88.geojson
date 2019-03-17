@@ -1,0 +1,168 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4472300,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3271771,
+                        48.883337
+                    ],
+                    [
+                        2.3271796,
+                        48.8832289
+                    ],
+                    [
+                        2.3271448,
+                        48.8828042
+                    ],
+                    [
+                        2.3270821,
+                        48.8812695
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "name": "Rue d'Amsterdam",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3450470",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32784934,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3270821,
+                        48.8812695
+                    ],
+                    [
+                        2.3270663,
+                        48.8808667
+                    ],
+                    [
+                        2.327062,
+                        48.880807
+                    ],
+                    [
+                        2.3270547,
+                        48.8805492
+                    ],
+                    [
+                        2.3270539,
+                        48.880522
+                    ],
+                    [
+                        2.3270516,
+                        48.8804419
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue d'Amsterdam",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q3450470",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37064085,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3270516,
+                        48.8804419
+                    ],
+                    [
+                        2.3270229,
+                        48.8797105
+                    ],
+                    [
+                        2.3270201,
+                        48.8796403
+                    ],
+                    [
+                        2.326981,
+                        48.8787234
+                    ],
+                    [
+                        2.3269546,
+                        48.8779933
+                    ],
+                    [
+                        2.3269497,
+                        48.8778593
+                    ],
+                    [
+                        2.3269421,
+                        48.8777011
+                    ],
+                    [
+                        2.3269178,
+                        48.8771928
+                    ],
+                    [
+                        2.3269162,
+                        48.87711
+                    ],
+                    [
+                        2.326905,
+                        48.8768651
+                    ],
+                    [
+                        2.326871,
+                        48.876167
+                    ],
+                    [
+                        2.3268636,
+                        48.8760154
+                    ],
+                    [
+                        2.3267586,
+                        48.8756981
+                    ],
+                    [
+                        2.3266902,
+                        48.8755751
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue d'Amsterdam",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "wikidata": "Q3450470",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

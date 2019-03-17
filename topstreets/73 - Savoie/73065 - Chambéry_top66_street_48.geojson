@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 39595873,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9394751,
+                        45.5680222
+                    ],
+                    [
+                        5.9390663,
+                        45.5679405
+                    ],
+                    [
+                        5.9383394,
+                        45.5677899
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Route de Challes",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

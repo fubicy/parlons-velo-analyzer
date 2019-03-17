@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31049395,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5470628,
+                        47.4769324
+                    ],
+                    [
+                        -0.5465115,
+                        47.4774649
+                    ],
+                    [
+                        -0.5460452,
+                        47.47793
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "layer": "-1",
+                "maxspeed": "50",
+                "name": "Avenue Besnardi\u00e8re",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196264551,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5460452,
+                        47.47793
+                    ],
+                    [
+                        -0.5459864,
+                        47.4780092
+                    ],
+                    [
+                        -0.545729,
+                        47.4782861
+                    ],
+                    [
+                        -0.5456981,
+                        47.4783273
+                    ],
+                    [
+                        -0.5451589,
+                        47.4789047
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Avenue Besnardi\u00e8re",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

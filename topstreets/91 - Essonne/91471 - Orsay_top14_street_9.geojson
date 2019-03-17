@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 42487710,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1864505,
+                        48.7034545
+                    ],
+                    [
+                        2.1863077,
+                        48.7034431
+                    ],
+                    [
+                        2.1862556,
+                        48.7034423
+                    ],
+                    [
+                        2.1849239,
+                        48.703466
+                    ],
+                    [
+                        2.1848882,
+                        48.7034665
+                    ],
+                    [
+                        2.1848561,
+                        48.703466
+                    ],
+                    [
+                        2.1846426,
+                        48.7034656
+                    ],
+                    [
+                        2.1841116,
+                        48.7034341
+                    ],
+                    [
+                        2.1840738,
+                        48.7034313
+                    ],
+                    [
+                        2.1834168,
+                        48.7033916
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "highway:cycle": "secondary",
+                "maxspeed": "30",
+                "name": "Rue de Chevreuse",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55874609,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1834168,
+                        48.7033916
+                    ],
+                    [
+                        2.1829864,
+                        48.703382
+                    ],
+                    [
+                        2.1827614,
+                        48.7033766
+                    ],
+                    [
+                        2.182437,
+                        48.7033782
+                    ],
+                    [
+                        2.1823903,
+                        48.7033774
+                    ],
+                    [
+                        2.18157,
+                        48.7034919
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "highway:cycle": "secondary",
+                "maxspeed": "30",
+                "name": "Rue de Chevreuse",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

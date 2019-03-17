@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4798976,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2784643,
+                        48.8264336
+                    ],
+                    [
+                        2.2786019,
+                        48.8263247
+                    ],
+                    [
+                        2.2793656,
+                        48.8256916
+                    ],
+                    [
+                        2.2794501,
+                        48.8256216
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Vanves",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29091648,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2800449,
+                        48.8251988
+                    ],
+                    [
+                        2.2797797,
+                        48.825365
+                    ],
+                    [
+                        2.2794501,
+                        48.8256216
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Vanves",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

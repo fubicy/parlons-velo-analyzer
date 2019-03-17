@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29342025,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3760371,
+                        48.955308
+                    ],
+                    [
+                        4.3755625,
+                        48.9553874
+                    ],
+                    [
+                        4.3746965,
+                        48.9555236
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Jean-Jacques Rousseau",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29342057,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3691752,
+                        48.956845
+                    ],
+                    [
+                        4.3698083,
+                        48.9566209
+                    ],
+                    [
+                        4.3708801,
+                        48.9562508
+                    ],
+                    [
+                        4.371243,
+                        48.9561628
+                    ],
+                    [
+                        4.3722488,
+                        48.9558746
+                    ],
+                    [
+                        4.3729635,
+                        48.9556832
+                    ],
+                    [
+                        4.3734963,
+                        48.9555861
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Jean-Jacques Rousseau",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

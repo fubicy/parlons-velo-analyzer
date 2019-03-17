@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8108480,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7529069,
+                        48.0762921
+                    ],
+                    [
+                        -0.7529318,
+                        48.0759452
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Paris",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through|through;right",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374303428,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7529318,
+                        48.0759452
+                    ],
+                    [
+                        -0.7529478,
+                        48.0758492
+                    ],
+                    [
+                        -0.7529526,
+                        48.0758205
+                    ],
+                    [
+                        -0.752967,
+                        48.0757342
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Pont de Paris",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

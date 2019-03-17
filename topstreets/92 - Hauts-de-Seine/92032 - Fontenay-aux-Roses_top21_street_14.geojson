@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 124708190,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2864783,
+                        48.789159
+                    ],
+                    [
+                        2.2863953,
+                        48.7891832
+                    ],
+                    [
+                        2.2852984,
+                        48.7895029
+                    ],
+                    [
+                        2.2849739,
+                        48.7895329
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Ormeaux",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196711751,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2864783,
+                        48.789159
+                    ],
+                    [
+                        2.2865305,
+                        48.7891438
+                    ],
+                    [
+                        2.2870125,
+                        48.7890035
+                    ],
+                    [
+                        2.2877309,
+                        48.7887944
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Ormeaux",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

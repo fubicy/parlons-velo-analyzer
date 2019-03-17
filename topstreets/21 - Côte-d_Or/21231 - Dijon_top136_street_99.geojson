@@ -1,0 +1,168 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23281834,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0334905,
+                        47.3216621
+                    ],
+                    [
+                        5.033454,
+                        47.3216757
+                    ],
+                    [
+                        5.0333579,
+                        47.3217115
+                    ],
+                    [
+                        5.0331843,
+                        47.3217602
+                    ],
+                    [
+                        5.0330679,
+                        47.3217798
+                    ],
+                    [
+                        5.0329548,
+                        47.3218027
+                    ],
+                    [
+                        5.0326333,
+                        47.321839
+                    ],
+                    [
+                        5.0324843,
+                        47.3218558
+                    ],
+                    [
+                        5.0323689,
+                        47.3218789
+                    ],
+                    [
+                        5.0312865,
+                        47.3220956
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Mariotte",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23363604,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0312865,
+                        47.3220956
+                    ],
+                    [
+                        5.0305371,
+                        47.3222427
+                    ],
+                    [
+                        5.0304212,
+                        47.3222654
+                    ],
+                    [
+                        5.0301887,
+                        47.322311
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Rue Mariotte",
+                "oneway": "-1",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 280273475,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0334283,
+                        47.3216543
+                    ],
+                    [
+                        5.033454,
+                        47.3216757
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "path",
+                "name": "Rue Mariotte",
+                "oneway": "yes",
+                "segregated": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 280273476,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0324843,
+                        47.3218558
+                    ],
+                    [
+                        5.0325846,
+                        47.3218172
+                    ],
+                    [
+                        5.0329337,
+                        47.3217549
+                    ],
+                    [
+                        5.0331612,
+                        47.3217176
+                    ],
+                    [
+                        5.0333407,
+                        47.3216792
+                    ],
+                    [
+                        5.0334283,
+                        47.3216543
+                    ],
+                    [
+                        5.0334905,
+                        47.3216621
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "path",
+                "name": "Rue Mariotte",
+                "oneway": "yes",
+                "segregated": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 197211931,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7115612,
+                        45.1976859
+                    ],
+                    [
+                        5.7114933,
+                        45.1978516
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bin": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Arago",
+                "network": "TAG",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197211933,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7116971,
+                        45.1971462
+                    ],
+                    [
+                        5.7117682,
+                        45.1969798
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Arago",
+                "network": "TAG",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

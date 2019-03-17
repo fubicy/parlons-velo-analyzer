@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 157769704,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0305335,
+                        49.2458924
+                    ],
+                    [
+                        4.0301668,
+                        49.2456591
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Pont de Venise",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 206802735,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0301668,
+                        49.2456591
+                    ],
+                    [
+                        4.0300819,
+                        49.2456048
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Pont de Venise",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

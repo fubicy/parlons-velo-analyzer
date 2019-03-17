@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 165592932,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.100492,
+                        49.4468762
+                    ],
+                    [
+                        1.1004797,
+                        49.4468492
+                    ],
+                    [
+                        1.1004463,
+                        49.4467755
+                    ],
+                    [
+                        1.1001667,
+                        49.4461589
+                    ],
+                    [
+                        1.0998952,
+                        49.4455465
+                    ],
+                    [
+                        1.0998152,
+                        49.4453838
+                    ],
+                    [
+                        1.0996872,
+                        49.4451035
+                    ],
+                    [
+                        1.0995043,
+                        49.4446981
+                    ],
+                    [
+                        1.0994904,
+                        49.4446674
+                    ],
+                    [
+                        1.0994524,
+                        49.4445837
+                    ],
+                    [
+                        1.0994458,
+                        49.4445689
+                    ],
+                    [
+                        1.099418,
+                        49.4445076
+                    ],
+                    [
+                        1.0994093,
+                        49.4444884
+                    ],
+                    [
+                        1.0992561,
+                        49.4441508
+                    ],
+                    [
+                        1.0992333,
+                        49.4441004
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Louis Ricard",
+                "oneway": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 184467935,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0998867,
+                        49.4481602
+                    ],
+                    [
+                        1.0999265,
+                        49.4480805
+                    ],
+                    [
+                        1.0999408,
+                        49.4480517
+                    ],
+                    [
+                        1.0999989,
+                        49.4479351
+                    ],
+                    [
+                        1.1001519,
+                        49.4476475
+                    ],
+                    [
+                        1.1003066,
+                        49.4473246
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:forward": "1",
+                "maxspeed": "30",
+                "name": "Rue Louis Ricard",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195606412,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0998736,
+                        49.4481879
+                    ],
+                    [
+                        1.0998867,
+                        49.4481602
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "3",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "delivery @ (weight>7.5)",
+                "name": "Rue Louis Ricard",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:bus": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 602669209,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1003066,
+                        49.4473246
+                    ],
+                    [
+                        1.1003288,
+                        49.4472784
+                    ],
+                    [
+                        1.100472,
+                        49.4469839
+                    ],
+                    [
+                        1.100492,
+                        49.4468762
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:forward": "1",
+                "maxspeed": "30",
+                "name": "Rue Louis Ricard",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

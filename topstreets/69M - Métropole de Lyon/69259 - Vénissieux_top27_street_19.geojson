@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 381950853,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8800238,
+                        45.6948971
+                    ],
+                    [
+                        4.8801766,
+                        45.6950131
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Lyc\u00e9e Jacques Brel",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "39917",
+                "route_ref": "C12A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 381950854,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8799085,
+                        45.695087
+                    ],
+                    [
+                        4.8798143,
+                        45.6950128
+                    ],
+                    [
+                        4.8797592,
+                        45.6949695
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Lyc\u00e9e Jacques Brel",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "39534",
+                "route_ref": "C12A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 381869541,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3113164,
+                        48.8301918
+                    ],
+                    [
+                        2.3115378,
+                        48.8302243
+                    ],
+                    [
+                        2.3118897,
+                        48.8299906
+                    ],
+                    [
+                        2.3129071,
+                        48.8293236
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Galerie Sainte-Genevi\u00e8ve",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 395053073,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3129071,
+                        48.8293236
+                    ],
+                    [
+                        2.3136483,
+                        48.8288373
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Galerie Sainte-Genevi\u00e8ve",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

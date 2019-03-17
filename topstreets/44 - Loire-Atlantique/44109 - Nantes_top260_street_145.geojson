@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 44976479,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5378664,
+                        47.2146222
+                    ],
+                    [
+                        -1.5379979,
+                        47.2145588
+                    ],
+                    [
+                        -1.5384534,
+                        47.2143504
+                    ],
+                    [
+                        -1.5387914,
+                        47.2141958
+                    ],
+                    [
+                        -1.5389283,
+                        47.2141332
+                    ],
+                    [
+                        -1.5390555,
+                        47.214075
+                    ],
+                    [
+                        -1.539309,
+                        47.2139116
+                    ],
+                    [
+                        -1.5394244,
+                        47.213837
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Progr\u00e8s",
+                "oneway": "no",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:maxstay": "2 h",
+                "parking:condition:right": "ticket",
+                "parking:condition:right:maxstay": "2 h",
+                "parking:lane:left": "marked",
+                "parking:lane:right": "marked",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

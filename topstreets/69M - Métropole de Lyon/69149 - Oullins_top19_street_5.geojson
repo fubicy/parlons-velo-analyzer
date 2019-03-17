@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23097326,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8098329,
+                        45.7178568
+                    ],
+                    [
+                        4.8097349,
+                        45.7176171
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont d'Oullins",
+                "ref": "D 486",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383950996,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8099206,
+                        45.7182794
+                    ],
+                    [
+                        4.8098606,
+                        45.7181311
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Pont d'Oullins",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2465",
+                "route_ref": "17B:A,63A:A,C10A:A,C7B:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383950997,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8100397,
+                        45.7181408
+                    ],
+                    [
+                        4.8100931,
+                        45.7182759
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Pont d'Oullins",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2462",
+                "route_ref": "17B:R,63A:R,C10A:R,C7B:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

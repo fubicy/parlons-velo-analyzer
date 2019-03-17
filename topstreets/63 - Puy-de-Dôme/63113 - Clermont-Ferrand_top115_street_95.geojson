@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33916608,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1139882,
+                        45.7912739
+                    ],
+                    [
+                        3.1139287,
+                        45.7912559
+                    ],
+                    [
+                        3.1136881,
+                        45.791183
+                    ],
+                    [
+                        3.1134567,
+                        45.791089
+                    ],
+                    [
+                        3.1133423,
+                        45.7910431
+                    ],
+                    [
+                        3.1131099,
+                        45.7909499
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Place de la Fontaine",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48343568,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1134567,
+                        45.791089
+                    ],
+                    [
+                        3.113422,
+                        45.7911407
+                    ],
+                    [
+                        3.1134008,
+                        45.7911663
+                    ],
+                    [
+                        3.113384,
+                        45.7911982
+                    ],
+                    [
+                        3.1133147,
+                        45.7912745
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place de la Fontaine",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

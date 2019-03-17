@@ -1,0 +1,182 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5000013,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8484103,
+                        45.7629875
+                    ],
+                    [
+                        4.8471878,
+                        45.762876
+                    ],
+                    [
+                        4.8461633,
+                        45.7627809
+                    ],
+                    [
+                        4.8452825,
+                        45.7626975
+                    ],
+                    [
+                        4.8451488,
+                        45.7626847
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Rabelais",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 637868776,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8419609,
+                        45.7624007
+                    ],
+                    [
+                        4.8418176,
+                        45.7623889
+                    ],
+                    [
+                        4.8414268,
+                        45.7623544
+                    ],
+                    [
+                        4.8414219,
+                        45.762354
+                    ],
+                    [
+                        4.8413923,
+                        45.7623514
+                    ],
+                    [
+                        4.8413337,
+                        45.7623462
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Rabelais",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 669468831,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8451488,
+                        45.7626847
+                    ],
+                    [
+                        4.8450115,
+                        45.7626719
+                    ],
+                    [
+                        4.8441466,
+                        45.7625906
+                    ],
+                    [
+                        4.8440545,
+                        45.762582
+                    ],
+                    [
+                        4.8439324,
+                        45.762571
+                    ],
+                    [
+                        4.843287,
+                        45.7625147
+                    ],
+                    [
+                        4.8432032,
+                        45.7625074
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Rabelais",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:emergency": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 669474539,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8432032,
+                        45.7625074
+                    ],
+                    [
+                        4.8431203,
+                        45.7625002
+                    ],
+                    [
+                        4.8421005,
+                        45.7624121
+                    ],
+                    [
+                        4.8420156,
+                        45.7624051
+                    ],
+                    [
+                        4.8419609,
+                        45.7624007
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Rabelais",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

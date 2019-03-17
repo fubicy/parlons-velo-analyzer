@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19173937,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0168577,
+                        47.2426999
+                    ],
+                    [
+                        6.0170902,
+                        47.2426614
+                    ],
+                    [
+                        6.01732,
+                        47.2425661
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "maxweight": "3.5",
+                "name": "Rue Richebourg",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19173940,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0177863,
+                        47.2423268
+                    ],
+                    [
+                        6.0177547,
+                        47.2421935
+                    ],
+                    [
+                        6.0176475,
+                        47.2420608
+                    ],
+                    [
+                        6.0173666,
+                        47.2416871
+                    ],
+                    [
+                        6.0171941,
+                        47.2414642
+                    ],
+                    [
+                        6.0169135,
+                        47.2411209
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Richebourg",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32724885,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.01732,
+                        47.2425661
+                    ],
+                    [
+                        6.0172549,
+                        47.2426578
+                    ],
+                    [
+                        6.0170559,
+                        47.2427518
+                    ],
+                    [
+                        6.0169929,
+                        47.2427925
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "maxweight": "3.5",
+                "name": "Rue Richebourg",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35101809,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.01732,
+                        47.2425661
+                    ],
+                    [
+                        6.017527,
+                        47.2424525
+                    ],
+                    [
+                        6.0177863,
+                        47.2423268
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "maxweight": "3.5",
+                "name": "Rue Richebourg",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397942537,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0169135,
+                        47.2411209
+                    ],
+                    [
+                        6.0167274,
+                        47.2409111
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Richebourg",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 6273450,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.166194,
+                        48.6666972
+                    ],
+                    [
+                        6.1660713,
+                        48.6667197
+                    ],
+                    [
+                        6.1660257,
+                        48.6667318
+                    ],
+                    [
+                        6.1658476,
+                        48.6668004
+                    ],
+                    [
+                        6.1657849,
+                        48.6668235
+                    ],
+                    [
+                        6.1655671,
+                        48.6669069
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Nancy-Centre gare;Villers;Laxou;Jardin Botanique Jean-Marie PELT;Campus Aiguillettes;Brabois",
+                "destination:symbol": "camp_site",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard des Aiguillettes",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "543950045F",
+                "source": "GrandNancy Orthophotographie 2016",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151716051,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1655671,
+                        48.6669069
+                    ],
+                    [
+                        6.1653833,
+                        48.6669717
+                    ],
+                    [
+                        6.1651748,
+                        48.6670398
+                    ],
+                    [
+                        6.1650779,
+                        48.6670715
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Nancy-Centre gare",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard des Aiguillettes",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "543950045F",
+                "source": "GrandNancy Orthophotographie 2016",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604488400,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1650197,
+                        48.6669986
+                    ],
+                    [
+                        6.1651319,
+                        48.6669602
+                    ],
+                    [
+                        6.1653129,
+                        48.666877
+                    ],
+                    [
+                        6.1656993,
+                        48.6666851
+                    ],
+                    [
+                        6.1657395,
+                        48.666666
+                    ],
+                    [
+                        6.1657725,
+                        48.6666487
+                    ],
+                    [
+                        6.1658782,
+                        48.6665957
+                    ],
+                    [
+                        6.1659679,
+                        48.6665474
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard des Aiguillettes",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "543950045F",
+                "source": "GrandNancy Orthophotographie 2016",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through;right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

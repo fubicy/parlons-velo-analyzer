@@ -1,0 +1,351 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4748376,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.742791,
+                        48.599451
+                    ],
+                    [
+                        7.7426942,
+                        48.5993898
+                    ],
+                    [
+                        7.7426067,
+                        48.5992825
+                    ],
+                    [
+                        7.7424978,
+                        48.5991357
+                    ],
+                    [
+                        7.7422001,
+                        48.5986629
+                    ],
+                    [
+                        7.7420809,
+                        48.5984561
+                    ],
+                    [
+                        7.7420295,
+                        48.5983006
+                    ],
+                    [
+                        7.7419309,
+                        48.5980027
+                    ],
+                    [
+                        7.7419125,
+                        48.5979455
+                    ],
+                    [
+                        7.741806,
+                        48.5976152
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Route de Bischwiller",
+                "oneway": "yes",
+                "ref": "D 468",
+                "source": "Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153156541,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7417116,
+                        48.5968595
+                    ],
+                    [
+                        7.7416782,
+                        48.5968305
+                    ],
+                    [
+                        7.7416346,
+                        48.596815
+                    ],
+                    [
+                        7.7415937,
+                        48.59681
+                    ],
+                    [
+                        7.741557,
+                        48.5968103
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Route de Bischwiller",
+                "oneway": "yes",
+                "source:maxspeed": "FR:rural",
+                "surface": "asphalt",
+                "turn": "right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153156542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7419863,
+                        48.596891
+                    ],
+                    [
+                        7.7419727,
+                        48.5969369
+                    ],
+                    [
+                        7.7419678,
+                        48.5969632
+                    ],
+                    [
+                        7.7419392,
+                        48.5970836
+                    ],
+                    [
+                        7.7419266,
+                        48.5972
+                    ],
+                    [
+                        7.7419244,
+                        48.59732
+                    ],
+                    [
+                        7.7419368,
+                        48.5975794
+                    ],
+                    [
+                        7.7419736,
+                        48.597822
+                    ],
+                    [
+                        7.7420898,
+                        48.598292
+                    ],
+                    [
+                        7.7421277,
+                        48.5983924
+                    ],
+                    [
+                        7.7422657,
+                        48.5986465
+                    ],
+                    [
+                        7.7425636,
+                        48.5991108
+                    ],
+                    [
+                        7.7427695,
+                        48.5993617
+                    ],
+                    [
+                        7.742791,
+                        48.599451
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Route de Bischwiller",
+                "oneway": "yes",
+                "ref": "D 468",
+                "source": "Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 416461072,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7422685,
+                        48.5959341
+                    ],
+                    [
+                        7.7420751,
+                        48.5965334
+                    ],
+                    [
+                        7.7420298,
+                        48.596698
+                    ],
+                    [
+                        7.7419863,
+                        48.596891
+                    ]
+                ]
+            },
+            "properties": {
+                "access:lanes": "yes|no",
+                "bus:lanes": "yes|designated",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Route de Bischwiller",
+                "oneway": "yes",
+                "ref": "D 468",
+                "source": "Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 416461073,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7417353,
+                        48.5966987
+                    ],
+                    [
+                        7.7417602,
+                        48.5966052
+                    ]
+                ]
+            },
+            "properties": {
+                "access:lanes": "no|yes|yes",
+                "bus:lanes": "designated|yes|yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Route de Bischwiller",
+                "oneway": "yes",
+                "placement": "right_of:2",
+                "ref": "D 468",
+                "source": "Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 416461074,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7417028,
+                        48.5971812
+                    ],
+                    [
+                        7.7417008,
+                        48.5970877
+                    ],
+                    [
+                        7.7417086,
+                        48.5969617
+                    ],
+                    [
+                        7.7417102,
+                        48.5969323
+                    ],
+                    [
+                        7.7417116,
+                        48.5968595
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Route de Bischwiller",
+                "oneway": "yes",
+                "ref": "D 468",
+                "source": "Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 436430107,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7417116,
+                        48.5968595
+                    ],
+                    [
+                        7.7417353,
+                        48.5966987
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Route de Bischwiller",
+                "oneway": "yes",
+                "ref": "D 468",
+                "source": "Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 527117231,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.741806,
+                        48.5976152
+                    ],
+                    [
+                        7.7417174,
+                        48.597263
+                    ],
+                    [
+                        7.7417028,
+                        48.5971812
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Route de Bischwiller",
+                "oneway": "yes",
+                "ref": "D 468",
+                "source": "Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 432736818,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4661274,
+                        43.2893484
+                    ],
+                    [
+                        5.4659624,
+                        43.2893884
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Petit Saint-Marcel",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 432736819,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4654736,
+                        43.2894338
+                    ],
+                    [
+                        5.4656412,
+                        43.2893908
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Petit Saint-Marcel",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

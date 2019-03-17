@@ -1,0 +1,155 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27407434,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4209901,
+                        48.8107945
+                    ],
+                    [
+                        2.4211327,
+                        48.810772
+                    ],
+                    [
+                        2.421258,
+                        48.8107022
+                    ],
+                    [
+                        2.4219831,
+                        48.8100487
+                    ],
+                    [
+                        2.4224278,
+                        48.8096814
+                    ],
+                    [
+                        2.422488,
+                        48.8096018
+                    ],
+                    [
+                        2.4229581,
+                        48.8089806
+                    ],
+                    [
+                        2.4231812,
+                        48.8086956
+                    ],
+                    [
+                        2.4231736,
+                        48.8084954
+                    ]
+                ]
+            },
+            "properties": {
+                "FIXME": "pas s\u00fbr pour le nom de la voie, \u00e0 v\u00e9rifier",
+                "highway": "residential",
+                "name": "Chemin Lat\u00e9ral",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27407637,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4209901,
+                        48.8107945
+                    ],
+                    [
+                        2.4202646,
+                        48.8113851
+                    ],
+                    [
+                        2.4194279,
+                        48.812011
+                    ],
+                    [
+                        2.4180778,
+                        48.8131791
+                    ],
+                    [
+                        2.4178709,
+                        48.8133628
+                    ],
+                    [
+                        2.4173723,
+                        48.8138827
+                    ],
+                    [
+                        2.4167291,
+                        48.8146546
+                    ],
+                    [
+                        2.4166685,
+                        48.8147273
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Chemin Lat\u00e9ral",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85529860,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4209901,
+                        48.8107945
+                    ],
+                    [
+                        2.4222351,
+                        48.8095785
+                    ],
+                    [
+                        2.422529,
+                        48.8092197
+                    ],
+                    [
+                        2.4227873,
+                        48.8089043
+                    ],
+                    [
+                        2.4230857,
+                        48.8086042
+                    ],
+                    [
+                        2.4231075,
+                        48.8085846
+                    ],
+                    [
+                        2.4231736,
+                        48.8084954
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Chemin Lat\u00e9ral",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

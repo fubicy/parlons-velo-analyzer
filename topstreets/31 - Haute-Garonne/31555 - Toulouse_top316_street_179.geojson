@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22718006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4396366,
+                        43.6073071
+                    ],
+                    [
+                        1.4395984,
+                        43.6073394
+                    ],
+                    [
+                        1.439584,
+                        43.6073484
+                    ],
+                    [
+                        1.4395475,
+                        43.6073714
+                    ],
+                    [
+                        1.4391717,
+                        43.6075562
+                    ],
+                    [
+                        1.4390425,
+                        43.6076214
+                    ],
+                    [
+                        1.4388585,
+                        43.6077205
+                    ],
+                    [
+                        1.4386649,
+                        43.6078554
+                    ],
+                    [
+                        1.4383545,
+                        43.6080736
+                    ],
+                    [
+                        1.4382465,
+                        43.6081386
+                    ],
+                    [
+                        1.4375391,
+                        43.6084579
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "foot": "designated",
+                "highway": "living_street",
+                "maxspeed": "30",
+                "name": "Rue des Salenques",
+                "name:oc": "Carri\u00e8ra de las Salencas",
+                "note": "Ferm\u00e9e pendant les travaux d'\u00e9t\u00e9",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:maxstay": "24 hours",
+                "parking:condition:left:3:residents": "VALADE",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "parallel",
+                "parking:lane:left:capacity": "33",
+                "parking:lane:left:parallel": "on_street",
+                "segregated": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 650817466,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4375391,
+                        43.6084579
+                    ],
+                    [
+                        1.4374764,
+                        43.6084774
+                    ],
+                    [
+                        1.4373816,
+                        43.6085177
+                    ],
+                    [
+                        1.4373099,
+                        43.6085348
+                    ],
+                    [
+                        1.4372747,
+                        43.6085422
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "foot": "designated",
+                "highway": "living_street",
+                "maxspeed": "30",
+                "name": "Rue des Salenques",
+                "name:oc": "Carri\u00e8ra de las Salencas",
+                "note": "Ferm\u00e9e pendant les travaux d'\u00e9t\u00e9",
+                "oneway": "yes",
+                "segregated": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

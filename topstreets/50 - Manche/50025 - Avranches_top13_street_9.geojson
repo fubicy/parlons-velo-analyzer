@@ -1,0 +1,177 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 48614318,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3581339,
+                        48.6839368
+                    ],
+                    [
+                        -1.3581508,
+                        48.6839911
+                    ],
+                    [
+                        -1.3582342,
+                        48.6841854
+                    ],
+                    [
+                        -1.358423,
+                        48.6845057
+                    ],
+                    [
+                        -1.3584922,
+                        48.6846908
+                    ],
+                    [
+                        -1.3585174,
+                        48.6847526
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Gervais",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 448421428,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3586672,
+                        48.6852291
+                    ],
+                    [
+                        -1.3586943,
+                        48.6852966
+                    ],
+                    [
+                        -1.3587131,
+                        48.6853873
+                    ],
+                    [
+                        -1.3587349,
+                        48.6856052
+                    ],
+                    [
+                        -1.35874,
+                        48.6856589
+                    ],
+                    [
+                        -1.3587418,
+                        48.6856777
+                    ],
+                    [
+                        -1.3587744,
+                        48.6859076
+                    ],
+                    [
+                        -1.358799,
+                        48.6860532
+                    ],
+                    [
+                        -1.3588033,
+                        48.6860748
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Saint-Gervais",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:cycleway": "sign",
+                "zone:maxspeed": "FR:20",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449136826,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3588033,
+                        48.6860748
+                    ],
+                    [
+                        -1.3588183,
+                        48.6861086
+                    ],
+                    [
+                        -1.3588267,
+                        48.6861383
+                    ],
+                    [
+                        -1.3588902,
+                        48.6864226
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Saint-Gervais",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "zone:maxspeed": "FR:20",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449921150,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3585174,
+                        48.6847526
+                    ],
+                    [
+                        -1.358563,
+                        48.6848647
+                    ],
+                    [
+                        -1.3585957,
+                        48.6849792
+                    ],
+                    [
+                        -1.3586672,
+                        48.6852291
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Gervais",
+                "oneway": "no",
+                "source:maxspeed": "FR:zone30",
+                "source:oneway": "sign",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

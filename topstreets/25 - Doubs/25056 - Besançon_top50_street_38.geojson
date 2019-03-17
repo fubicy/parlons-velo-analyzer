@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32322848,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0265378,
+                        47.2313465
+                    ],
+                    [
+                        6.0263747,
+                        47.2322016
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "20",
+                "name": "Rue du G\u00e9n\u00e9ral Lecourbe",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151133604,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0263747,
+                        47.2322016
+                    ],
+                    [
+                        6.0262158,
+                        47.2330596
+                    ],
+                    [
+                        6.0262149,
+                        47.2332149
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue du G\u00e9n\u00e9ral Lecourbe",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

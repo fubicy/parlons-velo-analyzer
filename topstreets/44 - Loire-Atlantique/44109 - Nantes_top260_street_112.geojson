@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27835789,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5692487,
+                        47.2092794
+                    ],
+                    [
+                        -1.5701513,
+                        47.2089237
+                    ],
+                    [
+                        -1.5702355,
+                        47.2088833
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "opposite_lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Jules Vall\u00e8s",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4041068,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3797778,
+                        48.8322388
+                    ],
+                    [
+                        2.3799251,
+                        48.8323175
+                    ],
+                    [
+                        2.3800432,
+                        48.8323855
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Pont de Tolbiac",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16554113,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3800432,
+                        48.8323855
+                    ],
+                    [
+                        2.3820594,
+                        48.8334879
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Tolbiac",
+                "surface": "asphalt",
+                "wikidata": "Q2307670",
+                "wikipedia": "fr:Pont de Tolbiac",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30173875,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3820594,
+                        48.8334879
+                    ],
+                    [
+                        2.3821039,
+                        48.8335121
+                    ],
+                    [
+                        2.3824743,
+                        48.8337178
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Pont de Tolbiac",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left;through|through",
+                "turn:lanes:forward": "left;through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

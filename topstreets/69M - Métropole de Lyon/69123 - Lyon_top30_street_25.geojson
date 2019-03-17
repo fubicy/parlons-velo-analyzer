@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4193291,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.836902,
+                        45.7572235
+                    ],
+                    [
+                        4.8365294,
+                        45.7573062
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Rue de la Barre",
+                "old_ref": "N 6",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82489990,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8365294,
+                        45.7573062
+                    ],
+                    [
+                        4.8363415,
+                        45.7573556
+                    ],
+                    [
+                        4.8362528,
+                        45.7573793
+                    ],
+                    [
+                        4.8354395,
+                        45.757597
+                    ],
+                    [
+                        4.8353727,
+                        45.757616
+                    ],
+                    [
+                        4.8353112,
+                        45.7576324
+                    ],
+                    [
+                        4.834905,
+                        45.7577405
+                    ],
+                    [
+                        4.834285,
+                        45.7579058
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue de la Barre",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188731855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8365294,
+                        45.7573062
+                    ],
+                    [
+                        4.8364626,
+                        45.7572956
+                    ],
+                    [
+                        4.8363159,
+                        45.7573151
+                    ],
+                    [
+                        4.8362246,
+                        45.7573422
+                    ],
+                    [
+                        4.8352258,
+                        45.7576184
+                    ],
+                    [
+                        4.8348955,
+                        45.7577073
+                    ],
+                    [
+                        4.834376,
+                        45.7578559
+                    ],
+                    [
+                        4.834285,
+                        45.7579058
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "service",
+                "maxspeed": "30",
+                "name": "Rue de la Barre",
+                "oneway": "yes",
+                "psv": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 312677933,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8369663,
+                        45.7570407
+                    ],
+                    [
+                        4.8368377,
+                        45.7570728
+                    ],
+                    [
+                        4.8365253,
+                        45.7571667
+                    ],
+                    [
+                        4.8363883,
+                        45.7572059
+                    ],
+                    [
+                        4.8362912,
+                        45.757272
+                    ],
+                    [
+                        4.8363159,
+                        45.7573151
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue de la Barre",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

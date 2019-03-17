@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4262603,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.726405,
+                        45.1902492
+                    ],
+                    [
+                        5.7264268,
+                        45.1902162
+                    ],
+                    [
+                        5.7264366,
+                        45.1902001
+                    ],
+                    [
+                        5.7264478,
+                        45.190189
+                    ],
+                    [
+                        5.7264939,
+                        45.1901433
+                    ],
+                    [
+                        5.7265552,
+                        45.1901084
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Rue de la Poste",
+                "source": "survey 2013",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 273791695,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7265552,
+                        45.1901084
+                    ],
+                    [
+                        5.7269983,
+                        45.1897972
+                    ],
+                    [
+                        5.7273412,
+                        45.1895548
+                    ],
+                    [
+                        5.7275317,
+                        45.1892863
+                    ],
+                    [
+                        5.7278443,
+                        45.1888458
+                    ],
+                    [
+                        5.7280301,
+                        45.188551
+                    ],
+                    [
+                        5.7280479,
+                        45.1885256
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue de la Poste",
+                "source": "survey 2013",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

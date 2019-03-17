@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 187023377,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.885665,
+                        45.7542677
+                    ],
+                    [
+                        4.8856858,
+                        45.7540877
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Antonin Perrin",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 251985442,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.823855,
+                        45.7317606
+                    ],
+                    [
+                        4.8237721,
+                        45.7317256
+                    ],
+                    [
+                        4.8236815,
+                        45.7317123
+                    ],
+                    [
+                        4.8235888,
+                        45.7317124
+                    ],
+                    [
+                        4.8233647,
+                        45.7317128
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Antonin Perrin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

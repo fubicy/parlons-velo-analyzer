@@ -1,0 +1,155 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 150253016,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3277128,
+                        47.7448795
+                    ],
+                    [
+                        7.3278432,
+                        47.744823
+                    ],
+                    [
+                        7.3278808,
+                        47.7447972
+                    ],
+                    [
+                        7.3279342,
+                        47.7447488
+                    ],
+                    [
+                        7.3288761,
+                        47.7441516
+                    ],
+                    [
+                        7.3289218,
+                        47.7441006
+                    ],
+                    [
+                        7.328962,
+                        47.7440624
+                    ],
+                    [
+                        7.3292167,
+                        47.7437371
+                    ],
+                    [
+                        7.32927,
+                        47.7436563
+                    ],
+                    [
+                        7.3293909,
+                        47.7434729
+                    ],
+                    [
+                        7.3294735,
+                        47.7433487
+                    ],
+                    [
+                        7.3295824,
+                        47.743185
+                    ],
+                    [
+                        7.3297465,
+                        47.7429504
+                    ],
+                    [
+                        7.3298379,
+                        47.7428526
+                    ],
+                    [
+                        7.3299085,
+                        47.7427986
+                    ],
+                    [
+                        7.3301114,
+                        47.7426882
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Gay-Lussac",
+                "name:gsw": "Nesseltor Stross",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150269480,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3277128,
+                        47.7448795
+                    ],
+                    [
+                        7.3275366,
+                        47.7449046
+                    ],
+                    [
+                        7.3274336,
+                        47.7449192
+                    ],
+                    [
+                        7.3272873,
+                        47.7449638
+                    ],
+                    [
+                        7.3270558,
+                        47.7450297
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue Gay-Lussac",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 527789596,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3301114,
+                        47.7426882
+                    ],
+                    [
+                        7.3303787,
+                        47.7425201
+                    ],
+                    [
+                        7.330731,
+                        47.7423567
+                    ],
+                    [
+                        7.3308859,
+                        47.7422858
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "name": "Rue Gay-Lussac",
+                "name:gsw": "Nesseltor Stross",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

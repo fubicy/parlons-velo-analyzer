@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19838258,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1718372,
+                        48.6816093
+                    ],
+                    [
+                        6.1717526,
+                        48.6816263
+                    ],
+                    [
+                        6.1716796,
+                        48.6816568
+                    ],
+                    [
+                        6.1716474,
+                        48.6816879
+                    ],
+                    [
+                        6.1714644,
+                        48.6821809
+                    ],
+                    [
+                        6.1714651,
+                        48.6824402
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Graffigny",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 329549529,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1714976,
+                        48.6831287
+                    ],
+                    [
+                        6.1714736,
+                        48.6831835
+                    ],
+                    [
+                        6.1711632,
+                        48.6838912
+                    ],
+                    [
+                        6.1711541,
+                        48.6839099
+                    ],
+                    [
+                        6.1711293,
+                        48.6839607
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "lanes": "2",
+                "name": "Rue de Graffigny",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604855887,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1714651,
+                        48.6824402
+                    ],
+                    [
+                        6.1714976,
+                        48.6830484
+                    ],
+                    [
+                        6.1714968,
+                        48.6830725
+                    ],
+                    [
+                        6.1714976,
+                        48.6831287
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Graffigny",
+                "oneway": "yes",
+                "source": "survey",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

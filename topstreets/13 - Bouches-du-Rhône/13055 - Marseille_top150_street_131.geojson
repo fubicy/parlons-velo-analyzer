@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26602019,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3810078,
+                        43.2975851
+                    ],
+                    [
+                        5.3810161,
+                        43.2975249
+                    ],
+                    [
+                        5.3810215,
+                        43.2974881
+                    ],
+                    [
+                        5.3810777,
+                        43.297051
+                    ],
+                    [
+                        5.3811866,
+                        43.2969322
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Garibaldi",
+                "old_name": "Boulevard du Mus\u00e9e",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 422866747,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3814322,
+                        43.2962542
+                    ],
+                    [
+                        5.3814116,
+                        43.2963084
+                    ],
+                    [
+                        5.3814005,
+                        43.2963376
+                    ],
+                    [
+                        5.3812945,
+                        43.296617
+                    ],
+                    [
+                        5.3811866,
+                        43.2969322
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Garibaldi",
+                "old_name": "Boulevard du Mus\u00e9e",
+                "surface": "asphalt",
+                "traffic_signals:direction": "backward",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 422866748,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3811866,
+                        43.2969322
+                    ],
+                    [
+                        5.3811804,
+                        43.2970863
+                    ],
+                    [
+                        5.3811104,
+                        43.2975186
+                    ],
+                    [
+                        5.3811055,
+                        43.2975588
+                    ],
+                    [
+                        5.3811,
+                        43.2976284
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Garibaldi",
+                "old_name": "Boulevard du Mus\u00e9e",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -4,24 +4,24 @@ Sur l'ensemble de la ville il y a eu 73 réponses dont 70 réponses avec une rue
 
 18 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Avenue Jean Lolive | 30 | 41% | <img src="../../img/bar_42.gif" />&nbsp;42%|
-| Avenue Édouard Vaillant | 7 | 9% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Avenue Jean Jaurès | 6 | 8% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rue Étienne Marcel | 4 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue des Sept Arpents | 4 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Avenue du Général Leclerc | 4 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Quai de l'Ourcq | 3 | 4% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue Gabrielle Josserand | 2 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue du Pré-Saint-Gervais | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue du Débarcadère | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue des Grilles | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue Jean Nicot | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue Hoche | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue Henri Barbusse | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue Delizy | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue Cartier Bresson | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Avenue de la Division Leclerc | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Avenue Anatole France | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| **Total** | 70 | 95% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Avenue Jean Lolive | 30 | <img src="../../img/bar_42.gif" />&nbsp;42%|
+| Avenue Édouard Vaillant | 7 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Avenue Jean Jaurès | 6 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Rue Étienne Marcel | 4 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue des Sept Arpents | 4 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Avenue du Général Leclerc | 4 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Quai de l'Ourcq | 3 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue Gabrielle Josserand | 2 | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| Rue du Pré-Saint-Gervais | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Rue du Débarcadère | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Rue des Grilles | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Rue Jean Nicot | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Rue Hoche | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Rue Henri Barbusse | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Rue Delizy | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Rue Cartier Bresson | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Avenue de la Division Leclerc | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Avenue Anatole France | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| **Total** | 70 | 100%|

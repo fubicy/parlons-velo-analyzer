@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 143116536,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.562828,
+                        47.2204958
+                    ],
+                    [
+                        -1.5628809,
+                        47.2204785
+                    ],
+                    [
+                        -1.5629196,
+                        47.2204418
+                    ],
+                    [
+                        -1.5632024,
+                        47.2201626
+                    ],
+                    [
+                        -1.5635043,
+                        47.2198548
+                    ],
+                    [
+                        -1.5637417,
+                        47.2196367
+                    ],
+                    [
+                        -1.5637838,
+                        47.2195791
+                    ],
+                    [
+                        -1.5638054,
+                        47.2195174
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Menou",
+                "name:br": "Straed Menou",
+                "name:fr": "Rue Menou",
+                "oneway": "yes",
+                "political_division": "circonscription_l\u00e9gislative",
+                "sidewalk": "both",
+                "source": "data.loire-atlantique.fr 2011-11",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

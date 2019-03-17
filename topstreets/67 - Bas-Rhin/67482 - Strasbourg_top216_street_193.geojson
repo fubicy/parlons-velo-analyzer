@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40865730,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7669654,
+                        48.5743625
+                    ],
+                    [
+                        7.7668938,
+                        48.5739864
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "name": "Pont Winston Churchill",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126631252,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7670104,
+                        48.5739772
+                    ],
+                    [
+                        7.7670753,
+                        48.5743539
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "name": "Pont Winston Churchill",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

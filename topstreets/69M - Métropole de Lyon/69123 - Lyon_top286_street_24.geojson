@@ -1,0 +1,734 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24893153,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8548295,
+                        45.7719625
+                    ],
+                    [
+                        4.8548526,
+                        45.7720568
+                    ],
+                    [
+                        4.8545374,
+                        45.7723802
+                    ],
+                    [
+                        4.85449,
+                        45.7724288
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33281889,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8589294,
+                        45.7682081
+                    ],
+                    [
+                        4.8588407,
+                        45.7682867
+                    ],
+                    [
+                        4.8588177,
+                        45.7683071
+                    ],
+                    [
+                        4.8587605,
+                        45.7683578
+                    ],
+                    [
+                        4.8586033,
+                        45.7684979
+                    ],
+                    [
+                        4.858252,
+                        45.7688179
+                    ],
+                    [
+                        4.8581053,
+                        45.76896
+                    ],
+                    [
+                        4.8578794,
+                        45.769179
+                    ],
+                    [
+                        4.8573201,
+                        45.7697002
+                    ],
+                    [
+                        4.8572389,
+                        45.7697745
+                    ],
+                    [
+                        4.8570651,
+                        45.7699336
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:right": "no",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88535368,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8494288,
+                        45.7742655
+                    ],
+                    [
+                        4.8486072,
+                        45.774662
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard des Belges",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88689423,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.845299,
+                        45.7761719
+                    ],
+                    [
+                        4.8450498,
+                        45.7763562
+                    ],
+                    [
+                        4.8449383,
+                        45.7764282
+                    ],
+                    [
+                        4.8448417,
+                        45.7764821
+                    ],
+                    [
+                        4.844744,
+                        45.7765377
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "no",
+                "highway": "service",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "psv": "yes",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130644296,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8438615,
+                        45.7769688
+                    ],
+                    [
+                        4.8438902,
+                        45.7768335
+                    ],
+                    [
+                        4.8439298,
+                        45.7768
+                    ],
+                    [
+                        4.8440307,
+                        45.7767442
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207002347,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.845299,
+                        45.7761719
+                    ],
+                    [
+                        4.8449979,
+                        45.776313
+                    ],
+                    [
+                        4.8447996,
+                        45.7764048
+                    ],
+                    [
+                        4.8446885,
+                        45.7764551
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard des Belges",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207002348,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.844744,
+                        45.7765377
+                    ],
+                    [
+                        4.8445673,
+                        45.776618
+                    ],
+                    [
+                        4.8445065,
+                        45.7766464
+                    ],
+                    [
+                        4.8442732,
+                        45.7767555
+                    ],
+                    [
+                        4.8442219,
+                        45.7767784
+                    ],
+                    [
+                        4.8441928,
+                        45.7768051
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "maxspeed": "30",
+                "name": "Boulevard des Belges",
+                "psv": "yes",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207002349,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8446885,
+                        45.7764551
+                    ],
+                    [
+                        4.8441834,
+                        45.7766764
+                    ],
+                    [
+                        4.8440307,
+                        45.7767442
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Boulevard des Belges",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234025014,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8514514,
+                        45.7733158
+                    ],
+                    [
+                        4.851288,
+                        45.7733944
+                    ],
+                    [
+                        4.8511965,
+                        45.7734402
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 366707178,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8516323,
+                        45.77324
+                    ],
+                    [
+                        4.8515591,
+                        45.7732688
+                    ],
+                    [
+                        4.8514514,
+                        45.7733158
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 503066318,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8498508,
+                        45.7740746
+                    ],
+                    [
+                        4.8496948,
+                        45.7741457
+                    ],
+                    [
+                        4.8494288,
+                        45.7742655
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 503075977,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8480975,
+                        45.774898
+                    ],
+                    [
+                        4.8479822,
+                        45.7749518
+                    ],
+                    [
+                        4.8468889,
+                        45.7754622
+                    ],
+                    [
+                        4.8460141,
+                        45.7758406
+                    ],
+                    [
+                        4.8453348,
+                        45.7761565
+                    ],
+                    [
+                        4.845299,
+                        45.7761719
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard des Belges",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 503075978,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8486072,
+                        45.774662
+                    ],
+                    [
+                        4.8484005,
+                        45.7747577
+                    ],
+                    [
+                        4.8480975,
+                        45.774898
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard des Belges",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 503080851,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8511965,
+                        45.7734402
+                    ],
+                    [
+                        4.8511049,
+                        45.773486
+                    ],
+                    [
+                        4.850996,
+                        45.77353
+                    ],
+                    [
+                        4.8508897,
+                        45.773573
+                    ],
+                    [
+                        4.8501021,
+                        45.77396
+                    ],
+                    [
+                        4.8498508,
+                        45.7740746
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:left": "opposite_share_busway",
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 503098582,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8570651,
+                        45.7699336
+                    ],
+                    [
+                        4.857015,
+                        45.7699812
+                    ],
+                    [
+                        4.8568588,
+                        45.7701299
+                    ],
+                    [
+                        4.8565019,
+                        45.7704623
+                    ],
+                    [
+                        4.8563292,
+                        45.7706232
+                    ],
+                    [
+                        4.8562734,
+                        45.7706751
+                    ],
+                    [
+                        4.8562332,
+                        45.7707144
+                    ],
+                    [
+                        4.8556871,
+                        45.771248
+                    ],
+                    [
+                        4.8556281,
+                        45.7713057
+                    ],
+                    [
+                        4.8555765,
+                        45.7713526
+                    ],
+                    [
+                        4.8552002,
+                        45.771695
+                    ],
+                    [
+                        4.8551571,
+                        45.7717342
+                    ],
+                    [
+                        4.8550824,
+                        45.7717962
+                    ],
+                    [
+                        4.8550348,
+                        45.7718356
+                    ],
+                    [
+                        4.8548295,
+                        45.7719625
+                    ],
+                    [
+                        4.8540337,
+                        45.772294
+                    ],
+                    [
+                        4.853836,
+                        45.7723764
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:left": "opposite_share_busway",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 522736227,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.853836,
+                        45.7723764
+                    ],
+                    [
+                        4.853698,
+                        45.7724209
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:left": "opposite_share_busway",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 522736235,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.853698,
+                        45.7724209
+                    ],
+                    [
+                        4.8527146,
+                        45.7728043
+                    ],
+                    [
+                        4.8518519,
+                        45.7731516
+                    ],
+                    [
+                        4.8516323,
+                        45.77324
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:left": "opposite_share_busway",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard des Belges",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr 2009 - gnrc",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

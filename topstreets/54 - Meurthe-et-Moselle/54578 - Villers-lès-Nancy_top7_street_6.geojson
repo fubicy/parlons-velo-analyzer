@@ -1,0 +1,200 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22604782,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1568995,
+                        48.6766893
+                    ],
+                    [
+                        6.1570006,
+                        48.6765813
+                    ],
+                    [
+                        6.1570614,
+                        48.676514
+                    ],
+                    [
+                        6.157207,
+                        48.6763529
+                    ],
+                    [
+                        6.157268,
+                        48.6762857
+                    ],
+                    [
+                        6.15785,
+                        48.6756444
+                    ],
+                    [
+                        6.1579346,
+                        48.6755504
+                    ],
+                    [
+                        6.158384,
+                        48.6750512
+                    ],
+                    [
+                        6.1584955,
+                        48.6749273
+                    ],
+                    [
+                        6.1585543,
+                        48.674862
+                    ],
+                    [
+                        6.1586192,
+                        48.6747905
+                    ],
+                    [
+                        6.1586305,
+                        48.6747781
+                    ],
+                    [
+                        6.1587865,
+                        48.6746062
+                    ],
+                    [
+                        6.1592491,
+                        48.6740963
+                    ],
+                    [
+                        6.159309,
+                        48.6740303
+                    ],
+                    [
+                        6.1599462,
+                        48.6733283
+                    ],
+                    [
+                        6.1599929,
+                        48.6732773
+                    ],
+                    [
+                        6.1601767,
+                        48.6730767
+                    ],
+                    [
+                        6.1605201,
+                        48.6727017
+                    ],
+                    [
+                        6.1605974,
+                        48.6726173
+                    ],
+                    [
+                        6.16068,
+                        48.6725258
+                    ],
+                    [
+                        6.1608487,
+                        48.672339
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Boulevard Cattenoz",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604855870,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1563532,
+                        48.6772859
+                    ],
+                    [
+                        6.1564395,
+                        48.6771973
+                    ],
+                    [
+                        6.1564834,
+                        48.6771532
+                    ],
+                    [
+                        6.1565907,
+                        48.677035
+                    ],
+                    [
+                        6.1567927,
+                        48.6768114
+                    ],
+                    [
+                        6.1568995,
+                        48.6766893
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Boulevard Cattenoz",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605179800,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1608487,
+                        48.672339
+                    ],
+                    [
+                        6.1611239,
+                        48.6720243
+                    ],
+                    [
+                        6.16119,
+                        48.6719531
+                    ],
+                    [
+                        6.1612699,
+                        48.6718671
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "destination:backward": "Le Placieux;Centre Socio-Culturel Le Placieux",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Boulevard Cattenoz",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

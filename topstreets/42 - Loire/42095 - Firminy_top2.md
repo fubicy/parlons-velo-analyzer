@@ -4,8 +4,8 @@ Sur l'ensemble de la ville il y a eu 8 réponses dont 2 réponses avec une rue c
 
 2 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue Jean Jaurès | 1 | 12% | <img src="../../img/bar_50.gif" />&nbsp;50%|
-| Rue Dorian | 1 | 12% | <img src="../../img/bar_50.gif" />&nbsp;50%|
-| **Total** | 2 | 25% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue Jean Jaurès | 1 | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| Rue Dorian | 1 | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| **Total** | 2 | 100%|

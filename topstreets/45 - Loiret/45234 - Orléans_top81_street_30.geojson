@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23108560,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9131614,
+                        47.9044486
+                    ],
+                    [
+                        1.9131423,
+                        47.9044157
+                    ],
+                    [
+                        1.9131262,
+                        47.9043945
+                    ],
+                    [
+                        1.9129613,
+                        47.9041594
+                    ],
+                    [
+                        1.9127337,
+                        47.9038444
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Porte Saint-Vincent",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26285101,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7165194,
+                        49.7563946
+                    ],
+                    [
+                        4.7172012,
+                        49.7563659
+                    ],
+                    [
+                        4.7173162,
+                        49.756361
+                    ],
+                    [
+                        4.7182558,
+                        49.7563213
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "name": "Rue de Champagne",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397341676,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7200329,
+                        49.7562464
+                    ],
+                    [
+                        4.7213078,
+                        49.7561924
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Champagne",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 557053379,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7182558,
+                        49.7563213
+                    ],
+                    [
+                        4.7193236,
+                        49.7562763
+                    ],
+                    [
+                        4.7200329,
+                        49.7562464
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue de Champagne",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 45490429,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4013864,
+                        45.4397659
+                    ],
+                    [
+                        4.4012873,
+                        45.4399678
+                    ]
+                ]
+            },
+            "properties": {
+                "handrail:left": "yes",
+                "handrail:right": "yes",
+                "highway": "steps",
+                "lit": "yes",
+                "name": "Rue de la Valse",
+                "surface": "concrete",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46155759,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4013864,
+                        45.4397659
+                    ],
+                    [
+                        4.4019079,
+                        45.4387517
+                    ],
+                    [
+                        4.4019488,
+                        45.4386721
+                    ]
+                ]
+            },
+            "properties": {
+                "fixme": "resurvey",
+                "highway": "residential",
+                "name": "Rue de la Valse",
+                "oneway": "yes",
+                "source": "MD - vu sur place",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59570155,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4012873,
+                        45.4399678
+                    ],
+                    [
+                        4.4011959,
+                        45.4401541
+                    ],
+                    [
+                        4.401059,
+                        45.4404235
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de la Valse",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

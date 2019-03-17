@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 13853728,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8072143,
+                        45.7786741
+                    ],
+                    [
+                        4.8071055,
+                        45.7786934
+                    ],
+                    [
+                        4.8068803,
+                        45.7787324
+                    ],
+                    [
+                        4.8064432,
+                        45.7788068
+                    ],
+                    [
+                        4.8055035,
+                        45.7789668
+                    ],
+                    [
+                        4.8044354,
+                        45.7791486
+                    ],
+                    [
+                        4.8042204,
+                        45.7791852
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Masaryk",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 311170482,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8072143,
+                        45.7786741
+                    ],
+                    [
+                        4.8073518,
+                        45.7786521
+                    ],
+                    [
+                        4.8078321,
+                        45.7785703
+                    ],
+                    [
+                        4.8079289,
+                        45.7785539
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Masaryk",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37718467,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4151645,
+                        48.8465805
+                    ],
+                    [
+                        2.4153299,
+                        48.8465979
+                    ],
+                    [
+                        2.4155023,
+                        48.8465934
+                    ],
+                    [
+                        2.4155536,
+                        48.8465912
+                    ],
+                    [
+                        2.4158517,
+                        48.8465694
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "name": "Avenue de Paris",
+                "old_ref": "N 34",
+                "oneway": "yes",
+                "ref": "D 120",
+                "surface": "asphalt",
+                "turn:lanes": "left|none|none|none",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137000083,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4158847,
+                        48.8466974
+                    ],
+                    [
+                        2.4155717,
+                        48.8467202
+                    ],
+                    [
+                        2.4155299,
+                        48.8467242
+                    ],
+                    [
+                        2.4154054,
+                        48.8467369
+                    ],
+                    [
+                        2.4152869,
+                        48.8467805
+                    ],
+                    [
+                        2.4151588,
+                        48.8468565
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "name": "Avenue de Paris",
+                "old_ref": "N 34",
+                "oneway": "yes",
+                "ref": "D 120",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233182642,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4158517,
+                        48.8465694
+                    ],
+                    [
+                        2.4162006,
+                        48.8465555
+                    ],
+                    [
+                        2.4167548,
+                        48.8465084
+                    ],
+                    [
+                        2.4172629,
+                        48.8464461
+                    ],
+                    [
+                        2.4174761,
+                        48.8464096
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de Paris",
+                "old_ref": "N 34",
+                "oneway": "yes",
+                "ref": "D 120",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 563735859,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4164794,
+                        48.8466453
+                    ],
+                    [
+                        2.4158847,
+                        48.8466974
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "name": "Avenue de Paris",
+                "old_ref": "N 34",
+                "oneway": "yes",
+                "ref": "D 120",
+                "surface": "asphalt",
+                "turn:lanes": "left|none|none|none",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

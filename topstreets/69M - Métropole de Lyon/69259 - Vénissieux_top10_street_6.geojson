@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4258252,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8717311,
+                        45.7242665
+                    ],
+                    [
+                        4.8716046,
+                        45.7244098
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard des \u00c9tats-Unis",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 498944921,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8709517,
+                        45.7248764
+                    ],
+                    [
+                        4.8711538,
+                        45.7246146
+                    ],
+                    [
+                        4.8712294,
+                        45.7245167
+                    ],
+                    [
+                        4.8713777,
+                        45.7243624
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard des \u00c9tats-Unis",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

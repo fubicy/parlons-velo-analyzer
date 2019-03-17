@@ -1,0 +1,193 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27549576,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5521992,
+                        47.2229237
+                    ],
+                    [
+                        -1.5521103,
+                        47.2229663
+                    ],
+                    [
+                        -1.5520503,
+                        47.2229921
+                    ],
+                    [
+                        -1.5519848,
+                        47.2230333
+                    ],
+                    [
+                        -1.5513979,
+                        47.2234131
+                    ],
+                    [
+                        -1.5509292,
+                        47.2237229
+                    ],
+                    [
+                        -1.5508802,
+                        47.2237553
+                    ],
+                    [
+                        -1.5507265,
+                        47.2238569
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Pitre Chevalier",
+                "oneway": "no",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:maxstay": "3 h",
+                "parking:lane:left": "marked",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135064498,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5501491,
+                        47.2242331
+                    ],
+                    [
+                        -1.5500938,
+                        47.2242692
+                    ],
+                    [
+                        -1.5493411,
+                        47.2247625
+                    ],
+                    [
+                        -1.5492844,
+                        47.2248002
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway:right": "track",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Pitre Chevalier",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 187777633,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5507265,
+                        47.2238569
+                    ],
+                    [
+                        -1.5507017,
+                        47.223873
+                    ],
+                    [
+                        -1.5505801,
+                        47.2239522
+                    ],
+                    [
+                        -1.5502195,
+                        47.2241871
+                    ],
+                    [
+                        -1.5501491,
+                        47.2242331
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway": "no",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Pitre Chevalier",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 241447729,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5507265,
+                        47.2238569
+                    ],
+                    [
+                        -1.5506182,
+                        47.2239045
+                    ],
+                    [
+                        -1.5502367,
+                        47.2241506
+                    ],
+                    [
+                        -1.5501282,
+                        47.2242153
+                    ],
+                    [
+                        -1.5497641,
+                        47.224452
+                    ],
+                    [
+                        -1.549626,
+                        47.2245401
+                    ],
+                    [
+                        -1.5492558,
+                        47.2247762
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "path",
+                "name": "Rue Pitre Chevalier",
+                "oneway": "yes",
+                "segregated": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 59460374,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1948111,
+                        48.692204
+                    ],
+                    [
+                        6.1949096,
+                        48.6922708
+                    ],
+                    [
+                        6.1949725,
+                        48.6922956
+                    ],
+                    [
+                        6.1954476,
+                        48.6924293
+                    ],
+                    [
+                        6.1954987,
+                        48.6924524
+                    ],
+                    [
+                        6.1955735,
+                        48.6924936
+                    ],
+                    [
+                        6.1958974,
+                        48.6926758
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Promenade des Canaux",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323311966,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1965331,
+                        48.6930002
+                    ],
+                    [
+                        6.1966647,
+                        48.6930702
+                    ],
+                    [
+                        6.1973996,
+                        48.6934612
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Promenade des Canaux",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 609413432,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1958974,
+                        48.6926758
+                    ],
+                    [
+                        6.1964138,
+                        48.6929453
+                    ],
+                    [
+                        6.1965331,
+                        48.6930002
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "name": "Promenade des Canaux",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 119802795,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5454783,
+                        47.473736
+                    ],
+                    [
+                        -0.5455442,
+                        47.4736813
+                    ],
+                    [
+                        -0.5456566,
+                        47.4734685
+                    ],
+                    [
+                        -0.5457395,
+                        47.4733115
+                    ],
+                    [
+                        -0.5461597,
+                        47.4725582
+                    ],
+                    [
+                        -0.5462449,
+                        47.4724056
+                    ],
+                    [
+                        -0.5463264,
+                        47.4722725
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Place Pierre Mendes France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149107916,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.546178,
+                        47.4722254
+                    ],
+                    [
+                        -0.545867,
+                        47.4726851
+                    ],
+                    [
+                        -0.5457371,
+                        47.4728687
+                    ],
+                    [
+                        -0.5455732,
+                        47.4731003
+                    ],
+                    [
+                        -0.5453881,
+                        47.4733852
+                    ],
+                    [
+                        -0.5453123,
+                        47.4735019
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway:right": "lane",
+                "highway": "secondary",
+                "name": "Place Pierre Mendes France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

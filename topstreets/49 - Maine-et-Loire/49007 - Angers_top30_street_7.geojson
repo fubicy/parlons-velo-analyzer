@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26495121,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5626715,
+                        47.4701947
+                    ],
+                    [
+                        -0.564533,
+                        47.4709226
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "busway": "lane",
+                "cycleway": "track",
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:bus:backward": "1",
+                "lanes:forward": "1",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de la Basse Cha\u00eene",
+                "segregated": "yes",
+                "surface": "asphalt",
+                "wikipedia": "fr:Pont de la Basse-Cha\u00eene (Angers)",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193439564,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5648169,
+                        47.4710325
+                    ],
+                    [
+                        -0.5658,
+                        47.4714137
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de la Basse Cha\u00eene",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

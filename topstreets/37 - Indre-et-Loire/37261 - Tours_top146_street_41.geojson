@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 307425710,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6872021,
+                        47.4141713
+                    ],
+                    [
+                        0.6870452,
+                        47.4140308
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "description": "Arr\u00eat ligne \"Plan B\" en cas de coupure de la ligne de Tram",
+                "highway": "platform",
+                "name": "Christ-Roi",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

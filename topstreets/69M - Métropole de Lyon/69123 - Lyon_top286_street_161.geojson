@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 381442772,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8532664,
+                        45.7354407
+                    ],
+                    [
+                        4.8532376,
+                        45.7356083
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Grand Trou",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "1069",
+                "route_ref": "C12A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 381442773,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8531255,
+                        45.7356609
+                    ],
+                    [
+                        4.8531534,
+                        45.7354893
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Grand Trou",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "1068",
+                "route_ref": "35A:A,C12A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34866407,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7718267,
+                        50.2890639
+                    ],
+                    [
+                        2.7718954,
+                        50.2890384
+                    ],
+                    [
+                        2.7729348,
+                        50.2886186
+                    ],
+                    [
+                        2.7740299,
+                        50.288233
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des 4 Crosses",
+                "oneway": "yes",
+                "parking:condition:right": "ticket",
+                "parking:lane:left": "no_stopping",
+                "parking:lane:right": "parallel",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102154172,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7740299,
+                        50.288233
+                    ],
+                    [
+                        2.7748678,
+                        50.2879535
+                    ],
+                    [
+                        2.7749256,
+                        50.2879386
+                    ],
+                    [
+                        2.7750043,
+                        50.2879184
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des 4 Crosses",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:lane:both": "parallel",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

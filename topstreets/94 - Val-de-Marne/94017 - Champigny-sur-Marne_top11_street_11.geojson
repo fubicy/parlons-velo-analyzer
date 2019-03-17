@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27101084,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5172228,
+                        48.8149995
+                    ],
+                    [
+                        2.5171586,
+                        48.8150134
+                    ],
+                    [
+                        2.5156197,
+                        48.815347
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Fran\u00e7ois Mitterrand",
+                "ref": "D 145",
+                "source:maxspeed": "FR:urban",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

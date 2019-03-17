@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27609851,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0847716,
+                        45.7854088
+                    ],
+                    [
+                        3.0848555,
+                        45.7854051
+                    ],
+                    [
+                        3.0860987,
+                        45.7853496
+                    ],
+                    [
+                        3.0861678,
+                        45.7853465
+                    ],
+                    [
+                        3.087012,
+                        45.7853082
+                    ],
+                    [
+                        3.0870429,
+                        45.7853068
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place des Bughes",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49978194,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0870429,
+                        45.7853068
+                    ],
+                    [
+                        3.0877455,
+                        45.7852914
+                    ],
+                    [
+                        3.0878271,
+                        45.7853264
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place des Bughes",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

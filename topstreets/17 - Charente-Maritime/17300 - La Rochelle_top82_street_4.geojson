@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 39603030,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1463911,
+                        46.1506683
+                    ],
+                    [
+                        -1.1479396,
+                        46.1517819
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxheight": "4.5",
+                "maxspeed": "50",
+                "maxweight": "20",
+                "name": "Pont de Tasdon",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "start_date": "1912",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 350448350,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1479396,
+                        46.1517819
+                    ],
+                    [
+                        -1.1480476,
+                        46.1518591
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxheight": "4.5",
+                "maxspeed": "50",
+                "name": "Pont de Tasdon",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "start_date": "1912",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

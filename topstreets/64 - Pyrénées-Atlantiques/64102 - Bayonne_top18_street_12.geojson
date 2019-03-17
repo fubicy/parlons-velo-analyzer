@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33908180,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.463106,
+                        43.4868797
+                    ],
+                    [
+                        -1.4603265,
+                        43.4879705
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "name": "Pont Saint-Fr\u00e9d\u00e9ric",
+                "old_ref": "N 117",
+                "oneway": "yes",
+                "ref": "D 810",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40611323,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.4603861,
+                        43.4880143
+                    ],
+                    [
+                        -1.4631561,
+                        43.4869385
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "name": "Pont Saint-Fr\u00e9d\u00e9ric",
+                "old_ref": "N 117",
+                "oneway": "yes",
+                "ref": "D 810",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

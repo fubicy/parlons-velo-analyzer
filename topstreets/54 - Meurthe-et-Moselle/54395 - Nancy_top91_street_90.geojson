@@ -1,0 +1,711 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 6276495,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1668029,
+                        48.698485
+                    ],
+                    [
+                        6.1668217,
+                        48.6984072
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "no",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8164603,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1682074,
+                        48.6929463
+                    ],
+                    [
+                        6.1681399,
+                        48.6930056
+                    ],
+                    [
+                        6.1680623,
+                        48.6930698
+                    ],
+                    [
+                        6.1680468,
+                        48.6930919
+                    ],
+                    [
+                        6.1679576,
+                        48.6932189
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "destination": "Metz;Max\u00e9ville;Facult\u00e9 de Lettres;Quartier Ville Vieille-L\u00e9opold;Z\u00e9nith",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "yes",
+                "source": "BDOrtho IGN",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25955614,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1679576,
+                        48.6932189
+                    ],
+                    [
+                        6.1679211,
+                        48.6930931
+                    ],
+                    [
+                        6.1679161,
+                        48.6930846
+                    ],
+                    [
+                        6.1678585,
+                        48.6929869
+                    ],
+                    [
+                        6.1678087,
+                        48.6928896
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "yes",
+                "source": "Survey",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695541,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.167273,
+                        48.6963946
+                    ],
+                    [
+                        6.1672725,
+                        48.6963433
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "destination:backward": "Metz;Max\u00e9ville;Plateau de Haye;Z\u00e9nith",
+                "highway": "secondary",
+                "lanes": "5",
+                "lanes:backward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "no",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1672141,
+                        48.6966493
+                    ],
+                    [
+                        6.1671489,
+                        48.6969204
+                    ]
+                ]
+            },
+            "properties": {
+                "access:lanes:forward": "yes|yes|no",
+                "bicycle:lanes:forward": "no|no|designated",
+                "bus:lanes:forward": "yes|yes|designated",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "6",
+                "lanes:backward": "3",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "no",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695543,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1676961,
+                        48.6943733
+                    ],
+                    [
+                        6.1677337,
+                        48.6942381
+                    ],
+                    [
+                        6.1678194,
+                        48.6938717
+                    ],
+                    [
+                        6.1678988,
+                        48.6934837
+                    ],
+                    [
+                        6.1679576,
+                        48.6932189
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "no",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695544,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1661939,
+                        48.6991714
+                    ],
+                    [
+                        6.166275,
+                        48.699112
+                    ],
+                    [
+                        6.166689,
+                        48.6986578
+                    ],
+                    [
+                        6.1667659,
+                        48.6985558
+                    ],
+                    [
+                        6.1668029,
+                        48.698485
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "destination:backward": "Metz;Pont \u00e0 Mousson;Max\u00e9ville;Plateau de Haye;Z\u00e9nith",
+                "highway": "secondary",
+                "lanes": "5",
+                "lanes:backward": "2",
+                "name": "Boulevard Albert 1er",
+                "oneway": "no",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695545,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1676773,
+                        48.6944553
+                    ],
+                    [
+                        6.1676369,
+                        48.6944046
+                    ],
+                    [
+                        6.1676961,
+                        48.6943733
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "yes",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695546,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1672791,
+                        48.6962801
+                    ],
+                    [
+                        6.1672375,
+                        48.6961778
+                    ],
+                    [
+                        6.1673124,
+                        48.6960997
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "yes",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695547,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1668217,
+                        48.6984072
+                    ],
+                    [
+                        6.1667753,
+                        48.6983306
+                    ],
+                    [
+                        6.1668127,
+                        48.6981537
+                    ],
+                    [
+                        6.1668796,
+                        48.698145
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "yes",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695548,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1676961,
+                        48.6943733
+                    ],
+                    [
+                        6.167739,
+                        48.6944161
+                    ],
+                    [
+                        6.1676773,
+                        48.6944553
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "yes",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695549,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.167273,
+                        48.6963946
+                    ],
+                    [
+                        6.1673136,
+                        48.6964754
+                    ],
+                    [
+                        6.1672141,
+                        48.6966493
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "yes",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695550,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1672141,
+                        48.6966493
+                    ],
+                    [
+                        6.1671934,
+                        48.6964777
+                    ],
+                    [
+                        6.1671962,
+                        48.6964602
+                    ],
+                    [
+                        6.167273,
+                        48.6963946
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "yes",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695551,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1668796,
+                        48.698145
+                    ],
+                    [
+                        6.166938,
+                        48.6981671
+                    ],
+                    [
+                        6.1668966,
+                        48.6983525
+                    ],
+                    [
+                        6.1668924,
+                        48.6983709
+                    ],
+                    [
+                        6.1668217,
+                        48.6984072
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "yes",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695552,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1673124,
+                        48.6960997
+                    ],
+                    [
+                        6.1673406,
+                        48.6961735
+                    ],
+                    [
+                        6.1673376,
+                        48.6961903
+                    ],
+                    [
+                        6.1672791,
+                        48.6962801
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "yes",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323695553,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1674331,
+                        48.6955916
+                    ],
+                    [
+                        6.1675014,
+                        48.6952819
+                    ],
+                    [
+                        6.1675072,
+                        48.6952566
+                    ],
+                    [
+                        6.1675119,
+                        48.6952359
+                    ],
+                    [
+                        6.1675232,
+                        48.6951866
+                    ],
+                    [
+                        6.1676773,
+                        48.6944553
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "no",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 354793197,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1671489,
+                        48.6969204
+                    ],
+                    [
+                        6.1671279,
+                        48.6970068
+                    ],
+                    [
+                        6.1670128,
+                        48.697535
+                    ],
+                    [
+                        6.1668796,
+                        48.698145
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "no",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 608841930,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1673124,
+                        48.6960997
+                    ],
+                    [
+                        6.1674331,
+                        48.6955916
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "no",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 608841931,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1672725,
+                        48.6963433
+                    ],
+                    [
+                        6.1672791,
+                        48.6962801
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Boulevard Albert 1er",
+                "oneway": "no",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

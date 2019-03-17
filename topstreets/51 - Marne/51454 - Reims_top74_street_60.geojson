@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27949192,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0260972,
+                        49.2708
+                    ],
+                    [
+                        4.0252008,
+                        49.2709969
+                    ],
+                    [
+                        4.0249133,
+                        49.2710498
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway:left": "none",
+                "cycleway:right": "none",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Place Luton",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 175227750,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0258199,
+                        49.2696357
+                    ],
+                    [
+                        4.0256702,
+                        49.2697144
+                    ],
+                    [
+                        4.0256108,
+                        49.2697962
+                    ],
+                    [
+                        4.0255888,
+                        49.2698265
+                    ],
+                    [
+                        4.0253997,
+                        49.2701215
+                    ],
+                    [
+                        4.0249949,
+                        49.270896
+                    ],
+                    [
+                        4.0249133,
+                        49.2710498
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Place Luton",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

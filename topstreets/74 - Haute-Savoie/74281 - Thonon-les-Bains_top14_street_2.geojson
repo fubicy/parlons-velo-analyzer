@@ -1,0 +1,236 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24241836,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4782048,
+                        46.3620929
+                    ],
+                    [
+                        6.478232,
+                        46.3632642
+                    ],
+                    [
+                        6.4782534,
+                        46.3635316
+                    ],
+                    [
+                        6.4782696,
+                        46.3638541
+                    ],
+                    [
+                        6.4782963,
+                        46.3643863
+                    ],
+                    [
+                        6.4783087,
+                        46.3646334
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue des Allinges",
+                "ref": "D 903",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24254087,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4785665,
+                        46.3677046
+                    ],
+                    [
+                        6.4785106,
+                        46.3672515
+                    ],
+                    [
+                        6.4784554,
+                        46.3671445
+                    ],
+                    [
+                        6.478397,
+                        46.3670896
+                    ],
+                    [
+                        6.4784468,
+                        46.3669701
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "living_street",
+                "horse": "no",
+                "maxspeed": "50",
+                "name": "Avenue des Allinges",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 513270263,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4780905,
+                        46.361349
+                    ],
+                    [
+                        6.4781072,
+                        46.3614409
+                    ],
+                    [
+                        6.4781633,
+                        46.3617306
+                    ],
+                    [
+                        6.4782048,
+                        46.3620929
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue des Allinges",
+                "ref": "D 903",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642847090,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4783087,
+                        46.3646334
+                    ],
+                    [
+                        6.4783208,
+                        46.3648749
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed:backward": "50",
+                "maxspeed:forward": "30",
+                "name": "Avenue des Allinges",
+                "ref": "D 903",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642847093,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4783269,
+                        46.3649963
+                    ],
+                    [
+                        6.4783346,
+                        46.3651499
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed:backward": "30",
+                "maxspeed:forward": "50",
+                "name": "Avenue des Allinges",
+                "ref": "D 903",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642847096,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4783346,
+                        46.3651499
+                    ],
+                    [
+                        6.478377,
+                        46.3662335
+                    ],
+                    [
+                        6.4784357,
+                        46.3666833
+                    ],
+                    [
+                        6.4784411,
+                        46.3667536
+                    ],
+                    [
+                        6.4784468,
+                        46.3669701
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue des Allinges",
+                "ref": "D 903",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642847098,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4783208,
+                        46.3648749
+                    ],
+                    [
+                        6.4783269,
+                        46.3649963
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Avenue des Allinges",
+                "ref": "D 903",
+                "traffic_calming": "hump",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

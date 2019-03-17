@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 430089037,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3590271,
+                        43.2913254
+                    ],
+                    [
+                        5.3590565,
+                        43.2911404
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Le Pharo",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 430089038,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3594915,
+                        43.2921509
+                    ],
+                    [
+                        5.3592684,
+                        43.2921254
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Le Pharo",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 430089039,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3591013,
+                        43.2915932
+                    ],
+                    [
+                        5.3590745,
+                        43.2917485
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Le Pharo",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

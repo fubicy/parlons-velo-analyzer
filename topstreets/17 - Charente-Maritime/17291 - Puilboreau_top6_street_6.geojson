@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37957697,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1234687,
+                        46.1730106
+                    ],
+                    [
+                        -1.1234343,
+                        46.1730103
+                    ],
+                    [
+                        -1.1233931,
+                        46.1730216
+                    ],
+                    [
+                        -1.1233317,
+                        46.1730538
+                    ],
+                    [
+                        -1.1231453,
+                        46.1731793
+                    ],
+                    [
+                        -1.1231063,
+                        46.1732012
+                    ],
+                    [
+                        -1.1230675,
+                        46.1732182
+                    ],
+                    [
+                        -1.1229708,
+                        46.1732483
+                    ],
+                    [
+                        -1.1226757,
+                        46.1733421
+                    ],
+                    [
+                        -1.1226162,
+                        46.1733661
+                    ],
+                    [
+                        -1.1225606,
+                        46.173393
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "yes",
+                "highway": "cycleway",
+                "name": "Rue de Beaulieu",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 304368757,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1242174,
+                        46.1722232
+                    ],
+                    [
+                        -1.1234687,
+                        46.1730106
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de Beaulieu",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

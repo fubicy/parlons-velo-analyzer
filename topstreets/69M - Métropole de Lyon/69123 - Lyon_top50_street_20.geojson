@@ -1,0 +1,823 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4161409,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.832574,
+                        45.7583712
+                    ],
+                    [
+                        4.832529,
+                        45.7583833
+                    ],
+                    [
+                        4.8324913,
+                        45.7583933
+                    ],
+                    [
+                        4.8324111,
+                        45.7584148
+                    ],
+                    [
+                        4.832376,
+                        45.7584242
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4161410,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8333212,
+                        45.756475
+                    ],
+                    [
+                        4.8333413,
+                        45.756546
+                    ],
+                    [
+                        4.8333697,
+                        45.7566043
+                    ],
+                    [
+                        4.8334517,
+                        45.7567553
+                    ],
+                    [
+                        4.833491,
+                        45.7568276
+                    ],
+                    [
+                        4.8335534,
+                        45.7569345
+                    ],
+                    [
+                        4.8336831,
+                        45.7571568
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4347629,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8337733,
+                        45.7579949
+                    ],
+                    [
+                        4.8338067,
+                        45.7580404
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Place Bellecour",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23744751,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8301197,
+                        45.7577942
+                    ],
+                    [
+                        4.830157,
+                        45.7578583
+                    ],
+                    [
+                        4.8305957,
+                        45.7585907
+                    ],
+                    [
+                        4.8307164,
+                        45.7587928
+                    ],
+                    [
+                        4.8307365,
+                        45.7588231
+                    ],
+                    [
+                        4.830756,
+                        45.7588588
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23744752,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8309157,
+                        45.758816
+                    ],
+                    [
+                        4.8308908,
+                        45.7587823
+                    ],
+                    [
+                        4.8308606,
+                        45.7587376
+                    ],
+                    [
+                        4.8308459,
+                        45.7587167
+                    ],
+                    [
+                        4.8307371,
+                        45.7585501
+                    ],
+                    [
+                        4.8303827,
+                        45.7579642
+                    ],
+                    [
+                        4.8303378,
+                        45.7578899
+                    ],
+                    [
+                        4.8302972,
+                        45.7578192
+                    ],
+                    [
+                        4.8302584,
+                        45.7577517
+                    ],
+                    [
+                        4.8300014,
+                        45.7573227
+                    ],
+                    [
+                        4.8299934,
+                        45.7572762
+                    ],
+                    [
+                        4.8299976,
+                        45.7572172
+                    ],
+                    [
+                        4.8300485,
+                        45.7571061
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23744753,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8301197,
+                        45.7577942
+                    ],
+                    [
+                        4.8301829,
+                        45.7577752
+                    ],
+                    [
+                        4.8302584,
+                        45.7577517
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82490531,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8294958,
+                        45.7572596
+                    ],
+                    [
+                        4.8296256,
+                        45.7573123
+                    ],
+                    [
+                        4.8298614,
+                        45.7576522
+                    ],
+                    [
+                        4.8299621,
+                        45.7577441
+                    ],
+                    [
+                        4.8301197,
+                        45.7577942
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220298172,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8300485,
+                        45.7571061
+                    ],
+                    [
+                        4.8305684,
+                        45.7569998
+                    ],
+                    [
+                        4.8306233,
+                        45.7569892
+                    ],
+                    [
+                        4.8314143,
+                        45.7568373
+                    ],
+                    [
+                        4.8315077,
+                        45.7568193
+                    ],
+                    [
+                        4.8319785,
+                        45.7567304
+                    ],
+                    [
+                        4.8320317,
+                        45.7567213
+                    ],
+                    [
+                        4.8321642,
+                        45.7566953
+                    ],
+                    [
+                        4.8332225,
+                        45.7564948
+                    ],
+                    [
+                        4.8333212,
+                        45.756475
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 249945787,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8307365,
+                        45.7588231
+                    ],
+                    [
+                        4.8308908,
+                        45.7587823
+                    ],
+                    [
+                        4.8323355,
+                        45.7583889
+                    ],
+                    [
+                        4.8323886,
+                        45.7583745
+                    ],
+                    [
+                        4.8324683,
+                        45.7583528
+                    ],
+                    [
+                        4.8325062,
+                        45.7583423
+                    ],
+                    [
+                        4.8330789,
+                        45.7581829
+                    ],
+                    [
+                        4.8331608,
+                        45.7581601
+                    ],
+                    [
+                        4.8332243,
+                        45.758143
+                    ],
+                    [
+                        4.8337733,
+                        45.7579949
+                    ],
+                    [
+                        4.834016,
+                        45.7579277
+                    ],
+                    [
+                        4.8341221,
+                        45.7579522
+                    ],
+                    [
+                        4.8341778,
+                        45.7579145
+                    ],
+                    [
+                        4.834285,
+                        45.7579058
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 258128923,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8331608,
+                        45.7581601
+                    ],
+                    [
+                        4.8331711,
+                        45.7582109
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Place Bellecour",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 258128925,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8324683,
+                        45.7583528
+                    ],
+                    [
+                        4.8324913,
+                        45.7583933
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Place Bellecour",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 379919604,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.834285,
+                        45.7579058
+                    ],
+                    [
+                        4.8341221,
+                        45.7579522
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382989549,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8309157,
+                        45.758816
+                    ],
+                    [
+                        4.830756,
+                        45.7588588
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382989550,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8341221,
+                        45.7579522
+                    ],
+                    [
+                        4.8338067,
+                        45.7580404
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382989551,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8338067,
+                        45.7580404
+                    ],
+                    [
+                        4.8333444,
+                        45.7581644
+                    ],
+                    [
+                        4.8332273,
+                        45.7581959
+                    ],
+                    [
+                        4.8331711,
+                        45.7582109
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382989552,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8294958,
+                        45.7572596
+                    ],
+                    [
+                        4.829614,
+                        45.7571952
+                    ],
+                    [
+                        4.8298141,
+                        45.7571379
+                    ],
+                    [
+                        4.8300485,
+                        45.7571061
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382989553,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8294958,
+                        45.7572596
+                    ],
+                    [
+                        4.8295805,
+                        45.7572575
+                    ],
+                    [
+                        4.8297609,
+                        45.7572209
+                    ],
+                    [
+                        4.82988,
+                        45.7571968
+                    ],
+                    [
+                        4.8299298,
+                        45.7571867
+                    ],
+                    [
+                        4.8300485,
+                        45.7571061
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "psv": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 485783805,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.832376,
+                        45.7584242
+                    ],
+                    [
+                        4.8313866,
+                        45.7586897
+                    ],
+                    [
+                        4.8310028,
+                        45.7587926
+                    ],
+                    [
+                        4.8309157,
+                        45.758816
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 485783806,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8331711,
+                        45.7582109
+                    ],
+                    [
+                        4.832574,
+                        45.7583712
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 521384311,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8339984,
+                        45.7577317
+                    ],
+                    [
+                        4.8340687,
+                        45.7578571
+                    ],
+                    [
+                        4.8341221,
+                        45.7579522
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 521673224,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8336831,
+                        45.7571568
+                    ],
+                    [
+                        4.8337628,
+                        45.7573021
+                    ],
+                    [
+                        4.8339984,
+                        45.7577317
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Bellecour",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

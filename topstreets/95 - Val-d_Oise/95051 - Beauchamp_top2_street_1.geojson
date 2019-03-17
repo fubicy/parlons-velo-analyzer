@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34677628,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1978725,
+                        49.007785
+                    ],
+                    [
+                        2.1978457,
+                        49.0077377
+                    ],
+                    [
+                        2.1978385,
+                        49.0076948
+                    ],
+                    [
+                        2.1978398,
+                        49.0076568
+                    ],
+                    [
+                        2.1978464,
+                        49.007633
+                    ],
+                    [
+                        2.1978919,
+                        49.0075991
+                    ],
+                    [
+                        2.1979362,
+                        49.007578
+                    ],
+                    [
+                        2.1979927,
+                        49.0075762
+                    ],
+                    [
+                        2.1981564,
+                        49.0076056
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Place de la Gare",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 646882650,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1980529,
+                        49.007883
+                    ],
+                    [
+                        2.1979176,
+                        49.0078179
+                    ],
+                    [
+                        2.1978725,
+                        49.007785
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Place de la Gare",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

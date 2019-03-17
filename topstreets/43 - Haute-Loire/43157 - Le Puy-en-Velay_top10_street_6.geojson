@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4892899,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8901328,
+                        45.0494309
+                    ],
+                    [
+                        3.8895414,
+                        45.0495086
+                    ],
+                    [
+                        3.8888282,
+                        45.0495476
+                    ],
+                    [
+                        3.888253,
+                        45.0495791
+                    ],
+                    [
+                        3.8878817,
+                        45.0496359
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Bonneville",
+                "ref": "D 13",
+                "source:maxspeed": "FR:urban",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125983846,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8812437,
+                        45.0487995
+                    ],
+                    [
+                        3.8811058,
+                        45.048529
+                    ],
+                    [
+                        3.881068,
+                        45.0484502
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Bonneville",
+                "ref": "D 13",
+                "source:maxspeed": "FR:urban",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

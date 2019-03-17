@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 144160950,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4884039,
+                        43.640333
+                    ],
+                    [
+                        1.4890019,
+                        43.6405904
+                    ],
+                    [
+                        1.4901903,
+                        43.6411905
+                    ],
+                    [
+                        1.4909466,
+                        43.6415602
+                    ],
+                    [
+                        1.4912218,
+                        43.6416901
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "destination": "L'UNION;MONTRAB\u00c9",
+                "foot": "no",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "maxspeed": "90",
+                "name": "L'Union",
+                "oneway": "yes",
+                "ref": "1",
+                "toll": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 324386868,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4912218,
+                        43.6416901
+                    ],
+                    [
+                        1.4917616,
+                        43.6419448
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "foot": "no",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "maxspeed": "90",
+                "name": "L'Union",
+                "oneway": "yes",
+                "ref": "1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

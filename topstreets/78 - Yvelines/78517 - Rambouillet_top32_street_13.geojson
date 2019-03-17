@@ -1,0 +1,127 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23446676,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8541743,
+                        48.6448309
+                    ],
+                    [
+                        1.8549036,
+                        48.6444856
+                    ],
+                    [
+                        1.8566845,
+                        48.6436909
+                    ],
+                    [
+                        1.8568341,
+                        48.6436289
+                    ],
+                    [
+                        1.8569577,
+                        48.643572
+                    ],
+                    [
+                        1.8578981,
+                        48.6431456
+                    ],
+                    [
+                        1.8588563,
+                        48.6427265
+                    ],
+                    [
+                        1.8595096,
+                        48.6424407
+                    ],
+                    [
+                        1.8597131,
+                        48.6423477
+                    ],
+                    [
+                        1.8602401,
+                        48.6420962
+                    ],
+                    [
+                        1.8610167,
+                        48.6417257
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Rue du Poteau des 3 Seigneurs",
+                "ref": "D 27",
+                "ref:FR:FANTOIR": "785170634M",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 426176418,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8541743,
+                        48.6448309
+                    ],
+                    [
+                        1.8539725,
+                        48.6450175
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Rue du Poteau des 3 Seigneurs",
+                "oneway": "yes",
+                "ref": "D 27",
+                "ref:FR:FANTOIR": "785170634M",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 426176419,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8538125,
+                        48.644933
+                    ],
+                    [
+                        1.8541743,
+                        48.6448309
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Rue du Poteau des 3 Seigneurs",
+                "oneway": "yes",
+                "ref": "D 27",
+                "ref:FR:FANTOIR": "785170634M",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

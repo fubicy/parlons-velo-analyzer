@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 303966258,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2564895,
+                        45.5890826
+                    ],
+                    [
+                        5.2566224,
+                        45.5891364
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Papin",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303966259,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2563213,
+                        45.5890871
+                    ],
+                    [
+                        5.2561923,
+                        45.5890367
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Papin",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 339 réponses dont 196 réponses avec une r
 
 58 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue Moyenne | 35 | 10% | <img src="../../img/bar_17.gif" />&nbsp;17%|
-| Route de La Charité | 17 | 5% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rampe Marceau | 11 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Boulevard de l'Avenir | 11 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue d'Auron | 10 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue Jean Baffier | 10 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Boulevard de l'Industrie | 10 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rocade Verte | 5 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Chaussée de Chappe | 5 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Route d'Orléans | 4 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 118 | 34% | 60%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue Moyenne | 35 | <img src="../../img/bar_29.gif" />&nbsp;29%|
+| Route de La Charité | 17 | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| Rampe Marceau | 11 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Boulevard de l'Avenir | 11 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Rue d'Auron | 10 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Rue Jean Baffier | 10 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Boulevard de l'Industrie | 10 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Rocade Verte | 5 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Chaussée de Chappe | 5 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Route d'Orléans | 4 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 118 | 100%|

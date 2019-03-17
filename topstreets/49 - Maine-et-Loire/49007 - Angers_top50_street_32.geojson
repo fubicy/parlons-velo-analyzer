@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 189042311,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5387378,
+                        47.4606231
+                    ],
+                    [
+                        -0.5386723,
+                        47.4605927
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "highway": "platform",
+                "name": "Volney",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189042312,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5380753,
+                        47.4604381
+                    ],
+                    [
+                        -0.5381423,
+                        47.4604617
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "highway": "platform",
+                "name": "Volney",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

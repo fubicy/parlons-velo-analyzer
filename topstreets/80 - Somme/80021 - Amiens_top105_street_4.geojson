@@ -1,0 +1,150 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24699454,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2970901,
+                        49.8925975
+                    ],
+                    [
+                        2.297085,
+                        49.8924607
+                    ],
+                    [
+                        2.2970818,
+                        49.8923729
+                    ],
+                    [
+                        2.2970456,
+                        49.8921633
+                    ],
+                    [
+                        2.2970004,
+                        49.8920363
+                    ],
+                    [
+                        2.2969033,
+                        49.8918139
+                    ],
+                    [
+                        2.2968072,
+                        49.8916046
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de la R\u00e9publique",
+                "oneway": "no",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24713864,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2968072,
+                        49.8916046
+                    ],
+                    [
+                        2.2962182,
+                        49.8907007
+                    ],
+                    [
+                        2.2961156,
+                        49.8905453
+                    ],
+                    [
+                        2.2957923,
+                        49.8900553
+                    ],
+                    [
+                        2.2955317,
+                        49.8896387
+                    ],
+                    [
+                        2.2950592,
+                        49.889051
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "name": "Rue de la R\u00e9publique",
+                "oneway": "yes",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 305418061,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2972118,
+                        49.8930007
+                    ],
+                    [
+                        2.2971654,
+                        49.8929217
+                    ],
+                    [
+                        2.2971218,
+                        49.8928023
+                    ],
+                    [
+                        2.2970951,
+                        49.8926882
+                    ],
+                    [
+                        2.2970901,
+                        49.8925975
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue de la R\u00e9publique",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374848129,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2950592,
+                        49.889051
+                    ],
+                    [
+                        2.2949583,
+                        49.888939
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue de la R\u00e9publique",
+                "oneway": "yes",
+                "line_width": 16,
+                "line_color": "#2b0b00"
+            }
+        }
+    ]
+}

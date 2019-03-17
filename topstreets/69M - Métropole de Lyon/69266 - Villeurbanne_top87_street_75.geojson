@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 382697177,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8852837,
+                        45.7542963
+                    ],
+                    [
+                        4.8850849,
+                        45.7542979
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Reconnaissance - Balzac",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "10126",
+                "route_ref": "C9A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

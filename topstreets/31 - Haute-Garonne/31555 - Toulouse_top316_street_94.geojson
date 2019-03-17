@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22695280,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4283653,
+                        43.6082232
+                    ],
+                    [
+                        1.4285001,
+                        43.6081128
+                    ],
+                    [
+                        1.429203,
+                        43.6076076
+                    ],
+                    [
+                        1.4299556,
+                        43.607024
+                    ],
+                    [
+                        1.4300146,
+                        43.6069778
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du B\u00e9arnais",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee_per_hour": "12\u20ac",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:maxstay": "24 hours",
+                "parking:condition:both:3:residents": "LECLERC",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 hours",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "parallel",
+                "parking:lane:both:capacity": "28",
+                "parking:lane:both:parallel": "on_street",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123006656,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4283653,
+                        43.6082232
+                    ],
+                    [
+                        1.4283132,
+                        43.6082799
+                    ],
+                    [
+                        1.4282577,
+                        43.6083645
+                    ],
+                    [
+                        1.4281714,
+                        43.6084398
+                    ],
+                    [
+                        1.4275742,
+                        43.6090707
+                    ],
+                    [
+                        1.4275431,
+                        43.6091028
+                    ],
+                    [
+                        1.4268389,
+                        43.6098696
+                    ],
+                    [
+                        1.4266974,
+                        43.6100252
+                    ],
+                    [
+                        1.4265574,
+                        43.610179
+                    ],
+                    [
+                        1.4255541,
+                        43.6117061
+                    ],
+                    [
+                        1.4254701,
+                        43.6117806
+                    ],
+                    [
+                        1.425394,
+                        43.6118417
+                    ],
+                    [
+                        1.4253568,
+                        43.6118716
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue du B\u00e9arnais",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190049054,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4300146,
+                        43.6069778
+                    ],
+                    [
+                        1.4300851,
+                        43.6068829
+                    ],
+                    [
+                        1.4301371,
+                        43.6068452
+                    ],
+                    [
+                        1.4301944,
+                        43.6068145
+                    ],
+                    [
+                        1.4303049,
+                        43.6067567
+                    ],
+                    [
+                        1.4303579,
+                        43.6067176
+                    ],
+                    [
+                        1.4304086,
+                        43.6066612
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du B\u00e9arnais",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

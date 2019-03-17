@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28699867,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7458523,
+                        45.2054262
+                    ],
+                    [
+                        5.74636,
+                        45.2052556
+                    ],
+                    [
+                        5.7468673,
+                        45.2050907
+                    ],
+                    [
+                        5.7472488,
+                        45.2049575
+                    ],
+                    [
+                        5.7472963,
+                        45.2049261
+                    ],
+                    [
+                        5.7473397,
+                        45.2048266
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Chemin de la Concorde",
+                "ref:FR:FANTOIR": "385160160G",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

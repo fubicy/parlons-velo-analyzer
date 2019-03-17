@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 125454536,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3731766,
+                        43.3152972
+                    ],
+                    [
+                        5.3731331,
+                        43.3150902
+                    ]
+                ]
+            },
+            "properties": {
+                "conveying": "forward",
+                "highway": "steps",
+                "incline": "up",
+                "name": "National",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "railway": "subway_entrance",
+                "wheelchair": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125454537,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3731927,
+                        43.3154039
+                    ],
+                    [
+                        5.3732317,
+                        43.3155866
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "incline": "up",
+                "name": "National",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "railway": "subway_entrance",
+                "wheelchair": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 420028887,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3731564,
+                        43.3152996
+                    ],
+                    [
+                        5.3731087,
+                        43.3150929
+                    ]
+                ]
+            },
+            "properties": {
+                "conveying": "backward",
+                "highway": "steps",
+                "incline": "up",
+                "name": "National",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "railway": "subway_entrance",
+                "wheelchair": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33627634,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3022901,
+                        48.8212862
+                    ],
+                    [
+                        2.3030419,
+                        48.8215788
+                    ],
+                    [
+                        2.3030792,
+                        48.8215933
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "maxspeed": "30",
+                "name": "Avenue Jean Jaur\u00e8s",
+                "source": "cadastre-dgi-fr source : Direction Generale des Impots - Cadastre. Mise a jour : 2014",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 306273287,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.303959,
+                        48.821936
+                    ],
+                    [
+                        2.303899,
+                        48.8219126
+                    ],
+                    [
+                        2.3030792,
+                        48.8215933
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue Jean Jaur\u00e8s",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction Generale des Impots - Cadastre. Mise a jour : 2014",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

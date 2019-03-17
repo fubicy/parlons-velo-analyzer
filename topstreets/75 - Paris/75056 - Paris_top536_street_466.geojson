@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 286546,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3539886,
+                        48.8534231
+                    ],
+                    [
+                        2.3540418,
+                        48.8534702
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Pont Louis-Philippe",
+                "oneway": "yes",
+                "source:maxspeed": "BMO Arr\u00eat\u00e9  n o   2018  P  12837",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22972089,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3547776,
+                        48.8542225
+                    ],
+                    [
+                        2.3547908,
+                        48.8542357
+                    ],
+                    [
+                        2.3548116,
+                        48.8542614
+                    ],
+                    [
+                        2.3549466,
+                        48.8543822
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Pont Louis-Philippe",
+                "oneway": "yes",
+                "source:maxspeed": "BMO Arr\u00eat\u00e9  n o   2018  P  12837",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22972090,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3540418,
+                        48.8534702
+                    ],
+                    [
+                        2.3547776,
+                        48.8542225
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "unclassified",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Pont Louis-Philippe",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "75104P238W;75104P237V",
+                "source:maxspeed": "BMO Arr\u00eat\u00e9  n o   2018  P  12837",
+                "surface": "asphalt",
+                "wikidata": "Q1196667",
+                "wikipedia": "fr:Pont Louis-Philippe",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26600343,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4005445,
+                        47.0818599
+                    ],
+                    [
+                        2.4004682,
+                        47.0820504
+                    ],
+                    [
+                        2.4004509,
+                        47.0821183
+                    ],
+                    [
+                        2.4003758,
+                        47.0824122
+                    ],
+                    [
+                        2.4002689,
+                        47.0827317
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Bourbonnoux",
+                "oneway": "no",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26600380,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3993781,
+                        47.08396
+                    ],
+                    [
+                        2.3992969,
+                        47.0840604
+                    ],
+                    [
+                        2.3989539,
+                        47.0848169
+                    ],
+                    [
+                        2.3988423,
+                        47.0849806
+                    ],
+                    [
+                        2.3986744,
+                        47.0851696
+                    ],
+                    [
+                        2.3983973,
+                        47.0854597
+                    ],
+                    [
+                        2.3983582,
+                        47.0855036
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "pedestrian",
+                "maxspeed": "10",
+                "motor_vehicle": "delivery",
+                "name": "Rue Bourbonnoux",
+                "oneway": "yes",
+                "surface": "cobblestone",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170212020,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4004509,
+                        47.0821183
+                    ],
+                    [
+                        2.4006045,
+                        47.0824774
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue Bourbonnoux",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170213356,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4006045,
+                        47.0824774
+                    ],
+                    [
+                        2.4004321,
+                        47.0825424
+                    ],
+                    [
+                        2.4003729,
+                        47.0825794
+                    ],
+                    [
+                        2.4003157,
+                        47.0826528
+                    ],
+                    [
+                        2.4002689,
+                        47.0827317
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Bourbonnoux",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 597730221,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4002689,
+                        47.0827317
+                    ],
+                    [
+                        2.4002529,
+                        47.0827644
+                    ],
+                    [
+                        2.3999066,
+                        47.0834084
+                    ],
+                    [
+                        2.3997563,
+                        47.0835513
+                    ],
+                    [
+                        2.3995118,
+                        47.0837883
+                    ],
+                    [
+                        2.3993781,
+                        47.08396
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "pedestrian",
+                "maxspeed": "10",
+                "name": "Rue Bourbonnoux",
+                "oneway": "yes",
+                "surface": "cobblestone",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

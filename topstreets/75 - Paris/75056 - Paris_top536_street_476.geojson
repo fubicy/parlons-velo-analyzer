@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8412378,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3156567,
+                        48.8815484
+                    ],
+                    [
+                        2.3155084,
+                        48.8814043
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary_link",
+                "lit": "yes",
+                "name": "Place Prosper Goubaux",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25062794,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3165841,
+                        48.8812425
+                    ],
+                    [
+                        2.3164129,
+                        48.8813966
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Place Prosper Goubaux",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

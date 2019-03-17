@@ -1,0 +1,186 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24845787,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2808177,
+                        45.5850332
+                    ],
+                    [
+                        5.2808707,
+                        45.5850287
+                    ],
+                    [
+                        5.2810269,
+                        45.5850156
+                    ],
+                    [
+                        5.2811241,
+                        45.5850074
+                    ],
+                    [
+                        5.2812696,
+                        45.5849952
+                    ],
+                    [
+                        5.2818353,
+                        45.5849477
+                    ],
+                    [
+                        5.2823159,
+                        45.5849072
+                    ],
+                    [
+                        5.2832057,
+                        45.5848406
+                    ],
+                    [
+                        5.2832789,
+                        45.5848351
+                    ],
+                    [
+                        5.2835649,
+                        45.5848063
+                    ],
+                    [
+                        5.2848495,
+                        45.5847176
+                    ],
+                    [
+                        5.2849237,
+                        45.584712
+                    ],
+                    [
+                        5.2851657,
+                        45.5846939
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Pontcottier",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24845794,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2794427,
+                        45.5851487
+                    ],
+                    [
+                        5.2798313,
+                        45.585116
+                    ],
+                    [
+                        5.2807292,
+                        45.5850406
+                    ],
+                    [
+                        5.2808177,
+                        45.5850332
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Pontcottier",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 379874654,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.286466,
+                        45.5844853
+                    ],
+                    [
+                        5.2862734,
+                        45.5845474
+                    ],
+                    [
+                        5.2857604,
+                        45.5846304
+                    ],
+                    [
+                        5.2855731,
+                        45.5846596
+                    ],
+                    [
+                        5.285526,
+                        45.5846669
+                    ],
+                    [
+                        5.2851657,
+                        45.5846939
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Pontcottier",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 539289345,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2789187,
+                        45.5851927
+                    ],
+                    [
+                        5.2793052,
+                        45.5851602
+                    ],
+                    [
+                        5.2793554,
+                        45.585156
+                    ],
+                    [
+                        5.2794427,
+                        45.5851487
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "20",
+                "name": "Rue Pontcottier",
+                "source:maxspeed": "FR:living_street",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

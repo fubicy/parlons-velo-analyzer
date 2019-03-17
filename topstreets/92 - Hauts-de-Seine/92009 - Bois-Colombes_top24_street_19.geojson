@@ -1,0 +1,98 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40633681,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2651979,
+                        48.9120124
+                    ],
+                    [
+                        2.2652274,
+                        48.9120885
+                    ],
+                    [
+                        2.2652393,
+                        48.9121372
+                    ],
+                    [
+                        2.2652962,
+                        48.9124106
+                    ],
+                    [
+                        2.2654199,
+                        48.9134023
+                    ],
+                    [
+                        2.2654273,
+                        48.9134622
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Heynen",
+                "source": "Microsoft Bing satellite 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 627760416,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2654479,
+                        48.9136292
+                    ],
+                    [
+                        2.2654759,
+                        48.913856
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Heynen",
+                "source": "Microsoft Bing satellite 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 627760418,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2654273,
+                        48.9134622
+                    ],
+                    [
+                        2.2654479,
+                        48.9136292
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "residential",
+                "layer": "1",
+                "name": "Rue Heynen",
+                "source": "Microsoft Bing satellite 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

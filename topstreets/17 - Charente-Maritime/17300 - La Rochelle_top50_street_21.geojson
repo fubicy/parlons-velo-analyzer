@@ -1,0 +1,161 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18895053,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1526814,
+                        46.1620495
+                    ],
+                    [
+                        -1.1528051,
+                        46.161792
+                    ],
+                    [
+                        -1.1528242,
+                        46.1617448
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "name": "Rue Chaudrier",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18895057,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1528242,
+                        46.1617448
+                    ],
+                    [
+                        -1.1528384,
+                        46.1616942
+                    ],
+                    [
+                        -1.1528706,
+                        46.1616017
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "name": "Rue Chaudrier",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218975486,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1523828,
+                        46.1627417
+                    ],
+                    [
+                        -1.1523533,
+                        46.1628091
+                    ],
+                    [
+                        -1.1522421,
+                        46.1630912
+                    ]
+                ]
+            },
+            "properties": {
+                "bus:lanes:backward": "yes|designated",
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Rue Chaudrier",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303913855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1523828,
+                        46.1627417
+                    ],
+                    [
+                        -1.1525167,
+                        46.1624102
+                    ],
+                    [
+                        -1.152662,
+                        46.1620909
+                    ],
+                    [
+                        -1.1526814,
+                        46.1620495
+                    ]
+                ]
+            },
+            "properties": {
+                "bus:lanes:backward": "yes|designated",
+                "highway": "tertiary",
+                "lanes:forward": "1",
+                "name": "Rue Chaudrier",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 354634246,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1528706,
+                        46.1616017
+                    ],
+                    [
+                        -1.153049,
+                        46.161176
+                    ],
+                    [
+                        -1.1532356,
+                        46.1607307
+                    ],
+                    [
+                        -1.1534438,
+                        46.1602171
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Rue Chaudrier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

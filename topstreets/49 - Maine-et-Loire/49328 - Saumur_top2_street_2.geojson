@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25493204,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.086435,
+                        47.2528037
+                    ],
+                    [
+                        -0.0856277,
+                        47.2535208
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Pont Fouchard",
+                "ref": "D 93",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 322513875,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.0856277,
+                        47.2535208
+                    ],
+                    [
+                        -0.0855714,
+                        47.2535708
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Pont Fouchard",
+                "ref": "D 93",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

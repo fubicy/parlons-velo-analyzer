@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 43313918,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8863705,
+                        48.6742702
+                    ],
+                    [
+                        5.8864026,
+                        48.6742489
+                    ],
+                    [
+                        5.8865167,
+                        48.6742209
+                    ],
+                    [
+                        5.8876395,
+                        48.673913
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Thiers",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2005",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

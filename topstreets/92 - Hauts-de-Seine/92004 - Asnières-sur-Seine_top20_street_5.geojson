@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31975976,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2991018,
+                        48.910501
+                    ],
+                    [
+                        2.2998562,
+                        48.9088258
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Clichy",
+                "ref": "D 911",
+                "seamark:bridge:category": "fixed",
+                "seamark:type": "bridge",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

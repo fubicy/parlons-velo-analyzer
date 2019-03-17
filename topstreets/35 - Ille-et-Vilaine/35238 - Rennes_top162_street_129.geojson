@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8053769,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6740962,
+                        48.1098816
+                    ],
+                    [
+                        -1.6739545,
+                        48.1098849
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "11",
+                "bicycle": "yes",
+                "boundary": "administrative",
+                "busway:left": "opposite_lane",
+                "cycleway:left": "opposite_share_busway",
+                "highway": "primary",
+                "lanes:forward": "1",
+                "name": "Quai de Richemont",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "psv:lanes:backward": "designated",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49298854,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6739545,
+                        48.1098849
+                    ],
+                    [
+                        -1.67387,
+                        48.1098879
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "11",
+                "bicycle": "yes",
+                "boundary": "administrative",
+                "busway:left": "opposite_lane",
+                "cycleway:left": "opposite_share_busway",
+                "highway": "primary",
+                "lanes:forward": "1",
+                "name": "Quai de Richemont",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "psv:lanes:backward": "designated",
+                "surface": "asphalt",
+                "turn:lanes:forward": "merge_to_right|none",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 355305350,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.67387,
+                        48.1098879
+                    ],
+                    [
+                        -1.6736066,
+                        48.1098948
+                    ],
+                    [
+                        -1.673332,
+                        48.1098967
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "11",
+                "boundary": "administrative",
+                "cycleway:left": "share_busway",
+                "highway": "primary",
+                "lanes:forward": "1",
+                "name": "Quai de Richemont",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:bus": "no",
+                "psv": "opposite_lane",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 520612810,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.673332,
+                        48.1098967
+                    ],
+                    [
+                        -1.6728331,
+                        48.1098976
+                    ],
+                    [
+                        -1.6726533,
+                        48.1098978
+                    ],
+                    [
+                        -1.6723096,
+                        48.1098878
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "11",
+                "boundary": "administrative",
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes:forward": "2",
+                "name": "Quai de Richemont",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:bus": "no",
+                "psv": "opposite_lane",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "turn:lanes:forward": "merge_to_right|none",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

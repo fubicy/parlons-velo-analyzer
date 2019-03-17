@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 11638060,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9365399,
+                        43.1263115
+                    ],
+                    [
+                        5.9363503,
+                        43.1262441
+                    ],
+                    [
+                        5.9362748,
+                        43.1262191
+                    ],
+                    [
+                        5.9361388,
+                        43.126174
+                    ],
+                    [
+                        5.9361072,
+                        43.1261504
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Rue Fran\u00e7ois Fabi\u00e9",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26810784,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9361072,
+                        43.1261504
+                    ],
+                    [
+                        5.9358137,
+                        43.125726
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "name": "Rue Fran\u00e7ois Fabi\u00e9",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26811046,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9358137,
+                        43.125726
+                    ],
+                    [
+                        5.9357987,
+                        43.1257219
+                    ],
+                    [
+                        5.9357674,
+                        43.1256521
+                    ],
+                    [
+                        5.9357935,
+                        43.1255573
+                    ],
+                    [
+                        5.9358253,
+                        43.1254648
+                    ],
+                    [
+                        5.9358781,
+                        43.1253441
+                    ],
+                    [
+                        5.9360646,
+                        43.1247799
+                    ],
+                    [
+                        5.936204,
+                        43.1243842
+                    ],
+                    [
+                        5.9362248,
+                        43.1243188
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Rue Fran\u00e7ois Fabi\u00e9",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303245368,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9362248,
+                        43.1243188
+                    ],
+                    [
+                        5.9362707,
+                        43.1242205
+                    ],
+                    [
+                        5.9363234,
+                        43.1241385
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Rue Fran\u00e7ois Fabi\u00e9",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

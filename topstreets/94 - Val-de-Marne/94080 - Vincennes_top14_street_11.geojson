@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25777160,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4526564,
+                        48.847629
+                    ],
+                    [
+                        2.4524515,
+                        48.8476952
+                    ],
+                    [
+                        2.4522256,
+                        48.8477693
+                    ],
+                    [
+                        2.4516195,
+                        48.8479663
+                    ],
+                    [
+                        2.4514212,
+                        48.848033
+                    ],
+                    [
+                        2.4512212,
+                        48.8480983
+                    ],
+                    [
+                        2.4509703,
+                        48.8481744
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "name": "Rue de l'Industrie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137053320,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4512212,
+                        48.8480983
+                    ],
+                    [
+                        2.4511223,
+                        48.8480852
+                    ],
+                    [
+                        2.4510681,
+                        48.84806
+                    ],
+                    [
+                        2.4510368,
+                        48.8480079
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de l'Industrie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

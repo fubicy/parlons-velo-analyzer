@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16379325,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7183123,
+                        48.4149051
+                    ],
+                    [
+                        2.7183289,
+                        48.4148149
+                    ],
+                    [
+                        2.7182608,
+                        48.4145804
+                    ],
+                    [
+                        2.718056,
+                        48.4139765
+                    ],
+                    [
+                        2.7177531,
+                        48.4132059
+                    ],
+                    [
+                        2.7176163,
+                        48.41288
+                    ],
+                    [
+                        2.7174142,
+                        48.4122147
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "name": "Avenue des Carrosses",
+                "source": "Route500",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

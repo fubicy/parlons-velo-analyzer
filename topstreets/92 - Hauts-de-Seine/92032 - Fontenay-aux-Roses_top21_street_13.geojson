@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27662645,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2879269,
+                        48.7944961
+                    ],
+                    [
+                        2.2880344,
+                        48.7943665
+                    ],
+                    [
+                        2.2883746,
+                        48.7936025
+                    ],
+                    [
+                        2.2883842,
+                        48.7935932
+                    ],
+                    [
+                        2.2885618,
+                        48.7934214
+                    ],
+                    [
+                        2.2886278,
+                        48.7933607
+                    ],
+                    [
+                        2.2887435,
+                        48.7932337
+                    ],
+                    [
+                        2.2891626,
+                        48.7927801
+                    ],
+                    [
+                        2.2892316,
+                        48.7927123
+                    ],
+                    [
+                        2.2896982,
+                        48.7922379
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue des Pierrelais",
+                "ref": "D 129",
+                "source": "cadastre-dgi-fr source : Direction Generale des Impots - Cadastre. Mise a jour : 2015",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 300777805,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2896982,
+                        48.7922379
+                    ],
+                    [
+                        2.2896971,
+                        48.7921977
+                    ],
+                    [
+                        2.2898246,
+                        48.7920427
+                    ],
+                    [
+                        2.289956,
+                        48.7920323
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue des Pierrelais",
+                "oneway": "yes",
+                "ref": "D 129",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 300777806,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.290001,
+                        48.7921106
+                    ],
+                    [
+                        2.2899091,
+                        48.7921484
+                    ],
+                    [
+                        2.2898173,
+                        48.7921724
+                    ],
+                    [
+                        2.2896982,
+                        48.7922379
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue des Pierrelais",
+                "oneway": "yes",
+                "ref": "D 129",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

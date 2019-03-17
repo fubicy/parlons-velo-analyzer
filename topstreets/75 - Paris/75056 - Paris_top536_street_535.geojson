@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23242855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3326753,
+                        48.8181204
+                    ],
+                    [
+                        2.3329385,
+                        48.8186221
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "layer": "-1",
+                "maxheight": "3.8",
+                "maxspeed": "30",
+                "name": "Avenue Andr\u00e9 Rivoire",
+                "source:maxspeed": "sign",
+                "surface": "cobblestone",
+                "tunnel": "yes",
+                "wikidata": "Q2873521",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26413127,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3329385,
+                        48.8186221
+                    ],
+                    [
+                        2.3334185,
+                        48.8194786
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Andr\u00e9 Rivoire",
+                "source": "Limitation de vitesse : BMO 20090119",
+                "surface": "cobblestone",
+                "wikidata": "Q2873521",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 560542190,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3334185,
+                        48.8194786
+                    ],
+                    [
+                        2.3337326,
+                        48.8200946
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Andr\u00e9 Rivoire",
+                "source": "Limitation de vitesse : BMO 20090119",
+                "surface": "cobblestone",
+                "wikidata": "Q2873521",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

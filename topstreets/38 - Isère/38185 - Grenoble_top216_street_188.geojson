@@ -1,0 +1,155 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40416157,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7299044,
+                        45.1954415
+                    ],
+                    [
+                        5.7297996,
+                        45.1953762
+                    ],
+                    [
+                        5.7292785,
+                        45.1950513
+                    ],
+                    [
+                        5.7290767,
+                        45.1949256
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Quai Mounier",
+                "oneway": "yes",
+                "ref": "D 590",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 300846711,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7290363,
+                        45.1948453
+                    ],
+                    [
+                        5.7288488,
+                        45.1947354
+                    ],
+                    [
+                        5.7287953,
+                        45.1947019
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "footway": "sidewalk",
+                "highway": "path",
+                "lit": "yes",
+                "motor_vehicle": "no",
+                "name": "Quai Mounier",
+                "oneway": "no",
+                "segregated": "no",
+                "surface": "concrete",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 318868881,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7299303,
+                        45.1954225
+                    ],
+                    [
+                        5.729825,
+                        45.1953564
+                    ],
+                    [
+                        5.7290725,
+                        45.1948863
+                    ],
+                    [
+                        5.7290363,
+                        45.1948453
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "highway": "cycleway",
+                "lit": "yes",
+                "motor_vehicle": "no",
+                "name": "Quai Mounier",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385162861,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7290767,
+                        45.1949256
+                    ],
+                    [
+                        5.7289568,
+                        45.1948347
+                    ],
+                    [
+                        5.7288283,
+                        45.194756
+                    ],
+                    [
+                        5.7287734,
+                        45.1947226
+                    ],
+                    [
+                        5.72866,
+                        45.1946873
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Quai Mounier",
+                "oneway": "yes",
+                "ref": "D 590",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

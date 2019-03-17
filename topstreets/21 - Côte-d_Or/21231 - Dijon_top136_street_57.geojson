@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23465054,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0425164,
+                        47.3219728
+                    ],
+                    [
+                        5.0429088,
+                        47.3219329
+                    ],
+                    [
+                        5.0430267,
+                        47.32192
+                    ],
+                    [
+                        5.0430568,
+                        47.3219167
+                    ],
+                    [
+                        5.0432739,
+                        47.3219064
+                    ],
+                    [
+                        5.0435159,
+                        47.3218939
+                    ],
+                    [
+                        5.0435522,
+                        47.321892
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue Longepierre",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164519839,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0435522,
+                        47.321892
+                    ],
+                    [
+                        5.0436774,
+                        47.3218983
+                    ],
+                    [
+                        5.0442203,
+                        47.3218519
+                    ],
+                    [
+                        5.0443927,
+                        47.3218119
+                    ],
+                    [
+                        5.0445179,
+                        47.3217299
+                    ],
+                    [
+                        5.0446326,
+                        47.3213224
+                    ],
+                    [
+                        5.0446693,
+                        47.3211163
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Longepierre",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

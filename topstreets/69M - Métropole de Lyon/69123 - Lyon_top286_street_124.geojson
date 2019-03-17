@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 379232543,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8651637,
+                        45.7510988
+                    ],
+                    [
+                        4.8651235,
+                        45.7510052
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Saint-Philippe",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "11503",
+                "route_ref": "69A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 379232544,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8651459,
+                        45.7508819
+                    ],
+                    [
+                        4.8651861,
+                        45.7509756
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Saint-Philippe",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "11502",
+                "route_ref": "69A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

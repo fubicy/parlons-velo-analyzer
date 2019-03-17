@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22565535,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3974694,
+                        47.0817548
+                    ],
+                    [
+                        2.3974512,
+                        47.0817774
+                    ],
+                    [
+                        2.3971463,
+                        47.0820911
+                    ],
+                    [
+                        2.3970906,
+                        47.0821545
+                    ],
+                    [
+                        2.3968151,
+                        47.0824681
+                    ],
+                    [
+                        2.3965015,
+                        47.0828856
+                    ],
+                    [
+                        2.396337,
+                        47.0830671
+                    ],
+                    [
+                        2.396227,
+                        47.0831885
+                    ],
+                    [
+                        2.3960813,
+                        47.0833654
+                    ],
+                    [
+                        2.3959799,
+                        47.0834813
+                    ],
+                    [
+                        2.395384,
+                        47.084312
+                    ],
+                    [
+                        2.3953062,
+                        47.0844037
+                    ],
+                    [
+                        2.3948383,
+                        47.0850127
+                    ],
+                    [
+                        2.394713,
+                        47.0851684
+                    ],
+                    [
+                        2.3946381,
+                        47.0852615
+                    ],
+                    [
+                        2.3945667,
+                        47.0853289
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Moyenne",
+                "oneway": "yes",
+                "surface": "paving_stones",
+                "zone:maxspeed": "FR:30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 448299967,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3965232,
+                        47.0819337
+                    ],
+                    [
+                        2.3970906,
+                        47.0821545
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Rue Moyenne",
+                "service": "alley",
+                "surface": "paved",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 644585001,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3974694,
+                        47.0817548
+                    ],
+                    [
+                        2.3975365,
+                        47.0816694
+                    ],
+                    [
+                        2.3976631,
+                        47.081511
+                    ],
+                    [
+                        2.3978796,
+                        47.081286
+                    ],
+                    [
+                        2.3979488,
+                        47.081227
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Moyenne",
+                "note": "Travaux Ilot Victor Hugo; https://www.ville-bourges.fr/site/travaux-ilot-victor-hugo",
+                "oneway": "yes",
+                "surface": "paving_stones",
+                "vehicle": "no",
+                "zone:maxspeed": "FR:30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

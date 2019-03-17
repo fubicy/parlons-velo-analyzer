@@ -1,0 +1,147 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22718175,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4402334,
+                        43.5975129
+                    ],
+                    [
+                        1.4402947,
+                        43.5975184
+                    ],
+                    [
+                        1.4410057,
+                        43.5975815
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Pont de Tounis",
+                "name:oc": "Carri\u00e8ra del Pont de Tonis",
+                "oneway": "yes",
+                "parking:condition:right": "ticket",
+                "parking:condition:right:2": "ticket",
+                "parking:condition:right:2:fee_per_hour": "12\u20ac",
+                "parking:condition:right:2:maxstay": "2.5 hours",
+                "parking:condition:right:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:right:3": "residents",
+                "parking:condition:right:3:maxstay": "24 hours",
+                "parking:condition:right:3:residents": "CARMES",
+                "parking:condition:right:default": "free",
+                "parking:condition:right:fee_per_hour": "1.5\u20ac",
+                "parking:condition:right:maxstay": "2 hours",
+                "parking:condition:right:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "parallel",
+                "parking:lane:right:capacity": "6",
+                "parking:lane:right:parallel": "on_street",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142212990,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4410057,
+                        43.5975815
+                    ],
+                    [
+                        1.4411794,
+                        43.5976036
+                    ],
+                    [
+                        1.4413772,
+                        43.5976309
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "bridge:name": "Pont de Tounis",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Rue du Pont de Tounis",
+                "name:oc": "Carri\u00e8ra del Pont de Tonis",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "surface": "asphalt",
+                "wikidata": "Q16670680",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142212991,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4413772,
+                        43.5976309
+                    ],
+                    [
+                        1.4414007,
+                        43.5976361
+                    ],
+                    [
+                        1.4417677,
+                        43.5977107
+                    ],
+                    [
+                        1.4420692,
+                        43.5977799
+                    ],
+                    [
+                        1.4421163,
+                        43.5977884
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "footway:left:width": "0.4",
+                "footway:right:width": "0.4",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Pont de Tounis",
+                "name:oc": "Carri\u00e8ra del Pont de Tonis",
+                "oneway": "yes",
+                "parking:condition:right": "ticket",
+                "parking:condition:right:2": "ticket",
+                "parking:condition:right:2:fee_per_hour": "12\u20ac",
+                "parking:condition:right:2:maxstay": "2.5 hours",
+                "parking:condition:right:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:right:3": "residents",
+                "parking:condition:right:3:maxstay": "24 hours",
+                "parking:condition:right:3:residents": "CARMES",
+                "parking:condition:right:default": "free",
+                "parking:condition:right:fee_per_hour": "1.5\u20ac",
+                "parking:condition:right:maxstay": "2 hours",
+                "parking:condition:right:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:right": "parallel",
+                "parking:lane:right:capacity": "3",
+                "parking:lane:right:parallel": "on_street",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

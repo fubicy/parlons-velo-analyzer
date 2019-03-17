@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 143580806,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4847385,
+                        48.6137167
+                    ],
+                    [
+                        2.4834779,
+                        48.6130596
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "1",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Pont de l'Arm\u00e9e Patton",
+                "source": "Route500",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through|right",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

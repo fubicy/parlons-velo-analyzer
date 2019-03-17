@@ -1,0 +1,148 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4041065,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3678731,
+                        48.8419086
+                    ],
+                    [
+                        2.3679983,
+                        48.8419789
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont Charles de Gaulle",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27559654,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3701442,
+                        48.843204
+                    ],
+                    [
+                        2.3680591,
+                        48.8420822
+                    ],
+                    [
+                        2.3679283,
+                        48.8420277
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "on_street",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "Pont Charles de Gaulle",
+                "oneway": "no",
+                "segregated": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31830354,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3679983,
+                        48.8419789
+                    ],
+                    [
+                        2.3702315,
+                        48.8431423
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Pont Charles de Gaulle",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31830371,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3702315,
+                        48.8431423
+                    ],
+                    [
+                        2.3702581,
+                        48.8431552
+                    ],
+                    [
+                        2.3702856,
+                        48.8431719
+                    ],
+                    [
+                        2.370327,
+                        48.8431945
+                    ],
+                    [
+                        2.370591,
+                        48.8433355
+                    ],
+                    [
+                        2.370735,
+                        48.8434138
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:psv": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Charles de Gaulle",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|left;through|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

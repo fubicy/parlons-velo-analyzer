@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23068040,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3408917,
+                        48.0717566
+                    ],
+                    [
+                        7.3409523,
+                        48.0718293
+                    ],
+                    [
+                        7.340977,
+                        48.071859
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Camille S\u00e9e",
+                "traffic_calming": "hump",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 635057482,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3392086,
+                        48.069809
+                    ],
+                    [
+                        7.3408917,
+                        48.0717566
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Camille S\u00e9e",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

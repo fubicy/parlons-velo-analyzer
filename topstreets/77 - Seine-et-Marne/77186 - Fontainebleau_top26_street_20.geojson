@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16071853,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7057337,
+                        48.4054625
+                    ],
+                    [
+                        2.7056164,
+                        48.4055425
+                    ],
+                    [
+                        2.7034853,
+                        48.4070539
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Marrier",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

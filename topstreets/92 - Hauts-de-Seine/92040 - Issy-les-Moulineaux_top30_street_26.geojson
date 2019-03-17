@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4786974,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2792294,
+                        48.8269454
+                    ],
+                    [
+                        2.2793475,
+                        48.8268427
+                    ],
+                    [
+                        2.2804795,
+                        48.8259082
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Boulevard Voltaire",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

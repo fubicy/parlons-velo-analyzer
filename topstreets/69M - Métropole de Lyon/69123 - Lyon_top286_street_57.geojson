@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23332050,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8587331,
+                        45.7722087
+                    ],
+                    [
+                        4.8586464,
+                        45.7708518
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxheight": "4.3",
+                "maxspeed": "50",
+                "name": "Boulevard Stalingrad",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156013590,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8586464,
+                        45.7708518
+                    ],
+                    [
+                        4.8585132,
+                        45.7701577
+                    ],
+                    [
+                        4.8584953,
+                        45.7700644
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Stalingrad",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

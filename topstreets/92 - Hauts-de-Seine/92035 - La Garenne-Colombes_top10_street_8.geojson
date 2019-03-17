@@ -1,0 +1,112 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 13860580,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2481672,
+                        48.9066405
+                    ],
+                    [
+                        2.247535,
+                        48.9077837
+                    ],
+                    [
+                        2.2469367,
+                        48.9088351
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Voltaire",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22716697,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2484402,
+                        48.9061319
+                    ],
+                    [
+                        2.2484798,
+                        48.9060651
+                    ],
+                    [
+                        2.2487998,
+                        48.9055251
+                    ],
+                    [
+                        2.2491796,
+                        48.9048431
+                    ],
+                    [
+                        2.2492036,
+                        48.9048
+                    ],
+                    [
+                        2.2492323,
+                        48.904749
+                    ],
+                    [
+                        2.2496426,
+                        48.9040194
+                    ],
+                    [
+                        2.2496754,
+                        48.9039598
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Voltaire",
+                "source": "Microsoft Bing orbital imagery",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115322961,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2502545,
+                        48.9029332
+                    ],
+                    [
+                        2.2502278,
+                        48.9029732
+                    ],
+                    [
+                        2.2497642,
+                        48.903803
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Voltaire",
+                "oneway": "yes",
+                "source": "Microsoft Bing satellite 2011",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

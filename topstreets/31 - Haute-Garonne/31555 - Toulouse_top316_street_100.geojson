@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22392524,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4488368,
+                        43.5923804
+                    ],
+                    [
+                        1.4487148,
+                        43.5924173
+                    ],
+                    [
+                        1.4485245,
+                        43.5924748
+                    ],
+                    [
+                        1.4476696,
+                        43.5926973
+                    ],
+                    [
+                        1.4467137,
+                        43.5929489
+                    ],
+                    [
+                        1.4466084,
+                        43.5929918
+                    ],
+                    [
+                        1.44613,
+                        43.5931189
+                    ],
+                    [
+                        1.4460419,
+                        43.5931421
+                    ],
+                    [
+                        1.4459801,
+                        43.5931584
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Alfred Dum\u00e9ril",
+                "note": "Changement de sens de circulation, f\u00e9vrier 2012",
+                "oneway": "yes",
+                "short_name": "Rue Dum\u00e9ril",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35710646,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4526036,
+                        43.591001
+                    ],
+                    [
+                        1.4523066,
+                        43.5911206
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Alfred Dum\u00e9ril",
+                "note": "Changement de sens de circulation, f\u00e9vrier 2012",
+                "oneway": "no",
+                "short_name": "Rue Dum\u00e9ril",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150331720,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4523066,
+                        43.5911206
+                    ],
+                    [
+                        1.4521693,
+                        43.5911649
+                    ],
+                    [
+                        1.4505865,
+                        43.591749
+                    ],
+                    [
+                        1.4500559,
+                        43.5919448
+                    ],
+                    [
+                        1.4496747,
+                        43.592078
+                    ],
+                    [
+                        1.4489312,
+                        43.5923463
+                    ],
+                    [
+                        1.4488368,
+                        43.5923804
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Alfred Dum\u00e9ril",
+                "note": "Changement de sens de circulation, f\u00e9vrier 2012",
+                "oneway": "yes",
+                "short_name": "Rue Dum\u00e9ril",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

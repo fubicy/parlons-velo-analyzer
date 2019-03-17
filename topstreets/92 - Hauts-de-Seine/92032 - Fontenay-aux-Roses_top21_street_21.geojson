@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 506799807,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3029959,
+                        48.7854337
+                    ],
+                    [
+                        2.3028967,
+                        48.7853816
+                    ],
+                    [
+                        2.3025833,
+                        48.7853058
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Avenue Jean Perrin",
+                "oneway": "yes",
+                "ref": "D 75",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

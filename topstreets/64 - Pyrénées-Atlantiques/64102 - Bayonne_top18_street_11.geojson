@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33892690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.4766178,
+                        43.4862118
+                    ],
+                    [
+                        -1.4733461,
+                        43.485774
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "layer": "1",
+                "name": "Pont du Labourd",
+                "old_ref": "N 117",
+                "oneway": "yes",
+                "ref": "D 810",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39726977,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.473324,
+                        43.485844
+                    ],
+                    [
+                        -1.4765983,
+                        43.4862873
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "layer": "1",
+                "name": "Pont du Labourd",
+                "old_ref": "N 117",
+                "oneway": "yes",
+                "ref": "D 810",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

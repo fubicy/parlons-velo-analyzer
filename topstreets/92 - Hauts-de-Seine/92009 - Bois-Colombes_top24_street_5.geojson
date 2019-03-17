@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27793735,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2661215,
+                        48.9063793
+                    ],
+                    [
+                        2.2659101,
+                        48.9070863
+                    ],
+                    [
+                        2.2658803,
+                        48.9072159
+                    ]
+                ]
+            },
+            "properties": {
+                "embankment": "yes",
+                "highway": "secondary",
+                "name": "Rue de Bois-Colombes",
+                "ref": "D 12",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144553515,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.266741,
+                        48.9049809
+                    ],
+                    [
+                        2.2665686,
+                        48.9051878
+                    ],
+                    [
+                        2.2664237,
+                        48.905392
+                    ],
+                    [
+                        2.2663787,
+                        48.9054785
+                    ],
+                    [
+                        2.2663451,
+                        48.9055542
+                    ]
+                ]
+            },
+            "properties": {
+                "embankment": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Bois-Colombes",
+                "ref": "D 12",
+                "source": "Microsoft Bing orbital imagery",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144553517,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2658803,
+                        48.9072159
+                    ],
+                    [
+                        2.2658706,
+                        48.9073446
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue de Bois-Colombes",
+                "ref": "D 12",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 331455747,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2663451,
+                        48.9055542
+                    ],
+                    [
+                        2.2663017,
+                        48.90569
+                    ],
+                    [
+                        2.2662564,
+                        48.9058597
+                    ]
+                ]
+            },
+            "properties": {
+                "embankment": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Rue de Bois-Colombes",
+                "ref": "D 12",
+                "source": "Microsoft Bing orbital imagery",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 13863481,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8038357,
+                        45.7770471
+                    ],
+                    [
+                        4.8039598,
+                        45.7770371
+                    ],
+                    [
+                        4.8053449,
+                        45.7769415
+                    ],
+                    [
+                        4.8069418,
+                        45.7768312
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "name": "Rue de la Corderie",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13863486,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8069418,
+                        45.7768312
+                    ],
+                    [
+                        4.8072753,
+                        45.7768275
+                    ],
+                    [
+                        4.8074937,
+                        45.7767982
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "unclassified",
+                "name": "Rue de la Corderie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29606486,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8072512,
+                        45.7769603
+                    ],
+                    [
+                        4.8071738,
+                        45.7769188
+                    ],
+                    [
+                        4.8069418,
+                        45.7768312
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Rue de la Corderie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

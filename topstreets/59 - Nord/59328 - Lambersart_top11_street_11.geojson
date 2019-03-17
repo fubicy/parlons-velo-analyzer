@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 148173089,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0245392,
+                        50.6385157
+                    ],
+                    [
+                        3.0246083,
+                        50.6385447
+                    ],
+                    [
+                        3.0249541,
+                        50.6387161
+                    ],
+                    [
+                        3.0250088,
+                        50.6387459
+                    ],
+                    [
+                        3.0256619,
+                        50.6390798
+                    ],
+                    [
+                        3.0260272,
+                        50.6392639
+                    ],
+                    [
+                        3.0261192,
+                        50.6393011
+                    ],
+                    [
+                        3.0262251,
+                        50.6393553
+                    ],
+                    [
+                        3.0264651,
+                        50.6394821
+                    ],
+                    [
+                        3.0276804,
+                        50.6401036
+                    ],
+                    [
+                        3.0278809,
+                        50.640206
+                    ],
+                    [
+                        3.027995,
+                        50.6402492
+                    ],
+                    [
+                        3.028103,
+                        50.6402896
+                    ],
+                    [
+                        3.0308328,
+                        50.6412671
+                    ],
+                    [
+                        3.0311982,
+                        50.6413992
+                    ],
+                    [
+                        3.0312968,
+                        50.6414349
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue Sainte-C\u00e9cile",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 597088521,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0233775,
+                        50.6379839
+                    ],
+                    [
+                        3.0234791,
+                        50.6380303
+                    ],
+                    [
+                        3.0235683,
+                        50.6380711
+                    ],
+                    [
+                        3.0245392,
+                        50.6385157
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxstay": "1.5 hours @ (09:00-18:00)",
+                "name": "Avenue Sainte-C\u00e9cile",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxstay": "http://www.lambersart.fr/Vos-demarches/Actualites/Zone-bleue-a-Canteleu",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

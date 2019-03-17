@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 38220683,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0632335,
+                        45.6062298
+                    ],
+                    [
+                        4.0632139,
+                        45.6062404
+                    ],
+                    [
+                        4.0626852,
+                        45.6065267
+                    ],
+                    [
+                        4.0623115,
+                        45.6067718
+                    ],
+                    [
+                        4.0622173,
+                        45.6068895
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Chavassieu",
+                "ref": "D 5",
+                "ref:FR:FANTOIR": "421470220N",
+                "source": "cadastre dgfip 2018",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163413902,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0632335,
+                        45.6062298
+                    ],
+                    [
+                        4.0633837,
+                        45.606151
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Boulevard Chavassieu",
+                "ref:FR:FANTOIR": "421470220N",
+                "source": "cadastre dgfip 2018",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163413946,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0633837,
+                        45.606151
+                    ],
+                    [
+                        4.0634369,
+                        45.6061206
+                    ],
+                    [
+                        4.0634769,
+                        45.6060999
+                    ],
+                    [
+                        4.0640498,
+                        45.6057807
+                    ],
+                    [
+                        4.0641211,
+                        45.6057426
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Chavassieu",
+                "ref": "D 5",
+                "ref:FR:FANTOIR": "421470220N",
+                "source": "cadastre dgfip 2018",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

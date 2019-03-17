@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8886874,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0611225,
+                        48.9063012
+                    ],
+                    [
+                        6.0611057,
+                        48.9063949
+                    ],
+                    [
+                        6.0611405,
+                        48.9067885
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue G\u00e9n\u00e9ral Leclerc",
+                "old_ref": "N 57",
+                "ref": "D 657",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 317340961,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0611405,
+                        48.9067885
+                    ],
+                    [
+                        6.0615185,
+                        48.9110596
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "track",
+                "highway": "primary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue G\u00e9n\u00e9ral Leclerc",
+                "old_ref": "N 57",
+                "ref": "D 657",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

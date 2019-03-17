@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 60337425,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.5461341,
+                        43.5182404
+                    ],
+                    [
+                        1.5461315,
+                        43.5181875
+                    ],
+                    [
+                        1.5461226,
+                        43.5181314
+                    ],
+                    [
+                        1.5461087,
+                        43.5180981
+                    ],
+                    [
+                        1.5460893,
+                        43.5180654
+                    ],
+                    [
+                        1.5460604,
+                        43.5180358
+                    ],
+                    [
+                        1.5460274,
+                        43.5180132
+                    ],
+                    [
+                        1.5459531,
+                        43.5179843
+                    ],
+                    [
+                        1.545876,
+                        43.5179657
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Place de la Cousquille",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303957357,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.5464869,
+                        43.5179133
+                    ],
+                    [
+                        1.5463178,
+                        43.5180701
+                    ],
+                    [
+                        1.5461341,
+                        43.5182404
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Place de la Cousquille",
+                "ref": "D 16",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303957358,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.545876,
+                        43.5179657
+                    ],
+                    [
+                        1.545963,
+                        43.5179631
+                    ],
+                    [
+                        1.5462033,
+                        43.5179586
+                    ],
+                    [
+                        1.5463018,
+                        43.5179464
+                    ],
+                    [
+                        1.5464869,
+                        43.5179133
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Place de la Cousquille",
+                "ref": "D 79",
+                "source": "survey",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

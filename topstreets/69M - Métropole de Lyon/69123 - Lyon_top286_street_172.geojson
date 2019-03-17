@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4324387,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8375978,
+                        45.7456179
+                    ],
+                    [
+                        4.8372297,
+                        45.7457374
+                    ],
+                    [
+                        4.8368127,
+                        45.7458715
+                    ],
+                    [
+                        4.8367852,
+                        45.7458804
+                    ],
+                    [
+                        4.836746,
+                        45.745893
+                    ],
+                    [
+                        4.8366692,
+                        45.7459167
+                    ],
+                    [
+                        4.8363199,
+                        45.7460245
+                    ],
+                    [
+                        4.8362865,
+                        45.7460348
+                    ],
+                    [
+                        4.8362476,
+                        45.7460468
+                    ],
+                    [
+                        4.8361733,
+                        45.7460704
+                    ],
+                    [
+                        4.8358429,
+                        45.7461755
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue \u00c9tienne Rognon",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169231215,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8358429,
+                        45.7461755
+                    ],
+                    [
+                        4.8358071,
+                        45.7461869
+                    ]
+                ]
+            },
+            "properties": {
+                "covered": "yes",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue \u00c9tienne Rognon",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169231216,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8358071,
+                        45.7461869
+                    ],
+                    [
+                        4.8352574,
+                        45.7463617
+                    ],
+                    [
+                        4.8344027,
+                        45.7466304
+                    ],
+                    [
+                        4.8332842,
+                        45.7470034
+                    ],
+                    [
+                        4.8332361,
+                        45.7470195
+                    ],
+                    [
+                        4.8331745,
+                        45.74704
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue \u00c9tienne Rognon",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

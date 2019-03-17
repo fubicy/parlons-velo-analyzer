@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 552062787,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3831659,
+                        43.5718188
+                    ],
+                    [
+                        1.3830559,
+                        43.5719754
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "platform",
+                "name": "Moun\u00e8de",
+                "public_transport": "platform",
+                "ref": "4500",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 552062788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.382983,
+                        43.5719473
+                    ],
+                    [
+                        1.3830863,
+                        43.5717901
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Moun\u00e8de",
+                "public_transport": "platform",
+                "ref": "4501",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

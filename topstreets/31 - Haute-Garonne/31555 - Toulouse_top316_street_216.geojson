@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29262139,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4367951,
+                        43.6090614
+                    ],
+                    [
+                        1.4365429,
+                        43.6095886
+                    ],
+                    [
+                        1.4365217,
+                        43.6096328
+                    ],
+                    [
+                        1.4361866,
+                        43.6103464
+                    ],
+                    [
+                        1.4361756,
+                        43.6103745
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Lascrosses",
+                "name:oc": "Carri\u00e8ra Las Cr\u00f2sas",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee_per_hour": "12\u20ac",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:maxstay": "24 hours",
+                "parking:condition:both:3:residents": "VALADE",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 hours",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "parallel",
+                "parking:lane:both:capacity": "24",
+                "parking:lane:both:parallel": "on_street",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142053330,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4361756,
+                        43.6103745
+                    ],
+                    [
+                        1.4361226,
+                        43.6105352
+                    ],
+                    [
+                        1.436114,
+                        43.6105613
+                    ],
+                    [
+                        1.4361159,
+                        43.6106407
+                    ],
+                    [
+                        1.436119,
+                        43.6107303
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Lascrosses",
+                "name:oc": "Carri\u00e8ra Las Cr\u00f2sas",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142053331,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4361756,
+                        43.6103745
+                    ],
+                    [
+                        1.4360518,
+                        43.6105109
+                    ],
+                    [
+                        1.4360294,
+                        43.6105355
+                    ],
+                    [
+                        1.4359535,
+                        43.610618
+                    ],
+                    [
+                        1.435885,
+                        43.6106547
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Lascrosses",
+                "name:oc": "Carri\u00e8ra Las Cr\u00f2sas",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 666291896,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.435885,
+                        43.6106547
+                    ],
+                    [
+                        1.4357466,
+                        43.610713
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Lascrosses",
+                "name:oc": "Carri\u00e8ra Las Cr\u00f2sas",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 155657865,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.34847,
+                        49.175908
+                    ],
+                    [
+                        -0.348464,
+                        49.175898
+                    ],
+                    [
+                        -0.348252,
+                        49.175955
+                    ],
+                    [
+                        -0.348257,
+                        49.175965
+                    ],
+                    [
+                        -0.34847,
+                        49.175908
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "building": "yes",
+                "display": "departures",
+                "display:type": "overview",
+                "highway": "bus_stop",
+                "name": "Gare SNCF",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "wall": "no",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

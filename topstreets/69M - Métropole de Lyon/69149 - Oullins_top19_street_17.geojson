@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8003358,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8109197,
+                        45.7092682
+                    ],
+                    [
+                        4.8108536,
+                        45.7091929
+                    ],
+                    [
+                        4.8108535,
+                        45.7091543
+                    ],
+                    [
+                        4.8108824,
+                        45.7090973
+                    ],
+                    [
+                        4.8109077,
+                        45.70908
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lit": "yes",
+                "name": "Charton",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384131397,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8104955,
+                        45.7118365
+                    ],
+                    [
+                        4.8106828,
+                        45.7117886
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Charton",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "444",
+                "route_ref": "C7B:A",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384131398,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8112132,
+                        45.7117317
+                    ],
+                    [
+                        4.8109902,
+                        45.7117676
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Charton",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "445",
+                "route_ref": "C7B:R",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

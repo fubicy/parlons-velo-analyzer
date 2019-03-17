@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 536298842,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.5070045,
+                        43.5085469
+                    ],
+                    [
+                        1.5068141,
+                        43.5084842
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Castanet-Tolosan",
+                "operator": "Tiss\u00e9o",
+                "public_transport": "platform",
+                "ref": "27055",
+                "source": "https://www.tisseo.fr",
+                "source:date": "2017-09-04",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 536298843,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.5068027,
+                        43.5084603
+                    ],
+                    [
+                        1.5066122,
+                        43.5083927
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Castanet-Tolosan",
+                "operator": "Tiss\u00e9o",
+                "public_transport": "platform",
+                "ref": "27053",
+                "source": "https://www.tisseo.fr",
+                "source:date": "2017-09-04",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

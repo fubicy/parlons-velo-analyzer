@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 136522544,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3046521,
+                        48.8277349
+                    ],
+                    [
+                        2.3047258,
+                        48.8277191
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "incline": "down",
+                "name": "Sortie",
+                "source": "survey; bing",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136522547,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3050928,
+                        48.8278835
+                    ],
+                    [
+                        2.3051625,
+                        48.8278699
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "name": "Sortie",
+                "source": "survey; bing",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

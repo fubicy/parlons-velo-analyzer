@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 110255410,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2411178,
+                        43.6115529
+                    ],
+                    [
+                        1.2410666,
+                        43.6112003
+                    ],
+                    [
+                        1.2404726,
+                        43.6100248
+                    ],
+                    [
+                        1.2399575,
+                        43.6081472
+                    ],
+                    [
+                        1.2393754,
+                        43.6073942
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "cycleway:both": "no",
+                "foot": "permissive",
+                "highway": "residential",
+                "motor_vehicle": "private",
+                "name": "Chemin de Vieilleguerre",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 13857446,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1707197,
+                        48.684863
+                    ],
+                    [
+                        6.1707985,
+                        48.684896
+                    ],
+                    [
+                        6.1713797,
+                        48.6850126
+                    ],
+                    [
+                        6.1721763,
+                        48.6851675
+                    ],
+                    [
+                        6.1722158,
+                        48.6851751
+                    ],
+                    [
+                        6.1722854,
+                        48.685191
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place de la Croix de Bourgogne",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15221690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1704538,
+                        48.6854607
+                    ],
+                    [
+                        6.1705248,
+                        48.6854747
+                    ],
+                    [
+                        6.1708759,
+                        48.6855441
+                    ],
+                    [
+                        6.1714261,
+                        48.6856528
+                    ],
+                    [
+                        6.1717967,
+                        48.6857261
+                    ],
+                    [
+                        6.1718278,
+                        48.6857323
+                    ],
+                    [
+                        6.1718652,
+                        48.6857397
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Place de la Croix de Bourgogne",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

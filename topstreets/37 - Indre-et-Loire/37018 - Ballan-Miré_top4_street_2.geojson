@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31985915,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.615103,
+                        47.3374648
+                    ],
+                    [
+                        0.615655,
+                        47.3370774
+                    ],
+                    [
+                        0.6157386,
+                        47.3370227
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Commerce",
+                "ref": "D 127",
+                "source": "Yahoo! Aerial Imagery",
+                "source:name": "cadastre",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31985924,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6140109,
+                        47.3394967
+                    ],
+                    [
+                        0.6140185,
+                        47.3391793
+                    ],
+                    [
+                        0.6140447,
+                        47.3390948
+                    ],
+                    [
+                        0.6145481,
+                        47.3380173
+                    ],
+                    [
+                        0.6146011,
+                        47.3379505
+                    ],
+                    [
+                        0.6146695,
+                        47.3378801
+                    ],
+                    [
+                        0.615103,
+                        47.3374648
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Commerce",
+                "oneway": "yes",
+                "ref": "D 127",
+                "source:name": "cadastre",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482814727,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6139227,
+                        47.3407756
+                    ],
+                    [
+                        0.6139655,
+                        47.340704
+                    ],
+                    [
+                        0.6139995,
+                        47.340602
+                    ],
+                    [
+                        0.6140086,
+                        47.3404917
+                    ],
+                    [
+                        0.6140105,
+                        47.3402344
+                    ],
+                    [
+                        0.6140109,
+                        47.3394967
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "name": "Rue du Commerce",
+                "oneway": "yes",
+                "ref": "D 127",
+                "source:name": "cadastre",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

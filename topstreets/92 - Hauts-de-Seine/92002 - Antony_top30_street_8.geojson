@@ -1,0 +1,116 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26498545,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3026902,
+                        48.7503652
+                    ],
+                    [
+                        2.3029844,
+                        48.7501085
+                    ],
+                    [
+                        2.3031314,
+                        48.7500299
+                    ],
+                    [
+                        2.3031658,
+                        48.7500184
+                    ],
+                    [
+                        2.3032919,
+                        48.7499746
+                    ],
+                    [
+                        2.3038061,
+                        48.7498163
+                    ],
+                    [
+                        2.3040292,
+                        48.7497597
+                    ],
+                    [
+                        2.3042285,
+                        48.7497137
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "30",
+                "name": "Rue Coustou",
+                "oneway": "yes",
+                "source": "survey remplace Arret\u00e9 mairie d'Antony 2009",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 230844345,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3026902,
+                        48.7503652
+                    ],
+                    [
+                        2.3022457,
+                        48.7507029
+                    ],
+                    [
+                        2.3022251,
+                        48.75072
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "30",
+                "name": "Rue Coustou",
+                "oneway": "no",
+                "source": "survey remplace Arret\u00e9 mairie d'Antony 2009",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 344070334,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3042285,
+                        48.7497137
+                    ],
+                    [
+                        2.3043503,
+                        48.7496857
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Coustou",
+                "source": "survey remplace Arret\u00e9 mairie d'Antony 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

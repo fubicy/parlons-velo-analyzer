@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30925031,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0381475,
+                        48.7905641
+                    ],
+                    [
+                        2.0377837,
+                        48.7902731
+                    ],
+                    [
+                        2.0375209,
+                        48.7901469
+                    ],
+                    [
+                        2.0373029,
+                        48.7900617
+                    ],
+                    [
+                        2.0370059,
+                        48.7900031
+                    ],
+                    [
+                        2.0366724,
+                        48.789997
+                    ],
+                    [
+                        2.036444,
+                        48.7900369
+                    ]
+                ]
+            },
+            "properties": {
+                "date": "1979",
+                "highway": "secondary_link",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Bretelle de Saint-Quentin-en-Yvelines",
+                "oneway": "yes",
+                "operator": "DIRIF",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 486157851,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0392459,
+                        48.7920144
+                    ],
+                    [
+                        2.0390999,
+                        48.7919263
+                    ],
+                    [
+                        2.0385822,
+                        48.7911009
+                    ],
+                    [
+                        2.0384326,
+                        48.790882
+                    ],
+                    [
+                        2.0381475,
+                        48.7905641
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary_link",
+                "lanes": "1",
+                "maxspeed": "70",
+                "name": "Bretelle de Saint-Quentin-en-Yvelines",
+                "oneway": "yes",
+                "operator": "DIRIF",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

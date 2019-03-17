@@ -1,0 +1,147 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 51684859,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0873547,
+                        48.870095
+                    ],
+                    [
+                        2.0863006,
+                        48.8696081
+                    ],
+                    [
+                        2.0858955,
+                        48.8696672
+                    ],
+                    [
+                        2.0855711,
+                        48.8696293
+                    ],
+                    [
+                        2.0853039,
+                        48.8695872
+                    ],
+                    [
+                        2.0849206,
+                        48.8695124
+                    ],
+                    [
+                        2.0845943,
+                        48.8693923
+                    ],
+                    [
+                        2.0843566,
+                        48.8692447
+                    ],
+                    [
+                        2.0839904,
+                        48.8689654
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "name": "Chemin de l'Auberderie",
+                "oneway": "yes",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51686278,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0831706,
+                        48.8685988
+                    ],
+                    [
+                        2.0827761,
+                        48.8684377
+                    ],
+                    [
+                        2.0822129,
+                        48.8681402
+                    ],
+                    [
+                        2.0816765,
+                        48.8677873
+                    ],
+                    [
+                        2.0805312,
+                        48.8667821
+                    ],
+                    [
+                        2.0799813,
+                        48.8664675
+                    ],
+                    [
+                        2.0797682,
+                        48.8663612
+                    ],
+                    [
+                        2.0794838,
+                        48.8662834
+                    ],
+                    [
+                        2.0785513,
+                        48.8664154
+                    ],
+                    [
+                        2.0774063,
+                        48.8664452
+                    ],
+                    [
+                        2.0772342,
+                        48.8664906
+                    ],
+                    [
+                        2.0771842,
+                        48.8665044
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Chemin de l'Auberderie",
+                "source": "Bing",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 524664958,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0839904,
+                        48.8689654
+                    ],
+                    [
+                        2.0831706,
+                        48.8685988
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Chemin de l'Auberderie",
+                "oneway": "yes",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

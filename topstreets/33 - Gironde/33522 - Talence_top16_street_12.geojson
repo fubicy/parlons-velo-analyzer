@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 183514579,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5817118,
+                        44.8104235
+                    ],
+                    [
+                        -0.5813464,
+                        44.8104325
+                    ],
+                    [
+                        -0.5809706,
+                        44.8104124
+                    ],
+                    [
+                        -0.5807773,
+                        44.8104015
+                    ],
+                    [
+                        -0.5797693,
+                        44.8103397
+                    ],
+                    [
+                        -0.579383,
+                        44.8103745
+                    ],
+                    [
+                        -0.578303,
+                        44.8104625
+                    ],
+                    [
+                        -0.5780698,
+                        44.8104823
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Impasse Suzon",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 306299432,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5825216,
+                        44.8105001
+                    ],
+                    [
+                        -0.5824501,
+                        44.8104902
+                    ],
+                    [
+                        -0.5820907,
+                        44.8104403
+                    ],
+                    [
+                        -0.5817118,
+                        44.8104235
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Impasse Suzon",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

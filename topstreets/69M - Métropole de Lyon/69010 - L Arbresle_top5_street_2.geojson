@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 131469711,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.6165242,
+                        45.836535
+                    ],
+                    [
+                        4.6164148,
+                        45.8363857
+                    ],
+                    [
+                        4.6163663,
+                        45.8363194
+                    ],
+                    [
+                        4.616289,
+                        45.8362138
+                    ],
+                    [
+                        4.6162419,
+                        45.8361424
+                    ],
+                    [
+                        4.6161993,
+                        45.8360778
+                    ],
+                    [
+                        4.6161398,
+                        45.8358269
+                    ],
+                    [
+                        4.6161925,
+                        45.8355927
+                    ],
+                    [
+                        4.6162993,
+                        45.8354479
+                    ],
+                    [
+                        4.6163604,
+                        45.835365
+                    ],
+                    [
+                        4.6164375,
+                        45.8352369
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue Charles de Gaulle",
+                "oneway": "yes",
+                "ref": "D 19",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 657897781,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.6169849,
+                        45.8371746
+                    ],
+                    [
+                        4.6165242,
+                        45.836535
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Charles de Gaulle",
+                "oneway": "yes",
+                "ref": "D 19",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

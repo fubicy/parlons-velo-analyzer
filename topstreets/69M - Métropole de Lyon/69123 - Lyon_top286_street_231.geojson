@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4378839,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.832835,
+                        45.7671481
+                    ],
+                    [
+                        4.8326961,
+                        45.7671213
+                    ],
+                    [
+                        4.8318834,
+                        45.7670073
+                    ],
+                    [
+                        4.831807,
+                        45.7669969
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Constantine",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108373168,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.830304,
+                        45.7666296
+                    ],
+                    [
+                        4.8304149,
+                        45.7666567
+                    ],
+                    [
+                        4.8311237,
+                        45.7668299
+                    ],
+                    [
+                        4.8315111,
+                        45.7669237
+                    ],
+                    [
+                        4.8317259,
+                        45.7669771
+                    ],
+                    [
+                        4.831807,
+                        45.7669969
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue Constantine",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

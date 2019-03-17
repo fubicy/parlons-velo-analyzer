@@ -24,5 +24,5 @@ Sur l'ensemble du département, il y a eu 1029 réponses dont 1005 réponses ave
 |26313 - Saint-Marcel-lès-Valence|2|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |26324 - Saint-Paul-Trois-Châteaux|2|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |26347 - Tain-l'Hermitage&nbsp;&#124;&nbsp;<a href='26347 - Tain-l_Hermitage_top1.md'>Top 10</a>|29|1(3%)|<img src="../../img/bar_0.gif" />&nbsp;1|
-|26362 - Valence&nbsp;&#124;&nbsp;<a href='26362 - Valence_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='26362 - Valence_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='26362 - Valence_top50.md'>Top 50</a>|394|756(191%)|<img src="../../img/bar_41.gif" />&nbsp;71|
+|26362 - Valence&nbsp;&#124;&nbsp;<a href='26362 - Valence_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='26362 - Valence_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='26362 - Valence_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='26362 - Valence_top71.md'>Top 1000</a>|394|756(191%)|<img src="../../img/bar_41.gif" />&nbsp;71|
 | **Total** |1029|1005(97%)|170|

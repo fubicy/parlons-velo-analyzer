@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10235268,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.443692,
+                        43.609621
+                    ],
+                    [
+                        1.4439906,
+                        43.6099756
+                    ],
+                    [
+                        1.4440296,
+                        43.6100145
+                    ],
+                    [
+                        1.4440631,
+                        43.610067
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de l'Arc",
+                "name:oc": "Carri\u00e8ra de l'Arc",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

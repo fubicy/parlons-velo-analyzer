@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 142943466,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5568853,
+                        47.2116661
+                    ],
+                    [
+                        -1.5567608,
+                        47.21161
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Place de la Petite Hollande",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142946697,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5575921,
+                        47.212511
+                    ],
+                    [
+                        -1.5575334,
+                        47.2124715
+                    ],
+                    [
+                        -1.5574495,
+                        47.2123773
+                    ],
+                    [
+                        -1.5573842,
+                        47.2123012
+                    ],
+                    [
+                        -1.5572614,
+                        47.212158
+                    ],
+                    [
+                        -1.5571554,
+                        47.2120363
+                    ],
+                    [
+                        -1.5571297,
+                        47.2120068
+                    ],
+                    [
+                        -1.5570412,
+                        47.2119032
+                    ],
+                    [
+                        -1.5570247,
+                        47.2118456
+                    ],
+                    [
+                        -1.5570102,
+                        47.2117695
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Place de la Petite Hollande",
+                "oneway": "no",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

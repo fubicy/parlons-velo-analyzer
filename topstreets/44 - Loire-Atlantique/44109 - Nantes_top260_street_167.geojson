@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 332647382,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5594851,
+                        47.2170207
+                    ],
+                    [
+                        -1.5595469,
+                        47.2169695
+                    ],
+                    [
+                        -1.5598048,
+                        47.2167584
+                    ],
+                    [
+                        -1.5600307,
+                        47.2165604
+                    ],
+                    [
+                        -1.5607455,
+                        47.2157733
+                    ],
+                    [
+                        -1.560867,
+                        47.2155924
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "boundary": "political",
+                "cycleway": "opposite",
+                "foot": "designated",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Budapest",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "political_division": "canton",
+                "sidewalk": "both",
+                "source": "data.loire-atlantique.fr 2011-11",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

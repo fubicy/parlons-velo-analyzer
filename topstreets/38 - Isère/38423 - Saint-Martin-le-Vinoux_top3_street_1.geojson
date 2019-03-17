@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10713530,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6995429,
+                        45.2123835
+                    ],
+                    [
+                        5.699836,
+                        45.2124913
+                    ],
+                    [
+                        5.7001235,
+                        45.2126172
+                    ],
+                    [
+                        5.7001698,
+                        45.2126331
+                    ],
+                    [
+                        5.7002278,
+                        45.212656
+                    ],
+                    [
+                        5.700364,
+                        45.212725
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue de l'Is\u00e8re",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10713531,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6989665,
+                        45.2116217
+                    ],
+                    [
+                        5.69952,
+                        45.2122904
+                    ],
+                    [
+                        5.6995429,
+                        45.2123835
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "unclassified",
+                "name": "Rue de l'Is\u00e8re",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

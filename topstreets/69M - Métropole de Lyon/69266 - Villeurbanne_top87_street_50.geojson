@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29205082,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8851468,
+                        45.7712594
+                    ],
+                    [
+                        4.8851363,
+                        45.7712019
+                    ],
+                    [
+                        4.8851339,
+                        45.7711886
+                    ],
+                    [
+                        4.8851314,
+                        45.771174
+                    ],
+                    [
+                        4.8849986,
+                        45.7704058
+                    ],
+                    [
+                        4.8849629,
+                        45.7702633
+                    ],
+                    [
+                        4.8849457,
+                        45.7701571
+                    ],
+                    [
+                        4.8848307,
+                        45.7695232
+                    ],
+                    [
+                        4.8848237,
+                        45.7694846
+                    ],
+                    [
+                        4.8847977,
+                        45.7693418
+                    ],
+                    [
+                        4.8847911,
+                        45.7693058
+                    ],
+                    [
+                        4.884759,
+                        45.7691387
+                    ],
+                    [
+                        4.8847451,
+                        45.7690667
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue du Commandant L'Herminier",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128930529,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8847451,
+                        45.7690667
+                    ],
+                    [
+                        4.8845096,
+                        45.7689496
+                    ],
+                    [
+                        4.8843561,
+                        45.7687187
+                    ],
+                    [
+                        4.884307,
+                        45.7686448
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "tertiary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue du Commandant L'Herminier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128930536,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8845009,
+                        45.7686124
+                    ],
+                    [
+                        4.8845301,
+                        45.768682
+                    ],
+                    [
+                        4.8847184,
+                        45.7689794
+                    ],
+                    [
+                        4.8847451,
+                        45.7690667
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue du Commandant L'Herminier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

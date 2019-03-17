@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 167039684,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1131956,
+                        45.7931179
+                    ],
+                    [
+                        3.1132322,
+                        45.7931182
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Rue Notre-Dame",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180805441,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.113292,
+                        45.7931187
+                    ],
+                    [
+                        3.1138372,
+                        45.7931234
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Notre-Dame",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180805442,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1132322,
+                        45.7931182
+                    ],
+                    [
+                        3.113292,
+                        45.7931187
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "incline": "up",
+                "name": "Rue Notre-Dame",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

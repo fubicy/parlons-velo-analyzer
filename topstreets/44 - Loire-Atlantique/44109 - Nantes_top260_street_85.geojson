@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 517020585,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.552883,
+                        47.2522654
+                    ],
+                    [
+                        -1.5527073,
+                        47.2522363
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Recteur Schmitt",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "RTSC3",
+                "tactile_paving": "no",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 517020586,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5527489,
+                        47.2523332
+                    ],
+                    [
+                        -1.5529494,
+                        47.2523742
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Recteur Schmitt",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "RTSC4",
+                "tactile_paving": "no",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 517020588,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5529849,
+                        47.2529049
+                    ],
+                    [
+                        -1.5528756,
+                        47.2531912
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Recteur Schmitt",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:Lila": "LILNav2449",
+                "ref:TAN": "RTSC5",
+                "tactile_paving": "yes",
+                "wheelchair": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 517020589,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5532444,
+                        47.2528603
+                    ],
+                    [
+                        -1.5532981,
+                        47.2527328
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Recteur Schmitt",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:Lila": "LILNav2446",
+                "ref:TAN": "RTSC6",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 162938345,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8718407,
+                        43.611942
+                    ],
+                    [
+                        3.8710622,
+                        43.6120029
+                    ],
+                    [
+                        3.8704661,
+                        43.6120488
+                    ],
+                    [
+                        3.869501,
+                        43.6121199
+                    ],
+                    [
+                        3.8683642,
+                        43.6122075
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Pitot",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162938356,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8683642,
+                        43.6122075
+                    ],
+                    [
+                        3.8682104,
+                        43.6122454
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Pitot",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

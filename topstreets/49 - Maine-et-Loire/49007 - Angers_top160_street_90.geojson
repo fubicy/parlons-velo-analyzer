@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31050264,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5638873,
+                        47.4635477
+                    ],
+                    [
+                        -0.5638241,
+                        47.4634825
+                    ],
+                    [
+                        -0.5637519,
+                        47.463408
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxheight": "4.6",
+                "maxspeed": "50",
+                "name": "Pont Noir",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 182986699,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5637519,
+                        47.463408
+                    ],
+                    [
+                        -0.5628099,
+                        47.4624363
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxheight": "4.6",
+                "maxspeed": "50",
+                "name": "Pont Noir",
+                "oneway": "no",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

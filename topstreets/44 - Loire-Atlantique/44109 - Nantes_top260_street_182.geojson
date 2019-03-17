@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 143313789,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5612782,
+                        47.2250709
+                    ],
+                    [
+                        -1.5596625,
+                        47.2256913
+                    ],
+                    [
+                        -1.5595577,
+                        47.2257317
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Molac",
+                "oneway": "yes",
+                "parking:condition:left": "free",
+                "parking:lane:left": "parallel",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

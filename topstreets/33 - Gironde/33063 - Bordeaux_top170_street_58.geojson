@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 47440766,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5679807,
+                        44.8354599
+                    ],
+                    [
+                        -0.5679803,
+                        44.8353327
+                    ],
+                    [
+                        -0.5679491,
+                        44.8349953
+                    ],
+                    [
+                        -0.5678914,
+                        44.834734
+                    ],
+                    [
+                        -0.5678137,
+                        44.8344296
+                    ],
+                    [
+                        -0.5677711,
+                        44.8342031
+                    ],
+                    [
+                        -0.5676405,
+                        44.8338243
+                    ],
+                    [
+                        -0.5672155,
+                        44.8326445
+                    ],
+                    [
+                        -0.5671965,
+                        44.8325918
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "name": "Rue des Menuts",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 625562680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5680732,
+                        44.835668
+                    ],
+                    [
+                        -0.5680476,
+                        44.8356126
+                    ],
+                    [
+                        -0.5680346,
+                        44.8355823
+                    ],
+                    [
+                        -0.5679807,
+                        44.8354599
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "name": "Rue des Menuts",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 434996686,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3545549,
+                        43.374089
+                    ],
+                    [
+                        5.354575,
+                        43.37397
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Saint-Antoine",
+                "network": "Bus de l'\u00c9tang",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

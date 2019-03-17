@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 254419200,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3474356,
+                        48.817464
+                    ],
+                    [
+                        2.3475053,
+                        48.8175554
+                    ],
+                    [
+                        2.3477891,
+                        48.8179278
+                    ],
+                    [
+                        2.3480706,
+                        48.818297
+                    ],
+                    [
+                        2.3483154,
+                        48.8186182
+                    ],
+                    [
+                        2.3484597,
+                        48.8188075
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "All\u00e9e de l'Ouest",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2013",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 391414879,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3983395,
+                        48.8304143
+                    ],
+                    [
+                        2.3985401,
+                        48.8305498
+                    ],
+                    [
+                        2.3988959,
+                        48.8307909
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "footway",
+                "name": "All\u00e9e de l'Ouest",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "source:name": "survey",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

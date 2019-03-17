@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 150259184,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3403741,
+                        47.7426434
+                    ],
+                    [
+                        7.3411414,
+                        47.7430415
+                    ],
+                    [
+                        7.3412775,
+                        47.7431153
+                    ],
+                    [
+                        7.3413064,
+                        47.7431319
+                    ],
+                    [
+                        7.3414307,
+                        47.7431975
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue du 17 Novembre",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

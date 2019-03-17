@@ -1,0 +1,255 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22973383,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3532775,
+                        48.8560329
+                    ],
+                    [
+                        2.3532263,
+                        48.85594
+                    ],
+                    [
+                        2.3531945,
+                        48.8558823
+                    ],
+                    [
+                        2.3531699,
+                        48.8558376
+                    ],
+                    [
+                        2.3531053,
+                        48.8557203
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Lobau",
+                "surface": "asphalt",
+                "wikidata": "Q3450821",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83268801,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3538553,
+                        48.8569366
+                    ],
+                    [
+                        2.353819,
+                        48.8569078
+                    ],
+                    [
+                        2.3537479,
+                        48.8568525
+                    ],
+                    [
+                        2.3536963,
+                        48.8568121
+                    ],
+                    [
+                        2.3535321,
+                        48.8565066
+                    ],
+                    [
+                        2.3533145,
+                        48.8561017
+                    ],
+                    [
+                        2.3532775,
+                        48.8560329
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue de Lobau",
+                "surface": "asphalt",
+                "wikidata": "Q3450821",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 361292433,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3528558,
+                        48.8552984
+                    ],
+                    [
+                        2.3529333,
+                        48.8554295
+                    ],
+                    [
+                        2.3529701,
+                        48.8554916
+                    ],
+                    [
+                        2.3531053,
+                        48.8557203
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Lobau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3450821",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 361292435,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3531053,
+                        48.8557203
+                    ],
+                    [
+                        2.3528721,
+                        48.8554818
+                    ],
+                    [
+                        2.3528417,
+                        48.8554635
+                    ],
+                    [
+                        2.3527843,
+                        48.8554277
+                    ],
+                    [
+                        2.3527189,
+                        48.8554035
+                    ],
+                    [
+                        2.3526096,
+                        48.8553939
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Lobau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3450821",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 411289534,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.353025,
+                        48.8553957
+                    ],
+                    [
+                        2.3530589,
+                        48.855458
+                    ],
+                    [
+                        2.3529701,
+                        48.8554916
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "sidewalk",
+                "highway": "cycleway",
+                "name": "Rue de Lobau",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 411289536,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3529521,
+                        48.8552599
+                    ],
+                    [
+                        2.353025,
+                        48.8553957
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "sidewalk",
+                "highway": "cycleway",
+                "name": "Rue de Lobau",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516413084,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3525403,
+                        48.8553103
+                    ],
+                    [
+                        2.3528558,
+                        48.8552984
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Lobau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

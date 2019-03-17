@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 50737093,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0204905,
+                        47.2343601
+                    ],
+                    [
+                        6.020534,
+                        47.2344416
+                    ],
+                    [
+                        6.0209373,
+                        47.234934
+                    ],
+                    [
+                        6.0211058,
+                        47.2351614
+                    ],
+                    [
+                        6.0211786,
+                        47.235282
+                    ],
+                    [
+                        6.0212446,
+                        47.2353871
+                    ],
+                    [
+                        6.0212547,
+                        47.2354053
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Place Saint-Jacques",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

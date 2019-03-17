@@ -1,0 +1,144 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28895412,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3974926,
+                        45.4402681
+                    ],
+                    [
+                        4.3974123,
+                        45.4402142
+                    ],
+                    [
+                        4.3972261,
+                        45.4401517
+                    ],
+                    [
+                        4.3966721,
+                        45.439912
+                    ],
+                    [
+                        4.3965526,
+                        45.4398721
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Avenue Denfert Rochereau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44153966,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3977258,
+                        45.4403137
+                    ],
+                    [
+                        4.3977765,
+                        45.4403761
+                    ],
+                    [
+                        4.3978317,
+                        45.4404877
+                    ],
+                    [
+                        4.3985987,
+                        45.4418016
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Avenue Denfert Rochereau",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44153967,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3985987,
+                        45.4418016
+                    ],
+                    [
+                        4.3989272,
+                        45.4424643
+                    ],
+                    [
+                        4.399112,
+                        45.442812
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Avenue Denfert Rochereau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 506239354,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3977258,
+                        45.4403137
+                    ],
+                    [
+                        4.3976375,
+                        45.4402746
+                    ],
+                    [
+                        4.397561,
+                        45.4402637
+                    ],
+                    [
+                        4.3974926,
+                        45.4402681
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Avenue Denfert Rochereau",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

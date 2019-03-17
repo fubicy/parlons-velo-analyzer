@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 144943799,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6608458,
+                        48.5372815
+                    ],
+                    [
+                        2.6612195,
+                        48.5379036
+                    ],
+                    [
+                        2.661678,
+                        48.5386669
+                    ],
+                    [
+                        2.6618751,
+                        48.538995
+                    ],
+                    [
+                        2.6619126,
+                        48.5390551
+                    ],
+                    [
+                        2.6619972,
+                        48.5391126
+                    ],
+                    [
+                        2.6621221,
+                        48.5391408
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Boulevard Gambetta",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145614641,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6606673,
+                        48.5370033
+                    ],
+                    [
+                        2.6607128,
+                        48.5370757
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "name": "Boulevard Gambetta",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "turn:lanes": "left|through|through|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264813438,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6607128,
+                        48.5370757
+                    ],
+                    [
+                        2.6607613,
+                        48.5371506
+                    ],
+                    [
+                        2.6608458,
+                        48.5372815
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Gambetta",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

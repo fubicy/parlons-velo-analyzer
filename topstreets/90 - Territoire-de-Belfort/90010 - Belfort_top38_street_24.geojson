@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29261265,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.8524989,
+                        47.6353255
+                    ],
+                    [
+                        6.8528139,
+                        47.6354599
+                    ],
+                    [
+                        6.8528372,
+                        47.6354698
+                    ],
+                    [
+                        6.8529054,
+                        47.6354989
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "busway": "opposite_lane",
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Michelet",
+                "oneway": "yes",
+                "ref": "D 483",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

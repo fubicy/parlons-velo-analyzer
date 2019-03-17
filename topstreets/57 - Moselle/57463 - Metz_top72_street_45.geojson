@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 14962408,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1724168,
+                        49.1139224
+                    ],
+                    [
+                        6.1724434,
+                        49.1139071
+                    ],
+                    [
+                        6.172508,
+                        49.1138699
+                    ],
+                    [
+                        6.1725275,
+                        49.1138591
+                    ],
+                    [
+                        6.1732643,
+                        49.113452
+                    ],
+                    [
+                        6.1733006,
+                        49.1134319
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Rue Paul Schmitt",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Paul-Joseph Schmitt",
+                "old_name": "Rue Sainte-Glossinde",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "574636250V",
+                "source": "http://tout-metz.com/nouvelles-denominations-rues-voies-publiques-metz-2011-166.php",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

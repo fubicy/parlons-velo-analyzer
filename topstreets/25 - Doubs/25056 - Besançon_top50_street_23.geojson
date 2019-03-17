@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32285433,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0163888,
+                        47.2411552
+                    ],
+                    [
+                        6.0165861,
+                        47.2409991
+                    ],
+                    [
+                        6.0167274,
+                        47.2409111
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue du Petit Charmont",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397942538,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0167274,
+                        47.2409111
+                    ],
+                    [
+                        6.0169598,
+                        47.2407668
+                    ],
+                    [
+                        6.0170686,
+                        47.2407336
+                    ],
+                    [
+                        6.0171546,
+                        47.2407149
+                    ],
+                    [
+                        6.0172966,
+                        47.2407112
+                    ],
+                    [
+                        6.017531,
+                        47.2407386
+                    ],
+                    [
+                        6.0179823,
+                        47.2409432
+                    ],
+                    [
+                        6.0181117,
+                        47.2409875
+                    ],
+                    [
+                        6.0182368,
+                        47.2409805
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue du Petit Charmont",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

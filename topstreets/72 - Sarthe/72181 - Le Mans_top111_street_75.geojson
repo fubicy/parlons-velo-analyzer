@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25075972,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1965652,
+                        47.994491
+                    ],
+                    [
+                        0.1965832,
+                        47.9945165
+                    ],
+                    [
+                        0.1966025,
+                        47.9945503
+                    ],
+                    [
+                        0.1966129,
+                        47.9945719
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Rue d'Alsace",
+                "oneway": "no",
+                "source": "source : Direction g\u00e9n\u00e9rale des imp\u00f4ts \u2013 Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25076472,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1960632,
+                        47.9960736
+                    ],
+                    [
+                        0.1961185,
+                        47.9959804
+                    ],
+                    [
+                        0.1962398,
+                        47.9956092
+                    ],
+                    [
+                        0.1963995,
+                        47.9951461
+                    ],
+                    [
+                        0.1965934,
+                        47.9946242
+                    ],
+                    [
+                        0.1966129,
+                        47.9945719
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Rue d'Alsace",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "both",
+                "source": "source : Direction g\u00e9n\u00e9rale des imp\u00f4ts \u2013 Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

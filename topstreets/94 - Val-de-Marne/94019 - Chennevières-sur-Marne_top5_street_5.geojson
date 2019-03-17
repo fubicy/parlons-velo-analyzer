@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 343089952,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5450474,
+                        48.7990535
+                    ],
+                    [
+                        2.5449913,
+                        48.7990891
+                    ],
+                    [
+                        2.5447998,
+                        48.7991904
+                    ],
+                    [
+                        2.5446739,
+                        48.7992397
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Route Nationale 4",
+                "oneway": "yes",
+                "ref": "D 4",
+                "source:maxspeed": "FR:urban",
+                "turn:lanes": "left|through|through",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 598605605,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5475002,
+                        48.7975252
+                    ],
+                    [
+                        2.5464424,
+                        48.7981555
+                    ],
+                    [
+                        2.5460226,
+                        48.7984082
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Route Nationale 4",
+                "oneway": "yes",
+                "ref": "D 4",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 615862127,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5454609,
+                        48.798751
+                    ],
+                    [
+                        2.5451504,
+                        48.7989824
+                    ],
+                    [
+                        2.5450474,
+                        48.7990535
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Route Nationale 4",
+                "oneway": "yes",
+                "ref": "D 4",
+                "source:maxspeed": "FR:urban",
+                "turn:lanes": "left|through|through|right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 615862128,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5460226,
+                        48.7984082
+                    ],
+                    [
+                        2.5454609,
+                        48.798751
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Route Nationale 4",
+                "oneway": "yes",
+                "ref": "D 4",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

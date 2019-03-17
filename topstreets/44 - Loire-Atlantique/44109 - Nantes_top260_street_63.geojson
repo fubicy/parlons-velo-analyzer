@@ -1,0 +1,134 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29605061,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5655597,
+                        47.2144118
+                    ],
+                    [
+                        -1.5642892,
+                        47.2139331
+                    ],
+                    [
+                        -1.5642001,
+                        47.2138995
+                    ],
+                    [
+                        -1.5641482,
+                        47.2138799
+                    ],
+                    [
+                        -1.5640822,
+                        47.2138552
+                    ],
+                    [
+                        -1.5638714,
+                        47.2137765
+                    ],
+                    [
+                        -1.562868,
+                        47.2133926
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Racine",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51193288,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.562868,
+                        47.2133926
+                    ],
+                    [
+                        -1.5627238,
+                        47.2133481
+                    ],
+                    [
+                        -1.5626629,
+                        47.2133258
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "lanes": "2",
+                "lit": "yes",
+                "name": "Rue Racine",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142974669,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5662328,
+                        47.2145925
+                    ],
+                    [
+                        -1.5660454,
+                        47.214537
+                    ],
+                    [
+                        -1.5658002,
+                        47.2145034
+                    ],
+                    [
+                        -1.5655597,
+                        47.2144118
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "11",
+                "boundary": "administrative",
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Racine",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

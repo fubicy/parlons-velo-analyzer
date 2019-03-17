@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7229690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4239823,
+                        43.5965583
+                    ],
+                    [
+                        1.4242321,
+                        43.5957743
+                    ],
+                    [
+                        1.4243632,
+                        43.5954039
+                    ],
+                    [
+                        1.4246698,
+                        43.5945373
+                    ],
+                    [
+                        1.4247401,
+                        43.5943403
+                    ],
+                    [
+                        1.4248549,
+                        43.5940183
+                    ],
+                    [
+                        1.4250515,
+                        43.5934671
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue du Tchad",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

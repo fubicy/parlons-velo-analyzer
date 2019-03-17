@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31526231,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0438038,
+                        49.2476154
+                    ],
+                    [
+                        4.0441528,
+                        49.2469141
+                    ],
+                    [
+                        4.0441945,
+                        49.2468245
+                    ],
+                    [
+                        4.0445924,
+                        49.2459689
+                    ],
+                    [
+                        4.0447335,
+                        49.2457348
+                    ],
+                    [
+                        4.0449543,
+                        49.2452969
+                    ],
+                    [
+                        4.0450246,
+                        49.2451443
+                    ],
+                    [
+                        4.0455068,
+                        49.2441995
+                    ],
+                    [
+                        4.0455212,
+                        49.2441714
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard Victor Hugo",
+                "oneway": "no",
+                "source": "GPS",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31526232,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0438038,
+                        49.2476154
+                    ],
+                    [
+                        4.043748,
+                        49.2478338
+                    ],
+                    [
+                        4.0437924,
+                        49.2479225
+                    ],
+                    [
+                        4.0438348,
+                        49.2479909
+                    ],
+                    [
+                        4.0438609,
+                        49.2480654
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard Victor Hugo",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31526235,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0435748,
+                        49.24802
+                    ],
+                    [
+                        4.0438038,
+                        49.2476154
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard Victor Hugo",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616103640,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.04344,
+                        49.2482347
+                    ],
+                    [
+                        4.0435748,
+                        49.24802
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Victor Hugo",
+                "oneway": "yes",
+                "ref": "N 44",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27448263,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.358579,
+                        48.8036006
+                    ],
+                    [
+                        2.3587006,
+                        48.803594
+                    ],
+                    [
+                        2.3590151,
+                        48.8037294
+                    ],
+                    [
+                        2.3597069,
+                        48.8040667
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Rene Thibert",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61918017,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.36046,
+                        48.8045438
+                    ],
+                    [
+                        2.361904,
+                        48.8051516
+                    ],
+                    [
+                        2.362004,
+                        48.8051815
+                    ],
+                    [
+                        2.3620547,
+                        48.8051985
+                    ],
+                    [
+                        2.3622329,
+                        48.8052585
+                    ],
+                    [
+                        2.3629476,
+                        48.8055198
+                    ],
+                    [
+                        2.3633411,
+                        48.8056615
+                    ],
+                    [
+                        2.3634086,
+                        48.805681
+                    ],
+                    [
+                        2.363448,
+                        48.8056937
+                    ],
+                    [
+                        2.3635308,
+                        48.8057002
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Rene Thibert",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 394632811,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3597069,
+                        48.8040667
+                    ],
+                    [
+                        2.3601288,
+                        48.8042576
+                    ],
+                    [
+                        2.36046,
+                        48.8045438
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Rene Thibert",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

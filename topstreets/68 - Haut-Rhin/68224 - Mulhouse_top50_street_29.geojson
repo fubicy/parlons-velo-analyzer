@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32608217,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3085177,
+                        47.745085
+                    ],
+                    [
+                        7.3092792,
+                        47.7454101
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Vignes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183842528,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3092792,
+                        47.7454101
+                    ],
+                    [
+                        7.3096885,
+                        47.7456242
+                    ],
+                    [
+                        7.3097838,
+                        47.7456892
+                    ],
+                    [
+                        7.3098231,
+                        47.7457625
+                    ],
+                    [
+                        7.309829,
+                        47.7458346
+                    ],
+                    [
+                        7.3097715,
+                        47.7459038
+                    ],
+                    [
+                        7.3096921,
+                        47.7459641
+                    ],
+                    [
+                        7.3096204,
+                        47.7459979
+                    ],
+                    [
+                        7.3095141,
+                        47.7460349
+                    ],
+                    [
+                        7.3086977,
+                        47.7462622
+                    ],
+                    [
+                        7.3086595,
+                        47.7462647
+                    ],
+                    [
+                        7.3086119,
+                        47.7462611
+                    ],
+                    [
+                        7.3085366,
+                        47.746248
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Vignes",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28828158,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3324162,
+                        47.7472993
+                    ],
+                    [
+                        7.3324984,
+                        47.7471742
+                    ],
+                    [
+                        7.3325575,
+                        47.7471263
+                    ],
+                    [
+                        7.3327627,
+                        47.7469602
+                    ],
+                    [
+                        7.3329701,
+                        47.7468388
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de l'Arsenal",
+                "name:gsw": "Zigh\u00fcssgass",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 247314514,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3330902,
+                        47.7471605
+                    ],
+                    [
+                        7.3330354,
+                        47.747105
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue de l'Arsenal",
+                "name:gsw": "Zigh\u00fcssgass",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 275260021,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3327627,
+                        47.7469602
+                    ],
+                    [
+                        7.3328179,
+                        47.7470034
+                    ],
+                    [
+                        7.3330122,
+                        47.7470815
+                    ],
+                    [
+                        7.3330354,
+                        47.747105
+                    ],
+                    [
+                        7.3332724,
+                        47.7470237
+                    ],
+                    [
+                        7.3335313,
+                        47.7474661
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Rue de l'Arsenal",
+                "name:gsw": "Zigh\u00fcssgass",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 329732611,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3335959,
+                        47.7467066
+                    ],
+                    [
+                        7.3343864,
+                        47.7467503
+                    ],
+                    [
+                        7.3350788,
+                        47.746865
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de l'Arsenal",
+                "name:gsw": "Zigh\u00fcssgass",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 528059588,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3329701,
+                        47.7468388
+                    ],
+                    [
+                        7.3330825,
+                        47.746807
+                    ],
+                    [
+                        7.3334049,
+                        47.7467311
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "opposite_track",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de l'Arsenal",
+                "name:gsw": "Zigh\u00fcssgass",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 528059596,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3334049,
+                        47.7467311
+                    ],
+                    [
+                        7.3335959,
+                        47.7467066
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "name": "Rue de l'Arsenal",
+                "name:gsw": "Zigh\u00fcssgass",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

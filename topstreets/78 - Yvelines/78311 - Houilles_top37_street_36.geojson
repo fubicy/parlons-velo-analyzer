@@ -1,0 +1,204 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31193004,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1861218,
+                        48.9183771
+                    ],
+                    [
+                        2.1857827,
+                        48.9182851
+                    ],
+                    [
+                        2.1854406,
+                        48.9181942
+                    ],
+                    [
+                        2.1849976,
+                        48.9181061
+                    ],
+                    [
+                        2.1845347,
+                        48.9180141
+                    ],
+                    [
+                        2.1844439,
+                        48.917996
+                    ],
+                    [
+                        2.1843437,
+                        48.9179768
+                    ],
+                    [
+                        2.1835625,
+                        48.9178282
+                    ],
+                    [
+                        2.183035,
+                        48.917717
+                    ],
+                    [
+                        2.1823508,
+                        48.9175461
+                    ],
+                    [
+                        2.1820678,
+                        48.9174682
+                    ],
+                    [
+                        2.1819647,
+                        48.9174383
+                    ],
+                    [
+                        2.1818749,
+                        48.9174113
+                    ],
+                    [
+                        2.1816809,
+                        48.917353
+                    ],
+                    [
+                        2.1815675,
+                        48.9173136
+                    ],
+                    [
+                        2.1813519,
+                        48.9172433
+                    ],
+                    [
+                        2.1810202,
+                        48.9171216
+                    ],
+                    [
+                        2.1807867,
+                        48.9170369
+                    ],
+                    [
+                        2.1806977,
+                        48.9170057
+                    ],
+                    [
+                        2.1798389,
+                        48.9167029
+                    ],
+                    [
+                        2.1787519,
+                        48.9163197
+                    ],
+                    [
+                        2.1784018,
+                        48.9161976
+                    ],
+                    [
+                        2.1780507,
+                        48.9160775
+                    ],
+                    [
+                        2.1778198,
+                        48.916012
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Avenue Jean-Jacques Rousseau",
+                "ref": "D 311",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 175408629,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1866454,
+                        48.9186142
+                    ],
+                    [
+                        2.1865711,
+                        48.9185743
+                    ],
+                    [
+                        2.1864238,
+                        48.9185041
+                    ],
+                    [
+                        2.1861218,
+                        48.9183771
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "cycleway:right:lane": "advisory",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue Jean-Jacques Rousseau",
+                "oneway": "yes",
+                "ref": "D 311",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 175408630,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1871154,
+                        48.9188435
+                    ],
+                    [
+                        2.1871008,
+                        48.9188416
+                    ],
+                    [
+                        2.1870149,
+                        48.9188302
+                    ],
+                    [
+                        2.1869398,
+                        48.9188066
+                    ],
+                    [
+                        2.1868747,
+                        48.9187698
+                    ],
+                    [
+                        2.1866454,
+                        48.9186142
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue Jean-Jacques Rousseau",
+                "oneway": "yes",
+                "ref": "D 311",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

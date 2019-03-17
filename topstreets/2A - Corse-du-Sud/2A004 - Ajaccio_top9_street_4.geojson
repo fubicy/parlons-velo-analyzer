@@ -1,0 +1,148 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22879236,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.7388626,
+                        41.9267673
+                    ],
+                    [
+                        8.7388445,
+                        41.9266554
+                    ],
+                    [
+                        8.7388054,
+                        41.9264138
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Boulevard Sampiero",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24724374,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.7388054,
+                        41.9264138
+                    ],
+                    [
+                        8.7389529,
+                        41.9266027
+                    ],
+                    [
+                        8.7390503,
+                        41.926668
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Boulevard Sampiero",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159057615,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.7389119,
+                        41.9248819
+                    ],
+                    [
+                        8.7388973,
+                        41.9249507
+                    ],
+                    [
+                        8.7387001,
+                        41.9258811
+                    ],
+                    [
+                        8.738745,
+                        41.9261564
+                    ],
+                    [
+                        8.7388054,
+                        41.9264138
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Sampiero",
+                "oneway": "no",
+                "ref": "D 11",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159144501,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.7394539,
+                        41.9225821
+                    ],
+                    [
+                        8.7393439,
+                        41.9229833
+                    ],
+                    [
+                        8.7390874,
+                        41.923895
+                    ],
+                    [
+                        8.7390189,
+                        41.9242291
+                    ],
+                    [
+                        8.7389119,
+                        41.9248819
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Sampiero",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

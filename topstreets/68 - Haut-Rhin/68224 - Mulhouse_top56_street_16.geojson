@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30691886,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3370795,
+                        47.7473622
+                    ],
+                    [
+                        7.3372272,
+                        47.7475274
+                    ],
+                    [
+                        7.3371919,
+                        47.7476229
+                    ],
+                    [
+                        7.3367167,
+                        47.7479274
+                    ],
+                    [
+                        7.3366152,
+                        47.7479208
+                    ],
+                    [
+                        7.3365202,
+                        47.7479542
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Bons Enfants",
+                "name:gsw": "M\u00fcassbrunnerg\u00e0ssl\u00e0",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30691887,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3365202,
+                        47.7479542
+                    ],
+                    [
+                        7.336433,
+                        47.7478818
+                    ],
+                    [
+                        7.336318,
+                        47.74783
+                    ],
+                    [
+                        7.3361135,
+                        47.747752
+                    ],
+                    [
+                        7.3359993,
+                        47.7479225
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Rue des Bons Enfants",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

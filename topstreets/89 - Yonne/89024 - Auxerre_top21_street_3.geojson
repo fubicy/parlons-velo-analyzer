@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 42673225,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.5786877,
+                        47.7961923
+                    ],
+                    [
+                        3.5786156,
+                        47.7961356
+                    ],
+                    [
+                        3.5785635,
+                        47.7960947
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Pont Paul Bert",
+                "oneway": "no",
+                "ref": "N 151",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42673226,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.5778677,
+                        47.7954756
+                    ],
+                    [
+                        3.577832,
+                        47.7953722
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Pont Paul Bert",
+                "oneway": "no",
+                "ref": "N 151",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223185650,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.5785635,
+                        47.7960947
+                    ],
+                    [
+                        3.578212,
+                        47.7957821
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Paul Bert",
+                "oneway": "no",
+                "ref": "N151",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 280512663,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.5779402,
+                        47.7955403
+                    ],
+                    [
+                        3.5778677,
+                        47.7954756
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Paul Bert",
+                "oneway": "no",
+                "ref": "N 151",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 440671179,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.578212,
+                        47.7957821
+                    ],
+                    [
+                        3.5779402,
+                        47.7955403
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Paul Bert",
+                "oneway": "no",
+                "ref": "N151",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

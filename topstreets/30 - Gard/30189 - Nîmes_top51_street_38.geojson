@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 50088716,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.373786,
+                        43.8025162
+                    ],
+                    [
+                        4.373903,
+                        43.8020575
+                    ],
+                    [
+                        4.373968,
+                        43.8018636
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "name": "Route de N\u00eemes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 224990871,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3740454,
+                        43.8017015
+                    ],
+                    [
+                        4.3743248,
+                        43.801324
+                    ],
+                    [
+                        4.3752271,
+                        43.8001047
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "name": "Route de N\u00eemes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 224990872,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.373968,
+                        43.8018636
+                    ],
+                    [
+                        4.3740454,
+                        43.8017015
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "name": "Route de N\u00eemes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551257551,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.373777,
+                        43.8030029
+                    ],
+                    [
+                        4.3737891,
+                        43.80279
+                    ],
+                    [
+                        4.3737736,
+                        43.8026716
+                    ],
+                    [
+                        4.373786,
+                        43.8025162
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Route de N\u00eemes",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551257552,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.373786,
+                        43.8025162
+                    ],
+                    [
+                        4.3738756,
+                        43.8026232
+                    ],
+                    [
+                        4.3740224,
+                        43.8026999
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Route de N\u00eemes",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26808235,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4858606,
+                        48.7981041
+                    ],
+                    [
+                        2.4858732,
+                        48.7983215
+                    ],
+                    [
+                        2.4858734,
+                        48.7983461
+                    ],
+                    [
+                        2.4858751,
+                        48.7985904
+                    ],
+                    [
+                        2.4858991,
+                        48.7989439
+                    ],
+                    [
+                        2.4859059,
+                        48.7991145
+                    ],
+                    [
+                        2.4859434,
+                        48.8000658
+                    ],
+                    [
+                        2.4859454,
+                        48.8001152
+                    ],
+                    [
+                        2.4860022,
+                        48.8014731
+                    ],
+                    [
+                        2.4860056,
+                        48.8015397
+                    ],
+                    [
+                        2.4860079,
+                        48.8016189
+                    ],
+                    [
+                        2.4860439,
+                        48.8023421
+                    ],
+                    [
+                        2.4860445,
+                        48.8024835
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "name": "Avenue de la R\u00e9publique",
+                "old_name": "Rue Aline",
+                "oneway": "yes",
+                "parking:condition:right": "ticket",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "parallel",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43374287,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4860445,
+                        48.8024835
+                    ],
+                    [
+                        2.4860461,
+                        48.8025506
+                    ],
+                    [
+                        2.4860679,
+                        48.8030442
+                    ],
+                    [
+                        2.4860707,
+                        48.803137
+                    ],
+                    [
+                        2.4860727,
+                        48.8032027
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la R\u00e9publique",
+                "old_name": "Rue Aline",
+                "old_ref": "D 30",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:lane:both": "marked",
+                "ref": "D 287b",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 276294673,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4860727,
+                        48.8032027
+                    ],
+                    [
+                        2.4860761,
+                        48.8032808
+                    ],
+                    [
+                        2.4861346,
+                        48.8043555
+                    ],
+                    [
+                        2.4861272,
+                        48.8044245
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la R\u00e9publique",
+                "old_name": "Rue Aline",
+                "old_ref": "D 30",
+                "oneway": "yes",
+                "parking:condition:right": "ticket",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "marked",
+                "ref": "D 287b",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

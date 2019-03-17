@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 379919603,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8426102,
+                        45.7586824
+                    ],
+                    [
+                        4.8425912,
+                        45.7588221
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Libert\u00e9",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "3297",
+                "route_ref": "C9A:A",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

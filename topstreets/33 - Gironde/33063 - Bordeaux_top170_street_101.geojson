@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25872009,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5658393,
+                        44.8163977
+                    ],
+                    [
+                        -0.5659003,
+                        44.8163864
+                    ],
+                    [
+                        -0.5664188,
+                        44.8163256
+                    ],
+                    [
+                        -0.5676534,
+                        44.8161915
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue d'Aup\u00e9rie",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185675466,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5683424,
+                        44.815856
+                    ],
+                    [
+                        -0.5688305,
+                        44.8156233
+                    ],
+                    [
+                        -0.5688899,
+                        44.815595
+                    ],
+                    [
+                        -0.5698191,
+                        44.8151551
+                    ],
+                    [
+                        -0.5707514,
+                        44.8147142
+                    ],
+                    [
+                        -0.5709411,
+                        44.8146245
+                    ],
+                    [
+                        -0.5710503,
+                        44.8145756
+                    ],
+                    [
+                        -0.5710649,
+                        44.8145145
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue d'Aup\u00e9rie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604385377,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5676534,
+                        44.8161915
+                    ],
+                    [
+                        -0.5682941,
+                        44.8158795
+                    ],
+                    [
+                        -0.5683424,
+                        44.815856
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "name": "Rue d'Aup\u00e9rie",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

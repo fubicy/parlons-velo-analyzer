@@ -1,0 +1,203 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17948812,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0214024,
+                        47.2460475
+                    ],
+                    [
+                        6.0212464,
+                        47.246022
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Rue des Glacis",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32315586,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0203517,
+                        47.2453062
+                    ],
+                    [
+                        6.0204044,
+                        47.2452742
+                    ],
+                    [
+                        6.0204598,
+                        47.2452484
+                    ],
+                    [
+                        6.0215141,
+                        47.2447095
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue des Glacis",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32348099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0201679,
+                        47.2456229
+                    ],
+                    [
+                        6.0201313,
+                        47.2455675
+                    ],
+                    [
+                        6.0201279,
+                        47.2455013
+                    ],
+                    [
+                        6.0201529,
+                        47.245448
+                    ],
+                    [
+                        6.0201719,
+                        47.2454294
+                    ],
+                    [
+                        6.0203517,
+                        47.2453062
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "track",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue des Glacis",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50693830,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0212464,
+                        47.246022
+                    ],
+                    [
+                        6.0210787,
+                        47.2459756
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Rue des Glacis",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149408045,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0215141,
+                        47.2447095
+                    ],
+                    [
+                        6.0215769,
+                        47.244676
+                    ],
+                    [
+                        6.0216236,
+                        47.2446402
+                    ],
+                    [
+                        6.021655,
+                        47.2445994
+                    ],
+                    [
+                        6.021684,
+                        47.2445509
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue des Glacis",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170327384,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0210787,
+                        47.2459756
+                    ],
+                    [
+                        6.0201679,
+                        47.2456229
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue des Glacis",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

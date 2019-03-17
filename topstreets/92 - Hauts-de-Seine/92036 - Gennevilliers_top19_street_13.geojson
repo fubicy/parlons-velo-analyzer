@@ -1,0 +1,219 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27601001,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2941395,
+                        48.9331619
+                    ],
+                    [
+                        2.2942354,
+                        48.9331813
+                    ],
+                    [
+                        2.2943969,
+                        48.9332117
+                    ],
+                    [
+                        2.29522,
+                        48.9333678
+                    ],
+                    [
+                        2.2955908,
+                        48.9334281
+                    ],
+                    [
+                        2.2958698,
+                        48.933459
+                    ],
+                    [
+                        2.295967,
+                        48.9334665
+                    ],
+                    [
+                        2.2960046,
+                        48.9334674
+                    ],
+                    [
+                        2.2960394,
+                        48.9334656
+                    ],
+                    [
+                        2.2960689,
+                        48.9334585
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue Pierre Timbaud",
+                "ref": "D 986",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52902615,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3017126,
+                        48.9332713
+                    ],
+                    [
+                        2.3015893,
+                        48.9332815
+                    ],
+                    [
+                        2.3015213,
+                        48.9332871
+                    ],
+                    [
+                        2.3012795,
+                        48.9333045
+                    ],
+                    [
+                        2.3011071,
+                        48.9333187
+                    ],
+                    [
+                        2.3008946,
+                        48.9333362
+                    ],
+                    [
+                        2.3002241,
+                        48.9333914
+                    ],
+                    [
+                        2.2997636,
+                        48.9334348
+                    ],
+                    [
+                        2.2996278,
+                        48.9334653
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue Pierre Timbaud",
+                "oneway": "yes",
+                "ref": "D 986",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169797436,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2965312,
+                        48.9335478
+                    ],
+                    [
+                        2.2963197,
+                        48.9335246
+                    ],
+                    [
+                        2.2962198,
+                        48.933503
+                    ],
+                    [
+                        2.2961568,
+                        48.9334885
+                    ],
+                    [
+                        2.2960689,
+                        48.9334585
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue Pierre Timbaud",
+                "oneway": "yes",
+                "ref": "D 986",
+                "surface": "paving_stones",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169797437,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2996278,
+                        48.9334653
+                    ],
+                    [
+                        2.2994927,
+                        48.9334815
+                    ],
+                    [
+                        2.299121,
+                        48.9335057
+                    ],
+                    [
+                        2.2985779,
+                        48.9335145
+                    ],
+                    [
+                        2.2980144,
+                        48.9335237
+                    ],
+                    [
+                        2.2970732,
+                        48.9335397
+                    ],
+                    [
+                        2.2969803,
+                        48.9335398
+                    ],
+                    [
+                        2.2965312,
+                        48.9335478
+                    ]
+                ]
+            },
+            "properties": {
+                "electrified": "contact_line",
+                "frequency": "0",
+                "gauge": "1435",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue Pierre Timbaud",
+                "oneway": "yes",
+                "railway": "tram",
+                "ref": "D 986",
+                "start_date": "2012-11-15",
+                "surface": "asphalt",
+                "voltage": "750",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

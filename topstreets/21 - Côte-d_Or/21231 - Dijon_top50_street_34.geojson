@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23361640,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0379317,
+                        47.322109
+                    ],
+                    [
+                        5.0380074,
+                        47.3221851
+                    ],
+                    [
+                        5.0382824,
+                        47.3227507
+                    ],
+                    [
+                        5.0382903,
+                        47.322767
+                    ],
+                    [
+                        5.0383716,
+                        47.3229883
+                    ],
+                    [
+                        5.0384422,
+                        47.3232804
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "emergency": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle": "designated",
+                "name": "Rue des Godrans",
+                "oneway": "yes",
+                "psv": "yes",
+                "surface": "paved",
+                "vehicle": "destination",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121088194,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0384422,
+                        47.3232804
+                    ],
+                    [
+                        5.0384835,
+                        47.3233369
+                    ],
+                    [
+                        5.0386035,
+                        47.3236632
+                    ],
+                    [
+                        5.0386176,
+                        47.3237048
+                    ],
+                    [
+                        5.0387257,
+                        47.3240252
+                    ],
+                    [
+                        5.0388132,
+                        47.32432
+                    ],
+                    [
+                        5.0388256,
+                        47.3243617
+                    ],
+                    [
+                        5.0388415,
+                        47.3244106
+                    ],
+                    [
+                        5.038925,
+                        47.324668
+                    ],
+                    [
+                        5.0389997,
+                        47.3250212
+                    ],
+                    [
+                        5.0390009,
+                        47.3252731
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "private",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Godrans",
+                "surface": "concrete",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

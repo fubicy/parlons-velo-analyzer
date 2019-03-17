@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 159384211,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.300392,
+                        49.8967766
+                    ],
+                    [
+                        2.3003022,
+                        49.896797
+                    ],
+                    [
+                        2.2994617,
+                        49.8969948
+                    ],
+                    [
+                        2.2979875,
+                        49.8973417
+                    ],
+                    [
+                        2.2978654,
+                        49.8973716
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Rue des Francs M\u00fbriers",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left;through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

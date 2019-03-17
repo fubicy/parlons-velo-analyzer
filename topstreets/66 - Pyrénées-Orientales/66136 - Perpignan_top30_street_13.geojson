@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 124765278,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8911378,
+                        42.6919264
+                    ],
+                    [
+                        2.8909935,
+                        42.6914639
+                    ],
+                    [
+                        2.8909833,
+                        42.6914314
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Repos",
+                "name:ca": "Carrer del Rep\u00f2s",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 22-06-2008",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220950634,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8907151,
+                        42.6910512
+                    ],
+                    [
+                        2.890909,
+                        42.6912064
+                    ],
+                    [
+                        2.8909653,
+                        42.6913769
+                    ],
+                    [
+                        2.8909833,
+                        42.6914314
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Repos",
+                "name:ca": "Carrer del Rep\u00f2s",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 22-06-2008",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

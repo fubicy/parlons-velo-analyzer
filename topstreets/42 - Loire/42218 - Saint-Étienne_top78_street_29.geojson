@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28895582,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.388992,
+                        45.4410251
+                    ],
+                    [
+                        4.3888322,
+                        45.4397926
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Louis Braille",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203706418,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3888322,
+                        45.4397926
+                    ],
+                    [
+                        4.3888225,
+                        45.4396997
+                    ],
+                    [
+                        4.3887868,
+                        45.4393575
+                    ],
+                    [
+                        4.3887117,
+                        45.4386369
+                    ],
+                    [
+                        4.3887036,
+                        45.4385591
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "pedestrian",
+                "name": "Rue Louis Braille",
+                "sidewalk": "none",
+                "surface": "concrete",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

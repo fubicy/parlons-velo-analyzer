@@ -12,7 +12,7 @@ Sur l'ensemble du département, il y a eu 1213 réponses dont 678 réponses avec
 |63070 - Ceyrat&nbsp;&#124;&nbsp;<a href='63070 - Ceyrat_top1.md'>Top 10</a>|5|1(20%)|<img src="../../img/bar_0.gif" />&nbsp;1|
 |63075 - Chamalières&nbsp;&#124;&nbsp;<a href='63075 - Chamalières_top7.md'>Top 10</a>|18|8(44%)|<img src="../../img/bar_4.gif" />&nbsp;7|
 |63084 - Chanonat|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
-|63113 - Clermont-Ferrand&nbsp;&#124;&nbsp;<a href='63113 - Clermont-Ferrand_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='63113 - Clermont-Ferrand_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='63113 - Clermont-Ferrand_top50.md'>Top 50</a>|946|588(62%)|<img src="../../img/bar_66.gif" />&nbsp;115|
+|63113 - Clermont-Ferrand&nbsp;&#124;&nbsp;<a href='63113 - Clermont-Ferrand_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='63113 - Clermont-Ferrand_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='63113 - Clermont-Ferrand_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='63113 - Clermont-Ferrand_top115.md'>Top 1000</a>|946|588(62%)|<img src="../../img/bar_66.gif" />&nbsp;115|
 |63124 - Cournon-d'Auvergne&nbsp;&#124;&nbsp;<a href='63124 - Cournon-d_Auvergne_top4.md'>Top 10</a>|14|4(28%)|<img src="../../img/bar_2.gif" />&nbsp;4|
 |63164 - Gerzat|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |63178 - Issoire&nbsp;&#124;&nbsp;<a href='63178 - Issoire_top4.md'>Top 10</a>|20|8(40%)|<img src="../../img/bar_2.gif" />&nbsp;4|

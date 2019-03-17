@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 172090805,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4514592,
+                        43.5292122
+                    ],
+                    [
+                        5.4520368,
+                        43.529285
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "motor_vehicle": "destination",
+                "name": "Rue Portalis",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 327627830,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4520368,
+                        43.529285
+                    ],
+                    [
+                        5.4532012,
+                        43.5294502
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Portalis",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 470036400,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4532012,
+                        43.5294502
+                    ],
+                    [
+                        5.4533196,
+                        43.5294662
+                    ],
+                    [
+                        5.4533861,
+                        43.529489
+                    ],
+                    [
+                        5.4534534,
+                        43.529512
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Portalis",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

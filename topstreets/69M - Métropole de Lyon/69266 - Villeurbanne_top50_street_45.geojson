@@ -1,0 +1,144 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7917430,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8873337,
+                        45.768074
+                    ],
+                    [
+                        4.8873331,
+                        45.7680111
+                    ],
+                    [
+                        4.8871679,
+                        45.7673329
+                    ],
+                    [
+                        4.8870396,
+                        45.7668441
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 473810915,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8870396,
+                        45.7668441
+                    ],
+                    [
+                        4.8869952,
+                        45.7666792
+                    ],
+                    [
+                        4.8867891,
+                        45.765916
+                    ],
+                    [
+                        4.8867155,
+                        45.7656483
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue de France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 473810916,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8867155,
+                        45.7656483
+                    ],
+                    [
+                        4.8865506,
+                        45.7650687
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 473810917,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8865506,
+                        45.7650687
+                    ],
+                    [
+                        4.8865207,
+                        45.7649164
+                    ],
+                    [
+                        4.886523,
+                        45.7648522
+                    ],
+                    [
+                        4.8865434,
+                        45.7647889
+                    ],
+                    [
+                        4.8865663,
+                        45.7647478
+                    ],
+                    [
+                        4.8865839,
+                        45.7647001
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue de France",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25073380,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0853883,
+                        49.4441742
+                    ],
+                    [
+                        1.0855603,
+                        49.4441069
+                    ],
+                    [
+                        1.0857858,
+                        49.4440177
+                    ],
+                    [
+                        1.0866364,
+                        49.4436813
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Crosne",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30995442,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0873472,
+                        49.4433878
+                    ],
+                    [
+                        1.0874298,
+                        49.4433575
+                    ],
+                    [
+                        1.0877313,
+                        49.4432429
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "hgv:forward:conditional": "no @ (length > 7)",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Crosne",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188973382,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0866364,
+                        49.4436813
+                    ],
+                    [
+                        1.0872152,
+                        49.4434462
+                    ],
+                    [
+                        1.0873472,
+                        49.4433878
+                    ]
+                ]
+            },
+            "properties": {
+                "hgv:forward:conditional": "no @ (length > 7)",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Crosne",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

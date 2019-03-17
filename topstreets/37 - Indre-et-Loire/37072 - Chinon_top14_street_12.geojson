@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 404257222,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.2392678,
+                        47.1634145
+                    ],
+                    [
+                        0.2392047,
+                        47.1634565
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Faubourg Saint-Jacques",
+                "network": "Fil Vert",
+                "public_transport": "platform",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 404257223,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.2379776,
+                        47.1626832
+                    ],
+                    [
+                        0.2379133,
+                        47.1625355
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Faubourg Saint-Jacques",
+                "network": "Fil Vert",
+                "public_transport": "platform",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

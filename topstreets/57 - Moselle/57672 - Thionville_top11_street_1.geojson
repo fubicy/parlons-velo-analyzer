@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 65283687,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1628744,
+                        49.3569832
+                    ],
+                    [
+                        6.1629727,
+                        49.3569972
+                    ],
+                    [
+                        6.1630858,
+                        49.3570133
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_track",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Cygne",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153526663,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1630858,
+                        49.3570133
+                    ],
+                    [
+                        6.1631817,
+                        49.3570653
+                    ],
+                    [
+                        6.1632936,
+                        49.3571259
+                    ],
+                    [
+                        6.1634546,
+                        49.3572772
+                    ],
+                    [
+                        6.1634869,
+                        49.3573074
+                    ],
+                    [
+                        6.1641009,
+                        49.3578803
+                    ]
+                ]
+            },
+            "properties": {
+                "abandoned:cycleway:left": "track",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Cygne",
+                "note": "Piste cyclable d\u00e9truite et rendu aux voitures ...",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "parking:lane:left": "no_stopping",
+                "parking:lane:right": "parallel",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233281721,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1641009,
+                        49.3578803
+                    ],
+                    [
+                        6.1642899,
+                        49.3580621
+                    ],
+                    [
+                        6.1643744,
+                        49.3581386
+                    ],
+                    [
+                        6.1644433,
+                        49.3581988
+                    ]
+                ]
+            },
+            "properties": {
+                "abandoned:cycleway:left": "track",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Cygne",
+                "note": "Piste cyclable d\u00e9truite et rendu aux voitures ...",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "parking:lane:left": "no_stopping",
+                "parking:lane:right": "no_stopping",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

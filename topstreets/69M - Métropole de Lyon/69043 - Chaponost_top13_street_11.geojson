@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 74341517,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7595079,
+                        45.7203071
+                    ],
+                    [
+                        4.7595766,
+                        45.72029
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "La Vieille Route",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131199997,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7595766,
+                        45.72029
+                    ],
+                    [
+                        4.7596155,
+                        45.7202795
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "layer": "0",
+                "name": "La Vieille Route",
+                "tunnel": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

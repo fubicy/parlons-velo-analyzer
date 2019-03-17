@@ -1,0 +1,132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25567537,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0881737,
+                        49.4288785
+                    ],
+                    [
+                        1.0891828,
+                        49.4293699
+                    ],
+                    [
+                        1.0896249,
+                        49.4295944
+                    ],
+                    [
+                        1.0900184,
+                        49.4297912
+                    ],
+                    [
+                        1.0905344,
+                        49.4300478
+                    ],
+                    [
+                        1.0905921,
+                        49.4300765
+                    ],
+                    [
+                        1.0906865,
+                        49.4301234
+                    ],
+                    [
+                        1.090768,
+                        49.4301682
+                    ],
+                    [
+                        1.0916822,
+                        49.4306713
+                    ],
+                    [
+                        1.0917246,
+                        49.4306946
+                    ],
+                    [
+                        1.0918094,
+                        49.4307407
+                    ],
+                    [
+                        1.0918837,
+                        49.4307815
+                    ],
+                    [
+                        1.0927189,
+                        49.4312403
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Bammeville",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143946262,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0876619,
+                        49.4284695
+                    ],
+                    [
+                        1.0877772,
+                        49.4285756
+                    ],
+                    [
+                        1.0878419,
+                        49.4286352
+                    ],
+                    [
+                        1.0880902,
+                        49.4288172
+                    ],
+                    [
+                        1.0881089,
+                        49.428831
+                    ],
+                    [
+                        1.0881737,
+                        49.4288785
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "unclassified",
+                "horse": "yes",
+                "lanes": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue de Bammeville",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

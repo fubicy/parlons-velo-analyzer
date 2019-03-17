@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24692343,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3044912,
+                        48.8193056
+                    ],
+                    [
+                        2.3044809,
+                        48.8192559
+                    ],
+                    [
+                        2.3041526,
+                        48.8184442
+                    ],
+                    [
+                        2.3038716,
+                        48.8177724
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:left": "opposite",
+                "foot": "yes",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Benjamin Raspail",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34149657,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3038716,
+                        48.8177724
+                    ],
+                    [
+                        2.3037603,
+                        48.8174993
+                    ],
+                    [
+                        2.3036631,
+                        48.817257
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Benjamin Raspail",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

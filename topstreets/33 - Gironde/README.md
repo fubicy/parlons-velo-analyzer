@@ -17,7 +17,7 @@ Sur l'ensemble du département, il y a eu 2184 réponses dont 1023 réponses ave
 |33051 - Biganos&nbsp;&#124;&nbsp;<a href='33051 - Biganos_top3.md'>Top 10</a>|4|4(100%)|<img src="../../img/bar_0.gif" />&nbsp;3|
 |33052 - Les Billaux&nbsp;&#124;&nbsp;<a href='33052 - Les Billaux_top1.md'>Top 10</a>|1|1(100%)|<img src="../../img/bar_0.gif" />&nbsp;1|
 |33056 - Blanquefort&nbsp;&#124;&nbsp;<a href='33056 - Blanquefort_top3.md'>Top 10</a>|9|3(33%)|<img src="../../img/bar_0.gif" />&nbsp;3|
-|33063 - Bordeaux&nbsp;&#124;&nbsp;<a href='33063 - Bordeaux_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='33063 - Bordeaux_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='33063 - Bordeaux_top50.md'>Top 50</a>|1548|659(42%)|<img src="../../img/bar_47.gif" />&nbsp;170|
+|33063 - Bordeaux&nbsp;&#124;&nbsp;<a href='33063 - Bordeaux_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='33063 - Bordeaux_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='33063 - Bordeaux_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='33063 - Bordeaux_top170.md'>Top 1000</a>|1548|659(42%)|<img src="../../img/bar_47.gif" />&nbsp;170|
 |33069 - Le Bouscat&nbsp;&#124;&nbsp;<a href='33069 - Le Bouscat_top9.md'>Top 10</a>|13|9(69%)|<img src="../../img/bar_2.gif" />&nbsp;9|
 |33075 - Bruges&nbsp;&#124;&nbsp;<a href='33075 - Bruges_top4.md'>Top 10</a>|10|8(80%)|<img src="../../img/bar_1.gif" />&nbsp;4|
 |33080 - Cadaujac|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|

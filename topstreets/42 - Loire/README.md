@@ -24,7 +24,7 @@ Sur l'ensemble du département, il y a eu 954 réponses dont 364 réponses avec 
 |42189 - Roche-la-Molière|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |42200 - Saint-André-le-Puy|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |42207 - Saint-Chamond&nbsp;&#124;&nbsp;<a href='42207 - Saint-Chamond_top7.md'>Top 10</a>|38|14(36%)|<img src="../../img/bar_5.gif" />&nbsp;7|
-|42218 - Saint-Étienne&nbsp;&#124;&nbsp;<a href='42218 - Saint-Étienne_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='42218 - Saint-Étienne_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='42218 - Saint-Étienne_top50.md'>Top 50</a>|673|290(43%)|<img src="../../img/bar_62.gif" />&nbsp;78|
+|42218 - Saint-Étienne&nbsp;&#124;&nbsp;<a href='42218 - Saint-Étienne_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='42218 - Saint-Étienne_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='42218 - Saint-Étienne_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='42218 - Saint-Étienne_top78.md'>Top 1000</a>|673|290(43%)|<img src="../../img/bar_62.gif" />&nbsp;78|
 |42222 - Saint-Galmier|2|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |42223 - Saint-Genest-Lerpt|2|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |42234 - Saint-Héand&nbsp;&#124;&nbsp;<a href='42234 - Saint-Héand_top1.md'>Top 10</a>|1|1(100%)|<img src="../../img/bar_0.gif" />&nbsp;1|

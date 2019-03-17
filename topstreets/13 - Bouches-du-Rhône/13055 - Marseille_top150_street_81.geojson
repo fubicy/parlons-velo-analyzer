@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 272740568,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3946653,
+                        43.2746518
+                    ],
+                    [
+                        5.3945918,
+                        43.27472
+                    ],
+                    [
+                        5.3945338,
+                        43.2747819
+                    ],
+                    [
+                        5.3945689,
+                        43.2749205
+                    ],
+                    [
+                        5.3946136,
+                        43.275018
+                    ],
+                    [
+                        5.3946693,
+                        43.2751018
+                    ],
+                    [
+                        5.3947185,
+                        43.27519
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Traverse de l'Antignane",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 352268342,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3947185,
+                        43.27519
+                    ],
+                    [
+                        5.3948328,
+                        43.27541
+                    ],
+                    [
+                        5.394928,
+                        43.2760553
+                    ],
+                    [
+                        5.3948786,
+                        43.276204
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Traverse de l'Antignane",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

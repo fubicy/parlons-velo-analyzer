@@ -29,7 +29,7 @@ Sur l'ensemble du département, il y a eu 1106 réponses dont 506 réponses avec
 |17286 - Les Portes-en-Ré|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |17291 - Puilboreau&nbsp;&#124;&nbsp;<a href='17291 - Puilboreau_top6.md'>Top 10</a>|29|15(51%)|<img src="../../img/bar_3.gif" />&nbsp;6|
 |17299 - Rochefort&nbsp;&#124;&nbsp;<a href='17299 - Rochefort_top8.md'>Top 10</a>|70|13(18%)|<img src="../../img/bar_5.gif" />&nbsp;8|
-|17300 - La Rochelle&nbsp;&#124;&nbsp;<a href='17300 - La Rochelle_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='17300 - La Rochelle_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='17300 - La Rochelle_top50.md'>Top 50</a>|668|297(44%)|<img src="../../img/bar_52.gif" />&nbsp;82|
+|17300 - La Rochelle&nbsp;&#124;&nbsp;<a href='17300 - La Rochelle_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='17300 - La Rochelle_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='17300 - La Rochelle_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='17300 - La Rochelle_top82.md'>Top 1000</a>|668|297(44%)|<img src="../../img/bar_52.gif" />&nbsp;82|
 |17306 - Royan&nbsp;&#124;&nbsp;<a href='17306 - Royan_top1.md'>Top 10</a>|9|1(11%)|<img src="../../img/bar_0.gif" />&nbsp;1|
 |17347 - Saint-Jean-d'Angély|2|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |17360 - Sainte-Marie-de-Ré|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|

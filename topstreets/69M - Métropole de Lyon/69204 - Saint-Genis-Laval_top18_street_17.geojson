@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5317173,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7949677,
+                        45.6931862
+                    ],
+                    [
+                        4.7947535,
+                        45.6932694
+                    ],
+                    [
+                        4.7942922,
+                        45.6934398
+                    ],
+                    [
+                        4.7938497,
+                        45.6935516
+                    ],
+                    [
+                        4.7936218,
+                        45.6936088
+                    ],
+                    [
+                        4.7934042,
+                        45.6936743
+                    ],
+                    [
+                        4.7932896,
+                        45.6937442
+                    ],
+                    [
+                        4.793202,
+                        45.6938564
+                    ],
+                    [
+                        4.7931497,
+                        45.6940193
+                    ],
+                    [
+                        4.7931264,
+                        45.6940918
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Avenue de la R\u00e9publique",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150713904,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.795198,
+                        45.6931378
+                    ],
+                    [
+                        4.7953611,
+                        45.6931083
+                    ],
+                    [
+                        4.7955843,
+                        45.6930791
+                    ],
+                    [
+                        4.795726,
+                        45.6930885
+                    ],
+                    [
+                        4.7962025,
+                        45.6931457
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de la R\u00e9publique",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

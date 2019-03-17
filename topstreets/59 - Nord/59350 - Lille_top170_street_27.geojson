@@ -1,0 +1,239 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26323370,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0597492,
+                        50.631526
+                    ],
+                    [
+                        3.0598539,
+                        50.6314781
+                    ],
+                    [
+                        3.0604978,
+                        50.6311229
+                    ],
+                    [
+                        3.0606078,
+                        50.6310601
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Place de la R\u00e9publique",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34296136,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1146606,
+                        50.6269953
+                    ],
+                    [
+                        3.1144647,
+                        50.626765
+                    ],
+                    [
+                        3.1144812,
+                        50.6267318
+                    ],
+                    [
+                        3.1145225,
+                        50.6267003
+                    ],
+                    [
+                        3.1146898,
+                        50.6266425
+                    ],
+                    [
+                        3.1148209,
+                        50.6265983
+                    ],
+                    [
+                        3.1149441,
+                        50.6265639
+                    ],
+                    [
+                        3.1150193,
+                        50.6265795
+                    ],
+                    [
+                        3.1152138,
+                        50.6268125
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Place de la R\u00e9publique",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37546439,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0607616,
+                        50.632181
+                    ],
+                    [
+                        3.0599277,
+                        50.6315462
+                    ],
+                    [
+                        3.0599196,
+                        50.6315077
+                    ],
+                    [
+                        3.0599525,
+                        50.6314832
+                    ],
+                    [
+                        3.0606517,
+                        50.6310919
+                    ],
+                    [
+                        3.0611106,
+                        50.6308367
+                    ],
+                    [
+                        3.06189,
+                        50.6304139
+                    ],
+                    [
+                        3.0618986,
+                        50.6304168
+                    ],
+                    [
+                        3.0620349,
+                        50.6304627
+                    ],
+                    [
+                        3.0621938,
+                        50.6305779
+                    ],
+                    [
+                        3.0625474,
+                        50.6308331
+                    ],
+                    [
+                        3.062704,
+                        50.6309496
+                    ],
+                    [
+                        3.0628508,
+                        50.6310223
+                    ],
+                    [
+                        3.0628784,
+                        50.6310368
+                    ],
+                    [
+                        3.0626297,
+                        50.6311812
+                    ],
+                    [
+                        3.0619991,
+                        50.6315243
+                    ],
+                    [
+                        3.0617794,
+                        50.6316563
+                    ],
+                    [
+                        3.0615866,
+                        50.6317688
+                    ],
+                    [
+                        3.0615085,
+                        50.6318076
+                    ],
+                    [
+                        3.0613976,
+                        50.631871
+                    ],
+                    [
+                        3.0608699,
+                        50.632169
+                    ],
+                    [
+                        3.0608156,
+                        50.6321864
+                    ],
+                    [
+                        3.0607616,
+                        50.632181
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Place de la R\u00e9publique",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 565158139,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0615866,
+                        50.6317688
+                    ],
+                    [
+                        3.0606517,
+                        50.6310919
+                    ],
+                    [
+                        3.0606078,
+                        50.6310601
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "horse": "permissive",
+                "lit": "yes",
+                "motor_vehicle": "no",
+                "name": "Place de la R\u00e9publique",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

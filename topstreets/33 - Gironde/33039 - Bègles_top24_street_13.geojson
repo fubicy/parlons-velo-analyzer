@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25945400,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5504205,
+                        44.8056838
+                    ],
+                    [
+                        -0.5504724,
+                        44.8057027
+                    ],
+                    [
+                        -0.5506561,
+                        44.8057488
+                    ],
+                    [
+                        -0.5511302,
+                        44.8058621
+                    ],
+                    [
+                        -0.5511955,
+                        44.8058777
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Delphin Loche",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26193642,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5511955,
+                        44.8058777
+                    ],
+                    [
+                        -0.551336,
+                        44.8059204
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Delphin Loche",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 480665715,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.551336,
+                        44.8059204
+                    ],
+                    [
+                        -0.5514193,
+                        44.8059669
+                    ],
+                    [
+                        -0.5516652,
+                        44.8061044
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Delphin Loche",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 589701062,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5516652,
+                        44.8061044
+                    ],
+                    [
+                        -0.5526559,
+                        44.806911
+                    ],
+                    [
+                        -0.5534009,
+                        44.8075136
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Delphin Loche",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 589701063,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5534009,
+                        44.8075136
+                    ],
+                    [
+                        -0.5534787,
+                        44.8075765
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Delphin Loche",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

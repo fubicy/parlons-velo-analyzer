@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 45520314,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2747585,
+                        48.9079127
+                    ],
+                    [
+                        2.2747232,
+                        48.9078998
+                    ],
+                    [
+                        2.2732505,
+                        48.9073594
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Villa des Couronnes",
+                "source": "Yahoo satellite imagery",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

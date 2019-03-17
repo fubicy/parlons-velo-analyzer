@@ -30,7 +30,7 @@ Sur l'ensemble du département, il y a eu 2126 réponses dont 1473 réponses ave
 |35207 - Noyal-sur-Vilaine&nbsp;&#124;&nbsp;<a href='35207 - Noyal-sur-Vilaine_top2.md'>Top 10</a>|16|5(31%)|<img src="../../img/bar_0.gif" />&nbsp;2|
 |35210 - Pacé|4|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |35236 - Redon&nbsp;&#124;&nbsp;<a href='35236 - Redon_top8.md'>Top 10</a>|70|17(24%)|<img src="../../img/bar_2.gif" />&nbsp;8|
-|35238 - Rennes&nbsp;&#124;&nbsp;<a href='35238 - Rennes_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='35238 - Rennes_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='35238 - Rennes_top50.md'>Top 50</a>|1534|1212(79%)|<img src="../../img/bar_54.gif" />&nbsp;162|
+|35238 - Rennes&nbsp;&#124;&nbsp;<a href='35238 - Rennes_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='35238 - Rennes_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='35238 - Rennes_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='35238 - Rennes_top162.md'>Top 1000</a>|1534|1212(79%)|<img src="../../img/bar_54.gif" />&nbsp;162|
 |35240 - Le Rheu&nbsp;&#124;&nbsp;<a href='35240 - Le Rheu_top6.md'>Top 10</a>|47|14(29%)|<img src="../../img/bar_2.gif" />&nbsp;6|
 |35264 - Saint-Didier|2|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |35278 - Saint-Grégoire&nbsp;&#124;&nbsp;<a href='35278 - Saint-Grégoire_top4.md'>Top 10</a>|8|4(50%)|<img src="../../img/bar_1.gif" />&nbsp;4|

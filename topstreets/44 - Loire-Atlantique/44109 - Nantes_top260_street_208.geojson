@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 143215303,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5571076,
+                        47.2207203
+                    ],
+                    [
+                        -1.5574955,
+                        47.2208203
+                    ],
+                    [
+                        -1.5589796,
+                        47.2212027
+                    ],
+                    [
+                        -1.5590334,
+                        47.2212189
+                    ],
+                    [
+                        -1.5590666,
+                        47.2212245
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Basse Porte",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

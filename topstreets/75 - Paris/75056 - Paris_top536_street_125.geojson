@@ -1,0 +1,113 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039550,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3483518,
+                        48.8557219
+                    ],
+                    [
+                        2.3483197,
+                        48.8556672
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de la Cit\u00e9",
+                "name:fr": "Rue de la Cit\u00e9",
+                "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0421\u0438\u0442\u0435",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 290820396,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3483197,
+                        48.8556672
+                    ],
+                    [
+                        2.348289,
+                        48.8556145
+                    ],
+                    [
+                        2.3482801,
+                        48.8555993
+                    ],
+                    [
+                        2.3478021,
+                        48.8547793
+                    ],
+                    [
+                        2.3474767,
+                        48.8542212
+                    ],
+                    [
+                        2.3474392,
+                        48.8541568
+                    ],
+                    [
+                        2.347427,
+                        48.854137
+                    ],
+                    [
+                        2.3474111,
+                        48.8541113
+                    ],
+                    [
+                        2.3473857,
+                        48.8540655
+                    ],
+                    [
+                        2.3473522,
+                        48.8540077
+                    ],
+                    [
+                        2.3473346,
+                        48.8539819
+                    ],
+                    [
+                        2.3471554,
+                        48.8536701
+                    ],
+                    [
+                        2.3471014,
+                        48.8535774
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de la Cit\u00e9",
+                "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0421\u0438\u0442\u0435",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3451377",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

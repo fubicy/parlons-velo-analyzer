@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37998699,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.359965,
+                        48.6895238
+                    ],
+                    [
+                        -1.3600783,
+                        48.6894935
+                    ],
+                    [
+                        -1.3637875,
+                        48.6890851
+                    ],
+                    [
+                        -1.3651976,
+                        48.6886205
+                    ],
+                    [
+                        -1.3653807,
+                        48.6884896
+                    ],
+                    [
+                        -1.3655202,
+                        48.6883215
+                    ],
+                    [
+                        -1.3655735,
+                        48.6881565
+                    ],
+                    [
+                        -1.3655827,
+                        48.6880508
+                    ],
+                    [
+                        -1.3655608,
+                        48.6879182
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Rue Nationale",
+                "ref": "D 7",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135548893,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.363159,
+                        48.6864638
+                    ],
+                    [
+                        -1.3631658,
+                        48.6864209
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Nationale",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

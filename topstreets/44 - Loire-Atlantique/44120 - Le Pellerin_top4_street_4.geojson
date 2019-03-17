@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40912327,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7591558,
+                        47.201384
+                    ],
+                    [
+                        -1.7592823,
+                        47.2016827
+                    ],
+                    [
+                        -1.7594849,
+                        47.2021135
+                    ],
+                    [
+                        -1.7595286,
+                        47.2022246
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Place du Champ de Foire",
+                "source": "Yahoo",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40912332,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7595286,
+                        47.2022246
+                    ],
+                    [
+                        -1.7588028,
+                        47.2022374
+                    ],
+                    [
+                        -1.7582959,
+                        47.202254
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place du Champ de Foire",
+                "zone:maxspeed": "FR:30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40912333,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7588028,
+                        47.2022374
+                    ],
+                    [
+                        -1.7587847,
+                        47.2019738
+                    ],
+                    [
+                        -1.7587768,
+                        47.2018167
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Place du Champ de Foire",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205347902,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7595286,
+                        47.2022246
+                    ],
+                    [
+                        -1.7596006,
+                        47.2023295
+                    ],
+                    [
+                        -1.7595929,
+                        47.2025916
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place du Champ de Foire",
+                "source": "Yahoo",
+                "zone:maxspeed": "FR:30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

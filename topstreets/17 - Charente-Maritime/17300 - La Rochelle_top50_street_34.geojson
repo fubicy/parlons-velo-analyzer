@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18886552,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1539224,
+                        46.156687
+                    ],
+                    [
+                        -1.1538136,
+                        46.1568371
+                    ],
+                    [
+                        -1.1531206,
+                        46.1577929
+                    ],
+                    [
+                        -1.1530793,
+                        46.1578796
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "foot": "yes",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Cours des Dames",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18886588,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1542674,
+                        46.1560636
+                    ],
+                    [
+                        -1.1542559,
+                        46.1561152
+                    ],
+                    [
+                        -1.1542236,
+                        46.1562222
+                    ],
+                    [
+                        -1.1541978,
+                        46.1562918
+                    ],
+                    [
+                        -1.1541849,
+                        46.1563265
+                    ],
+                    [
+                        -1.1540673,
+                        46.1564879
+                    ],
+                    [
+                        -1.1539224,
+                        46.156687
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "footway",
+                "name": "Cours des Dames",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23004807,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1544663,
+                        46.1567006
+                    ],
+                    [
+                        -1.1543284,
+                        46.1566944
+                    ],
+                    [
+                        -1.1540892,
+                        46.1569388
+                    ],
+                    [
+                        -1.1538539,
+                        46.1572107
+                    ],
+                    [
+                        -1.1534664,
+                        46.1577469
+                    ],
+                    [
+                        -1.1534644,
+                        46.1578044
+                    ],
+                    [
+                        -1.1534861,
+                        46.1578537
+                    ],
+                    [
+                        -1.1535043,
+                        46.1578878
+                    ],
+                    [
+                        -1.153607,
+                        46.1580298
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Cours des Dames",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

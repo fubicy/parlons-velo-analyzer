@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4228837,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0554199,
+                        45.0479582
+                    ],
+                    [
+                        5.055918,
+                        45.048283
+                    ],
+                    [
+                        5.056449,
+                        45.0486292
+                    ],
+                    [
+                        5.0566696,
+                        45.0487731
+                    ],
+                    [
+                        5.0568536,
+                        45.0489571
+                    ],
+                    [
+                        5.0569226,
+                        45.049279
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "layer": "2",
+                "maxspeed": "50",
+                "name": "Passage Sup\u00e9rieur \u00c9variste Galois",
+                "name:oc": "Passatge Superior \u00c9variste Galois",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4273142,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0548886,
+                        45.0475416
+                    ],
+                    [
+                        5.0550346,
+                        45.0476561
+                    ],
+                    [
+                        5.0554199,
+                        45.0479582
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Passage Sup\u00e9rieur \u00c9variste Galois",
+                "name:oc": "Passatge Superior \u00c9variste Galois",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4273145,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0569226,
+                        45.049279
+                    ],
+                    [
+                        5.0569751,
+                        45.0494839
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Passage Sup\u00e9rieur \u00c9variste Galois",
+                "name:oc": "Passatge Superior \u00c9variste Galois",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397647435,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0550346,
+                        45.0476561
+                    ],
+                    [
+                        5.0547742,
+                        45.0476865
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "no",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Passage Sup\u00e9rieur \u00c9variste Galois",
+                "name:oc": "Passatge Superior \u00c9variste Galois",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

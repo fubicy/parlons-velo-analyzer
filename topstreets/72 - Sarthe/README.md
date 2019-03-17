@@ -14,7 +14,7 @@ Sur l'ensemble du département, il y a eu 802 réponses dont 442 réponses avec 
 |72132 - La Ferté-Bernard&nbsp;&#124;&nbsp;<a href='72132 - La Ferté-Bernard_top4.md'>Top 10</a>|10|5(50%)|<img src="../../img/bar_2.gif" />&nbsp;4|
 |72154 - La Flèche&nbsp;&#124;&nbsp;<a href='72154 - La Flèche_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='72154 - La Flèche_top14.md'>Top 30</a>|74|37(50%)|<img src="../../img/bar_10.gif" />&nbsp;14|
 |72175 - Luché-Pringé|4|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
-|72181 - Le Mans&nbsp;&#124;&nbsp;<a href='72181 - Le Mans_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='72181 - Le Mans_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='72181 - Le Mans_top50.md'>Top 50</a>|685|388(56%)|<img src="../../img/bar_79.gif" />&nbsp;111|
+|72181 - Le Mans&nbsp;&#124;&nbsp;<a href='72181 - Le Mans_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='72181 - Le Mans_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='72181 - Le Mans_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='72181 - Le Mans_top111.md'>Top 1000</a>|685|388(56%)|<img src="../../img/bar_79.gif" />&nbsp;111|
 |72200 - Moncé-en-Belin|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |72257 - Rouillon&nbsp;&#124;&nbsp;<a href='72257 - Rouillon_top1.md'>Top 10</a>|1|1(100%)|<img src="../../img/bar_0.gif" />&nbsp;1|
 |72260 - Ruaudin|2|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|

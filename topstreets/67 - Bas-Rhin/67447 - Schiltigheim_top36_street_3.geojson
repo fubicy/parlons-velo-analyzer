@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4761700,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7503155,
+                        48.6040005
+                    ],
+                    [
+                        7.7501181,
+                        48.6039677
+                    ],
+                    [
+                        7.7499411,
+                        48.6039588
+                    ],
+                    [
+                        7.7499047,
+                        48.603957
+                    ],
+                    [
+                        7.7495502,
+                        48.603963
+                    ],
+                    [
+                        7.7494823,
+                        48.6039686
+                    ],
+                    [
+                        7.7492731,
+                        48.6039859
+                    ],
+                    [
+                        7.7491175,
+                        48.6039988
+                    ],
+                    [
+                        7.7490551,
+                        48.6040095
+                    ],
+                    [
+                        7.7488006,
+                        48.6040531
+                    ],
+                    [
+                        7.7484632,
+                        48.6041096
+                    ],
+                    [
+                        7.7483252,
+                        48.6041356
+                    ],
+                    [
+                        7.748076,
+                        48.6041826
+                    ],
+                    [
+                        7.7478821,
+                        48.6042655
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "maxweight": "10",
+                "name": "Rue de la Mairie",
+                "ref": "D 120",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425777590,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7478821,
+                        48.6042655
+                    ],
+                    [
+                        7.7475498,
+                        48.6044236
+                    ],
+                    [
+                        7.7475027,
+                        48.604441
+                    ],
+                    [
+                        7.7474061,
+                        48.6044766
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "4",
+                "lanes:backward": "1",
+                "lanes:forward": "3",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "maxweight": "10",
+                "name": "Rue de la Mairie",
+                "ref": "D 120",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

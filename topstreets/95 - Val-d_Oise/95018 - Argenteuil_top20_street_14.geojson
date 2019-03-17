@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24440971,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2392129,
+                        48.9599103
+                    ],
+                    [
+                        2.2395985,
+                        48.9599633
+                    ],
+                    [
+                        2.2398389,
+                        48.9599971
+                    ],
+                    [
+                        2.240333,
+                        48.9600328
+                    ],
+                    [
+                        2.2409434,
+                        48.9600998
+                    ],
+                    [
+                        2.2418172,
+                        48.9599856
+                    ],
+                    [
+                        2.2423291,
+                        48.9598953
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Coteaux",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43565186,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2392129,
+                        48.9599103
+                    ],
+                    [
+                        2.2392029,
+                        48.9598142
+                    ],
+                    [
+                        2.2387419,
+                        48.9594542
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Coteaux",
+                "source": "Microsoft Bing Satellite 2011",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

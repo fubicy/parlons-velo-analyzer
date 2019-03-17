@@ -1,0 +1,128 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17410435,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1543825,
+                        48.7964118
+                    ],
+                    [
+                        2.1544227,
+                        48.796353
+                    ],
+                    [
+                        2.1545126,
+                        48.7962112
+                    ],
+                    [
+                        2.1545501,
+                        48.7961511
+                    ],
+                    [
+                        2.1546031,
+                        48.7960889
+                    ],
+                    [
+                        2.1550182,
+                        48.7957704
+                    ],
+                    [
+                        2.155055,
+                        48.7957434
+                    ],
+                    [
+                        2.1552354,
+                        48.7956118
+                    ],
+                    [
+                        2.1555224,
+                        48.7953865
+                    ],
+                    [
+                        2.1555814,
+                        48.795341
+                    ],
+                    [
+                        2.1558798,
+                        48.7951131
+                    ],
+                    [
+                        2.1559187,
+                        48.7950866
+                    ],
+                    [
+                        2.1559771,
+                        48.7950339
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Coste",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129303105,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1559771,
+                        48.7950339
+                    ],
+                    [
+                        2.156074,
+                        48.7949542
+                    ],
+                    [
+                        2.1565618,
+                        48.7945711
+                    ],
+                    [
+                        2.1566342,
+                        48.7945193
+                    ],
+                    [
+                        2.1566694,
+                        48.7944926
+                    ],
+                    [
+                        2.1576266,
+                        48.793768
+                    ],
+                    [
+                        2.1576709,
+                        48.7937362
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Coste",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

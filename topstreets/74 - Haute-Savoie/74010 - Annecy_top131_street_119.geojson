@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 634407445,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1109365,
+                        45.8929914
+                    ],
+                    [
+                        6.11085,
+                        45.8928584
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Barral",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 634407446,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.110976,
+                        45.8925574
+                    ],
+                    [
+                        6.1110994,
+                        45.8927431
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Barral",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

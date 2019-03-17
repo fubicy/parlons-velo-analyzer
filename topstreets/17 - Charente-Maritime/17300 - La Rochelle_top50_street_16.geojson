@@ -1,0 +1,151 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31964799,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1494154,
+                        46.155958
+                    ],
+                    [
+                        -1.1494153,
+                        46.156041
+                    ],
+                    [
+                        -1.1496576,
+                        46.1565822
+                    ],
+                    [
+                        -1.1497403,
+                        46.1567346
+                    ],
+                    [
+                        -1.1499316,
+                        46.157003
+                    ],
+                    [
+                        -1.1499981,
+                        46.1570933
+                    ],
+                    [
+                        -1.1500509,
+                        46.1571742
+                    ],
+                    [
+                        -1.1503321,
+                        46.1576025
+                    ],
+                    [
+                        -1.150562,
+                        46.1579507
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Quai Valin",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 273499560,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1507063,
+                        46.157938
+                    ],
+                    [
+                        -1.1506435,
+                        46.1578604
+                    ],
+                    [
+                        -1.1504196,
+                        46.15762
+                    ],
+                    [
+                        -1.1502906,
+                        46.1574243
+                    ],
+                    [
+                        -1.1501166,
+                        46.1571622
+                    ],
+                    [
+                        -1.1500678,
+                        46.1570864
+                    ],
+                    [
+                        -1.149987,
+                        46.1569828
+                    ],
+                    [
+                        -1.1499368,
+                        46.1569184
+                    ],
+                    [
+                        -1.1497973,
+                        46.156717
+                    ],
+                    [
+                        -1.1496496,
+                        46.1563946
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "tertiary",
+                "name": "Quai Valin",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303944099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1496496,
+                        46.1563946
+                    ],
+                    [
+                        -1.1496575,
+                        46.1559895
+                    ],
+                    [
+                        -1.1496523,
+                        46.1558948
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed:type": "FR:urban",
+                "name": "Quai Valin",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

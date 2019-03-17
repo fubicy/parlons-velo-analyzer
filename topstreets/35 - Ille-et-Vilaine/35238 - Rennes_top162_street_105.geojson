@@ -1,0 +1,113 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5020888,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6777914,
+                        48.1064293
+                    ],
+                    [
+                        -1.6778793,
+                        48.1064266
+                    ],
+                    [
+                        -1.6779222,
+                        48.1064253
+                    ],
+                    [
+                        -1.6784537,
+                        48.1063665
+                    ],
+                    [
+                        -1.6785288,
+                        48.1063576
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Pl\u00e9lo",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 536147386,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6802062,
+                        48.1061222
+                    ],
+                    [
+                        -1.6803072,
+                        48.1061065
+                    ],
+                    [
+                        -1.680416,
+                        48.1060907
+                    ],
+                    [
+                        -1.6806677,
+                        48.106075
+                    ],
+                    [
+                        -1.6807919,
+                        48.1060727
+                    ],
+                    [
+                        -1.6808722,
+                        48.1060946
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "construction",
+                "name": "Rue de Pl\u00e9lo",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 666130714,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6785288,
+                        48.1063576
+                    ],
+                    [
+                        -1.6792223,
+                        48.1062579
+                    ],
+                    [
+                        -1.6795141,
+                        48.1062181
+                    ],
+                    [
+                        -1.6802062,
+                        48.1061222
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue de Pl\u00e9lo",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

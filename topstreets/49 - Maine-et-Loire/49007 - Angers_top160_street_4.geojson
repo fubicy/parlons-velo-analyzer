@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31051141,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5453166,
+                        47.4653403
+                    ],
+                    [
+                        -0.5454649,
+                        47.4653994
+                    ],
+                    [
+                        -0.5468381,
+                        47.4659854
+                    ],
+                    [
+                        -0.5469592,
+                        47.4660431
+                    ],
+                    [
+                        -0.5476771,
+                        47.4663613
+                    ],
+                    [
+                        -0.5480616,
+                        47.4665337
+                    ],
+                    [
+                        -0.5483347,
+                        47.466663
+                    ],
+                    [
+                        -0.5483986,
+                        47.4666932
+                    ],
+                    [
+                        -0.5494348,
+                        47.4671515
+                    ],
+                    [
+                        -0.5503432,
+                        47.4675574
+                    ],
+                    [
+                        -0.550899,
+                        47.4677953
+                    ],
+                    [
+                        -0.5509705,
+                        47.4678321
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Bressigny",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 489138544,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5509705,
+                        47.4678321
+                    ],
+                    [
+                        -0.5509912,
+                        47.4678541
+                    ],
+                    [
+                        -0.5510039,
+                        47.4678888
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Bressigny",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

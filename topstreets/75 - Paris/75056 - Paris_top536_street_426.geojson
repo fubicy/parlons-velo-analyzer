@@ -1,0 +1,210 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 3630655,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3652665,
+                        48.8291869
+                    ],
+                    [
+                        2.3653022,
+                        48.8292536
+                    ],
+                    [
+                        2.3653258,
+                        48.8292977
+                    ],
+                    [
+                        2.3653992,
+                        48.8294349
+                    ],
+                    [
+                        2.3659512,
+                        48.8304532
+                    ],
+                    [
+                        2.3660044,
+                        48.8305397
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Clisson",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4039440,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.367637,
+                        48.8321657
+                    ],
+                    [
+                        2.3675877,
+                        48.8321351
+                    ],
+                    [
+                        2.3668831,
+                        48.8316976
+                    ],
+                    [
+                        2.3663777,
+                        48.8313994
+                    ],
+                    [
+                        2.3662781,
+                        48.8313404
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Clisson",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3447481",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4039918,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.367637,
+                        48.8321657
+                    ],
+                    [
+                        2.3677154,
+                        48.8322088
+                    ],
+                    [
+                        2.3683401,
+                        48.8325524
+                    ],
+                    [
+                        2.3684351,
+                        48.8326046
+                    ],
+                    [
+                        2.3695976,
+                        48.8332461
+                    ],
+                    [
+                        2.369658,
+                        48.8332783
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Clisson",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "wikidata": "Q3447481",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41406021,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3653948,
+                        48.8292326
+                    ],
+                    [
+                        2.365372,
+                        48.8292683
+                    ],
+                    [
+                        2.3654252,
+                        48.8294075
+                    ],
+                    [
+                        2.3653992,
+                        48.8294349
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Rue Clisson",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56065703,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3660044,
+                        48.8305397
+                    ],
+                    [
+                        2.3660575,
+                        48.830618
+                    ],
+                    [
+                        2.3660733,
+                        48.8306452
+                    ],
+                    [
+                        2.3663473,
+                        48.8311476
+                    ],
+                    [
+                        2.366401,
+                        48.8312512
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Clisson",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

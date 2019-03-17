@@ -1,0 +1,161 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 157187629,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8623797,
+                        46.7840737
+                    ],
+                    [
+                        4.8624687,
+                        46.7840922
+                    ],
+                    [
+                        4.8625687,
+                        46.7840723
+                    ],
+                    [
+                        4.8637582,
+                        46.7838378
+                    ],
+                    [
+                        4.863854,
+                        46.7838177
+                    ],
+                    [
+                        4.8639985,
+                        46.783789
+                    ],
+                    [
+                        4.864175,
+                        46.7837555
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Promenade Sainte-Marie",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 667948447,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.861818,
+                        46.7839372
+                    ],
+                    [
+                        4.8623191,
+                        46.784059
+                    ],
+                    [
+                        4.8623797,
+                        46.7840737
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "maxspeed:backward": "30",
+                "maxspeed:forward": "50",
+                "name": "Promenade Sainte-Marie",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 667948448,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8613457,
+                        46.783822
+                    ],
+                    [
+                        4.8616254,
+                        46.7838903
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "maxspeed:forward": "30",
+                "name": "Promenade Sainte-Marie",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 667948449,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8616254,
+                        46.7838903
+                    ],
+                    [
+                        4.8617496,
+                        46.7839206
+                    ],
+                    [
+                        4.861818,
+                        46.7839372
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Promenade Sainte-Marie",
+                "traffic_calming": "hump",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 667948450,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.860499,
+                        46.7836154
+                    ],
+                    [
+                        4.8606377,
+                        46.7836492
+                    ],
+                    [
+                        4.8613457,
+                        46.783822
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Promenade Sainte-Marie",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

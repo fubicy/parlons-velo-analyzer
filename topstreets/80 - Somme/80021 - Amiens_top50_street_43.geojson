@@ -1,0 +1,681 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 211778001,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2805372,
+                        49.8754562
+                    ],
+                    [
+                        2.2808347,
+                        49.8754599
+                    ],
+                    [
+                        2.2810038,
+                        49.8754503
+                    ],
+                    [
+                        2.2813226,
+                        49.8754203
+                    ],
+                    [
+                        2.2815884,
+                        49.8753809
+                    ],
+                    [
+                        2.2817287,
+                        49.8753601
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 269571163,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2666998,
+                        49.8745057
+                    ],
+                    [
+                        2.2669483,
+                        49.8744735
+                    ],
+                    [
+                        2.2671398,
+                        49.8744581
+                    ],
+                    [
+                        2.267323,
+                        49.8744542
+                    ],
+                    [
+                        2.2675887,
+                        49.8744587
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 269571164,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2666998,
+                        49.8745057
+                    ],
+                    [
+                        2.2663711,
+                        49.8746051
+                    ],
+                    [
+                        2.266307,
+                        49.8746244
+                    ],
+                    [
+                        2.2661521,
+                        49.8746613
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Avenue Paul Claudel",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 269571165,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2661521,
+                        49.8746613
+                    ],
+                    [
+                        2.2660079,
+                        49.8746957
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "name": "Avenue Paul Claudel",
+                "oneway": "yes",
+                "ref": "D 8",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 311525362,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2817747,
+                        49.8755885
+                    ],
+                    [
+                        2.2815874,
+                        49.8755789
+                    ],
+                    [
+                        2.2813642,
+                        49.8755528
+                    ],
+                    [
+                        2.2805372,
+                        49.8754562
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Avenue Paul Claudel",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 311525364,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2817287,
+                        49.8753601
+                    ],
+                    [
+                        2.2818653,
+                        49.8753293
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 526476769,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2819479,
+                        49.8755772
+                    ],
+                    [
+                        2.2817747,
+                        49.8755885
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "name": "Avenue Paul Claudel",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547282215,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2699576,
+                        49.874606
+                    ],
+                    [
+                        2.2710269,
+                        49.874676
+                    ],
+                    [
+                        2.2714906,
+                        49.874703
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:both_ways": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547282216,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2694985,
+                        49.874579
+                    ],
+                    [
+                        2.2698258,
+                        49.8745978
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547282217,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2782453,
+                        49.8752379
+                    ],
+                    [
+                        2.2785259,
+                        49.8752629
+                    ],
+                    [
+                        2.2786657,
+                        49.8752756
+                    ],
+                    [
+                        2.2797059,
+                        49.8753821
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:both_ways": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547282218,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2726875,
+                        49.8747756
+                    ],
+                    [
+                        2.2728592,
+                        49.8747866
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547282222,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2684872,
+                        49.8745154
+                    ],
+                    [
+                        2.2688243,
+                        49.8745402
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547282224,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2728592,
+                        49.8747866
+                    ],
+                    [
+                        2.2739621,
+                        49.8748606
+                    ],
+                    [
+                        2.2741789,
+                        49.8748751
+                    ],
+                    [
+                        2.2746674,
+                        49.8749099
+                    ],
+                    [
+                        2.2759357,
+                        49.8750237
+                    ],
+                    [
+                        2.2760697,
+                        49.875037
+                    ],
+                    [
+                        2.2761403,
+                        49.875044
+                    ],
+                    [
+                        2.2765613,
+                        49.8750856
+                    ],
+                    [
+                        2.2768776,
+                        49.8751139
+                    ],
+                    [
+                        2.2770237,
+                        49.8751293
+                    ],
+                    [
+                        2.2780766,
+                        49.8752229
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:both_ways": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547282225,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2698258,
+                        49.8745978
+                    ],
+                    [
+                        2.2698795,
+                        49.8746009
+                    ],
+                    [
+                        2.2699576,
+                        49.874606
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547282226,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2780766,
+                        49.8752229
+                    ],
+                    [
+                        2.2781705,
+                        49.8752313
+                    ],
+                    [
+                        2.2782453,
+                        49.8752379
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547282228,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2675887,
+                        49.8744587
+                    ],
+                    [
+                        2.2678247,
+                        49.8744742
+                    ],
+                    [
+                        2.2684872,
+                        49.8745154
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:both_ways": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547282229,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2688243,
+                        49.8745402
+                    ],
+                    [
+                        2.2694985,
+                        49.874579
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547315660,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2799263,
+                        49.8754024
+                    ],
+                    [
+                        2.2803399,
+                        49.8754395
+                    ],
+                    [
+                        2.2805372,
+                        49.8754562
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547315665,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2797059,
+                        49.8753821
+                    ],
+                    [
+                        2.2799263,
+                        49.8754024
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 638841099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2715852,
+                        49.8747085
+                    ],
+                    [
+                        2.272392,
+                        49.8747555
+                    ],
+                    [
+                        2.2726875,
+                        49.8747756
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:both_ways": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Paul Claudel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

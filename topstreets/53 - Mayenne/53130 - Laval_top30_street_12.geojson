@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8108563,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7704071,
+                        48.0733288
+                    ],
+                    [
+                        -0.7705132,
+                        48.0733357
+                    ],
+                    [
+                        -0.7713861,
+                        48.0732922
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Pont de l'Europe",
+                "oneway": "no",
+                "surface": "asphalt",
+                "wikidata": "Q14628953",
+                "wikipedia": "fr:Pont de l'Europe (Laval)",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377894309,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7713861,
+                        48.0732922
+                    ],
+                    [
+                        -0.7715693,
+                        48.0732831
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "20",
+                "name": "Pont de l'Europe",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

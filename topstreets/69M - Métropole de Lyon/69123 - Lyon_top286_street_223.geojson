@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4997637,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8284205,
+                        45.7530748
+                    ],
+                    [
+                        4.828083,
+                        45.7527156
+                    ],
+                    [
+                        4.8273273,
+                        45.7518829
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Henri IV",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikipedia": "fr:Rue Henri-IV (Lyon)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

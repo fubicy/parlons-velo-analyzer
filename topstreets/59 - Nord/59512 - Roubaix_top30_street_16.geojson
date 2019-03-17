@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 38354576,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1724481,
+                        50.7021279
+                    ],
+                    [
+                        3.1723813,
+                        50.7020981
+                    ],
+                    [
+                        3.1723287,
+                        50.7020655
+                    ],
+                    [
+                        3.1714822,
+                        50.7013352
+                    ],
+                    [
+                        3.1708199,
+                        50.7007611
+                    ],
+                    [
+                        3.170516,
+                        50.7004977
+                    ],
+                    [
+                        3.1695329,
+                        50.6996062
+                    ],
+                    [
+                        3.1689497,
+                        50.6990956
+                    ],
+                    [
+                        3.1680045,
+                        50.698485
+                    ],
+                    [
+                        3.1677171,
+                        50.6983075
+                    ],
+                    [
+                        3.167461,
+                        50.6981494
+                    ],
+                    [
+                        3.1669479,
+                        50.6978326
+                    ],
+                    [
+                        3.1660767,
+                        50.6972851
+                    ],
+                    [
+                        3.1660059,
+                        50.6972241
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de l'Alma",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51045816,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1637859,
+                        50.6952937
+                    ],
+                    [
+                        3.163622,
+                        50.6951639
+                    ],
+                    [
+                        3.1634601,
+                        50.6949562
+                    ],
+                    [
+                        3.1630208,
+                        50.6943514
+                    ],
+                    [
+                        3.1626872,
+                        50.6940341
+                    ],
+                    [
+                        3.1621562,
+                        50.6937893
+                    ],
+                    [
+                        3.1617406,
+                        50.6933963
+                    ],
+                    [
+                        3.1613341,
+                        50.6930119
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue de l'Alma",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 241339234,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1659103,
+                        50.6971623
+                    ],
+                    [
+                        3.1657997,
+                        50.6970841
+                    ],
+                    [
+                        3.1654898,
+                        50.6968514
+                    ],
+                    [
+                        3.1650349,
+                        50.6964851
+                    ],
+                    [
+                        3.1644413,
+                        50.6960071
+                    ],
+                    [
+                        3.1642121,
+                        50.6958151
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "name": "Rue de l'Alma",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 252122239,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1642121,
+                        50.6958151
+                    ],
+                    [
+                        3.1640942,
+                        50.6956497
+                    ],
+                    [
+                        3.1640708,
+                        50.6955398
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "name": "Rue de l'Alma",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 254365371,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1660059,
+                        50.6972241
+                    ],
+                    [
+                        3.1659103,
+                        50.6971623
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "name": "Rue de l'Alma",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

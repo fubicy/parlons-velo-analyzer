@@ -1,0 +1,179 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26998755,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.2315065,
+                        44.090936
+                    ],
+                    [
+                        6.2317602,
+                        44.0909294
+                    ],
+                    [
+                        6.2318388,
+                        44.0909274
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "destination": "Entrages;Les Dourbes",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Boulevard Thiers",
+                "oneway": "yes",
+                "ref": "D 19",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198118852,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.2330632,
+                        44.0906693
+                    ],
+                    [
+                        6.2331783,
+                        44.0906469
+                    ],
+                    [
+                        6.2333526,
+                        44.0906215
+                    ],
+                    [
+                        6.2337159,
+                        44.0905676
+                    ],
+                    [
+                        6.2339553,
+                        44.0905333
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "no",
+                "cycleway:right": "shared_lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Boulevard Thiers",
+                "ref": "D 19",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 369234855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.2318388,
+                        44.0909274
+                    ],
+                    [
+                        6.2317645,
+                        44.0909481
+                    ],
+                    [
+                        6.2316727,
+                        44.0909737
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary_link",
+                "name": "Boulevard Thiers",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 443794564,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.2318388,
+                        44.0909274
+                    ],
+                    [
+                        6.2319312,
+                        44.0909079
+                    ],
+                    [
+                        6.2324208,
+                        44.0908056
+                    ],
+                    [
+                        6.2325279,
+                        44.0907821
+                    ],
+                    [
+                        6.2329119,
+                        44.0907073
+                    ],
+                    [
+                        6.2329672,
+                        44.0906942
+                    ],
+                    [
+                        6.2330632,
+                        44.0906693
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Boulevard Thiers",
+                "ref": "D 19",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 471223854,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.2316727,
+                        44.0909737
+                    ],
+                    [
+                        6.2315292,
+                        44.0910105
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary_link",
+                "name": "Boulevard Thiers",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

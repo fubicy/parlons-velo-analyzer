@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4315982,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.367725,
+                        49.1801572
+                    ],
+                    [
+                        -0.3677104,
+                        49.1800205
+                    ],
+                    [
+                        -0.3676671,
+                        49.1797777
+                    ],
+                    [
+                        -0.3676609,
+                        49.1797416
+                    ],
+                    [
+                        -0.3676553,
+                        49.1797091
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "residential",
+                "name": "Avenue de l'Hippodrome",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13788745,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.369954,
+                        49.1798702
+                    ],
+                    [
+                        -0.369958,
+                        49.1798049
+                    ],
+                    [
+                        -0.3699717,
+                        49.1793418
+                    ],
+                    [
+                        -0.3693942,
+                        49.1791725
+                    ],
+                    [
+                        -0.3691927,
+                        49.1791129
+                    ],
+                    [
+                        -0.3690161,
+                        49.1791093
+                    ],
+                    [
+                        -0.3688433,
+                        49.179116
+                    ],
+                    [
+                        -0.3683843,
+                        49.1791384
+                    ],
+                    [
+                        -0.367867,
+                        49.179176
+                    ],
+                    [
+                        -0.3674525,
+                        49.179207
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "name": "Avenue de l'Hippodrome",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 242694689,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3676553,
+                        49.1797091
+                    ],
+                    [
+                        -0.367609,
+                        49.1794396
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Avenue de l'Hippodrome",
+                "oneway": "yes",
+                "service": "parking_aisle",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

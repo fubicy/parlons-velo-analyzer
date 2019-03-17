@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25964691,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.9038854,
+                        42.6932597
+                    ],
+                    [
+                        2.9028731,
+                        42.6937759
+                    ],
+                    [
+                        2.902426,
+                        42.6940079
+                    ],
+                    [
+                        2.9019652,
+                        42.6942419
+                    ],
+                    [
+                        2.9015316,
+                        42.6945085
+                    ],
+                    [
+                        2.901489,
+                        42.6945347
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Waldeck Rousseau",
+                "name:ca": "Carrer Waldeck-Rousseau",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour :2008",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

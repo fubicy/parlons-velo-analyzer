@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23360790,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0433621,
+                        47.318616
+                    ],
+                    [
+                        5.0423299,
+                        47.3186598
+                    ],
+                    [
+                        5.041254,
+                        47.3188204
+                    ],
+                    [
+                        5.0409707,
+                        47.3188702
+                    ],
+                    [
+                        5.0406236,
+                        47.3189608
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Petit Potet",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

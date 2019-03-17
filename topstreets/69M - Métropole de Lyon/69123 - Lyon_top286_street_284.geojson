@@ -1,0 +1,516 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5936380,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8660556,
+                        45.7592889
+                    ],
+                    [
+                        4.8654378,
+                        45.7592488
+                    ],
+                    [
+                        4.8640665,
+                        45.7591679
+                    ],
+                    [
+                        4.8639532,
+                        45.7591606
+                    ],
+                    [
+                        4.8634343,
+                        45.7591273
+                    ],
+                    [
+                        4.8630376,
+                        45.7591018
+                    ],
+                    [
+                        4.8629592,
+                        45.7590968
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "no",
+                "source": "local survey",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9895521,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8625368,
+                        45.7590788
+                    ],
+                    [
+                        4.8620075,
+                        45.7591087
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9895524,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8625368,
+                        45.7590788
+                    ],
+                    [
+                        4.8626553,
+                        45.7590838
+                    ],
+                    [
+                        4.8628773,
+                        45.7590933
+                    ],
+                    [
+                        4.8629592,
+                        45.7590968
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Georges Pompidou",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19897773,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8678626,
+                        45.7593572
+                    ],
+                    [
+                        4.8679724,
+                        45.7593617
+                    ],
+                    [
+                        4.8687381,
+                        45.7593923
+                    ],
+                    [
+                        4.8692297,
+                        45.7594108
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25049281,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8593954,
+                        45.7588305
+                    ],
+                    [
+                        4.8607891,
+                        45.7589265
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "construction": "tertiary",
+                "highway": "construction",
+                "layer": "-1",
+                "lit": "yes",
+                "maxheight": "4.3",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25049282,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8607745,
+                        45.7589897
+                    ],
+                    [
+                        4.8593883,
+                        45.7589002
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "busway": "lane",
+                "construction": "tertiary",
+                "cycleway": "share_busway",
+                "highway": "construction",
+                "layer": "-1",
+                "maxheight": "4.3",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "yes",
+                "sidewalk": "no",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25049283,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8607891,
+                        45.7589265
+                    ],
+                    [
+                        4.8613345,
+                        45.7589696
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "construction",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131395987,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8660556,
+                        45.7592889
+                    ],
+                    [
+                        4.8670827,
+                        45.75933
+                    ],
+                    [
+                        4.8677559,
+                        45.7593535
+                    ],
+                    [
+                        4.8678626,
+                        45.7593572
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 282444643,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8615137,
+                        45.7589837
+                    ],
+                    [
+                        4.8617257,
+                        45.7589993
+                    ],
+                    [
+                        4.8619025,
+                        45.759014
+                    ],
+                    [
+                        4.8619907,
+                        45.7590209
+                    ],
+                    [
+                        4.8620989,
+                        45.7590338
+                    ],
+                    [
+                        4.8625368,
+                        45.7590788
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 292031447,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8620075,
+                        45.7591087
+                    ],
+                    [
+                        4.8619057,
+                        45.75911
+                    ],
+                    [
+                        4.8617604,
+                        45.7590988
+                    ],
+                    [
+                        4.861669,
+                        45.7590871
+                    ],
+                    [
+                        4.8614997,
+                        45.759066
+                    ],
+                    [
+                        4.861328,
+                        45.7590427
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "yes",
+                "sidewalk": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 292031448,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.861328,
+                        45.7590427
+                    ],
+                    [
+                        4.8611589,
+                        45.7590265
+                    ],
+                    [
+                        4.8607745,
+                        45.7589897
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "construction",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "yes",
+                "sidewalk": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 335893495,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8593883,
+                        45.7589002
+                    ],
+                    [
+                        4.8592668,
+                        45.7588916
+                    ],
+                    [
+                        4.8586876,
+                        45.7588487
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "cycleway": "lane",
+                "highway": "construction",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "yes",
+                "sidewalk": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 643179088,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8587021,
+                        45.75878
+                    ],
+                    [
+                        4.8592773,
+                        45.7588222
+                    ],
+                    [
+                        4.8593954,
+                        45.7588305
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "construction",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 643179092,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8613345,
+                        45.7589696
+                    ],
+                    [
+                        4.8615137,
+                        45.7589837
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Georges Pompidou",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

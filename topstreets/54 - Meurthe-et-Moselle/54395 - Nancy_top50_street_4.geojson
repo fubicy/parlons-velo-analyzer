@@ -1,0 +1,832 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10525218,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1842888,
+                        48.6825654
+                    ],
+                    [
+                        6.1843675,
+                        48.6826365
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "destination:forward": "Office de Tourisme;Radio France Bleu - Sud Lorraine",
+                "highway": "secondary",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15258679,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1842888,
+                        48.6825654
+                    ],
+                    [
+                        6.1836906,
+                        48.6820464
+                    ],
+                    [
+                        6.1834383,
+                        48.6818259
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "destination:forward": "Gendarmerie",
+                "highway": "secondary",
+                "lanes": "4",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes:forward": "through|right",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15258680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1689242,
+                        48.6689026
+                    ],
+                    [
+                        6.1689238,
+                        48.6688777
+                    ],
+                    [
+                        6.1689174,
+                        48.6688544
+                    ],
+                    [
+                        6.1689064,
+                        48.6688312
+                    ],
+                    [
+                        6.1688849,
+                        48.6688046
+                    ],
+                    [
+                        6.1683401,
+                        48.6683137
+                    ],
+                    [
+                        6.1681138,
+                        48.6681032
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "destination:forward": "Vand\u0153uvre;Villers;Technop\u00f4le de Brabois",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15258681,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1800611,
+                        48.6788293
+                    ],
+                    [
+                        6.1799978,
+                        48.6787767
+                    ],
+                    [
+                        6.179937,
+                        48.6787232
+                    ],
+                    [
+                        6.1794691,
+                        48.6783327
+                    ],
+                    [
+                        6.1789589,
+                        48.6778758
+                    ],
+                    [
+                        6.1780193,
+                        48.6770511
+                    ],
+                    [
+                        6.1780087,
+                        48.6770424
+                    ],
+                    [
+                        6.1779308,
+                        48.676976
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15259040,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1858425,
+                        48.6839205
+                    ],
+                    [
+                        6.1855788,
+                        48.6836858
+                    ],
+                    [
+                        6.1855043,
+                        48.6836227
+                    ],
+                    [
+                        6.1853885,
+                        48.683526
+                    ],
+                    [
+                        6.1851939,
+                        48.6833647
+                    ],
+                    [
+                        6.1847164,
+                        48.6829644
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25382012,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1861503,
+                        48.6841876
+                    ],
+                    [
+                        6.1863316,
+                        48.6843596
+                    ],
+                    [
+                        6.1865198,
+                        48.6845233
+                    ],
+                    [
+                        6.1868415,
+                        48.6848008
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149657741,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1843675,
+                        48.6826365
+                    ],
+                    [
+                        6.1844977,
+                        48.6827562
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160102740,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1770484,
+                        48.6761675
+                    ],
+                    [
+                        6.1769385,
+                        48.6760702
+                    ],
+                    [
+                        6.1768001,
+                        48.6759477
+                    ],
+                    [
+                        6.1765858,
+                        48.6757608
+                    ],
+                    [
+                        6.1763922,
+                        48.6756005
+                    ],
+                    [
+                        6.1762684,
+                        48.6755034
+                    ],
+                    [
+                        6.17621,
+                        48.67545
+                    ],
+                    [
+                        6.1761269,
+                        48.6753723
+                    ],
+                    [
+                        6.1759019,
+                        48.6751691
+                    ],
+                    [
+                        6.1758833,
+                        48.6751518
+                    ],
+                    [
+                        6.1758278,
+                        48.675091
+                    ],
+                    [
+                        6.1756694,
+                        48.6749435
+                    ],
+                    [
+                        6.1755974,
+                        48.6748735
+                    ],
+                    [
+                        6.1752137,
+                        48.6745386
+                    ],
+                    [
+                        6.1751857,
+                        48.6745116
+                    ],
+                    [
+                        6.1751266,
+                        48.6744548
+                    ],
+                    [
+                        6.1745822,
+                        48.6739556
+                    ],
+                    [
+                        6.1745187,
+                        48.6738987
+                    ],
+                    [
+                        6.1742586,
+                        48.6736745
+                    ],
+                    [
+                        6.1740588,
+                        48.6735022
+                    ],
+                    [
+                        6.1740414,
+                        48.6734879
+                    ],
+                    [
+                        6.173926,
+                        48.6733791
+                    ],
+                    [
+                        6.173853,
+                        48.6733091
+                    ],
+                    [
+                        6.1733985,
+                        48.6728909
+                    ],
+                    [
+                        6.173225,
+                        48.672733
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Villers;I.N.S.E.E.",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196696537,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1697638,
+                        48.6696095
+                    ],
+                    [
+                        6.1696851,
+                        48.6695366
+                    ],
+                    [
+                        6.1690773,
+                        48.6689977
+                    ],
+                    [
+                        6.1690516,
+                        48.6689748
+                    ],
+                    [
+                        6.1689778,
+                        48.6689288
+                    ],
+                    [
+                        6.1689242,
+                        48.6689026
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200785902,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1815112,
+                        48.6801216
+                    ],
+                    [
+                        6.1813103,
+                        48.6799427
+                    ],
+                    [
+                        6.18057,
+                        48.679268
+                    ],
+                    [
+                        6.1801768,
+                        48.6789076
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 238799582,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1834383,
+                        48.6818259
+                    ],
+                    [
+                        6.1831582,
+                        48.6815616
+                    ],
+                    [
+                        6.1827779,
+                        48.6812498
+                    ],
+                    [
+                        6.1819982,
+                        48.6805505
+                    ],
+                    [
+                        6.1815112,
+                        48.6801216
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 258018532,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1846221,
+                        48.6828758
+                    ],
+                    [
+                        6.1847164,
+                        48.6829644
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323311959,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1844977,
+                        48.6827562
+                    ],
+                    [
+                        6.1846221,
+                        48.6828758
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323311960,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1860023,
+                        48.6840651
+                    ],
+                    [
+                        6.1859112,
+                        48.6839842
+                    ],
+                    [
+                        6.1858425,
+                        48.6839205
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "destination": "Villers;Saurupt",
+                "highway": "secondary",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 326149618,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1801768,
+                        48.6789076
+                    ],
+                    [
+                        6.1800611,
+                        48.6788293
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 410558929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1860023,
+                        48.6840651
+                    ],
+                    [
+                        6.1861188,
+                        48.6841596
+                    ],
+                    [
+                        6.1861503,
+                        48.6841876
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "destination": "Nancy-Centre;Office de Tourisme;Place des Vosges",
+                "destination:symbol": "info;parking",
+                "highway": "tertiary",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604855938,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.173225,
+                        48.672733
+                    ],
+                    [
+                        6.1731117,
+                        48.6726502
+                    ],
+                    [
+                        6.1728941,
+                        48.6724515
+                    ],
+                    [
+                        6.17271,
+                        48.6723079
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604855939,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.17271,
+                        48.6723079
+                    ],
+                    [
+                        6.1726383,
+                        48.6722439
+                    ],
+                    [
+                        6.1724739,
+                        48.6720972
+                    ],
+                    [
+                        6.1723709,
+                        48.6720053
+                    ],
+                    [
+                        6.1722932,
+                        48.671936
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|right",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604855940,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1722932,
+                        48.671936
+                    ],
+                    [
+                        6.1722677,
+                        48.6719133
+                    ],
+                    [
+                        6.1722089,
+                        48.6718321
+                    ],
+                    [
+                        6.1721762,
+                        48.6717869
+                    ],
+                    [
+                        6.1716462,
+                        48.671309
+                    ],
+                    [
+                        6.171605,
+                        48.6712718
+                    ],
+                    [
+                        6.1714292,
+                        48.6711139
+                    ],
+                    [
+                        6.1711761,
+                        48.6708868
+                    ],
+                    [
+                        6.1701193,
+                        48.6699252
+                    ],
+                    [
+                        6.169901,
+                        48.6697313
+                    ],
+                    [
+                        6.1698803,
+                        48.6697129
+                    ],
+                    [
+                        6.1697638,
+                        48.6696095
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 613259616,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1779308,
+                        48.676976
+                    ],
+                    [
+                        6.1778251,
+                        48.6768785
+                    ],
+                    [
+                        6.1775986,
+                        48.676666
+                    ],
+                    [
+                        6.1771738,
+                        48.6762831
+                    ],
+                    [
+                        6.1771211,
+                        48.6762356
+                    ],
+                    [
+                        6.1770484,
+                        48.6761675
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Villers;I.N.S.E.E.;Cit\u00e9 Judiciaire",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Leclerc",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

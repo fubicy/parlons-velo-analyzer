@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 57 réponses dont 59 réponses avec une rue
 
 16 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue de la Mairie | 19 | 33% | <img src="../../img/bar_32.gif" />&nbsp;32%|
-| Rue des Hautes Marches | 10 | 17% | <img src="../../img/bar_16.gif" />&nbsp;16%|
-| Plessis | 9 | 15% | <img src="../../img/bar_15.gif" />&nbsp;15%|
-| Sainte-Anne | 5 | 8% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Place Sainte-Anne | 4 | 7% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Rue de Ligner | 2 | 3% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue du Lieutenant Roze | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue du 11 Novembre 1918 | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue des Montils | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| Rue d'Entraigues | 1 | 1% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| **Total** | 53 | 92% | 89%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue de la Mairie | 19 | <img src="../../img/bar_35.gif" />&nbsp;35%|
+| Rue des Hautes Marches | 10 | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| Plessis | 9 | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| Sainte-Anne | 5 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Place Sainte-Anne | 4 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rue de Ligner | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue du Lieutenant Roze | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Rue du 11 Novembre 1918 | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Rue des Montils | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| Rue d'Entraigues | 1 | <img src="../../img/bar_1.gif" />&nbsp;1%|
+| **Total** | 53 | 100%|

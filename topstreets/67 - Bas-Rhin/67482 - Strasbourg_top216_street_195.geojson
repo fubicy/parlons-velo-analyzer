@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 39657152,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7562453,
+                        48.5824545
+                    ],
+                    [
+                        7.7567068,
+                        48.5823134
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "unclassified",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Pont Saint-Guillaume",
+                "name:de": "Wilhelmsbr\u00fccke",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40472214,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7567068,
+                        48.5823134
+                    ],
+                    [
+                        7.7567246,
+                        48.5823058
+                    ],
+                    [
+                        7.7567671,
+                        48.5822913
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Pont Saint-Guillaume",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

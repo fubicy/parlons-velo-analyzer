@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 429765758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3527424,
+                        43.3365055
+                    ],
+                    [
+                        5.3526499,
+                        43.3365111
+                    ],
+                    [
+                        5.3525488,
+                        43.3365188
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Littoral Cap Janet",
+                "name:oc": "Costiera dau Cap de Joanet",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "no",
+                "source:name:oc": "ieo-bdtopoc",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

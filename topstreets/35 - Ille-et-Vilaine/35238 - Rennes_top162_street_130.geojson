@@ -1,0 +1,195 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23088201,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6867066,
+                        48.1111814
+                    ],
+                    [
+                        -1.6863247,
+                        48.1104029
+                    ],
+                    [
+                        -1.6862762,
+                        48.1103017
+                    ],
+                    [
+                        -1.6862584,
+                        48.1102604
+                    ],
+                    [
+                        -1.6862245,
+                        48.1101776
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "9",
+                "boundary": "administrative",
+                "cycleway": "share_busway",
+                "destination:lanes": "Autres Directions|Vannes;Lorient;Saint-Brieuc|",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Quai d'Ille et Rance",
+                "oneway": "yes",
+                "psv:lanes": "||designated",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes": "slight_left|slight_left;slight_right|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23275091,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6871898,
+                        48.1122519
+                    ],
+                    [
+                        -1.6871558,
+                        48.1121762
+                    ],
+                    [
+                        -1.6871087,
+                        48.112063
+                    ],
+                    [
+                        -1.6870923,
+                        48.1120246
+                    ],
+                    [
+                        -1.6870873,
+                        48.1120128
+                    ],
+                    [
+                        -1.6870427,
+                        48.1119081
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "9",
+                "boundary": "administrative",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Quai d'Ille et Rance",
+                "oneway": "yes",
+                "psv": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188936132,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6862245,
+                        48.1101776
+                    ],
+                    [
+                        -1.6862096,
+                        48.1101235
+                    ],
+                    [
+                        -1.6861948,
+                        48.1100912
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "designated",
+                "foot": "no",
+                "highway": "service",
+                "name": "Quai d'Ille et Rance",
+                "oneway": "yes",
+                "psv": "yes",
+                "sidewalk": "none",
+                "surface": "asphalt",
+                "taxi": "designated",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 315159182,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6870427,
+                        48.1119081
+                    ],
+                    [
+                        -1.6869287,
+                        48.1116407
+                    ],
+                    [
+                        -1.6868786,
+                        48.1115378
+                    ],
+                    [
+                        -1.6868519,
+                        48.1114767
+                    ],
+                    [
+                        -1.6868264,
+                        48.1114175
+                    ],
+                    [
+                        -1.6867888,
+                        48.111338
+                    ],
+                    [
+                        -1.6867772,
+                        48.1113175
+                    ],
+                    [
+                        -1.6867469,
+                        48.1112636
+                    ],
+                    [
+                        -1.6867066,
+                        48.1111814
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "9",
+                "bicycle:lanes": "|designated",
+                "boundary": "administrative",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Quai d'Ille et Rance",
+                "oneway": "yes",
+                "psv:lanes": "|designated",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

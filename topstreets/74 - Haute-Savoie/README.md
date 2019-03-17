@@ -6,7 +6,7 @@ Sur l'ensemble du département, il y a eu 1175 réponses dont 886 réponses avec
 |-------------|-------------|----------------------|-----------------|
 |74007 - Amancy|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |74008 - Ambilly&nbsp;&#124;&nbsp;<a href='74008 - Ambilly_top6.md'>Top 10</a>|10|7(70%)|<img src="../../img/bar_2.gif" />&nbsp;6|
-|74010 - Annecy&nbsp;&#124;&nbsp;<a href='74010 - Annecy_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='74010 - Annecy_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='74010 - Annecy_top50.md'>Top 50</a>|850|770(90%)|<img src="../../img/bar_61.gif" />&nbsp;131|
+|74010 - Annecy&nbsp;&#124;&nbsp;<a href='74010 - Annecy_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='74010 - Annecy_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='74010 - Annecy_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='74010 - Annecy_top131.md'>Top 1000</a>|850|770(90%)|<img src="../../img/bar_61.gif" />&nbsp;131|
 |74012 - Annemasse&nbsp;&#124;&nbsp;<a href='74012 - Annemasse_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='74012 - Annemasse_top15.md'>Top 30</a>|68|31(45%)|<img src="../../img/bar_7.gif" />&nbsp;15|
 |74026 - La Balme-de-Sillingy|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |74042 - Bonneville&nbsp;&#124;&nbsp;<a href='74042 - Bonneville_top2.md'>Top 10</a>|12|2(16%)|<img src="../../img/bar_0.gif" />&nbsp;2|

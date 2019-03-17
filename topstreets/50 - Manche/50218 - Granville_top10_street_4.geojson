@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4944135,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5958044,
+                        48.8371021
+                    ],
+                    [
+                        -1.594533,
+                        48.8373105
+                    ],
+                    [
+                        -1.594159,
+                        48.8373488
+                    ],
+                    [
+                        -1.5939309,
+                        48.8373721
+                    ],
+                    [
+                        -1.5934236,
+                        48.8374102
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Couraye",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165511264,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5934236,
+                        48.8374102
+                    ],
+                    [
+                        -1.5921862,
+                        48.8375031
+                    ],
+                    [
+                        -1.5900251,
+                        48.8376654
+                    ],
+                    [
+                        -1.5897996,
+                        48.8376823
+                    ],
+                    [
+                        -1.5895015,
+                        48.8377066
+                    ],
+                    [
+                        -1.5889972,
+                        48.8377705
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Couraye",
+                "surface": "asphalt",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219156939,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5973256,
+                        48.8371433
+                    ],
+                    [
+                        -1.5972986,
+                        48.8371357
+                    ],
+                    [
+                        -1.5972579,
+                        48.837132
+                    ],
+                    [
+                        -1.5971935,
+                        48.8371239
+                    ],
+                    [
+                        -1.596523,
+                        48.8370972
+                    ],
+                    [
+                        -1.5961131,
+                        48.8370871
+                    ],
+                    [
+                        -1.5958044,
+                        48.8371021
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "20",
+                "name": "Rue Couraye",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2013",
+                "surface": "paving_stones",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        }
+    ]
+}

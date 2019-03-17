@@ -1,0 +1,235 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27160677,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.18022,
+                        49.1087837
+                    ],
+                    [
+                        6.1802885,
+                        49.1088358
+                    ],
+                    [
+                        6.1805136,
+                        49.1089959
+                    ],
+                    [
+                        6.1805557,
+                        49.1090242
+                    ],
+                    [
+                        6.1813665,
+                        49.1095588
+                    ],
+                    [
+                        6.1815445,
+                        49.109669
+                    ],
+                    [
+                        6.1824477,
+                        49.1102571
+                    ],
+                    [
+                        6.1827406,
+                        49.1104408
+                    ],
+                    [
+                        6.1829459,
+                        49.1105376
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue de l'Amphith\u00e9\u00e2tre",
+                "ref": "D 913",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174022125,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1837889,
+                        49.1111172
+                    ],
+                    [
+                        6.1839175,
+                        49.1112063
+                    ],
+                    [
+                        6.1842087,
+                        49.1114079
+                    ],
+                    [
+                        6.1846478,
+                        49.1116984
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "name": "Avenue de l'Amphith\u00e9\u00e2tre",
+                "ref": "D 913",
+                "turn:lanes:backward": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192162661,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1848898,
+                        49.1121991
+                    ],
+                    [
+                        6.1848789,
+                        49.1121247
+                    ],
+                    [
+                        6.1848803,
+                        49.1121169
+                    ],
+                    [
+                        6.1848834,
+                        49.1120647
+                    ],
+                    [
+                        6.1848796,
+                        49.1120171
+                    ],
+                    [
+                        6.18487,
+                        49.1119726
+                    ],
+                    [
+                        6.1848498,
+                        49.1119267
+                    ],
+                    [
+                        6.1848247,
+                        49.111886
+                    ],
+                    [
+                        6.1846478,
+                        49.1116984
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de l'Amphith\u00e9\u00e2tre",
+                "oneway": "yes",
+                "ref": "D 913",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192162662,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1846478,
+                        49.1116984
+                    ],
+                    [
+                        6.1848631,
+                        49.1118068
+                    ],
+                    [
+                        6.1851042,
+                        49.111959
+                    ],
+                    [
+                        6.1851508,
+                        49.1119919
+                    ],
+                    [
+                        6.1851869,
+                        49.1120222
+                    ],
+                    [
+                        6.1852119,
+                        49.1120433
+                    ],
+                    [
+                        6.1852307,
+                        49.1120692
+                    ],
+                    [
+                        6.1852393,
+                        49.1120996
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de l'Amphith\u00e9\u00e2tre",
+                "oneway": "yes",
+                "ref": "D 913",
+                "surface": "asphalt",
+                "turn:lanes": "through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 525455047,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1829459,
+                        49.1105376
+                    ],
+                    [
+                        6.1836093,
+                        49.1109911
+                    ],
+                    [
+                        6.1837889,
+                        49.1111172
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "name": "Avenue de l'Amphith\u00e9\u00e2tre",
+                "ref": "D 913",
+                "turn:lanes:backward": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

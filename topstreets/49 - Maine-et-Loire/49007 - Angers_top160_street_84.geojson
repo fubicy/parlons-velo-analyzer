@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 201274723,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5456868,
+                        47.4674971
+                    ],
+                    [
+                        -0.5457511,
+                        47.4675632
+                    ],
+                    [
+                        -0.5458244,
+                        47.467603
+                    ],
+                    [
+                        -0.5464779,
+                        47.4679486
+                    ],
+                    [
+                        -0.5465306,
+                        47.4679713
+                    ],
+                    [
+                        -0.5465866,
+                        47.4679937
+                    ],
+                    [
+                        -0.5474127,
+                        47.4683289
+                    ],
+                    [
+                        -0.5484749,
+                        47.4685678
+                    ],
+                    [
+                        -0.5489295,
+                        47.4685816
+                    ],
+                    [
+                        -0.5493809,
+                        47.4686959
+                    ],
+                    [
+                        -0.5495918,
+                        47.4688289
+                    ],
+                    [
+                        -0.549655,
+                        47.4688688
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Hanneloup",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201275053,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5455659,
+                        47.4674241
+                    ],
+                    [
+                        -0.5456508,
+                        47.4674744
+                    ],
+                    [
+                        -0.5456868,
+                        47.4674971
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Hanneloup",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 71881009,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1099467,
+                        46.140297
+                    ],
+                    [
+                        -1.1099246,
+                        46.1403397
+                    ],
+                    [
+                        -1.1095088,
+                        46.1410832
+                    ],
+                    [
+                        -1.1093148,
+                        46.1413847
+                    ],
+                    [
+                        -1.1091869,
+                        46.1415767
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "comment": "source ",
+                "fixme": "v\u00e9rifier d\u00e9but route pour automobile",
+                "foot": "no",
+                "highway": "tertiary",
+                "horse": "no",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue d'Anville",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72077881,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1109047,
+                        46.1385788
+                    ],
+                    [
+                        -1.1108807,
+                        46.1386542
+                    ],
+                    [
+                        -1.110555,
+                        46.1392168
+                    ],
+                    [
+                        -1.1104051,
+                        46.1394756
+                    ],
+                    [
+                        -1.1100939,
+                        46.1400046
+                    ],
+                    [
+                        -1.1100883,
+                        46.140078
+                    ],
+                    [
+                        -1.1101037,
+                        46.1401088
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue d'Anville",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,511 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24485910,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5535197,
+                        47.2127577
+                    ],
+                    [
+                        -1.55347,
+                        47.2127934
+                    ],
+                    [
+                        -1.5534173,
+                        47.2128285
+                    ],
+                    [
+                        -1.5532991,
+                        47.2129086
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard Jean Philippot",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24485916,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5537999,
+                        47.2127471
+                    ],
+                    [
+                        -1.5538181,
+                        47.21273
+                    ],
+                    [
+                        -1.5538409,
+                        47.2127143
+                    ],
+                    [
+                        -1.5538832,
+                        47.212697
+                    ],
+                    [
+                        -1.5540002,
+                        47.2126569
+                    ],
+                    [
+                        -1.5540957,
+                        47.2126161
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Boulevard Jean Philippot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25652643,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5565914,
+                        47.2116187
+                    ],
+                    [
+                        -1.5565311,
+                        47.2116432
+                    ],
+                    [
+                        -1.556422,
+                        47.2116764
+                    ],
+                    [
+                        -1.5557291,
+                        47.2118997
+                    ],
+                    [
+                        -1.5553472,
+                        47.2120204
+                    ],
+                    [
+                        -1.5551326,
+                        47.2120804
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard Jean Philippot",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53586073,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5540957,
+                        47.2126161
+                    ],
+                    [
+                        -1.5541368,
+                        47.2125952
+                    ],
+                    [
+                        -1.5541719,
+                        47.2125748
+                    ],
+                    [
+                        -1.5542094,
+                        47.2125548
+                    ],
+                    [
+                        -1.5542947,
+                        47.2124978
+                    ],
+                    [
+                        -1.5544083,
+                        47.2124167
+                    ],
+                    [
+                        -1.5545041,
+                        47.2123363
+                    ],
+                    [
+                        -1.5545432,
+                        47.2122948
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Jean Philippot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183504845,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5551326,
+                        47.2120804
+                    ],
+                    [
+                        -1.5550381,
+                        47.2120858
+                    ],
+                    [
+                        -1.5548896,
+                        47.212114
+                    ],
+                    [
+                        -1.5548091,
+                        47.2121281
+                    ],
+                    [
+                        -1.5547163,
+                        47.2121425
+                    ],
+                    [
+                        -1.5546744,
+                        47.212146
+                    ],
+                    [
+                        -1.5546283,
+                        47.2121465
+                    ],
+                    [
+                        -1.5545982,
+                        47.2121451
+                    ],
+                    [
+                        -1.5545334,
+                        47.2121403
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard Jean Philippot",
+                "oneway": "no",
+                "oneway:bicycle": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183504850,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5545776,
+                        47.212271
+                    ],
+                    [
+                        -1.554619,
+                        47.212263
+                    ],
+                    [
+                        -1.5546643,
+                        47.2122496
+                    ],
+                    [
+                        -1.5547116,
+                        47.2122307
+                    ],
+                    [
+                        -1.5547535,
+                        47.2122095
+                    ],
+                    [
+                        -1.5548406,
+                        47.2121805
+                    ],
+                    [
+                        -1.5548987,
+                        47.2121609
+                    ],
+                    [
+                        -1.5549613,
+                        47.2121395
+                    ],
+                    [
+                        -1.5550472,
+                        47.2121163
+                    ],
+                    [
+                        -1.5551326,
+                        47.2120804
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard Jean Philippot",
+                "oneway": "no",
+                "oneway:bicycle": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 375740555,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5532991,
+                        47.2129086
+                    ],
+                    [
+                        -1.5534452,
+                        47.2128823
+                    ],
+                    [
+                        -1.5535465,
+                        47.2128585
+                    ],
+                    [
+                        -1.5536112,
+                        47.2128537
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard Jean Philippot",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 375740556,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5532991,
+                        47.2129086
+                    ],
+                    [
+                        -1.5531098,
+                        47.212988
+                    ],
+                    [
+                        -1.5526483,
+                        47.2131862
+                    ],
+                    [
+                        -1.5525494,
+                        47.2132355
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard Jean Philippot",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 375740557,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5540371,
+                        47.2125559
+                    ],
+                    [
+                        -1.5539774,
+                        47.2125835
+                    ],
+                    [
+                        -1.5539144,
+                        47.2126112
+                    ],
+                    [
+                        -1.5538503,
+                        47.2126355
+                    ],
+                    [
+                        -1.5537662,
+                        47.2126625
+                    ],
+                    [
+                        -1.5537233,
+                        47.2126778
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Boulevard Jean Philippot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 375740558,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5543556,
+                        47.2122723
+                    ],
+                    [
+                        -1.5543606,
+                        47.2123236
+                    ],
+                    [
+                        -1.5543449,
+                        47.2123548
+                    ],
+                    [
+                        -1.5542986,
+                        47.2124015
+                    ],
+                    [
+                        -1.5542369,
+                        47.2124454
+                    ],
+                    [
+                        -1.5541444,
+                        47.212504
+                    ],
+                    [
+                        -1.5541119,
+                        47.2125204
+                    ],
+                    [
+                        -1.5540743,
+                        47.2125393
+                    ],
+                    [
+                        -1.5540371,
+                        47.2125559
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Jean Philippot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

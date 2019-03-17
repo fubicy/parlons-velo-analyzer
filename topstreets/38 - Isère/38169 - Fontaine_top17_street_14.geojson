@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 218926105,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6770726,
+                        45.1965647
+                    ],
+                    [
+                        5.6770176,
+                        45.1964346
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "G\u00e9rard Philippe",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218926106,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6771319,
+                        45.196325
+                    ],
+                    [
+                        5.6771856,
+                        45.1964589
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bin": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "G\u00e9rard Philippe",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

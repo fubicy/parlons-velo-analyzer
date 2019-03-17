@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25935552,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2983441,
+                        48.7504572
+                    ],
+                    [
+                        2.2982897,
+                        48.7505079
+                    ],
+                    [
+                        2.2972235,
+                        48.7515093
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Clos de l'Abbaye",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

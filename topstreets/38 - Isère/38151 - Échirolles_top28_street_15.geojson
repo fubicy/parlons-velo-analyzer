@@ -1,0 +1,699 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4338668,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7144223,
+                        45.1433397
+                    ],
+                    [
+                        5.7143768,
+                        45.1432767
+                    ],
+                    [
+                        5.714347,
+                        45.1432356
+                    ],
+                    [
+                        5.714224,
+                        45.1432155
+                    ],
+                    [
+                        5.7136849,
+                        45.143409
+                    ],
+                    [
+                        5.7136612,
+                        45.1434691
+                    ],
+                    [
+                        5.7137226,
+                        45.1435655
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Rue Missak Manouchian",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "381510423E",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50668273,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7110143,
+                        45.1444934
+                    ],
+                    [
+                        5.7109706,
+                        45.1445351
+                    ],
+                    [
+                        5.7107839,
+                        45.144626
+                    ],
+                    [
+                        5.7105443,
+                        45.144708
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Missak Manouchian",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181247794,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7154885,
+                        45.1429474
+                    ],
+                    [
+                        5.7155366,
+                        45.1429305
+                    ],
+                    [
+                        5.7156176,
+                        45.142903
+                    ],
+                    [
+                        5.7156526,
+                        45.1428911
+                    ],
+                    [
+                        5.7157103,
+                        45.1428715
+                    ],
+                    [
+                        5.7158005,
+                        45.1428461
+                    ],
+                    [
+                        5.7160678,
+                        45.1427695
+                    ],
+                    [
+                        5.7166568,
+                        45.142549
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Missak Manouchian",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "381510423E",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181247796,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7166568,
+                        45.142549
+                    ],
+                    [
+                        5.7164668,
+                        45.1426843
+                    ],
+                    [
+                        5.7162861,
+                        45.1427722
+                    ],
+                    [
+                        5.7161453,
+                        45.1428203
+                    ],
+                    [
+                        5.716099,
+                        45.1428339
+                    ],
+                    [
+                        5.7159903,
+                        45.1428659
+                    ],
+                    [
+                        5.7157456,
+                        45.1429378
+                    ],
+                    [
+                        5.7156892,
+                        45.1429546
+                    ],
+                    [
+                        5.7156535,
+                        45.1429651
+                    ],
+                    [
+                        5.7155678,
+                        45.1429905
+                    ],
+                    [
+                        5.7155239,
+                        45.1430036
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Missak Manouchian",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "381510423E",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181247797,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.718072,
+                        45.1416239
+                    ],
+                    [
+                        5.7180091,
+                        45.1416647
+                    ],
+                    [
+                        5.7177228,
+                        45.141825
+                    ],
+                    [
+                        5.7176245,
+                        45.1418929
+                    ],
+                    [
+                        5.7175007,
+                        45.1419783
+                    ],
+                    [
+                        5.7174171,
+                        45.1420341
+                    ],
+                    [
+                        5.7173622,
+                        45.1420707
+                    ],
+                    [
+                        5.7173073,
+                        45.1421084
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Missak Manouchian",
+                "oneway": "no",
+                "ref:FR:FANTOIR": "381510423E",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189701203,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7105207,
+                        45.1446514
+                    ],
+                    [
+                        5.7107755,
+                        45.1445833
+                    ],
+                    [
+                        5.7109359,
+                        45.1445118
+                    ],
+                    [
+                        5.7110143,
+                        45.1444934
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Missak Manouchian",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189701205,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7150568,
+                        45.1431204
+                    ],
+                    [
+                        5.7144223,
+                        45.1433397
+                    ],
+                    [
+                        5.7142494,
+                        45.143392
+                    ],
+                    [
+                        5.7141002,
+                        45.1434409
+                    ],
+                    [
+                        5.7139709,
+                        45.1434836
+                    ],
+                    [
+                        5.7137226,
+                        45.1435655
+                    ],
+                    [
+                        5.7127364,
+                        45.1438788
+                    ],
+                    [
+                        5.711887,
+                        45.144139
+                    ],
+                    [
+                        5.7113441,
+                        45.1443373
+                    ],
+                    [
+                        5.7111173,
+                        45.144432
+                    ],
+                    [
+                        5.7110143,
+                        45.1444934
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Missak Manouchian",
+                "oneway": "no",
+                "ref:FR:FANTOIR": "381510423E",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 439945443,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7173073,
+                        45.1421084
+                    ],
+                    [
+                        5.7168687,
+                        45.1424092
+                    ],
+                    [
+                        5.7168262,
+                        45.1424383
+                    ],
+                    [
+                        5.7166794,
+                        45.1425349
+                    ],
+                    [
+                        5.7166568,
+                        45.142549
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Missak Manouchian",
+                "oneway": "no",
+                "ref:FR:FANTOIR": "381510423E",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 442324906,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7150568,
+                        45.1431204
+                    ],
+                    [
+                        5.7151357,
+                        45.1430824
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Missak Manouchian",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "381510423E",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 442324908,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7152659,
+                        45.143082
+                    ],
+                    [
+                        5.7150568,
+                        45.1431204
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Missak Manouchian",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "381510423E",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 495001616,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7152992,
+                        45.1429212
+                    ],
+                    [
+                        5.7152389,
+                        45.1429973
+                    ],
+                    [
+                        5.7151249,
+                        45.1430531
+                    ],
+                    [
+                        5.7143768,
+                        45.1432767
+                    ],
+                    [
+                        5.714274,
+                        45.1433007
+                    ],
+                    [
+                        5.7140893,
+                        45.1433649
+                    ],
+                    [
+                        5.7139353,
+                        45.143431
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Missak Manouchian",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 495001617,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7154173,
+                        45.1431231
+                    ],
+                    [
+                        5.7153663,
+                        45.1431193
+                    ],
+                    [
+                        5.7152778,
+                        45.1431193
+                    ],
+                    [
+                        5.715019,
+                        45.1431837
+                    ],
+                    [
+                        5.7143997,
+                        45.1434102
+                    ],
+                    [
+                        5.714188,
+                        45.1434802
+                    ],
+                    [
+                        5.7141328,
+                        45.1434977
+                    ],
+                    [
+                        5.7140011,
+                        45.143528
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Missak Manouchian",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 495001625,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7156914,
+                        45.1428361
+                    ],
+                    [
+                        5.7159315,
+                        45.1427694
+                    ],
+                    [
+                        5.7161415,
+                        45.1427112
+                    ],
+                    [
+                        5.7163554,
+                        45.1426308
+                    ],
+                    [
+                        5.7166462,
+                        45.1425085
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Missak Manouchian",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 495001626,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7157796,
+                        45.1430018
+                    ],
+                    [
+                        5.7159588,
+                        45.1429373
+                    ],
+                    [
+                        5.7161716,
+                        45.1428606
+                    ],
+                    [
+                        5.7162321,
+                        45.14285
+                    ],
+                    [
+                        5.7163036,
+                        45.1428455
+                    ],
+                    [
+                        5.7163453,
+                        45.1428474
+                    ],
+                    [
+                        5.7165237,
+                        45.1427372
+                    ],
+                    [
+                        5.7167243,
+                        45.1425706
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Missak Manouchian",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 496336237,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7155239,
+                        45.1430036
+                    ],
+                    [
+                        5.7154757,
+                        45.143018
+                    ],
+                    [
+                        5.71543,
+                        45.143032
+                    ],
+                    [
+                        5.7152659,
+                        45.143082
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Missak Manouchian",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "381510423E",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 496336238,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7151357,
+                        45.1430824
+                    ],
+                    [
+                        5.7152436,
+                        45.1430304
+                    ],
+                    [
+                        5.7153962,
+                        45.142979
+                    ],
+                    [
+                        5.715445,
+                        45.1429626
+                    ],
+                    [
+                        5.7154885,
+                        45.1429474
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Missak Manouchian",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "381510423E",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

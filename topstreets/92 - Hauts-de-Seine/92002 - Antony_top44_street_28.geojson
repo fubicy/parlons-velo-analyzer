@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 179060609,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.300482,
+                        48.7507864
+                    ],
+                    [
+                        2.300573,
+                        48.7508079
+                    ],
+                    [
+                        2.3015936,
+                        48.751049
+                    ],
+                    [
+                        2.3016954,
+                        48.7510725
+                    ],
+                    [
+                        2.3032882,
+                        48.75144
+                    ],
+                    [
+                        2.3035284,
+                        48.7514969
+                    ],
+                    [
+                        2.3036183,
+                        48.7515182
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Madeleine",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

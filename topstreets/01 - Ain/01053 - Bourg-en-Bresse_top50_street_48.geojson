@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 239596878,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2239794,
+                        46.2142619
+                    ],
+                    [
+                        5.2241307,
+                        46.2143312
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Laiterie",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 239596880,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2236818,
+                        46.2142128
+                    ],
+                    [
+                        5.2238511,
+                        46.2142903
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Laiterie",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

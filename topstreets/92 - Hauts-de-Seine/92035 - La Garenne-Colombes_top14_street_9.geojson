@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27936444,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2398022,
+                        48.9051136
+                    ],
+                    [
+                        2.2398684,
+                        48.9051291
+                    ],
+                    [
+                        2.2412074,
+                        48.9054432
+                    ],
+                    [
+                        2.2412834,
+                        48.9054609
+                    ],
+                    [
+                        2.2413489,
+                        48.9054768
+                    ],
+                    [
+                        2.2438747,
+                        48.9060998
+                    ],
+                    [
+                        2.2439445,
+                        48.906117
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Lucien Jeannin",
+                "oneway": "yes",
+                "source": "Microsoft Bing orbital imagery",
+                "source:oneway": "survey",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

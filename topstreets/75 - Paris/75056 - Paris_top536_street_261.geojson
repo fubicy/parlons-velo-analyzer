@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 541903640,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3894694,
+                        48.901105
+                    ],
+                    [
+                        2.389544,
+                        48.9010941
+                    ],
+                    [
+                        2.3896405,
+                        48.9010799
+                    ],
+                    [
+                        2.3908108,
+                        48.9009021
+                    ],
+                    [
+                        2.3909781,
+                        48.9008796
+                    ],
+                    [
+                        2.3910618,
+                        48.9008703
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_track",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Magenta",
+                "oneway": "yes",
+                "wikidata": "Q3449005",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 562490065,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3892337,
+                        48.9011555
+                    ],
+                    [
+                        2.3893682,
+                        48.9011212
+                    ],
+                    [
+                        2.3894694,
+                        48.901105
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Magenta",
+                "wikidata": "Q3449005",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

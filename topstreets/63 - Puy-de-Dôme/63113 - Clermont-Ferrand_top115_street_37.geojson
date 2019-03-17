@@ -1,0 +1,235 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4081488,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0732565,
+                        45.7763237
+                    ],
+                    [
+                        3.0733198,
+                        45.7763297
+                    ],
+                    [
+                        3.0733289,
+                        45.7763306
+                    ],
+                    [
+                        3.0751194,
+                        45.7765005
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Blatin",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27631831,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0805423,
+                        45.7769882
+                    ],
+                    [
+                        3.079753,
+                        45.7769156
+                    ],
+                    [
+                        3.0792349,
+                        45.7768699
+                    ],
+                    [
+                        3.0787516,
+                        45.7768273
+                    ],
+                    [
+                        3.0787052,
+                        45.7768231
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Blatin",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48538638,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0772486,
+                        45.7766826
+                    ],
+                    [
+                        3.077982,
+                        45.7767541
+                    ],
+                    [
+                        3.0786222,
+                        45.7768166
+                    ],
+                    [
+                        3.0787052,
+                        45.7768231
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Blatin",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170300820,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0751445,
+                        45.7762917
+                    ],
+                    [
+                        3.0761812,
+                        45.7765836
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Blatin",
+                "oneway": "yes",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 356586430,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0769816,
+                        45.7766578
+                    ],
+                    [
+                        3.0772486,
+                        45.7766826
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Blatin",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 445452717,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0813951,
+                        45.7770708
+                    ],
+                    [
+                        3.0812517,
+                        45.7770539
+                    ],
+                    [
+                        3.0810446,
+                        45.7770344
+                    ],
+                    [
+                        3.0805423,
+                        45.7769882
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "no",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Blatin",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 492441341,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0751194,
+                        45.7765005
+                    ],
+                    [
+                        3.0761812,
+                        45.7765836
+                    ],
+                    [
+                        3.0767021,
+                        45.7766319
+                    ],
+                    [
+                        3.0769816,
+                        45.7766578
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Blatin",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

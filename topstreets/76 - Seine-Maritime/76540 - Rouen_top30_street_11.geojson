@@ -1,0 +1,186 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25117245,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0818353,
+                        49.4412
+                    ],
+                    [
+                        1.0822794,
+                        49.4418024
+                    ],
+                    [
+                        1.0824178,
+                        49.4419317
+                    ],
+                    [
+                        1.0825242,
+                        49.4420096
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Guillaume le Conqu\u00e9rant",
+                "oneway": "yes",
+                "ref": "N 138",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31796814,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0802292,
+                        49.4389364
+                    ],
+                    [
+                        1.0802931,
+                        49.4390244
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Pont Guillaume le Conqu\u00e9rant",
+                "oneway": "yes",
+                "ref": "N 138",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88257079,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0820159,
+                        49.4416362
+                    ],
+                    [
+                        1.0816821,
+                        49.4411596
+                    ],
+                    [
+                        1.0815856,
+                        49.4410292
+                    ],
+                    [
+                        1.0813724,
+                        49.4408187
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "lanes:backward": "2",
+                "lanes:forward": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Guillaume le Conqu\u00e9rant",
+                "oneway": "yes",
+                "ref": "N 138",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88257086,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0813724,
+                        49.4408187
+                    ],
+                    [
+                        1.0810991,
+                        49.440449
+                    ],
+                    [
+                        1.080791,
+                        49.4400287
+                    ],
+                    [
+                        1.0805291,
+                        49.4396664
+                    ],
+                    [
+                        1.0802807,
+                        49.4393059
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "5",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Guillaume le Conqu\u00e9rant",
+                "oneway": "yes",
+                "ref": "N 138",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 484176789,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0802931,
+                        49.4390244
+                    ],
+                    [
+                        1.0806294,
+                        49.4395657
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Guillaume le Conqu\u00e9rant",
+                "oneway": "yes",
+                "ref": "N 138",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

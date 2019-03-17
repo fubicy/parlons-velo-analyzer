@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19740980,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1329769,
+                        48.8069045
+                    ],
+                    [
+                        2.1329574,
+                        48.806939
+                    ],
+                    [
+                        2.1323368,
+                        48.8071047
+                    ],
+                    [
+                        2.1317239,
+                        48.8072654
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue de la Pourvoierie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 650396123,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1317239,
+                        48.8072654
+                    ],
+                    [
+                        2.1316146,
+                        48.8072362
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue de la Pourvoierie",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 650396125,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1329946,
+                        48.8068733
+                    ],
+                    [
+                        2.1329769,
+                        48.8069045
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue de la Pourvoierie",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

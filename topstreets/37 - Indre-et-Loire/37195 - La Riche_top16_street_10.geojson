@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 103179324,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6661137,
+                        47.3843648
+                    ],
+                    [
+                        0.6661594,
+                        47.3843775
+                    ],
+                    [
+                        0.6670352,
+                        47.3845238
+                    ],
+                    [
+                        0.667197,
+                        47.3845492
+                    ],
+                    [
+                        0.6673374,
+                        47.3845712
+                    ],
+                    [
+                        0.6676395,
+                        47.3846186
+                    ],
+                    [
+                        0.6678089,
+                        47.3846465
+                    ],
+                    [
+                        0.6678904,
+                        47.38466
+                    ],
+                    [
+                        0.6679635,
+                        47.3846744
+                    ],
+                    [
+                        0.6680776,
+                        47.3846909
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue d'Entraigues",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

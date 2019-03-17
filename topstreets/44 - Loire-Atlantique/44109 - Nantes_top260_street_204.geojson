@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 46203025,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5551187,
+                        47.2213663
+                    ],
+                    [
+                        -1.5550406,
+                        47.2214393
+                    ],
+                    [
+                        -1.5540763,
+                        47.2223005
+                    ],
+                    [
+                        -1.5536028,
+                        47.2227219
+                    ],
+                    [
+                        -1.5535833,
+                        47.2227431
+                    ],
+                    [
+                        -1.5535693,
+                        47.2227582
+                    ],
+                    [
+                        -1.553561,
+                        47.2227639
+                    ],
+                    [
+                        -1.5534827,
+                        47.2228331
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "opposite_lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Ch\u00e2teaubriand",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:maxstay": "2 h",
+                "parking:lane:left": "parallel",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

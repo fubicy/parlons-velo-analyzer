@@ -1,0 +1,189 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22717775,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4328182,
+                        43.6053049
+                    ],
+                    [
+                        1.4327886,
+                        43.6052271
+                    ],
+                    [
+                        1.4325748,
+                        43.6046654
+                    ],
+                    [
+                        1.4326121,
+                        43.6045839
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Quai Saint-Pierre",
+                "name:oc": "Cai Sant P\u00e8ire",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48919801,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4343424,
+                        43.6037699
+                    ],
+                    [
+                        1.4346417,
+                        43.6036248
+                    ],
+                    [
+                        1.4348697,
+                        43.6035142
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Quai Saint-Pierre",
+                "name:oc": "Cai Sant P\u00e8ire",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48920292,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4339452,
+                        43.6039618
+                    ],
+                    [
+                        1.4339972,
+                        43.6039372
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Quai Saint-Pierre",
+                "name:oc": "Cai Sant P\u00e8ire",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80140908,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4342647,
+                        43.6038075
+                    ],
+                    [
+                        1.4343424,
+                        43.6037699
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Quai Saint-Pierre",
+                "name:oc": "Cai Sant P\u00e8ire",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80140911,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4339972,
+                        43.6039372
+                    ],
+                    [
+                        1.4342647,
+                        43.6038075
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "bridge:name": "Arche Saint-Pierre",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Quai Saint-Pierre",
+                "name:oc": "Cai Sant P\u00e8ire",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150331719,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4326121,
+                        43.6045839
+                    ],
+                    [
+                        1.4330531,
+                        43.6043822
+                    ],
+                    [
+                        1.4339452,
+                        43.6039618
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Quai Saint-Pierre",
+                "name:oc": "Cai Sant P\u00e8ire",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

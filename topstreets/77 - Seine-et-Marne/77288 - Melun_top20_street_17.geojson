@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 145614640,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6589208,
+                        48.5337367
+                    ],
+                    [
+                        2.6591264,
+                        48.5340957
+                    ],
+                    [
+                        2.6592229,
+                        48.5342911
+                    ],
+                    [
+                        2.6596566,
+                        48.5353623
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "opposite",
+                "highway": "secondary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Notre-Dame",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616065020,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6595917,
+                        48.5353813
+                    ],
+                    [
+                        2.659499,
+                        48.5351626
+                    ],
+                    [
+                        2.6592028,
+                        48.5344325
+                    ],
+                    [
+                        2.6591555,
+                        48.5342964
+                    ],
+                    [
+                        2.6588602,
+                        48.5337509
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "Pont Notre-Dame",
+                "width": "3",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

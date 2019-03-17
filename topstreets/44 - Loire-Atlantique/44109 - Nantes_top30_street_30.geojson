@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 519069634,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.557198,
+                        47.2345598
+                    ],
+                    [
+                        -1.557428,
+                        47.2344937
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Michelet",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:Lila": "LIL24567O",
+                "ref:TAN": "MICH4",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 519069635,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5572979,
+                        47.2344714
+                    ],
+                    [
+                        -1.5570599,
+                        47.2345361
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Michelet",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:Lila": "LIL24567N",
+                "ref:TAN": "MICH3",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

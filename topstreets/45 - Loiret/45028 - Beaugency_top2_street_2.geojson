@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 50162798,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.630926,
+                        47.7746728
+                    ],
+                    [
+                        1.6305513,
+                        47.7750132
+                    ],
+                    [
+                        1.6297001,
+                        47.7757866
+                    ],
+                    [
+                        1.6287767,
+                        47.7766256
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "name": "Grand Mail",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 250867015,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.6277297,
+                        47.7775959
+                    ],
+                    [
+                        1.628008,
+                        47.7773275
+                    ],
+                    [
+                        1.628545,
+                        47.7768372
+                    ],
+                    [
+                        1.6287767,
+                        47.7766256
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "name": "Grand Mail",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

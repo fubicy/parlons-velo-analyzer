@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7838788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.753245,
+                        45.206363
+                    ],
+                    [
+                        5.7531117,
+                        45.2063325
+                    ],
+                    [
+                        5.7529244,
+                        45.2062775
+                    ],
+                    [
+                        5.7526836,
+                        45.2062243
+                    ],
+                    [
+                        5.7525345,
+                        45.2061991
+                    ],
+                    [
+                        5.7525103,
+                        45.206195
+                    ],
+                    [
+                        5.7523723,
+                        45.2061818
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue du Gr\u00e9sivaudan",
+                "oneway": "yes",
+                "ref": "D 590",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

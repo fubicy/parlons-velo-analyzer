@@ -1,0 +1,253 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25111698,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0936595,
+                        49.4349053
+                    ],
+                    [
+                        1.0935094,
+                        49.4350085
+                    ],
+                    [
+                        1.0933901,
+                        49.4350685
+                    ],
+                    [
+                        1.093133,
+                        49.4351684
+                    ],
+                    [
+                        1.0927723,
+                        49.4352809
+                    ],
+                    [
+                        1.0907087,
+                        49.4358971
+                    ],
+                    [
+                        1.0906356,
+                        49.4359188
+                    ],
+                    [
+                        1.0904268,
+                        49.4359812
+                    ],
+                    [
+                        1.0903319,
+                        49.4360106
+                    ],
+                    [
+                        1.0901598,
+                        49.4360631
+                    ],
+                    [
+                        1.0888913,
+                        49.4364498
+                    ],
+                    [
+                        1.0876747,
+                        49.436824
+                    ],
+                    [
+                        1.0876585,
+                        49.4368285
+                    ],
+                    [
+                        1.0875929,
+                        49.4368466
+                    ],
+                    [
+                        1.0875553,
+                        49.4368575
+                    ],
+                    [
+                        1.0874789,
+                        49.4368794
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "motor_vehicle:conditional": "delivery @ (weight>3.5)",
+                "name": "Quai Jean Moulin",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25567199,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0904268,
+                        49.4359812
+                    ],
+                    [
+                        1.0903706,
+                        49.435902
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Quai Jean Moulin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31731488,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0903706,
+                        49.435902
+                    ],
+                    [
+                        1.0905773,
+                        49.435838
+                    ],
+                    [
+                        1.0925391,
+                        49.4352411
+                    ],
+                    [
+                        1.0926955,
+                        49.4351935
+                    ],
+                    [
+                        1.0929812,
+                        49.4350763
+                    ],
+                    [
+                        1.0932595,
+                        49.4349131
+                    ],
+                    [
+                        1.0932881,
+                        49.4348905
+                    ],
+                    [
+                        1.0934506,
+                        49.4348004
+                    ],
+                    [
+                        1.093545,
+                        49.4347308
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Quai Jean Moulin",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167135838,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0874361,
+                        49.4367921
+                    ],
+                    [
+                        1.0875116,
+                        49.4367699
+                    ],
+                    [
+                        1.0875488,
+                        49.4367582
+                    ],
+                    [
+                        1.0876137,
+                        49.4367385
+                    ],
+                    [
+                        1.0888366,
+                        49.4363663
+                    ],
+                    [
+                        1.0888566,
+                        49.4363602
+                    ],
+                    [
+                        1.0900079,
+                        49.4360111
+                    ],
+                    [
+                        1.0901071,
+                        49.4359813
+                    ],
+                    [
+                        1.0902804,
+                        49.4359285
+                    ],
+                    [
+                        1.0903706,
+                        49.435902
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Quai Jean Moulin",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167458469,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0888913,
+                        49.4364498
+                    ],
+                    [
+                        1.0888366,
+                        49.4363663
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Quai Jean Moulin",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

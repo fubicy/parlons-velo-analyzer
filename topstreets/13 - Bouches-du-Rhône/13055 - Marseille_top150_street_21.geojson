@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 430637265,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3702096,
+                        43.2437182
+                    ],
+                    [
+                        5.369989,
+                        43.2436669
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Pointe Rouge",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 430637267,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3712141,
+                        43.244004
+                    ],
+                    [
+                        5.3713904,
+                        43.2441031
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Pointe Rouge",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

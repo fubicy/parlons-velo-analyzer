@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23162203,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6741931,
+                        48.1102018
+                    ],
+                    [
+                        -1.6742974,
+                        48.1101996
+                    ],
+                    [
+                        -1.676008,
+                        48.110187
+                    ],
+                    [
+                        -1.6763189,
+                        48.110183
+                    ],
+                    [
+                        -1.6764833,
+                        48.1101839
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "horse": "yes",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Quai Chateaubriand",
+                "name:br": "Kae Chateaubriand",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "source:name:br": "survey",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49298853,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6764833,
+                        48.1101839
+                    ],
+                    [
+                        -1.6765835,
+                        48.1101842
+                    ],
+                    [
+                        -1.6777354,
+                        48.1101815
+                    ],
+                    [
+                        -1.6777839,
+                        48.1101811
+                    ],
+                    [
+                        -1.6778321,
+                        48.1101814
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "horse": "yes",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Quai Chateaubriand",
+                "name:br": "Kae Chateaubriand",
+                "oneway": "yes",
+                "source:name:br": "survey",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

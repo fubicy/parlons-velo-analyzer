@@ -1,0 +1,116 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 43482470,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3012106,
+                        48.9307239
+                    ],
+                    [
+                        2.3002596,
+                        48.9306956
+                    ],
+                    [
+                        2.2993508,
+                        48.9306408
+                    ],
+                    [
+                        2.2990319,
+                        48.9305717
+                    ],
+                    [
+                        2.2987994,
+                        48.9305196
+                    ],
+                    [
+                        2.2987135,
+                        48.9304865
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Collines",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 500071006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2987135,
+                        48.9304865
+                    ],
+                    [
+                        2.2986556,
+                        48.9304613
+                    ],
+                    [
+                        2.2980699,
+                        48.930206
+                    ],
+                    [
+                        2.2974213,
+                        48.9298634
+                    ],
+                    [
+                        2.2973585,
+                        48.9298363
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Collines",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 592420754,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3014372,
+                        48.9306583
+                    ],
+                    [
+                        2.3013214,
+                        48.9306612
+                    ],
+                    [
+                        2.3012106,
+                        48.9307239
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue des Collines",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

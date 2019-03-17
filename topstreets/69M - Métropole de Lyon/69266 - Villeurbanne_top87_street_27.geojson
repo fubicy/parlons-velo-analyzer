@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 170806686,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.899544,
+                        45.7765856
+                    ],
+                    [
+                        4.8997123,
+                        45.7765859
+                    ],
+                    [
+                        4.9010052,
+                        45.7765884
+                    ],
+                    [
+                        4.9015684,
+                        45.7765895
+                    ],
+                    [
+                        4.9024482,
+                        45.7765912
+                    ],
+                    [
+                        4.9025434,
+                        45.7765913
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "name": "Rue Saint-Jean",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202070829,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9025434,
+                        45.7765913
+                    ],
+                    [
+                        4.9026575,
+                        45.7765916
+                    ],
+                    [
+                        4.9029955,
+                        45.7765922
+                    ],
+                    [
+                        4.903446,
+                        45.7765931
+                    ],
+                    [
+                        4.9035393,
+                        45.7765933
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Saint-Jean",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

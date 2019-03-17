@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4077129,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8704749,
+                        45.7440511
+                    ],
+                    [
+                        4.8704402,
+                        45.7439947
+                    ],
+                    [
+                        4.8700115,
+                        45.7432983
+                    ],
+                    [
+                        4.8693965,
+                        45.7423891
+                    ],
+                    [
+                        4.8690719,
+                        45.742027
+                    ],
+                    [
+                        4.8686265,
+                        45.7414477
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Antoine Lumi\u00e8re",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113563480,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8686265,
+                        45.7414477
+                    ],
+                    [
+                        4.8684768,
+                        45.7412638
+                    ],
+                    [
+                        4.8677313,
+                        45.7403478
+                    ],
+                    [
+                        4.8673267,
+                        45.7399116
+                    ],
+                    [
+                        4.8669415,
+                        45.7394974
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Antoine Lumi\u00e8re",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 370071955,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8669415,
+                        45.7394974
+                    ],
+                    [
+                        4.8666927,
+                        45.7392381
+                    ],
+                    [
+                        4.8665655,
+                        45.7391055
+                    ],
+                    [
+                        4.8665224,
+                        45.7390424
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Antoine Lumi\u00e8re",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

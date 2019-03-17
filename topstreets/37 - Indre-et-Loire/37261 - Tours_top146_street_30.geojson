@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 262820480,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7035494,
+                        47.3856393
+                    ],
+                    [
+                        0.7035659,
+                        47.3855625
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "La Fuye",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

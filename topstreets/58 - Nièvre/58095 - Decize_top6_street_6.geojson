@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 68918533,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4632761,
+                        46.8298252
+                    ],
+                    [
+                        3.4633357,
+                        46.8297928
+                    ],
+                    [
+                        3.4634729,
+                        46.8297281
+                    ],
+                    [
+                        3.463568,
+                        46.8296654
+                    ],
+                    [
+                        3.4638239,
+                        46.8294412
+                    ],
+                    [
+                        3.4638827,
+                        46.8293843
+                    ],
+                    [
+                        3.4639824,
+                        46.8292768
+                    ],
+                    [
+                        3.4640388,
+                        46.8292363
+                    ],
+                    [
+                        3.4640907,
+                        46.8292209
+                    ],
+                    [
+                        3.4641362,
+                        46.8292228
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Quai de Loire",
+                "oneway": "no",
+                "ref": "D 978a",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69668234,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4629525,
+                        46.8299575
+                    ],
+                    [
+                        3.4630739,
+                        46.829892
+                    ],
+                    [
+                        3.4632761,
+                        46.8298252
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Quai de Loire",
+                "oneway": "yes",
+                "ref": "D 978a",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167567830,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4632761,
+                        46.8298252
+                    ],
+                    [
+                        3.463029,
+                        46.8300042
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Quai de Loire",
+                "oneway": "yes",
+                "ref": "D 978a",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

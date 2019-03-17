@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25622357,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.9689053,
+                        45.9475229
+                    ],
+                    [
+                        -0.9709622,
+                        45.9476161
+                    ],
+                    [
+                        -0.971827,
+                        45.9476552
+                    ],
+                    [
+                        -0.9739011,
+                        45.9477475
+                    ],
+                    [
+                        -0.9750467,
+                        45.9478099
+                    ],
+                    [
+                        -0.9757763,
+                        45.9478546
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Aristide Briand",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65288865,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.9679323,
+                        45.9475768
+                    ],
+                    [
+                        -0.9678005,
+                        45.9475223
+                    ],
+                    [
+                        -0.9675845,
+                        45.9474658
+                    ],
+                    [
+                        -0.9671665,
+                        45.9474252
+                    ],
+                    [
+                        -0.9669097,
+                        45.94737
+                    ],
+                    [
+                        -0.9656118,
+                        45.9471765
+                    ],
+                    [
+                        -0.965581,
+                        45.9471719
+                    ],
+                    [
+                        -0.9654416,
+                        45.9471568
+                    ],
+                    [
+                        -0.9648782,
+                        45.9470956
+                    ],
+                    [
+                        -0.9642173,
+                        45.9469965
+                    ],
+                    [
+                        -0.963886,
+                        45.9469452
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Aristide Briand",
+                "source": "GPS",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307688844,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.963886,
+                        45.9469452
+                    ],
+                    [
+                        -0.9637131,
+                        45.9468455
+                    ],
+                    [
+                        -0.9636494,
+                        45.9468168
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Aristide Briand",
+                "oneway": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307688845,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.9635499,
+                        45.9469065
+                    ],
+                    [
+                        -0.9636908,
+                        45.9469332
+                    ],
+                    [
+                        -0.963886,
+                        45.9469452
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Aristide Briand",
+                "oneway": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 308183419,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.9757763,
+                        45.9478546
+                    ],
+                    [
+                        -0.9760799,
+                        45.9478624
+                    ],
+                    [
+                        -0.9761853,
+                        45.9478631
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:backward": "Niort;Gare SNCF",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Aristide Briand",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384571628,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.9681599,
+                        45.9474891
+                    ],
+                    [
+                        -0.9689053,
+                        45.9475229
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Boulevard Aristide Briand",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

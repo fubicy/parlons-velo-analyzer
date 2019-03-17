@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28319651,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3367128,
+                        48.7942273
+                    ],
+                    [
+                        2.3367205,
+                        48.7942765
+                    ],
+                    [
+                        2.3371709,
+                        48.7947915
+                    ],
+                    [
+                        2.3375354,
+                        48.7951926
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Coust\u00e9",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174271789,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3386563,
+                        48.7964185
+                    ],
+                    [
+                        2.338626,
+                        48.7963855
+                    ],
+                    [
+                        2.337616,
+                        48.7952808
+                    ],
+                    [
+                        2.3375354,
+                        48.7951926
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Coust\u00e9",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

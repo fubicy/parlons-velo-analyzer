@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 116757213,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0829319,
+                        45.7830105
+                    ],
+                    [
+                        3.0832562,
+                        45.7833542
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "residential",
+                "motor_vehicle": "designated",
+                "name": "Rue du Chauffour",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 288904497,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0832562,
+                        45.7833542
+                    ],
+                    [
+                        3.0834309,
+                        45.7833377
+                    ],
+                    [
+                        3.0834664,
+                        45.7833343
+                    ],
+                    [
+                        3.0837734,
+                        45.7832849
+                    ],
+                    [
+                        3.0840422,
+                        45.7832
+                    ],
+                    [
+                        3.0840725,
+                        45.7831904
+                    ],
+                    [
+                        3.0842144,
+                        45.7831345
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Chauffour",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

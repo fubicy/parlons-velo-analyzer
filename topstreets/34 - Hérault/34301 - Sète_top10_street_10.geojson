@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17680185,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.6961405,
+                        43.3990669
+                    ],
+                    [
+                        3.6961443,
+                        43.3990183
+                    ],
+                    [
+                        3.6961614,
+                        43.3989327
+                    ],
+                    [
+                        3.6961706,
+                        43.3988864
+                    ],
+                    [
+                        3.6962618,
+                        43.3983753
+                    ],
+                    [
+                        3.6962708,
+                        43.3983317
+                    ],
+                    [
+                        3.6962712,
+                        43.3980819
+                    ],
+                    [
+                        3.6962666,
+                        43.3980225
+                    ],
+                    [
+                        3.6962542,
+                        43.3979149
+                    ]
+                ]
+            },
+            "properties": {
+                "class:bicycle:commute": "-1",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Grand'Rue Mario Roustan",
+                "old_ref": "N112",
+                "oneway": "no",
+                "ref": "D 612",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:urban",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

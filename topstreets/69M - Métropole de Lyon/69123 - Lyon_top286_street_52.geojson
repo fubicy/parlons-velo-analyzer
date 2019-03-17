@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24988046,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8563626,
+                        45.7803648
+                    ],
+                    [
+                        4.856158,
+                        45.7809753
+                    ],
+                    [
+                        4.8561458,
+                        45.7810091
+                    ],
+                    [
+                        4.8561224,
+                        45.7810737
+                    ]
+                ]
+            },
+            "properties": {
+                "access:conditional": "no @ (Apr 15-Oct 14 00:00-06:30,22:30-24:00 ; Oct 15-Apr 14 00:00-06:30,20:30-24:00)",
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "name": "All\u00e9e de L'\u00cele",
+                "segregated": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157082624,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8561224,
+                        45.7810737
+                    ],
+                    [
+                        4.8560523,
+                        45.7812176
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "highway": "pedestrian",
+                "layer": "1",
+                "name": "All\u00e9e de L'\u00cele",
+                "segregated": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

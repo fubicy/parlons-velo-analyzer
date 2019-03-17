@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4274855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8585933,
+                        45.7410294
+                    ],
+                    [
+                        4.8589633,
+                        45.7405558
+                    ],
+                    [
+                        4.8594883,
+                        45.7398959
+                    ],
+                    [
+                        4.8595052,
+                        45.7398747
+                    ],
+                    [
+                        4.8597084,
+                        45.7398348
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue de l'Europe",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

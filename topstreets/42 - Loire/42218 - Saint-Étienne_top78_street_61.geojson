@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29180167,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3848055,
+                        45.4430797
+                    ],
+                    [
+                        4.3845941,
+                        45.4438462
+                    ],
+                    [
+                        4.3843308,
+                        45.444813
+                    ],
+                    [
+                        4.3840535,
+                        45.4457349
+                    ],
+                    [
+                        4.3837354,
+                        45.4468399
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Marengo",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219669677,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3837354,
+                        45.4468399
+                    ],
+                    [
+                        4.3837086,
+                        45.4469303
+                    ],
+                    [
+                        4.3833658,
+                        45.4480894
+                    ],
+                    [
+                        4.3833541,
+                        45.448129
+                    ],
+                    [
+                        4.3833349,
+                        45.4481944
+                    ],
+                    [
+                        4.3828273,
+                        45.4499243
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Marengo",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23749539,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1234819,
+                        45.9051016
+                    ],
+                    [
+                        6.122348,
+                        45.904865
+                    ],
+                    [
+                        6.1222913,
+                        45.9048532
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "name": "Rue Raoul Blanchard",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77417367,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1222913,
+                        45.9048532
+                    ],
+                    [
+                        6.1222327,
+                        45.9048454
+                    ],
+                    [
+                        6.1220462,
+                        45.9048204
+                    ],
+                    [
+                        6.1216672,
+                        45.9047693
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Raoul Blanchard",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 649724625,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1215465,
+                        45.904753
+                    ],
+                    [
+                        6.1215061,
+                        45.9047475
+                    ],
+                    [
+                        6.1214635,
+                        45.9047418
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Raoul Blanchard",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 649724626,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1216672,
+                        45.9047693
+                    ],
+                    [
+                        6.1215465,
+                        45.904753
+                    ]
+                ]
+            },
+            "properties": {
+                "covered": "yes",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Raoul Blanchard",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "tunnel": "building_passage",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

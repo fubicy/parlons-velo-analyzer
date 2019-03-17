@@ -1,0 +1,166 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 154820564,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.982833,
+                        43.9259495
+                    ],
+                    [
+                        4.9815263,
+                        43.9257127
+                    ],
+                    [
+                        4.9801396,
+                        43.9254692
+                    ],
+                    [
+                        4.9792342,
+                        43.9253116
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Route d'Avignon",
+                "oneway": "no",
+                "ref": "D 901",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 355426160,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9787133,
+                        43.925217
+                    ],
+                    [
+                        4.9779487,
+                        43.9250798
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Route d'Avignon",
+                "oneway": "no",
+                "ref": "D 901",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 598311527,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9789056,
+                        43.9252521
+                    ],
+                    [
+                        4.9787133,
+                        43.925217
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Route d'Avignon",
+                "oneway": "no",
+                "ref": "D 901",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 598311528,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9779487,
+                        43.9250798
+                    ],
+                    [
+                        4.9773723,
+                        43.9249764
+                    ],
+                    [
+                        4.977125,
+                        43.9249367
+                    ],
+                    [
+                        4.9762363,
+                        43.9247792
+                    ],
+                    [
+                        4.9738116,
+                        43.924337
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "80",
+                "name": "Route d'Avignon",
+                "oneway": "no",
+                "ref": "D 901",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 598311531,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9792342,
+                        43.9253116
+                    ],
+                    [
+                        4.9789056,
+                        43.9252521
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed:backward": "70",
+                "maxspeed:forward": "50",
+                "name": "Route d'Avignon",
+                "oneway": "no",
+                "ref": "D 901",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

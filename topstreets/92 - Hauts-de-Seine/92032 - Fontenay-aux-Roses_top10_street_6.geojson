@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37350513,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2887874,
+                        48.7902501
+                    ],
+                    [
+                        2.2887982,
+                        48.7902344
+                    ],
+                    [
+                        2.2888401,
+                        48.7901735
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "name": "Rue Antoine Petit",
+                "source": "survey 05/2018",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61327039,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2889959,
+                        48.7905733
+                    ],
+                    [
+                        2.2889061,
+                        48.7904293
+                    ],
+                    [
+                        2.2887874,
+                        48.7902501
+                    ],
+                    [
+                        2.2885158,
+                        48.78984
+                    ],
+                    [
+                        2.2882275,
+                        48.7892162
+                    ],
+                    [
+                        2.288151,
+                        48.789132
+                    ],
+                    [
+                        2.2880437,
+                        48.7890501
+                    ],
+                    [
+                        2.2879988,
+                        48.7889951
+                    ],
+                    [
+                        2.287976,
+                        48.7889485
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue Antoine Petit",
+                "ref": "D 63",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 479860605,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2888401,
+                        48.7901735
+                    ],
+                    [
+                        2.2885366,
+                        48.789519
+                    ],
+                    [
+                        2.2883371,
+                        48.7888671
+                    ],
+                    [
+                        2.2883038,
+                        48.7887724
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Antoine Petit",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

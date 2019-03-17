@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4246658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8289446,
+                        45.0681784
+                    ],
+                    [
+                        4.8291314,
+                        45.0682086
+                    ],
+                    [
+                        4.8292315,
+                        45.0682248
+                    ],
+                    [
+                        4.8294793,
+                        45.0682861
+                    ],
+                    [
+                        4.8296817,
+                        45.0683313
+                    ],
+                    [
+                        4.8299027,
+                        45.068517
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Lachanal",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 298903855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8299027,
+                        45.068517
+                    ],
+                    [
+                        4.8300918,
+                        45.0687506
+                    ],
+                    [
+                        4.8301206,
+                        45.0688013
+                    ],
+                    [
+                        4.8301559,
+                        45.068857
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Lachanal",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

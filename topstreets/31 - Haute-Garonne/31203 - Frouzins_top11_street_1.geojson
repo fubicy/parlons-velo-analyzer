@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 176794505,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3196789,
+                        43.5190806
+                    ],
+                    [
+                        1.3183997,
+                        43.5197827
+                    ],
+                    [
+                        1.3177292,
+                        43.5201017
+                    ],
+                    [
+                        1.3170525,
+                        43.5204227
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "path",
+                "name": "Route de Plaisance",
+                "segregated": "no",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195929182,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3170525,
+                        43.5204227
+                    ],
+                    [
+                        1.3170087,
+                        43.5203903
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "cycleway",
+                "name": "Route de Plaisance",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23803845,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3860643,
+                        48.8356811
+                    ],
+                    [
+                        2.3860874,
+                        48.8356938
+                    ],
+                    [
+                        2.3861104,
+                        48.8357065
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "name": "Place Lachambeaudie",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120997900,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3876955,
+                        48.8364894
+                    ],
+                    [
+                        2.3875812,
+                        48.8365611
+                    ],
+                    [
+                        2.3874764,
+                        48.8365864
+                    ],
+                    [
+                        2.3873602,
+                        48.8365718
+                    ],
+                    [
+                        2.3869379,
+                        48.8363452
+                    ],
+                    [
+                        2.3868311,
+                        48.8362881
+                    ],
+                    [
+                        2.3867782,
+                        48.8362598
+                    ],
+                    [
+                        2.386769,
+                        48.8362549
+                    ],
+                    [
+                        2.3867177,
+                        48.8361901
+                    ],
+                    [
+                        2.3867193,
+                        48.8361207
+                    ],
+                    [
+                        2.3867579,
+                        48.8360526
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Place Lachambeaudie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3389926",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123332689,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3864726,
+                        48.8359053
+                    ],
+                    [
+                        2.3867579,
+                        48.8360526
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Place Lachambeaudie",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123332690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3861104,
+                        48.8357065
+                    ],
+                    [
+                        2.3862032,
+                        48.8357574
+                    ],
+                    [
+                        2.3864726,
+                        48.8359053
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Place Lachambeaudie",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

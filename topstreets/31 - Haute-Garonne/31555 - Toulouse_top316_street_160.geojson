@@ -1,0 +1,298 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22695944,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4347884,
+                        43.6104402
+                    ],
+                    [
+                        1.4347919,
+                        43.6103819
+                    ],
+                    [
+                        1.4347586,
+                        43.6103045
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Armand Duportal",
+                "oneway": "yes",
+                "short_name": "Boulevard Duportal",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22717778,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.434624,
+                        43.6049447
+                    ],
+                    [
+                        1.4346267,
+                        43.6050421
+                    ],
+                    [
+                        1.4346358,
+                        43.6051599
+                    ],
+                    [
+                        1.4346585,
+                        43.6054894
+                    ],
+                    [
+                        1.4346476,
+                        43.605575
+                    ],
+                    [
+                        1.434624,
+                        43.6056467
+                    ],
+                    [
+                        1.4346211,
+                        43.6057389
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "boundary": "political",
+                "highway": "construction",
+                "maxspeed": "30",
+                "name": "Boulevard Armand Duportal",
+                "note": "11/07/2015 : Date de fin de l'arr\u00eat\u00e9 temporaire n\u00b02013/0032",
+                "oneway": "yes",
+                "political_division": "canton",
+                "short_name": "Boulevard Duportal",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99270761,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4347586,
+                        43.6103045
+                    ],
+                    [
+                        1.4348275,
+                        43.6102091
+                    ],
+                    [
+                        1.434914,
+                        43.6100665
+                    ],
+                    [
+                        1.4349079,
+                        43.6099145
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway:left": "lane",
+                "cycleway:right": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Boulevard Armand Duportal",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "political_division": "canton",
+                "short_name": "Boulevard Duportal",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99270774,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4349079,
+                        43.6099145
+                    ],
+                    [
+                        1.4348807,
+                        43.6095207
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Boulevard Armand Duportal",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "political_division": "canton",
+                "short_name": "Boulevard Duportal",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99272681,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4348807,
+                        43.6095207
+                    ],
+                    [
+                        1.4348731,
+                        43.6094037
+                    ],
+                    [
+                        1.4348476,
+                        43.6090307
+                    ],
+                    [
+                        1.4348248,
+                        43.6085853
+                    ],
+                    [
+                        1.4348187,
+                        43.6085144
+                    ],
+                    [
+                        1.4348119,
+                        43.6084299
+                    ],
+                    [
+                        1.4347667,
+                        43.6078653
+                    ],
+                    [
+                        1.4346687,
+                        43.6061018
+                    ],
+                    [
+                        1.4346568,
+                        43.6058877
+                    ],
+                    [
+                        1.4346211,
+                        43.6057389
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Boulevard Armand Duportal",
+                "name:fr": "Boulevard Armand Duportal",
+                "name:oc": "Baloard Armand Duportal",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee_per_hour": "12\u20ac",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:maxstay": "24 hours",
+                "parking:condition:both:3:residents": "LECLERC",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 hours",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "perpendicular",
+                "parking:lane:both:capacity": "126",
+                "parking:lane:both:perpendicular": "on_street",
+                "political_division": "canton",
+                "short_name": "Boulevard Duportal",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122996513,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4346211,
+                        43.6057389
+                    ],
+                    [
+                        1.4345771,
+                        43.6056419
+                    ],
+                    [
+                        1.4345213,
+                        43.6055704
+                    ],
+                    [
+                        1.4344265,
+                        43.6055041
+                    ],
+                    [
+                        1.4343302,
+                        43.6054633
+                    ],
+                    [
+                        1.4342188,
+                        43.6054418
+                    ],
+                    [
+                        1.4341182,
+                        43.6054379
+                    ],
+                    [
+                        1.4340208,
+                        43.6054397
+                    ],
+                    [
+                        1.4339191,
+                        43.6054527
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Boulevard Armand Duportal",
+                "name:oc": "Baloard Armand Duportal",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "short_name": "Boulevard Duportal",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

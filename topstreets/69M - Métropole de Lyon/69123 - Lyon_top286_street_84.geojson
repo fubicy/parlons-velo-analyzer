@@ -1,0 +1,298 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10153474,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8038357,
+                        45.7770471
+                    ],
+                    [
+                        4.80367,
+                        45.7772309
+                    ],
+                    [
+                        4.8034689,
+                        45.7774557
+                    ],
+                    [
+                        4.8033812,
+                        45.7775601
+                    ],
+                    [
+                        4.8030753,
+                        45.7779124
+                    ],
+                    [
+                        4.8024891,
+                        45.7785562
+                    ],
+                    [
+                        4.8024339,
+                        45.7786269
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Bourgogne",
+                "old_ref": "N 6",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29606479,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8038357,
+                        45.7770471
+                    ],
+                    [
+                        4.8038596,
+                        45.7770194
+                    ],
+                    [
+                        4.8039677,
+                        45.7768938
+                    ],
+                    [
+                        4.8039866,
+                        45.776872
+                    ],
+                    [
+                        4.8040371,
+                        45.7768138
+                    ],
+                    [
+                        4.8051721,
+                        45.7755064
+                    ],
+                    [
+                        4.8052218,
+                        45.7754492
+                    ],
+                    [
+                        4.8052916,
+                        45.7753769
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue de Bourgogne",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "oneway:psv": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58649872,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8024339,
+                        45.7786269
+                    ],
+                    [
+                        4.8023013,
+                        45.7787759
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxheight": "4.5",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Bourgogne",
+                "old_ref": "N 6",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156013699,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.801258,
+                        45.7799799
+                    ],
+                    [
+                        4.8010077,
+                        45.7802573
+                    ],
+                    [
+                        4.8009786,
+                        45.7802902
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "name": "Rue de Bourgogne",
+                "old_ref": "N 6",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left;through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201526499,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8023013,
+                        45.7787759
+                    ],
+                    [
+                        4.8021401,
+                        45.778957
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxheight": "4.5",
+                "name": "Rue de Bourgogne",
+                "old_ref": "N 6",
+                "oneway": "no",
+                "ref": "D 506",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201526500,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8021401,
+                        45.778957
+                    ],
+                    [
+                        4.8019162,
+                        45.7792145
+                    ],
+                    [
+                        4.80189,
+                        45.7792441
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxheight": "4.5",
+                "name": "Rue de Bourgogne",
+                "old_ref": "N 6",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554886055,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8009786,
+                        45.7802902
+                    ],
+                    [
+                        4.8008898,
+                        45.7803911
+                    ],
+                    [
+                        4.8008258,
+                        45.7804669
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "name": "Rue de Bourgogne",
+                "old_ref": "N 6",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left;through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554886057,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.80189,
+                        45.7792441
+                    ],
+                    [
+                        4.8018453,
+                        45.7792931
+                    ],
+                    [
+                        4.8013635,
+                        45.7798565
+                    ],
+                    [
+                        4.801258,
+                        45.7799799
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Rue de Bourgogne",
+                "old_ref": "N 6",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

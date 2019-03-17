@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 21164193,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3085621,
+                        48.7531411
+                    ],
+                    [
+                        2.3084975,
+                        48.7532167
+                    ],
+                    [
+                        2.3083967,
+                        48.7533279
+                    ],
+                    [
+                        2.3083702,
+                        48.7533578
+                    ],
+                    [
+                        2.3076698,
+                        48.7535937
+                    ],
+                    [
+                        2.3073443,
+                        48.7537055
+                    ],
+                    [
+                        2.3072876,
+                        48.753725
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Arthur Blanchet",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

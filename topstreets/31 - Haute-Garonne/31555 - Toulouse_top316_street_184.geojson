@@ -1,0 +1,161 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 21038203,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4386564,
+                        43.6021
+                    ],
+                    [
+                        1.4385813,
+                        43.6021385
+                    ],
+                    [
+                        1.4382405,
+                        43.6022793
+                    ],
+                    [
+                        1.4381259,
+                        43.6023279
+                    ],
+                    [
+                        1.4375944,
+                        43.6025534
+                    ],
+                    [
+                        1.4372165,
+                        43.6027063
+                    ],
+                    [
+                        1.4369585,
+                        43.6027852
+                    ],
+                    [
+                        1.4363828,
+                        43.6029569
+                    ],
+                    [
+                        1.4361151,
+                        43.6030687
+                    ],
+                    [
+                        1.4360351,
+                        43.6031021
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Blanchers",
+                "name:oc": "Carri\u00e8ra dels Blanqui\u00e8rs",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22717781,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4372165,
+                        43.6027063
+                    ],
+                    [
+                        1.4372065,
+                        43.6027399
+                    ],
+                    [
+                        1.4371788,
+                        43.6029529
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Blanchers",
+                "name:fr": "Rue des Blanchers",
+                "name:oc": "Carri\u00e8ra dels Blanqui\u00e8rs",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197457045,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4371788,
+                        43.6029529
+                    ],
+                    [
+                        1.4371696,
+                        43.6030473
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Blanchers",
+                "name:fr": "Rue des Blanchers",
+                "name:oc": "Carri\u00e8ra dels Blanqui\u00e8rs",
+                "tunnel": "building_passage",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 325928097,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4388416,
+                        43.601963
+                    ],
+                    [
+                        1.4388093,
+                        43.6019977
+                    ],
+                    [
+                        1.4386564,
+                        43.6021
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Blanchers",
+                "name:oc": "Carri\u00e8ra dels Blanqui\u00e8rs",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

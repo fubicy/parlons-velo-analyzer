@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26726504,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.586805,
+                        47.2015347
+                    ],
+                    [
+                        -1.5868914,
+                        47.2015303
+                    ],
+                    [
+                        -1.5870311,
+                        47.201523
+                    ],
+                    [
+                        -1.5871416,
+                        47.2015365
+                    ],
+                    [
+                        -1.5878579,
+                        47.2017292
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue de la H\u00e9relle",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193778374,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5878579,
+                        47.2017292
+                    ],
+                    [
+                        -1.5879393,
+                        47.2017374
+                    ],
+                    [
+                        -1.5880502,
+                        47.2017485
+                    ],
+                    [
+                        -1.5886094,
+                        47.2016517
+                    ],
+                    [
+                        -1.5888603,
+                        47.2015863
+                    ],
+                    [
+                        -1.5889135,
+                        47.2015724
+                    ],
+                    [
+                        -1.5889826,
+                        47.2015544
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la H\u00e9relle",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

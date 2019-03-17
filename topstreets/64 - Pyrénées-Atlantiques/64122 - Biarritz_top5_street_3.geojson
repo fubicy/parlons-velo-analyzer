@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 60180202,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5651986,
+                        43.4819672
+                    ],
+                    [
+                        -1.5652397,
+                        43.4819711
+                    ],
+                    [
+                        -1.5653162,
+                        43.4819798
+                    ],
+                    [
+                        -1.5656091,
+                        43.482024
+                    ],
+                    [
+                        -1.5657849,
+                        43.482052
+                    ],
+                    [
+                        -1.5659851,
+                        43.4820838
+                    ],
+                    [
+                        -1.5663976,
+                        43.4821494
+                    ],
+                    [
+                        -1.566732,
+                        43.4821843
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue du Port-Vieux",
+                "oneway": "yes",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 600750753,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.566732,
+                        43.4821843
+                    ],
+                    [
+                        -1.567006,
+                        43.4822075
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Port-Vieux",
+                "oneway": "yes",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 641605380,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5651345,
+                        43.4819536
+                    ],
+                    [
+                        -1.5647567,
+                        43.4818805
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue du Port-Vieux",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 641605381,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5651345,
+                        43.4819536
+                    ],
+                    [
+                        -1.5651986,
+                        43.4819672
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue du Port-Vieux",
+                "oneway": "yes",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

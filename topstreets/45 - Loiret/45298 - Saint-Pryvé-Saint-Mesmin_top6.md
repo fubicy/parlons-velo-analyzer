@@ -4,12 +4,12 @@ Sur l'ensemble de la ville il y a eu 20 réponses dont 18 réponses avec une rue
 
 6 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Avenue de Saint-Mesmin | 10 | 50% | <img src="../../img/bar_55.gif" />&nbsp;55%|
-| Rue Hatton | 4 | 20% | <img src="../../img/bar_22.gif" />&nbsp;22%|
-| Rue des Sablons | 1 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue des Plantes | 1 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue de la Cossonnière | 1 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Impasse de l'Ermitage | 1 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| **Total** | 18 | 90% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Avenue de Saint-Mesmin | 10 | <img src="../../img/bar_55.gif" />&nbsp;55%|
+| Rue Hatton | 4 | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| Rue des Sablons | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue des Plantes | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue de la Cossonnière | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Impasse de l'Ermitage | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| **Total** | 18 | 100%|

@@ -1,0 +1,403 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5133570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9284551,
+                        45.5663244
+                    ],
+                    [
+                        5.9280628,
+                        45.5663061
+                    ],
+                    [
+                        5.9275856,
+                        45.5662806
+                    ],
+                    [
+                        5.9274613,
+                        45.5662694
+                    ],
+                    [
+                        5.9273594,
+                        45.5662573
+                    ],
+                    [
+                        5.927254,
+                        45.5662401
+                    ],
+                    [
+                        5.9268944,
+                        45.5661829
+                    ],
+                    [
+                        5.9265195,
+                        45.5661292
+                    ],
+                    [
+                        5.9263037,
+                        45.5661046
+                    ],
+                    [
+                        5.9262091,
+                        45.5660943
+                    ],
+                    [
+                        5.9260659,
+                        45.5660787
+                    ],
+                    [
+                        5.9259734,
+                        45.5660653
+                    ],
+                    [
+                        5.9258125,
+                        45.5660307
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "motor_vehicle": "destination",
+                "name": "Faubourg Montm\u00e9lian",
+                "surface": "paved",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21842238,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9342893,
+                        45.5662982
+                    ],
+                    [
+                        5.9344792,
+                        45.5663849
+                    ],
+                    [
+                        5.9350669,
+                        45.5665771
+                    ],
+                    [
+                        5.9355425,
+                        45.5667216
+                    ],
+                    [
+                        5.9360076,
+                        45.5668569
+                    ],
+                    [
+                        5.9364029,
+                        45.5669759
+                    ],
+                    [
+                        5.9369746,
+                        45.567139
+                    ],
+                    [
+                        5.9373689,
+                        45.5672592
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Faubourg Montm\u00e9lian",
+                "source:maxspeed": "FR:urban",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24385244,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9296272,
+                        45.5663476
+                    ],
+                    [
+                        5.9303867,
+                        45.5663185
+                    ],
+                    [
+                        5.9307961,
+                        45.5663078
+                    ],
+                    [
+                        5.9309978,
+                        45.5662996
+                    ],
+                    [
+                        5.9312296,
+                        45.5662907
+                    ],
+                    [
+                        5.9314383,
+                        45.5662784
+                    ],
+                    [
+                        5.9318896,
+                        45.5662591
+                    ],
+                    [
+                        5.932309,
+                        45.5662402
+                    ],
+                    [
+                        5.9323462,
+                        45.5662371
+                    ],
+                    [
+                        5.9325341,
+                        45.5662273
+                    ],
+                    [
+                        5.9327457,
+                        45.5662148
+                    ],
+                    [
+                        5.9330937,
+                        45.5661911
+                    ],
+                    [
+                        5.9333665,
+                        45.5661831
+                    ],
+                    [
+                        5.933615,
+                        45.5661842
+                    ],
+                    [
+                        5.9339985,
+                        45.5661938
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Faubourg Montm\u00e9lian",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39594978,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9377334,
+                        45.5675857
+                    ],
+                    [
+                        5.9376219,
+                        45.5674703
+                    ],
+                    [
+                        5.9375666,
+                        45.5674076
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Faubourg Montm\u00e9lian",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82801310,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9373689,
+                        45.5672592
+                    ],
+                    [
+                        5.9374723,
+                        45.567271
+                    ],
+                    [
+                        5.9375435,
+                        45.5672971
+                    ],
+                    [
+                        5.9376527,
+                        45.5673667
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Faubourg Montm\u00e9lian",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82801321,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9375666,
+                        45.5674076
+                    ],
+                    [
+                        5.9375071,
+                        45.5673545
+                    ],
+                    [
+                        5.9373689,
+                        45.5672592
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Faubourg Montm\u00e9lian",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82801324,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9376527,
+                        45.5673667
+                    ],
+                    [
+                        5.937753,
+                        45.5674376
+                    ],
+                    [
+                        5.9378855,
+                        45.567515
+                    ],
+                    [
+                        5.9382884,
+                        45.5676865
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Faubourg Montm\u00e9lian",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82801330,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9376527,
+                        45.5673667
+                    ],
+                    [
+                        5.9377391,
+                        45.5673476
+                    ],
+                    [
+                        5.9386359,
+                        45.5676103
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "name": "Faubourg Montm\u00e9lian",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139551097,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9284551,
+                        45.5663244
+                    ],
+                    [
+                        5.9285105,
+                        45.5663307
+                    ],
+                    [
+                        5.9285674,
+                        45.5663329
+                    ],
+                    [
+                        5.9287607,
+                        45.5663378
+                    ],
+                    [
+                        5.9293343,
+                        45.5663432
+                    ],
+                    [
+                        5.9296272,
+                        45.5663476
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Faubourg Montm\u00e9lian",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

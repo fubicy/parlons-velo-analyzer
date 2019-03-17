@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 38212481,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1773315,
+                        48.6923163
+                    ],
+                    [
+                        6.1774846,
+                        48.6921509
+                    ],
+                    [
+                        6.1775445,
+                        48.6920907
+                    ],
+                    [
+                        6.1776225,
+                        48.6920203
+                    ],
+                    [
+                        6.1777296,
+                        48.6919332
+                    ],
+                    [
+                        6.1777504,
+                        48.691915
+                    ],
+                    [
+                        6.1778131,
+                        48.6918699
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "maxspeed": "30",
+                "name": "Rue Guerrier de Dumast",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41851716,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1769354,
+                        48.6925295
+                    ],
+                    [
+                        6.1770635,
+                        48.6924582
+                    ],
+                    [
+                        6.1771349,
+                        48.6924077
+                    ],
+                    [
+                        6.177194,
+                        48.6923677
+                    ],
+                    [
+                        6.1772495,
+                        48.6923478
+                    ],
+                    [
+                        6.1773315,
+                        48.6923163
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Quartier Charles \u2162;Quartier Gare",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Guerrier de Dumast",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 608841916,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1771784,
+                        48.6926196
+                    ],
+                    [
+                        6.1772241,
+                        48.6924874
+                    ],
+                    [
+                        6.1772638,
+                        48.6924078
+                    ],
+                    [
+                        6.1773315,
+                        48.6923163
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Quartier Charles \u2162;Quartier Gare",
+                "highway": "tertiary",
+                "lanes": "3",
+                "maxspeed": "30",
+                "name": "Rue Guerrier de Dumast",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

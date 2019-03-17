@@ -1,0 +1,368 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 11776387,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1238957,
+                        48.7934426
+                    ],
+                    [
+                        2.1242409,
+                        48.7939394
+                    ],
+                    [
+                        2.1242688,
+                        48.7939822
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue Royale",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11776866,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1275221,
+                        48.7987812
+                    ],
+                    [
+                        2.1277927,
+                        48.7991839
+                    ],
+                    [
+                        2.1278588,
+                        48.7992823
+                    ],
+                    [
+                        2.1279342,
+                        48.7993946
+                    ],
+                    [
+                        2.1280843,
+                        48.7996292
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue Royale",
+                "ref": "D 10",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136413770,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1242688,
+                        48.7939822
+                    ],
+                    [
+                        2.1242954,
+                        48.7940229
+                    ],
+                    [
+                        2.124647,
+                        48.7945456
+                    ],
+                    [
+                        2.1246814,
+                        48.7945953
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Rue Royale",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 567378641,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1246814,
+                        48.7945953
+                    ],
+                    [
+                        2.1247103,
+                        48.7946392
+                    ],
+                    [
+                        2.1250686,
+                        48.7951637
+                    ],
+                    [
+                        2.1250971,
+                        48.7952053
+                    ],
+                    [
+                        2.1251227,
+                        48.795243
+                    ],
+                    [
+                        2.125489,
+                        48.7957804
+                    ],
+                    [
+                        2.1255192,
+                        48.7958267
+                    ],
+                    [
+                        2.1255442,
+                        48.795862
+                    ],
+                    [
+                        2.1259092,
+                        48.7964053
+                    ],
+                    [
+                        2.1260895,
+                        48.7966792
+                    ],
+                    [
+                        2.1262488,
+                        48.7969108
+                    ],
+                    [
+                        2.1262903,
+                        48.7969697
+                    ],
+                    [
+                        2.1263375,
+                        48.7970383
+                    ],
+                    [
+                        2.126493,
+                        48.7972696
+                    ],
+                    [
+                        2.1266374,
+                        48.7974784
+                    ],
+                    [
+                        2.1266576,
+                        48.7975118
+                    ],
+                    [
+                        2.1266891,
+                        48.7975586
+                    ],
+                    [
+                        2.1270319,
+                        48.7980678
+                    ],
+                    [
+                        2.1270503,
+                        48.7980951
+                    ],
+                    [
+                        2.1270776,
+                        48.7981346
+                    ],
+                    [
+                        2.1274483,
+                        48.7986674
+                    ],
+                    [
+                        2.1275221,
+                        48.7987812
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Rue Royale",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 589002264,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1238619,
+                        48.7933934
+                    ],
+                    [
+                        2.1238816,
+                        48.7934211
+                    ],
+                    [
+                        2.1238957,
+                        48.7934426
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Royale",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 652097930,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1240494,
+                        48.7938338
+                    ],
+                    [
+                        2.1241466,
+                        48.7939672
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Royale",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 652097931,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1239776,
+                        48.7933943
+                    ],
+                    [
+                        2.1239366,
+                        48.7934059
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Royale",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 652097933,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1237979,
+                        48.7934257
+                    ],
+                    [
+                        2.1238113,
+                        48.7934451
+                    ],
+                    [
+                        2.123814,
+                        48.7934592
+                    ],
+                    [
+                        2.1238442,
+                        48.7935061
+                    ],
+                    [
+                        2.1238422,
+                        48.7935295
+                    ],
+                    [
+                        2.1240494,
+                        48.7938338
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Royale",
+                "surface": "paved",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 652097952,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1239233,
+                        48.7933157
+                    ],
+                    [
+                        2.1239447,
+                        48.7933467
+                    ],
+                    [
+                        2.1239776,
+                        48.7933943
+                    ],
+                    [
+                        2.1243368,
+                        48.7939111
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Royale",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

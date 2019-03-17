@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 441672926,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9060996,
+                        45.7696382
+                    ],
+                    [
+                        4.9053024,
+                        45.7684299
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Pont de Cusset",
+                "oneway": "no",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

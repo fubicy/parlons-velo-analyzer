@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 54378003,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3086925,
+                        48.8963142
+                    ],
+                    [
+                        2.3086264,
+                        48.896379
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 494398880,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3086264,
+                        48.896379
+                    ],
+                    [
+                        2.3077252,
+                        48.8972359
+                    ],
+                    [
+                        2.3074342,
+                        48.8975302
+                    ],
+                    [
+                        2.3060351,
+                        48.8988109
+                    ],
+                    [
+                        2.3052657,
+                        48.8995132
+                    ],
+                    [
+                        2.3052237,
+                        48.8995516
+                    ],
+                    [
+                        2.3051478,
+                        48.8996233
+                    ],
+                    [
+                        2.3041371,
+                        48.9005777
+                    ],
+                    [
+                        2.3041256,
+                        48.9005876
+                    ],
+                    [
+                        2.3036054,
+                        48.901039
+                    ],
+                    [
+                        2.3035946,
+                        48.9010495
+                    ],
+                    [
+                        2.3031316,
+                        48.9015004
+                    ],
+                    [
+                        2.3024914,
+                        48.9020969
+                    ],
+                    [
+                        2.3020983,
+                        48.9027002
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Paris",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 174150013,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0906865,
+                        49.4301234
+                    ],
+                    [
+                        1.0907355,
+                        49.4300844
+                    ],
+                    [
+                        1.0918637,
+                        49.42919
+                    ],
+                    [
+                        1.0919171,
+                        49.4291477
+                    ],
+                    [
+                        1.0919811,
+                        49.4290968
+                    ],
+                    [
+                        1.093287,
+                        49.4280579
+                    ],
+                    [
+                        1.0933435,
+                        49.4280087
+                    ],
+                    [
+                        1.0933998,
+                        49.4279639
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue du Mail",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205835081,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0893454,
+                        49.4311907
+                    ],
+                    [
+                        1.0893031,
+                        49.4312251
+                    ],
+                    [
+                        1.0892566,
+                        49.4312629
+                    ],
+                    [
+                        1.088907,
+                        49.4315473
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Mail",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235168311,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0883579,
+                        49.4319738
+                    ],
+                    [
+                        1.0886858,
+                        49.4317191
+                    ],
+                    [
+                        1.088907,
+                        49.4315473
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Mail",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235346009,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0893454,
+                        49.4311907
+                    ],
+                    [
+                        1.0893975,
+                        49.4311486
+                    ],
+                    [
+                        1.0905919,
+                        49.4301987
+                    ],
+                    [
+                        1.0906471,
+                        49.4301547
+                    ],
+                    [
+                        1.0906865,
+                        49.4301234
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue du Mail",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

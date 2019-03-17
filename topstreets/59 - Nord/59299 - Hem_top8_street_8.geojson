@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 35047671,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1809834,
+                        50.6483656
+                    ],
+                    [
+                        3.1814816,
+                        50.6483083
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "bridge": "yes",
+                "foot": "no",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "90",
+                "name": "Avenue de Roubaix",
+                "oneway": "no",
+                "ref": "D 700",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

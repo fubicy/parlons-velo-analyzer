@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 74865436,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8281871,
+                        48.6357694
+                    ],
+                    [
+                        1.8281323,
+                        48.6360548
+                    ],
+                    [
+                        1.828151,
+                        48.6362203
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Raymond Patenotre",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 577805456,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8285334,
+                        48.6367698
+                    ],
+                    [
+                        1.8285479,
+                        48.6368174
+                    ],
+                    [
+                        1.8285643,
+                        48.6368424
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "secondary",
+                "name": "Rue Raymond Patenotre",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

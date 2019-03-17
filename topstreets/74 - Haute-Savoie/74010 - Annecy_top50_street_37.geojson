@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25416693,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1315859,
+                        45.8984715
+                    ],
+                    [
+                        6.1315019,
+                        45.8984644
+                    ],
+                    [
+                        6.1313289,
+                        45.8984574
+                    ],
+                    [
+                        6.130749,
+                        45.8984307
+                    ],
+                    [
+                        6.1304713,
+                        45.8984315
+                    ],
+                    [
+                        6.1295234,
+                        45.8984485
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Quai Napol\u00e9on III",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 358875822,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1295234,
+                        45.8984485
+                    ],
+                    [
+                        6.1291338,
+                        45.8984569
+                    ],
+                    [
+                        6.1291,
+                        45.8984581
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "name": "Quai Napol\u00e9on III",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 639122355,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1291,
+                        45.8984581
+                    ],
+                    [
+                        6.1290139,
+                        45.8984613
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Quai Napol\u00e9on III",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

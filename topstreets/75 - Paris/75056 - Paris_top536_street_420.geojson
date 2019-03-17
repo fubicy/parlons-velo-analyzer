@@ -1,0 +1,136 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4251023,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3253207,
+                        48.8690129
+                    ],
+                    [
+                        2.3252034,
+                        48.8693127
+                    ],
+                    [
+                        2.3251709,
+                        48.8693956
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Duphot",
+                "note": "portion double-sens pour parquer les scooters",
+                "surface": "asphalt",
+                "wikidata": "Q3447743",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4251024,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3251709,
+                        48.8693956
+                    ],
+                    [
+                        2.3251448,
+                        48.8694624
+                    ],
+                    [
+                        2.3251285,
+                        48.8695055
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Rue Duphot",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22696928,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3253207,
+                        48.8690129
+                    ],
+                    [
+                        2.325386,
+                        48.8688378
+                    ],
+                    [
+                        2.3256153,
+                        48.8682227
+                    ],
+                    [
+                        2.3258194,
+                        48.8676209
+                    ],
+                    [
+                        2.325835,
+                        48.8675462
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Duphot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3447743",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362310464,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3251285,
+                        48.8695055
+                    ],
+                    [
+                        2.3251048,
+                        48.8695638
+                    ],
+                    [
+                        2.3250435,
+                        48.8696988
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Rue Duphot",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

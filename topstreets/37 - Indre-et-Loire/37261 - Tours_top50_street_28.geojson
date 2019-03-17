@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 262820501,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7031678,
+                        47.3871641
+                    ],
+                    [
+                        0.7032009,
+                        47.3870244
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Velpeau",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

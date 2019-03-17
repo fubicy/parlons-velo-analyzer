@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 51496943,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3402502,
+                        48.0762861
+                    ],
+                    [
+                        7.3404441,
+                        48.0765833
+                    ],
+                    [
+                        7.3405082,
+                        48.0766776
+                    ],
+                    [
+                        7.3405555,
+                        48.0767547
+                    ],
+                    [
+                        7.3405932,
+                        48.0768163
+                    ],
+                    [
+                        7.341205,
+                        48.0778147
+                    ],
+                    [
+                        7.3416772,
+                        48.0785636
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Guebwiller",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 634018898,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3416772,
+                        48.0785636
+                    ],
+                    [
+                        7.3416914,
+                        48.0785861
+                    ],
+                    [
+                        7.3417012,
+                        48.0786016
+                    ],
+                    [
+                        7.3417215,
+                        48.0786338
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Guebwiller",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "traffic_calming": "hump",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

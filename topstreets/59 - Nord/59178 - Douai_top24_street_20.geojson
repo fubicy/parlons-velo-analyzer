@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 97504038,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0777181,
+                        50.3704507
+                    ],
+                    [
+                        3.0777488,
+                        50.3704478
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Pont du Rivage",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190706744,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0777488,
+                        50.3704478
+                    ],
+                    [
+                        3.0779881,
+                        50.3704304
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "residential",
+                "layer": "1",
+                "name": "Pont du Rivage",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

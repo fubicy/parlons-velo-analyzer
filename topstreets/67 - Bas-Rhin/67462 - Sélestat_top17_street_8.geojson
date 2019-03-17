@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33183064,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.4595735,
+                        48.2697471
+                    ],
+                    [
+                        7.4596829,
+                        48.2688953
+                    ],
+                    [
+                        7.4597892,
+                        48.2681863
+                    ],
+                    [
+                        7.4596537,
+                        48.2674237
+                    ],
+                    [
+                        7.459593,
+                        48.2670822
+                    ],
+                    [
+                        7.4595063,
+                        48.2661123
+                    ],
+                    [
+                        7.4594995,
+                        48.2660361
+                    ],
+                    [
+                        7.4592218,
+                        48.2644775
+                    ],
+                    [
+                        7.4591799,
+                        48.2643972
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxweight": "3.5",
+                "maxweight:conditional": "none @ destination",
+                "name": "Rue d'Ebersheim",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 518352243,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.4596029,
+                        48.2707003
+                    ],
+                    [
+                        7.4595855,
+                        48.2704608
+                    ],
+                    [
+                        7.4595674,
+                        48.2702079
+                    ],
+                    [
+                        7.4595735,
+                        48.2697471
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "maxweight:conditional": "none @ destination",
+                "name": "Rue d'Ebersheim",
+                "source:maxspeed": "sign",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 518352244,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.4593575,
+                        48.27168
+                    ],
+                    [
+                        7.4594464,
+                        48.2716405
+                    ],
+                    [
+                        7.4595963,
+                        48.2715765
+                    ],
+                    [
+                        7.4596601,
+                        48.2714868
+                    ],
+                    [
+                        7.4596029,
+                        48.2707003
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxweight": "3.5",
+                "maxweight:conditional": "none @ destination",
+                "name": "Rue d'Ebersheim",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

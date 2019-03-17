@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 139609995,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4023959,
+                        48.8014462
+                    ],
+                    [
+                        2.4023829,
+                        48.801468
+                    ],
+                    [
+                        2.4023527,
+                        48.8015028
+                    ],
+                    [
+                        2.4022563,
+                        48.8015542
+                    ],
+                    [
+                        2.4017815,
+                        48.8022563
+                    ],
+                    [
+                        2.4014777,
+                        48.802751
+                    ],
+                    [
+                        2.4008135,
+                        48.8036739
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue d'Ivry",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139609997,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4023959,
+                        48.8014462
+                    ],
+                    [
+                        2.4023595,
+                        48.8013547
+                    ],
+                    [
+                        2.4023954,
+                        48.8012279
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue d'Ivry",
+                "ref": "D 155",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 628141393,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1006837,
+                        45.8871918
+                    ],
+                    [
+                        6.1005107,
+                        45.887295
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Saint-Jean",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 628141395,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1004725,
+                        45.8872735
+                    ],
+                    [
+                        6.1006549,
+                        45.8871657
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Saint-Jean",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

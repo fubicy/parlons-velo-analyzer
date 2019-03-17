@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 53034461,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4163578,
+                        46.1289027
+                    ],
+                    [
+                        3.416274,
+                        46.1288829
+                    ],
+                    [
+                        3.4161988,
+                        46.1288652
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Quai d'Allier",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66784262,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4161556,
+                        46.1287531
+                    ],
+                    [
+                        3.415791,
+                        46.1276722
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Quai d'Allier",
+                "oneway": "yes",
+                "source": "CRAIG - IGN - TopoGEODIS - Feder Auvergne-Rh\u00f4ne-Alpes 2016",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126982805,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4161988,
+                        46.1288652
+                    ],
+                    [
+                        3.4161556,
+                        46.1287531
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Quai d'Allier",
+                "oneway": "yes",
+                "source": "CRAIG - IGN - TopoGEODIS - Feder Auvergne-Rh\u00f4ne-Alpes 2016",
+                "traffic_calming": "table",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 306275339,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4154461,
+                        46.1265344
+                    ],
+                    [
+                        3.4154307,
+                        46.1263786
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Quai d'Allier",
+                "oneway": "yes",
+                "traffic_calming": "table",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 306275340,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4157352,
+                        46.1275002
+                    ],
+                    [
+                        3.4155009,
+                        46.1268271
+                    ],
+                    [
+                        3.4154461,
+                        46.1265344
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Quai d'Allier",
+                "oneway": "yes",
+                "source": "CRAIG - IGN - TopoGEODIS - Feder Auvergne-Rh\u00f4ne-Alpes 2016",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 306275341,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.415791,
+                        46.1276722
+                    ],
+                    [
+                        3.415748,
+                        46.1275408
+                    ],
+                    [
+                        3.4157352,
+                        46.1275002
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Quai d'Allier",
+                "oneway": "yes",
+                "source": "CRAIG - IGN - TopoGEODIS - Feder Auvergne-Rh\u00f4ne-Alpes 2016",
+                "traffic_calming": "table",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23767167,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1278982,
+                        45.9004218
+                    ],
+                    [
+                        6.1278195,
+                        45.9004001
+                    ],
+                    [
+                        6.1277071,
+                        45.9003621
+                    ],
+                    [
+                        6.1275325,
+                        45.9003179
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Lac",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40485754,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1275325,
+                        45.9003179
+                    ],
+                    [
+                        6.1267607,
+                        45.900394
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Lac",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 435318630,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1267607,
+                        45.900394
+                    ],
+                    [
+                        6.126013,
+                        45.9003488
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "motor_vehicle": "destination",
+                "name": "Rue du Lac",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

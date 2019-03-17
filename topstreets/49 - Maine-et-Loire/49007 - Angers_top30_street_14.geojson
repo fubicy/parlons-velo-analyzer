@@ -1,0 +1,663 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31452300,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5502015,
+                        47.4760133
+                    ],
+                    [
+                        -0.5511605,
+                        47.476456
+                    ],
+                    [
+                        -0.551247,
+                        47.4764951
+                    ],
+                    [
+                        -0.5513526,
+                        47.4765428
+                    ],
+                    [
+                        -0.5514966,
+                        47.4766061
+                    ],
+                    [
+                        -0.5515466,
+                        47.4766291
+                    ],
+                    [
+                        -0.5516442,
+                        47.4766677
+                    ],
+                    [
+                        -0.5517017,
+                        47.4766917
+                    ],
+                    [
+                        -0.5521326,
+                        47.4768833
+                    ],
+                    [
+                        -0.5527545,
+                        47.477156
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "horse": "yes",
+                "lanes": "2",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "width": "8",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190432696,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5502015,
+                        47.4760133
+                    ],
+                    [
+                        -0.550266,
+                        47.4761601
+                    ],
+                    [
+                        -0.5511393,
+                        47.4765351
+                    ],
+                    [
+                        -0.5512792,
+                        47.4765941
+                    ],
+                    [
+                        -0.5514746,
+                        47.4766758
+                    ],
+                    [
+                        -0.5515804,
+                        47.4767207
+                    ],
+                    [
+                        -0.5518433,
+                        47.4768309
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "no",
+                "bus": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "service",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "width": "3",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190433420,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5502685,
+                        47.4759402
+                    ],
+                    [
+                        -0.5501592,
+                        47.4758948
+                    ],
+                    [
+                        -0.5495528,
+                        47.4756498
+                    ],
+                    [
+                        -0.5492576,
+                        47.4755301
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190433421,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5493986,
+                        47.4756765
+                    ],
+                    [
+                        -0.5494931,
+                        47.4757161
+                    ],
+                    [
+                        -0.550031,
+                        47.4759418
+                    ],
+                    [
+                        -0.5502015,
+                        47.4760133
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190437605,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.552279,
+                        47.4768032
+                    ],
+                    [
+                        -0.5521999,
+                        47.4767275
+                    ],
+                    [
+                        -0.5519621,
+                        47.4766223
+                    ],
+                    [
+                        -0.5518465,
+                        47.4765711
+                    ],
+                    [
+                        -0.55182,
+                        47.4765593
+                    ],
+                    [
+                        -0.5517183,
+                        47.4765167
+                    ],
+                    [
+                        -0.551683,
+                        47.4764983
+                    ],
+                    [
+                        -0.5516157,
+                        47.476469
+                    ],
+                    [
+                        -0.5514035,
+                        47.4763751
+                    ],
+                    [
+                        -0.5513675,
+                        47.4763592
+                    ],
+                    [
+                        -0.5510814,
+                        47.4762326
+                    ],
+                    [
+                        -0.5508652,
+                        47.476224
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "cycleway": "share_busway",
+                "foot": "yes",
+                "highway": "service",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "psv": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "width": "3",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190444643,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5527545,
+                        47.477156
+                    ],
+                    [
+                        -0.5528748,
+                        47.4772072
+                    ],
+                    [
+                        -0.5530963,
+                        47.477306
+                    ],
+                    [
+                        -0.5531144,
+                        47.4773141
+                    ],
+                    [
+                        -0.553261,
+                        47.4773759
+                    ],
+                    [
+                        -0.553332,
+                        47.477407
+                    ],
+                    [
+                        -0.5535451,
+                        47.4775029
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190444644,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.552279,
+                        47.4768032
+                    ],
+                    [
+                        -0.5520409,
+                        47.4767467
+                    ],
+                    [
+                        -0.5517369,
+                        47.4766099
+                    ],
+                    [
+                        -0.5516432,
+                        47.476562
+                    ],
+                    [
+                        -0.5515323,
+                        47.4765173
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "horse": "yes",
+                "lanes": "2",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "sidewalk": "none",
+                "surface": "asphalt",
+                "width": "6",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190444645,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5508652,
+                        47.476224
+                    ],
+                    [
+                        -0.5502685,
+                        47.4759402
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "highway": "secondary",
+                "horse": "yes",
+                "lanes": "4",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through|through",
+                "width": "10",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190444856,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5515323,
+                        47.4765173
+                    ],
+                    [
+                        -0.5513245,
+                        47.4764289
+                    ],
+                    [
+                        -0.5508652,
+                        47.476224
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "no",
+                "highway": "secondary",
+                "horse": "yes",
+                "lanes": "2",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "sidewalk": "none",
+                "surface": "asphalt",
+                "width": "5",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196264547,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5485468,
+                        47.4753072
+                    ],
+                    [
+                        -0.5488731,
+                        47.4754511
+                    ],
+                    [
+                        -0.5489365,
+                        47.4754795
+                    ],
+                    [
+                        -0.5492915,
+                        47.4756316
+                    ],
+                    [
+                        -0.5493986,
+                        47.4756765
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 379537452,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5536486,
+                        47.4773834
+                    ],
+                    [
+                        -0.5535909,
+                        47.4773571
+                    ],
+                    [
+                        -0.5533992,
+                        47.4772697
+                    ],
+                    [
+                        -0.5532271,
+                        47.4771961
+                    ],
+                    [
+                        -0.5531183,
+                        47.4771505
+                    ],
+                    [
+                        -0.5526372,
+                        47.476949
+                    ],
+                    [
+                        -0.552279,
+                        47.4768032
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 405103016,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5518433,
+                        47.4768309
+                    ],
+                    [
+                        -0.5525799,
+                        47.4771397
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "no",
+                "bus": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "service",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "surface": "asphalt",
+                "width": "3",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 405103020,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5525799,
+                        47.4771397
+                    ],
+                    [
+                        -0.5527545,
+                        47.477156
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "no",
+                "bus": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "service",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "width": "3",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 531189015,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5539,
+                        47.4775566
+                    ],
+                    [
+                        -0.5537968,
+                        47.4774692
+                    ],
+                    [
+                        -0.5537447,
+                        47.4774263
+                    ],
+                    [
+                        -0.5536486,
+                        47.4773834
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 531190354,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5535451,
+                        47.4775029
+                    ],
+                    [
+                        -0.5537241,
+                        47.4775668
+                    ],
+                    [
+                        -0.5537776,
+                        47.4775858
+                    ],
+                    [
+                        -0.5538781,
+                        47.4776216
+                    ],
+                    [
+                        -0.5538916,
+                        47.4776264
+                    ],
+                    [
+                        -0.5538995,
+                        47.4776254
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 629098649,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5538995,
+                        47.4776254
+                    ],
+                    [
+                        -0.5539736,
+                        47.4776164
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "name": "Boulevard Ayrault",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

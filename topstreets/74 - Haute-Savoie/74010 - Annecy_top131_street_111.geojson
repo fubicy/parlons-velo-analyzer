@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 607908309,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1064176,
+                        45.9076151
+                    ],
+                    [
+                        6.1066516,
+                        45.907574
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Chorus",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 607908310,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1066812,
+                        45.9076613
+                    ],
+                    [
+                        6.1064297,
+                        45.9077005
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Chorus",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

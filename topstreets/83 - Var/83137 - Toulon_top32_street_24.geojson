@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 202425028,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9405688,
+                        43.121322
+                    ],
+                    [
+                        5.9402176,
+                        43.1213488
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Champ de Mars",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "tactile_paving": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

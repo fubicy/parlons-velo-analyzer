@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 239571227,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4566986,
+                        48.8106282
+                    ],
+                    [
+                        2.4567923,
+                        48.8106756
+                    ],
+                    [
+                        2.4568934,
+                        48.8107328
+                    ],
+                    [
+                        2.4569958,
+                        48.8107934
+                    ],
+                    [
+                        2.4572433,
+                        48.8109403
+                    ],
+                    [
+                        2.4575931,
+                        48.8111508
+                    ],
+                    [
+                        2.457714,
+                        48.8112305
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxweight": "11",
+                "name": "Pont de Maison-Alfort",
+                "ref": "D 148",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

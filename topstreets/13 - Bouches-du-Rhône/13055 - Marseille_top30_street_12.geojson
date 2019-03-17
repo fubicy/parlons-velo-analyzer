@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 277588587,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.380346,
+                        43.3023502
+                    ],
+                    [
+                        5.3801435,
+                        43.3025554
+                    ]
+                ]
+            },
+            "properties": {
+                "conveying": "forward",
+                "covered": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "indoor": "yes",
+                "layer": "-1",
+                "level": "-1;-4",
+                "name": "Saint-Charles",
+                "network": "RTM",
+                "railway": "subway_entrance",
+                "wheelchair": "no",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 417097045,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3803605,
+                        43.3023579
+                    ],
+                    [
+                        5.3801567,
+                        43.3025623
+                    ]
+                ]
+            },
+            "properties": {
+                "covered": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "indoor": "yes",
+                "layer": "-1",
+                "level": "-1;-4",
+                "name": "Saint-Charles",
+                "network": "RTM",
+                "railway": "subway_entrance",
+                "wheelchair": "no",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 417097049,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3803765,
+                        43.3023665
+                    ],
+                    [
+                        5.3801722,
+                        43.3025705
+                    ]
+                ]
+            },
+            "properties": {
+                "conveying": "backward",
+                "covered": "yes",
+                "escalator": "parallel",
+                "highway": "steps",
+                "incline": "up",
+                "indoor": "yes",
+                "layer": "-1",
+                "level": "-1;-4",
+                "name": "Saint-Charles",
+                "network": "RTM",
+                "railway": "subway_entrance",
+                "wheelchair": "no",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

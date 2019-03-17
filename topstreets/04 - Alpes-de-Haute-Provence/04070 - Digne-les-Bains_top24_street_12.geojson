@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 175421496,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.2352855,
+                        44.0911828
+                    ],
+                    [
+                        6.235319,
+                        44.0911886
+                    ],
+                    [
+                        6.2355944,
+                        44.0912742
+                    ],
+                    [
+                        6.2357725,
+                        44.091339
+                    ],
+                    [
+                        6.236043,
+                        44.0914979
+                    ],
+                    [
+                        6.2361715,
+                        44.0916152
+                    ],
+                    [
+                        6.236244,
+                        44.0916666
+                    ],
+                    [
+                        6.2363697,
+                        44.0917494
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Chapeliers",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 439464423,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.2363697,
+                        44.0917494
+                    ],
+                    [
+                        6.2365649,
+                        44.0918499
+                    ],
+                    [
+                        6.2365961,
+                        44.091875
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Chapeliers",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

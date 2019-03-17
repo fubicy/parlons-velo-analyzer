@@ -1,0 +1,533 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 168023812,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.184209,
+                        49.1137778
+                    ],
+                    [
+                        6.1844374,
+                        49.113967
+                    ],
+                    [
+                        6.1845094,
+                        49.1140268
+                    ],
+                    [
+                        6.1845688,
+                        49.1140901
+                    ],
+                    [
+                        6.184626,
+                        49.1141573
+                    ],
+                    [
+                        6.1846675,
+                        49.1142261
+                    ],
+                    [
+                        6.184699,
+                        49.1142882
+                    ],
+                    [
+                        6.1847214,
+                        49.1143326
+                    ],
+                    [
+                        6.1847508,
+                        49.1144455
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "name": "Place Mazelle",
+                "oneway": "yes",
+                "ref": "D 955",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 168024191,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1831449,
+                        49.1136881
+                    ],
+                    [
+                        6.1830044,
+                        49.1138008
+                    ],
+                    [
+                        6.1828684,
+                        49.113946
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Place Mazelle",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes": "merge_to_right|none",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195534372,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1846231,
+                        49.1144982
+                    ],
+                    [
+                        6.1845878,
+                        49.1143986
+                    ],
+                    [
+                        6.1845627,
+                        49.1143621
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "name": "Place Mazelle",
+                "old_ref": "N 3",
+                "oneway": "yes",
+                "ref": "D 955",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195534373,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1839997,
+                        49.1137947
+                    ],
+                    [
+                        6.1838853,
+                        49.1136843
+                    ],
+                    [
+                        6.1838062,
+                        49.113609
+                    ],
+                    [
+                        6.1837593,
+                        49.1135717
+                    ],
+                    [
+                        6.1836011,
+                        49.1134282
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "lanes": "1",
+                "name": "Place Mazelle",
+                "old_ref": "N 3",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn": "left",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385883381,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1839997,
+                        49.1137947
+                    ],
+                    [
+                        6.1837292,
+                        49.113637
+                    ],
+                    [
+                        6.1836957,
+                        49.1136057
+                    ],
+                    [
+                        6.1835256,
+                        49.1134727
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Place Mazelle",
+                "old_ref": "N 3",
+                "oneway": "yes",
+                "ref": "D 955",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes": "through|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 410690428,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1835256,
+                        49.1134727
+                    ],
+                    [
+                        6.1833873,
+                        49.1135536
+                    ],
+                    [
+                        6.1831449,
+                        49.1136881
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Place Mazelle",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through;left|through",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 410690429,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1827401,
+                        49.113853
+                    ],
+                    [
+                        6.1830495,
+                        49.1136384
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "name": "Place Mazelle",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes": "left|through;left|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 410919561,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1827401,
+                        49.113853
+                    ],
+                    [
+                        6.1829252,
+                        49.113611
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Place Mazelle",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 458886248,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1830495,
+                        49.1136384
+                    ],
+                    [
+                        6.1832409,
+                        49.1135099
+                    ],
+                    [
+                        6.183284,
+                        49.1134834
+                    ],
+                    [
+                        6.1834319,
+                        49.1134
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "name": "Place Mazelle",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes": "left|through;left|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 475406155,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1837109,
+                        49.113364
+                    ],
+                    [
+                        6.1838835,
+                        49.1135052
+                    ],
+                    [
+                        6.1840875,
+                        49.1136604
+                    ],
+                    [
+                        6.184209,
+                        49.1137778
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Place Mazelle",
+                "oneway": "yes",
+                "ref": "D 955",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 518332288,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1828684,
+                        49.113946
+                    ],
+                    [
+                        6.1829173,
+                        49.1139579
+                    ],
+                    [
+                        6.1836819,
+                        49.114164
+                    ],
+                    [
+                        6.1842806,
+                        49.1143248
+                    ],
+                    [
+                        6.1843552,
+                        49.1143247
+                    ],
+                    [
+                        6.1844055,
+                        49.1143071
+                    ],
+                    [
+                        6.1844936,
+                        49.1142712
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "service",
+                "maxspeed": "20",
+                "name": "Place Mazelle",
+                "oneway": "yes",
+                "service": "alley",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 518332294,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1845627,
+                        49.1143621
+                    ],
+                    [
+                        6.1844936,
+                        49.1142712
+                    ],
+                    [
+                        6.1844446,
+                        49.1142096
+                    ],
+                    [
+                        6.1843622,
+                        49.1141173
+                    ],
+                    [
+                        6.1842422,
+                        49.1140088
+                    ],
+                    [
+                        6.1841218,
+                        49.1139101
+                    ],
+                    [
+                        6.1839997,
+                        49.1137947
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "name": "Place Mazelle",
+                "old_ref": "N 3",
+                "oneway": "yes",
+                "ref": "D 955",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 525455048,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1829252,
+                        49.113611
+                    ],
+                    [
+                        6.1830085,
+                        49.1134907
+                    ],
+                    [
+                        6.1830403,
+                        49.1133911
+                    ],
+                    [
+                        6.1830499,
+                        49.1133458
+                    ],
+                    [
+                        6.183055,
+                        49.1132495
+                    ],
+                    [
+                        6.1830395,
+                        49.1131695
+                    ],
+                    [
+                        6.1829299,
+                        49.1130491
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Place Mazelle",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 525455049,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1826984,
+                        49.1138979
+                    ],
+                    [
+                        6.1827401,
+                        49.113853
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "name": "Place Mazelle",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

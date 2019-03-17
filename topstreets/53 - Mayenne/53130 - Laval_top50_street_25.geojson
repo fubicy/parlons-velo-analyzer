@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25701143,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7698825,
+                        48.0681103
+                    ],
+                    [
+                        -0.7689176,
+                        48.0683429
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "living_street",
+                "layer": "1",
+                "maxspeed": "20",
+                "name": "Pont Vieux",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "surface": "cobblestone",
+                "wikidata": "Q13516813",
+                "wikipedia": "fr:Pont Vieux (Laval)",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

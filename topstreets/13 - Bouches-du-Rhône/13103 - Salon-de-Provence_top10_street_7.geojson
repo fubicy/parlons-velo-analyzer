@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28052725,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0994155,
+                        43.6399482
+                    ],
+                    [
+                        5.0995363,
+                        43.6388107
+                    ],
+                    [
+                        5.0994799,
+                        43.6381014
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Lafayette",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28246242,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.099341,
+                        43.6405747
+                    ],
+                    [
+                        5.0994155,
+                        43.6399482
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Lafayette",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

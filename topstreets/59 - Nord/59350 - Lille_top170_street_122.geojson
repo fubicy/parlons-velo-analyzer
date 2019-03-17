@@ -1,0 +1,238 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23198874,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0897122,
+                        50.6332473
+                    ],
+                    [
+                        3.0896869,
+                        50.6333024
+                    ],
+                    [
+                        3.0895928,
+                        50.6334607
+                    ],
+                    [
+                        3.0893923,
+                        50.633766
+                    ],
+                    [
+                        3.0891508,
+                        50.6340721
+                    ],
+                    [
+                        3.0888788,
+                        50.6344159
+                    ],
+                    [
+                        3.0887664,
+                        50.6345643
+                    ],
+                    [
+                        3.0886848,
+                        50.6347127
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "name": "Rue de Bouvines",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61913642,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0886848,
+                        50.6347127
+                    ],
+                    [
+                        3.088637,
+                        50.6348188
+                    ],
+                    [
+                        3.0885068,
+                        50.6352602
+                    ],
+                    [
+                        3.08838,
+                        50.635397
+                    ],
+                    [
+                        3.0881818,
+                        50.6354904
+                    ],
+                    [
+                        3.0879461,
+                        50.6355778
+                    ],
+                    [
+                        3.0878621,
+                        50.6356087
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "name": "Rue de Bouvines",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61913643,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0872901,
+                        50.6358181
+                    ],
+                    [
+                        3.0869677,
+                        50.6359393
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "name": "Rue de Bouvines",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85095361,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0871938,
+                        50.6361943
+                    ],
+                    [
+                        3.0872419,
+                        50.6361761
+                    ],
+                    [
+                        3.087456,
+                        50.636095
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "designated",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue de Bouvines",
+                "surface": "paving_stones",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114958862,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0878621,
+                        50.6356087
+                    ],
+                    [
+                        3.0872901,
+                        50.6358181
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "no",
+                "cycleway:right": "shared_lane",
+                "highway": "tertiary",
+                "layer": "1",
+                "name": "Rue de Bouvines",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119929222,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.088084,
+                        50.6358573
+                    ],
+                    [
+                        3.0884362,
+                        50.635724
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "designated",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue de Bouvines",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119929224,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.087456,
+                        50.636095
+                    ],
+                    [
+                        3.088084,
+                        50.6358573
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "designated",
+                "bridge": "yes",
+                "highway": "pedestrian",
+                "layer": "1",
+                "name": "Rue de Bouvines",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

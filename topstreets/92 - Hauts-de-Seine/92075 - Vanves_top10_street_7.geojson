@@ -1,0 +1,169 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 14002266,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2898554,
+                        48.8260019
+                    ],
+                    [
+                        2.2899382,
+                        48.8259831
+                    ],
+                    [
+                        2.290616,
+                        48.8258292
+                    ],
+                    [
+                        2.2907027,
+                        48.8258096
+                    ],
+                    [
+                        2.2914676,
+                        48.8256359
+                    ],
+                    [
+                        2.2915586,
+                        48.8256153
+                    ],
+                    [
+                        2.2922552,
+                        48.8254571
+                    ],
+                    [
+                        2.2923549,
+                        48.8254345
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxweight": "3.5",
+                "name": "Rue Jean Jaur\u00e8s",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17038137,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2925884,
+                        48.8253651
+                    ],
+                    [
+                        2.2927844,
+                        48.8253213
+                    ],
+                    [
+                        2.2931004,
+                        48.8252539
+                    ],
+                    [
+                        2.2931272,
+                        48.8252494
+                    ],
+                    [
+                        2.2932019,
+                        48.8252347
+                    ],
+                    [
+                        2.2939221,
+                        48.8250934
+                    ],
+                    [
+                        2.2945665,
+                        48.8249964
+                    ],
+                    [
+                        2.2948243,
+                        48.8249399
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Jean Jaur\u00e8s",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47586444,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2972682,
+                        48.8237396
+                    ],
+                    [
+                        2.2971872,
+                        48.8237899
+                    ],
+                    [
+                        2.2955306,
+                        48.8248171
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jean Jaur\u00e8s",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47586531,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2955306,
+                        48.8248171
+                    ],
+                    [
+                        2.2949383,
+                        48.8249297
+                    ],
+                    [
+                        2.2948243,
+                        48.8249399
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "30",
+                "name": "Rue Jean Jaur\u00e8s",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7824721,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1086116,
+                        46.257684
+                    ],
+                    [
+                        6.108683,
+                        46.257621
+                    ],
+                    [
+                        6.1088178,
+                        46.2574953
+                    ],
+                    [
+                        6.1088831,
+                        46.2574312
+                    ],
+                    [
+                        6.1095542,
+                        46.2567709
+                    ],
+                    [
+                        6.1096516,
+                        46.2566897
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "no @ Sa",
+                "name": "Grand'rue",
+                "oneway": "no",
+                "oneway:bicycle": "no",
+                "oneway:bus": "no",
+                "ref": "D 35c",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43924063,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1096516,
+                        46.2566897
+                    ],
+                    [
+                        6.1097306,
+                        46.2566212
+                    ],
+                    [
+                        6.1097832,
+                        46.2565732
+                    ],
+                    [
+                        6.1100435,
+                        46.2563298
+                    ],
+                    [
+                        6.1102802,
+                        46.2561053
+                    ],
+                    [
+                        6.1108292,
+                        46.2556812
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "20",
+                "motor_vehicle:conditional": "no @ Sa",
+                "name": "Grand'rue",
+                "oneway": "yes",
+                "ref": "D 35c",
+                "surface": "cobblestone",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

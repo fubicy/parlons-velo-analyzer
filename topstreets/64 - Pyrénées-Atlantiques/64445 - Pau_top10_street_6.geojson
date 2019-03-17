@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26189722,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3074607,
+                        43.3187485
+                    ],
+                    [
+                        -0.3073921,
+                        43.3187216
+                    ],
+                    [
+                        -0.3070594,
+                        43.3185911
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "70",
+                "name": "Rocade",
+                "old_ref": "D 938",
+                "oneway": "yes",
+                "ref": "D 817",
+                "line_width": 12,
+                "line_color": "#802000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30809264,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3045109,
+                        43.3164957
+                    ],
+                    [
+                        -0.3070594,
+                        43.3185911
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "70",
+                "name": "Rocade",
+                "old_ref": "D 938",
+                "ref": "D 817",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 12,
+                "line_color": "#802000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30809265,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3070594,
+                        43.3185911
+                    ],
+                    [
+                        -0.3072242,
+                        43.3188391
+                    ],
+                    [
+                        -0.3072573,
+                        43.3188889
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "70",
+                "name": "Rocade",
+                "old_ref": "D 938",
+                "oneway": "yes",
+                "ref": "D 817",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 12,
+                "line_color": "#802000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23964566,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9676862,
+                        48.7578629
+                    ],
+                    [
+                        1.9680455,
+                        48.7557769
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Route de Versailles",
+                "ref": "D 58",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68353255,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9684528,
+                        48.7534874
+                    ],
+                    [
+                        1.9686247,
+                        48.7525
+                    ],
+                    [
+                        1.9687449,
+                        48.7517664
+                    ],
+                    [
+                        1.9687315,
+                        48.7513685
+                    ],
+                    [
+                        1.9686247,
+                        48.7508799
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "70",
+                "maxspeed:type": "sign",
+                "name": "Route de Versailles",
+                "ref": "D 58",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68353258,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9684055,
+                        48.7537505
+                    ],
+                    [
+                        1.9684528,
+                        48.7534874
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "name": "Route de Versailles",
+                "ref": "D 58",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201494296,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9680455,
+                        48.7557769
+                    ],
+                    [
+                        1.9684055,
+                        48.7537505
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Route de Versailles",
+                "ref": "D 58",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201494298,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9686247,
+                        48.7508799
+                    ],
+                    [
+                        1.9684166,
+                        48.7504857
+                    ],
+                    [
+                        1.9680813,
+                        48.750069
+                    ],
+                    [
+                        1.9671795,
+                        48.7491602
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "70",
+                "maxspeed:type": "sign",
+                "name": "Route de Versailles",
+                "ref": "D 58",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

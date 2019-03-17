@@ -1,0 +1,170 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 46612817,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5616614,
+                        47.2209515
+                    ],
+                    [
+                        -1.5618971,
+                        47.2208899
+                    ],
+                    [
+                        -1.5619625,
+                        47.2208728
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Sarrazin",
+                "oneway": "no",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116344684,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5608455,
+                        47.2205771
+                    ],
+                    [
+                        -1.5607196,
+                        47.2205302
+                    ],
+                    [
+                        -1.5606665,
+                        47.2205104
+                    ],
+                    [
+                        -1.5605204,
+                        47.2204521
+                    ],
+                    [
+                        -1.5604867,
+                        47.2204434
+                    ],
+                    [
+                        -1.5604151,
+                        47.220425
+                    ],
+                    [
+                        -1.5596684,
+                        47.2202099
+                    ],
+                    [
+                        -1.5596389,
+                        47.2202014
+                    ],
+                    [
+                        -1.5594615,
+                        47.2201588
+                    ],
+                    [
+                        -1.5593768,
+                        47.2201357
+                    ],
+                    [
+                        -1.5593329,
+                        47.2201209
+                    ],
+                    [
+                        -1.5592858,
+                        47.2200995
+                    ],
+                    [
+                        -1.5592337,
+                        47.2200706
+                    ],
+                    [
+                        -1.5592177,
+                        47.2200618
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Sarrazin",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B14[30]",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143122972,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5616614,
+                        47.2209515
+                    ],
+                    [
+                        -1.5615427,
+                        47.2208937
+                    ],
+                    [
+                        -1.5614629,
+                        47.2208532
+                    ],
+                    [
+                        -1.5608455,
+                        47.2205771
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Sarrazin",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7917431,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.884531,
+                        45.7647208
+                    ],
+                    [
+                        4.8845294,
+                        45.7647461
+                    ],
+                    [
+                        4.8845264,
+                        45.764794
+                    ],
+                    [
+                        4.8845201,
+                        45.7648495
+                    ],
+                    [
+                        4.8844794,
+                        45.7654485
+                    ],
+                    [
+                        4.8844108,
+                        45.7664569
+                    ],
+                    [
+                        4.884394,
+                        45.7668101
+                    ],
+                    [
+                        4.8843483,
+                        45.7677746
+                    ],
+                    [
+                        4.8843355,
+                        45.768146
+                    ],
+                    [
+                        4.8843372,
+                        45.768404
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Docteur Rollet",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128930533,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.884307,
+                        45.7686448
+                    ],
+                    [
+                        4.8843005,
+                        45.7685418
+                    ],
+                    [
+                        4.8843372,
+                        45.768404
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Docteur Rollet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128930534,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8843372,
+                        45.768404
+                    ],
+                    [
+                        4.8844163,
+                        45.7685181
+                    ],
+                    [
+                        4.8845009,
+                        45.7686124
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Docteur Rollet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

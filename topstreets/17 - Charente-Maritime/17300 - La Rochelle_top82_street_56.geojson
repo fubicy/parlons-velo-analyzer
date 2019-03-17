@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18895055,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1526814,
+                        46.1620495
+                    ],
+                    [
+                        -1.1525841,
+                        46.1620245
+                    ],
+                    [
+                        -1.1524398,
+                        46.1620052
+                    ],
+                    [
+                        -1.1505004,
+                        46.1618669
+                    ],
+                    [
+                        -1.1502569,
+                        46.1618178
+                    ],
+                    [
+                        -1.1499833,
+                        46.161764
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "foot": "yes",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Gargoulleau",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

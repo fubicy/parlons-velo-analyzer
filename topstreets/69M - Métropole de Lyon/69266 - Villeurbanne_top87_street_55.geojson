@@ -1,0 +1,136 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22702571,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9143804,
+                        45.7629968
+                    ],
+                    [
+                        4.9142519,
+                        45.7631512
+                    ],
+                    [
+                        4.9141911,
+                        45.7632174
+                    ],
+                    [
+                        4.9140758,
+                        45.7633223
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue de la Soie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22702572,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9138615,
+                        45.7630946
+                    ],
+                    [
+                        4.9143804,
+                        45.7629968
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue de la Soie",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642019259,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9186914,
+                        45.7614356
+                    ],
+                    [
+                        4.9158804,
+                        45.7624605
+                    ],
+                    [
+                        4.9156808,
+                        45.7625319
+                    ],
+                    [
+                        4.9152098,
+                        45.7627003
+                    ],
+                    [
+                        4.9150138,
+                        45.7627703
+                    ],
+                    [
+                        4.9146103,
+                        45.7629146
+                    ],
+                    [
+                        4.9143804,
+                        45.7629968
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de la Soie",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 667906996,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9186914,
+                        45.7614356
+                    ],
+                    [
+                        4.9199661,
+                        45.7609583
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue de la Soie",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

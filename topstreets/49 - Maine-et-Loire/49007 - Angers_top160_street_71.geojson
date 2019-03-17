@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 119368977,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5468925,
+                        47.4713502
+                    ],
+                    [
+                        -0.546178,
+                        47.4722254
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway:right": "lane",
+                "highway": "secondary",
+                "name": "Boulevard Bessonneau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169209155,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5463264,
+                        47.4722725
+                    ],
+                    [
+                        -0.5464967,
+                        47.4720596
+                    ],
+                    [
+                        -0.5470425,
+                        47.4713891
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Bessonneau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 39068221,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1648642,
+                        46.1595516
+                    ],
+                    [
+                        -1.1647501,
+                        46.1599364
+                    ],
+                    [
+                        -1.1646777,
+                        46.159945
+                    ],
+                    [
+                        -1.1645979,
+                        46.1607286
+                    ],
+                    [
+                        -1.1645845,
+                        46.1608598
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "motor_vehicle": "private",
+                "name": "Impasse Albert 1er",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39068222,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1645979,
+                        46.1607286
+                    ],
+                    [
+                        -1.1639951,
+                        46.1607024
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "motor_vehicle": "private",
+                "name": "Impasse Albert 1er",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

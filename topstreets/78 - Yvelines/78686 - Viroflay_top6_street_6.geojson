@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10861908,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1597606,
+                        48.7994059
+                    ],
+                    [
+                        2.1595993,
+                        48.7993387
+                    ],
+                    [
+                        2.1589855,
+                        48.7989983
+                    ],
+                    [
+                        2.158912,
+                        48.7989557
+                    ],
+                    [
+                        2.1587052,
+                        48.7988492
+                    ],
+                    [
+                        2.158533,
+                        48.7987621
+                    ],
+                    [
+                        2.1583211,
+                        48.7986658
+                    ],
+                    [
+                        2.1581568,
+                        48.7985989
+                    ],
+                    [
+                        2.1580229,
+                        48.7985588
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "shared_lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Paris",
+                "oneway": "yes",
+                "ref": "D 10",
+                "surface": "asphalt",
+                "wikipedia": "fr:Avenue de Paris (Versailles)",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148125989,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1588331,
+                        48.7987786
+                    ],
+                    [
+                        2.1590116,
+                        48.7988987
+                    ],
+                    [
+                        2.1596446,
+                        48.7993062
+                    ],
+                    [
+                        2.1597606,
+                        48.7994059
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Paris",
+                "oneway": "yes",
+                "ref": "D 10",
+                "surface": "asphalt",
+                "wikipedia": "fr:Avenue de Paris (Versailles)",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

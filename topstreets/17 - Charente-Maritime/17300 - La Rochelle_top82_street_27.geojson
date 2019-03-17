@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31427861,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1526518,
+                        46.1545905
+                    ],
+                    [
+                        -1.152628,
+                        46.1543824
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "layer": "1",
+                "movable": "yes",
+                "name": "Pont du Gabut",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

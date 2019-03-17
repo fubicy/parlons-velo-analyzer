@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24337180,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3251981,
+                        48.8399797
+                    ],
+                    [
+                        2.3270254,
+                        48.8393686
+                    ],
+                    [
+                        2.3288788,
+                        48.8387488
+                    ],
+                    [
+                        2.3294327,
+                        48.8385636
+                    ],
+                    [
+                        2.3295053,
+                        48.8385393
+                    ],
+                    [
+                        2.3295771,
+                        48.8385153
+                    ],
+                    [
+                        2.3300627,
+                        48.8383529
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "highway": "service",
+                "name": "Avenue du Nord",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 493308059,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3158292,
+                        48.8970102
+                    ],
+                    [
+                        2.3150303,
+                        48.8974927
+                    ],
+                    [
+                        2.3141124,
+                        48.898047
+                    ],
+                    [
+                        2.3136504,
+                        48.898326
+                    ],
+                    [
+                        2.313482,
+                        48.8984277
+                    ],
+                    [
+                        2.3129319,
+                        48.8987599
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Avenue du Nord",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2016",
+                "source:name": "survey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

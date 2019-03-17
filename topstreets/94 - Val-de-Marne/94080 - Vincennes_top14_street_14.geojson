@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 93473968,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4329929,
+                        48.843708
+                    ],
+                    [
+                        2.4328048,
+                        48.8437268
+                    ],
+                    [
+                        2.4326148,
+                        48.8437458
+                    ],
+                    [
+                        2.4321915,
+                        48.8437918
+                    ],
+                    [
+                        2.4320875,
+                        48.8438032
+                    ],
+                    [
+                        2.4313776,
+                        48.8438656
+                    ],
+                    [
+                        2.4312695,
+                        48.8438694
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Avenue Franklin Roosevelt",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192912621,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4339623,
+                        48.8436115
+                    ],
+                    [
+                        2.4337769,
+                        48.84363
+                    ],
+                    [
+                        2.4329929,
+                        48.843708
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Avenue Franklin Roosevelt",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

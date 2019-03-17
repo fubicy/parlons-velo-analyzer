@@ -1,0 +1,128 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28486750,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.068047,
+                        48.2947846
+                    ],
+                    [
+                        4.0680873,
+                        48.2949101
+                    ],
+                    [
+                        4.0680875,
+                        48.2952621
+                    ],
+                    [
+                        4.0680711,
+                        48.2953246
+                    ],
+                    [
+                        4.0678561,
+                        48.2957071
+                    ],
+                    [
+                        4.0673619,
+                        48.2965584
+                    ],
+                    [
+                        4.0673491,
+                        48.2965805
+                    ],
+                    [
+                        4.0673345,
+                        48.2966077
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Paul Dubois",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207400339,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0673345,
+                        48.2966077
+                    ],
+                    [
+                        4.0673047,
+                        48.2966569
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Paul Dubois",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 260253021,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0673047,
+                        48.2966569
+                    ],
+                    [
+                        4.0672809,
+                        48.2966961
+                    ],
+                    [
+                        4.0670961,
+                        48.2970281
+                    ],
+                    [
+                        4.0670929,
+                        48.2970621
+                    ],
+                    [
+                        4.0671157,
+                        48.2970919
+                    ],
+                    [
+                        4.0674125,
+                        48.2971899
+                    ],
+                    [
+                        4.067467,
+                        48.2972072
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Paul Dubois",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

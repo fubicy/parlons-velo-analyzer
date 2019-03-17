@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4868011,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0365661,
+                        47.323495
+                    ],
+                    [
+                        5.0367383,
+                        47.3234774
+                    ],
+                    [
+                        5.0372086,
+                        47.3234291
+                    ],
+                    [
+                        5.037251,
+                        47.3234276
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Grangier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23361439,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0363456,
+                        47.3233691
+                    ],
+                    [
+                        5.0365676,
+                        47.3232988
+                    ],
+                    [
+                        5.0371902,
+                        47.3231839
+                    ],
+                    [
+                        5.0383716,
+                        47.3229883
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Place Grangier",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121700987,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0365661,
+                        47.323495
+                    ],
+                    [
+                        5.0364348,
+                        47.3233988
+                    ],
+                    [
+                        5.0363456,
+                        47.3233691
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Grangier",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 524909551,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0384422,
+                        47.3232804
+                    ],
+                    [
+                        5.037251,
+                        47.3234276
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "emergency": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle": "designated",
+                "name": "Place Grangier",
+                "oneway": "yes",
+                "psv": "yes",
+                "surface": "paved",
+                "vehicle": "destination",
+                "wikidata": "Q16510153",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

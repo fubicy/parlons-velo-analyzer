@@ -1,0 +1,586 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24634373,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0986653,
+                        49.4434827
+                    ],
+                    [
+                        1.0986122,
+                        49.4434906
+                    ],
+                    [
+                        1.0984925,
+                        49.4435086
+                    ],
+                    [
+                        1.0984163,
+                        49.44352
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "service",
+                "maxspeed": "30",
+                "motor_vehicle": "no",
+                "name": "Rue Jean Lecanuet",
+                "oneway": "no",
+                "psv": "yes",
+                "surface": "asphalt",
+                "width": "13",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76848927,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.092123,
+                        49.4446816
+                    ],
+                    [
+                        1.0919887,
+                        49.4447065
+                    ],
+                    [
+                        1.0919722,
+                        49.4447096
+                    ],
+                    [
+                        1.0917445,
+                        49.4447521
+                    ],
+                    [
+                        1.0915194,
+                        49.4447975
+                    ],
+                    [
+                        1.0913997,
+                        49.4448214
+                    ],
+                    [
+                        1.0913652,
+                        49.4448287
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Jean Lecanuet",
+                "old_ref": "Rue Thiers",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76848949,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0984163,
+                        49.44352
+                    ],
+                    [
+                        1.0982984,
+                        49.4435412
+                    ],
+                    [
+                        1.09826,
+                        49.4435481
+                    ],
+                    [
+                        1.0972543,
+                        49.4437292
+                    ],
+                    [
+                        1.097215,
+                        49.4437363
+                    ],
+                    [
+                        1.0970894,
+                        49.4437589
+                    ],
+                    [
+                        1.0963049,
+                        49.4439002
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "horse": "yes",
+                "lanes": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue Jean Lecanuet",
+                "old_name": "Rue Thiers",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80340800,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0939702,
+                        49.4443393
+                    ],
+                    [
+                        1.0940047,
+                        49.444274
+                    ],
+                    [
+                        1.0944483,
+                        49.4441516
+                    ],
+                    [
+                        1.0945161,
+                        49.4441155
+                    ],
+                    [
+                        1.0945822,
+                        49.4440803
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Jean Lecanuet",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201480401,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0961455,
+                        49.4439291
+                    ],
+                    [
+                        1.0960826,
+                        49.4439419
+                    ],
+                    [
+                        1.0960608,
+                        49.4439463
+                    ],
+                    [
+                        1.0960086,
+                        49.4439569
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "lane",
+                "cycleway:both:lane": "advisory",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Jean Lecanuet",
+                "old_name": "Rue Thiers",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201480402,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0913652,
+                        49.4448287
+                    ],
+                    [
+                        1.0912699,
+                        49.4448454
+                    ],
+                    [
+                        1.0905642,
+                        49.4449727
+                    ],
+                    [
+                        1.090418,
+                        49.4449989
+                    ],
+                    [
+                        1.0902756,
+                        49.4450254
+                    ],
+                    [
+                        1.0897923,
+                        49.4451154
+                    ],
+                    [
+                        1.0897476,
+                        49.4451237
+                    ],
+                    [
+                        1.0896322,
+                        49.4451452
+                    ],
+                    [
+                        1.0892508,
+                        49.4452162
+                    ],
+                    [
+                        1.0884097,
+                        49.4453727
+                    ],
+                    [
+                        1.0882632,
+                        49.4454
+                    ],
+                    [
+                        1.0881525,
+                        49.4454206
+                    ],
+                    [
+                        1.0875705,
+                        49.4455253
+                    ],
+                    [
+                        1.0868688,
+                        49.4456596
+                    ],
+                    [
+                        1.0868031,
+                        49.4456718
+                    ],
+                    [
+                        1.0867587,
+                        49.4456801
+                    ],
+                    [
+                        1.0867468,
+                        49.4456822
+                    ],
+                    [
+                        1.0866259,
+                        49.4457124
+                    ],
+                    [
+                        1.086578,
+                        49.4457485
+                    ],
+                    [
+                        1.086459,
+                        49.4458381
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bicycle": "permissive",
+                "cycleway:right": "lane",
+                "foot": "permissive",
+                "highway": "tertiary",
+                "horse": "permissive",
+                "lanes": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "permissive",
+                "name": "Rue Jean Lecanuet",
+                "old_name": "Rue Thiers",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 231128745,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0946915,
+                        49.4442029
+                    ],
+                    [
+                        1.0946287,
+                        49.4442147
+                    ],
+                    [
+                        1.0945463,
+                        49.4442308
+                    ],
+                    [
+                        1.0943862,
+                        49.4442606
+                    ],
+                    [
+                        1.0939702,
+                        49.4443393
+                    ],
+                    [
+                        1.0939387,
+                        49.4443446
+                    ],
+                    [
+                        1.0938681,
+                        49.4443581
+                    ],
+                    [
+                        1.0936214,
+                        49.4444038
+                    ],
+                    [
+                        1.0935767,
+                        49.4444122
+                    ],
+                    [
+                        1.0930027,
+                        49.4445199
+                    ],
+                    [
+                        1.0928479,
+                        49.444549
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "tertiary",
+                "horse": "yes",
+                "lanes": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue Jean Lecanuet",
+                "old_name": "Rue Thiers",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246137568,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0963049,
+                        49.4439002
+                    ],
+                    [
+                        1.0962481,
+                        49.4439105
+                    ],
+                    [
+                        1.0962019,
+                        49.4439189
+                    ],
+                    [
+                        1.0961455,
+                        49.4439291
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "horse": "yes",
+                "lanes": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue Jean Lecanuet",
+                "old_name": "Rue Thiers",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246137569,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0960086,
+                        49.4439569
+                    ],
+                    [
+                        1.095374,
+                        49.4440877
+                    ],
+                    [
+                        1.0952874,
+                        49.4441057
+                    ],
+                    [
+                        1.0950834,
+                        49.4441382
+                    ],
+                    [
+                        1.094819,
+                        49.4441804
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "horse": "yes",
+                "lanes": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue Jean Lecanuet",
+                "old_name": "Rue Thiers",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 288012014,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0928479,
+                        49.444549
+                    ],
+                    [
+                        1.0924627,
+                        49.4446217
+                    ],
+                    [
+                        1.0924229,
+                        49.4446288
+                    ],
+                    [
+                        1.092123,
+                        49.4446816
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Jean Lecanuet",
+                "old_name": "Rue Thiers",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 288012015,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.094819,
+                        49.4441804
+                    ],
+                    [
+                        1.0947553,
+                        49.4441916
+                    ],
+                    [
+                        1.0946915,
+                        49.4442029
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Jean Lecanuet",
+                "old_name": "Rue Thiers",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

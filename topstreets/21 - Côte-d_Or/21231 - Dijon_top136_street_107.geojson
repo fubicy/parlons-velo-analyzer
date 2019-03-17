@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23361639,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0378608,
+                        47.3245415
+                    ],
+                    [
+                        5.0374374,
+                        47.324615
+                    ],
+                    [
+                        5.037378,
+                        47.3246353
+                    ],
+                    [
+                        5.0373482,
+                        47.3246622
+                    ],
+                    [
+                        5.0373089,
+                        47.3247485
+                    ],
+                    [
+                        5.0373174,
+                        47.3247258
+                    ],
+                    [
+                        5.0372939,
+                        47.32478
+                    ],
+                    [
+                        5.0372862,
+                        47.3248106
+                    ],
+                    [
+                        5.0372738,
+                        47.3248577
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Bannelier",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23373201,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0388256,
+                        47.3243617
+                    ],
+                    [
+                        5.0387656,
+                        47.3243729
+                    ],
+                    [
+                        5.0378608,
+                        47.3245415
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Bannelier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23373202,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0406526,
+                        47.3241237
+                    ],
+                    [
+                        5.0403617,
+                        47.3241436
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Bannelier",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23373203,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0396056,
+                        47.3242428
+                    ],
+                    [
+                        5.0388256,
+                        47.3243617
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Bannelier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80841929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0403617,
+                        47.3241436
+                    ],
+                    [
+                        5.0396056,
+                        47.3242428
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Bannelier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

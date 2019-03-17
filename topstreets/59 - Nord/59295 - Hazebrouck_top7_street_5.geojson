@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 154052874,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5389241,
+                        50.7232351
+                    ],
+                    [
+                        2.5389292,
+                        50.7232591
+                    ],
+                    [
+                        2.5389858,
+                        50.7233067
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Nationale",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163857549,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5389858,
+                        50.7233067
+                    ],
+                    [
+                        2.5391858,
+                        50.7234309
+                    ],
+                    [
+                        2.5400408,
+                        50.7240598
+                    ],
+                    [
+                        2.5400861,
+                        50.7240933
+                    ],
+                    [
+                        2.540999,
+                        50.7247909
+                    ],
+                    [
+                        2.5410166,
+                        50.7248491
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Nationale",
+                "oneway": "yes",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30014551,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2205979,
+                        48.8234312
+                    ],
+                    [
+                        2.2206419,
+                        48.8235075
+                    ],
+                    [
+                        2.2205697,
+                        48.8235998
+                    ],
+                    [
+                        2.2202841,
+                        48.8244511
+                    ],
+                    [
+                        2.2201479,
+                        48.8246649
+                    ],
+                    [
+                        2.2198645,
+                        48.8254417
+                    ],
+                    [
+                        2.2197828,
+                        48.8256793
+                    ],
+                    [
+                        2.2197413,
+                        48.8258547
+                    ],
+                    [
+                        2.2197144,
+                        48.8259248
+                    ],
+                    [
+                        2.2196402,
+                        48.8259951
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Diderot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

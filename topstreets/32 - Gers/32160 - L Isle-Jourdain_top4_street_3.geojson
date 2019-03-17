@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31551170,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0813014,
+                        43.611502
+                    ],
+                    [
+                        1.0813601,
+                        43.6115206
+                    ],
+                    [
+                        1.0815875,
+                        43.6117291
+                    ],
+                    [
+                        1.0816366,
+                        43.6117756
+                    ],
+                    [
+                        1.0817133,
+                        43.6118482
+                    ],
+                    [
+                        1.0820221,
+                        43.6121439
+                    ],
+                    [
+                        1.0820807,
+                        43.6122
+                    ],
+                    [
+                        1.0821262,
+                        43.6122436
+                    ],
+                    [
+                        1.0823266,
+                        43.61245
+                    ],
+                    [
+                        1.0825231,
+                        43.6126522
+                    ],
+                    [
+                        1.0825984,
+                        43.6127298
+                    ],
+                    [
+                        1.0828798,
+                        43.6130155
+                    ],
+                    [
+                        1.0828969,
+                        43.6130328
+                    ],
+                    [
+                        1.083036,
+                        43.6131741
+                    ],
+                    [
+                        1.0831227,
+                        43.6132976
+                    ]
+                ]
+            },
+            "properties": {
+                "bilingual_street_sign": "yes",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Carnot",
+                "name:oc": "Baloard Carnot",
+                "ref": "D 634",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:name:oc": "Escota \u00e9 Minja",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 625641274,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0831227,
+                        43.6132976
+                    ],
+                    [
+                        1.0833071,
+                        43.6136006
+                    ],
+                    [
+                        1.0833176,
+                        43.6136177
+                    ],
+                    [
+                        1.0833883,
+                        43.6137333
+                    ]
+                ]
+            },
+            "properties": {
+                "bilingual_street_sign": "yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Carnot",
+                "name:oc": "Baloard Carnot",
+                "ref": "D 634",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:name:oc": "Escota \u00e9 Minja",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

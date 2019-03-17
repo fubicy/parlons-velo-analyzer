@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31584771,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1072746,
+                        49.4465341
+                    ],
+                    [
+                        1.1074023,
+                        49.4466555
+                    ],
+                    [
+                        1.1074152,
+                        49.446673
+                    ],
+                    [
+                        1.1076891,
+                        49.4470457
+                    ],
+                    [
+                        1.1078661,
+                        49.4472679
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Place du Boulingrin",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81202745,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1062771,
+                        49.4468997
+                    ],
+                    [
+                        1.1062328,
+                        49.4468366
+                    ],
+                    [
+                        1.1061,
+                        49.4466472
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "highway": "service",
+                "maxspeed": "50",
+                "name": "Place du Boulingrin",
+                "oneway": "yes",
+                "psv": "yes",
+                "surface": "asphalt",
+                "vehicle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188542167,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1062771,
+                        49.4468997
+                    ],
+                    [
+                        1.106404,
+                        49.4468568
+                    ],
+                    [
+                        1.1067509,
+                        49.44674
+                    ],
+                    [
+                        1.1070396,
+                        49.4466399
+                    ],
+                    [
+                        1.1070922,
+                        49.4466217
+                    ],
+                    [
+                        1.1071933,
+                        49.4465866
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Place du Boulingrin",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195643999,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1061,
+                        49.4466472
+                    ],
+                    [
+                        1.1060055,
+                        49.446521
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "service",
+                "name": "Place du Boulingrin",
+                "oneway": "yes",
+                "psv": "yes",
+                "vehicle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 227569431,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1078661,
+                        49.4472679
+                    ],
+                    [
+                        1.1068107,
+                        49.4476
+                    ],
+                    [
+                        1.1063435,
+                        49.4469869
+                    ],
+                    [
+                        1.1063042,
+                        49.4469352
+                    ],
+                    [
+                        1.1062771,
+                        49.4468997
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Place du Boulingrin",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

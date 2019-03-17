@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34249741,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.9343462,
+                        46.6962169
+                    ],
+                    [
+                        -1.9344345,
+                        46.696202
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Pont de la Concorde",
+                "ref": "D 754",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2008",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 661127686,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.9344345,
+                        46.696202
+                    ],
+                    [
+                        -1.93534,
+                        46.6960497
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxweight": "10",
+                "maxweight:conditional": "none @ bus",
+                "name": "Pont de la Concorde",
+                "ref": "D 754",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2008",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

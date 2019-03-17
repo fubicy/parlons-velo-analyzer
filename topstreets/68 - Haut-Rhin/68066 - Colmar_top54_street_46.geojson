@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23005018,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3607646,
+                        48.0714564
+                    ],
+                    [
+                        7.3585338,
+                        48.071525
+                    ],
+                    [
+                        7.3570945,
+                        48.0716242
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Bartholdi",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45314599,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3569409,
+                        48.0716339
+                    ],
+                    [
+                        7.3566768,
+                        48.0716521
+                    ],
+                    [
+                        7.3554453,
+                        48.0717372
+                    ],
+                    [
+                        7.3537112,
+                        48.0720686
+                    ],
+                    [
+                        7.353572,
+                        48.0721881
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Bartholdi",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45314600,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3570945,
+                        48.0716242
+                    ],
+                    [
+                        7.3569409,
+                        48.0716339
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Rue Bartholdi",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 226424203,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5985919,
+                        45.3616685
+                    ],
+                    [
+                        5.5986954,
+                        45.3615488
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Lyc\u00e9e Ferdinand Buisson",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "no",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 226424204,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5987877,
+                        45.3616718
+                    ],
+                    [
+                        5.5986625,
+                        45.3618147
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Lyc\u00e9e Ferdinand Buisson",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "no",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

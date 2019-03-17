@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 66 réponses dont 33 réponses avec une rue
 
 16 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue David d'Angers | 5 | 7% | <img src="../../img/bar_15.gif" />&nbsp;15%|
-| Rue Charles de Gaulle | 5 | 7% | <img src="../../img/bar_15.gif" />&nbsp;15%|
-| Rue Victor Hugo | 3 | 4% | <img src="../../img/bar_9.gif" />&nbsp;9%|
-| Rue Pasteur | 3 | 4% | <img src="../../img/bar_9.gif" />&nbsp;9%|
-| Pont Dumnacus | 3 | 4% | <img src="../../img/bar_9.gif" />&nbsp;9%|
-| Avenue Gallieni | 3 | 4% | <img src="../../img/bar_9.gif" />&nbsp;9%|
-| Avenue Jean Boutton | 2 | 3% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Rue de l'Église | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue de Villesicard | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Maurice Berné | 1 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| **Total** | 27 | 40% | 81%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue David d'Angers | 5 | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| Rue Charles de Gaulle | 5 | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| Rue Victor Hugo | 3 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Rue Pasteur | 3 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Pont Dumnacus | 3 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Avenue Gallieni | 3 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Avenue Jean Boutton | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rue de l'Église | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue de Villesicard | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue Maurice Berné | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 27 | 100%|

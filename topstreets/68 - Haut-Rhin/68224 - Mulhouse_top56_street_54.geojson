@@ -1,0 +1,167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29113180,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3394099,
+                        47.7604482
+                    ],
+                    [
+                        7.3394479,
+                        47.7604142
+                    ],
+                    [
+                        7.3394785,
+                        47.7603868
+                    ],
+                    [
+                        7.3395382,
+                        47.7603333
+                    ],
+                    [
+                        7.3396984,
+                        47.7601854
+                    ],
+                    [
+                        7.3407615,
+                        47.7593037
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_track",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Boulevard des Alli\u00e9s",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30182207,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3439527,
+                        47.7566032
+                    ],
+                    [
+                        7.3440429,
+                        47.7565488
+                    ],
+                    [
+                        7.3443424,
+                        47.7560563
+                    ],
+                    [
+                        7.344373,
+                        47.7560013
+                    ],
+                    [
+                        7.3446994,
+                        47.7554228
+                    ],
+                    [
+                        7.3447658,
+                        47.7552305
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard des Alli\u00e9s",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 478896805,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3407615,
+                        47.7593037
+                    ],
+                    [
+                        7.3418307,
+                        47.7583732
+                    ],
+                    [
+                        7.3422782,
+                        47.7580149
+                    ],
+                    [
+                        7.3429569,
+                        47.75745
+                    ],
+                    [
+                        7.343829,
+                        47.7566706
+                    ],
+                    [
+                        7.3439527,
+                        47.7566032
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_track",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Boulevard des Alli\u00e9s",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 528084100,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3447658,
+                        47.7552305
+                    ],
+                    [
+                        7.3448,
+                        47.7551242
+                    ],
+                    [
+                        7.344882,
+                        47.754763
+                    ],
+                    [
+                        7.3449017,
+                        47.7546045
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Boulevard des Alli\u00e9s",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23172715,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3308941,
+                        48.8236412
+                    ],
+                    [
+                        2.3320365,
+                        48.8237599
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue Reille",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q2873821",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25472155,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3398763,
+                        48.8245996
+                    ],
+                    [
+                        2.3398328,
+                        48.824613
+                    ],
+                    [
+                        2.3397796,
+                        48.8246218
+                    ],
+                    [
+                        2.3397067,
+                        48.8246213
+                    ],
+                    [
+                        2.3396274,
+                        48.8246163
+                    ],
+                    [
+                        2.3384514,
+                        48.8244828
+                    ],
+                    [
+                        2.3383302,
+                        48.824469
+                    ],
+                    [
+                        2.3382273,
+                        48.8244579
+                    ],
+                    [
+                        2.3377126,
+                        48.8243993
+                    ],
+                    [
+                        2.3363953,
+                        48.8242514
+                    ],
+                    [
+                        2.3363053,
+                        48.824242
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Reille",
+                "source:maxspeed": "opendata.paris.fr",
+                "surface": "asphalt",
+                "wikidata": "Q2873821",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39363574,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3415882,
+                        48.8264597
+                    ],
+                    [
+                        2.341572,
+                        48.8263823
+                    ],
+                    [
+                        2.3415434,
+                        48.8262426
+                    ],
+                    [
+                        2.3415352,
+                        48.8262243
+                    ],
+                    [
+                        2.3414521,
+                        48.8261461
+                    ],
+                    [
+                        2.3413747,
+                        48.8260719
+                    ],
+                    [
+                        2.3411281,
+                        48.8258359
+                    ],
+                    [
+                        2.3398763,
+                        48.8245996
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Reille",
+                "oneway": "yes",
+                "source:maxspeed": "opendata.paris.fr",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83239656,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3363053,
+                        48.824242
+                    ],
+                    [
+                        2.3361607,
+                        48.8242268
+                    ],
+                    [
+                        2.3360422,
+                        48.8242167
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Reille",
+                "source:maxspeed": "opendata.paris.fr",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145183296,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3360422,
+                        48.8242167
+                    ],
+                    [
+                        2.3358895,
+                        48.8242023
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Avenue Reille",
+                "source:maxspeed": "opendata.paris.fr",
+                "surface": "asphalt",
+                "wikidata": "Q2873821",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 306411281,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3358895,
+                        48.8242023
+                    ],
+                    [
+                        2.3357879,
+                        48.8241907
+                    ],
+                    [
+                        2.3328671,
+                        48.8238555
+                    ],
+                    [
+                        2.3320365,
+                        48.8237599
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue Reille",
+                "surface": "asphalt",
+                "wikidata": "Q2873821",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

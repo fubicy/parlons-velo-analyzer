@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 267991981,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7132039,
+                        47.3952905
+                    ],
+                    [
+                        0.7128935,
+                        47.3953181
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Jean Bonin",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "source": "gps",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 267991982,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7129459,
+                        47.39515
+                    ],
+                    [
+                        0.7132165,
+                        47.395129
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Jean Bonin",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "source": "gps",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

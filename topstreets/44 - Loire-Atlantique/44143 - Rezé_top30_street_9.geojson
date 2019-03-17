@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29202702,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5474271,
+                        47.1894937
+                    ],
+                    [
+                        -1.5475444,
+                        47.1899386
+                    ],
+                    [
+                        -1.5475884,
+                        47.1901568
+                    ],
+                    [
+                        -1.5475933,
+                        47.1901811
+                    ],
+                    [
+                        -1.5476244,
+                        47.1902654
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Avenue Jean Jaur\u00e8s",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29202706,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5474271,
+                        47.1894937
+                    ],
+                    [
+                        -1.54738,
+                        47.1893075
+                    ],
+                    [
+                        -1.5473711,
+                        47.1892754
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Avenue Jean Jaur\u00e8s",
+                "ref": "D 65",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

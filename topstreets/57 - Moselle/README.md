@@ -16,7 +16,7 @@ Sur l'ensemble du département, il y a eu 447 réponses dont 240 réponses avec 
 |57412 - Longeville-lès-Metz&nbsp;&#124;&nbsp;<a href='57412 - Longeville-lès-Metz_top1.md'>Top 10</a>|1|1(100%)|<img src="../../img/bar_0.gif" />&nbsp;1|
 |57433 - Maizières-lès-Metz|4|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |57447 - Marly|3|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
-|57463 - Metz&nbsp;&#124;&nbsp;<a href='57463 - Metz_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='57463 - Metz_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='57463 - Metz_top50.md'>Top 50</a>|323|206(63%)|<img src="../../img/bar_71.gif" />&nbsp;72|
+|57463 - Metz&nbsp;&#124;&nbsp;<a href='57463 - Metz_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='57463 - Metz_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='57463 - Metz_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='57463 - Metz_top72.md'>Top 1000</a>|323|206(63%)|<img src="../../img/bar_71.gif" />&nbsp;72|
 |57480 - Montigny-lès-Metz&nbsp;&#124;&nbsp;<a href='57480 - Montigny-lès-Metz_top2.md'>Top 10</a>|15|3(20%)|<img src="../../img/bar_1.gif" />&nbsp;2|
 |57606 - Saint-Avold&nbsp;&#124;&nbsp;<a href='57606 - Saint-Avold_top7.md'>Top 10</a>|46|7(15%)|<img src="../../img/bar_6.gif" />&nbsp;7|
 |57631 - Sarreguemines&nbsp;&#124;&nbsp;<a href='57631 - Sarreguemines_top1.md'>Top 10</a>|6|1(16%)|<img src="../../img/bar_0.gif" />&nbsp;1|

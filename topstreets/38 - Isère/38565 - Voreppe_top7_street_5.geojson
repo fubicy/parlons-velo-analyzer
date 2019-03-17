@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 227110326,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6268921,
+                        45.3026343
+                    ],
+                    [
+                        5.6270307,
+                        45.3025379
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Monument aux Morts",
+                "public_transport": "platform",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 227110327,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6271706,
+                        45.3025359
+                    ],
+                    [
+                        5.6270421,
+                        45.3026263
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Monument aux Morts",
+                "public_transport": "platform",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

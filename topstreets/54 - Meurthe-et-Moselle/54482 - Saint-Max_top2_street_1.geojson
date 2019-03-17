@@ -1,0 +1,116 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 220957166,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.2110035,
+                        48.6991106
+                    ],
+                    [
+                        6.2111121,
+                        48.6991224
+                    ],
+                    [
+                        6.211448,
+                        48.6991591
+                    ],
+                    [
+                        6.2118785,
+                        48.6992082
+                    ],
+                    [
+                        6.2126546,
+                        48.6992941
+                    ],
+                    [
+                        6.2132963,
+                        48.699365
+                    ],
+                    [
+                        6.2134301,
+                        48.6993806
+                    ],
+                    [
+                        6.2135187,
+                        48.699391
+                    ],
+                    [
+                        6.2135766,
+                        48.6993985
+                    ],
+                    [
+                        6.214523,
+                        48.6995037
+                    ],
+                    [
+                        6.2145411,
+                        48.6995057
+                    ],
+                    [
+                        6.2146611,
+                        48.6995191
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Rue Jean XXIII",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264728330,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.2085941,
+                        48.6989257
+                    ],
+                    [
+                        6.2089552,
+                        48.6989313
+                    ],
+                    [
+                        6.2093189,
+                        48.6989369
+                    ],
+                    [
+                        6.2093606,
+                        48.6989375
+                    ],
+                    [
+                        6.2107247,
+                        48.6990879
+                    ],
+                    [
+                        6.2108268,
+                        48.6990992
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jean XXIII",
+                "oneway": "no",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

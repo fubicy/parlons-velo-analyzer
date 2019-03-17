@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 604730898,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1479656,
+                        45.9170441
+                    ],
+                    [
+                        6.1479898,
+                        45.9171427
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "La Salle",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604730899,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1478407,
+                        45.9170753
+                    ],
+                    [
+                        6.1477873,
+                        45.916941
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "La Salle",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

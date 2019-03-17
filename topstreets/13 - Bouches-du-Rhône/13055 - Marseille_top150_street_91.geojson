@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 6309647,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3550696,
+                        43.2846362
+                    ],
+                    [
+                        5.3552232,
+                        43.285023
+                    ],
+                    [
+                        5.3552257,
+                        43.2850763
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Saint-Jean",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163205996,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3552257,
+                        43.2850763
+                    ],
+                    [
+                        5.3552299,
+                        43.2851168
+                    ],
+                    [
+                        5.3552763,
+                        43.2856446
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "name": "Rue Saint-Jean",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

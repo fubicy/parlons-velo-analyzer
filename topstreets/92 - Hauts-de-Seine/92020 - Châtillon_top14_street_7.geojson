@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27051898,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.287521,
+                        48.7983531
+                    ],
+                    [
+                        2.2874158,
+                        48.7984322
+                    ],
+                    [
+                        2.2871114,
+                        48.798661
+                    ],
+                    [
+                        2.2869583,
+                        48.7988016
+                    ],
+                    [
+                        2.2867993,
+                        48.7991067
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:forward": "Clamart",
+                "highway": "secondary",
+                "name": "Rue d'Estienne d'Orves",
+                "ref": "D 129",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 216608502,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2867993,
+                        48.7991067
+                    ],
+                    [
+                        2.286705,
+                        48.7992245
+                    ],
+                    [
+                        2.2859467,
+                        48.7996887
+                    ],
+                    [
+                        2.2856793,
+                        48.7997691
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue d'Estienne d'Orves",
+                "oneway": "no",
+                "ref": "D 129",
+                "traffic_signals:direction": "forward",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4995526,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1166698,
+                        49.4934503
+                    ],
+                    [
+                        0.1167964,
+                        49.4935707
+                    ],
+                    [
+                        0.1177008,
+                        49.4937358
+                    ],
+                    [
+                        0.1183725,
+                        49.4938534
+                    ],
+                    [
+                        0.1188909,
+                        49.4939451
+                    ],
+                    [
+                        0.1190299,
+                        49.4939725
+                    ],
+                    [
+                        0.1196892,
+                        49.4942497
+                    ],
+                    [
+                        0.1209863,
+                        49.4947988
+                    ],
+                    [
+                        0.121195,
+                        49.4948477
+                    ],
+                    [
+                        0.1219721,
+                        49.495056
+                    ],
+                    [
+                        0.1225787,
+                        49.4952238
+                    ],
+                    [
+                        0.1227171,
+                        49.4952621
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Casimir Delavigne",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 191171868,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1227171,
+                        49.4952621
+                    ],
+                    [
+                        0.1235571,
+                        49.4954917
+                    ],
+                    [
+                        0.1239159,
+                        49.4955974
+                    ],
+                    [
+                        0.124794,
+                        49.4958397
+                    ],
+                    [
+                        0.1260052,
+                        49.4961728
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Casimir Delavigne",
+                "oneway": "no",
+                "sidewalk": "both",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

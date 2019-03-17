@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 194912141,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3632871,
+                        49.1818892
+                    ],
+                    [
+                        -0.3635173,
+                        49.1821551
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "name": "Rue de Strasbourg",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234388762,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3636094,
+                        49.1822614
+                    ],
+                    [
+                        -0.3640017,
+                        49.1827145
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "motor_vehicle": "destination",
+                "name": "Rue de Strasbourg",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 249342613,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3635173,
+                        49.1821551
+                    ],
+                    [
+                        -0.3636094,
+                        49.1822614
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "name": "Rue de Strasbourg",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

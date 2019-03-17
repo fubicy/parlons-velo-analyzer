@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23308388,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4505842,
+                        48.8529185
+                    ],
+                    [
+                        2.4504901,
+                        48.8529451
+                    ],
+                    [
+                        2.4500278,
+                        48.8530755
+                    ],
+                    [
+                        2.4498375,
+                        48.8531571
+                    ],
+                    [
+                        2.449056,
+                        48.8535557
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Georges Le Tiec",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44050962,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4512336,
+                        48.8527508
+                    ],
+                    [
+                        2.4507057,
+                        48.8528871
+                    ],
+                    [
+                        2.4505842,
+                        48.8529185
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Georges Le Tiec",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

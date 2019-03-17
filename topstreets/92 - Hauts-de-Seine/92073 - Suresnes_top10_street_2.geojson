@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 88208903,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2278499,
+                        48.8674282
+                    ],
+                    [
+                        2.2283229,
+                        48.8673061
+                    ],
+                    [
+                        2.2309787,
+                        48.8665964
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "bridge": "yes",
+                "foot": "designated",
+                "highway": "path",
+                "layer": "2",
+                "motor_vehicle": "no",
+                "name": "Pont de Suresnes",
+                "ref:structurae": "20017923",
+                "segregated": "yes",
+                "source": "Microsoft Bing satellite 2011",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 453954512,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2308927,
+                        48.8664938
+                    ],
+                    [
+                        2.2286886,
+                        48.8670762
+                    ],
+                    [
+                        2.2285703,
+                        48.8671075
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "2",
+                "maxspeed": "50",
+                "name": "Pont de Suresnes",
+                "ref": "N 185",
+                "ref:structurae": "20017923",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

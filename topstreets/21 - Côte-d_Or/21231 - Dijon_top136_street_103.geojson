@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23484270,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.045796,
+                        47.3260922
+                    ],
+                    [
+                        5.04583,
+                        47.3260478
+                    ],
+                    [
+                        5.0458468,
+                        47.3260127
+                    ],
+                    [
+                        5.0461745,
+                        47.3253635
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Diderot",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174520322,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0461745,
+                        47.3253635
+                    ],
+                    [
+                        5.0462064,
+                        47.3252969
+                    ],
+                    [
+                        5.0467848,
+                        47.3240898
+                    ],
+                    [
+                        5.0475034,
+                        47.3228213
+                    ],
+                    [
+                        5.0477332,
+                        47.322455
+                    ],
+                    [
+                        5.0482384,
+                        47.3215097
+                    ],
+                    [
+                        5.0482627,
+                        47.3213799
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "name": "Rue Diderot",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

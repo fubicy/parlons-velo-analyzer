@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 176614365,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3890669,
+                        51.0386137
+                    ],
+                    [
+                        2.3890529,
+                        51.038627
+                    ],
+                    [
+                        2.3890426,
+                        51.0386501
+                    ],
+                    [
+                        2.3890332,
+                        51.0386791
+                    ],
+                    [
+                        2.38901,
+                        51.038781
+                    ],
+                    [
+                        2.3889824,
+                        51.0389459
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary_link",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 176616017,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3889824,
+                        51.0389459
+                    ],
+                    [
+                        2.3889574,
+                        51.0387803
+                    ],
+                    [
+                        2.3889413,
+                        51.0386997
+                    ],
+                    [
+                        2.3889293,
+                        51.0386621
+                    ],
+                    [
+                        2.3889205,
+                        51.0386408
+                    ],
+                    [
+                        2.3889044,
+                        51.0386191
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "source": "GPS",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

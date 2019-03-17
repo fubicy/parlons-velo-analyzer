@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 14465502,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1687244,
+                        48.7648697
+                    ],
+                    [
+                        2.1687999,
+                        48.7649701
+                    ],
+                    [
+                        2.1691887,
+                        48.7654214
+                    ],
+                    [
+                        2.1695614,
+                        48.7658465
+                    ],
+                    [
+                        2.1698363,
+                        48.7661738
+                    ],
+                    [
+                        2.1699128,
+                        48.7662567
+                    ],
+                    [
+                        2.1699539,
+                        48.7663124
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue de Beuvron",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

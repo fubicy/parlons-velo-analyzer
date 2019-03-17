@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 241004450,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9323755,
+                        45.771258
+                    ],
+                    [
+                        4.932314,
+                        45.7694077
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "bridge": "yes",
+                "foot": "designated",
+                "highway": "path",
+                "layer": "1",
+                "name": "Pont de la Soie",
+                "segregated": "no",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 441672928,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9324743,
+                        45.7712954
+                    ],
+                    [
+                        4.9324081,
+                        45.7693434
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de la Soie",
+                "oneway": "yes",
+                "ref": "D 517a",
+                "source:maxspeed": "sign",
+                "surface": "paved",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 441672929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9324999,
+                        45.7693471
+                    ],
+                    [
+                        4.9325707,
+                        45.7713205
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de la Soie",
+                "oneway": "yes",
+                "ref": "D 517a",
+                "source:maxspeed": "sign",
+                "surface": "paved",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

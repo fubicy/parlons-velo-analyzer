@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33411673,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8626107,
+                        45.7704644
+                    ],
+                    [
+                        4.8625515,
+                        45.7704593
+                    ],
+                    [
+                        4.86227,
+                        45.7704344
+                    ],
+                    [
+                        4.8618869,
+                        45.7704005
+                    ],
+                    [
+                        4.8616745,
+                        45.7703377
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Cours \u00c9mile Zola",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

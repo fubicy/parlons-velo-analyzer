@@ -1,0 +1,145 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8026464,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0408969,
+                        43.8344208
+                    ],
+                    [
+                        5.0409638,
+                        43.8344366
+                    ],
+                    [
+                        5.0421304,
+                        43.8344789
+                    ],
+                    [
+                        5.0422352,
+                        43.8344818
+                    ],
+                    [
+                        5.0426856,
+                        43.8344976
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lcn": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Mar\u00e9chal Joffre",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 354089532,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0431841,
+                        43.8346916
+                    ],
+                    [
+                        5.043176,
+                        43.834728
+                    ],
+                    [
+                        5.04313,
+                        43.8349358
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lcn": "yes",
+                "maxspeed": "30",
+                "name": "Avenue Mar\u00e9chal Joffre",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386879596,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0431802,
+                        43.8346017
+                    ],
+                    [
+                        5.0431841,
+                        43.8346916
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "lcn": "yes",
+                "maxspeed": "30",
+                "name": "Avenue Mar\u00e9chal Joffre",
+                "note": "twayed",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 549919719,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0426856,
+                        43.8344976
+                    ],
+                    [
+                        5.042857,
+                        43.8345037
+                    ],
+                    [
+                        5.042955,
+                        43.8345071
+                    ],
+                    [
+                        5.0430593,
+                        43.8345212
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lcn": "yes",
+                "maxspeed": "30",
+                "name": "Avenue Mar\u00e9chal Joffre",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

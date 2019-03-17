@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 513120345,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6039087,
+                        47.2102924
+                    ],
+                    [
+                        -1.6042078,
+                        47.2103125
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "disused": "yes",
+                "highway": "platform",
+                "name": "Jamet",
+                "network": "TAN",
+                "public_transport": "platform",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 513120370,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6030437,
+                        47.2099462
+                    ],
+                    [
+                        -1.6027721,
+                        47.2099143
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Jamet",
+                "network": "TAN",
+                "public_transport": "platform",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

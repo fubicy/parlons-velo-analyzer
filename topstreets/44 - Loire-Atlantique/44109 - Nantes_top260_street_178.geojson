@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26008638,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5701052,
+                        47.2274153
+                    ],
+                    [
+                        -1.5703329,
+                        47.2268227
+                    ],
+                    [
+                        -1.5706315,
+                        47.2259972
+                    ],
+                    [
+                        -1.5706721,
+                        47.2259086
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Paul Painlev\u00e9",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42626533,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5707254,
+                        47.2257973
+                    ],
+                    [
+                        -1.5708186,
+                        47.2254693
+                    ],
+                    [
+                        -1.5710781,
+                        47.2247839
+                    ],
+                    [
+                        -1.5711183,
+                        47.2246838
+                    ],
+                    [
+                        -1.5712432,
+                        47.2243737
+                    ],
+                    [
+                        -1.5712553,
+                        47.224342
+                    ],
+                    [
+                        -1.5712615,
+                        47.2243272
+                    ],
+                    [
+                        -1.5712621,
+                        47.2243248
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Paul Painlev\u00e9",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

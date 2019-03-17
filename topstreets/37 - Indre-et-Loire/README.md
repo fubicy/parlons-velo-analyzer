@@ -28,7 +28,7 @@ Sur l'ensemble du département, il y a eu 1206 réponses dont 1150 réponses ave
 |37214 - Saint-Cyr-sur-Loire&nbsp;&#124;&nbsp;<a href='37214 - Saint-Cyr-sur-Loire_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='37214 - Saint-Cyr-sur-Loire_top13.md'>Top 30</a>|12|14(116%)|<img src="../../img/bar_4.gif" />&nbsp;13|
 |37225 - Saint-Martin-le-Beau|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |37233 - Saint-Pierre-des-Corps&nbsp;&#124;&nbsp;<a href='37233 - Saint-Pierre-des-Corps_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='37233 - Saint-Pierre-des-Corps_top26.md'>Top 30</a>|71|50(70%)|<img src="../../img/bar_9.gif" />&nbsp;26|
-|37261 - Tours&nbsp;&#124;&nbsp;<a href='37261 - Tours_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='37261 - Tours_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='37261 - Tours_top50.md'>Top 50</a>|824|906(109%)|<img src="../../img/bar_55.gif" />&nbsp;146|
+|37261 - Tours&nbsp;&#124;&nbsp;<a href='37261 - Tours_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='37261 - Tours_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='37261 - Tours_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='37261 - Tours_top146.md'>Top 1000</a>|824|906(109%)|<img src="../../img/bar_55.gif" />&nbsp;146|
 |37267 - Véretz|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |37273 - La Ville-aux-Dames|3|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 | **Total** |1206|1150(95%)|263|

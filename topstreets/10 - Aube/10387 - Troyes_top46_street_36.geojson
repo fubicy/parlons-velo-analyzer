@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28398042,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0815876,
+                        48.2956727
+                    ],
+                    [
+                        4.0800539,
+                        48.297773
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "primary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Quai La Fontaine",
+                "oneway": "yes",
+                "political_division": "canton",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 338461707,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0800539,
+                        48.297773
+                    ],
+                    [
+                        4.0795928,
+                        48.2984533
+                    ],
+                    [
+                        4.0795296,
+                        48.2985464
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Quai La Fontaine",
+                "oneway": "yes",
+                "political_division": "canton",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

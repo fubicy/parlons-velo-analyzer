@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26980720,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0637765,
+                        50.6200355
+                    ],
+                    [
+                        3.0637146,
+                        50.620046
+                    ],
+                    [
+                        3.0627336,
+                        50.6202126
+                    ],
+                    [
+                        3.0624272,
+                        50.6202646
+                    ],
+                    [
+                        3.0620779,
+                        50.6203241
+                    ],
+                    [
+                        3.0618576,
+                        50.6203613
+                    ],
+                    [
+                        3.0613463,
+                        50.6204505
+                    ],
+                    [
+                        3.0612219,
+                        50.6204722
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Montaigne",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60819326,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.9789971,
+                        50.643017
+                    ],
+                    [
+                        2.9798993,
+                        50.6433462
+                    ],
+                    [
+                        2.9802549,
+                        50.6433863
+                    ],
+                    [
+                        2.9808017,
+                        50.6434488
+                    ],
+                    [
+                        2.9808487,
+                        50.643463
+                    ],
+                    [
+                        2.9809804,
+                        50.6435115
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Montaigne",
+                "ref:FR:FANTOIR": "593509547R",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 524492803,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0612219,
+                        50.6204722
+                    ],
+                    [
+                        3.0611496,
+                        50.6204841
+                    ],
+                    [
+                        3.060791,
+                        50.6205432
+                    ],
+                    [
+                        3.060629,
+                        50.6205699
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Montaigne",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34175835,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1154871,
+                        50.6179896
+                    ],
+                    [
+                        3.1153258,
+                        50.6180097
+                    ],
+                    [
+                        3.1149025,
+                        50.6180436
+                    ],
+                    [
+                        3.114188,
+                        50.6181011
+                    ],
+                    [
+                        3.1136833,
+                        50.6181159
+                    ],
+                    [
+                        3.1126424,
+                        50.6181231
+                    ],
+                    [
+                        3.1119094,
+                        50.6181267
+                    ],
+                    [
+                        3.1108177,
+                        50.6181038
+                    ],
+                    [
+                        3.1105533,
+                        50.6180897
+                    ],
+                    [
+                        3.1102528,
+                        50.6180904
+                    ]
+                ]
+            },
+            "properties": {
+                "grande_circulation": "yes",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard de Tournai",
+                "oneway": "yes",
+                "ref": "D 146",
+                "ref:FR:FANTOIR": "593460613X",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

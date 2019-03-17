@@ -1,0 +1,433 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 3839423,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3584933,
+                        48.8796867
+                    ],
+                    [
+                        2.3583363,
+                        48.8796932
+                    ],
+                    [
+                        2.3576161,
+                        48.8794992
+                    ],
+                    [
+                        2.3575719,
+                        48.8794864
+                    ],
+                    [
+                        2.3574398,
+                        48.8794799
+                    ],
+                    [
+                        2.3573223,
+                        48.8794963
+                    ],
+                    [
+                        2.3571878,
+                        48.879524
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "motor_vehicle": "no",
+                "name": "Rue de Dunkerque",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4039494,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3445279,
+                        48.882794
+                    ],
+                    [
+                        2.3446394,
+                        48.8827487
+                    ],
+                    [
+                        2.3447117,
+                        48.8827194
+                    ],
+                    [
+                        2.3456065,
+                        48.8823782
+                    ],
+                    [
+                        2.3456882,
+                        48.8823463
+                    ],
+                    [
+                        2.345762,
+                        48.8823191
+                    ],
+                    [
+                        2.3464686,
+                        48.8820485
+                    ],
+                    [
+                        2.3466024,
+                        48.8819948
+                    ],
+                    [
+                        2.3467283,
+                        48.8819737
+                    ],
+                    [
+                        2.3497377,
+                        48.8811201
+                    ],
+                    [
+                        2.3498299,
+                        48.8810938
+                    ],
+                    [
+                        2.3498906,
+                        48.8810806
+                    ],
+                    [
+                        2.3510983,
+                        48.8808218
+                    ],
+                    [
+                        2.3511663,
+                        48.8808081
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Dunkerque",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "wikidata": "Q3450716",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24666331,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3576837,
+                        48.8794722
+                    ],
+                    [
+                        2.3577411,
+                        48.8794596
+                    ],
+                    [
+                        2.3578362,
+                        48.8794387
+                    ],
+                    [
+                        2.3585987,
+                        48.8792715
+                    ],
+                    [
+                        2.3586653,
+                        48.8792569
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Dunkerque",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24788407,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3536893,
+                        48.8802539
+                    ],
+                    [
+                        2.3534972,
+                        48.8802898
+                    ],
+                    [
+                        2.3527306,
+                        48.8804296
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bus": "yes",
+                "highway": "residential",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motorcar": "permissive",
+                "name": "Rue de Dunkerque",
+                "oneway": "yes",
+                "psv": "yes",
+                "sidewalk": "both",
+                "source": "BMO 080606",
+                "surface": "asphalt",
+                "taxi": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45401993,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3571878,
+                        48.879524
+                    ],
+                    [
+                        2.3570422,
+                        48.8795537
+                    ],
+                    [
+                        2.3566354,
+                        48.8796334
+                    ],
+                    [
+                        2.3565405,
+                        48.879652
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "residential",
+                "maxspeed": "30",
+                "motor_vehicle": "destination",
+                "motorcar": "permissive",
+                "name": "Rue de Dunkerque",
+                "oneway": "yes",
+                "psv": "yes",
+                "source": "BMO 080606",
+                "surface": "asphalt",
+                "taxi": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67307215,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3565405,
+                        48.879652
+                    ],
+                    [
+                        2.3561195,
+                        48.8797414
+                    ],
+                    [
+                        2.3559598,
+                        48.8797765
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "residential",
+                "maxspeed": "30",
+                "motor_vehicle": "destination",
+                "motorcar": "permissive",
+                "name": "Rue de Dunkerque",
+                "oneway": "yes",
+                "psv": "yes",
+                "source": "BMO 080606",
+                "surface": "asphalt",
+                "taxi": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362231942,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3525246,
+                        48.8804678
+                    ],
+                    [
+                        2.3523217,
+                        48.8805026
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bus": "yes",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motorcar": "permissive",
+                "name": "Rue de Dunkerque",
+                "oneway": "yes",
+                "psv": "yes",
+                "sidewalk": "separate",
+                "source": "BMO 080606",
+                "surface": "asphalt",
+                "taxi": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362231945,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3527306,
+                        48.8804296
+                    ],
+                    [
+                        2.3525246,
+                        48.8804678
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bus": "yes",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motorcar": "permissive",
+                "name": "Rue de Dunkerque",
+                "oneway": "yes",
+                "psv": "yes",
+                "sidewalk": "left",
+                "source": "BMO 080606",
+                "surface": "asphalt",
+                "taxi": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 476563603,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.353654,
+                        48.8801662
+                    ],
+                    [
+                        2.353793,
+                        48.8801272
+                    ],
+                    [
+                        2.354708,
+                        48.8798565
+                    ],
+                    [
+                        2.3558248,
+                        48.8797197
+                    ],
+                    [
+                        2.3559392,
+                        48.8796996
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "living_street",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "20",
+                "motor_vehicle": "yes",
+                "name": "Rue de Dunkerque",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 563647487,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3511663,
+                        48.8808081
+                    ],
+                    [
+                        2.3512389,
+                        48.8807945
+                    ],
+                    [
+                        2.35194,
+                        48.8806628
+                    ],
+                    [
+                        2.3519914,
+                        48.8806531
+                    ],
+                    [
+                        2.3522011,
+                        48.8806197
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Dunkerque",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "wikidata": "Q3450716",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

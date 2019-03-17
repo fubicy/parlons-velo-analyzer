@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27851255,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4814714,
+                        48.4174471
+                    ],
+                    [
+                        -4.481443,
+                        48.4173713
+                    ],
+                    [
+                        -4.4811143,
+                        48.4164935
+                    ],
+                    [
+                        -4.4810833,
+                        48.4163512
+                    ],
+                    [
+                        -4.4810121,
+                        48.4160511
+                    ],
+                    [
+                        -4.4807923,
+                        48.4155373
+                    ],
+                    [
+                        -4.4807673,
+                        48.4154824
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Pen Ar C'hleuz",
+                "ref:FR:FANTOIR": "290194105K",
+                "source:maxspeed": "FR:urban",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

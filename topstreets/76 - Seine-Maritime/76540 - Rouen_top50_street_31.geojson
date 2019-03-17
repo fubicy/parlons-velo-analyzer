@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24883714,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0862679,
+                        49.4307027
+                    ],
+                    [
+                        1.0862864,
+                        49.4307274
+                    ],
+                    [
+                        1.0863917,
+                        49.4308512
+                    ],
+                    [
+                        1.0864526,
+                        49.4309047
+                    ],
+                    [
+                        1.0874285,
+                        49.4314467
+                    ],
+                    [
+                        1.0882905,
+                        49.4319096
+                    ],
+                    [
+                        1.0883579,
+                        49.4319738
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Lafayette",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142380226,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0911884,
+                        49.4335536
+                    ],
+                    [
+                        1.091152,
+                        49.4335193
+                    ],
+                    [
+                        1.0911,
+                        49.4334748
+                    ],
+                    [
+                        1.0910853,
+                        49.4334636
+                    ],
+                    [
+                        1.0910668,
+                        49.4334494
+                    ],
+                    [
+                        1.0909829,
+                        49.4333889
+                    ],
+                    [
+                        1.0907917,
+                        49.4332837
+                    ],
+                    [
+                        1.090509,
+                        49.4331296
+                    ],
+                    [
+                        1.0904864,
+                        49.4331191
+                    ],
+                    [
+                        1.0899962,
+                        49.4328591
+                    ],
+                    [
+                        1.089548,
+                        49.4326098
+                    ],
+                    [
+                        1.0894626,
+                        49.4325636
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:psv:backward": "1",
+                "maxspeed": "30",
+                "name": "Rue Lafayette",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "vehicle:forward:conditional": "delivery @ (weight>7.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 538545813,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0894626,
+                        49.4325636
+                    ],
+                    [
+                        1.0893639,
+                        49.4325109
+                    ],
+                    [
+                        1.0884246,
+                        49.4320094
+                    ],
+                    [
+                        1.0883579,
+                        49.4319738
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:psv:backward": "1",
+                "maxspeed": "30",
+                "name": "Rue Lafayette",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "vehicle:forward:conditional": "delivery @ (weight>7.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

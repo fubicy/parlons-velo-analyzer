@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4771036,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6554143,
+                        48.1099388
+                    ],
+                    [
+                        -1.6555128,
+                        48.1101976
+                    ],
+                    [
+                        -1.6555322,
+                        48.1102328
+                    ],
+                    [
+                        -1.6555852,
+                        48.1102843
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de Strasbourg",
+                "oneway": "yes",
+                "source:lit": "Survey janvier 2016",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15415586,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6555852,
+                        48.1102843
+                    ],
+                    [
+                        -1.6556082,
+                        48.1102215
+                    ],
+                    [
+                        -1.6556093,
+                        48.1101823
+                    ],
+                    [
+                        -1.6555607,
+                        48.1100209
+                    ],
+                    [
+                        -1.6555389,
+                        48.1099555
+                    ],
+                    [
+                        -1.6555328,
+                        48.1099333
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de Strasbourg",
+                "oneway": "yes",
+                "source:lit": "Survey janvier 2016",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

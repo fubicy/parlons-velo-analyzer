@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24235879,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.3681503,
+                        47.7454028
+                    ],
+                    [
+                        -3.3683427,
+                        47.7453815
+                    ],
+                    [
+                        -3.3684956,
+                        47.7453743
+                    ],
+                    [
+                        -3.3692493,
+                        47.7453418
+                    ],
+                    [
+                        -3.369649,
+                        47.7453202
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Avenue Jean Jaur\u00e8s",
+                "name:br": "Bali Jean Jaur\u00e8s",
+                "oneway": "no",
+                "political_division": "canton",
+                "source": "Yahoo;cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2006 (nom)",
+                "source:name:br": "proper translation",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 325084728,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.3681387,
+                        47.7455077
+                    ],
+                    [
+                        -3.3683916,
+                        47.745413
+                    ],
+                    [
+                        -3.3684956,
+                        47.7453743
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue Jean Jaur\u00e8s",
+                "name:br": "Bali Jean Jaur\u00e8s",
+                "oneway": "yes",
+                "source:name:br": "proper translation",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 333858551,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.369649,
+                        47.7453202
+                    ],
+                    [
+                        -3.3705855,
+                        47.745285
+                    ],
+                    [
+                        -3.3713208,
+                        47.7452574
+                    ],
+                    [
+                        -3.371419,
+                        47.7452537
+                    ],
+                    [
+                        -3.3717754,
+                        47.7452403
+                    ],
+                    [
+                        -3.371874,
+                        47.7452366
+                    ],
+                    [
+                        -3.3722942,
+                        47.7452208
+                    ],
+                    [
+                        -3.3727263,
+                        47.7452046
+                    ],
+                    [
+                        -3.3732729,
+                        47.7451841
+                    ],
+                    [
+                        -3.3746191,
+                        47.7451335
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Jean Jaur\u00e8s",
+                "name:br": "Bali Jean Jaur\u00e8s",
+                "political_division": "canton",
+                "source": "Yahoo;cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2006 (nom)",
+                "source:maxspeed": "FR:urban",
+                "source:name:br": "proper translation",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

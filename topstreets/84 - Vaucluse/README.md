@@ -5,7 +5,7 @@ Sur l'ensemble du département, il y a eu 402 réponses dont 315 réponses avec 
 | Ville | Nb réponses | Nb réponses avec rue | Nb points noirs |
 |-------------|-------------|----------------------|-----------------|
 |84003 - Apt&nbsp;&#124;&nbsp;<a href='84003 - Apt_top1.md'>Top 10</a>|3|1(33%)|<img src="../../img/bar_1.gif" />&nbsp;1|
-|84007 - Avignon&nbsp;&#124;&nbsp;<a href='84007 - Avignon_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='84007 - Avignon_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='84007 - Avignon_top50.md'>Top 50</a>|332|299(90%)|<img src="../../img/bar_77.gif" />&nbsp;53|
+|84007 - Avignon&nbsp;&#124;&nbsp;<a href='84007 - Avignon_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='84007 - Avignon_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='84007 - Avignon_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='84007 - Avignon_top53.md'>Top 1000</a>|332|299(90%)|<img src="../../img/bar_77.gif" />&nbsp;53|
 |84026 - Cadenet|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |84031 - Carpentras|7|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |84035 - Cavaillon&nbsp;&#124;&nbsp;<a href='84035 - Cavaillon_top4.md'>Top 10</a>|4|4(100%)|<img src="../../img/bar_5.gif" />&nbsp;4|

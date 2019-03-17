@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 34 réponses dont 28 réponses avec une rue
 
 13 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue du Pré Vicinal | 6 | 17% | <img src="../../img/bar_21.gif" />&nbsp;21%|
-| Avenue de Toulouse | 6 | 17% | <img src="../../img/bar_21.gif" />&nbsp;21%|
-| Rue de Cézérou | 2 | 5% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Route de Toulouse | 2 | 5% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Route de Plaisance | 2 | 5% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Place de l'Église | 2 | 5% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Avenue de Plaisance | 2 | 5% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Voie du Canal Saint-Martory | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue du Plassa | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Belmont | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| **Total** | 25 | 73% | 89%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue du Pré Vicinal | 6 | <img src="../../img/bar_24.gif" />&nbsp;24%|
+| Avenue de Toulouse | 6 | <img src="../../img/bar_24.gif" />&nbsp;24%|
+| Rue de Cézérou | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Route de Toulouse | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Route de Plaisance | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Place de l'Église | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Avenue de Plaisance | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Voie du Canal Saint-Martory | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue du Plassa | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue Belmont | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| **Total** | 25 | 100%|

@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 2354 réponses dont 1785 réponses avec une
 
 216 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Cours Berriat | 143 | 6% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Grand'Place | 128 | 5% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Boulevard Gambetta | 100 | 4% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Cours Jean Jaurès | 93 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Gambetta | 88 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Chavant | 64 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Avenue des Martyrs | 59 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Avenue Jean Perrot | 53 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Saint-Bruno | 42 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue de l'Isère | 37 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 807 | 34% | 45%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Cours Berriat | 143 | <img src="../../img/bar_17.gif" />&nbsp;17%|
+| Grand'Place | 128 | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| Boulevard Gambetta | 100 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Cours Jean Jaurès | 93 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Gambetta | 88 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Chavant | 64 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Avenue des Martyrs | 59 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Avenue Jean Perrot | 53 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Saint-Bruno | 42 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue de l'Isère | 37 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| **Total** | 807 | 100%|

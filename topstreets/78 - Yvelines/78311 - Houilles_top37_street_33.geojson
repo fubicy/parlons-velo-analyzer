@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 293432903,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1808337,
+                        48.9222562
+                    ],
+                    [
+                        2.1808787,
+                        48.9221707
+                    ],
+                    [
+                        2.1812486,
+                        48.9216467
+                    ],
+                    [
+                        2.1814154,
+                        48.9213531
+                    ],
+                    [
+                        2.1815532,
+                        48.9211106
+                    ],
+                    [
+                        2.1819032,
+                        48.9204947
+                    ],
+                    [
+                        2.1819431,
+                        48.9204322
+                    ],
+                    [
+                        2.1819992,
+                        48.9203775
+                    ],
+                    [
+                        2.1826551,
+                        48.9191587
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Baudin",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

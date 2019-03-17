@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23108425,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9083713,
+                        47.9032398
+                    ],
+                    [
+                        1.9081799,
+                        47.9032057
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue d'Escures",
+                "oneway": "yes",
+                "surface": "sett",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 636636349,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9086838,
+                        47.9032535
+                    ],
+                    [
+                        1.9083713,
+                        47.9032398
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue d'Escures",
+                "oneway": "yes",
+                "surface": "sett",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 636636367,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9081799,
+                        47.9032057
+                    ],
+                    [
+                        1.9072804,
+                        47.9030228
+                    ],
+                    [
+                        1.90668,
+                        47.9028939
+                    ],
+                    [
+                        1.9060928,
+                        47.9027657
+                    ],
+                    [
+                        1.9058213,
+                        47.9027214
+                    ],
+                    [
+                        1.9057857,
+                        47.9027133
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue d'Escures",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

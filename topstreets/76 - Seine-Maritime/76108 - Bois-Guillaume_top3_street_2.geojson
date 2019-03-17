@@ -1,0 +1,216 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28469538,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1199667,
+                        49.4698715
+                    ],
+                    [
+                        1.1197646,
+                        49.4699108
+                    ],
+                    [
+                        1.1197407,
+                        49.4699152
+                    ],
+                    [
+                        1.119433,
+                        49.4699716
+                    ],
+                    [
+                        1.1191683,
+                        49.4700271
+                    ],
+                    [
+                        1.1181071,
+                        49.4702264
+                    ],
+                    [
+                        1.1180518,
+                        49.4702368
+                    ],
+                    [
+                        1.1178803,
+                        49.4702726
+                    ],
+                    [
+                        1.117686,
+                        49.4703097
+                    ],
+                    [
+                        1.1176366,
+                        49.470318
+                    ],
+                    [
+                        1.1171938,
+                        49.4703922
+                    ],
+                    [
+                        1.1167091,
+                        49.4704675
+                    ],
+                    [
+                        1.1165496,
+                        49.470494
+                    ],
+                    [
+                        1.1163998,
+                        49.4705206
+                    ],
+                    [
+                        1.1158799,
+                        49.4706374
+                    ],
+                    [
+                        1.1158077,
+                        49.4706539
+                    ],
+                    [
+                        1.1155178,
+                        49.4707333
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle:conditional": "delivery @ (weight>7.5)",
+                "name": "Rue de la R\u00e9publique",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 182782230,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1155178,
+                        49.4707333
+                    ],
+                    [
+                        1.1151963,
+                        49.4708325
+                    ],
+                    [
+                        1.1151619,
+                        49.4708443
+                    ],
+                    [
+                        1.1151349,
+                        49.4708571
+                    ],
+                    [
+                        1.1147243,
+                        49.4710603
+                    ],
+                    [
+                        1.1143496,
+                        49.4713124
+                    ],
+                    [
+                        1.1138253,
+                        49.4716644
+                    ],
+                    [
+                        1.1136025,
+                        49.4718184
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle:conditional": "delivery @ (weight>7.5)",
+                "name": "Rue de la R\u00e9publique",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236105238,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1133318,
+                        49.4719696
+                    ],
+                    [
+                        1.1125646,
+                        49.4723981
+                    ],
+                    [
+                        1.112463,
+                        49.4724512
+                    ],
+                    [
+                        1.1124522,
+                        49.4724568
+                    ],
+                    [
+                        1.1123005,
+                        49.4725482
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle:conditional": "delivery @ (weight>7.5)",
+                "name": "Rue de la R\u00e9publique",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 320285299,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1136025,
+                        49.4718184
+                    ],
+                    [
+                        1.1133318,
+                        49.4719696
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "motor_vehicle:conditional": "delivery @ (weight>7.5)",
+                "name": "Rue de la R\u00e9publique",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

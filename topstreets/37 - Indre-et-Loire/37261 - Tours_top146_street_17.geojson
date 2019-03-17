@@ -1,0 +1,238 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25793542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6873707,
+                        47.3938647
+                    ],
+                    [
+                        0.6873099,
+                        47.3938524
+                    ],
+                    [
+                        0.6869985,
+                        47.3937968
+                    ],
+                    [
+                        0.6868301,
+                        47.3937725
+                    ],
+                    [
+                        0.6862106,
+                        47.3936951
+                    ],
+                    [
+                        0.6861341,
+                        47.3936855
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Halles",
+                "source": "survey; Royaltek RGM-3800; 2008-07",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117722544,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6861341,
+                        47.3936855
+                    ],
+                    [
+                        0.6860331,
+                        47.3936724
+                    ],
+                    [
+                        0.6851647,
+                        47.3935601
+                    ],
+                    [
+                        0.6851081,
+                        47.3935542
+                    ],
+                    [
+                        0.6850371,
+                        47.3935468
+                    ],
+                    [
+                        0.684961,
+                        47.3935375
+                    ],
+                    [
+                        0.6848142,
+                        47.3935186
+                    ],
+                    [
+                        0.6842208,
+                        47.3934534
+                    ],
+                    [
+                        0.6841478,
+                        47.3934492
+                    ],
+                    [
+                        0.6840817,
+                        47.393445
+                    ],
+                    [
+                        0.6836092,
+                        47.3933837
+                    ],
+                    [
+                        0.6835468,
+                        47.3933739
+                    ],
+                    [
+                        0.6833705,
+                        47.3933441
+                    ],
+                    [
+                        0.6832711,
+                        47.3933208
+                    ],
+                    [
+                        0.6831932,
+                        47.3933022
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Halles",
+                "source": "survey; Royaltek RGM-3800; 2008-07",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162135598,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6831932,
+                        47.3933022
+                    ],
+                    [
+                        0.6830193,
+                        47.3932589
+                    ],
+                    [
+                        0.6826379,
+                        47.3931699
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Halles",
+                "oneway": "yes",
+                "source": "survey; Royaltek RGM-3800; 2008-07",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164840826,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6826379,
+                        47.3931699
+                    ],
+                    [
+                        0.6824343,
+                        47.3931207
+                    ],
+                    [
+                        0.6820867,
+                        47.3930368
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Halles",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source": "survey; Royaltek RGM-3800; 2008-07",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195529773,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6820867,
+                        47.3930368
+                    ],
+                    [
+                        0.6816816,
+                        47.3929369
+                    ],
+                    [
+                        0.6815408,
+                        47.392905
+                    ],
+                    [
+                        0.6808132,
+                        47.3927198
+                    ],
+                    [
+                        0.6807642,
+                        47.3927067
+                    ],
+                    [
+                        0.6806651,
+                        47.3926735
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Halles",
+                "oneway": "yes",
+                "source": "survey;Royaltek RGM-3800;2008-07",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

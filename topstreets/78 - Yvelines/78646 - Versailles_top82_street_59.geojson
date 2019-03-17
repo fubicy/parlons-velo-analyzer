@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22475885,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1311196,
+                        48.8062598
+                    ],
+                    [
+                        2.1317241,
+                        48.8060929
+                    ],
+                    [
+                        2.1323222,
+                        48.8059325
+                    ],
+                    [
+                        2.1324338,
+                        48.8059615
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue au Pain",
+                "oneway": "yes",
+                "source": "survey;BDOrtho 2018",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 650396120,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1310704,
+                        48.8063373
+                    ],
+                    [
+                        2.1311196,
+                        48.8062598
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue au Pain",
+                "oneway": "yes",
+                "source": "survey;BDOrtho 2018",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

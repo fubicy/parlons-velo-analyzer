@@ -1,0 +1,260 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8101649,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4505082,
+                        43.6137537
+                    ],
+                    [
+                        1.4505561,
+                        43.6137941
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Lyon",
+                "old_ref": "N 88",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8101658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4509289,
+                        43.6141037
+                    ],
+                    [
+                        1.4510067,
+                        43.6141643
+                    ],
+                    [
+                        1.4515593,
+                        43.6146435
+                    ],
+                    [
+                        1.4518498,
+                        43.6148953
+                    ],
+                    [
+                        1.4519699,
+                        43.6149995
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue de Lyon",
+                "old_ref": "N 88",
+                "ref": "D 188",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|left;through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28899479,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4519699,
+                        43.6149995
+                    ],
+                    [
+                        1.4520323,
+                        43.6150382
+                    ],
+                    [
+                        1.4520938,
+                        43.6150764
+                    ],
+                    [
+                        1.452229,
+                        43.6151949
+                    ],
+                    [
+                        1.452259,
+                        43.6152212
+                    ],
+                    [
+                        1.4524257,
+                        43.6153617
+                    ],
+                    [
+                        1.4525093,
+                        43.6154408
+                    ],
+                    [
+                        1.4526238,
+                        43.6155623
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Lyon",
+                "old_ref": "N 88",
+                "oneway": "yes",
+                "ref": "D 188",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185298816,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4505561,
+                        43.6137941
+                    ],
+                    [
+                        1.4508311,
+                        43.6140447
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "bridge:name": "Pont Matabiau",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:backward": "3",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue de Lyon",
+                "old_ref": "N 88",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through|through|right",
+                "turn:lanes:forward": "through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185298817,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4508311,
+                        43.6140447
+                    ],
+                    [
+                        1.4509289,
+                        43.6141037
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Lyon",
+                "old_ref": "N 88",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 213778647,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4525834,
+                        43.6156539
+                    ],
+                    [
+                        1.4525245,
+                        43.6155873
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Lyon",
+                "oneway": "yes",
+                "ref": "D 188",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 213778648,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4525245,
+                        43.6155873
+                    ],
+                    [
+                        1.4524471,
+                        43.6154755
+                    ],
+                    [
+                        1.4524039,
+                        43.6154152
+                    ],
+                    [
+                        1.4520473,
+                        43.6150935
+                    ],
+                    [
+                        1.4519699,
+                        43.6149995
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Lyon",
+                "oneway": "yes",
+                "ref": "D 188",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

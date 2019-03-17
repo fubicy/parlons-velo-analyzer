@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 45 réponses dont 17 réponses avec une rue
 
 14 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Route de Tours | 2 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Quai Danton | 2 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Pont Aliénor d'Aquitaine | 2 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Saint-Lazare | 1 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue des Loges | 1 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue de la Roche-Faucon | 1 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue Voltaire | 1 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Quai Pasteur | 1 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Quai Jeanne d'Arc | 1 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Quai Charles VII | 1 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| **Total** | 13 | 28% | 76%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Route de Tours | 2 | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| Quai Danton | 2 | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| Pont Aliénor d'Aquitaine | 2 | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| Saint-Lazare | 1 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rue des Loges | 1 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rue de la Roche-Faucon | 1 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rue Voltaire | 1 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Quai Pasteur | 1 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Quai Jeanne d'Arc | 1 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Quai Charles VII | 1 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| **Total** | 13 | 100%|

@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 189745460,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1083563,
+                        49.4456406
+                    ],
+                    [
+                        1.1082995,
+                        49.4455528
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue des Capucins",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189745462,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1082995,
+                        49.4455528
+                    ],
+                    [
+                        1.1082881,
+                        49.4455351
+                    ],
+                    [
+                        1.1078957,
+                        49.4449064
+                    ],
+                    [
+                        1.1078629,
+                        49.4448556
+                    ],
+                    [
+                        1.1075112,
+                        49.4442734
+                    ],
+                    [
+                        1.1074959,
+                        49.4442462
+                    ],
+                    [
+                        1.107475,
+                        49.4442136
+                    ],
+                    [
+                        1.1073929,
+                        49.4441587
+                    ],
+                    [
+                        1.1071078,
+                        49.4438098
+                    ],
+                    [
+                        1.1069697,
+                        49.443587
+                    ],
+                    [
+                        1.1067387,
+                        49.4432144
+                    ],
+                    [
+                        1.1066026,
+                        49.4429949
+                    ],
+                    [
+                        1.1063192,
+                        49.4425378
+                    ],
+                    [
+                        1.1062995,
+                        49.4425101
+                    ],
+                    [
+                        1.1062745,
+                        49.4424865
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "unclassified",
+                "horse": "yes",
+                "lanes": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue des Capucins",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24341854,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4316629,
+                        48.8583469
+                    ],
+                    [
+                        2.4323309,
+                        48.8584942
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue \u00c9tienne Marcel",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24341855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4316629,
+                        48.8583469
+                    ],
+                    [
+                        2.4282657,
+                        48.8576783
+                    ],
+                    [
+                        2.4279206,
+                        48.8576482
+                    ],
+                    [
+                        2.4276261,
+                        48.8576225
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue \u00c9tienne Marcel",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24341928,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4253046,
+                        48.8574403
+                    ],
+                    [
+                        2.4271438,
+                        48.8575869
+                    ],
+                    [
+                        2.4274468,
+                        48.8576113
+                    ],
+                    [
+                        2.4275235,
+                        48.8576175
+                    ],
+                    [
+                        2.4276261,
+                        48.8576225
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue \u00c9tienne Marcel",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 496231611,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4253046,
+                        48.8574403
+                    ],
+                    [
+                        2.4233894,
+                        48.8573011
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue \u00c9tienne Marcel",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

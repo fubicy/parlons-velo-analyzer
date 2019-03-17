@@ -1,0 +1,395 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22364291,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1864484,
+                        48.6853317
+                    ],
+                    [
+                        6.1862185,
+                        48.6854817
+                    ],
+                    [
+                        6.186173,
+                        48.6855259
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "comment": "Aucune signalisation indiquant l'autorisation de la voie de bus pour les cycles",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Saint-Dizier",
+                "oneway": "yes",
+                "ref": "D 400",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151704151,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1836753,
+                        48.6891672
+                    ],
+                    [
+                        6.1836385,
+                        48.6892112
+                    ],
+                    [
+                        6.1836068,
+                        48.6892476
+                    ],
+                    [
+                        6.1835593,
+                        48.6893115
+                    ],
+                    [
+                        6.1832685,
+                        48.6897029
+                    ],
+                    [
+                        6.1832209,
+                        48.6897706
+                    ],
+                    [
+                        6.1831492,
+                        48.6898678
+                    ],
+                    [
+                        6.1831079,
+                        48.6899264
+                    ],
+                    [
+                        6.1825535,
+                        48.6906803
+                    ],
+                    [
+                        6.1825289,
+                        48.6907138
+                    ],
+                    [
+                        6.1825126,
+                        48.6907359
+                    ],
+                    [
+                        6.182484,
+                        48.6907746
+                    ],
+                    [
+                        6.1824647,
+                        48.6907981
+                    ],
+                    [
+                        6.182437,
+                        48.6908372
+                    ],
+                    [
+                        6.1820582,
+                        48.6913477
+                    ],
+                    [
+                        6.1817471,
+                        48.6917615
+                    ],
+                    [
+                        6.1817092,
+                        48.6918081
+                    ],
+                    [
+                        6.1816752,
+                        48.69185
+                    ],
+                    [
+                        6.1816047,
+                        48.691925
+                    ],
+                    [
+                        6.1815458,
+                        48.6919997
+                    ],
+                    [
+                        6.1812543,
+                        48.6923935
+                    ],
+                    [
+                        6.1812423,
+                        48.6924099
+                    ],
+                    [
+                        6.1812132,
+                        48.6924487
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "destination": "Dom Calmet;Charles \u2162",
+                "destination:symbol": "parking",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Saint-Dizier",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 277629119,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1812132,
+                        48.6924487
+                    ],
+                    [
+                        6.1811808,
+                        48.6924936
+                    ],
+                    [
+                        6.1810389,
+                        48.6927016
+                    ],
+                    [
+                        6.1810027,
+                        48.6927495
+                    ],
+                    [
+                        6.1809726,
+                        48.6927894
+                    ],
+                    [
+                        6.1809458,
+                        48.692825
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "destination": "Quartier Ville Vieille-L\u00e9opold;Vaud\u00e9mont;Dom Calmet",
+                "destination:symbol": "parking",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Saint-Dizier",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323311972,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.186173,
+                        48.6855259
+                    ],
+                    [
+                        6.1861584,
+                        48.6855435
+                    ],
+                    [
+                        6.18615,
+                        48.6855834
+                    ],
+                    [
+                        6.1861557,
+                        48.6856717
+                    ],
+                    [
+                        6.1861563,
+                        48.6857444
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "comment": "Aucune signalisation indiquant l'autorisation de la voie de bus pour les cycles",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Saint-Dizier",
+                "oneway": "yes",
+                "ref": "D 400",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323311973,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1861563,
+                        48.6857444
+                    ],
+                    [
+                        6.1861224,
+                        48.6858469
+                    ],
+                    [
+                        6.1860975,
+                        48.6858922
+                    ],
+                    [
+                        6.1860669,
+                        48.6859346
+                    ],
+                    [
+                        6.1854226,
+                        48.6867932
+                    ],
+                    [
+                        6.1854093,
+                        48.6868129
+                    ],
+                    [
+                        6.1853768,
+                        48.686861
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Saint-Dizier",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 613681423,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1853768,
+                        48.686861
+                    ],
+                    [
+                        6.1853288,
+                        48.6869319
+                    ],
+                    [
+                        6.1848184,
+                        48.6876206
+                    ],
+                    [
+                        6.1847303,
+                        48.6877366
+                    ],
+                    [
+                        6.1842751,
+                        48.68836
+                    ],
+                    [
+                        6.1842393,
+                        48.6884056
+                    ],
+                    [
+                        6.184194,
+                        48.6884635
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "destination": "Place Stanislas;Charles \u2162;March\u00e9 Central",
+                "destination:symbol": "parking",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Saint-Dizier",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 619100991,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.184194,
+                        48.6884635
+                    ],
+                    [
+                        6.1841476,
+                        48.6885265
+                    ],
+                    [
+                        6.1837557,
+                        48.6890581
+                    ],
+                    [
+                        6.1836753,
+                        48.6891672
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "destination": "Quartier Ville Vieille-L\u00e9opold;Quartier Stanislas;March\u00e9 Central;Saint Dizier;Charles \u2162",
+                "destination:symbol": "parking",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Saint-Dizier",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26751167,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2976077,
+                        49.8952447
+                    ],
+                    [
+                        2.2975292,
+                        49.8947276
+                    ],
+                    [
+                        2.2974466,
+                        49.8943103
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue des Vergeaux",
+                "oneway": "yes",
+                "political_division": "canton",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26769758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2974466,
+                        49.8943103
+                    ],
+                    [
+                        2.297376,
+                        49.8938225
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "pedestrian",
+                "motor_vehicle": "destination",
+                "name": "Rue des Vergeaux",
+                "oneway": "yes",
+                "political_division": "canton",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

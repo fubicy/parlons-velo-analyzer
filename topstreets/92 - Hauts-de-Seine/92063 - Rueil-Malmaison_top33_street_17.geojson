@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23938086,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1726173,
+                        48.8792247
+                    ],
+                    [
+                        2.1728103,
+                        48.8793316
+                    ],
+                    [
+                        2.1734875,
+                        48.8797069
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Isabey",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

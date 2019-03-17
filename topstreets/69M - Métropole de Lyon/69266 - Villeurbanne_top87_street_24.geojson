@@ -1,0 +1,2631 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4275143,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8939759,
+                        45.7808731
+                    ],
+                    [
+                        4.8935266,
+                        45.7813891
+                    ],
+                    [
+                        4.8930185,
+                        45.782015
+                    ],
+                    [
+                        4.8925302,
+                        45.782623
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Lyon - centre",
+                "highway": "trunk",
+                "lanes": "2",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8584309,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8861826,
+                        45.7870601
+                    ],
+                    [
+                        4.886228,
+                        45.7870464
+                    ],
+                    [
+                        4.8862769,
+                        45.7870406
+                    ],
+                    [
+                        4.8863263,
+                        45.787043
+                    ],
+                    [
+                        4.8863734,
+                        45.7870535
+                    ],
+                    [
+                        4.8864157,
+                        45.7870715
+                    ],
+                    [
+                        4.8864506,
+                        45.787096
+                    ],
+                    [
+                        4.8864745,
+                        45.7871231
+                    ],
+                    [
+                        4.8864894,
+                        45.7871532
+                    ],
+                    [
+                        4.8864945,
+                        45.7871847
+                    ],
+                    [
+                        4.8864895,
+                        45.7872163
+                    ],
+                    [
+                        4.8864748,
+                        45.7872464
+                    ],
+                    [
+                        4.8864417,
+                        45.7872813
+                    ],
+                    [
+                        4.8863957,
+                        45.7873081
+                    ],
+                    [
+                        4.8863407,
+                        45.7873246
+                    ],
+                    [
+                        4.8862811,
+                        45.7873295
+                    ],
+                    [
+                        4.8862238,
+                        45.7873226
+                    ],
+                    [
+                        4.8861715,
+                        45.7873049
+                    ],
+                    [
+                        4.8861303,
+                        45.7872795
+                    ],
+                    [
+                        4.8861002,
+                        45.7872475
+                    ],
+                    [
+                        4.8860832,
+                        45.7872111
+                    ],
+                    [
+                        4.8860806,
+                        45.7871728
+                    ],
+                    [
+                        4.8860906,
+                        45.787139
+                    ],
+                    [
+                        4.8861119,
+                        45.7871078
+                    ],
+                    [
+                        4.8861431,
+                        45.787081
+                    ],
+                    [
+                        4.8861826,
+                        45.7870601
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "junction": "roundabout",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard Laurent Bonnevay",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8584411,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8652869,
+                        45.7846478
+                    ],
+                    [
+                        4.865017,
+                        45.7846654
+                    ],
+                    [
+                        4.8648735,
+                        45.7846822
+                    ],
+                    [
+                        4.8647156,
+                        45.7847218
+                    ],
+                    [
+                        4.864532,
+                        45.784784
+                    ],
+                    [
+                        4.8642809,
+                        45.7848989
+                    ],
+                    [
+                        4.8642333,
+                        45.7849406
+                    ],
+                    [
+                        4.8642139,
+                        45.7849823
+                    ],
+                    [
+                        4.8642135,
+                        45.7850356
+                    ],
+                    [
+                        4.8642127,
+                        45.7851047
+                    ],
+                    [
+                        4.8641946,
+                        45.7851874
+                    ],
+                    [
+                        4.8641671,
+                        45.7852555
+                    ],
+                    [
+                        4.8641162,
+                        45.7853268
+                    ],
+                    [
+                        4.8640448,
+                        45.7853963
+                    ],
+                    [
+                        4.8639627,
+                        45.7854544
+                    ],
+                    [
+                        4.8638533,
+                        45.7855087
+                    ],
+                    [
+                        4.8637407,
+                        45.7855486
+                    ]
+                ]
+            },
+            "properties": {
+                "description": "Lyon Centre",
+                "highway": "primary",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8584412,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8638476,
+                        45.784797
+                    ],
+                    [
+                        4.8639636,
+                        45.7847863
+                    ],
+                    [
+                        4.8640619,
+                        45.7847689
+                    ],
+                    [
+                        4.8644541,
+                        45.7846109
+                    ],
+                    [
+                        4.8646604,
+                        45.7845657
+                    ],
+                    [
+                        4.8648742,
+                        45.7845462
+                    ],
+                    [
+                        4.8652829,
+                        45.7845719
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Villeurbanne; Domaine scientifique de la Doua",
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:source": "sign",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8584414,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8789442,
+                        45.7871688
+                    ],
+                    [
+                        4.8787965,
+                        45.7871383
+                    ],
+                    [
+                        4.8780559,
+                        45.7869783
+                    ],
+                    [
+                        4.877313,
+                        45.7868133
+                    ],
+                    [
+                        4.8764963,
+                        45.7866325
+                    ],
+                    [
+                        4.8754963,
+                        45.7864116
+                    ],
+                    [
+                        4.8751853,
+                        45.7863431
+                    ],
+                    [
+                        4.8743621,
+                        45.7861615
+                    ],
+                    [
+                        4.8735737,
+                        45.7859867
+                    ],
+                    [
+                        4.8725598,
+                        45.7857636
+                    ],
+                    [
+                        4.8718187,
+                        45.7855996
+                    ],
+                    [
+                        4.8708572,
+                        45.7853921
+                    ],
+                    [
+                        4.8703548,
+                        45.7852943
+                    ],
+                    [
+                        4.869747,
+                        45.7851859
+                    ],
+                    [
+                        4.86935,
+                        45.7851209
+                    ],
+                    [
+                        4.8685173,
+                        45.784999
+                    ],
+                    [
+                        4.8680871,
+                        45.7849433
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8584444,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8619539,
+                        45.7855903
+                    ],
+                    [
+                        4.8622073,
+                        45.785445
+                    ],
+                    [
+                        4.862513,
+                        45.7852936
+                    ],
+                    [
+                        4.8625742,
+                        45.7852214
+                    ],
+                    [
+                        4.8625986,
+                        45.7851643
+                    ],
+                    [
+                        4.8626154,
+                        45.7850921
+                    ],
+                    [
+                        4.8626138,
+                        45.7850127
+                    ],
+                    [
+                        4.8626035,
+                        45.7849618
+                    ],
+                    [
+                        4.862573,
+                        45.7849046
+                    ],
+                    [
+                        4.862514,
+                        45.7848556
+                    ],
+                    [
+                        4.8624318,
+                        45.7848103
+                    ],
+                    [
+                        4.8623255,
+                        45.7847741
+                    ],
+                    [
+                        4.8621954,
+                        45.784748
+                    ],
+                    [
+                        4.861958,
+                        45.7847217
+                    ],
+                    [
+                        4.861646,
+                        45.7847088
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8584445,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8629752,
+                        45.7849976
+                    ],
+                    [
+                        4.8629014,
+                        45.7849173
+                    ],
+                    [
+                        4.8628238,
+                        45.7848657
+                    ],
+                    [
+                        4.8625515,
+                        45.7847504
+                    ],
+                    [
+                        4.8623544,
+                        45.7847013
+                    ],
+                    [
+                        4.8622543,
+                        45.7846868
+                    ],
+                    [
+                        4.8621243,
+                        45.7846787
+                    ],
+                    [
+                        4.8619569,
+                        45.784685
+                    ],
+                    [
+                        4.861646,
+                        45.7847088
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Lyon Part Dieu; Villeurbanne - Tonkin; Clinique du Tonkin",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9558967,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9080242,
+                        45.7638973
+                    ],
+                    [
+                        4.9083259,
+                        45.7635232
+                    ],
+                    [
+                        4.9089522,
+                        45.7628184
+                    ],
+                    [
+                        4.9090942,
+                        45.762641
+                    ],
+                    [
+                        4.9091768,
+                        45.7624853
+                    ],
+                    [
+                        4.9092875,
+                        45.76224
+                    ],
+                    [
+                        4.9093623,
+                        45.7620049
+                    ],
+                    [
+                        4.9094894,
+                        45.7616012
+                    ],
+                    [
+                        4.9095153,
+                        45.7614328
+                    ],
+                    [
+                        4.9094819,
+                        45.7610629
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "V\u00e9nissieux",
+                "highway": "trunk_link",
+                "lanes": "1",
+                "maxspeed": "90",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22416671,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.907603,
+                        45.7515404
+                    ],
+                    [
+                        4.9075385,
+                        45.7512143
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "trunk",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22416678,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9076124,
+                        45.7506208
+                    ],
+                    [
+                        4.9078009,
+                        45.7515034
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "trunk",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22416681,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9078009,
+                        45.7515034
+                    ],
+                    [
+                        4.9084737,
+                        45.7547659
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "3",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22663978,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9091854,
+                        45.7582852
+                    ],
+                    [
+                        4.9092863,
+                        45.7587448
+                    ],
+                    [
+                        4.9096054,
+                        45.7602358
+                    ],
+                    [
+                        4.9098492,
+                        45.7612124
+                    ],
+                    [
+                        4.9099024,
+                        45.7618371
+                    ],
+                    [
+                        4.9098564,
+                        45.762124
+                    ],
+                    [
+                        4.9097922,
+                        45.7623728
+                    ],
+                    [
+                        4.9097213,
+                        45.7625838
+                    ],
+                    [
+                        4.9096274,
+                        45.7627947
+                    ],
+                    [
+                        4.9091096,
+                        45.7634477
+                    ],
+                    [
+                        4.9078584,
+                        45.7645609
+                    ],
+                    [
+                        4.9063214,
+                        45.7660597
+                    ],
+                    [
+                        4.9049574,
+                        45.7675697
+                    ],
+                    [
+                        4.9030214,
+                        45.7698963
+                    ],
+                    [
+                        4.9007315,
+                        45.7726794
+                    ],
+                    [
+                        4.8963252,
+                        45.7779461
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "trunk",
+                "lanes": "3",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22663980,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.909015,
+                        45.7582575
+                    ],
+                    [
+                        4.9086005,
+                        45.7563455
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "3",
+                "layer": "-1",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22663981,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9086005,
+                        45.7563455
+                    ],
+                    [
+                        4.9083116,
+                        45.7550688
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22715638,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8915696,
+                        45.7835421
+                    ],
+                    [
+                        4.8918061,
+                        45.7832991
+                    ],
+                    [
+                        4.8920318,
+                        45.7830213
+                    ],
+                    [
+                        4.8923766,
+                        45.7825974
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "destination": "Marseille;Grenoble;Chamb\u00e9ry",
+                "highway": "trunk",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22715715,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.888238,
+                        45.7867703
+                    ],
+                    [
+                        4.8904461,
+                        45.78479
+                    ],
+                    [
+                        4.8915696,
+                        45.7835421
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "trunk",
+                "lanes": "3",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23121952,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8608431,
+                        45.7847536
+                    ],
+                    [
+                        4.8605664,
+                        45.7847971
+                    ],
+                    [
+                        4.8604818,
+                        45.7848123
+                    ],
+                    [
+                        4.8604184,
+                        45.7848426
+                    ],
+                    [
+                        4.8603302,
+                        45.7849112
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Toutes directions; Caluire",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23121957,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8601467,
+                        45.784649
+                    ],
+                    [
+                        4.860271,
+                        45.7846246
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxheight": "4.5",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23121958,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8608431,
+                        45.7847536
+                    ],
+                    [
+                        4.8605662,
+                        45.7847439
+                    ],
+                    [
+                        4.8604731,
+                        45.784738
+                    ],
+                    [
+                        4.8603767,
+                        45.7847243
+                    ],
+                    [
+                        4.8602781,
+                        45.7846956
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Clinique du Tonkin",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34246017,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8916803,
+                        45.78365
+                    ],
+                    [
+                        4.8911436,
+                        45.7842587
+                    ],
+                    [
+                        4.8908713,
+                        45.7845505
+                    ],
+                    [
+                        4.8905842,
+                        45.7848386
+                    ],
+                    [
+                        4.8901941,
+                        45.785208
+                    ],
+                    [
+                        4.8898132,
+                        45.7855503
+                    ],
+                    [
+                        4.8888098,
+                        45.7864663
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "2",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34633167,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8923766,
+                        45.7825974
+                    ],
+                    [
+                        4.8934194,
+                        45.7813332
+                    ],
+                    [
+                        4.8943984,
+                        45.7800986
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "2",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34633351,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8925302,
+                        45.782623
+                    ],
+                    [
+                        4.8919373,
+                        45.7833536
+                    ],
+                    [
+                        4.8916803,
+                        45.78365
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "trunk",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141795873,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8616813,
+                        45.7845774
+                    ],
+                    [
+                        4.8619734,
+                        45.7845646
+                    ],
+                    [
+                        4.8623124,
+                        45.7845651
+                    ],
+                    [
+                        4.8625007,
+                        45.7845965
+                    ],
+                    [
+                        4.862678,
+                        45.7846527
+                    ],
+                    [
+                        4.8628231,
+                        45.7847106
+                    ],
+                    [
+                        4.8629299,
+                        45.7847549
+                    ],
+                    [
+                        4.8630374,
+                        45.7847643
+                    ],
+                    [
+                        4.8631749,
+                        45.7847718
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141795874,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.861646,
+                        45.7847088
+                    ],
+                    [
+                        4.8614766,
+                        45.7847162
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141795879,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8614766,
+                        45.7847162
+                    ],
+                    [
+                        4.8608431,
+                        45.7847536
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "turn:lanes": "left|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141795880,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8614474,
+                        45.7845838
+                    ],
+                    [
+                        4.8616813,
+                        45.7845774
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157655116,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9096274,
+                        45.7627947
+                    ],
+                    [
+                        4.90937,
+                        45.7632997
+                    ],
+                    [
+                        4.9091721,
+                        45.7635575
+                    ],
+                    [
+                        4.9071988,
+                        45.7653982
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "destination": "Villeurbanne-Saint Jean;Vaulx en Velin-Centre",
+                "highway": "trunk_link",
+                "lanes": "2",
+                "maxspeed": "90",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163042711,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8964217,
+                        45.7775979
+                    ],
+                    [
+                        4.8998458,
+                        45.7734739
+                    ],
+                    [
+                        4.9005043,
+                        45.7726669
+                    ],
+                    [
+                        4.9031352,
+                        45.7694683
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bicycle": "no",
+                "cycleway": "no",
+                "foot": "no",
+                "highway": "trunk",
+                "lanes": "3",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "motor_vehicle": "yes",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163042712,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8963252,
+                        45.7779461
+                    ],
+                    [
+                        4.89537,
+                        45.7791166
+                    ],
+                    [
+                        4.8939759,
+                        45.7808731
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "trunk",
+                "lanes": "3",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 214795367,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9088051,
+                        45.7563265
+                    ],
+                    [
+                        4.9091529,
+                        45.7579732
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "layer": "-1",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218633906,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9071988,
+                        45.7653982
+                    ],
+                    [
+                        4.9057949,
+                        45.7668779
+                    ],
+                    [
+                        4.9055872,
+                        45.7670998
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "highway": "trunk_link",
+                "lanes": "2",
+                "maxspeed": "90",
+                "motor_vehicle": "yes",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218996251,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9083672,
+                        45.7535445
+                    ],
+                    [
+                        4.9083982,
+                        45.7537457
+                    ],
+                    [
+                        4.9084524,
+                        45.7542237
+                    ],
+                    [
+                        4.908509,
+                        45.7545863
+                    ],
+                    [
+                        4.9084737,
+                        45.7547659
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk_link",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 222251433,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8602781,
+                        45.7846956
+                    ],
+                    [
+                        4.8601467,
+                        45.784649
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxheight": "4.5",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 222251434,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.860271,
+                        45.7846246
+                    ],
+                    [
+                        4.8604606,
+                        45.784616
+                    ],
+                    [
+                        4.8610051,
+                        45.7845949
+                    ],
+                    [
+                        4.8611636,
+                        45.7845888
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "turn:lanes": "||through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236780816,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8888098,
+                        45.7864663
+                    ],
+                    [
+                        4.8879199,
+                        45.787255
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "3",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236783947,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8943984,
+                        45.7800986
+                    ],
+                    [
+                        4.8952478,
+                        45.7790241
+                    ],
+                    [
+                        4.8964217,
+                        45.7775979
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "3",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236783948,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9031352,
+                        45.7694683
+                    ],
+                    [
+                        4.9035501,
+                        45.7689917
+                    ],
+                    [
+                        4.9047997,
+                        45.7675078
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bicycle": "no",
+                "cycleway": "no",
+                "foot": "no",
+                "highway": "trunk",
+                "lanes": "2",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236783949,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9047997,
+                        45.7675078
+                    ],
+                    [
+                        4.906133,
+                        45.7659765
+                    ],
+                    [
+                        4.9077027,
+                        45.7644974
+                    ],
+                    [
+                        4.9089341,
+                        45.7633577
+                    ],
+                    [
+                        4.9094246,
+                        45.7627225
+                    ],
+                    [
+                        4.9095255,
+                        45.7625323
+                    ],
+                    [
+                        4.9095971,
+                        45.7623393
+                    ],
+                    [
+                        4.9096586,
+                        45.7620874
+                    ],
+                    [
+                        4.9096772,
+                        45.7618337
+                    ],
+                    [
+                        4.9096452,
+                        45.7612049
+                    ],
+                    [
+                        4.9090417,
+                        45.7583896
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "3",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236783950,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9075385,
+                        45.7512143
+                    ],
+                    [
+                        4.9074363,
+                        45.7506583
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "trunk",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256058221,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8652869,
+                        45.7846478
+                    ],
+                    [
+                        4.8650741,
+                        45.7846276
+                    ],
+                    [
+                        4.8649669,
+                        45.7846269
+                    ],
+                    [
+                        4.8648652,
+                        45.7846324
+                    ],
+                    [
+                        4.8646852,
+                        45.7846621
+                    ],
+                    [
+                        4.8645009,
+                        45.7847267
+                    ],
+                    [
+                        4.8642176,
+                        45.7848391
+                    ],
+                    [
+                        4.8641602,
+                        45.7848674
+                    ],
+                    [
+                        4.8640997,
+                        45.7849
+                    ],
+                    [
+                        4.8640038,
+                        45.7849954
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Lyon Part Dieu; Cit\u00e9 Internationale; Clinique du Tonkin",
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:source": "sign",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256487406,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8601467,
+                        45.784649
+                    ],
+                    [
+                        4.8600338,
+                        45.7845422
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxheight": "4.5",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 314987312,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8672631,
+                        45.7848481
+                    ],
+                    [
+                        4.8670974,
+                        45.7848342
+                    ],
+                    [
+                        4.8664178,
+                        45.7847642
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 314987313,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8672801,
+                        45.7847492
+                    ],
+                    [
+                        4.8674558,
+                        45.7847661
+                    ],
+                    [
+                        4.8677281,
+                        45.7848007
+                    ],
+                    [
+                        4.8683179,
+                        45.7848713
+                    ],
+                    [
+                        4.8689191,
+                        45.7849538
+                    ],
+                    [
+                        4.8697857,
+                        45.7850905
+                    ],
+                    [
+                        4.8703485,
+                        45.7851906
+                    ],
+                    [
+                        4.8711051,
+                        45.7853399
+                    ],
+                    [
+                        4.8718576,
+                        45.7855039
+                    ],
+                    [
+                        4.8726055,
+                        45.785669
+                    ],
+                    [
+                        4.8739674,
+                        45.78597
+                    ],
+                    [
+                        4.8748056,
+                        45.7861559
+                    ],
+                    [
+                        4.8750364,
+                        45.786207
+                    ],
+                    [
+                        4.8757585,
+                        45.7863662
+                    ],
+                    [
+                        4.8765363,
+                        45.7865375
+                    ],
+                    [
+                        4.8773671,
+                        45.786721
+                    ],
+                    [
+                        4.8783789,
+                        45.786945
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 314987314,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8664464,
+                        45.7846713
+                    ],
+                    [
+                        4.867048,
+                        45.7847267
+                    ],
+                    [
+                        4.8671156,
+                        45.7847332
+                    ],
+                    [
+                        4.8672801,
+                        45.7847492
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 314987315,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8680871,
+                        45.7849433
+                    ],
+                    [
+                        4.8679014,
+                        45.7849141
+                    ],
+                    [
+                        4.8674873,
+                        45.7848669
+                    ],
+                    [
+                        4.8674355,
+                        45.7848626
+                    ],
+                    [
+                        4.8672631,
+                        45.7848481
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 320167647,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9091529,
+                        45.7579732
+                    ],
+                    [
+                        4.9091854,
+                        45.7582852
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "3",
+                "layer": "-1",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 320167648,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9084737,
+                        45.7547659
+                    ],
+                    [
+                        4.9088051,
+                        45.7563265
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332614459,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8611636,
+                        45.7845888
+                    ],
+                    [
+                        4.8614474,
+                        45.7845838
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 414786364,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8664178,
+                        45.7847642
+                    ],
+                    [
+                        4.8652869,
+                        45.7846478
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:source": "sign",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 414786365,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8652829,
+                        45.7845719
+                    ],
+                    [
+                        4.8658673,
+                        45.7846218
+                    ],
+                    [
+                        4.8664464,
+                        45.7846713
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "70",
+                "maxspeed:source": "sign",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 447093474,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8854238,
+                        45.7873984
+                    ],
+                    [
+                        4.884852,
+                        45.7874933
+                    ],
+                    [
+                        4.8841141,
+                        45.7875858
+                    ],
+                    [
+                        4.8838119,
+                        45.7876152
+                    ],
+                    [
+                        4.8835044,
+                        45.7876377
+                    ],
+                    [
+                        4.8831773,
+                        45.7876548
+                    ],
+                    [
+                        4.8828235,
+                        45.7876635
+                    ],
+                    [
+                        4.8824676,
+                        45.787664
+                    ],
+                    [
+                        4.8821071,
+                        45.7876542
+                    ],
+                    [
+                        4.8816876,
+                        45.7876312
+                    ],
+                    [
+                        4.8815992,
+                        45.7876264
+                    ],
+                    [
+                        4.8812785,
+                        45.7875991
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 447093475,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8852228,
+                        45.7873191
+                    ],
+                    [
+                        4.8859723,
+                        45.7871893
+                    ],
+                    [
+                        4.8860806,
+                        45.7871728
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 447093476,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8789884,
+                        45.7870714
+                    ],
+                    [
+                        4.8796547,
+                        45.7872288
+                    ],
+                    [
+                        4.8801908,
+                        45.7873379
+                    ],
+                    [
+                        4.8806679,
+                        45.7874245
+                    ],
+                    [
+                        4.8811594,
+                        45.7874823
+                    ],
+                    [
+                        4.8812965,
+                        45.7874969
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 447093477,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8812785,
+                        45.7875991
+                    ],
+                    [
+                        4.8806273,
+                        45.7875144
+                    ],
+                    [
+                        4.8802138,
+                        45.787446
+                    ],
+                    [
+                        4.8797807,
+                        45.7873592
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 447093478,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8812965,
+                        45.7874969
+                    ],
+                    [
+                        4.881647,
+                        45.7875312
+                    ],
+                    [
+                        4.8820917,
+                        45.7875544
+                    ],
+                    [
+                        4.8824713,
+                        45.7875657
+                    ],
+                    [
+                        4.8827956,
+                        45.7875651
+                    ],
+                    [
+                        4.8831278,
+                        45.7875573
+                    ],
+                    [
+                        4.8834711,
+                        45.78754
+                    ],
+                    [
+                        4.8838127,
+                        45.7875152
+                    ],
+                    [
+                        4.8841535,
+                        45.7874806
+                    ],
+                    [
+                        4.8844934,
+                        45.7874385
+                    ],
+                    [
+                        4.8848014,
+                        45.787391
+                    ],
+                    [
+                        4.8852228,
+                        45.7873191
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 542273342,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9094819,
+                        45.7610629
+                    ],
+                    [
+                        4.9093412,
+                        45.7603013
+                    ],
+                    [
+                        4.9091315,
+                        45.7594005
+                    ],
+                    [
+                        4.909061,
+                        45.7590535
+                    ],
+                    [
+                        4.9090417,
+                        45.7583896
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk_link",
+                "lanes": "1",
+                "maxspeed": "90",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 565119673,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9090417,
+                        45.7583896
+                    ],
+                    [
+                        4.909015,
+                        45.7582575
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "3",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 565119674,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9083116,
+                        45.7550688
+                    ],
+                    [
+                        4.907603,
+                        45.7515404
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "maxspeed": "90",
+                "maxspeed:conditional": "80 @ (weight>3.5)",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "ref": "D 383",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 594265947,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8783789,
+                        45.786945
+                    ],
+                    [
+                        4.8787695,
+                        45.7870208
+                    ],
+                    [
+                        4.8788428,
+                        45.7870378
+                    ],
+                    [
+                        4.8789884,
+                        45.7870714
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 594265950,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8797807,
+                        45.7873592
+                    ],
+                    [
+                        4.8790426,
+                        45.7871891
+                    ],
+                    [
+                        4.8789442,
+                        45.7871688
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 656591283,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8861715,
+                        45.7873049
+                    ],
+                    [
+                        4.8859028,
+                        45.787293
+                    ],
+                    [
+                        4.8856795,
+                        45.7873272
+                    ],
+                    [
+                        4.8854238,
+                        45.7873984
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Boulevard Laurent Bonnevay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

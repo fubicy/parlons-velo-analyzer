@@ -1,0 +1,201 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039289,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3900187,
+                        48.8370497
+                    ],
+                    [
+                        2.3901152,
+                        48.8370698
+                    ],
+                    [
+                        2.3905844,
+                        48.8371674
+                    ],
+                    [
+                        2.3906134,
+                        48.8371735
+                    ],
+                    [
+                        2.3908089,
+                        48.8372142
+                    ],
+                    [
+                        2.3910683,
+                        48.8372682
+                    ],
+                    [
+                        2.3912093,
+                        48.8372975
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Proudhon",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "wikidata": "Q3449629",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4039375,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3876955,
+                        48.8364894
+                    ],
+                    [
+                        2.3877824,
+                        48.8365066
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Proudhon",
+                "surface": "asphalt",
+                "wikidata": "Q3449629",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22822719,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3881176,
+                        48.8365766
+                    ],
+                    [
+                        2.3899413,
+                        48.8370297
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Tunnel Prudhon",
+                "cycleway": "track",
+                "highway": "tertiary",
+                "layer": "-2",
+                "lit": "yes",
+                "maxheight": "3.9",
+                "maxspeed": "50",
+                "name": "Rue Proudhon",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "wikidata": "Q3449629",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232206912,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3899413,
+                        48.8370297
+                    ],
+                    [
+                        2.3900187,
+                        48.8370497
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxheight": "4.2",
+                "maxspeed": "50",
+                "name": "Rue Proudhon",
+                "surface": "asphalt",
+                "wikidata": "Q3449629",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232206913,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3879386,
+                        48.8365374
+                    ],
+                    [
+                        2.3881176,
+                        48.8365766
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Proudhon",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232206914,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3877824,
+                        48.8365066
+                    ],
+                    [
+                        2.3879386,
+                        48.8365374
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxheight": "3.9",
+                "maxspeed": "50",
+                "name": "Rue Proudhon",
+                "surface": "asphalt",
+                "tunnel": "building_passage",
+                "wikidata": "Q3449629",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

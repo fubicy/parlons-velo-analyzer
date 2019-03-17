@@ -1,0 +1,116 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7999155,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.226024,
+                        46.2001855
+                    ],
+                    [
+                        5.2262302,
+                        46.2002013
+                    ],
+                    [
+                        5.2264761,
+                        46.2002627
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Victor Hugo",
+                "old_ref": "N 83",
+                "oneway": "yes",
+                "ref": "D 1083",
+                "surface": "asphalt",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 334712930,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2264761,
+                        46.2002627
+                    ],
+                    [
+                        5.2267989,
+                        46.2003682
+                    ],
+                    [
+                        5.2274469,
+                        46.2005979
+                    ],
+                    [
+                        5.2297742,
+                        46.201407
+                    ],
+                    [
+                        5.2301,
+                        46.2015223
+                    ],
+                    [
+                        5.2305723,
+                        46.2016854
+                    ],
+                    [
+                        5.2306254,
+                        46.2017037
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Victor Hugo",
+                "old_ref": "N 83",
+                "oneway": "yes",
+                "ref": "D 1083",
+                "surface": "asphalt",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 369604878,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2306254,
+                        46.2017037
+                    ],
+                    [
+                        5.2317322,
+                        46.2020934
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard Victor Hugo",
+                "old_ref": "N 83",
+                "oneway": "yes",
+                "ref": "D 1083",
+                "turn:lanes": "left|through|through;right",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        }
+    ]
+}

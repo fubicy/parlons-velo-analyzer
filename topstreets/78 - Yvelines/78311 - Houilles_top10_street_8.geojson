@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34957368,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1875946,
+                        48.9243788
+                    ],
+                    [
+                        2.1878457,
+                        48.9244475
+                    ],
+                    [
+                        2.1877774,
+                        48.9245562
+                    ],
+                    [
+                        2.1876811,
+                        48.9247096
+                    ],
+                    [
+                        2.1876089,
+                        48.9248246
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Place Michelet",
+                "oneway": "yes",
+                "service": "parking_aisle",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34957370,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1866224,
+                        48.9243959
+                    ],
+                    [
+                        2.1867242,
+                        48.9242342
+                    ],
+                    [
+                        2.1868319,
+                        48.9242294
+                    ],
+                    [
+                        2.1872581,
+                        48.9243296
+                    ],
+                    [
+                        2.1874399,
+                        48.924386
+                    ],
+                    [
+                        2.1871581,
+                        48.9246319
+                    ],
+                    [
+                        2.186735,
+                        48.9244904
+                    ],
+                    [
+                        2.1866224,
+                        48.9243959
+                    ]
+                ]
+            },
+            "properties": {
+                "area": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "name": "Place Michelet",
+                "surface": "paving_stones",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

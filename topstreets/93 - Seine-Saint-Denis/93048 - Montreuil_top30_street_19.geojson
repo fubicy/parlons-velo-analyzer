@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23373821,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4332896,
+                        48.8575416
+                    ],
+                    [
+                        2.4332658,
+                        48.8574718
+                    ],
+                    [
+                        2.433185,
+                        48.8572675
+                    ],
+                    [
+                        2.4330519,
+                        48.8568753
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue \u00c9douard Vaillant",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35372001,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4330519,
+                        48.8568753
+                    ],
+                    [
+                        2.4329265,
+                        48.8565035
+                    ],
+                    [
+                        2.4325327,
+                        48.8553472
+                    ],
+                    [
+                        2.43219,
+                        48.8546056
+                    ],
+                    [
+                        2.4318995,
+                        48.8539771
+                    ],
+                    [
+                        2.4314966,
+                        48.8528279
+                    ],
+                    [
+                        2.4314807,
+                        48.8527827
+                    ],
+                    [
+                        2.4314651,
+                        48.8527385
+                    ],
+                    [
+                        2.4312959,
+                        48.8522602
+                    ],
+                    [
+                        2.4310708,
+                        48.8516425
+                    ],
+                    [
+                        2.4308405,
+                        48.8510183
+                    ],
+                    [
+                        2.4308212,
+                        48.8509659
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "unclassified",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue \u00c9douard Vaillant",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

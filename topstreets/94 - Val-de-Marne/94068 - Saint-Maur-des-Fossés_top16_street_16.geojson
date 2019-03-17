@@ -1,0 +1,234 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28250798,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4883342,
+                        48.7980577
+                    ],
+                    [
+                        2.4883364,
+                        48.7981182
+                    ],
+                    [
+                        2.4883694,
+                        48.7990127
+                    ],
+                    [
+                        2.4883715,
+                        48.7990706
+                    ],
+                    [
+                        2.4883736,
+                        48.799118
+                    ],
+                    [
+                        2.4883902,
+                        48.7995029
+                    ],
+                    [
+                        2.488422,
+                        48.8003796
+                    ],
+                    [
+                        2.488417,
+                        48.8004703
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Avenue Henri Martin",
+                "oneway": "yes",
+                "parking:condition:right": "free",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "parallel",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28250840,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.488417,
+                        48.8004703
+                    ],
+                    [
+                        2.488418,
+                        48.8005677
+                    ],
+                    [
+                        2.4884842,
+                        48.80157
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "name": "Avenue Henri Martin",
+                "oneway": "yes",
+                "parking:condition": "disc",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28801465,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4881507,
+                        48.7936829
+                    ],
+                    [
+                        2.4881525,
+                        48.7937326
+                    ],
+                    [
+                        2.4881848,
+                        48.794614
+                    ],
+                    [
+                        2.4882314,
+                        48.7957201
+                    ],
+                    [
+                        2.4882332,
+                        48.7957618
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Avenue Henri Martin",
+                "old_name": "Rue Jos\u00e9phine",
+                "oneway": "yes",
+                "parking:condition": "disc",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55364860,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4884842,
+                        48.80157
+                    ],
+                    [
+                        2.4884932,
+                        48.8017738
+                    ],
+                    [
+                        2.4885284,
+                        48.8018115
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxweight": "3.5",
+                "name": "Avenue Henri Martin",
+                "parking:condition": "disc",
+                "parking:lane:both": "no_parking",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 450255915,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.488278,
+                        48.796897
+                    ],
+                    [
+                        2.4882804,
+                        48.7969462
+                    ],
+                    [
+                        2.4883313,
+                        48.7979985
+                    ],
+                    [
+                        2.4883342,
+                        48.7980577
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Avenue Henri Martin",
+                "oneway": "yes",
+                "parking:condition:right": "disc",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "parallel",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 450255916,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4882332,
+                        48.7957618
+                    ],
+                    [
+                        2.4882354,
+                        48.7958036
+                    ],
+                    [
+                        2.4882633,
+                        48.7963409
+                    ],
+                    [
+                        2.4882765,
+                        48.7968398
+                    ],
+                    [
+                        2.488278,
+                        48.796897
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Avenue Henri Martin",
+                "old_name": "Rue Jos\u00e9phine",
+                "oneway": "yes",
+                "parking:condition": "disc",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40808731,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2958438,
+                        48.8987252
+                    ],
+                    [
+                        2.2962571,
+                        48.8989618
+                    ]
+                ]
+            },
+            "properties": {
+                "NOM_RD": "D16",
+                "highway": "residential",
+                "layer": "-1",
+                "maxheight": "4.57",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue de Neuilly",
+                "source": "opendata.hauts-de-seine.net 2012",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119155607,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2962878,
+                        48.8989769
+                    ],
+                    [
+                        2.2963596,
+                        48.8990122
+                    ],
+                    [
+                        2.2966358,
+                        48.8991792
+                    ],
+                    [
+                        2.296683,
+                        48.8992077
+                    ],
+                    [
+                        2.2967564,
+                        48.8992532
+                    ],
+                    [
+                        2.2975789,
+                        48.8997622
+                    ],
+                    [
+                        2.2976916,
+                        48.8998192
+                    ],
+                    [
+                        2.2979496,
+                        48.8999626
+                    ],
+                    [
+                        2.2979821,
+                        48.8999771
+                    ],
+                    [
+                        2.2979986,
+                        48.8999852
+                    ],
+                    [
+                        2.2980476,
+                        48.9000091
+                    ],
+                    [
+                        2.2991933,
+                        48.9005687
+                    ],
+                    [
+                        2.2995244,
+                        48.900726
+                    ],
+                    [
+                        2.2995803,
+                        48.9007481
+                    ],
+                    [
+                        2.2998261,
+                        48.9008457
+                    ],
+                    [
+                        2.3002597,
+                        48.9010409
+                    ],
+                    [
+                        2.3003168,
+                        48.9010669
+                    ],
+                    [
+                        2.3008001,
+                        48.901259
+                    ],
+                    [
+                        2.3010899,
+                        48.9014086
+                    ],
+                    [
+                        2.3012629,
+                        48.9014726
+                    ],
+                    [
+                        2.3015445,
+                        48.9015978
+                    ],
+                    [
+                        2.3016411,
+                        48.9016701
+                    ],
+                    [
+                        2.3016787,
+                        48.9017389
+                    ],
+                    [
+                        2.3024914,
+                        48.9020969
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue de Neuilly",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 550620214,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2962571,
+                        48.8989618
+                    ],
+                    [
+                        2.2962878,
+                        48.8989769
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue de Neuilly",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 626894370,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3039486,
+                        48.9028316
+                    ],
+                    [
+                        2.3038854,
+                        48.9027917
+                    ],
+                    [
+                        2.3035348,
+                        48.9026149
+                    ],
+                    [
+                        2.3025533,
+                        48.9021199
+                    ],
+                    [
+                        2.3024914,
+                        48.9020969
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue de Neuilly",
+                "surface": "sett",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30021159,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4482531,
+                        48.1733374
+                    ],
+                    [
+                        6.4483949,
+                        48.1735962
+                    ],
+                    [
+                        6.4484525,
+                        48.1736932
+                    ],
+                    [
+                        6.4485684,
+                        48.1738791
+                    ],
+                    [
+                        6.4486063,
+                        48.1739357
+                    ],
+                    [
+                        6.4486259,
+                        48.1740251
+                    ],
+                    [
+                        6.4488859,
+                        48.174426
+                    ],
+                    [
+                        6.4489471,
+                        48.1745198
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:forward": "Saint-Di\u00e9;Nancy;Chaumont;Dijon;Centre Ville-basilique;centre des congr\u00e8s;centre hospitalier;Saint-Nicolas",
+                "destination:symbol:forward": "hospital;parking",
+                "highway": "tertiary",
+                "name": "Quai Jules Ferry",
+                "ref": "D 12",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 603248282,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4489471,
+                        48.1745198
+                    ],
+                    [
+                        6.449222,
+                        48.1749212
+                    ],
+                    [
+                        6.4492484,
+                        48.1749596
+                    ],
+                    [
+                        6.4492966,
+                        48.1750268
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "name": "Quai Jules Ferry",
+                "ref": "D 12",
+                "turn:lanes:forward": "through|right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 603248306,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4481101,
+                        48.1728986
+                    ],
+                    [
+                        6.4481123,
+                        48.172996
+                    ],
+                    [
+                        6.4481276,
+                        48.1730374
+                    ],
+                    [
+                        6.4481541,
+                        48.1731088
+                    ],
+                    [
+                        6.4482531,
+                        48.1733374
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:forward": "Saint-Di\u00e9;Nancy;Chaumont;Dijon;Centre Ville-basilique;centre des congr\u00e8s;centre hospitalier;Saint-Nicolas",
+                "destination:symbol:forward": "hospital;parking",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "name": "Quai Jules Ferry",
+                "ref": "D 12",
+                "turn:lanes:backward": "left;through|right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31053601,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.562098,
+                        47.4730368
+                    ],
+                    [
+                        -0.5620626,
+                        47.4730124
+                    ],
+                    [
+                        -0.5618852,
+                        47.4728864
+                    ],
+                    [
+                        -0.5618697,
+                        47.4728752
+                    ],
+                    [
+                        -0.5617424,
+                        47.4727838
+                    ],
+                    [
+                        -0.5616723,
+                        47.4727305
+                    ],
+                    [
+                        -0.5612284,
+                        47.4724211
+                    ],
+                    [
+                        -0.5611889,
+                        47.4723991
+                    ],
+                    [
+                        -0.5611439,
+                        47.4723848
+                    ],
+                    [
+                        -0.5610983,
+                        47.4723839
+                    ],
+                    [
+                        -0.5610487,
+                        47.4723971
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "horse": "yes",
+                "maxspeed": "50",
+                "name": "Quai des Carmes",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "width": "3",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193290835,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5610487,
+                        47.4723971
+                    ],
+                    [
+                        -0.5610167,
+                        47.47241
+                    ],
+                    [
+                        -0.5597728,
+                        47.4731676
+                    ],
+                    [
+                        -0.5597354,
+                        47.4731917
+                    ],
+                    [
+                        -0.5593428,
+                        47.4734225
+                    ],
+                    [
+                        -0.5590635,
+                        47.4735834
+                    ],
+                    [
+                        -0.5589992,
+                        47.473623
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "residential",
+                "horse": "yes",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Quai des Carmes",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "width": "3",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

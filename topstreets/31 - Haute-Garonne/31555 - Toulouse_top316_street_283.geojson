@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4612217,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.465756,
+                        43.5829794
+                    ],
+                    [
+                        1.4654453,
+                        43.5830646
+                    ],
+                    [
+                        1.465048,
+                        43.5832132
+                    ],
+                    [
+                        1.4639807,
+                        43.5836743
+                    ],
+                    [
+                        1.4639257,
+                        43.5836981
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Chemin de Fages",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205499929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4639257,
+                        43.5836981
+                    ],
+                    [
+                        1.463232,
+                        43.5839245
+                    ],
+                    [
+                        1.46234,
+                        43.5843425
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Chemin de Fages",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 211149546,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.46234,
+                        43.5843425
+                    ],
+                    [
+                        1.4617807,
+                        43.5846319
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Chemin de Fages",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -4,7 +4,7 @@ Sur l'ensemble de la ville il y a eu 6 réponses dont 2 réponses avec une rue c
 
 1 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue d'Herblay | 2 | 33% | <img src="../../img/bar_100.gif" />&nbsp;100%|
-| **Total** | 2 | 33% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue d'Herblay | 2 | <img src="../../img/bar_100.gif" />&nbsp;100%|
+| **Total** | 2 | 100%|

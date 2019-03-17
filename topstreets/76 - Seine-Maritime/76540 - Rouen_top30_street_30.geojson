@@ -1,0 +1,410 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26702298,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0946996,
+                        49.4284929
+                    ],
+                    [
+                        1.0947845,
+                        49.4284252
+                    ],
+                    [
+                        1.0948076,
+                        49.4284067
+                    ],
+                    [
+                        1.0948396,
+                        49.4283811
+                    ],
+                    [
+                        1.0952973,
+                        49.4280155
+                    ],
+                    [
+                        1.0954134,
+                        49.4279227
+                    ],
+                    [
+                        1.0954705,
+                        49.4278771
+                    ],
+                    [
+                        1.0960901,
+                        49.4273822
+                    ],
+                    [
+                        1.0962212,
+                        49.4272775
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "unclassified",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de Lessard",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31795615,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0945735,
+                        49.4285906
+                    ],
+                    [
+                        1.0945016,
+                        49.428647
+                    ],
+                    [
+                        1.0944471,
+                        49.4286885
+                    ],
+                    [
+                        1.0934753,
+                        49.4294162
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lessard",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188872171,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0894626,
+                        49.4325636
+                    ],
+                    [
+                        1.0894003,
+                        49.4326122
+                    ],
+                    [
+                        1.0888991,
+                        49.4330028
+                    ],
+                    [
+                        1.0885349,
+                        49.4332861
+                    ],
+                    [
+                        1.0883445,
+                        49.4333598
+                    ],
+                    [
+                        1.0883131,
+                        49.4333717
+                    ],
+                    [
+                        1.0882799,
+                        49.4333816
+                    ],
+                    [
+                        1.088231,
+                        49.4333943
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Lessard",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235168309,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0904427,
+                        49.4317822
+                    ],
+                    [
+                        1.0903937,
+                        49.431818
+                    ],
+                    [
+                        1.0903528,
+                        49.431848
+                    ],
+                    [
+                        1.0899828,
+                        49.4321187
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lessard",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "vehicle:conditional": "delivery @  (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235168310,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0899828,
+                        49.4321187
+                    ],
+                    [
+                        1.08973,
+                        49.4323281
+                    ],
+                    [
+                        1.089516,
+                        49.4325162
+                    ],
+                    [
+                        1.0894969,
+                        49.4325331
+                    ],
+                    [
+                        1.0894626,
+                        49.4325636
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lessard",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235346006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.090944,
+                        49.4313873
+                    ],
+                    [
+                        1.0905259,
+                        49.4317159
+                    ],
+                    [
+                        1.0904879,
+                        49.4317458
+                    ],
+                    [
+                        1.0904427,
+                        49.4317822
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "residential",
+                "horse": "yes",
+                "lanes": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue de Lessard",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @  (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235519688,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0946996,
+                        49.4284929
+                    ],
+                    [
+                        1.0945735,
+                        49.4285906
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue de Lessard",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246432357,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0934753,
+                        49.4294162
+                    ],
+                    [
+                        1.0930351,
+                        49.4297647
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lessard",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "vehicle:conditional": "delivery @  (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246432358,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0930351,
+                        49.4297647
+                    ],
+                    [
+                        1.0919066,
+                        49.4306633
+                    ],
+                    [
+                        1.0918694,
+                        49.4306929
+                    ],
+                    [
+                        1.0918094,
+                        49.4307407
+                    ],
+                    [
+                        1.091768,
+                        49.4307716
+                    ],
+                    [
+                        1.090944,
+                        49.4313873
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Lessard",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "vehicle:conditional": "delivery @  (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 647241693,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0964447,
+                        49.4270989
+                    ],
+                    [
+                        1.0963088,
+                        49.4272075
+                    ],
+                    [
+                        1.0962212,
+                        49.4272775
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue de Lessard",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

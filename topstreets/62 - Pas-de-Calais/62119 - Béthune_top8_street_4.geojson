@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 101185390,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6385024,
+                        50.5310756
+                    ],
+                    [
+                        2.6394616,
+                        50.5304383
+                    ],
+                    [
+                        2.6396836,
+                        50.5305661
+                    ],
+                    [
+                        2.6397468,
+                        50.530594
+                    ],
+                    [
+                        2.6398173,
+                        50.5306251
+                    ],
+                    [
+                        2.6400923,
+                        50.5307908
+                    ],
+                    [
+                        2.6395952,
+                        50.5311958
+                    ],
+                    [
+                        2.6391231,
+                        50.5315047
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Grand Place",
+                "oneway": "yes",
+                "surface": "cobblestone",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264129436,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6391231,
+                        50.5315047
+                    ],
+                    [
+                        2.6388096,
+                        50.5312902
+                    ],
+                    [
+                        2.6385024,
+                        50.5310756
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Grand Place",
+                "oneway": "yes",
+                "surface": "cobblestone",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

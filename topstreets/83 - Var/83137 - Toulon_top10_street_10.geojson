@@ -1,0 +1,163 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27531730,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9400504,
+                        43.1134148
+                    ],
+                    [
+                        5.939381,
+                        43.1129256
+                    ],
+                    [
+                        5.9391695,
+                        43.1127899
+                    ],
+                    [
+                        5.9388049,
+                        43.112539
+                    ],
+                    [
+                        5.9385609,
+                        43.112369
+                    ],
+                    [
+                        5.9383769,
+                        43.112244
+                    ],
+                    [
+                        5.9382765,
+                        43.1122206
+                    ],
+                    [
+                        5.9381721,
+                        43.1121865
+                    ],
+                    [
+                        5.9378411,
+                        43.1121528
+                    ],
+                    [
+                        5.9376569,
+                        43.1121357
+                    ],
+                    [
+                        5.9371855,
+                        43.1121019
+                    ],
+                    [
+                        5.9368842,
+                        43.1120803
+                    ],
+                    [
+                        5.9367886,
+                        43.1120759
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Boulevard Bazeilles",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27532495,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9356961,
+                        43.1121077
+                    ],
+                    [
+                        5.9352687,
+                        43.1121315
+                    ],
+                    [
+                        5.9351868,
+                        43.1121351
+                    ],
+                    [
+                        5.9344671,
+                        43.1121843
+                    ],
+                    [
+                        5.9342105,
+                        43.1122079
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Boulevard Bazeilles",
+                "oneway": "no",
+                "parking:lane:side:right": "diagonal",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 330402251,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9367886,
+                        43.1120759
+                    ],
+                    [
+                        5.936757,
+                        43.1120744
+                    ],
+                    [
+                        5.9365614,
+                        43.1120653
+                    ],
+                    [
+                        5.9364188,
+                        43.1120623
+                    ],
+                    [
+                        5.9362645,
+                        43.1120666
+                    ],
+                    [
+                        5.9356961,
+                        43.1121077
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Boulevard Bazeilles",
+                "oneway": "no",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

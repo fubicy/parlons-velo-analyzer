@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19836786,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1784603,
+                        48.6931245
+                    ],
+                    [
+                        6.1785353,
+                        48.6932325
+                    ],
+                    [
+                        6.1785886,
+                        48.6932603
+                    ],
+                    [
+                        6.1802257,
+                        48.6936669
+                    ],
+                    [
+                        6.1802509,
+                        48.6936727
+                    ],
+                    [
+                        6.180321,
+                        48.6936887
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "destination": "Quartier Stanislas;Mus\u00e9e Lorrain;Place de la Carri\u00e8re;La P\u00e9pini\u00e8re;Ville Vieille;Vaud\u00e9mont",
+                "destination:symbol": "parking",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Gustave Simon",
+                "oneway": "yes",
+                "source": "survey",
+                "source:maxspeed": "FR:zone30",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 571787460,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.180321,
+                        48.6936887
+                    ],
+                    [
+                        6.180409,
+                        48.6937089
+                    ],
+                    [
+                        6.1818755,
+                        48.69407
+                    ],
+                    [
+                        6.1819277,
+                        48.6940828
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "destination": "Quartier Stanislas;Place de la Carri\u00e8re;Vaud\u00e9mont",
+                "destination:symbol": "parking",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Gustave Simon",
+                "oneway": "yes",
+                "source": "survey",
+                "source:maxspeed": "FR:zone30",
+                "surface": "sett",
+                "vehicle:conditional": "no @ (May-Sep Mo-Sa 19:30-02:00; May-Sep Su 12:00-02:00; PH 12:00-24:00)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

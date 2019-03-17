@@ -1,0 +1,168 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30029896,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.169434,
+                        50.6860474
+                    ],
+                    [
+                        3.1681323,
+                        50.6867815
+                    ],
+                    [
+                        3.1667508,
+                        50.6875348
+                    ],
+                    [
+                        3.1655477,
+                        50.6881946
+                    ],
+                    [
+                        3.1654488,
+                        50.6882489
+                    ],
+                    [
+                        3.1653794,
+                        50.688286
+                    ],
+                    [
+                        3.1647324,
+                        50.6886313
+                    ],
+                    [
+                        3.1642271,
+                        50.6889009
+                    ],
+                    [
+                        3.1635423,
+                        50.6892664
+                    ],
+                    [
+                        3.1626676,
+                        50.6897388
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Arts",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99003186,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1602411,
+                        50.6910933
+                    ],
+                    [
+                        3.1595075,
+                        50.6914906
+                    ],
+                    [
+                        3.159323,
+                        50.6915905
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Arts",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181411470,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1626676,
+                        50.6897388
+                    ],
+                    [
+                        3.1624329,
+                        50.6898653
+                    ],
+                    [
+                        3.1620783,
+                        50.6900757
+                    ],
+                    [
+                        3.1618172,
+                        50.6902239
+                    ],
+                    [
+                        3.16179,
+                        50.6902373
+                    ],
+                    [
+                        3.1617371,
+                        50.6902731
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue des Arts",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181411471,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1617371,
+                        50.6902731
+                    ],
+                    [
+                        3.1616651,
+                        50.6903276
+                    ],
+                    [
+                        3.16124,
+                        50.6905523
+                    ],
+                    [
+                        3.1602411,
+                        50.6910933
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue des Arts",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

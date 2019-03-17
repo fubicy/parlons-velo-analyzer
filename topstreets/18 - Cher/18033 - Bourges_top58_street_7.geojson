@@ -1,0 +1,176 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19189366,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3885095,
+                        47.071306
+                    ],
+                    [
+                        2.3886144,
+                        47.0713196
+                    ],
+                    [
+                        2.3902282,
+                        47.071535
+                    ],
+                    [
+                        2.390367,
+                        47.0715555
+                    ],
+                    [
+                        2.3904695,
+                        47.0715706
+                    ],
+                    [
+                        2.3920093,
+                        47.0718002
+                    ],
+                    [
+                        2.3925521,
+                        47.0718792
+                    ],
+                    [
+                        2.3926199,
+                        47.0718893
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard de l'Industrie",
+                "old_ref": "RN 76",
+                "ref": "D 2076",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 311730825,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3926199,
+                        47.0718893
+                    ],
+                    [
+                        2.3931139,
+                        47.0719604
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Boulevard de l'Industrie",
+                "old_ref": "RN 76",
+                "ref": "D 2076",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 311730826,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3949285,
+                        47.0722099
+                    ],
+                    [
+                        2.3950859,
+                        47.0722324
+                    ],
+                    [
+                        2.3957232,
+                        47.0723285
+                    ],
+                    [
+                        2.396131,
+                        47.0723878
+                    ],
+                    [
+                        2.3962235,
+                        47.0723976
+                    ],
+                    [
+                        2.3963449,
+                        47.0724157
+                    ],
+                    [
+                        2.3964767,
+                        47.0724353
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard de l'Industrie",
+                "old_ref": "RN 76",
+                "ref": "D 2076",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 597710312,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3931139,
+                        47.0719604
+                    ],
+                    [
+                        2.3937967,
+                        47.0720492
+                    ],
+                    [
+                        2.3939649,
+                        47.0720767
+                    ],
+                    [
+                        2.3944275,
+                        47.0721411
+                    ],
+                    [
+                        2.3949285,
+                        47.0722099
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard de l'Industrie",
+                "old_ref": "RN 76",
+                "ref": "D 2076",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 37 réponses dont 37 réponses avec une rue
 
 23 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Grand'Rue | 5 | 13% | <img src="../../img/bar_13.gif" />&nbsp;13%|
-| Chemin Long | 4 | 10% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Route de Strasbourg | 3 | 8% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rond-Point de Landau | 3 | 8% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rue du Canal | 2 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Route de Soufflenheim | 2 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Route de Schweighouse | 2 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue du Maréchal Joffre | 1 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue du Foulon | 1 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue du Château Fiat | 1 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 24 | 64% | 64%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Grand'Rue | 5 | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| Chemin Long | 4 | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| Route de Strasbourg | 3 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Rond-Point de Landau | 3 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Rue du Canal | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Route de Soufflenheim | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Route de Schweighouse | 2 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Rue du Maréchal Joffre | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue du Foulon | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue du Château Fiat | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| **Total** | 24 | 100%|

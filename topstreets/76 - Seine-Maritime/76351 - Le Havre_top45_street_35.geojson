@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 48290279,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1106692,
+                        49.4897859
+                    ],
+                    [
+                        0.1111191,
+                        49.4897786
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Quai Lamblardie",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 191917865,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1111191,
+                        49.4897786
+                    ],
+                    [
+                        0.112126,
+                        49.48975
+                    ],
+                    [
+                        0.1122844,
+                        49.4897442
+                    ],
+                    [
+                        0.1124812,
+                        49.489737
+                    ],
+                    [
+                        0.1126518,
+                        49.4897319
+                    ],
+                    [
+                        0.1131073,
+                        49.4897182
+                    ],
+                    [
+                        0.114954,
+                        49.4896585
+                    ],
+                    [
+                        0.1161544,
+                        49.4896178
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway:left": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Quai Lamblardie",
+                "sidewalk": "both",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199901195,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1161544,
+                        49.4896178
+                    ],
+                    [
+                        0.1163142,
+                        49.4895128
+                    ],
+                    [
+                        0.1163598,
+                        49.4894553
+                    ],
+                    [
+                        0.1163719,
+                        49.4892939
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary_link",
+                "name": "Quai Lamblardie",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 243026076,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1161544,
+                        49.4896178
+                    ],
+                    [
+                        0.1164571,
+                        49.4895644
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Quai Lamblardie",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

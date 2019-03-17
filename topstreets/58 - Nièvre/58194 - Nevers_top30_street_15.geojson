@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30724863,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.15723,
+                        46.9914504
+                    ],
+                    [
+                        3.1571867,
+                        46.9912456
+                    ],
+                    [
+                        3.1570848,
+                        46.9904011
+                    ],
+                    [
+                        3.1569805,
+                        46.9896401
+                    ],
+                    [
+                        3.1569425,
+                        46.9894052
+                    ],
+                    [
+                        3.1569429,
+                        46.9893331
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Henri Barbusse",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 309596320,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1569429,
+                        46.9893331
+                    ],
+                    [
+                        3.1569638,
+                        46.9892538
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Henri Barbusse",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362818375,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1571719,
+                        46.9890866
+                    ],
+                    [
+                        3.157055,
+                        46.9891623
+                    ],
+                    [
+                        3.1569638,
+                        46.9892538
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Henri Barbusse",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362819230,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1569638,
+                        46.9892538
+                    ],
+                    [
+                        3.1570121,
+                        46.9890671
+                    ],
+                    [
+                        3.1569873,
+                        46.9889952
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Henri Barbusse",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

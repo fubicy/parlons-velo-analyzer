@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 532238252,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4629615,
+                        43.5743177
+                    ],
+                    [
+                        1.4626521,
+                        43.5744875
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Rangueil",
+                "operator": "Tiss\u00e9o",
+                "public_transport": "platform",
+                "ref": "2701",
+                "source": "https://www.tisseo.fr",
+                "source:date": "2017-09-04",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 391707447,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8380922,
+                        45.7629238
+                    ],
+                    [
+                        4.8380949,
+                        45.7627598
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Cordeliers",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "43226;599",
+                "route_ref": "171:R,27A:A,27A:R,C5A:A,C5A:R;9A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 391707449,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8358876,
+                        45.7638425
+                    ],
+                    [
+                        4.835906,
+                        45.7642169
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Cordeliers",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "46290",
+                "route_ref": "C13A:A,C14A:A,C3A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "trolleybus": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 391707450,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8357688,
+                        45.7640622
+                    ],
+                    [
+                        4.8357663,
+                        45.7638809
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Cordeliers",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "43222",
+                "route_ref": "C13A:R,C14A:R,C3A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "trolleybus": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

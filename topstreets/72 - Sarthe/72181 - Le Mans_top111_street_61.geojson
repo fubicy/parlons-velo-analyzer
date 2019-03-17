@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26400033,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1876273,
+                        48.0140016
+                    ],
+                    [
+                        0.1880262,
+                        48.0138788
+                    ],
+                    [
+                        0.1890126,
+                        48.0135761
+                    ],
+                    [
+                        0.1894165,
+                        48.0134565
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue des Jardins",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35469441,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1876273,
+                        48.0140016
+                    ],
+                    [
+                        0.1875116,
+                        48.0140393
+                    ],
+                    [
+                        0.187377,
+                        48.0140831
+                    ],
+                    [
+                        0.1871593,
+                        48.0142099
+                    ],
+                    [
+                        0.1870427,
+                        48.0142488
+                    ],
+                    [
+                        0.1869843,
+                        48.0142459
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue des Jardins",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

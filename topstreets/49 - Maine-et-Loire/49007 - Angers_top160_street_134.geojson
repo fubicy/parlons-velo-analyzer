@@ -1,0 +1,98 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 47313993,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5372356,
+                        47.4600722
+                    ],
+                    [
+                        -0.5371144,
+                        47.4601741
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Desmazi\u00e8res",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47313999,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5354954,
+                        47.4615493
+                    ],
+                    [
+                        -0.5357461,
+                        47.4612453
+                    ],
+                    [
+                        -0.536223,
+                        47.4609859
+                    ],
+                    [
+                        -0.5368032,
+                        47.4604442
+                    ],
+                    [
+                        -0.5371144,
+                        47.4601741
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Desmazi\u00e8res",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 561865785,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5348087,
+                        47.4626134
+                    ],
+                    [
+                        -0.5348231,
+                        47.4625864
+                    ],
+                    [
+                        -0.5354954,
+                        47.4615493
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Desmazi\u00e8res",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

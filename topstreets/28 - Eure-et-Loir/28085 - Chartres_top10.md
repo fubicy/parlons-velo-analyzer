@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 49 réponses dont 30 réponses avec une rue
 
 18 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue du Grand Faubourg | 4 | 8% | <img src="../../img/bar_13.gif" />&nbsp;13%|
-| Place Drouaise | 4 | 8% | <img src="../../img/bar_13.gif" />&nbsp;13%|
-| Rue de Sours | 3 | 6% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Place des Epars | 3 | 6% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Rue Nicole | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Rue Chanzy | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Rue du Maréchal Leclerc | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue du Faubourg Saint-Jean | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue du Bourgneuf | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue du Bourg | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| **Total** | 22 | 44% | 73%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue du Grand Faubourg | 4 | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| Place Drouaise | 4 | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| Rue de Sours | 3 | <img src="../../img/bar_13.gif" />&nbsp;13%|
+| Place des Epars | 3 | <img src="../../img/bar_13.gif" />&nbsp;13%|
+| Rue Nicole | 2 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Rue Chanzy | 2 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Rue du Maréchal Leclerc | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue du Faubourg Saint-Jean | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue du Bourgneuf | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue du Bourg | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| **Total** | 22 | 100%|

@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 555 réponses dont 265 réponses avec une r
 
 66 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Gare | 42 | 7% | <img src="../../img/bar_15.gif" />&nbsp;15%|
-| Avenue des Ducs de Savoie | 26 | 4% | <img src="../../img/bar_9.gif" />&nbsp;9%|
-| Avenue Jean Jaurès | 19 | 3% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Place Caffe | 14 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Avenue de Lyon | 14 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Avenue du Comte Vert | 10 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Place du Centenaire | 7 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Boulevard de la Colonne | 7 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Faubourg Reclus | 6 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue Michaud | 5 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| **Total** | 150 | 27% | 56%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Gare | 42 | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| Avenue des Ducs de Savoie | 26 | <img src="../../img/bar_17.gif" />&nbsp;17%|
+| Avenue Jean Jaurès | 19 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Place Caffe | 14 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Avenue de Lyon | 14 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Avenue du Comte Vert | 10 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Place du Centenaire | 7 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Boulevard de la Colonne | 7 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Faubourg Reclus | 6 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue Michaud | 5 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 150 | 100%|

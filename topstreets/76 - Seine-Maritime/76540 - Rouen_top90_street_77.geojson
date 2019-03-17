@@ -1,0 +1,164 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 142458751,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.090509,
+                        49.4331296
+                    ],
+                    [
+                        1.0908047,
+                        49.4329157
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Desseaux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142458752,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0915206,
+                        49.4321785
+                    ],
+                    [
+                        1.091338,
+                        49.4322989
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Desseaux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188324012,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0955594,
+                        49.429018
+                    ],
+                    [
+                        1.0954001,
+                        49.4291392
+                    ],
+                    [
+                        1.0944054,
+                        49.4299172
+                    ],
+                    [
+                        1.0939787,
+                        49.4302744
+                    ],
+                    [
+                        1.0927189,
+                        49.4312403
+                    ],
+                    [
+                        1.0915814,
+                        49.4321309
+                    ],
+                    [
+                        1.0915206,
+                        49.4321785
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Rue Desseaux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233043097,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.091338,
+                        49.4322989
+                    ],
+                    [
+                        1.091269,
+                        49.4323552
+                    ],
+                    [
+                        1.0911471,
+                        49.4324562
+                    ],
+                    [
+                        1.0911788,
+                        49.4327196
+                    ],
+                    [
+                        1.0911661,
+                        49.4327635
+                    ],
+                    [
+                        1.0911419,
+                        49.4327981
+                    ],
+                    [
+                        1.09091,
+                        49.4329718
+                    ],
+                    [
+                        1.0908047,
+                        49.4329157
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Desseaux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -4,7 +4,7 @@ Sur l'ensemble de la ville il y a eu 13 réponses dont 1 réponses avec une rue 
 
 1 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Grande Rue | 1 | 7% | <img src="../../img/bar_100.gif" />&nbsp;100%|
-| **Total** | 1 | 7% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Grande Rue | 1 | <img src="../../img/bar_100.gif" />&nbsp;100%|
+| **Total** | 1 | 100%|

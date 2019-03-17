@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27407443,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4169521,
+                        48.8102831
+                    ],
+                    [
+                        2.4156339,
+                        48.8101257
+                    ],
+                    [
+                        2.4143278,
+                        48.8099471
+                    ],
+                    [
+                        2.4129618,
+                        48.8097869
+                    ],
+                    [
+                        2.4127746,
+                        48.8097634
+                    ],
+                    [
+                        2.411695,
+                        48.8096281
+                    ],
+                    [
+                        2.4114828,
+                        48.8096015
+                    ],
+                    [
+                        2.4113408,
+                        48.8095835
+                    ],
+                    [
+                        2.4106945,
+                        48.8095017
+                    ],
+                    [
+                        2.4102774,
+                        48.8094519
+                    ],
+                    [
+                        2.4101054,
+                        48.8094351
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Seine",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27407565,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4169521,
+                        48.8102831
+                    ],
+                    [
+                        2.418137,
+                        48.8104449
+                    ],
+                    [
+                        2.4193539,
+                        48.8105979
+                    ],
+                    [
+                        2.4200836,
+                        48.8106771
+                    ],
+                    [
+                        2.4209901,
+                        48.8107945
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Seine",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

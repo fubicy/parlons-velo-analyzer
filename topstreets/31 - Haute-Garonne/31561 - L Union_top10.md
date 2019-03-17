@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 45 réponses dont 31 réponses avec une rue
 
 14 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Route d'Albi | 9 | 20% | <img src="../../img/bar_29.gif" />&nbsp;29%|
-| Impasse Saint-Jean | 4 | 8% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Boulevard des Fontanelles | 3 | 6% | <img src="../../img/bar_9.gif" />&nbsp;9%|
-| Route de Lavaur | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Route de Bessières | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Chemin de la Violette | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Avenue des Hortensias | 2 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| L'Union | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Avenue des Tourterelles | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Avenue des Pyrénées | 1 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| **Total** | 27 | 60% | 87%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Route d'Albi | 9 | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| Impasse Saint-Jean | 4 | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| Boulevard des Fontanelles | 3 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Route de Lavaur | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Route de Bessières | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Chemin de la Violette | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Avenue des Hortensias | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| L'Union | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Avenue des Tourterelles | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Avenue des Pyrénées | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 27 | 100%|

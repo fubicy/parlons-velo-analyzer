@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 102591048,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0631293,
+                        50.6424631
+                    ],
+                    [
+                        3.06302,
+                        50.6424205
+                    ],
+                    [
+                        3.0622396,
+                        50.6421225
+                    ],
+                    [
+                        3.0617794,
+                        50.6419455
+                    ],
+                    [
+                        3.0615991,
+                        50.6418762
+                    ],
+                    [
+                        3.0615157,
+                        50.6418441
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Alphonse Colas",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "593500211T",
+                "surface": "cobblestone",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

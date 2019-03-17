@@ -1,0 +1,543 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22364305,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1912179,
+                        48.6827189
+                    ],
+                    [
+                        6.1911387,
+                        48.6828235
+                    ],
+                    [
+                        6.191072,
+                        48.6828656
+                    ],
+                    [
+                        6.1909826,
+                        48.6829188
+                    ],
+                    [
+                        6.1908997,
+                        48.6829681
+                    ],
+                    [
+                        6.1907896,
+                        48.6829921
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 227521015,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1892387,
+                        48.683907
+                    ],
+                    [
+                        6.1892807,
+                        48.6838363
+                    ],
+                    [
+                        6.189328,
+                        48.6838098
+                    ],
+                    [
+                        6.1894622,
+                        48.6837338
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235930720,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1887953,
+                        48.6842103
+                    ],
+                    [
+                        6.1887649,
+                        48.6842288
+                    ],
+                    [
+                        6.1887456,
+                        48.6842404
+                    ],
+                    [
+                        6.1885794,
+                        48.6842888
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425191874,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1894132,
+                        48.6838602
+                    ],
+                    [
+                        6.1892387,
+                        48.683907
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425191875,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1892387,
+                        48.683907
+                    ],
+                    [
+                        6.1887978,
+                        48.6841602
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "5",
+                "lanes:backward": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through",
+                "turn:lanes:forward": "left|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425191876,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1912179,
+                        48.6827189
+                    ],
+                    [
+                        6.1914775,
+                        48.6825586
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "5",
+                "lanes:backward": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "ref": "D 400",
+                "source": "survey",
+                "turn:lanes:forward": "left|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425191877,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1918059,
+                        48.6824035
+                    ],
+                    [
+                        6.1915808,
+                        48.6825476
+                    ],
+                    [
+                        6.1914775,
+                        48.6825586
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425191878,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1885794,
+                        48.6842888
+                    ],
+                    [
+                        6.1886793,
+                        48.6841817
+                    ],
+                    [
+                        6.1887978,
+                        48.6841602
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425191879,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1914775,
+                        48.6825586
+                    ],
+                    [
+                        6.191458,
+                        48.6825116
+                    ],
+                    [
+                        6.1917729,
+                        48.6823159
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425191880,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.189837,
+                        48.6835767
+                    ],
+                    [
+                        6.1901899,
+                        48.6833622
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "5",
+                "lanes:backward": "3",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "turn:lanes:backward": "left|left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425191881,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1896365,
+                        48.683689
+                    ],
+                    [
+                        6.1896015,
+                        48.6837616
+                    ],
+                    [
+                        6.1894479,
+                        48.6838406
+                    ],
+                    [
+                        6.1894132,
+                        48.6838602
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425191882,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1907896,
+                        48.6829921
+                    ],
+                    [
+                        6.1908242,
+                        48.6829203
+                    ],
+                    [
+                        6.1908749,
+                        48.6828873
+                    ],
+                    [
+                        6.1909944,
+                        48.6828081
+                    ],
+                    [
+                        6.1912179,
+                        48.6827189
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 599455790,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1887978,
+                        48.6841602
+                    ],
+                    [
+                        6.1887953,
+                        48.6842103
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605504186,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1894622,
+                        48.6837338
+                    ],
+                    [
+                        6.1895262,
+                        48.6836974
+                    ],
+                    [
+                        6.1896365,
+                        48.683689
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "oneway": "yes",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "turn:lanes": "merge_to_right|none",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605504187,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1901899,
+                        48.6833622
+                    ],
+                    [
+                        6.1907896,
+                        48.6829921
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605504188,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1896365,
+                        48.683689
+                    ],
+                    [
+                        6.189837,
+                        48.6835767
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+                "ref": "D 400",
+                "source": "survey;BDOrtho IGN",
+                "turn:lanes:backward": "left|through",
+                "turn:lanes:forward": "merge_to_right|none",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

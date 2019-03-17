@@ -1,0 +1,556 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30280314,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4497762,
+                        43.5792369
+                    ],
+                    [
+                        1.4499074,
+                        43.5789185
+                    ],
+                    [
+                        1.4500968,
+                        43.578486
+                    ],
+                    [
+                        1.4502451,
+                        43.5784196
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Avenue Jules Julien",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31896313,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4502451,
+                        43.5784196
+                    ],
+                    [
+                        1.4498865,
+                        43.5792532
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "foot": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31896314,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4500269,
+                        43.5793625
+                    ],
+                    [
+                        1.4499921,
+                        43.5793334
+                    ],
+                    [
+                        1.4499861,
+                        43.5793047
+                    ],
+                    [
+                        1.4501,
+                        43.5790043
+                    ],
+                    [
+                        1.450296,
+                        43.5785456
+                    ],
+                    [
+                        1.4502451,
+                        43.5784196
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Avenue Jules Julien",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32045537,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4520601,
+                        43.5738468
+                    ],
+                    [
+                        1.4520147,
+                        43.5739493
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "secondary",
+                "lanes": "5",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through|through",
+                "turn:lanes:forward": "through|through",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50447912,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.45186,
+                        43.5743351
+                    ],
+                    [
+                        1.4518019,
+                        43.574486
+                    ],
+                    [
+                        1.4517889,
+                        43.5745198
+                    ],
+                    [
+                        1.4517057,
+                        43.5747159
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:bus:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124056944,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.452386,
+                        43.5730619
+                    ],
+                    [
+                        1.4522757,
+                        43.5733255
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:forward": "4",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "turn:lanes:forward": "slight_left|slight_left|through|through",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140611757,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4520147,
+                        43.5739493
+                    ],
+                    [
+                        1.4519139,
+                        43.5741949
+                    ],
+                    [
+                        1.45186,
+                        43.5743351
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "secondary",
+                "lanes": "6",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through|through|right",
+                "turn:lanes:forward": "through|through",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140611758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4508325,
+                        43.5768595
+                    ],
+                    [
+                        1.4504565,
+                        43.5778599
+                    ],
+                    [
+                        1.4504055,
+                        43.5779915
+                    ],
+                    [
+                        1.4503518,
+                        43.5781534
+                    ],
+                    [
+                        1.4502451,
+                        43.5784196
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183964180,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4521274,
+                        43.5736869
+                    ],
+                    [
+                        1.4520842,
+                        43.5737818
+                    ],
+                    [
+                        1.4520601,
+                        43.5738468
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:forward": "2",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "turn:lanes:forward": "through|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223071398,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4521652,
+                        43.5735919
+                    ],
+                    [
+                        1.4521274,
+                        43.5736869
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "6",
+                "lanes:forward": "4",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "turn:lanes:backward": "merge_to_right|none",
+                "turn:lanes:forward": "left|left|through|right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223071399,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4522757,
+                        43.5733255
+                    ],
+                    [
+                        1.452224,
+                        43.573451
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "8",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "turn:lanes:backward": "merge_to_right|none|merge_to_left",
+                "turn:lanes:forward": "slight_left|slight_left|through|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223071400,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.451668,
+                        43.5748048
+                    ],
+                    [
+                        1.451439,
+                        43.575376
+                    ],
+                    [
+                        1.4514155,
+                        43.5754339
+                    ],
+                    [
+                        1.4512936,
+                        43.5757245
+                    ],
+                    [
+                        1.4511532,
+                        43.5760797
+                    ],
+                    [
+                        1.4511194,
+                        43.5761608
+                    ],
+                    [
+                        1.4509903,
+                        43.5764699
+                    ],
+                    [
+                        1.4509455,
+                        43.5765814
+                    ],
+                    [
+                        1.4509112,
+                        43.5766667
+                    ],
+                    [
+                        1.4508325,
+                        43.5768595
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:bus:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223989414,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.452189,
+                        43.5735311
+                    ],
+                    [
+                        1.4521652,
+                        43.5735919
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "8",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "turn:lanes:backward": "merge_to_right|none|merge_to_left",
+                "turn:lanes:forward": "slight_left|slight_left|none|none|merge_to_left",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 275496747,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4521585,
+                        43.5738669
+                    ],
+                    [
+                        1.4520094,
+                        43.5742281
+                    ],
+                    [
+                        1.45186,
+                        43.5743351
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "highway": "service",
+                "name": "Avenue Jules Julien",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 387184686,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4517057,
+                        43.5747159
+                    ],
+                    [
+                        1.451668,
+                        43.5748048
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:bus:forward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 398545515,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.452224,
+                        43.573451
+                    ],
+                    [
+                        1.452189,
+                        43.5735311
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "8",
+                "maxspeed": "50",
+                "name": "Avenue Jules Julien",
+                "surface": "asphalt",
+                "turn:lanes:backward": "merge_to_right|none|merge_to_left",
+                "turn:lanes:forward": "slight_left|slight_left|through|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

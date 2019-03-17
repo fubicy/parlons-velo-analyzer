@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 13859274,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2417483,
+                        48.9100574
+                    ],
+                    [
+                        2.2415899,
+                        48.9103091
+                    ],
+                    [
+                        2.2415633,
+                        48.9103562
+                    ],
+                    [
+                        2.2415383,
+                        48.9104147
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "residential",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Pont du Commerce",
+                "source": "Microsoft Bing orbital imagery",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

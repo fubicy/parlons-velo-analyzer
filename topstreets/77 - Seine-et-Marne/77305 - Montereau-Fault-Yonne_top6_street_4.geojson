@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32538638,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.9597518,
+                        48.3889165
+                    ],
+                    [
+                        2.9596586,
+                        48.3892987
+                    ],
+                    [
+                        2.9596483,
+                        48.3893364
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:forward": "3",
+                "layer": "1",
+                "name": "Pont de Seine",
+                "ref": "D 605",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through;left|through",
+                "turn:lanes:forward": "left|through|through;right",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 345585229,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.959845,
+                        48.3885346
+                    ],
+                    [
+                        2.9598467,
+                        48.388367
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:forward": "3",
+                "name": "Pont de Seine",
+                "ref": "D 605",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through|through",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 440557654,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.9597518,
+                        48.3889165
+                    ],
+                    [
+                        2.959845,
+                        48.3885346
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:forward": "3",
+                "layer": "1",
+                "name": "Pont de Seine",
+                "ref": "D 605",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through;left|through",
+                "turn:lanes:forward": "left|through|through",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 598732995,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.9598467,
+                        48.388367
+                    ],
+                    [
+                        2.9597694,
+                        48.3882179
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "name": "Pont de Seine",
+                "ref": "D 605",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 57359945,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.4919928,
+                        43.5007724
+                    ],
+                    [
+                        -1.492192,
+                        43.5009343
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue de l'Adour",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190669319,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.492192,
+                        43.5009343
+                    ],
+                    [
+                        -1.4923214,
+                        43.5010448
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Avenue de l'Adour",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

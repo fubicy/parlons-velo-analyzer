@@ -1,0 +1,144 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26187567,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5538128,
+                        44.8077768
+                    ],
+                    [
+                        -0.5538137,
+                        44.8077419
+                    ],
+                    [
+                        -0.5538163,
+                        44.807687
+                    ],
+                    [
+                        -0.553818,
+                        44.8075983
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Place de la Libert\u00e9",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26187587,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5538128,
+                        44.8077768
+                    ],
+                    [
+                        -0.5537145,
+                        44.8077715
+                    ],
+                    [
+                        -0.5536696,
+                        44.8077697
+                    ],
+                    [
+                        -0.5535427,
+                        44.8077645
+                    ],
+                    [
+                        -0.5535424,
+                        44.8076816
+                    ],
+                    [
+                        -0.5534787,
+                        44.8075765
+                    ],
+                    [
+                        -0.5535317,
+                        44.8075942
+                    ],
+                    [
+                        -0.5537511,
+                        44.8075973
+                    ],
+                    [
+                        -0.553818,
+                        44.8075983
+                    ],
+                    [
+                        -0.5538163,
+                        44.807687
+                    ],
+                    [
+                        -0.5538137,
+                        44.8077419
+                    ],
+                    [
+                        -0.5538128,
+                        44.8077768
+                    ]
+                ]
+            },
+            "properties": {
+                "area": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Place de la Libert\u00e9",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256582943,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5534787,
+                        44.8075765
+                    ],
+                    [
+                        -0.5535317,
+                        44.8075942
+                    ],
+                    [
+                        -0.5537511,
+                        44.8075973
+                    ],
+                    [
+                        -0.553818,
+                        44.8075983
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Place de la Libert\u00e9",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

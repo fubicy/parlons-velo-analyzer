@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 165200496,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0615185,
+                        48.9110596
+                    ],
+                    [
+                        6.0615695,
+                        48.9116361
+                    ],
+                    [
+                        6.0616808,
+                        48.9127956
+                    ],
+                    [
+                        6.0616957,
+                        48.9129788
+                    ],
+                    [
+                        6.0617285,
+                        48.9133821
+                    ],
+                    [
+                        6.0618643,
+                        48.9139485
+                    ],
+                    [
+                        6.0622858,
+                        48.915449
+                    ],
+                    [
+                        6.0624014,
+                        48.915692
+                    ],
+                    [
+                        6.0625064,
+                        48.915877
+                    ],
+                    [
+                        6.0629104,
+                        48.916478
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "track",
+                "highway": "primary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de Metz",
+                "old_ref": "N 57",
+                "ref": "D 657",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 317340956,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0629104,
+                        48.916478
+                    ],
+                    [
+                        6.0630504,
+                        48.9166864
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de Metz",
+                "old_ref": "N 57",
+                "ref": "D 657",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

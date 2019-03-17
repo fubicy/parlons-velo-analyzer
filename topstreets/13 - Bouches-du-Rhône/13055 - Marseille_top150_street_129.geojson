@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34934936,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3805957,
+                        43.3051717
+                    ],
+                    [
+                        5.381413,
+                        43.3056159
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Boulevard Gustave Desplaces",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34934937,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3787603,
+                        43.3045503
+                    ],
+                    [
+                        5.3788456,
+                        43.3045881
+                    ],
+                    [
+                        5.3789322,
+                        43.3046178
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "4",
+                "name": "Boulevard Gustave Desplaces",
+                "ref:FR:FANTOIR": "132034336R",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34962900,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3802284,
+                        43.3050321
+                    ],
+                    [
+                        5.3803727,
+                        43.3050418
+                    ],
+                    [
+                        5.3805049,
+                        43.3050408
+                    ],
+                    [
+                        5.3806529,
+                        43.3050277
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes:psv": "1",
+                "name": "Boulevard Gustave Desplaces",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "132034336R",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138595898,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3805957,
+                        43.3051717
+                    ],
+                    [
+                        5.3804881,
+                        43.3051365
+                    ],
+                    [
+                        5.3803747,
+                        43.3050919
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "name": "Boulevard Gustave Desplaces",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "132034336R",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138611158,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3786867,
+                        43.3045129
+                    ],
+                    [
+                        5.3787153,
+                        43.3045273
+                    ],
+                    [
+                        5.3787603,
+                        43.3045503
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "level": "-2",
+                "name": "Boulevard Gustave Desplaces",
+                "ref:FR:FANTOIR": "132034336R",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 241177414,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3789322,
+                        43.3046178
+                    ],
+                    [
+                        5.3791146,
+                        43.3046771
+                    ],
+                    [
+                        5.3801342,
+                        43.305001
+                    ],
+                    [
+                        5.3802284,
+                        43.3050321
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "lanes:psv:backward": "1",
+                "name": "Boulevard Gustave Desplaces",
+                "ref:FR:FANTOIR": "132034336R",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 630964656,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3803747,
+                        43.3050919
+                    ],
+                    [
+                        5.3802284,
+                        43.3050321
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lanes:psv": "1",
+                "name": "Boulevard Gustave Desplaces",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "132034336R",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

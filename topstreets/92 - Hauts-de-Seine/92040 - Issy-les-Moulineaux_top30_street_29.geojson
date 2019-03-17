@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33084367,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2729306,
+                        48.8242708
+                    ],
+                    [
+                        2.2730398,
+                        48.8241637
+                    ],
+                    [
+                        2.2729068,
+                        48.8240834
+                    ]
+                ]
+            },
+            "properties": {
+                "created_by": "Potlatch 0.10f",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Avenue de la R\u00e9publique",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33084371,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2728289,
+                        48.8239716
+                    ],
+                    [
+                        2.2729068,
+                        48.8240834
+                    ],
+                    [
+                        2.2729306,
+                        48.8242708
+                    ],
+                    [
+                        2.2729968,
+                        48.824557
+                    ],
+                    [
+                        2.2731175,
+                        48.8249158
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Avenue de la R\u00e9publique",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44508202,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2738452,
+                        48.8277814
+                    ],
+                    [
+                        2.2738234,
+                        48.8276463
+                    ],
+                    [
+                        2.2735029,
+                        48.8263834
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue de la R\u00e9publique",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144959169,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2731175,
+                        48.8249158
+                    ],
+                    [
+                        2.2731657,
+                        48.8251063
+                    ],
+                    [
+                        2.2731862,
+                        48.8251871
+                    ],
+                    [
+                        2.2732717,
+                        48.8254049
+                    ],
+                    [
+                        2.2732538,
+                        48.8254308
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Avenue de la R\u00e9publique",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235710579,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2735029,
+                        48.8263834
+                    ],
+                    [
+                        2.2734021,
+                        48.825996
+                    ],
+                    [
+                        2.2733766,
+                        48.8258984
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Avenue de la R\u00e9publique",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

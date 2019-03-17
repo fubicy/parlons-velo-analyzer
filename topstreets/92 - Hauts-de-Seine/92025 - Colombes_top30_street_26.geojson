@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27795261,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2628836,
+                        48.9202355
+                    ],
+                    [
+                        2.2630874,
+                        48.9203854
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "residential",
+                "layer": "1",
+                "name": "Pont Vico",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43542331,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2630874,
+                        48.9203854
+                    ],
+                    [
+                        2.2633001,
+                        48.9210265
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "no",
+                "name": "Pont Vico",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

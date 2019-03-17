@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10398035,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8956451,
+                        44.9324034
+                    ],
+                    [
+                        4.8965195,
+                        44.9323394
+                    ],
+                    [
+                        4.8966357,
+                        44.9323308
+                    ],
+                    [
+                        4.8974098,
+                        44.9322611
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Faubourg Saint-Jacques",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99222744,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8974098,
+                        44.9322611
+                    ],
+                    [
+                        4.8974697,
+                        44.9322721
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Faubourg Saint-Jacques",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre. Mise \u00e0 jour : 2017",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

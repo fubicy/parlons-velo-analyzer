@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27644861,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5679987,
+                        47.208837
+                    ],
+                    [
+                        -1.5680513,
+                        47.2089259
+                    ],
+                    [
+                        -1.5680741,
+                        47.2089619
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Charles Brunelli\u00e8re",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52123835,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5680174,
+                        47.2086416
+                    ],
+                    [
+                        -1.5679832,
+                        47.2086922
+                    ],
+                    [
+                        -1.5679773,
+                        47.2087369
+                    ],
+                    [
+                        -1.5679812,
+                        47.2087677
+                    ],
+                    [
+                        -1.5679987,
+                        47.208837
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Charles Brunelli\u00e8re",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183346713,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5680741,
+                        47.2089619
+                    ],
+                    [
+                        -1.5682515,
+                        47.2090099
+                    ],
+                    [
+                        -1.56843,
+                        47.2090508
+                    ],
+                    [
+                        -1.5692487,
+                        47.2092794
+                    ],
+                    [
+                        -1.5701772,
+                        47.2095661
+                    ],
+                    [
+                        -1.570238,
+                        47.2095849
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Charles Brunelli\u00e8re",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

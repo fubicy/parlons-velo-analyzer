@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23434522,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4947467,
+                        48.5918331
+                    ],
+                    [
+                        6.4951276,
+                        48.5918952
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Banaudon",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203846978,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.4909106,
+                        48.5913
+                    ],
+                    [
+                        6.4917012,
+                        48.5914147
+                    ],
+                    [
+                        6.4926485,
+                        48.5915269
+                    ],
+                    [
+                        6.4947467,
+                        48.5918331
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Banaudon",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 43315480,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8912765,
+                        48.6747894
+                    ],
+                    [
+                        5.8913076,
+                        48.6748332
+                    ],
+                    [
+                        5.8917128,
+                        48.675404
+                    ],
+                    [
+                        5.8918,
+                        48.6755164
+                    ],
+                    [
+                        5.8918229,
+                        48.6755636
+                    ],
+                    [
+                        5.8918911,
+                        48.6756731
+                    ],
+                    [
+                        5.8920601,
+                        48.6758691
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Mich\u00e2tel",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2005",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129800113,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8921225,
+                        48.6759464
+                    ],
+                    [
+                        5.8924551,
+                        48.6763933
+                    ],
+                    [
+                        5.8924864,
+                        48.676434
+                    ],
+                    [
+                        5.8925381,
+                        48.6765091
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Mich\u00e2tel",
+                "oneway": "yes",
+                "source": "Bing;survey",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 318071370,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.8920601,
+                        48.6758691
+                    ],
+                    [
+                        5.8921225,
+                        48.6759464
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Mich\u00e2tel",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2005",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 21647928,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3084398,
+                        48.7550679
+                    ],
+                    [
+                        2.306056,
+                        48.7556824
+                    ],
+                    [
+                        2.3060251,
+                        48.7556938
+                    ],
+                    [
+                        2.3059909,
+                        48.7557064
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Galipeau",
+                "note": "DSC non autoris\u00e9",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source": "Arret\u00e9 mairie d'Antony 2009",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8059466,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6773061,
+                        48.1136602
+                    ],
+                    [
+                        -1.6776008,
+                        48.1136782
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Bertrand",
+                "name:br": "Straed Bertrand",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49681464,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6776008,
+                        48.1136782
+                    ],
+                    [
+                        -1.6779612,
+                        48.1137091
+                    ],
+                    [
+                        -1.6781421,
+                        48.113723
+                    ],
+                    [
+                        -1.678319,
+                        48.1137256
+                    ],
+                    [
+                        -1.679275,
+                        48.1136983
+                    ],
+                    [
+                        -1.6793818,
+                        48.1136939
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "name": "Rue de Bertrand",
+                "name:br": "Straed Bertrand",
+                "oneway": "yes",
+                "parking:condition:right": "loading",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "parallel",
+                "psv": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

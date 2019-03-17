@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7989771,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4462826,
+                        43.5326526
+                    ],
+                    [
+                        5.4462246,
+                        43.5327536
+                    ],
+                    [
+                        5.4459231,
+                        43.5332782
+                    ],
+                    [
+                        5.4458083,
+                        43.5334222
+                    ],
+                    [
+                        5.4458235,
+                        43.5335792
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Pasteur",
+                "oneway": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159567148,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4454895,
+                        43.534672
+                    ],
+                    [
+                        5.4455251,
+                        43.5345383
+                    ],
+                    [
+                        5.4455369,
+                        43.534494
+                    ],
+                    [
+                        5.4455694,
+                        43.5344306
+                    ],
+                    [
+                        5.4456498,
+                        43.5342491
+                    ],
+                    [
+                        5.4457314,
+                        43.5339892
+                    ],
+                    [
+                        5.4457697,
+                        43.533894
+                    ],
+                    [
+                        5.445798,
+                        43.5337485
+                    ],
+                    [
+                        5.4458235,
+                        43.5335792
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Pasteur",
+                "oneway": "yes",
+                "ref": "D 14",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 50014788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.5659824,
+                        43.5284028
+                    ],
+                    [
+                        1.565934,
+                        43.5283412
+                    ],
+                    [
+                        1.5658868,
+                        43.5282743
+                    ],
+                    [
+                        1.565727,
+                        43.5280441
+                    ],
+                    [
+                        1.5651309,
+                        43.5272158
+                    ],
+                    [
+                        1.5645882,
+                        43.5264524
+                    ],
+                    [
+                        1.5644423,
+                        43.5262609
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxweight": "6",
+                "name": "Avenue d'Ingine",
+                "ref": "D 94",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78393304,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.5685038,
+                        43.5320089
+                    ],
+                    [
+                        1.5684535,
+                        43.5318881
+                    ],
+                    [
+                        1.568419,
+                        43.5318006
+                    ],
+                    [
+                        1.5682746,
+                        43.5315892
+                    ],
+                    [
+                        1.5681387,
+                        43.531392
+                    ],
+                    [
+                        1.5680648,
+                        43.5312848
+                    ],
+                    [
+                        1.5670525,
+                        43.5299133
+                    ],
+                    [
+                        1.5667393,
+                        43.5294532
+                    ],
+                    [
+                        1.5666881,
+                        43.5293779
+                    ],
+                    [
+                        1.5666067,
+                        43.5292802
+                    ],
+                    [
+                        1.566403,
+                        43.5290063
+                    ],
+                    [
+                        1.5659824,
+                        43.5284028
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxweight": "6",
+                "name": "Avenue d'Ingine",
+                "ref": "D 94",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78393306,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.5685402,
+                        43.5320939
+                    ],
+                    [
+                        1.5685038,
+                        43.5320089
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxweight": "6",
+                "name": "Avenue d'Ingine",
+                "ref": "D 94",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 551510813,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4325287,
+                        43.5541734
+                    ],
+                    [
+                        1.432334,
+                        43.5542137
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Oncopole",
+                "public_transport": "platform",
+                "ref": "23051",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551510815,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4317669,
+                        43.5552534
+                    ],
+                    [
+                        1.4317953,
+                        43.5554336
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Oncopole",
+                "public_transport": "platform",
+                "ref": "23059",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551676071,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4300324,
+                        43.5550566
+                    ],
+                    [
+                        1.4298214,
+                        43.5550736
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Oncopole",
+                "public_transport": "platform",
+                "ref": "23056",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

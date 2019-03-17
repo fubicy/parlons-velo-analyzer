@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19742573,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1449615,
+                        48.8009066
+                    ],
+                    [
+                        2.1449795,
+                        48.8009599
+                    ],
+                    [
+                        2.1455049,
+                        48.8025196
+                    ],
+                    [
+                        2.1455198,
+                        48.8025639
+                    ],
+                    [
+                        2.1455433,
+                        48.8026337
+                    ],
+                    [
+                        2.1455859,
+                        48.8027587
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "shared_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue des Condamines",
+                "source": "Direction g\u00e9n\u00e9rale des finances publiques - f\u00e9vrier 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 612803829,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1455859,
+                        48.8027587
+                    ],
+                    [
+                        2.1456267,
+                        48.8028665
+                    ],
+                    [
+                        2.1456363,
+                        48.802892
+                    ],
+                    [
+                        2.145961,
+                        48.8037507
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "shared_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue des Condamines",
+                "source": "Direction g\u00e9n\u00e9rale des finances publiques - f\u00e9vrier 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

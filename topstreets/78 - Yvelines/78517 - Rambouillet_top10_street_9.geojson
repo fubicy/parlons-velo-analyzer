@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 60094104,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8597437,
+                        48.6593114
+                    ],
+                    [
+                        1.8590843,
+                        48.6604862
+                    ],
+                    [
+                        1.859048,
+                        48.6605457
+                    ],
+                    [
+                        1.8590739,
+                        48.6606124
+                    ],
+                    [
+                        1.8591114,
+                        48.6606344
+                    ],
+                    [
+                        1.8591641,
+                        48.6606588
+                    ],
+                    [
+                        1.8597166,
+                        48.6607741
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue de la Grange Colombe",
+                "oneway": "no",
+                "ref:FR:FANTOIR": "785170376G",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 453411677,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8597166,
+                        48.6607741
+                    ],
+                    [
+                        1.8619444,
+                        48.6612808
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "70",
+                "name": "Rue de la Grange Colombe",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

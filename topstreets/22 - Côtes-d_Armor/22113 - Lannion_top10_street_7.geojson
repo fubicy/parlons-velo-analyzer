@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 453366738,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.4898556,
+                        48.7183237
+                    ],
+                    [
+                        -3.4899633,
+                        48.7182251
+                    ],
+                    [
+                        -3.4900049,
+                        48.718191
+                    ]
+                ]
+            },
+            "properties": {
+                "class:bicycle:commute": "-2",
+                "highway": "primary",
+                "name": "Route de Morlaix",
+                "oneway": "yes",
+                "ref": "D 786",
+                "surface": "asphalt",
+                "traffic": "heavy",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 595413176,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.4900049,
+                        48.718191
+                    ],
+                    [
+                        -3.4901169,
+                        48.7181022
+                    ]
+                ]
+            },
+            "properties": {
+                "class:bicycle:commute": "-2",
+                "highway": "primary",
+                "name": "Route de Morlaix",
+                "oneway": "yes",
+                "ref": "D 786",
+                "surface": "asphalt",
+                "traffic": "heavy",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

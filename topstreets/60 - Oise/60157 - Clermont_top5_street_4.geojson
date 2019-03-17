@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 89085003,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4182276,
+                        49.3785682
+                    ],
+                    [
+                        2.4180791,
+                        49.378748
+                    ],
+                    [
+                        2.4179663,
+                        49.3789629
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Fernel",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 224266265,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4179663,
+                        49.3789629
+                    ],
+                    [
+                        2.4169941,
+                        49.3793293
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Fernel",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

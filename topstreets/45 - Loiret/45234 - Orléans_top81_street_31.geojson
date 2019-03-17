@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 147516556,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9097091,
+                        47.9044969
+                    ],
+                    [
+                        1.909853,
+                        47.9044553
+                    ],
+                    [
+                        1.9107022,
+                        47.9042543
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Alsace Lorraine",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323875489,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9093359,
+                        47.9045696
+                    ],
+                    [
+                        1.9084397,
+                        47.904788
+                    ],
+                    [
+                        1.9073015,
+                        47.9050666
+                    ],
+                    [
+                        1.9072299,
+                        47.9050839
+                    ],
+                    [
+                        1.9067831,
+                        47.9051916
+                    ],
+                    [
+                        1.9050868,
+                        47.9056001
+                    ],
+                    [
+                        1.9047781,
+                        47.90569
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Alsace Lorraine",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 638729381,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9097046,
+                        47.9045318
+                    ],
+                    [
+                        1.9096379,
+                        47.9045349
+                    ],
+                    [
+                        1.9094063,
+                        47.9045711
+                    ],
+                    [
+                        1.9093359,
+                        47.9045696
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Alsace Lorraine",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

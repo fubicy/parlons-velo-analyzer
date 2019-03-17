@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24577687,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3061754,
+                        48.7563402
+                    ],
+                    [
+                        2.3062088,
+                        48.7563314
+                    ],
+                    [
+                        2.3062879,
+                        48.7563105
+                    ],
+                    [
+                        2.3087999,
+                        48.7556463
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pernoud",
+                "oneway": "no",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

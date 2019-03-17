@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 355352634,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.1636141,
+                        47.8837149
+                    ],
+                    [
+                        -4.1634375,
+                        47.8837268
+                    ],
+                    [
+                        -4.1631427,
+                        47.883758
+                    ],
+                    [
+                        -4.1628759,
+                        47.8837931
+                    ],
+                    [
+                        -4.1624142,
+                        47.8838525
+                    ],
+                    [
+                        -4.1621329,
+                        47.88389
+                    ],
+                    [
+                        -4.1618117,
+                        47.8839316
+                    ],
+                    [
+                        -4.1615472,
+                        47.8839667
+                    ],
+                    [
+                        -4.1609779,
+                        47.8840392
+                    ],
+                    [
+                        -4.1602882,
+                        47.8841254
+                    ],
+                    [
+                        -4.1600272,
+                        47.8841593
+                    ],
+                    [
+                        -4.1589287,
+                        47.8843027
+                    ],
+                    [
+                        -4.1583869,
+                        47.8843648
+                    ],
+                    [
+                        -4.1578151,
+                        47.8844018
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "70",
+                "name": "Route de Pont-l'Abb\u00e9",
+                "ref": "D 44",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 540184226,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.1578151,
+                        47.8844018
+                    ],
+                    [
+                        -4.1570129,
+                        47.8843682
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed:backward": "90",
+                "maxspeed:forward": "70",
+                "name": "Route de Pont-l'Abb\u00e9",
+                "ref": "D 44",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

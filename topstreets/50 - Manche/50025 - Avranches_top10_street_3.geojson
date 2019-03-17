@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 116376845,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3636728,
+                        48.6847598
+                    ],
+                    [
+                        -1.364048,
+                        48.6845931
+                    ],
+                    [
+                        -1.3641894,
+                        48.6845448
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Jardin des Plantes",
+                "oneway": "yes",
+                "source:oneway": "sign",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163137163,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3638478,
+                        48.6844407
+                    ],
+                    [
+                        -1.3638279,
+                        48.6844953
+                    ],
+                    [
+                        -1.3637798,
+                        48.6846717
+                    ],
+                    [
+                        -1.3636728,
+                        48.6847598
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "residential",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Rue du Jardin des Plantes",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449194321,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3623992,
+                        48.6859833
+                    ],
+                    [
+                        -1.3623078,
+                        48.6863181
+                    ],
+                    [
+                        -1.3622959,
+                        48.6863789
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Jardin des Plantes",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:conditional": "no@destination",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449194322,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3625336,
+                        48.6857379
+                    ],
+                    [
+                        -1.3625135,
+                        48.6857734
+                    ],
+                    [
+                        -1.3623992,
+                        48.6859833
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "motor_vehicle": "no",
+                "name": "Rue du Jardin des Plantes",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449194323,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3635345,
+                        48.6849891
+                    ],
+                    [
+                        -1.3631363,
+                        48.6859202
+                    ],
+                    [
+                        -1.3625336,
+                        48.6857379
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Jardin des Plantes",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449887699,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3636728,
+                        48.6847598
+                    ],
+                    [
+                        -1.3636059,
+                        48.6848222
+                    ],
+                    [
+                        -1.3635345,
+                        48.6849891
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Jardin des Plantes",
+                "oneway": "no",
+                "priority": "backward",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "sign",
+                "source:oneway": "survey",
+                "source:priority": "sign",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

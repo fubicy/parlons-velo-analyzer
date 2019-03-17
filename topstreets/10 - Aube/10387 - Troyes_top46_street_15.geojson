@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 45138773,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0735392,
+                        48.3018614
+                    ],
+                    [
+                        4.0744239,
+                        48.3008799
+                    ],
+                    [
+                        4.0747752,
+                        48.3005157
+                    ],
+                    [
+                        4.074793,
+                        48.3004909
+                    ],
+                    [
+                        4.0748132,
+                        48.3004626
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Preize",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60905245,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0735392,
+                        48.3018614
+                    ],
+                    [
+                        4.0734931,
+                        48.3019071
+                    ],
+                    [
+                        4.0724947,
+                        48.3029243
+                    ],
+                    [
+                        4.072454,
+                        48.3029633
+                    ],
+                    [
+                        4.0721773,
+                        48.3032554
+                    ],
+                    [
+                        4.0721489,
+                        48.3032876
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Preize",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62117058,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0721489,
+                        48.3032876
+                    ],
+                    [
+                        4.0720905,
+                        48.3033256
+                    ],
+                    [
+                        4.0717817,
+                        48.3036789
+                    ],
+                    [
+                        4.0715727,
+                        48.3039279
+                    ],
+                    [
+                        4.0714454,
+                        48.3040802
+                    ],
+                    [
+                        4.071375,
+                        48.3041643
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Preize",
+                "political_division": "canton",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62117059,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.071375,
+                        48.3041643
+                    ],
+                    [
+                        4.0709638,
+                        48.3046749
+                    ],
+                    [
+                        4.0709182,
+                        48.3047389
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Preize",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

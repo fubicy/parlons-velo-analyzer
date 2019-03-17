@@ -1,0 +1,161 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18498054,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8852934,
+                        45.7712531
+                    ],
+                    [
+                        4.8852757,
+                        45.77137
+                    ],
+                    [
+                        4.8851982,
+                        45.7717655
+                    ],
+                    [
+                        4.8849047,
+                        45.7731099
+                    ],
+                    [
+                        4.8847604,
+                        45.7737371
+                    ],
+                    [
+                        4.8847503,
+                        45.7737916
+                    ],
+                    [
+                        4.8846159,
+                        45.7745169
+                    ],
+                    [
+                        4.884542,
+                        45.7748299
+                    ],
+                    [
+                        4.884291,
+                        45.7760375
+                    ],
+                    [
+                        4.8842775,
+                        45.7761026
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Bienvenus",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 217895160,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8839333,
+                        45.7779041
+                    ],
+                    [
+                        4.8840495,
+                        45.777944
+                    ],
+                    [
+                        4.884158,
+                        45.7779813
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue des Bienvenus",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219363272,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8842775,
+                        45.7761026
+                    ],
+                    [
+                        4.8842649,
+                        45.7761654
+                    ],
+                    [
+                        4.8841339,
+                        45.7768179
+                    ],
+                    [
+                        4.8840329,
+                        45.7773207
+                    ],
+                    [
+                        4.8840257,
+                        45.7773565
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue des Bienvenus",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 662496006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8840257,
+                        45.7773565
+                    ],
+                    [
+                        4.8839333,
+                        45.7779041
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue des Bienvenus",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

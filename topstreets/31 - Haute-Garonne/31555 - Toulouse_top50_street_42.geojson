@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31005920,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4359598,
+                        43.6037587
+                    ],
+                    [
+                        1.4360377,
+                        43.6038562
+                    ],
+                    [
+                        1.4363608,
+                        43.6041377
+                    ],
+                    [
+                        1.4367384,
+                        43.6044484
+                    ],
+                    [
+                        1.4371161,
+                        43.6048089
+                    ],
+                    [
+                        1.4372176,
+                        43.6049135
+                    ],
+                    [
+                        1.4374421,
+                        43.6051449
+                    ],
+                    [
+                        1.4374543,
+                        43.60516
+                    ],
+                    [
+                        1.4376238,
+                        43.6053329
+                    ],
+                    [
+                        1.4380186,
+                        43.6057146
+                    ],
+                    [
+                        1.4380415,
+                        43.6057368
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Valade",
+                "name:oc": "Carri\u00e8ra Valada",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee_per_hour": "12\u20ac",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:maxstay": "24 hours",
+                "parking:condition:both:3:residents": "VALADE",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 hours",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "parallel",
+                "parking:lane:both:capacity": "37",
+                "parking:lane:both:parallel": "on_street",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:name:oc": "http://www.gegeloccitan-photo.com/article-rue-valade-toulouse-107768617.html",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

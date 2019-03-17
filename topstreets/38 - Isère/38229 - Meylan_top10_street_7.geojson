@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 192624927,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7895397,
+                        45.2077292
+                    ],
+                    [
+                        5.7896819,
+                        45.2078161
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bin": "no",
+                "bus": "yes",
+                "disused": "yes",
+                "highway": "platform",
+                "name": "Inovall\u00e9e",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192624929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7887726,
+                        45.2074892
+                    ],
+                    [
+                        5.7886117,
+                        45.2074552
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Inovall\u00e9e",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

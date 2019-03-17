@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 20441586,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1556349,
+                        48.6976431
+                    ],
+                    [
+                        2.1556149,
+                        48.6976157
+                    ],
+                    [
+                        2.1555858,
+                        48.697576
+                    ],
+                    [
+                        2.1553238,
+                        48.6972182
+                    ],
+                    [
+                        2.1553868,
+                        48.6969777
+                    ],
+                    [
+                        2.1554517,
+                        48.6965774
+                    ],
+                    [
+                        2.1554647,
+                        48.6964973
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "highway:cycle": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue du Haras",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

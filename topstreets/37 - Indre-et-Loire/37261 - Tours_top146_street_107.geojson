@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32697237,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6937693,
+                        47.3952021
+                    ],
+                    [
+                        0.6938289,
+                        47.3952138
+                    ],
+                    [
+                        0.6942747,
+                        47.3953011
+                    ],
+                    [
+                        0.694361,
+                        47.3953039
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Fleury",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225666464,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.694361,
+                        47.3953039
+                    ],
+                    [
+                        0.6948005,
+                        47.395386
+                    ],
+                    [
+                        0.6948505,
+                        47.3953992
+                    ],
+                    [
+                        0.69512,
+                        47.3955528
+                    ],
+                    [
+                        0.6951522,
+                        47.3955665
+                    ],
+                    [
+                        0.6953676,
+                        47.3956588
+                    ],
+                    [
+                        0.6954194,
+                        47.3956953
+                    ],
+                    [
+                        0.6954934,
+                        47.3957556
+                    ],
+                    [
+                        0.6955657,
+                        47.3958048
+                    ],
+                    [
+                        0.6956311,
+                        47.3958492
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue Fleury",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "paving_stones",
+                "zone:maxspeed": "FR:20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

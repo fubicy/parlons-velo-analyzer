@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 218046291,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.1291985,
+                        43.6169771
+                    ],
+                    [
+                        7.129214,
+                        43.6171291
+                    ],
+                    [
+                        7.1293031,
+                        43.6173244
+                    ],
+                    [
+                        7.129641,
+                        43.618104
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Route du Bord de Mer",
+                "overtaking": "no",
+                "ref": "D 6098",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 532709108,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.1351122,
+                        43.6343673
+                    ],
+                    [
+                        7.1350985,
+                        43.6345784
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Route du Bord de Mer",
+                "oneway": "yes",
+                "ref": "D 6098",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

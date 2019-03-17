@@ -1,0 +1,132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4324175,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7300668,
+                        45.1901307
+                    ],
+                    [
+                        5.7301847,
+                        45.1901406
+                    ],
+                    [
+                        5.7302825,
+                        45.1901705
+                    ],
+                    [
+                        5.7303113,
+                        45.1901907
+                    ],
+                    [
+                        5.7303269,
+                        45.1902017
+                    ],
+                    [
+                        5.7303681,
+                        45.1902402
+                    ],
+                    [
+                        5.730376,
+                        45.190357
+                    ],
+                    [
+                        5.7303754,
+                        45.1905001
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Alphand",
+                "oneway": "yes",
+                "surface": "sett",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 258883111,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7304788,
+                        45.1900426
+                    ],
+                    [
+                        5.7304815,
+                        45.1900583
+                    ],
+                    [
+                        5.7304873,
+                        45.1900911
+                    ],
+                    [
+                        5.7304963,
+                        45.1901382
+                    ],
+                    [
+                        5.7305139,
+                        45.190228
+                    ],
+                    [
+                        5.7305319,
+                        45.1903286
+                    ],
+                    [
+                        5.7305344,
+                        45.1905091
+                    ],
+                    [
+                        5.7305311,
+                        45.1905636
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Alphand",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 490191721,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7303052,
+                        45.1902553
+                    ],
+                    [
+                        5.7303293,
+                        45.1902694
+                    ],
+                    [
+                        5.7303341,
+                        45.1904286
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Alphand",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23141139,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3324256,
+                        48.8448608
+                    ],
+                    [
+                        2.3323433,
+                        48.8448249
+                    ],
+                    [
+                        2.3306805,
+                        48.8440177
+                    ],
+                    [
+                        2.3306304,
+                        48.843996
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Vavin",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "ref:FR:FANTOIR": "751069634J",
+                "surface": "asphalt",
+                "wikidata": "Q3450271",
+                "zone:maxspeed": "FR:20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34856443,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3306304,
+                        48.843996
+                    ],
+                    [
+                        2.3305543,
+                        48.8439561
+                    ],
+                    [
+                        2.3304369,
+                        48.8438831
+                    ],
+                    [
+                        2.3301831,
+                        48.8437055
+                    ],
+                    [
+                        2.3300871,
+                        48.8436379
+                    ],
+                    [
+                        2.3294372,
+                        48.8431802
+                    ],
+                    [
+                        2.3293512,
+                        48.8431186
+                    ],
+                    [
+                        2.3291961,
+                        48.8430006
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Vavin",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3450271",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41739437,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3291961,
+                        48.8430006
+                    ],
+                    [
+                        2.3291143,
+                        48.8429387
+                    ],
+                    [
+                        2.3284917,
+                        48.8425092
+                    ],
+                    [
+                        2.3284092,
+                        48.8424523
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Vavin",
+                "note": "[lapinos03] Piste cyclable d'apr\u00e8s plan officiel 2008/02 - Itin\u00e9raire coseill\u00e9",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3450271",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 312432383,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3804776,
+                        43.3037702
+                    ],
+                    [
+                        5.3806238,
+                        43.3038206
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "description": "Ligne 521 Gare St Charles Luminy",
+                "highway": "platform",
+                "level": "0",
+                "name": "Gare Saint-Charles",
+                "public_transport": "platform",
+                "ref": "Quai 25",
+                "wheelchair": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 312432384,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3806238,
+                        43.3038206
+                    ],
+                    [
+                        5.3807859,
+                        43.3038783
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "description": "Ligne 82s Pharo Catalans;Ligne 533 Canebi\u00e8re Bourse/Facult\u00e9 de St J\u00e9rome;Ligne 582 Canebi\u00e8re Bourse/Foch 5 avenues",
+                "highway": "platform",
+                "level": "0",
+                "name": "Gare Saint-Charles",
+                "public_transport": "platform",
+                "ref": "Quai 26",
+                "wheelchair": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

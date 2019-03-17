@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 513266371,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6052404,
+                        47.2136768
+                    ],
+                    [
+                        -1.6050252,
+                        47.2136394
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "disused": "yes",
+                "highway": "bus_stop",
+                "name": "Duranti\u00e8re",
+                "network": "TAN",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

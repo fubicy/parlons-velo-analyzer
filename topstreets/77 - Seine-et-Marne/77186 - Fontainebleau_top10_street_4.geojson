@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 630800538,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7034853,
+                        48.4070539
+                    ],
+                    [
+                        2.7035084,
+                        48.4072603
+                    ],
+                    [
+                        2.7035358,
+                        48.4074446
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place de l'\u00c9tape",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

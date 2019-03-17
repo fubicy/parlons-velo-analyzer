@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23274987,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6712911,
+                        48.1102173
+                    ],
+                    [
+                        -1.6727447,
+                        48.1102058
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lit": "yes",
+                "name": "Quai Dujardin",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32044349,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6740399,
+                        48.1102051
+                    ],
+                    [
+                        -1.6741931,
+                        48.1102018
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "mapillary": "uW0hQYhteX6ZRMtMSRtRBQ",
+                "name": "Quai Dujardin",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "source:lit": "Survey 01/2016",
+                "surface": "asphalt",
+                "survey:date": "2017-05-03",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 355305349,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6727447,
+                        48.1102058
+                    ],
+                    [
+                        -1.6728395,
+                        48.1102057
+                    ],
+                    [
+                        -1.6739036,
+                        48.1102051
+                    ],
+                    [
+                        -1.6739578,
+                        48.1102051
+                    ],
+                    [
+                        -1.6740399,
+                        48.1102051
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lit": "yes",
+                "name": "Quai Dujardin",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "surface": "asphalt",
+                "turn:lanes": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

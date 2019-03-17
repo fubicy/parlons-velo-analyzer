@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4798643,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9503204,
+                        45.8562533
+                    ],
+                    [
+                        5.9503256,
+                        45.8561134
+                    ],
+                    [
+                        5.9503265,
+                        45.8560897
+                    ],
+                    [
+                        5.9502647,
+                        45.855982
+                    ],
+                    [
+                        5.9501486,
+                        45.8559392
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route d'Aix-Les-Bains",
+                "oneway": "yes",
+                "ref": "D 3",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8463604,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9504957,
+                        45.8559338
+                    ],
+                    [
+                        5.9503883,
+                        45.8561296
+                    ],
+                    [
+                        5.9503204,
+                        45.8562533
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route d'Aix-Les-Bains",
+                "oneway": "no",
+                "ref": "D 3",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

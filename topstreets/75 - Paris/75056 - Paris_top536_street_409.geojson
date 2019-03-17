@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 15091901,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2958889,
+                        48.8298602
+                    ],
+                    [
+                        2.2959404,
+                        48.8299084
+                    ],
+                    [
+                        2.2959622,
+                        48.8299287
+                    ],
+                    [
+                        2.296793,
+                        48.8307066
+                    ],
+                    [
+                        2.2968485,
+                        48.8307586
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue Jules Dupr\u00e9",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zon30",
+                "surface": "concrete",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 172735324,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2740335,
+                        48.7342352
+                    ],
+                    [
+                        2.274197,
+                        48.7343138
+                    ],
+                    [
+                        2.2743024,
+                        48.7343644
+                    ],
+                    [
+                        2.2747844,
+                        48.7345961
+                    ],
+                    [
+                        2.275929,
+                        48.7351267
+                    ],
+                    [
+                        2.2761214,
+                        48.7351973
+                    ],
+                    [
+                        2.2761728,
+                        48.7352909
+                    ],
+                    [
+                        2.2762729,
+                        48.7353559
+                    ],
+                    [
+                        2.2763273,
+                        48.7353936
+                    ],
+                    [
+                        2.2763867,
+                        48.7354263
+                    ],
+                    [
+                        2.2768265,
+                        48.7356696
+                    ],
+                    [
+                        2.2771545,
+                        48.7358095
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pierre Picard",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 645209715,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2736281,
+                        48.7341484
+                    ],
+                    [
+                        2.2739386,
+                        48.7342041
+                    ],
+                    [
+                        2.2740335,
+                        48.7342352
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pierre Picard",
+                "sidewalk": "right",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 645209716,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2730466,
+                        48.7340913
+                    ],
+                    [
+                        2.2731557,
+                        48.7341013
+                    ],
+                    [
+                        2.2734094,
+                        48.7341268
+                    ],
+                    [
+                        2.2736281,
+                        48.7341484
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pierre Picard",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

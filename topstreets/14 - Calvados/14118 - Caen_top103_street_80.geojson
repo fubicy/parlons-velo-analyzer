@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22418331,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3799203,
+                        49.178363
+                    ],
+                    [
+                        -0.3802214,
+                        49.1787039
+                    ],
+                    [
+                        -0.3803283,
+                        49.178825
+                    ],
+                    [
+                        -0.380681,
+                        49.1792363
+                    ],
+                    [
+                        -0.3810266,
+                        49.1796371
+                    ],
+                    [
+                        -0.3811929,
+                        49.1798519
+                    ],
+                    [
+                        -0.3813645,
+                        49.1800281
+                    ],
+                    [
+                        -0.3819541,
+                        49.1807273
+                    ],
+                    [
+                        -0.3819774,
+                        49.1807549
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "incline": "up",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Damozanne",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186306762,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3819774,
+                        49.1807549
+                    ],
+                    [
+                        -0.3825474,
+                        49.1814194
+                    ],
+                    [
+                        -0.3825098,
+                        49.1814961
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_share_busway",
+                "highway": "secondary",
+                "incline": "up",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Damozanne",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202553519,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3825098,
+                        49.1814961
+                    ],
+                    [
+                        -0.3825554,
+                        49.181507
+                    ],
+                    [
+                        -0.3828384,
+                        49.1817832
+                    ],
+                    [
+                        -0.3830402,
+                        49.1819536
+                    ],
+                    [
+                        -0.3832274,
+                        49.1820718
+                    ],
+                    [
+                        -0.3837071,
+                        49.1823708
+                    ],
+                    [
+                        -0.3839246,
+                        49.1825064
+                    ],
+                    [
+                        -0.3841103,
+                        49.1826441
+                    ],
+                    [
+                        -0.3843055,
+                        49.1828071
+                    ],
+                    [
+                        -0.3845063,
+                        49.18303
+                    ],
+                    [
+                        -0.3845886,
+                        49.183127
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Damozanne",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

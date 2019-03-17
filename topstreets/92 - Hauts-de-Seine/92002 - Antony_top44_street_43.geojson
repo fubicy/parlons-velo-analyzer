@@ -1,0 +1,127 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22960664,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3106386,
+                        48.7513217
+                    ],
+                    [
+                        2.3091664,
+                        48.7500843
+                    ],
+                    [
+                        2.3090927,
+                        48.7500223
+                    ]
+                ]
+            },
+            "properties": {
+                "hgv": "no",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Jules Ferry",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22960826,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.308747,
+                        48.7497528
+                    ],
+                    [
+                        2.3086948,
+                        48.7497082
+                    ],
+                    [
+                        2.3083043,
+                        48.7493753
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Jules Ferry",
+                "note": "DSC autoris\u00e9 d'apr\u00e8s le panneau en venant de la place Lewisham",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24593680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3112053,
+                        48.7517746
+                    ],
+                    [
+                        2.3106386,
+                        48.7513217
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Jules Ferry",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 334005182,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3083043,
+                        48.7493753
+                    ],
+                    [
+                        2.3075747,
+                        48.7487737
+                    ],
+                    [
+                        2.3074134,
+                        48.7486145
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Jules Ferry",
+                "note": "DSC non autoris\u00e9 ? panneaux contradictoires",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

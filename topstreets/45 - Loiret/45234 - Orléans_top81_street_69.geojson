@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 98892140,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9273198,
+                        47.8273036
+                    ],
+                    [
+                        1.9274215,
+                        47.8273062
+                    ],
+                    [
+                        1.927741,
+                        47.8273318
+                    ],
+                    [
+                        1.9279287,
+                        47.8273702
+                    ],
+                    [
+                        1.9278974,
+                        47.8276414
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed:type": "FR:urban",
+                "name": "Le Faisan",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

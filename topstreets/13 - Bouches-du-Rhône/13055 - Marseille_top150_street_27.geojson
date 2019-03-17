@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 430174422,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.350387,
+                        43.2830617
+                    ],
+                    [
+                        5.3504474,
+                        43.282929
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Endoume",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 430174424,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.350476,
+                        43.2831328
+                    ],
+                    [
+                        5.3503947,
+                        43.2832743
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Endoume",
+                "name:oc": "En Domes",
+                "network": "RTM",
+                "operator": "R\u00e9gie des Transports Marseillais",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

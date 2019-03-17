@@ -1,0 +1,118 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 246642849,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2903313,
+                        49.8982172
+                    ],
+                    [
+                        2.2904543,
+                        49.898327
+                    ],
+                    [
+                        2.2904844,
+                        49.8983487
+                    ],
+                    [
+                        2.2905187,
+                        49.8983736
+                    ],
+                    [
+                        2.29065,
+                        49.8984321
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard du Port",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246642851,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2903077,
+                        49.8985588
+                    ],
+                    [
+                        2.2903443,
+                        49.8984427
+                    ],
+                    [
+                        2.2903551,
+                        49.898339
+                    ],
+                    [
+                        2.2903313,
+                        49.8982172
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Paris;Rouen",
+                "highway": "primary",
+                "name": "Boulevard du Port",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246642858,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2894677,
+                        49.8972483
+                    ],
+                    [
+                        2.2895834,
+                        49.8973691
+                    ],
+                    [
+                        2.2898253,
+                        49.897639
+                    ],
+                    [
+                        2.2902309,
+                        49.8980981
+                    ],
+                    [
+                        2.2903313,
+                        49.8982172
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard du Port",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

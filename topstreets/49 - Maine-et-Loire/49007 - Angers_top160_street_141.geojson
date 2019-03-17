@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 189102991,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5489946,
+                        47.4772079
+                    ],
+                    [
+                        -0.5489624,
+                        47.477246
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "highway": "platform",
+                "name": "Rennes",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189103492,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5493176,
+                        47.4770721
+                    ],
+                    [
+                        -0.5492912,
+                        47.4771032
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "highway": "platform",
+                "name": "Rennes",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551456108,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5512557,
+                        47.479454
+                    ],
+                    [
+                        -0.5512221,
+                        47.4794386
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "highway": "platform",
+                "name": "Rennes",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16721828,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0188289,
+                        45.4351354
+                    ],
+                    [
+                        6.0193743,
+                        45.435067
+                    ],
+                    [
+                        6.0198994,
+                        45.4349788
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Rond-Point",
+                "source:maxspeed": "sign",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

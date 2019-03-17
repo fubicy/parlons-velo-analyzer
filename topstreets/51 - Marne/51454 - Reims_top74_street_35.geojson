@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 611662578,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0313986,
+                        49.2577423
+                    ],
+                    [
+                        4.0315382,
+                        49.2575279
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "construction",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Place de l'H\u00f4tel de Ville",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 611662581,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0315382,
+                        49.2575279
+                    ],
+                    [
+                        4.0320288,
+                        49.2576999
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "construction",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Place de l'H\u00f4tel de Ville",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 647501833,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0320288,
+                        49.2576999
+                    ],
+                    [
+                        4.0324411,
+                        49.2578404
+                    ],
+                    [
+                        4.0323331,
+                        49.2579623
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Place de l'H\u00f4tel de Ville",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

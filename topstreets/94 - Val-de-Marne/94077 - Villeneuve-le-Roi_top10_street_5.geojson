@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 200675385,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3742849,
+                        48.7239144
+                    ],
+                    [
+                        2.3748077,
+                        48.7240054
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "lanes": "2",
+                "name": "A",
+                "oneway": "no",
+                "service": "parking_aisle",
+                "source": "Bing",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200675388,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3738032,
+                        48.7238254
+                    ],
+                    [
+                        2.3742227,
+                        48.7239028
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "lanes": "2",
+                "name": "A",
+                "oneway": "yes",
+                "service": "parking_aisle",
+                "source": "Bing",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200675391,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3742227,
+                        48.7239028
+                    ],
+                    [
+                        2.3742849,
+                        48.7239144
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "lanes": "1",
+                "name": "A",
+                "oneway": "yes",
+                "service": "parking_aisle",
+                "source": "Bing",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200675402,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3742849,
+                        48.7239144
+                    ],
+                    [
+                        2.3742004,
+                        48.7239546
+                    ],
+                    [
+                        2.3738018,
+                        48.7238829
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "lanes": "1",
+                "name": "A",
+                "oneway": "yes",
+                "service": "parking_aisle",
+                "source": "Bing",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22063856,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2247605,
+                        48.841278
+                    ],
+                    [
+                        2.2234235,
+                        48.8413721
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Saint-Cloud",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "ref": "D 907",
+                "sidewalk": "right",
+                "source": "Bing",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26757407,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2227771,
+                        48.8413161
+                    ],
+                    [
+                        2.223828,
+                        48.8412406
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Saint-Cloud",
+                "oneway": "yes",
+                "ref": "D 907",
+                "sidewalk": "right",
+                "source": "bing",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178878628,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2234235,
+                        48.8413721
+                    ],
+                    [
+                        2.2226024,
+                        48.8414353
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Saint-Cloud",
+                "oneway": "yes",
+                "ref": "D 907",
+                "sidewalk": "right",
+                "source": "bing",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

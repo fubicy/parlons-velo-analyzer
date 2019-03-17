@@ -4,9 +4,9 @@ Sur l'ensemble de la ville il y a eu 19 réponses dont 5 réponses avec une rue 
 
 3 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Route de la Baronne | 2 | 10% | <img src="../../img/bar_40.gif" />&nbsp;40%|
-| Corniche d'Agrimont | 2 | 10% | <img src="../../img/bar_40.gif" />&nbsp;40%|
-| Route des Pugets | 1 | 5% | <img src="../../img/bar_20.gif" />&nbsp;20%|
-| **Total** | 5 | 26% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Route de la Baronne | 2 | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| Corniche d'Agrimont | 2 | <img src="../../img/bar_40.gif" />&nbsp;40%|
+| Route des Pugets | 1 | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| **Total** | 5 | 100%|

@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 121556451,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8823778,
+                        45.7810331
+                    ],
+                    [
+                        4.8815081,
+                        45.7814151
+                    ],
+                    [
+                        4.8810897,
+                        45.7816069
+                    ],
+                    [
+                        4.8800951,
+                        45.7820615
+                    ],
+                    [
+                        4.8790509,
+                        45.7825425
+                    ],
+                    [
+                        4.8790153,
+                        45.7825684
+                    ],
+                    [
+                        4.8789686,
+                        45.7826325
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Jean-Baptiste Cl\u00e9ment",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

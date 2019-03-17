@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 334891321,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7164416,
+                        45.1826604
+                    ],
+                    [
+                        5.7165734,
+                        45.1833082
+                    ],
+                    [
+                        5.716579,
+                        45.1833355
+                    ],
+                    [
+                        5.7165849,
+                        45.1833643
+                    ],
+                    [
+                        5.7165961,
+                        45.1834193
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Papet",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 334891325,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7165139,
+                        45.1834099
+                    ],
+                    [
+                        5.7165065,
+                        45.1833737
+                    ],
+                    [
+                        5.7164999,
+                        45.1833413
+                    ],
+                    [
+                        5.716495,
+                        45.1833175
+                    ],
+                    [
+                        5.7163528,
+                        45.1826228
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Papet",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

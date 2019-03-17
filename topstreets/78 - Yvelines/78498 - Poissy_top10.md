@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 38 réponses dont 34 réponses avec une rue
 
 16 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Boulevard Gambetta | 6 | 15% | <img src="../../img/bar_17.gif" />&nbsp;17%|
-| Boulevard Robespierre | 4 | 10% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Rue Charles Maréchal | 3 | 7% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Pont de Poissy | 3 | 7% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Boulevard de l'Europe | 3 | 7% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Avenue Blanche-de-Castille | 3 | 7% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Boulevard Devaux | 2 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Avenue du Cep | 2 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue du Général de Gaulle | 1 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue de la Sablière | 1 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 28 | 73% | 82%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Boulevard Gambetta | 6 | <img src="../../img/bar_21.gif" />&nbsp;21%|
+| Boulevard Robespierre | 4 | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| Rue Charles Maréchal | 3 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Pont de Poissy | 3 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Boulevard de l'Europe | 3 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Avenue Blanche-de-Castille | 3 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Boulevard Devaux | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Avenue du Cep | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rue du Général de Gaulle | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue de la Sablière | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 28 | 100%|

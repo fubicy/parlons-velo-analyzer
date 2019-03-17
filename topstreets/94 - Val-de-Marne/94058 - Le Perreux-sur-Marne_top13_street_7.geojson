@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40823562,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5076764,
+                        48.8442178
+                    ],
+                    [
+                        2.5076276,
+                        48.8442017
+                    ],
+                    [
+                        2.5058905,
+                        48.8436272
+                    ],
+                    [
+                        2.5041095,
+                        48.8430472
+                    ],
+                    [
+                        2.5037893,
+                        48.8429413
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de la Station",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 243126137,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5026161,
+                        48.8425765
+                    ],
+                    [
+                        2.502885,
+                        48.8426594
+                    ],
+                    [
+                        2.5034876,
+                        48.8428452
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de la Station",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "sett",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 415819023,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5034876,
+                        48.8428452
+                    ],
+                    [
+                        2.5037893,
+                        48.8429413
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue de la Station",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

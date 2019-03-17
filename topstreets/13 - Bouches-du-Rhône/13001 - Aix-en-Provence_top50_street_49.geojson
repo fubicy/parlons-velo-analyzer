@@ -1,0 +1,102 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 595100778,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4517699,
+                        43.5286801
+                    ],
+                    [
+                        5.4527932,
+                        43.5284388
+                    ],
+                    [
+                        5.4536334,
+                        43.5282595
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Manuel",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 657730946,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4509136,
+                        43.5288401
+                    ],
+                    [
+                        5.4513022,
+                        43.528781
+                    ],
+                    [
+                        5.4517699,
+                        43.5286801
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "name": "Rue Manuel",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 666012333,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4536334,
+                        43.5282595
+                    ],
+                    [
+                        5.4543374,
+                        43.5280871
+                    ],
+                    [
+                        5.454697,
+                        43.5277129
+                    ],
+                    [
+                        5.454783,
+                        43.5276232
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Manuel",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33622639,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1631251,
+                        50.683751
+                    ],
+                    [
+                        3.1634268,
+                        50.6836019
+                    ],
+                    [
+                        3.1656418,
+                        50.6825071
+                    ],
+                    [
+                        3.1658679,
+                        50.6823953
+                    ],
+                    [
+                        3.1668574,
+                        50.6819062
+                    ],
+                    [
+                        3.1672745,
+                        50.6817078
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Boulevard de Cambrai",
+                "oneway": "no",
+                "ref": "D 760",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165931910,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1677528,
+                        50.6815227
+                    ],
+                    [
+                        3.1675123,
+                        50.6816319
+                    ],
+                    [
+                        3.1672745,
+                        50.6817078
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "name": "Boulevard de Cambrai",
+                "oneway": "yes",
+                "ref": "D 760",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165931916,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1672745,
+                        50.6817078
+                    ],
+                    [
+                        3.1673686,
+                        50.6816544
+                    ],
+                    [
+                        3.1674906,
+                        50.6815852
+                    ],
+                    [
+                        3.1675949,
+                        50.6815209
+                    ],
+                    [
+                        3.1676672,
+                        50.6814595
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "name": "Boulevard de Cambrai",
+                "oneway": "yes",
+                "ref": "D 760",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

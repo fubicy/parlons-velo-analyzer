@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23041341,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4035417,
+                        48.8841859
+                    ],
+                    [
+                        2.4048532,
+                        48.8842357
+                    ],
+                    [
+                        2.4051013,
+                        48.8842451
+                    ],
+                    [
+                        2.4056779,
+                        48.8842592
+                    ],
+                    [
+                        2.405792,
+                        48.8842715
+                    ],
+                    [
+                        2.4066506,
+                        48.884386
+                    ],
+                    [
+                        2.4071211,
+                        48.8844462
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Danton",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30071988,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4078725,
+                        48.8845545
+                    ],
+                    [
+                        2.4079404,
+                        48.8845695
+                    ],
+                    [
+                        2.4080557,
+                        48.884596
+                    ],
+                    [
+                        2.4082786,
+                        48.884647
+                    ],
+                    [
+                        2.4091659,
+                        48.8848998
+                    ],
+                    [
+                        2.4102351,
+                        48.8851676
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Danton",
+                "oneway": "yes",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97696719,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4071211,
+                        48.8844462
+                    ],
+                    [
+                        2.4075252,
+                        48.8845051
+                    ],
+                    [
+                        2.4077564,
+                        48.884538
+                    ],
+                    [
+                        2.4078725,
+                        48.8845545
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Danton",
+                "oneway": "no",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,529 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 11992545,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.244021,
+                        48.8335061
+                    ],
+                    [
+                        2.2439527,
+                        48.833532
+                    ],
+                    [
+                        2.2438872,
+                        48.8335593
+                    ],
+                    [
+                        2.2438076,
+                        48.8336014
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32552772,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2555107,
+                        48.8314994
+                    ],
+                    [
+                        2.2556525,
+                        48.8314167
+                    ],
+                    [
+                        2.2558251,
+                        48.8313751
+                    ],
+                    [
+                        2.2569291,
+                        48.8311186
+                    ],
+                    [
+                        2.2570339,
+                        48.8310978
+                    ],
+                    [
+                        2.257065,
+                        48.8310916
+                    ],
+                    [
+                        2.2572292,
+                        48.831059
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32553256,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2581665,
+                        48.8309235
+                    ],
+                    [
+                        2.2579832,
+                        48.8310024
+                    ],
+                    [
+                        2.2575943,
+                        48.8310996
+                    ],
+                    [
+                        2.2575464,
+                        48.831113
+                    ],
+                    [
+                        2.2573169,
+                        48.8311631
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "ref": "D 50",
+                "sidewalk": "no",
+                "source": "Bing",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90825465,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2530212,
+                        48.8320094
+                    ],
+                    [
+                        2.2530938,
+                        48.8319907
+                    ],
+                    [
+                        2.2534009,
+                        48.831943
+                    ],
+                    [
+                        2.2567976,
+                        48.8311102
+                    ],
+                    [
+                        2.2569291,
+                        48.8311186
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "source": "survey",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102154913,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2573169,
+                        48.8311631
+                    ],
+                    [
+                        2.257175,
+                        48.8311922
+                    ],
+                    [
+                        2.2569265,
+                        48.8312421
+                    ],
+                    [
+                        2.2560628,
+                        48.8314156
+                    ],
+                    [
+                        2.2556439,
+                        48.8315014
+                    ],
+                    [
+                        2.2555107,
+                        48.8314994
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Boulogne centre",
+                "highway": "secondary",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102154914,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2572292,
+                        48.831059
+                    ],
+                    [
+                        2.2576743,
+                        48.8309643
+                    ],
+                    [
+                        2.2579089,
+                        48.8309131
+                    ],
+                    [
+                        2.2580717,
+                        48.8308524
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "destination": "Issy-les-Moulineaux",
+                "highway": "primary",
+                "lanes": "3",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "ref": "D 50",
+                "sidewalk": "right",
+                "source": "Bing",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130584043,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2530784,
+                        48.8320763
+                    ],
+                    [
+                        2.253273,
+                        48.8320295
+                    ],
+                    [
+                        2.2533825,
+                        48.8320054
+                    ],
+                    [
+                        2.2534025,
+                        48.832001
+                    ],
+                    [
+                        2.2534437,
+                        48.8319918
+                    ],
+                    [
+                        2.253626,
+                        48.8319471
+                    ],
+                    [
+                        2.2555107,
+                        48.8314994
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard de la R\u00e9publique",
+                "parking:condition:left": "ticket",
+                "parking:lane:left": "parallel",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130584044,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2517545,
+                        48.832378
+                    ],
+                    [
+                        2.2520337,
+                        48.8323301
+                    ],
+                    [
+                        2.2520949,
+                        48.8323164
+                    ],
+                    [
+                        2.2522907,
+                        48.8322685
+                    ],
+                    [
+                        2.2526477,
+                        48.8321849
+                    ],
+                    [
+                        2.2527555,
+                        48.8321613
+                    ],
+                    [
+                        2.2528487,
+                        48.8321384
+                    ],
+                    [
+                        2.2528939,
+                        48.8321271
+                    ],
+                    [
+                        2.2529192,
+                        48.8321208
+                    ],
+                    [
+                        2.2530784,
+                        48.8320763
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard de la R\u00e9publique",
+                "parking:lane:both": "no_parking",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188135505,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2445557,
+                        48.8333889
+                    ],
+                    [
+                        2.2462836,
+                        48.8330115
+                    ],
+                    [
+                        2.2474217,
+                        48.8328791
+                    ],
+                    [
+                        2.2480795,
+                        48.8328042
+                    ],
+                    [
+                        2.2483496,
+                        48.8327709
+                    ],
+                    [
+                        2.2484757,
+                        48.8327449
+                    ],
+                    [
+                        2.2486091,
+                        48.8327329
+                    ],
+                    [
+                        2.2492663,
+                        48.8326588
+                    ],
+                    [
+                        2.249735,
+                        48.832606
+                    ],
+                    [
+                        2.2498743,
+                        48.8325894
+                    ],
+                    [
+                        2.2499936,
+                        48.8325766
+                    ],
+                    [
+                        2.2502231,
+                        48.8325497
+                    ],
+                    [
+                        2.2503505,
+                        48.8325363
+                    ],
+                    [
+                        2.2514151,
+                        48.8324197
+                    ],
+                    [
+                        2.2514701,
+                        48.8324139
+                    ],
+                    [
+                        2.2515351,
+                        48.8324062
+                    ],
+                    [
+                        2.2517545,
+                        48.832378
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard de la R\u00e9publique",
+                "parking:condition:both": "ticket",
+                "parking:lane:both": "parallel",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188516256,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2441645,
+                        48.8334739
+                    ],
+                    [
+                        2.2445557,
+                        48.8333889
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard de la R\u00e9publique",
+                "parking:condition:right": "ticket",
+                "parking:lane:right": "perpendicular",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307467056,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.244021,
+                        48.8335061
+                    ],
+                    [
+                        2.2441645,
+                        48.8334739
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard de la R\u00e9publique",
+                "parking:lane:both": "no_parking",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307467057,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2437584,
+                        48.8335286
+                    ],
+                    [
+                        2.2439028,
+                        48.8335172
+                    ],
+                    [
+                        2.244021,
+                        48.8335061
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "ref": "D 50",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

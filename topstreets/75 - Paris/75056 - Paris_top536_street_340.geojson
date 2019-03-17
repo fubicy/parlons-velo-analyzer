@@ -1,0 +1,132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29179111,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3981266,
+                        48.8860881
+                    ],
+                    [
+                        2.3981596,
+                        48.8861754
+                    ],
+                    [
+                        2.3981504,
+                        48.8862763
+                    ],
+                    [
+                        2.3981419,
+                        48.8863697
+                    ],
+                    [
+                        2.3981385,
+                        48.8864069
+                    ],
+                    [
+                        2.3981335,
+                        48.8864623
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue de la Marseillaise",
+                "oneway": "yes",
+                "psv": "opposite_lane",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97979558,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3980094,
+                        48.8878262
+                    ],
+                    [
+                        2.3979979,
+                        48.8879955
+                    ],
+                    [
+                        2.3979612,
+                        48.8885351
+                    ],
+                    [
+                        2.3979487,
+                        48.8886653
+                    ],
+                    [
+                        2.3979399,
+                        48.888757
+                    ],
+                    [
+                        2.3979379,
+                        48.8887773
+                    ],
+                    [
+                        2.3978855,
+                        48.8893221
+                    ],
+                    [
+                        2.3978707,
+                        48.8893643
+                    ],
+                    [
+                        2.3978259,
+                        48.8894919
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "cycleway:right": "track",
+                "highway": "residential",
+                "name": "Rue de la Marseillaise",
+                "oneway": "yes",
+                "psv": "opposite_lane",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 592051491,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3981335,
+                        48.8864623
+                    ],
+                    [
+                        2.3980094,
+                        48.8878262
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "cycleway:right": "track",
+                "highway": "residential",
+                "name": "Rue de la Marseillaise",
+                "oneway": "yes",
+                "psv": "opposite_lane",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

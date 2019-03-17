@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31194262,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1871155,
+                        48.9097788
+                    ],
+                    [
+                        2.1870296,
+                        48.9098567
+                    ],
+                    [
+                        2.1864858,
+                        48.9102975
+                    ],
+                    [
+                        2.1864343,
+                        48.910337
+                    ],
+                    [
+                        2.1863721,
+                        48.9103756
+                    ],
+                    [
+                        2.1862769,
+                        48.9103857
+                    ],
+                    [
+                        2.186188,
+                        48.9103881
+                    ],
+                    [
+                        2.1861008,
+                        48.9103695
+                    ],
+                    [
+                        2.1852638,
+                        48.9100621
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "unclassified",
+                "maxspeed:backward": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Aristide Briand",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 660661793,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1852638,
+                        48.9100621
+                    ],
+                    [
+                        2.1843912,
+                        48.9097227
+                    ],
+                    [
+                        2.1842547,
+                        48.9096783
+                    ],
+                    [
+                        2.1841276,
+                        48.9096581
+                    ],
+                    [
+                        2.183989,
+                        48.9096652
+                    ],
+                    [
+                        2.18244,
+                        48.9098718
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "unclassified",
+                "maxspeed:forward": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Aristide Briand",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

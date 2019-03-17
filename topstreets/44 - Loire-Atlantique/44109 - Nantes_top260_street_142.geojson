@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 502473080,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5161924,
+                        47.2379662
+                    ],
+                    [
+                        -1.5162876,
+                        47.2383232
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Souillarderie",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "SOUI5",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 509634375,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5159443,
+                        47.2377404
+                    ],
+                    [
+                        -1.5157096,
+                        47.2378652
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Souillarderie",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "SOUI4",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

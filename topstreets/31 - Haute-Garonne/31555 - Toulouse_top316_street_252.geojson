@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 551042006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3864185,
+                        43.5702868
+                    ],
+                    [
+                        1.3866554,
+                        43.570237
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Mespl\u00e9",
+                "public_transport": "platform",
+                "ref": "4770",
+                "source": "https://www.tisseo.fr",
+                "source:date": "2017-09-04",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551042007,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3866751,
+                        43.5702947
+                    ],
+                    [
+                        1.3864389,
+                        43.5703463
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Mespl\u00e9",
+                "public_transport": "platform",
+                "ref": "4771",
+                "source": "https://www.tisseo.fr",
+                "source:date": "2017-09-04",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

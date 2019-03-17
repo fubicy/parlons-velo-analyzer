@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 596607518,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.595098,
+                        49.2140404
+                    ],
+                    [
+                        2.5953939,
+                        49.2144303
+                    ],
+                    [
+                        2.5956554,
+                        49.2147916
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue de Compi\u00e8gne",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left;through",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 596607519,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5930566,
+                        49.2112818
+                    ],
+                    [
+                        2.5934978,
+                        49.2118759
+                    ],
+                    [
+                        2.5940832,
+                        49.2126732
+                    ],
+                    [
+                        2.5946649,
+                        49.2134611
+                    ],
+                    [
+                        2.595098,
+                        49.2140404
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Compi\u00e8gne",
+                "overtaking": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

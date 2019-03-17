@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23866585,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3674086,
+                        49.1782435
+                    ],
+                    [
+                        -0.367339,
+                        49.1782269
+                    ],
+                    [
+                        -0.3672771,
+                        49.1782323
+                    ],
+                    [
+                        -0.3672356,
+                        49.1782504
+                    ],
+                    [
+                        -0.3669738,
+                        49.1783908
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "living_street",
+                "name": "Rue Grusse",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234236723,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3662469,
+                        49.1780144
+                    ],
+                    [
+                        -0.365098,
+                        49.1789159
+                    ],
+                    [
+                        -0.3649953,
+                        49.1789769
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Grusse",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385668130,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3669738,
+                        49.1783908
+                    ],
+                    [
+                        -0.3662469,
+                        49.1780144
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Grusse",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

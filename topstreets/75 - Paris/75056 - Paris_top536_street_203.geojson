@@ -1,0 +1,490 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039657,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3555506,
+                        48.884049
+                    ],
+                    [
+                        2.3555099,
+                        48.883964
+                    ],
+                    [
+                        2.354798,
+                        48.8826898
+                    ],
+                    [
+                        2.3544949,
+                        48.8821472
+                    ],
+                    [
+                        2.3543326,
+                        48.881861
+                    ],
+                    [
+                        2.3543143,
+                        48.8818289
+                    ],
+                    [
+                        2.3542787,
+                        48.881797
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Maubeuge",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36856355,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3523217,
+                        48.8805026
+                    ],
+                    [
+                        2.3523183,
+                        48.8805597
+                    ],
+                    [
+                        2.3523675,
+                        48.8806048
+                    ],
+                    [
+                        2.3524983,
+                        48.8806019
+                    ],
+                    [
+                        2.352526,
+                        48.8806175
+                    ],
+                    [
+                        2.352621,
+                        48.880671
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue de Maubeuge",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36942573,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3540946,
+                        48.8815633
+                    ],
+                    [
+                        2.3541249,
+                        48.8816143
+                    ],
+                    [
+                        2.3541406,
+                        48.881651
+                    ],
+                    [
+                        2.3541372,
+                        48.8816825
+                    ],
+                    [
+                        2.354091,
+                        48.8817531
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Maubeuge",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155078830,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3523217,
+                        48.8805026
+                    ],
+                    [
+                        2.3521621,
+                        48.880465
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "name": "Rue de Maubeuge",
+                "oneway": "yes",
+                "sidewalk": "separate",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164505093,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3490372,
+                        48.8795386
+                    ],
+                    [
+                        2.3487394,
+                        48.8794496
+                    ],
+                    [
+                        2.3485666,
+                        48.879398
+                    ],
+                    [
+                        2.3484015,
+                        48.8793487
+                    ],
+                    [
+                        2.3480045,
+                        48.8792301
+                    ],
+                    [
+                        2.3474148,
+                        48.8790538
+                    ],
+                    [
+                        2.3472831,
+                        48.8790148
+                    ],
+                    [
+                        2.3470912,
+                        48.8789589
+                    ],
+                    [
+                        2.3465294,
+                        48.8787953
+                    ],
+                    [
+                        2.3459547,
+                        48.8786279
+                    ],
+                    [
+                        2.3459042,
+                        48.8786107
+                    ],
+                    [
+                        2.3453335,
+                        48.8784364
+                    ],
+                    [
+                        2.3450231,
+                        48.8783464
+                    ],
+                    [
+                        2.3447254,
+                        48.8782074
+                    ],
+                    [
+                        2.3444562,
+                        48.8780786
+                    ],
+                    [
+                        2.3428303,
+                        48.8773009
+                    ],
+                    [
+                        2.3427353,
+                        48.877255
+                    ],
+                    [
+                        2.3423713,
+                        48.8770766
+                    ],
+                    [
+                        2.3422049,
+                        48.876998
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "name": "Rue de Maubeuge",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164505094,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3495234,
+                        48.8796827
+                    ],
+                    [
+                        2.349361,
+                        48.8796346
+                    ],
+                    [
+                        2.3490372,
+                        48.8795386
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Maubeuge",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 187434579,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3413019,
+                        48.8765541
+                    ],
+                    [
+                        2.3410961,
+                        48.8764636
+                    ],
+                    [
+                        2.3402716,
+                        48.8760733
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Maubeuge",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197513502,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3422049,
+                        48.876998
+                    ],
+                    [
+                        2.3419239,
+                        48.8768627
+                    ],
+                    [
+                        2.3414598,
+                        48.8766297
+                    ],
+                    [
+                        2.3413931,
+                        48.876596
+                    ],
+                    [
+                        2.3413019,
+                        48.8765541
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Maubeuge",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362231949,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3401642,
+                        48.8760249
+                    ],
+                    [
+                        2.3399777,
+                        48.8759349
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "name": "Rue de Maubeuge",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362231953,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3521621,
+                        48.880465
+                    ],
+                    [
+                        2.3521118,
+                        48.8804501
+                    ],
+                    [
+                        2.3513371,
+                        48.8802205
+                    ],
+                    [
+                        2.3510661,
+                        48.8801401
+                    ],
+                    [
+                        2.3509646,
+                        48.8801114
+                    ],
+                    [
+                        2.3497824,
+                        48.8797595
+                    ],
+                    [
+                        2.3495234,
+                        48.8796827
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "name": "Rue de Maubeuge",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362310467,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.352621,
+                        48.880671
+                    ],
+                    [
+                        2.3539997,
+                        48.8815107
+                    ],
+                    [
+                        2.3540946,
+                        48.8815633
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue de Maubeuge",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

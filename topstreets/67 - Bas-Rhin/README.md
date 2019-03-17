@@ -48,7 +48,7 @@ Sur l'ensemble du département, il y a eu 2702 réponses dont 2317 réponses ave
 |67458 - Schweighouse-sur-Moder&nbsp;&#124;&nbsp;<a href='67458 - Schweighouse-sur-Moder_top1.md'>Top 10</a>|2|1(50%)|<img src="../../img/bar_0.gif" />&nbsp;1|
 |67462 - Sélestat&nbsp;&#124;&nbsp;<a href='67462 - Sélestat_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='67462 - Sélestat_top17.md'>Top 30</a>|90|25(27%)|<img src="../../img/bar_4.gif" />&nbsp;17|
 |67471 - Souffelweyersheim&nbsp;&#124;&nbsp;<a href='67471 - Souffelweyersheim_top2.md'>Top 10</a>|6|2(33%)|<img src="../../img/bar_0.gif" />&nbsp;2|
-|67482 - Strasbourg&nbsp;&#124;&nbsp;<a href='67482 - Strasbourg_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='67482 - Strasbourg_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='67482 - Strasbourg_top50.md'>Top 50</a>|2014|1826(90%)|<img src="../../img/bar_57.gif" />&nbsp;216|
+|67482 - Strasbourg&nbsp;&#124;&nbsp;<a href='67482 - Strasbourg_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='67482 - Strasbourg_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='67482 - Strasbourg_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='67482 - Strasbourg_top216.md'>Top 1000</a>|2014|1826(90%)|<img src="../../img/bar_57.gif" />&nbsp;216|
 |67485 - Stutzheim-Offenheim|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |67506 - Vendenheim&nbsp;&#124;&nbsp;<a href='67506 - Vendenheim_top5.md'>Top 10</a>|13|10(76%)|<img src="../../img/bar_1.gif" />&nbsp;5|
 |67507 - Villé|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|

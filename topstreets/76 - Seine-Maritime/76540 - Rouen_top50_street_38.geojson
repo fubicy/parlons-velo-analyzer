@@ -1,0 +1,814 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25156156,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0861858,
+                        49.435012
+                    ],
+                    [
+                        1.0861654,
+                        49.4349668
+                    ],
+                    [
+                        1.0861091,
+                        49.4348943
+                    ],
+                    [
+                        1.0860676,
+                        49.4348423
+                    ],
+                    [
+                        1.0859955,
+                        49.4347306
+                    ],
+                    [
+                        1.0857006,
+                        49.4342506
+                    ],
+                    [
+                        1.0856301,
+                        49.4341264
+                    ],
+                    [
+                        1.0852047,
+                        49.4334272
+                    ],
+                    [
+                        1.0851055,
+                        49.4332814
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25212905,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.079149,
+                        49.4305597
+                    ],
+                    [
+                        1.0793572,
+                        49.4306079
+                    ],
+                    [
+                        1.0794567,
+                        49.4306328
+                    ],
+                    [
+                        1.0801034,
+                        49.4307946
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "-1",
+                "maxheight": "3.5",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "vehicle:conditional": "delivery @ (weight>7.5)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31282882,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0831531,
+                        49.4316602
+                    ],
+                    [
+                        1.0836649,
+                        49.4318827
+                    ],
+                    [
+                        1.0838,
+                        49.4319281
+                    ],
+                    [
+                        1.0841889,
+                        49.4321544
+                    ],
+                    [
+                        1.0844696,
+                        49.432346
+                    ],
+                    [
+                        1.0847172,
+                        49.4325463
+                    ]
+                ]
+            },
+            "properties": {
+                "cutting": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117340084,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0794712,
+                        49.4307711
+                    ],
+                    [
+                        1.0789106,
+                        49.4306473
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "layer": "-1",
+                "maxheight": "3.5",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117340085,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0808978,
+                        49.4311486
+                    ],
+                    [
+                        1.0801298,
+                        49.4309409
+                    ],
+                    [
+                        1.0794712,
+                        49.4307711
+                    ]
+                ]
+            },
+            "properties": {
+                "cutting": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152122013,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0830667,
+                        49.4317565
+                    ],
+                    [
+                        1.082683,
+                        49.4316181
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "-1",
+                "maxheight": "3.5",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152122242,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.082758,
+                        49.4315195
+                    ],
+                    [
+                        1.0831531,
+                        49.4316602
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "-1",
+                "maxheight": "3.5",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152122249,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.082683,
+                        49.4316181
+                    ],
+                    [
+                        1.0819885,
+                        49.4314237
+                    ]
+                ]
+            },
+            "properties": {
+                "cutting": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160327635,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.081205,
+                        49.4311073
+                    ],
+                    [
+                        1.0820452,
+                        49.4313081
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "-1",
+                "maxheight": "3.5",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160327636,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0820452,
+                        49.4313081
+                    ],
+                    [
+                        1.082758,
+                        49.4315195
+                    ]
+                ]
+            },
+            "properties": {
+                "cutting": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163807753,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0811419,
+                        49.4312088
+                    ],
+                    [
+                        1.0808978,
+                        49.4311486
+                    ]
+                ]
+            },
+            "properties": {
+                "cutting": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163807754,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0819885,
+                        49.4314237
+                    ],
+                    [
+                        1.0811419,
+                        49.4312088
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "-1",
+                "maxheight": "3.5",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "tunnel": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166726152,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0852875,
+                        49.4332029
+                    ],
+                    [
+                        1.0853167,
+                        49.4332412
+                    ],
+                    [
+                        1.0853492,
+                        49.4332915
+                    ],
+                    [
+                        1.0858212,
+                        49.4340691
+                    ],
+                    [
+                        1.085844,
+                        49.4341092
+                    ],
+                    [
+                        1.0858872,
+                        49.4341889
+                    ],
+                    [
+                        1.085996,
+                        49.4342788
+                    ],
+                    [
+                        1.0860566,
+                        49.434421
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166726153,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0847172,
+                        49.4325463
+                    ],
+                    [
+                        1.0849479,
+                        49.4327915
+                    ],
+                    [
+                        1.0851729,
+                        49.433064
+                    ],
+                    [
+                        1.0852875,
+                        49.4332029
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166726154,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0842937,
+                        49.432422
+                    ],
+                    [
+                        1.0841689,
+                        49.4323199
+                    ],
+                    [
+                        1.0835927,
+                        49.4319994
+                    ],
+                    [
+                        1.0830667,
+                        49.4317565
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "cutting": "yes",
+                "foot": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxheight": "3.5",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166726155,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0851055,
+                        49.4332814
+                    ],
+                    [
+                        1.0850581,
+                        49.433236
+                    ],
+                    [
+                        1.0850305,
+                        49.4331915
+                    ],
+                    [
+                        1.0847664,
+                        49.432836
+                    ],
+                    [
+                        1.0842937,
+                        49.432422
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxheight": "3.5",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166726156,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0808978,
+                        49.4311486
+                    ],
+                    [
+                        1.0802799,
+                        49.4310517
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190975831,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0801034,
+                        49.4307946
+                    ],
+                    [
+                        1.0805688,
+                        49.4309487
+                    ],
+                    [
+                        1.081205,
+                        49.4311073
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "cutting": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxheight": "3.5",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "vehicle:conditional": "delivery @ (weight>7.5)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 370830491,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0794412,
+                        49.4308342
+                    ],
+                    [
+                        1.0792897,
+                        49.4307948
+                    ],
+                    [
+                        1.0792285,
+                        49.430779
+                    ],
+                    [
+                        1.0790981,
+                        49.4307459
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "turn:lanes": "through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 460185689,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0798739,
+                        49.4309468
+                    ],
+                    [
+                        1.0794412,
+                        49.4308342
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "turn:lanes": "through|through|slight_right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 460185690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0802799,
+                        49.4310517
+                    ],
+                    [
+                        1.0798739,
+                        49.4309468
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "turn:lanes": "through;slight_right|slight_right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 603523222,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0860566,
+                        49.434421
+                    ],
+                    [
+                        1.0861192,
+                        49.4345186
+                    ],
+                    [
+                        1.0862104,
+                        49.4346568
+                    ],
+                    [
+                        1.086304,
+                        49.4347648
+                    ],
+                    [
+                        1.08634,
+                        49.4348058
+                    ],
+                    [
+                        1.0864053,
+                        49.4348811
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue de Bretagne",
+                "oneway": "yes",
+                "ref": "D 840",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

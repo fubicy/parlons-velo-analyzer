@@ -1,0 +1,215 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 21835210,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9200872,
+                        45.5686001
+                    ],
+                    [
+                        5.920125,
+                        45.5685919
+                    ],
+                    [
+                        5.9202781,
+                        45.5685563
+                    ],
+                    [
+                        5.9205707,
+                        45.5684806
+                    ],
+                    [
+                        5.9208864,
+                        45.5684138
+                    ],
+                    [
+                        5.9209907,
+                        45.5683918
+                    ],
+                    [
+                        5.9210764,
+                        45.5683722
+                    ],
+                    [
+                        5.9211677,
+                        45.5683553
+                    ],
+                    [
+                        5.9212076,
+                        45.5683472
+                    ],
+                    [
+                        5.9212351,
+                        45.5683395
+                    ],
+                    [
+                        5.9213216,
+                        45.5683128
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard du Mus\u00e9e",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 257027697,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9201879,
+                        45.5684771
+                    ],
+                    [
+                        5.9200679,
+                        45.5685202
+                    ],
+                    [
+                        5.9211708,
+                        45.5680088
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "designaed",
+                "highway": "residential",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "name": "Boulevard du Mus\u00e9e",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "oneway:psv": "no",
+                "psv": "designated",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 257027698,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9209561,
+                        45.5680364
+                    ],
+                    [
+                        5.9207544,
+                        45.5681949
+                    ],
+                    [
+                        5.9206197,
+                        45.5683184
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bus": "designaed",
+                "highway": "service",
+                "name": "Boulevard du Mus\u00e9e",
+                "oneway": "yes",
+                "psv": "designated",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 257027700,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9206197,
+                        45.5683184
+                    ],
+                    [
+                        5.9208533,
+                        45.5682495
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bus": "designaed",
+                "highway": "service",
+                "name": "Boulevard du Mus\u00e9e",
+                "oneway": "yes",
+                "psv": "designated",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 257027701,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9206197,
+                        45.5683184
+                    ],
+                    [
+                        5.9201879,
+                        45.5684771
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bus": "designaed",
+                "highway": "service",
+                "lanes": "2",
+                "name": "Boulevard du Mus\u00e9e",
+                "psv": "designated",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362273431,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9208533,
+                        45.5682495
+                    ],
+                    [
+                        5.9211408,
+                        45.5681785
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bus": "designaed",
+                "highway": "service",
+                "name": "Boulevard du Mus\u00e9e",
+                "oneway": "yes",
+                "psv": "designated",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25843866,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.751769,
+                        48.6080259
+                    ],
+                    [
+                        7.7517715,
+                        48.6081217
+                    ],
+                    [
+                        7.7517751,
+                        48.608261
+                    ],
+                    [
+                        7.7517904,
+                        48.6088525
+                    ],
+                    [
+                        7.7517898,
+                        48.6088984
+                    ],
+                    [
+                        7.7517836,
+                        48.6093751
+                    ],
+                    [
+                        7.7517814,
+                        48.6095485
+                    ],
+                    [
+                        7.7517757,
+                        48.6097667
+                    ],
+                    [
+                        7.7517765,
+                        48.6097922
+                    ],
+                    [
+                        7.7517778,
+                        48.6098309
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_shared_lane",
+                "highway": "residential",
+                "lcn": "yes",
+                "lit": "yes",
+                "name": "Rue de la Charrue",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25843867,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7522756,
+                        48.6108122
+                    ],
+                    [
+                        7.7521427,
+                        48.6106546
+                    ],
+                    [
+                        7.7519569,
+                        48.6103184
+                    ],
+                    [
+                        7.7518435,
+                        48.610077
+                    ],
+                    [
+                        7.7517871,
+                        48.6100146
+                    ],
+                    [
+                        7.7517778,
+                        48.6098309
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lcn": "yes",
+                "lit": "yes",
+                "name": "Rue de la Charrue",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25844537,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7524155,
+                        48.6110059
+                    ],
+                    [
+                        7.753095,
+                        48.610909
+                    ],
+                    [
+                        7.7533486,
+                        48.6108498
+                    ],
+                    [
+                        7.7537465,
+                        48.6107406
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de la Charrue",
+                "noexit": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 460694918,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7525123,
+                        48.6111231
+                    ],
+                    [
+                        7.7524155,
+                        48.6110059
+                    ],
+                    [
+                        7.7522756,
+                        48.6108122
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lcn": "yes",
+                "name": "Rue de la Charrue",
+                "oneway": "yes",
+                "source": "Direction G\u00e9n\u00e9rale des Finances Publiques - cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 41503120,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.035578,
+                        47.3184091
+                    ],
+                    [
+                        5.0354996,
+                        47.3183987
+                    ],
+                    [
+                        5.0353129,
+                        47.3184144
+                    ],
+                    [
+                        5.0352065,
+                        47.3184457
+                    ],
+                    [
+                        5.0347523,
+                        47.3186089
+                    ],
+                    [
+                        5.0343287,
+                        47.3187679
+                    ],
+                    [
+                        5.0340491,
+                        47.3188896
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Cr\u00e9billon",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41503122,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0359022,
+                        47.3181902
+                    ],
+                    [
+                        5.0356928,
+                        47.3183086
+                    ],
+                    [
+                        5.0356128,
+                        47.3183524
+                    ],
+                    [
+                        5.035578,
+                        47.3184091
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Cr\u00e9billon",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

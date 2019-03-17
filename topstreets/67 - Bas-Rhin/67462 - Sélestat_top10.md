@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 90 réponses dont 25 réponses avec une rue
 
 17 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Route de Colmar | 4 | 4% | <img src="../../img/bar_16.gif" />&nbsp;16%|
-| Route de Strasbourg | 3 | 3% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Rue du Sand | 2 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Place de la République | 2 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Boulevard de Nancy | 2 | 2% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rue du Président Poincaré | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue du Giessen | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue d'Ebersheim | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue Sainte-Foy | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue Saint-Léonard | 1 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| **Total** | 18 | 20% | 72%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Route de Colmar | 4 | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| Route de Strasbourg | 3 | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| Rue du Sand | 2 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Place de la République | 2 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Boulevard de Nancy | 2 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Rue du Président Poincaré | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue du Giessen | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue d'Ebersheim | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue Sainte-Foy | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue Saint-Léonard | 1 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| **Total** | 18 | 100%|

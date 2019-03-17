@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 385799460,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8652007,
+                        45.778427
+                    ],
+                    [
+                        4.8652098,
+                        45.7785453
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Tonkin",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2992",
+                "route_ref": "C17A:A",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385799461,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8646983,
+                        45.7790027
+                    ],
+                    [
+                        4.8649215,
+                        45.778985
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Tonkin",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "44018",
+                "route_ref": "C26A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385799462,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8651063,
+                        45.7784484
+                    ],
+                    [
+                        4.8650964,
+                        45.7783472
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Tonkin",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2993",
+                "route_ref": "69A:A,C17A:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

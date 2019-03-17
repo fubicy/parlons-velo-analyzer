@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5035926,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.439759,
+                        43.5288202
+                    ],
+                    [
+                        5.4398055,
+                        43.5288002
+                    ],
+                    [
+                        5.4403236,
+                        43.5285806
+                    ],
+                    [
+                        5.4407685,
+                        43.5283761
+                    ],
+                    [
+                        5.4408975,
+                        43.5283168
+                    ],
+                    [
+                        5.4409846,
+                        43.5282767
+                    ],
+                    [
+                        5.4410852,
+                        43.5282328
+                    ],
+                    [
+                        5.441473,
+                        43.5280521
+                    ],
+                    [
+                        5.4421479,
+                        43.5277377
+                    ],
+                    [
+                        5.4421891,
+                        43.5277186
+                    ],
+                    [
+                        5.4422805,
+                        43.5276763
+                    ],
+                    [
+                        5.4423809,
+                        43.5276343
+                    ],
+                    [
+                        5.4426972,
+                        43.5275019
+                    ],
+                    [
+                        5.4430966,
+                        43.5273266
+                    ],
+                    [
+                        5.4432472,
+                        43.5272653
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:both": "lane",
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:bus": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5072468,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.439759,
+                        43.5288202
+                    ],
+                    [
+                        5.4393721,
+                        43.5290126
+                    ],
+                    [
+                        5.4393367,
+                        43.5290302
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:bus": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88754314,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4392436,
+                        43.528996
+                    ],
+                    [
+                        5.439295,
+                        43.5289785
+                    ],
+                    [
+                        5.4393491,
+                        43.52896
+                    ],
+                    [
+                        5.439759,
+                        43.5288202
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:bus": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16617952,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6999446,
+                        48.4038874
+                    ],
+                    [
+                        2.6997656,
+                        48.4039962
+                    ],
+                    [
+                        2.6995867,
+                        48.404105
+                    ],
+                    [
+                        2.6992563,
+                        48.4043033
+                    ],
+                    [
+                        2.6982153,
+                        48.4046581
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de France",
+                "oneway": "yes",
+                "source": "Route500",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 304496366,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6982153,
+                        48.4046581
+                    ],
+                    [
+                        2.69662,
+                        48.4051958
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de France",
+                "oneway": "yes",
+                "source": "Route500",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 304496367,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.69662,
+                        48.4051958
+                    ],
+                    [
+                        2.6949582,
+                        48.4057653
+                    ],
+                    [
+                        2.6942671,
+                        48.4059936
+                    ],
+                    [
+                        2.6920134,
+                        48.4067606
+                    ],
+                    [
+                        2.6895554,
+                        48.4076383
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "foot": "yes",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de France",
+                "oneway": "yes",
+                "source": "Route500",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

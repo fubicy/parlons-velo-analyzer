@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23786563,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3913017,
+                        43.6343401
+                    ],
+                    [
+                        1.3913335,
+                        43.6343486
+                    ],
+                    [
+                        1.3917738,
+                        43.6344668
+                    ],
+                    [
+                        1.3918955,
+                        43.6344927
+                    ],
+                    [
+                        1.3921102,
+                        43.6345069
+                    ],
+                    [
+                        1.3929321,
+                        43.6345227
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Pasteur",
+                "ref": "D 1d",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33701500,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3968589,
+                        43.6346716
+                    ],
+                    [
+                        1.3967883,
+                        43.6346713
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "20",
+                "name": "Rue Pasteur",
+                "oneway": "yes",
+                "traffic_calming": "table",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 260615009,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3967883,
+                        43.6346713
+                    ],
+                    [
+                        1.3960804,
+                        43.6346642
+                    ],
+                    [
+                        1.3952036,
+                        43.634587
+                    ],
+                    [
+                        1.395144,
+                        43.6345811
+                    ],
+                    [
+                        1.3947745,
+                        43.6345447
+                    ],
+                    [
+                        1.3947189,
+                        43.6345392
+                    ],
+                    [
+                        1.3946463,
+                        43.634539
+                    ],
+                    [
+                        1.3937254,
+                        43.6345363
+                    ],
+                    [
+                        1.3930632,
+                        43.6345241
+                    ],
+                    [
+                        1.3929321,
+                        43.6345227
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pasteur",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

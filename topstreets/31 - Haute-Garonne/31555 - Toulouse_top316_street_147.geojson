@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4612378,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4527041,
+                        43.605929
+                    ],
+                    [
+                        1.4530296,
+                        43.6059638
+                    ],
+                    [
+                        1.4538291,
+                        43.6060754
+                    ],
+                    [
+                        1.4539439,
+                        43.6060928
+                    ],
+                    [
+                        1.4540308,
+                        43.6061059
+                    ],
+                    [
+                        1.4541087,
+                        43.6061158
+                    ],
+                    [
+                        1.4545672,
+                        43.606174
+                    ],
+                    [
+                        1.4549979,
+                        43.6062392
+                    ],
+                    [
+                        1.455066,
+                        43.6062495
+                    ],
+                    [
+                        1.4558362,
+                        43.6063579
+                    ],
+                    [
+                        1.4559091,
+                        43.6063692
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Gabriel P\u00e9ri",
+                "name:oc": "Carri\u00e8ra Gabriel P\u00e9ri",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8063949,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4491012,
+                        43.6054044
+                    ],
+                    [
+                        1.4492294,
+                        43.6054609
+                    ],
+                    [
+                        1.4493323,
+                        43.6054878
+                    ],
+                    [
+                        1.450321,
+                        43.6056196
+                    ],
+                    [
+                        1.4503831,
+                        43.6056278
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Gabriel P\u00e9ri",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee_per_hour": "12\u20ac",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:residents": "PERI",
+                "parking:condition:both:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 hours",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "parallel",
+                "parking:lane:both:capacity": "16",
+                "parking:lane:both:parallel": "on_street",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 315778510,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4527041,
+                        43.605929
+                    ],
+                    [
+                        1.4526093,
+                        43.6059186
+                    ],
+                    [
+                        1.4523018,
+                        43.6058842
+                    ],
+                    [
+                        1.4522358,
+                        43.605874
+                    ],
+                    [
+                        1.4512091,
+                        43.605733
+                    ],
+                    [
+                        1.4511484,
+                        43.6057251
+                    ],
+                    [
+                        1.4503831,
+                        43.6056278
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Gabriel P\u00e9ri",
+                "name:oc": "Carri\u00e8ra Gabriel P\u00e9ri",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee_per_hour": "12\u20ac",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:residents": "PERI",
+                "parking:condition:both:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 hours",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "parallel",
+                "parking:lane:both:capacity": "42",
+                "parking:lane:both:parallel": "on_street",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

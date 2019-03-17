@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27818035,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2213886,
+                        48.9200175
+                    ],
+                    [
+                        2.2204776,
+                        48.9206619
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Bezons",
+                "oneway": "yes",
+                "ref": "D 992",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8581930,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6802009,
+                        48.1101782
+                    ],
+                    [
+                        -1.6801974,
+                        48.1101187
+                    ],
+                    [
+                        -1.6801967,
+                        48.1100985
+                    ],
+                    [
+                        -1.6801953,
+                        48.1100758
+                    ],
+                    [
+                        -1.6801929,
+                        48.109966
+                    ],
+                    [
+                        -1.6801925,
+                        48.1099449
+                    ],
+                    [
+                        -1.6801912,
+                        48.1099189
+                    ],
+                    [
+                        -1.680187,
+                        48.1098484
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "cycleway": "share_busway",
+                "foot": "yes",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Nemours",
+                "name:br": "Straed Nemours",
+                "old_name": "Pont de Nemours",
+                "psv": "designated",
+                "source:maxspeed": "Survey 01/2016",
+                "source:name:br": "nom d'un tron\u00e7on voisin",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10273925,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.680187,
+                        48.1098484
+                    ],
+                    [
+                        -1.6801839,
+                        48.1097831
+                    ],
+                    [
+                        -1.6801833,
+                        48.1097699
+                    ],
+                    [
+                        -1.6801759,
+                        48.1095531
+                    ],
+                    [
+                        -1.6801684,
+                        48.1094059
+                    ],
+                    [
+                        -1.6801654,
+                        48.1093432
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "cycleway": "share_busway",
+                "highway": "residential",
+                "name": "Rue de Nemours",
+                "name:br": "Straed Nemours",
+                "psv": "designated",
+                "source:name:br": "nom d'un tron\u00e7on voisin",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25323943,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6802751,
+                        48.1074675
+                    ],
+                    [
+                        -1.680235,
+                        48.1075391
+                    ],
+                    [
+                        -1.6802038,
+                        48.1076443
+                    ],
+                    [
+                        -1.6801285,
+                        48.1078985
+                    ],
+                    [
+                        -1.6801219,
+                        48.1079502
+                    ],
+                    [
+                        -1.6801233,
+                        48.1081007
+                    ],
+                    [
+                        -1.6801261,
+                        48.108175
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bicycle": "permissive",
+                "foot": "permissive",
+                "highway": "unclassified",
+                "horse": "permissive",
+                "lanes": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "permissive",
+                "name": "Rue de Nemours",
+                "name:br": "Straed Nemours",
+                "oneway": "bus=no",
+                "psv": "opposite_lane",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49275048,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6801654,
+                        48.1093432
+                    ],
+                    [
+                        -1.6801644,
+                        48.1092798
+                    ],
+                    [
+                        -1.6801476,
+                        48.1088223
+                    ],
+                    [
+                        -1.6801431,
+                        48.1087018
+                    ],
+                    [
+                        -1.6801407,
+                        48.1086362
+                    ],
+                    [
+                        -1.6801367,
+                        48.1085867
+                    ],
+                    [
+                        -1.6801357,
+                        48.1085609
+                    ],
+                    [
+                        -1.6801307,
+                        48.1083392
+                    ],
+                    [
+                        -1.6801261,
+                        48.108175
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "name": "Rue de Nemours",
+                "name:br": "Straed Nemours",
+                "psv": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 267055687,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4189072,
+                        43.3034983
+                    ],
+                    [
+                        5.4186347,
+                        43.3034622
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "incline": "down",
+                "level": "0;-1",
+                "name": "Saint-Barnab\u00e9",
+                "railway": "subway_entrance",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 420371088,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.418913,
+                        43.3034762
+                    ],
+                    [
+                        5.4186404,
+                        43.3034401
+                    ]
+                ]
+            },
+            "properties": {
+                "conveying": "forward",
+                "highway": "steps",
+                "incline": "down",
+                "level": "0;-1",
+                "name": "Saint-Barnab\u00e9",
+                "railway": "subway_entrance",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 420371089,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4189187,
+                        43.3034542
+                    ],
+                    [
+                        5.4186461,
+                        43.3034181
+                    ]
+                ]
+            },
+            "properties": {
+                "conveying": "backward",
+                "highway": "steps",
+                "incline": "down",
+                "level": "0;-1",
+                "name": "Saint-Barnab\u00e9",
+                "railway": "subway_entrance",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

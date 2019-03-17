@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 123 réponses dont 68 réponses avec une ru
 
 21 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue Boucicaut | 21 | 17% | <img src="../../img/bar_30.gif" />&nbsp;30%|
-| La Coulée Verte | 7 | 5% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Avenue Paul Langevin | 6 | 4% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rue Jean Jaurès | 5 | 4% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Avenue Jean Moulin | 4 | 3% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue Antoine Petit | 3 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Avenue Lombart | 3 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue d'Estienne d'Orves | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue Robert Marchand | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Avenue du Général Leclerc | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 55 | 44% | 80%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue Boucicaut | 21 | <img src="../../img/bar_38.gif" />&nbsp;38%|
+| La Coulée Verte | 7 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Avenue Paul Langevin | 6 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Rue Jean Jaurès | 5 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Avenue Jean Moulin | 4 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rue Antoine Petit | 3 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Avenue Lombart | 3 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue d'Estienne d'Orves | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue Robert Marchand | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Avenue du Général Leclerc | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 55 | 100%|

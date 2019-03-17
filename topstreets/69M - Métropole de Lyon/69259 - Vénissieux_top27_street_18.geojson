@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 381442778,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8538578,
+                        45.7291281
+                    ],
+                    [
+                        4.8538511,
+                        45.7293616
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Moulin \u00e0 Vent",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2095",
+                "route_ref": "C12A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

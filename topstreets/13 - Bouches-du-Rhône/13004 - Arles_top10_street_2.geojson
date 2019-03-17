@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 80185989,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.632318,
+                        43.6750719
+                    ],
+                    [
+                        4.6321255,
+                        43.6750903
+                    ],
+                    [
+                        4.6313241,
+                        43.675163
+                    ],
+                    [
+                        4.6309055,
+                        43.6752014
+                    ],
+                    [
+                        4.6302968,
+                        43.6752496
+                    ],
+                    [
+                        4.6296661,
+                        43.6752941
+                    ],
+                    [
+                        4.6290095,
+                        43.6753347
+                    ],
+                    [
+                        4.6288607,
+                        43.6753379
+                    ],
+                    [
+                        4.628732,
+                        43.6753307
+                    ],
+                    [
+                        4.6281324,
+                        43.6752931
+                    ],
+                    [
+                        4.6279046,
+                        43.6752749
+                    ],
+                    [
+                        4.6270994,
+                        43.6752124
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard des Lices",
+                "ref": "N 113",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174916190,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.6270994,
+                        43.6752124
+                    ],
+                    [
+                        4.6266191,
+                        43.6751857
+                    ],
+                    [
+                        4.6265066,
+                        43.6751388
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed:type": "FR:urban",
+                "name": "Boulevard des Lices",
+                "ref": "N 113",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

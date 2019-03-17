@@ -1,0 +1,150 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25850133,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1014741,
+                        49.4391863
+                    ],
+                    [
+                        1.1015049,
+                        49.4392379
+                    ],
+                    [
+                        1.1019093,
+                        49.4398811
+                    ],
+                    [
+                        1.1019341,
+                        49.4399224
+                    ],
+                    [
+                        1.1019693,
+                        49.4399768
+                    ],
+                    [
+                        1.1021283,
+                        49.440269
+                    ],
+                    [
+                        1.1021447,
+                        49.4402954
+                    ],
+                    [
+                        1.1021776,
+                        49.4403484
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Armand Carrel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25850135,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1021776,
+                        49.4403484
+                    ],
+                    [
+                        1.1022198,
+                        49.4404191
+                    ],
+                    [
+                        1.1022372,
+                        49.440447
+                    ],
+                    [
+                        1.1024238,
+                        49.440746
+                    ],
+                    [
+                        1.1024593,
+                        49.4407985
+                    ],
+                    [
+                        1.1028018,
+                        49.4413051
+                    ],
+                    [
+                        1.102825,
+                        49.4413394
+                    ],
+                    [
+                        1.1028713,
+                        49.4414144
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Armand Carrel",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192748230,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0998692,
+                        49.4365674
+                    ],
+                    [
+                        1.0999094,
+                        49.4366427
+                    ],
+                    [
+                        1.1004706,
+                        49.4375654
+                    ],
+                    [
+                        1.1007145,
+                        49.4379646
+                    ],
+                    [
+                        1.1008966,
+                        49.4382586
+                    ],
+                    [
+                        1.1009247,
+                        49.4383045
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Armand Carrel",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

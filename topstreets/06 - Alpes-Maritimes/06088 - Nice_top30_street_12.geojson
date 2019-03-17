@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25406062,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.2649592,
+                        43.7081989
+                    ],
+                    [
+                        7.2643962,
+                        43.709106
+                    ],
+                    [
+                        7.2642006,
+                        43.709486
+                    ],
+                    [
+                        7.264147,
+                        43.7095797
+                    ],
+                    [
+                        7.2640368,
+                        43.7097721
+                    ],
+                    [
+                        7.2639739,
+                        43.7098819
+                    ],
+                    [
+                        7.263561,
+                        43.7106574
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "name": "Avenue Villermont",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37975415,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.263561,
+                        43.7106574
+                    ],
+                    [
+                        7.2634217,
+                        43.7109214
+                    ],
+                    [
+                        7.263411,
+                        43.7109373
+                    ],
+                    [
+                        7.2632318,
+                        43.7112784
+                    ],
+                    [
+                        7.2631808,
+                        43.711505
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue Villermont",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

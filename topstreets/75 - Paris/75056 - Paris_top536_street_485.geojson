@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 256437618,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3882417,
+                        48.8632458
+                    ],
+                    [
+                        2.3881272,
+                        48.8632016
+                    ],
+                    [
+                        2.3880682,
+                        48.863176
+                    ],
+                    [
+                        2.3880478,
+                        48.863163
+                    ],
+                    [
+                        2.3880058,
+                        48.8630354
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Place Auguste M\u00e9tivier",
+                "oneway": "yes",
+                "source": "survey:2014",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7654118,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.885665,
+                        45.7542677
+                    ],
+                    [
+                        4.8856561,
+                        45.7543381
+                    ],
+                    [
+                        4.8856495,
+                        45.7543903
+                    ],
+                    [
+                        4.8856245,
+                        45.7545886
+                    ],
+                    [
+                        4.8856158,
+                        45.7546575
+                    ],
+                    [
+                        4.8856097,
+                        45.7547055
+                    ],
+                    [
+                        4.8856036,
+                        45.7547536
+                    ],
+                    [
+                        4.8855953,
+                        45.7548194
+                    ],
+                    [
+                        4.885586,
+                        45.7548934
+                    ],
+                    [
+                        4.8855827,
+                        45.7549195
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Antonin Perrin",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115974092,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8851721,
+                        45.7581686
+                    ],
+                    [
+                        4.8851549,
+                        45.7582542
+                    ],
+                    [
+                        4.8851175,
+                        45.7584135
+                    ],
+                    [
+                        4.8850603,
+                        45.758702
+                    ],
+                    [
+                        4.8849821,
+                        45.7592686
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Antonin Perrin",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181422642,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8855138,
+                        45.7582759
+                    ],
+                    [
+                        4.8852933,
+                        45.7583086
+                    ],
+                    [
+                        4.8851175,
+                        45.7584135
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Antonin Perrin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 187017420,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8855827,
+                        45.7549195
+                    ],
+                    [
+                        4.885577,
+                        45.7549645
+                    ],
+                    [
+                        4.8851841,
+                        45.7580409
+                    ],
+                    [
+                        4.8851721,
+                        45.7581686
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "shared_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Antonin Perrin",
+                "note:FR": "cycleway:left=track signifie que la contre-sens cyclable a une chaus\u00e9e s\u00e9p\u00e9r\u00e9 de la chaus\u00e9e principale - car elle passe \"derri\u00e8re\" les voitures en stationnement plut\u00f4t que de juxtaposer directement le flux principal",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 286222380,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8849821,
+                        45.7592686
+                    ],
+                    [
+                        4.8849783,
+                        45.7592984
+                    ],
+                    [
+                        4.8849701,
+                        45.7593632
+                    ],
+                    [
+                        4.8849447,
+                        45.7594873
+                    ],
+                    [
+                        4.8849356,
+                        45.7595585
+                    ],
+                    [
+                        4.8849121,
+                        45.7597359
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Antonin Perrin",
+                "source": "local_knowledge",
+                "source:date": "2014-05-31",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 481384674,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8848121,
+                        45.7605017
+                    ],
+                    [
+                        4.884765,
+                        45.7608558
+                    ],
+                    [
+                        4.88477,
+                        45.7609435
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Antonin Perrin",
+                "source": "local_knowledge",
+                "source:date": "2014-05-31",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 648972786,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8848491,
+                        45.7602234
+                    ],
+                    [
+                        4.8848121,
+                        45.7605017
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Antonin Perrin",
+                "source": "local_knowledge",
+                "source:date": "2014-05-31",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 648972787,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8849121,
+                        45.7597359
+                    ],
+                    [
+                        4.8848654,
+                        45.7600896
+                    ],
+                    [
+                        4.8848491,
+                        45.7602234
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Antonin Perrin",
+                "source": "local_knowledge",
+                "source:date": "2014-05-31",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

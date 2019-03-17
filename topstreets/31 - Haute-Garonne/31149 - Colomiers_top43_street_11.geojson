@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 75072257,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3394019,
+                        43.6003564
+                    ],
+                    [
+                        1.3393878,
+                        43.6003543
+                    ],
+                    [
+                        1.3393955,
+                        43.6003262
+                    ],
+                    [
+                        1.3394096,
+                        43.6003283
+                    ],
+                    [
+                        1.3394019,
+                        43.6003564
+                    ]
+                ]
+            },
+            "properties": {
+                "building": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Armurier",
+                "network": "fr_tisseo",
+                "operator": "Tiss\u00e9o",
+                "public_transport": "platform",
+                "ref": "23321",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "wall": "no",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

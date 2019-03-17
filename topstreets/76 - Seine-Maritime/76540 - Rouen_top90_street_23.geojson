@@ -1,0 +1,343 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31270013,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0840332,
+                        49.4400746
+                    ],
+                    [
+                        1.0845312,
+                        49.4399984
+                    ],
+                    [
+                        1.0852821,
+                        49.4397474
+                    ],
+                    [
+                        1.0856556,
+                        49.4396363
+                    ],
+                    [
+                        1.0860307,
+                        49.4395518
+                    ]
+                ]
+            },
+            "properties": {
+                "access:conditional": "delivery @ (weight>7.5)",
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Quai du Havre",
+                "oneway": "yes",
+                "ref": "N 15",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31796922,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0887116,
+                        49.4390498
+                    ],
+                    [
+                        1.0885347,
+                        49.4390917
+                    ],
+                    [
+                        1.0881434,
+                        49.4391957
+                    ],
+                    [
+                        1.0862746,
+                        49.4396935
+                    ],
+                    [
+                        1.0862126,
+                        49.43971
+                    ],
+                    [
+                        1.0861319,
+                        49.4397296
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:psv": "1",
+                "maxspeed": "50",
+                "name": "Quai du Havre",
+                "oneway": "yes",
+                "ref": "N 15",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38322824,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0841012,
+                        49.4403177
+                    ],
+                    [
+                        1.0836719,
+                        49.4404269
+                    ],
+                    [
+                        1.0826721,
+                        49.4408548
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "cutting": "yes",
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxheight": "1.8",
+                "maxspeed": "30",
+                "name": "Quai du Havre",
+                "oneway": "yes",
+                "ref": "N 15",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61459858,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0826721,
+                        49.4408548
+                    ],
+                    [
+                        1.0823188,
+                        49.4410144
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "-1",
+                "maxheight": "1.9",
+                "maxspeed": "30",
+                "name": "Quai du Havre",
+                "oneway": "yes",
+                "ref": "N 15",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67427681,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0860307,
+                        49.4395518
+                    ],
+                    [
+                        1.0862607,
+                        49.4394975
+                    ],
+                    [
+                        1.0880405,
+                        49.4390691
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Quai du Havre",
+                "oneway": "yes",
+                "ref": "N 15",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198490745,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0845752,
+                        49.4401474
+                    ],
+                    [
+                        1.0841012,
+                        49.4403177
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Quai du Havre",
+                "oneway": "yes",
+                "ref": "N 15",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198490746,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0841012,
+                        49.4403177
+                    ],
+                    [
+                        1.0837298,
+                        49.4405001
+                    ],
+                    [
+                        1.0827238,
+                        49.4409202
+                    ],
+                    [
+                        1.0826951,
+                        49.4409322
+                    ],
+                    [
+                        1.0825457,
+                        49.4409999
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Quai du Havre",
+                "oneway": "yes",
+                "ref": "N 15",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 319623129,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0880405,
+                        49.4390691
+                    ],
+                    [
+                        1.0881692,
+                        49.4390484
+                    ],
+                    [
+                        1.0884105,
+                        49.4389845
+                    ],
+                    [
+                        1.0884674,
+                        49.4389695
+                    ],
+                    [
+                        1.0886436,
+                        49.4389196
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Quai du Havre",
+                "oneway": "yes",
+                "ref": "N 15",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 319623132,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0861319,
+                        49.4397296
+                    ],
+                    [
+                        1.0860314,
+                        49.4397509
+                    ],
+                    [
+                        1.0850909,
+                        49.4400221
+                    ],
+                    [
+                        1.0845752,
+                        49.4401474
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Quai du Havre",
+                "oneway": "yes",
+                "ref": "N 15",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

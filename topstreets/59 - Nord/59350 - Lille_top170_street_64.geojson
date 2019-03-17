@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29185604,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0627283,
+                        50.6371069
+                    ],
+                    [
+                        3.0628063,
+                        50.6371402
+                    ],
+                    [
+                        3.0628918,
+                        50.6371767
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "yes",
+                "foot": "yes",
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Place du G\u00e9n\u00e9ral de Gaulle",
+                "oneway": "no",
+                "reg_name": "Grand-Place",
+                "surface": "cobblestone",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123721015,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0642846,
+                        50.636745
+                    ],
+                    [
+                        3.0641619,
+                        50.6366964
+                    ],
+                    [
+                        3.0640905,
+                        50.6366924
+                    ],
+                    [
+                        3.0640372,
+                        50.6367025
+                    ],
+                    [
+                        3.063955,
+                        50.6367374
+                    ],
+                    [
+                        3.0637015,
+                        50.63696
+                    ],
+                    [
+                        3.0636378,
+                        50.6370008
+                    ],
+                    [
+                        3.0633898,
+                        50.6372336
+                    ],
+                    [
+                        3.0633095,
+                        50.6372781
+                    ],
+                    [
+                        3.0632541,
+                        50.637288
+                    ],
+                    [
+                        3.0631927,
+                        50.637284
+                    ],
+                    [
+                        3.0631036,
+                        50.637267
+                    ],
+                    [
+                        3.0628918,
+                        50.6371767
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "foot": "yes",
+                "highway": "living_street",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Place du G\u00e9n\u00e9ral de Gaulle",
+                "note": "This is no longer tertiary, this is living street since July 2011",
+                "oneway": "yes",
+                "reg_name": "Grand-Place",
+                "surface": "cobblestone",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,814 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039578,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3675966,
+                        48.8794119
+                    ],
+                    [
+                        2.3677112,
+                        48.8795504
+                    ],
+                    [
+                        2.3677943,
+                        48.8796509
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35835511,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3653832,
+                        48.8716924
+                    ],
+                    [
+                        2.365312,
+                        48.8717857
+                    ],
+                    [
+                        2.3642295,
+                        48.8731755
+                    ],
+                    [
+                        2.3641902,
+                        48.873226
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35835512,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3659221,
+                        48.8710176
+                    ],
+                    [
+                        2.3657744,
+                        48.8712025
+                    ],
+                    [
+                        2.3653832,
+                        48.8716924
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00; Jul 23-Aug 21 Su,PH 10:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37028604,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3658956,
+                        48.8774378
+                    ],
+                    [
+                        2.3661794,
+                        48.8777717
+                    ],
+                    [
+                        2.3665891,
+                        48.8782593
+                    ],
+                    [
+                        2.3671858,
+                        48.8789257
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48964074,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3671858,
+                        48.8789257
+                    ],
+                    [
+                        2.3675966,
+                        48.8794119
+                    ],
+                    [
+                        2.3679052,
+                        48.879459
+                    ],
+                    [
+                        2.3679783,
+                        48.8794702
+                    ],
+                    [
+                        2.3680526,
+                        48.8795072
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00; Apr-Sep Su,PH 10:00-20:00; Jul 23-Aug 21 Sa 14:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48964112,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3680526,
+                        48.8795072
+                    ],
+                    [
+                        2.368098,
+                        48.8795603
+                    ],
+                    [
+                        2.3689205,
+                        48.8805208
+                    ],
+                    [
+                        2.3689783,
+                        48.8805883
+                    ],
+                    [
+                        2.3694349,
+                        48.8811258
+                    ],
+                    [
+                        2.3697244,
+                        48.8814293
+                    ],
+                    [
+                        2.3698225,
+                        48.8814652
+                    ],
+                    [
+                        2.3699356,
+                        48.8814839
+                    ],
+                    [
+                        2.3700477,
+                        48.8814847
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48964115,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3680526,
+                        48.8795072
+                    ],
+                    [
+                        2.3681807,
+                        48.8795567
+                    ],
+                    [
+                        2.3697801,
+                        48.8814074
+                    ],
+                    [
+                        2.3700477,
+                        48.8814847
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "on_street",
+                "highway": "cycleway",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48964365,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3667808,
+                        48.8698948
+                    ],
+                    [
+                        2.3667464,
+                        48.8700084
+                    ],
+                    [
+                        2.3660101,
+                        48.8709597
+                    ],
+                    [
+                        2.3659221,
+                        48.8710176
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "on_street",
+                "highway": "cycleway",
+                "lit": "yes",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48964409,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3667808,
+                        48.8698948
+                    ],
+                    [
+                        2.3659936,
+                        48.8709215
+                    ],
+                    [
+                        2.3659221,
+                        48.8710176
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48965339,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3658956,
+                        48.8774378
+                    ],
+                    [
+                        2.3659699,
+                        48.8774381
+                    ],
+                    [
+                        2.3662247,
+                        48.8777472
+                    ],
+                    [
+                        2.3671901,
+                        48.8788666
+                    ],
+                    [
+                        2.3671858,
+                        48.8789257
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "on_street",
+                "highway": "cycleway",
+                "lit": "no",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60005066,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3676123,
+                        48.8688362
+                    ],
+                    [
+                        2.3675627,
+                        48.8688986
+                    ],
+                    [
+                        2.3675282,
+                        48.8689467
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "note": "v\u00e9rifier si limitation vitesse temporaire",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98900893,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3700477,
+                        48.8814847
+                    ],
+                    [
+                        2.3704203,
+                        48.88149
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169045459,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3642284,
+                        48.8732548
+                    ],
+                    [
+                        2.3636963,
+                        48.8739422
+                    ],
+                    [
+                        2.3636891,
+                        48.8739524
+                    ],
+                    [
+                        2.3636312,
+                        48.8740344
+                    ],
+                    [
+                        2.3635988,
+                        48.8740799
+                    ],
+                    [
+                        2.3635529,
+                        48.8742174
+                    ],
+                    [
+                        2.3635364,
+                        48.8743368
+                    ],
+                    [
+                        2.3635156,
+                        48.8743593
+                    ],
+                    [
+                        2.363517,
+                        48.8744391
+                    ],
+                    [
+                        2.3635411,
+                        48.8745586
+                    ],
+                    [
+                        2.3635914,
+                        48.8746817
+                    ],
+                    [
+                        2.3636974,
+                        48.8748453
+                    ],
+                    [
+                        2.3637309,
+                        48.874855
+                    ],
+                    [
+                        2.3639937,
+                        48.8751505
+                    ],
+                    [
+                        2.3643,
+                        48.8755166
+                    ],
+                    [
+                        2.3646742,
+                        48.875951
+                    ],
+                    [
+                        2.3648889,
+                        48.8761966
+                    ],
+                    [
+                        2.3648819,
+                        48.8762542
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "on_street",
+                "highway": "cycleway",
+                "lit": "yes",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 228375353,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3675282,
+                        48.8689467
+                    ],
+                    [
+                        2.367372,
+                        48.8691467
+                    ],
+                    [
+                        2.3673345,
+                        48.8691941
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "note": "v\u00e9rifier si limitation vitesse temporaire",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 606386831,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3641902,
+                        48.873226
+                    ],
+                    [
+                        2.3641492,
+                        48.8732674
+                    ],
+                    [
+                        2.3641393,
+                        48.8732802
+                    ],
+                    [
+                        2.3636297,
+                        48.8739373
+                    ],
+                    [
+                        2.3636161,
+                        48.8739588
+                    ],
+                    [
+                        2.3635398,
+                        48.8740589
+                    ],
+                    [
+                        2.3635103,
+                        48.8741379
+                    ],
+                    [
+                        2.3634848,
+                        48.8742221
+                    ],
+                    [
+                        2.3634727,
+                        48.8743937
+                    ],
+                    [
+                        2.3635009,
+                        48.8745635
+                    ],
+                    [
+                        2.3635532,
+                        48.8746922
+                    ],
+                    [
+                        2.3636417,
+                        48.8748356
+                    ],
+                    [
+                        2.363987,
+                        48.8752364
+                    ],
+                    [
+                        2.3642464,
+                        48.8755408
+                    ],
+                    [
+                        2.3644323,
+                        48.8757551
+                    ],
+                    [
+                        2.3646286,
+                        48.8759695
+                    ],
+                    [
+                        2.3648819,
+                        48.8762542
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 632440460,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3644979,
+                        48.8729085
+                    ],
+                    [
+                        2.3642284,
+                        48.8732548
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "on_street",
+                "highway": "cycleway",
+                "lit": "yes",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 632440461,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3648819,
+                        48.8762542
+                    ],
+                    [
+                        2.3650824,
+                        48.8764795
+                    ],
+                    [
+                        2.3657124,
+                        48.8772164
+                    ],
+                    [
+                        2.3657771,
+                        48.8772919
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00; Apr-Sep Su,PH 10:00-20:00; Jul 23-Aug 21 Sa 14:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 632440462,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3657771,
+                        48.8772919
+                    ],
+                    [
+                        2.3658956,
+                        48.8774378
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 632440463,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3653832,
+                        48.8716924
+                    ],
+                    [
+                        2.3653188,
+                        48.8718136
+                    ],
+                    [
+                        2.3653028,
+                        48.8718743
+                    ],
+                    [
+                        2.3644979,
+                        48.8729085
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "on_street",
+                "highway": "cycleway",
+                "lit": "yes",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 632440464,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3673345,
+                        48.8691941
+                    ],
+                    [
+                        2.3667808,
+                        48.8698948
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)",
+                "name": "Quai de Jemmapes",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

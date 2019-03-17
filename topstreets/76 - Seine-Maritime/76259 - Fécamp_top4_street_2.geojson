@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40671860,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3831501,
+                        49.7574585
+                    ],
+                    [
+                        0.3839078,
+                        49.7573136
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue du Petit Moulin",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 562762156,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3839078,
+                        49.7573136
+                    ],
+                    [
+                        0.3846636,
+                        49.7566397
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Petit Moulin",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

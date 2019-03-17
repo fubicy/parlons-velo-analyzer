@@ -1,0 +1,159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5120897,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.833302,
+                        45.7709398
+                    ],
+                    [
+                        4.8333095,
+                        45.7708946
+                    ],
+                    [
+                        4.8333816,
+                        45.7704733
+                    ],
+                    [
+                        4.8333971,
+                        45.7704286
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Pouteau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5120899,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.833302,
+                        45.7709398
+                    ],
+                    [
+                        4.8332945,
+                        45.770985
+                    ],
+                    [
+                        4.8332288,
+                        45.7713769
+                    ],
+                    [
+                        4.8332208,
+                        45.7714221
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "incline": "up",
+                "name": "Rue Pouteau",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5120900,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8331533,
+                        45.7718006
+                    ],
+                    [
+                        4.8330849,
+                        45.7722453
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "incline": "up",
+                "name": "Rue Pouteau",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5120901,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8330108,
+                        45.7726917
+                    ],
+                    [
+                        4.8330849,
+                        45.7722453
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Pouteau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5120902,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8332208,
+                        45.7714221
+                    ],
+                    [
+                        4.8332128,
+                        45.7714671
+                    ],
+                    [
+                        4.8331862,
+                        45.7716153
+                    ],
+                    [
+                        4.8331533,
+                        45.7718006
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Pouteau",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

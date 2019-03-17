@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 82715324,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0865896,
+                        49.4333671
+                    ],
+                    [
+                        1.0866948,
+                        49.4333438
+                    ],
+                    [
+                        1.0879305,
+                        49.433003
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "permissive",
+                "highway": "pedestrian",
+                "horse": "permissive",
+                "lit": "yes",
+                "motor_vehicle": "designated",
+                "name": "Place des Emmur\u00e9es",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188872166,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.088231,
+                        49.4333943
+                    ],
+                    [
+                        1.0881393,
+                        49.433409
+                    ],
+                    [
+                        1.0871784,
+                        49.4336705
+                    ],
+                    [
+                        1.0871518,
+                        49.4336796
+                    ],
+                    [
+                        1.0870418,
+                        49.4337213
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Place des Emmur\u00e9es",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

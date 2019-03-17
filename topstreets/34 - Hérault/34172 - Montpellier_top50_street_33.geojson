@@ -1,0 +1,694 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22950494,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8620553,
+                        43.6120445
+                    ],
+                    [
+                        3.8619348,
+                        43.6120551
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard des Arceaux",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22950495,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8654092,
+                        43.6117894
+                    ],
+                    [
+                        3.8651187,
+                        43.6118126
+                    ],
+                    [
+                        3.8646367,
+                        43.6118512
+                    ],
+                    [
+                        3.8645598,
+                        43.6118575
+                    ],
+                    [
+                        3.8644897,
+                        43.6118624
+                    ],
+                    [
+                        3.8636927,
+                        43.611922
+                    ],
+                    [
+                        3.8633831,
+                        43.6119458
+                    ],
+                    [
+                        3.8628569,
+                        43.6119826
+                    ],
+                    [
+                        3.8624747,
+                        43.61201
+                    ],
+                    [
+                        3.8620553,
+                        43.6120445
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard des Arceaux",
+                "oneway": "no",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25940030,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8665655,
+                        43.6114382
+                    ],
+                    [
+                        3.866672,
+                        43.6114335
+                    ],
+                    [
+                        3.8678959,
+                        43.6113524
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "yes",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Boulevard des Arceaux",
+                "parking:lane:left": "parallel",
+                "parking:lane:right": "diagonal",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27242345,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8657677,
+                        43.6114764
+                    ],
+                    [
+                        3.8657006,
+                        43.6114815
+                    ],
+                    [
+                        3.8656614,
+                        43.6114845
+                    ],
+                    [
+                        3.8651637,
+                        43.6115217
+                    ],
+                    [
+                        3.8650679,
+                        43.6115294
+                    ],
+                    [
+                        3.8645896,
+                        43.6115656
+                    ],
+                    [
+                        3.8642437,
+                        43.6115918
+                    ],
+                    [
+                        3.8636448,
+                        43.6116372
+                    ],
+                    [
+                        3.8633348,
+                        43.6116607
+                    ],
+                    [
+                        3.862727,
+                        43.6117067
+                    ],
+                    [
+                        3.8624217,
+                        43.6117299
+                    ],
+                    [
+                        3.8621348,
+                        43.6117516
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard des Arceaux",
+                "note": "FIXME",
+                "oneway": "no",
+                "parking:lane:left": "perpendicular",
+                "parking:lane:right": "diagonal",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27242405,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8621348,
+                        43.6117516
+                    ],
+                    [
+                        3.8620596,
+                        43.6117492
+                    ],
+                    [
+                        3.8619588,
+                        43.6117252
+                    ],
+                    [
+                        3.8618069,
+                        43.611682
+                    ],
+                    [
+                        3.8616369,
+                        43.6116336
+                    ],
+                    [
+                        3.8613654,
+                        43.6115567
+                    ],
+                    [
+                        3.8611554,
+                        43.6114993
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard des Arceaux",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28237467,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8658119,
+                        43.611743
+                    ],
+                    [
+                        3.8664043,
+                        43.6116953
+                    ],
+                    [
+                        3.8664257,
+                        43.6116942
+                    ],
+                    [
+                        3.8665591,
+                        43.6116848
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard des Arceaux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28248220,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8619156,
+                        43.6119449
+                    ],
+                    [
+                        3.8619271,
+                        43.611948
+                    ],
+                    [
+                        3.8620861,
+                        43.6119915
+                    ],
+                    [
+                        3.8621633,
+                        43.6119857
+                    ],
+                    [
+                        3.8624685,
+                        43.6119628
+                    ],
+                    [
+                        3.863099,
+                        43.6119155
+                    ],
+                    [
+                        3.8634449,
+                        43.6118895
+                    ],
+                    [
+                        3.8638017,
+                        43.6118628
+                    ],
+                    [
+                        3.8641184,
+                        43.611839
+                    ],
+                    [
+                        3.8644829,
+                        43.6118117
+                    ],
+                    [
+                        3.8648238,
+                        43.6117861
+                    ],
+                    [
+                        3.8651107,
+                        43.6117646
+                    ],
+                    [
+                        3.8652316,
+                        43.6117555
+                    ],
+                    [
+                        3.8654042,
+                        43.6117412
+                    ],
+                    [
+                        3.8657546,
+                        43.6117122
+                    ],
+                    [
+                        3.8657488,
+                        43.6116679
+                    ],
+                    [
+                        3.8657334,
+                        43.6115496
+                    ],
+                    [
+                        3.8657106,
+                        43.6115514
+                    ],
+                    [
+                        3.8651974,
+                        43.6115913
+                    ],
+                    [
+                        3.8650841,
+                        43.6115994
+                    ],
+                    [
+                        3.8647937,
+                        43.6116204
+                    ],
+                    [
+                        3.8644535,
+                        43.6116449
+                    ],
+                    [
+                        3.8642466,
+                        43.61166
+                    ],
+                    [
+                        3.8640859,
+                        43.6116714
+                    ],
+                    [
+                        3.8637664,
+                        43.6116944
+                    ],
+                    [
+                        3.86341,
+                        43.6117201
+                    ],
+                    [
+                        3.8630642,
+                        43.611745
+                    ],
+                    [
+                        3.862816,
+                        43.6117624
+                    ],
+                    [
+                        3.8624311,
+                        43.6117907
+                    ],
+                    [
+                        3.8621251,
+                        43.6118127
+                    ],
+                    [
+                        3.8620977,
+                        43.6118147
+                    ],
+                    [
+                        3.8620221,
+                        43.6117965
+                    ],
+                    [
+                        3.8620091,
+                        43.6117945
+                    ],
+                    [
+                        3.862004,
+                        43.6118026
+                    ],
+                    [
+                        3.8619193,
+                        43.611939
+                    ],
+                    [
+                        3.8619156,
+                        43.6119449
+                    ]
+                ]
+            },
+            "properties": {
+                "area": "yes",
+                "bicycle": "yes",
+                "covered": "arcade",
+                "foot": "designated",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "motor_vehicle": "no",
+                "name": "Boulevard des Arceaux",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136873877,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8620596,
+                        43.6117492
+                    ],
+                    [
+                        3.8620221,
+                        43.6117965
+                    ],
+                    [
+                        3.8620158,
+                        43.6118066
+                    ],
+                    [
+                        3.861931,
+                        43.6119419
+                    ],
+                    [
+                        3.8619271,
+                        43.611948
+                    ],
+                    [
+                        3.8619156,
+                        43.6119667
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Boulevard des Arceaux",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146432077,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8658495,
+                        43.6117018
+                    ],
+                    [
+                        3.8658431,
+                        43.6116603
+                    ],
+                    [
+                        3.8658208,
+                        43.6115159
+                    ],
+                    [
+                        3.8659156,
+                        43.6115058
+                    ],
+                    [
+                        3.8664079,
+                        43.6114649
+                    ],
+                    [
+                        3.8664479,
+                        43.611471
+                    ],
+                    [
+                        3.8664878,
+                        43.6114982
+                    ],
+                    [
+                        3.8665008,
+                        43.6116116
+                    ],
+                    [
+                        3.8664696,
+                        43.6116414
+                    ],
+                    [
+                        3.866427,
+                        43.6116508
+                    ],
+                    [
+                        3.8658495,
+                        43.6117018
+                    ]
+                ]
+            },
+            "properties": {
+                "area": "yes",
+                "bicycle": "yes",
+                "foot": "designated",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "motor_vehicle": "no",
+                "name": "Boulevard des Arceaux",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162938348,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8654092,
+                        43.6117894
+                    ],
+                    [
+                        3.865722,
+                        43.611767
+                    ],
+                    [
+                        3.8658119,
+                        43.611743
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard des Arceaux",
+                "oneway": "no",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 216009221,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8657677,
+                        43.6114764
+                    ],
+                    [
+                        3.8657848,
+                        43.6115687
+                    ],
+                    [
+                        3.8658023,
+                        43.6116636
+                    ],
+                    [
+                        3.8658119,
+                        43.611743
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard des Arceaux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 526111418,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8619795,
+                        43.6120012
+                    ],
+                    [
+                        3.8620553,
+                        43.6120445
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard des Arceaux",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 526111434,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8665655,
+                        43.6114382
+                    ],
+                    [
+                        3.8664482,
+                        43.6114396
+                    ],
+                    [
+                        3.8664069,
+                        43.6114401
+                    ],
+                    [
+                        3.8659255,
+                        43.6114725
+                    ],
+                    [
+                        3.8659083,
+                        43.6114745
+                    ],
+                    [
+                        3.8657677,
+                        43.6114764
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard des Arceaux",
+                "oneway": "yes",
+                "parking:lane:left": "perpendicular",
+                "parking:lane:right": "diagonal",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

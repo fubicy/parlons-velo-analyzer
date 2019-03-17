@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28363288,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1803901,
+                        48.9234523
+                    ],
+                    [
+                        2.1804241,
+                        48.9233945
+                    ],
+                    [
+                        2.1806361,
+                        48.9230343
+                    ],
+                    [
+                        2.1808077,
+                        48.9228256
+                    ],
+                    [
+                        2.1819237,
+                        48.9222615
+                    ],
+                    [
+                        2.1839749,
+                        48.9212465
+                    ],
+                    [
+                        2.1841565,
+                        48.9211599
+                    ],
+                    [
+                        2.1844851,
+                        48.9210031
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Maurice Berteaux",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

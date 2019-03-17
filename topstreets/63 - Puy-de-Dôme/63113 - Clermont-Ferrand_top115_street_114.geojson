@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 155929049,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1085815,
+                        45.7687124
+                    ],
+                    [
+                        3.1087893,
+                        45.7694374
+                    ],
+                    [
+                        3.1088202,
+                        45.7695393
+                    ],
+                    [
+                        3.108852,
+                        45.7695655
+                    ],
+                    [
+                        3.1089046,
+                        45.7695695
+                    ],
+                    [
+                        3.10967,
+                        45.7694684
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "All\u00e9e de l'Esplanade",
+                "oneway": "yes",
+                "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

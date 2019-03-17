@@ -1,0 +1,519 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 9703587,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6280527,
+                        44.9059167
+                    ],
+                    [
+                        6.6281194,
+                        44.9057657
+                    ],
+                    [
+                        6.6281867,
+                        44.9056235
+                    ],
+                    [
+                        6.6282167,
+                        44.9055446
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Savoie",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24385135,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6284171,
+                        44.9056487
+                    ],
+                    [
+                        6.628272,
+                        44.905725
+                    ],
+                    [
+                        6.6282095,
+                        44.9057829
+                    ],
+                    [
+                        6.6280527,
+                        44.9059167
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Grenoble;La Grave",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Savoie",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48491977,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6280527,
+                        44.9059167
+                    ],
+                    [
+                        6.6279823,
+                        44.9060183
+                    ],
+                    [
+                        6.6279203,
+                        44.9061106
+                    ],
+                    [
+                        6.6278741,
+                        44.9062051
+                    ],
+                    [
+                        6.6277896,
+                        44.9063845
+                    ],
+                    [
+                        6.6277469,
+                        44.9065125
+                    ],
+                    [
+                        6.6277198,
+                        44.9065991
+                    ],
+                    [
+                        6.6276933,
+                        44.9067165
+                    ],
+                    [
+                        6.6276786,
+                        44.9068282
+                    ],
+                    [
+                        6.6276712,
+                        44.9069443
+                    ],
+                    [
+                        6.627656,
+                        44.907064
+                    ],
+                    [
+                        6.6276253,
+                        44.9073333
+                    ],
+                    [
+                        6.6275949,
+                        44.9074925
+                    ],
+                    [
+                        6.6275756,
+                        44.9075956
+                    ],
+                    [
+                        6.6275423,
+                        44.907715
+                    ],
+                    [
+                        6.6274852,
+                        44.9078561
+                    ],
+                    [
+                        6.6274024,
+                        44.9079802
+                    ],
+                    [
+                        6.6273187,
+                        44.908092
+                    ],
+                    [
+                        6.6270733,
+                        44.9084245
+                    ],
+                    [
+                        6.6269366,
+                        44.9086139
+                    ],
+                    [
+                        6.6266346,
+                        44.9090073
+                    ],
+                    [
+                        6.6263813,
+                        44.9093523
+                    ],
+                    [
+                        6.6260836,
+                        44.9097542
+                    ],
+                    [
+                        6.6259924,
+                        44.9098567
+                    ],
+                    [
+                        6.6258864,
+                        44.9099736
+                    ],
+                    [
+                        6.625637,
+                        44.9101825
+                    ],
+                    [
+                        6.6251887,
+                        44.9105299
+                    ],
+                    [
+                        6.6249261,
+                        44.9107244
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Savoie",
+                "ref": "D 1091",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152264597,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6223844,
+                        44.9166143
+                    ],
+                    [
+                        6.622268,
+                        44.9168691
+                    ],
+                    [
+                        6.6220727,
+                        44.9171702
+                    ],
+                    [
+                        6.6217559,
+                        44.917524
+                    ],
+                    [
+                        6.6216529,
+                        44.917603
+                    ],
+                    [
+                        6.621381,
+                        44.917779
+                    ],
+                    [
+                        6.6210155,
+                        44.9179879
+                    ],
+                    [
+                        6.6204027,
+                        44.9183368
+                    ],
+                    [
+                        6.6196137,
+                        44.9187931
+                    ],
+                    [
+                        6.6194502,
+                        44.9188835
+                    ]
+                ]
+            },
+            "properties": {
+                "hgv:conditional": "no @ (Feb 10,17,24 07:00-18:00,22:00-24:00; Mar 3,10 07:00-18:00,22:00-24:00; Jul 21,28 07:00-19:00; Aug 4,11,18 07:00-19:00 AND weight>7.5)",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Savoie",
+                "old_ref": "N 91",
+                "ref": "D 1091",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234543289,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6240728,
+                        44.9117579
+                    ],
+                    [
+                        6.6239975,
+                        44.911955
+                    ],
+                    [
+                        6.6239697,
+                        44.9122053
+                    ],
+                    [
+                        6.6240177,
+                        44.9125647
+                    ],
+                    [
+                        6.624019,
+                        44.9127336
+                    ],
+                    [
+                        6.6239848,
+                        44.9128864
+                    ],
+                    [
+                        6.6239203,
+                        44.9129712
+                    ],
+                    [
+                        6.6238998,
+                        44.9130059
+                    ],
+                    [
+                        6.6238479,
+                        44.9130939
+                    ],
+                    [
+                        6.6236814,
+                        44.9132515
+                    ],
+                    [
+                        6.6233662,
+                        44.9135717
+                    ],
+                    [
+                        6.623106,
+                        44.9143768
+                    ],
+                    [
+                        6.6230857,
+                        44.914443
+                    ],
+                    [
+                        6.6230654,
+                        44.9145049
+                    ],
+                    [
+                        6.6230425,
+                        44.9145792
+                    ],
+                    [
+                        6.623026,
+                        44.9146258
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Savoie",
+                "ref": "D 1091",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234543290,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.623026,
+                        44.9146258
+                    ],
+                    [
+                        6.6229561,
+                        44.9148798
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Savoie",
+                "ref": "D 1091",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234543291,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6229561,
+                        44.9148798
+                    ],
+                    [
+                        6.6229357,
+                        44.9149452
+                    ],
+                    [
+                        6.6226711,
+                        44.9159078
+                    ],
+                    [
+                        6.6223844,
+                        44.9166143
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Savoie",
+                "ref": "D 1091",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234543292,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6243117,
+                        44.9112533
+                    ],
+                    [
+                        6.6242656,
+                        44.9113096
+                    ],
+                    [
+                        6.6240728,
+                        44.9117579
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Savoie",
+                "oneway": "yes",
+                "ref": "D 1091",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234543293,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6249261,
+                        44.9107244
+                    ],
+                    [
+                        6.6246463,
+                        44.9109565
+                    ],
+                    [
+                        6.6245159,
+                        44.9110612
+                    ],
+                    [
+                        6.6243576,
+                        44.9111951
+                    ],
+                    [
+                        6.6243117,
+                        44.9112533
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Savoie",
+                "oneway": "yes",
+                "ref": "D 1091",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234543294,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6240728,
+                        44.9117579
+                    ],
+                    [
+                        6.6240743,
+                        44.9116459
+                    ],
+                    [
+                        6.6241762,
+                        44.911323
+                    ],
+                    [
+                        6.6242218,
+                        44.9112105
+                    ],
+                    [
+                        6.6243362,
+                        44.9111032
+                    ],
+                    [
+                        6.6249261,
+                        44.9107244
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue de Savoie",
+                "oneway": "yes",
+                "ref": "D 1091",
+                "source:maxspeed": "FR:urban",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

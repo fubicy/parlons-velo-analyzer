@@ -1,0 +1,116 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 258138438,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6922806,
+                        44.846649
+                    ],
+                    [
+                        -0.6922387,
+                        44.8465973
+                    ],
+                    [
+                        -0.6921605,
+                        44.846474
+                    ],
+                    [
+                        -0.6921385,
+                        44.8464213
+                    ],
+                    [
+                        -0.6921294,
+                        44.8463658
+                    ],
+                    [
+                        -0.6921357,
+                        44.846285
+                    ],
+                    [
+                        -0.6921582,
+                        44.8461825
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Beaudesert",
+                "ref": "D 213 E2",
+                "surface": "asphalt",
+                "line_width": 12,
+                "line_color": "#802000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 621976201,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6921582,
+                        44.8461825
+                    ],
+                    [
+                        -0.6923801,
+                        44.8452092
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "track",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Beaudesert",
+                "ref": "D 213 E2",
+                "surface": "asphalt",
+                "line_width": 12,
+                "line_color": "#802000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 621976204,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6923801,
+                        44.8452092
+                    ],
+                    [
+                        -0.6930341,
+                        44.8422982
+                    ],
+                    [
+                        -0.6938669,
+                        44.8387336
+                    ],
+                    [
+                        -0.6939235,
+                        44.8384753
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Beaudesert",
+                "ref": "D 213 E2",
+                "surface": "asphalt",
+                "line_width": 12,
+                "line_color": "#802000"
+            }
+        }
+    ]
+}

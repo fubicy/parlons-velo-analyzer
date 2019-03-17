@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 51521007,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4339067,
+                        49.1700279
+                    ],
+                    [
+                        2.4336718,
+                        49.1714791
+                    ],
+                    [
+                        2.4336081,
+                        49.1716112
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de la R\u00e9publique",
+                "ref": "D 162",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174987937,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4139397,
+                        49.1838041
+                    ],
+                    [
+                        2.4138347,
+                        49.1836606
+                    ],
+                    [
+                        2.4129139,
+                        49.1823601
+                    ],
+                    [
+                        2.4125714,
+                        49.1818834
+                    ],
+                    [
+                        2.4117191,
+                        49.1806969
+                    ],
+                    [
+                        2.4113651,
+                        49.1802041
+                    ],
+                    [
+                        2.410483,
+                        49.1791858
+                    ],
+                    [
+                        2.4103011,
+                        49.1789922
+                    ],
+                    [
+                        2.409856,
+                        49.1785153
+                    ],
+                    [
+                        2.4095977,
+                        49.1782385
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Avenue de la R\u00e9publique",
+                "noexit": "yes",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 292419888,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4140533,
+                        49.1839861
+                    ],
+                    [
+                        2.4139828,
+                        49.1838947
+                    ],
+                    [
+                        2.4139397,
+                        49.1838041
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Avenue de la R\u00e9publique",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

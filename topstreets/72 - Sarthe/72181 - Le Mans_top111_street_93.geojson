@@ -1,0 +1,146 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23562594,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1999875,
+                        48.0140543
+                    ],
+                    [
+                        0.2000464,
+                        48.014115
+                    ],
+                    [
+                        0.2002281,
+                        48.0143046
+                    ],
+                    [
+                        0.2005465,
+                        48.0145661
+                    ],
+                    [
+                        0.2007939,
+                        48.0147271
+                    ],
+                    [
+                        0.2008309,
+                        48.0147512
+                    ],
+                    [
+                        0.2011841,
+                        48.0149413
+                    ],
+                    [
+                        0.2015707,
+                        48.0151388
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "cycleway:left": "none",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Alphonse Poitevin",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118343483,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.2015707,
+                        48.0151388
+                    ],
+                    [
+                        0.2018048,
+                        48.0152414
+                    ],
+                    [
+                        0.2019112,
+                        48.0153286
+                    ],
+                    [
+                        0.2019696,
+                        48.0153828
+                    ],
+                    [
+                        0.2020319,
+                        48.0154147
+                    ],
+                    [
+                        0.2021515,
+                        48.0154181
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Alphonse Poitevin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118343487,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.2020127,
+                        48.0155909
+                    ],
+                    [
+                        0.2019468,
+                        48.015495
+                    ],
+                    [
+                        0.2019085,
+                        48.0154538
+                    ],
+                    [
+                        0.2018615,
+                        48.0154054
+                    ],
+                    [
+                        0.20172,
+                        48.0152713
+                    ],
+                    [
+                        0.2015707,
+                        48.0151388
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Alphonse Poitevin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 238013369,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9351327,
+                        43.1194056
+                    ],
+                    [
+                        5.9348799,
+                        43.1190387
+                    ],
+                    [
+                        5.9348108,
+                        43.1189488
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "agricultural": "no",
+                "bicycle": "no",
+                "foot": "no",
+                "goods": "no",
+                "hgv": "no",
+                "highway": "unclassified",
+                "horse": "no",
+                "incline": "up",
+                "lanes": "1",
+                "motorcar": "permissive",
+                "motorcycle": "no",
+                "name": "Voie R\u00e9serv\u00e9e aux Bus",
+                "psv": "yes",
+                "surface": "asphalt",
+                "vehicle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 238013370,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9363838,
+                        43.1212913
+                    ],
+                    [
+                        5.9361226,
+                        43.1209047
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "agricultural": "no",
+                "bicycle": "no",
+                "foot": "no",
+                "goods": "no",
+                "hgv": "no",
+                "highway": "unclassified",
+                "horse": "no",
+                "incline": "down",
+                "motorcar": "permissive",
+                "motorcycle": "no",
+                "name": "Voie R\u00e9serv\u00e9e aux Bus",
+                "psv": "yes",
+                "surface": "asphalt",
+                "vehicle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

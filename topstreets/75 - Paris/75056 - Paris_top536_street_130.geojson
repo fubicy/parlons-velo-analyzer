@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16405889,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3184868,
+                        48.8748797
+                    ],
+                    [
+                        2.3185002,
+                        48.8748189
+                    ],
+                    [
+                        2.3186076,
+                        48.874386
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Rue Roy",
+                "oneway": "yes",
+                "service": "alley",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28225513,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3184761,
+                        48.8749339
+                    ],
+                    [
+                        2.3184597,
+                        48.8750251
+                    ],
+                    [
+                        2.3184155,
+                        48.8752707
+                    ],
+                    [
+                        2.3183673,
+                        48.875539
+                    ],
+                    [
+                        2.3183596,
+                        48.8755817
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Roy",
+                "oneway": "yes",
+                "wikidata": "Q3449797",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 553772530,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3184761,
+                        48.8749339
+                    ],
+                    [
+                        2.3184868,
+                        48.8748797
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Rue Roy",
+                "service": "alley",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

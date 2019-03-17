@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 261826619,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6728248,
+                        47.3937431
+                    ],
+                    [
+                        0.67305,
+                        47.3938372
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Boyer",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 261826620,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6723639,
+                        47.3936458
+                    ],
+                    [
+                        0.6721547,
+                        47.3935579
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Boyer",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

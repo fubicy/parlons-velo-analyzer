@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30348408,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3546194,
+                        48.075044
+                    ],
+                    [
+                        7.3545122,
+                        48.0745125
+                    ],
+                    [
+                        7.3544674,
+                        48.0742181
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard du Champ de Mars",
+                "oneway": "yes",
+                "operator": "TRACE",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55560451,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3547561,
+                        48.0777813
+                    ],
+                    [
+                        7.3547895,
+                        48.0776378
+                    ],
+                    [
+                        7.3547977,
+                        48.0776049
+                    ],
+                    [
+                        7.354968,
+                        48.0767301
+                    ],
+                    [
+                        7.3549459,
+                        48.0765011
+                    ],
+                    [
+                        7.3549391,
+                        48.0764574
+                    ],
+                    [
+                        7.3549054,
+                        48.0762517
+                    ],
+                    [
+                        7.3548796,
+                        48.0761066
+                    ],
+                    [
+                        7.3548368,
+                        48.0758748
+                    ],
+                    [
+                        7.35476,
+                        48.0755701
+                    ],
+                    [
+                        7.3547305,
+                        48.0754573
+                    ],
+                    [
+                        7.3546194,
+                        48.075044
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard du Champ de Mars",
+                "oneway": "yes",
+                "operator": "TRACE",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72130082,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.353894,
+                        48.078138
+                    ],
+                    [
+                        7.353967,
+                        48.0781112
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard du Champ de Mars",
+                "oneway": "yes",
+                "operator": "TRACE",
+                "public_transport": "stop_position",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76561570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.353967,
+                        48.0781112
+                    ],
+                    [
+                        7.3540194,
+                        48.0780895
+                    ],
+                    [
+                        7.3547561,
+                        48.0777813
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "cycleway:right:lane": "advisory",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard du Champ de Mars",
+                "oneway": "yes",
+                "operator": "TRACE",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

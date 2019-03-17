@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4081487,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0824941,
+                        45.7771568
+                    ],
+                    [
+                        3.0823769,
+                        45.7771849
+                    ],
+                    [
+                        3.0822842,
+                        45.7772126
+                    ],
+                    [
+                        3.0821577,
+                        45.7772292
+                    ],
+                    [
+                        3.0820911,
+                        45.7772276
+                    ],
+                    [
+                        3.0816773,
+                        45.7771766
+                    ],
+                    [
+                        3.0816406,
+                        45.7771662
+                    ],
+                    [
+                        3.0815563,
+                        45.7771365
+                    ],
+                    [
+                        3.0814857,
+                        45.7771011
+                    ],
+                    [
+                        3.0813951,
+                        45.7770708
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "secondary",
+                "maxspeed": "10",
+                "name": "Place de Jaude",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "sett",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27631859,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0820072,
+                        45.7754682
+                    ],
+                    [
+                        3.0820812,
+                        45.7754894
+                    ],
+                    [
+                        3.0821016,
+                        45.7754938
+                    ],
+                    [
+                        3.0821179,
+                        45.7754973
+                    ],
+                    [
+                        3.0826533,
+                        45.7756338
+                    ],
+                    [
+                        3.0827232,
+                        45.7756465
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "10",
+                "name": "Place de Jaude",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "paving_stones",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 467536135,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.082106,
+                        45.7750056
+                    ],
+                    [
+                        3.0824196,
+                        45.7750532
+                    ],
+                    [
+                        3.082725,
+                        45.7751025
+                    ],
+                    [
+                        3.0826783,
+                        45.7752473
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Place de Jaude",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 467536136,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0828289,
+                        45.7752717
+                    ],
+                    [
+                        3.0827232,
+                        45.7756465
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Place de Jaude",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

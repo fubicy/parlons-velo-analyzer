@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 45343011,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5524705,
+                        46.6738517
+                    ],
+                    [
+                        5.5525933,
+                        46.6740364
+                    ],
+                    [
+                        5.5527035,
+                        46.6741284
+                    ],
+                    [
+                        5.5530737,
+                        46.6743367
+                    ],
+                    [
+                        5.5533137,
+                        46.6745105
+                    ],
+                    [
+                        5.5535513,
+                        46.674731
+                    ],
+                    [
+                        5.5536938,
+                        46.6749374
+                    ],
+                    [
+                        5.5537728,
+                        46.6750719
+                    ],
+                    [
+                        5.5539057,
+                        46.675317
+                    ],
+                    [
+                        5.5539146,
+                        46.6753317
+                    ],
+                    [
+                        5.5539235,
+                        46.6753464
+                    ],
+                    [
+                        5.5539651,
+                        46.6754229
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue du Commerce",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49628963,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5539651,
+                        46.6754229
+                    ],
+                    [
+                        5.5538872,
+                        46.6755717
+                    ],
+                    [
+                        5.5538109,
+                        46.6756315
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue du Commerce",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 487219892,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5539651,
+                        46.6754229
+                    ],
+                    [
+                        5.5541571,
+                        46.6755433
+                    ],
+                    [
+                        5.5544474,
+                        46.6756684
+                    ],
+                    [
+                        5.5546922,
+                        46.6757504
+                    ],
+                    [
+                        5.5547786,
+                        46.6758828
+                    ],
+                    [
+                        5.5547947,
+                        46.675932
+                    ],
+                    [
+                        5.5548465,
+                        46.67603
+                    ],
+                    [
+                        5.554858,
+                        46.6760534
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "name": "Rue du Commerce",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

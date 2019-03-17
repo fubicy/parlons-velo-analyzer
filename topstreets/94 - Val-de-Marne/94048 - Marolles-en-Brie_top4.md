@@ -4,10 +4,10 @@ Sur l'ensemble de la ville il y a eu 46 réponses dont 8 réponses avec une rue 
 
 4 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Route Nationale 19 | 4 | 8% | <img src="../../img/bar_50.gif" />&nbsp;50%|
-| Avenue des Bruyères | 2 | 4% | <img src="../../img/bar_25.gif" />&nbsp;25%|
-| Rond-Point des Bois | 1 | 2% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Avenue de la Belle Image | 1 | 2% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| **Total** | 8 | 17% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Route Nationale 19 | 4 | <img src="../../img/bar_50.gif" />&nbsp;50%|
+| Avenue des Bruyères | 2 | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| Rond-Point des Bois | 1 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Avenue de la Belle Image | 1 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| **Total** | 8 | 100%|

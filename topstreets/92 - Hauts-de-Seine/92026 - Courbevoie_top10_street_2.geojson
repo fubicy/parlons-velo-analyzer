@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27595001,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.265861,
+                        48.8954323
+                    ],
+                    [
+                        2.2653616,
+                        48.8959412
+                    ],
+                    [
+                        2.2647165,
+                        48.8965931
+                    ]
+                ]
+            },
+            "properties": {
+                "NOM_RD": "D908",
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "maxweight": "40.00",
+                "name": "Pont de Courbevoie",
+                "oneway": "yes",
+                "ref": "D 908",
+                "source": "opendata.hauts-de-seine.net 2012",
+                "surface": "asphalt",
+                "line_width": 15,
+                "line_color": "#401000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35596053,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2645269,
+                        48.8965105
+                    ],
+                    [
+                        2.265311,
+                        48.8957446
+                    ],
+                    [
+                        2.2657398,
+                        48.8953178
+                    ]
+                ]
+            },
+            "properties": {
+                "NOM_RD": "D908",
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "maxweight": "40.00",
+                "name": "Pont de Courbevoie",
+                "oneway": "yes",
+                "ref": "D 908",
+                "source": "opendata.hauts-de-seine.net 2012",
+                "surface": "asphalt",
+                "line_width": 15,
+                "line_color": "#401000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35596066,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2653616,
+                        48.8959412
+                    ],
+                    [
+                        2.2651301,
+                        48.8960531
+                    ],
+                    [
+                        2.2646212,
+                        48.8965515
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary_link",
+                "layer": "1",
+                "name": "Pont de Courbevoie",
+                "oneway": "yes",
+                "ref": "D 908",
+                "surface": "asphalt",
+                "line_width": 15,
+                "line_color": "#401000"
+            }
+        }
+    ]
+}

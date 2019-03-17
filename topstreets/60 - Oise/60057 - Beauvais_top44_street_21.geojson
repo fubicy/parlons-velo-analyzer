@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 238298774,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0840124,
+                        49.4272738
+                    ],
+                    [
+                        2.0838665,
+                        49.4273229
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de la Tapisserie",
+                "source": "survey",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 552212927,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0823855,
+                        49.427808
+                    ],
+                    [
+                        2.0820216,
+                        49.4279236
+                    ],
+                    [
+                        2.0817717,
+                        49.4280271
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Tapisserie",
+                "source": "survey",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 552685586,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0838665,
+                        49.4273229
+                    ],
+                    [
+                        2.0837162,
+                        49.4273718
+                    ],
+                    [
+                        2.0836695,
+                        49.427387
+                    ],
+                    [
+                        2.0832821,
+                        49.427513
+                    ],
+                    [
+                        2.0828218,
+                        49.4276627
+                    ],
+                    [
+                        2.0826019,
+                        49.4277376
+                    ],
+                    [
+                        2.0823855,
+                        49.427808
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue de la Tapisserie",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009;survey",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,919 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26568524,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3223345,
+                        46.5691248
+                    ],
+                    [
+                        0.322482,
+                        46.5692253
+                    ],
+                    [
+                        0.3231056,
+                        46.5696208
+                    ],
+                    [
+                        0.3235669,
+                        46.5699214
+                    ],
+                    [
+                        0.3236611,
+                        46.570017
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38719519,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3250639,
+                        46.5709187
+                    ],
+                    [
+                        0.325158,
+                        46.5709907
+                    ],
+                    [
+                        0.3254284,
+                        46.5711976
+                    ],
+                    [
+                        0.3257609,
+                        46.5714841
+                    ],
+                    [
+                        0.3258375,
+                        46.5715442
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38937142,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3258375,
+                        46.5715442
+                    ],
+                    [
+                        0.3261378,
+                        46.5717385
+                    ],
+                    [
+                        0.326394,
+                        46.5719118
+                    ],
+                    [
+                        0.3265212,
+                        46.5719866
+                    ],
+                    [
+                        0.3265866,
+                        46.5720293
+                    ],
+                    [
+                        0.3274487,
+                        46.5725683
+                    ],
+                    [
+                        0.3276048,
+                        46.5726754
+                    ],
+                    [
+                        0.3276691,
+                        46.5727195
+                    ],
+                    [
+                        0.3282125,
+                        46.5730689
+                    ],
+                    [
+                        0.3285674,
+                        46.5733038
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38937143,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3290394,
+                        46.5736328
+                    ],
+                    [
+                        0.3291937,
+                        46.5737453
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "N 10",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42220020,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.31779,
+                        46.5646522
+                    ],
+                    [
+                        0.3175883,
+                        46.5643976
+                    ],
+                    [
+                        0.3174588,
+                        46.5642136
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "turn:lanes": "left|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116748116,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3292176,
+                        46.5739453
+                    ],
+                    [
+                        0.3290583,
+                        46.5738022
+                    ],
+                    [
+                        0.3290397,
+                        46.5737844
+                    ],
+                    [
+                        0.3289678,
+                        46.5737142
+                    ],
+                    [
+                        0.3287479,
+                        46.5735231
+                    ],
+                    [
+                        0.3286149,
+                        46.5734358
+                    ],
+                    [
+                        0.3284974,
+                        46.5733528
+                    ],
+                    [
+                        0.3275957,
+                        46.5727634
+                    ],
+                    [
+                        0.3275405,
+                        46.5727259
+                    ],
+                    [
+                        0.3274028,
+                        46.5726324
+                    ],
+                    [
+                        0.3267588,
+                        46.572217
+                    ],
+                    [
+                        0.3265306,
+                        46.5720699
+                    ],
+                    [
+                        0.3264643,
+                        46.5720236
+                    ],
+                    [
+                        0.3262934,
+                        46.5719109
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170740369,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3247473,
+                        46.5707073
+                    ],
+                    [
+                        0.3248059,
+                        46.5707462
+                    ],
+                    [
+                        0.3248262,
+                        46.570759
+                    ],
+                    [
+                        0.3250639,
+                        46.5709187
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170740370,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3236611,
+                        46.570017
+                    ],
+                    [
+                        0.3235173,
+                        46.5699361
+                    ],
+                    [
+                        0.3226934,
+                        46.5694201
+                    ],
+                    [
+                        0.3224569,
+                        46.5692724
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170740371,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3224569,
+                        46.5692724
+                    ],
+                    [
+                        0.3222725,
+                        46.5691613
+                    ],
+                    [
+                        0.322022,
+                        46.568992
+                    ],
+                    [
+                        0.3219409,
+                        46.5689361
+                    ],
+                    [
+                        0.32118,
+                        46.5684127
+                    ],
+                    [
+                        0.3207955,
+                        46.5681521
+                    ],
+                    [
+                        0.320526,
+                        46.5679732
+                    ],
+                    [
+                        0.3204068,
+                        46.5678912
+                    ],
+                    [
+                        0.320261,
+                        46.5677904
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170740372,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3197918,
+                        46.5673937
+                    ],
+                    [
+                        0.3196778,
+                        46.5672521
+                    ],
+                    [
+                        0.3194778,
+                        46.5669745
+                    ],
+                    [
+                        0.3192767,
+                        46.5667027
+                    ],
+                    [
+                        0.3190315,
+                        46.5663511
+                    ],
+                    [
+                        0.318663,
+                        46.5658623
+                    ],
+                    [
+                        0.3184696,
+                        46.5655945
+                    ],
+                    [
+                        0.3180643,
+                        46.5650205
+                    ],
+                    [
+                        0.317873,
+                        46.5647605
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203450607,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3201533,
+                        46.5677066
+                    ],
+                    [
+                        0.3200781,
+                        46.5676479
+                    ],
+                    [
+                        0.3198985,
+                        46.5675168
+                    ],
+                    [
+                        0.3197918,
+                        46.5673937
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "turn:lanes": "through|right",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 515693626,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3262934,
+                        46.5719109
+                    ],
+                    [
+                        0.3261057,
+                        46.5717736
+                    ],
+                    [
+                        0.3258375,
+                        46.5715442
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 515693628,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3285674,
+                        46.5733038
+                    ],
+                    [
+                        0.3289261,
+                        46.5735461
+                    ],
+                    [
+                        0.3290394,
+                        46.5736328
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516720109,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.317873,
+                        46.5647605
+                    ],
+                    [
+                        0.31779,
+                        46.5646522
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516721685,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3220743,
+                        46.5689579
+                    ],
+                    [
+                        0.3222198,
+                        46.5690487
+                    ],
+                    [
+                        0.3223345,
+                        46.5691248
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "turn:lanes": "left|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516721686,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.320217,
+                        46.5676643
+                    ],
+                    [
+                        0.3204945,
+                        46.567858
+                    ],
+                    [
+                        0.3212334,
+                        46.5683623
+                    ],
+                    [
+                        0.3219885,
+                        46.5688924
+                    ],
+                    [
+                        0.3220743,
+                        46.5689579
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516721687,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3198683,
+                        46.5673706
+                    ],
+                    [
+                        0.3201364,
+                        46.5676081
+                    ],
+                    [
+                        0.320217,
+                        46.5676643
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "turn:lanes": "left|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516721688,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.320261,
+                        46.5677904
+                    ],
+                    [
+                        0.3201533,
+                        46.5677066
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516721689,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3195423,
+                        46.5669203
+                    ],
+                    [
+                        0.3197488,
+                        46.5672135
+                    ],
+                    [
+                        0.3198683,
+                        46.5673706
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "turn:lanes": "left|through",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516721690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3175664,
+                        46.5641792
+                    ],
+                    [
+                        0.3179562,
+                        46.5647587
+                    ],
+                    [
+                        0.3181542,
+                        46.5650255
+                    ],
+                    [
+                        0.3185981,
+                        46.565635
+                    ],
+                    [
+                        0.3191185,
+                        46.5663615
+                    ],
+                    [
+                        0.3193559,
+                        46.5666787
+                    ],
+                    [
+                        0.3195423,
+                        46.5669203
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Avenue de la Lib\u00e9ration",
+                "cycleway": "lane",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "oneway": "yes",
+                "ref": "D 910",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516721691,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3236611,
+                        46.570017
+                    ],
+                    [
+                        0.3237059,
+                        46.5700421
+                    ],
+                    [
+                        0.3242653,
+                        46.5703838
+                    ],
+                    [
+                        0.3247473,
+                        46.5707073
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "cycleway:left": "lane",
+                "cycleway:right": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de la Lib\u00e9ration",
+                "ref": "D 910",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5985081,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8033366,
+                        45.7741796
+                    ],
+                    [
+                        4.8039954,
+                        45.7754147
+                    ],
+                    [
+                        4.8040195,
+                        45.7754702
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Jouffroy d'Abbans",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

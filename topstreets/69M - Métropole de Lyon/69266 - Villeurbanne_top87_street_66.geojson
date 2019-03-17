@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 12182453,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8775894,
+                        45.7749782
+                    ],
+                    [
+                        4.8775956,
+                        45.7738249
+                    ],
+                    [
+                        4.8775961,
+                        45.7736154
+                    ],
+                    [
+                        4.8775972,
+                        45.7732006
+                    ],
+                    [
+                        4.8776005,
+                        45.771948
+                    ],
+                    [
+                        4.8776006,
+                        45.7718936
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Mauvert",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 273934170,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8767688,
+                        45.7736091
+                    ],
+                    [
+                        4.8772547,
+                        45.7736128
+                    ],
+                    [
+                        4.8775961,
+                        45.7736154
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Mauvert",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

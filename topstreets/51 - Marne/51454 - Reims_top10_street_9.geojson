@@ -1,0 +1,274 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24918362,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0351527,
+                        49.2508702
+                    ],
+                    [
+                        4.0352502,
+                        49.2508001
+                    ],
+                    [
+                        4.0359699,
+                        49.2502745
+                    ],
+                    [
+                        4.0360723,
+                        49.2501816
+                    ],
+                    [
+                        4.0361856,
+                        49.2500682
+                    ],
+                    [
+                        4.0362706,
+                        49.2499832
+                    ],
+                    [
+                        4.0363012,
+                        49.2499526
+                    ],
+                    [
+                        4.036438,
+                        49.2498158
+                    ],
+                    [
+                        4.0368635,
+                        49.2492967
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "highway": "residential",
+                "lanes": "3",
+                "name": "Rue Gambetta",
+                "psv": "opposite_lane",
+                "sidewalk": "both",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28617203,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0369655,
+                        49.2491593
+                    ],
+                    [
+                        4.0371141,
+                        49.2489792
+                    ],
+                    [
+                        4.037148,
+                        49.2489376
+                    ],
+                    [
+                        4.0379974,
+                        49.2479501
+                    ],
+                    [
+                        4.0382244,
+                        49.2476556
+                    ],
+                    [
+                        4.0386647,
+                        49.2471461
+                    ],
+                    [
+                        4.0390196,
+                        49.2467375
+                    ],
+                    [
+                        4.0390849,
+                        49.2466684
+                    ],
+                    [
+                        4.0391467,
+                        49.2465993
+                    ],
+                    [
+                        4.0392901,
+                        49.2464676
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue Gambetta",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "psv": "opposite_lane",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29469570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0392901,
+                        49.2464676
+                    ],
+                    [
+                        4.0394832,
+                        49.2462714
+                    ],
+                    [
+                        4.0399249,
+                        49.2456293
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue Gambetta",
+                "oneway": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 237991263,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0400019,
+                        49.2455613
+                    ],
+                    [
+                        4.0401069,
+                        49.2454774
+                    ],
+                    [
+                        4.040161,
+                        49.2454316
+                    ],
+                    [
+                        4.0404081,
+                        49.2452221
+                    ],
+                    [
+                        4.0407344,
+                        49.2450226
+                    ],
+                    [
+                        4.0407761,
+                        49.2450043
+                    ],
+                    [
+                        4.0408278,
+                        49.244982
+                    ],
+                    [
+                        4.0414184,
+                        49.2447274
+                    ],
+                    [
+                        4.0421868,
+                        49.2444138
+                    ],
+                    [
+                        4.0424713,
+                        49.244267
+                    ],
+                    [
+                        4.0425917,
+                        49.2441867
+                    ],
+                    [
+                        4.0429121,
+                        49.2439001
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Gambetta",
+                "oneway": "no",
+                "source": "GPS",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616341770,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0355858,
+                        49.2492979
+                    ],
+                    [
+                        4.0351982,
+                        49.2496288
+                    ],
+                    [
+                        4.0361856,
+                        49.2500682
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Rue Gambetta",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 638517571,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0368635,
+                        49.2492967
+                    ],
+                    [
+                        4.0369655,
+                        49.2491593
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "3",
+                "name": "Rue Gambetta",
+                "psv": "opposite_lane",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

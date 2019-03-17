@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 14879071,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7564869,
+                        48.5840872
+                    ],
+                    [
+                        7.7560468,
+                        48.5838696
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "unclassified",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Pont Saint-\u00c9tienne",
+                "name:de": "Stephansbr\u00fccke",
+                "oneway": "yes",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 448150410,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7560468,
+                        48.5838696
+                    ],
+                    [
+                        7.7560006,
+                        48.5838466
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Pont Saint-\u00c9tienne",
+                "name:de": "Stephansbr\u00fccke",
+                "oneway": "yes",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

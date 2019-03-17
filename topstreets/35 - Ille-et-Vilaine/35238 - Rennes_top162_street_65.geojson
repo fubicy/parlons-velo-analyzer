@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8581929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.680262,
+                        48.1117606
+                    ],
+                    [
+                        -1.6802605,
+                        48.1117225
+                    ],
+                    [
+                        -1.6802583,
+                        48.1116669
+                    ],
+                    [
+                        -1.6802347,
+                        48.1110728
+                    ],
+                    [
+                        -1.6802313,
+                        48.1109853
+                    ],
+                    [
+                        -1.6802294,
+                        48.1109421
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "cycleway:right": "opposite_share_busway",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue de l'Horloge",
+                "name:br": "Straed an Horolaj",
+                "oneway": "bus=no",
+                "oneway:bicycle": "no",
+                "psv": "opposite_lane",
+                "source:maxspeed": "Survey 01/2016",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

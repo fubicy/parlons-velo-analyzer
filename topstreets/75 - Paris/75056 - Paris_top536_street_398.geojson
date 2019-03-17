@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 15276209,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3725721,
+                        48.860058
+                    ],
+                    [
+                        2.3729452,
+                        48.8601668
+                    ],
+                    [
+                        2.3730279,
+                        48.8601496
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Moufle",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3449253",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246384118,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3733534,
+                        48.8595588
+                    ],
+                    [
+                        2.3733828,
+                        48.8595063
+                    ],
+                    [
+                        2.3737688,
+                        48.8588173
+                    ],
+                    [
+                        2.3737956,
+                        48.8587694
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Moufle",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3449253",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 255109302,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3730279,
+                        48.8601496
+                    ],
+                    [
+                        2.3733231,
+                        48.8596138
+                    ],
+                    [
+                        2.3733534,
+                        48.8595588
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Moufle",
+                "oneway": "yes",
+                "surface": "paved",
+                "wikidata": "Q3449253",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

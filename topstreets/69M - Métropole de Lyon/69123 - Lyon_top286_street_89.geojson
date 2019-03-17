@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5984471,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8373155,
+                        45.769665
+                    ],
+                    [
+                        4.8373395,
+                        45.7696206
+                    ],
+                    [
+                        4.8374348,
+                        45.7694893
+                    ],
+                    [
+                        4.8374901,
+                        45.7692162
+                    ],
+                    [
+                        4.8375309,
+                        45.7690833
+                    ],
+                    [
+                        4.8376162,
+                        45.7690298
+                    ],
+                    [
+                        4.8376264,
+                        45.7690285
+                    ],
+                    [
+                        4.8377012,
+                        45.7690193
+                    ]
+                ]
+            },
+            "properties": {
+                "access:hgv": "delivery;destination",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxlength": "9",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Place Tolozan",
+                "note": "panneau B8 interdit transport marchandise, panonceau sauf livraison riveraine",
+                "oneway": "no",
+                "source": "maxspeed; maxweight; maxlength; delivery; destination: sign",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199258035,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8378182,
+                        45.7690182
+                    ],
+                    [
+                        4.8377012,
+                        45.7690193
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Place Tolozan",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 457076850,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8377012,
+                        45.7690193
+                    ],
+                    [
+                        4.8378222,
+                        45.7689693
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Place Tolozan",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

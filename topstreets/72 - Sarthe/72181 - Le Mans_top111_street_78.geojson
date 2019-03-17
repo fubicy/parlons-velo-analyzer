@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25049768,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1966327,
+                        48.0056346
+                    ],
+                    [
+                        0.1967288,
+                        48.0055712
+                    ],
+                    [
+                        0.1967538,
+                        48.0055544
+                    ],
+                    [
+                        0.1968317,
+                        48.0055021
+                    ],
+                    [
+                        0.1968847,
+                        48.0054663
+                    ],
+                    [
+                        0.1969042,
+                        48.0054542
+                    ],
+                    [
+                        0.1972284,
+                        48.0052381
+                    ],
+                    [
+                        0.1976658,
+                        48.0049622
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "horse": "no",
+                "lit": "yes",
+                "maxspeed": "20",
+                "motor_vehicle": "private",
+                "name": "Rue Saint-Martin",
+                "source": "source : Direction g\u00e9n\u00e9rale des imp\u00f4ts \u2013 Cadastre;mise \u00e0 jour : 2008",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121693822,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1980981,
+                        48.0046572
+                    ],
+                    [
+                        0.1976658,
+                        48.0049622
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "maxspeed": "20",
+                "motor_vehicle": "private",
+                "name": "Rue Saint-Martin",
+                "oneway": "no",
+                "source": "source : Direction g\u00e9n\u00e9rale des imp\u00f4ts \u2013 Cadastre;mise \u00e0 jour : 2008",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

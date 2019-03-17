@@ -1,0 +1,146 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4878214,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4549741,
+                        43.5264113
+                    ],
+                    [
+                        5.4550269,
+                        43.526524
+                    ],
+                    [
+                        5.4554094,
+                        43.5273739
+                    ],
+                    [
+                        5.4554576,
+                        43.5275124
+                    ],
+                    [
+                        5.4554344,
+                        43.5276258
+                    ],
+                    [
+                        5.4546846,
+                        43.5285548
+                    ],
+                    [
+                        5.4545721,
+                        43.5286692
+                    ],
+                    [
+                        5.4545128,
+                        43.5287135
+                    ],
+                    [
+                        5.4543946,
+                        43.5288018
+                    ],
+                    [
+                        5.4541481,
+                        43.5289878
+                    ],
+                    [
+                        5.4535601,
+                        43.5294315
+                    ],
+                    [
+                        5.4534534,
+                        43.529512
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Carnot",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5072464,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4547735,
+                        43.5253155
+                    ],
+                    [
+                        5.4549885,
+                        43.5254688
+                    ],
+                    [
+                        5.455044,
+                        43.5255894
+                    ],
+                    [
+                        5.4550301,
+                        43.5257855
+                    ],
+                    [
+                        5.45494,
+                        43.5263385
+                    ],
+                    [
+                        5.4549741,
+                        43.5264113
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Carnot",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 486362772,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4542312,
+                        43.5249736
+                    ],
+                    [
+                        5.454714,
+                        43.5252777
+                    ],
+                    [
+                        5.4547735,
+                        43.5253155
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:source": "FR:urban",
+                "name": "Boulevard Carnot",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

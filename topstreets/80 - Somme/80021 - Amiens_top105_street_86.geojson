@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26668301,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3070755,
+                        49.8858483
+                    ],
+                    [
+                        2.3069819,
+                        49.8858548
+                    ],
+                    [
+                        2.3062567,
+                        49.8858613
+                    ],
+                    [
+                        2.305621,
+                        49.8858595
+                    ],
+                    [
+                        2.305509,
+                        49.8858621
+                    ],
+                    [
+                        2.3053651,
+                        49.8858627
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Ducange",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71284760,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3053651,
+                        49.8858627
+                    ],
+                    [
+                        2.3052376,
+                        49.8858634
+                    ],
+                    [
+                        2.3036959,
+                        49.885879
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "name": "Rue Ducange",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

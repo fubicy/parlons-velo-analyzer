@@ -1,0 +1,102 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 2304962,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4283456,
+                        43.5849928
+                    ],
+                    [
+                        1.428526,
+                        43.5849419
+                    ],
+                    [
+                        1.4285995,
+                        43.5849264
+                    ],
+                    [
+                        1.4290071,
+                        43.5848761
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Pont de la Croix de Pierre",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31251246,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4290071,
+                        43.5848761
+                    ],
+                    [
+                        1.4286741,
+                        43.5850495
+                    ],
+                    [
+                        1.428635,
+                        43.5850655
+                    ],
+                    [
+                        1.4284642,
+                        43.5851452
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Pont de la Croix de Pierre",
+                "oneway": "yes",
+                "political_division": "canton",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 315425778,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4290071,
+                        43.5848761
+                    ],
+                    [
+                        1.4308806,
+                        43.5845533
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de la Croix de Pierre",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

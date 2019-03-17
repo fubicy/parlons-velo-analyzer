@@ -4,8 +4,8 @@ Sur l'ensemble de la ville il y a eu 7 réponses dont 3 réponses avec une rue c
 
 2 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Pont Royal | 2 | 28% | <img src="../../img/bar_66.gif" />&nbsp;66%|
-| Rond-Point des Rochers | 1 | 14% | <img src="../../img/bar_33.gif" />&nbsp;33%|
-| **Total** | 3 | 42% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Pont Royal | 2 | <img src="../../img/bar_66.gif" />&nbsp;66%|
+| Rond-Point des Rochers | 1 | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| **Total** | 3 | 100%|

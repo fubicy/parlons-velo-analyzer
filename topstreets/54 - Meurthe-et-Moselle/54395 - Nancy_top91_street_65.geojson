@@ -1,0 +1,128 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 14965010,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1741959,
+                        48.6824089
+                    ],
+                    [
+                        6.1742548,
+                        48.6824433
+                    ],
+                    [
+                        6.1755836,
+                        48.6832195
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Victor Prouv\u00e9",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151708695,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1764702,
+                        48.6837669
+                    ],
+                    [
+                        6.176623,
+                        48.6838586
+                    ],
+                    [
+                        6.1767149,
+                        48.6839227
+                    ],
+                    [
+                        6.176753,
+                        48.68394
+                    ],
+                    [
+                        6.176812,
+                        48.6839666
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Victor Prouv\u00e9",
+                "oneway": "yes",
+                "turn:lanes": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605504179,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.176812,
+                        48.6839666
+                    ],
+                    [
+                        6.177095,
+                        48.6841791
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Mairie de Quartier Mon D\u00e9sert;R\u00e9publique;Saint-S\u00e9bastien",
+                "destination:symbol": "parking",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Victor Prouv\u00e9",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605504180,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1755836,
+                        48.6832195
+                    ],
+                    [
+                        6.1764702,
+                        48.6837669
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Victor Prouv\u00e9",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8105575,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8791675,
+                        43.6100856
+                    ],
+                    [
+                        3.8794322,
+                        43.6104183
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "history": "Retrieved from v2",
+                "name": "Rue Fabre",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26287568,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8794322,
+                        43.6104183
+                    ],
+                    [
+                        3.8800512,
+                        43.6111802
+                    ]
+                ]
+            },
+            "properties": {
+                "created_by": "Potlatch 0.6b",
+                "highway": "pedestrian",
+                "history": "Retrieved from v2",
+                "name": "Rue Fabre",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

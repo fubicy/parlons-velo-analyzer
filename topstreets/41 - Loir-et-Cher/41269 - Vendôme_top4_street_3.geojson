@@ -1,0 +1,161 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28348302,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0686296,
+                        47.7979482
+                    ],
+                    [
+                        1.0685435,
+                        47.797708
+                    ],
+                    [
+                        1.0685164,
+                        47.7976387
+                    ],
+                    [
+                        1.0684523,
+                        47.7974745
+                    ],
+                    [
+                        1.068399,
+                        47.7973009
+                    ],
+                    [
+                        1.0683759,
+                        47.7971988
+                    ],
+                    [
+                        1.0683528,
+                        47.7970722
+                    ],
+                    [
+                        1.0683452,
+                        47.7970345
+                    ],
+                    [
+                        1.0682787,
+                        47.7967205
+                    ],
+                    [
+                        1.0681894,
+                        47.7962691
+                    ],
+                    [
+                        1.0681558,
+                        47.796123
+                    ],
+                    [
+                        1.0680936,
+                        47.7958526
+                    ],
+                    [
+                        1.0680343,
+                        47.7955807
+                    ],
+                    [
+                        1.0680043,
+                        47.7954675
+                    ],
+                    [
+                        1.0679419,
+                        47.795217
+                    ],
+                    [
+                        1.0679278,
+                        47.7951355
+                    ],
+                    [
+                        1.0678988,
+                        47.7949409
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Faubourg Chartrain",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 636079582,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0679647,
+                        47.794681
+                    ],
+                    [
+                        1.0679516,
+                        47.7947967
+                    ],
+                    [
+                        1.0678988,
+                        47.7949409
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Faubourg Chartrain",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 636079585,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0678988,
+                        47.7949409
+                    ],
+                    [
+                        1.0678273,
+                        47.794799
+                    ],
+                    [
+                        1.0678095,
+                        47.7947408
+                    ],
+                    [
+                        1.067805,
+                        47.7946715
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Faubourg Chartrain",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "turn:lanes": "left|right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

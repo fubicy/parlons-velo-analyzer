@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23892137,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9005573,
+                        45.7670059
+                    ],
+                    [
+                        4.8979156,
+                        45.7667527
+                    ],
+                    [
+                        4.8978495,
+                        45.766758
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Venise",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

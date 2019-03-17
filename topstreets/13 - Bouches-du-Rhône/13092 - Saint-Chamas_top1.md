@@ -4,7 +4,7 @@ Sur l'ensemble de la ville il y a eu 12 réponses dont 1 réponses avec une rue 
 
 1 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Boulevard Joliot Curie | 1 | 8% | <img src="../../img/bar_100.gif" />&nbsp;100%|
-| **Total** | 1 | 8% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Boulevard Joliot Curie | 1 | <img src="../../img/bar_100.gif" />&nbsp;100%|
+| **Total** | 1 | 100%|

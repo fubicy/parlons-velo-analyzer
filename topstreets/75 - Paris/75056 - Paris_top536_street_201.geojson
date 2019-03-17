@@ -1,0 +1,310 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24658374,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3392078,
+                        48.8767661
+                    ],
+                    [
+                        2.3392463,
+                        48.8768861
+                    ],
+                    [
+                        2.3393549,
+                        48.8772557
+                    ],
+                    [
+                        2.3393668,
+                        48.8773066
+                    ],
+                    [
+                        2.339506,
+                        48.8777882
+                    ],
+                    [
+                        2.3395231,
+                        48.877849
+                    ],
+                    [
+                        2.3395635,
+                        48.8779931
+                    ],
+                    [
+                        2.3396766,
+                        48.8783935
+                    ],
+                    [
+                        2.3396892,
+                        48.878438
+                    ],
+                    [
+                        2.3398026,
+                        48.8788779
+                    ],
+                    [
+                        2.3398124,
+                        48.878916
+                    ],
+                    [
+                        2.3398564,
+                        48.8790872
+                    ],
+                    [
+                        2.3399452,
+                        48.8792791
+                    ],
+                    [
+                        2.3399755,
+                        48.8793445
+                    ],
+                    [
+                        2.3399969,
+                        48.8793907
+                    ],
+                    [
+                        2.3401494,
+                        48.8797594
+                    ],
+                    [
+                        2.3402006,
+                        48.8798763
+                    ],
+                    [
+                        2.3402302,
+                        48.8799438
+                    ],
+                    [
+                        2.3404225,
+                        48.8803307
+                    ],
+                    [
+                        2.3403964,
+                        48.8804114
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue des Martyrs",
+                "note": "Trop de circulation motoris\u00e9e pour la consid\u00e9rer comme highway=living_street",
+                "oneway": "yes",
+                "source": "survey",
+                "source:maxspeed": "FR:zone20",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36893345,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3403964,
+                        48.8804114
+                    ],
+                    [
+                        2.3403822,
+                        48.8804404
+                    ],
+                    [
+                        2.3403577,
+                        48.8804952
+                    ],
+                    [
+                        2.3403046,
+                        48.8806175
+                    ],
+                    [
+                        2.3402436,
+                        48.8807224
+                    ],
+                    [
+                        2.3402044,
+                        48.8808037
+                    ],
+                    [
+                        2.3401889,
+                        48.8808358
+                    ],
+                    [
+                        2.3399425,
+                        48.8813264
+                    ],
+                    [
+                        2.3398421,
+                        48.8815263
+                    ],
+                    [
+                        2.3396909,
+                        48.8818499
+                    ],
+                    [
+                        2.339665,
+                        48.8819055
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Martyrs",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41814016,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3397206,
+                        48.8836974
+                    ],
+                    [
+                        2.3397255,
+                        48.883783
+                    ],
+                    [
+                        2.3397453,
+                        48.8841259
+                    ],
+                    [
+                        2.3397484,
+                        48.8841798
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "no @ (Su,PH 11:00-18:00)",
+                "name": "Rue des Martyrs",
+                "oneway": "yes",
+                "surface": "sett",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41814025,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3397225,
+                        48.8835737
+                    ],
+                    [
+                        2.3397216,
+                        48.8836315
+                    ],
+                    [
+                        2.3397206,
+                        48.8836974
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Martyrs",
+                "oneway": "no",
+                "surface": "sett",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48674042,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3396406,
+                        48.882168
+                    ],
+                    [
+                        2.3396461,
+                        48.8822424
+                    ],
+                    [
+                        2.3396915,
+                        48.882854
+                    ],
+                    [
+                        2.3397199,
+                        48.8835139
+                    ],
+                    [
+                        2.3397225,
+                        48.8835737
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "no @ (Su,PH 11:00-18:00)",
+                "name": "Rue des Martyrs",
+                "oneway": "yes",
+                "surface": "sett",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171889288,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3397661,
+                        48.8846696
+                    ],
+                    [
+                        2.3397501,
+                        48.884228
+                    ],
+                    [
+                        2.3397484,
+                        48.8841798
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "no @ (Su,PH 11:00-18:00)",
+                "name": "Rue des Martyrs",
+                "oneway": "yes",
+                "surface": "sett",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

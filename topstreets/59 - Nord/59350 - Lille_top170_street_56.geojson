@@ -1,0 +1,203 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23209407,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0708328,
+                        50.6325619
+                    ],
+                    [
+                        3.0707942,
+                        50.6326358
+                    ],
+                    [
+                        3.0707584,
+                        50.6326891
+                    ],
+                    [
+                        3.0705573,
+                        50.6330302
+                    ],
+                    [
+                        3.0704661,
+                        50.6333111
+                    ],
+                    [
+                        3.0704173,
+                        50.6334762
+                    ],
+                    [
+                        3.0704114,
+                        50.6334985
+                    ],
+                    [
+                        3.070391,
+                        50.6335776
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "name": "Rue Saint-Sauveur",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123591463,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0725631,
+                        50.6302713
+                    ],
+                    [
+                        3.0723691,
+                        50.6305196
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Saint-Sauveur",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165742064,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0719147,
+                        50.6310996
+                    ],
+                    [
+                        3.0717247,
+                        50.6313537
+                    ],
+                    [
+                        3.0716585,
+                        50.6314252
+                    ],
+                    [
+                        3.0715851,
+                        50.6315167
+                    ],
+                    [
+                        3.0715397,
+                        50.6315763
+                    ],
+                    [
+                        3.0712886,
+                        50.6319056
+                    ],
+                    [
+                        3.0712796,
+                        50.6319169
+                    ],
+                    [
+                        3.0710603,
+                        50.6321926
+                    ],
+                    [
+                        3.0709734,
+                        50.6323326
+                    ],
+                    [
+                        3.0708934,
+                        50.6324613
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "name": "Rue Saint-Sauveur",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 206131981,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0723691,
+                        50.6305196
+                    ],
+                    [
+                        3.0722089,
+                        50.6307355
+                    ],
+                    [
+                        3.0719147,
+                        50.6310996
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Saint-Sauveur",
+                "surface": "cobblestone",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 206131982,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0708934,
+                        50.6324613
+                    ],
+                    [
+                        3.0708833,
+                        50.6324771
+                    ],
+                    [
+                        3.0708328,
+                        50.6325619
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "name": "Rue Saint-Sauveur",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

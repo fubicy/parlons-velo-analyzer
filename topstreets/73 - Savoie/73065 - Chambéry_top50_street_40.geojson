@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 388029085,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9040733,
+                        45.5616516
+                    ],
+                    [
+                        5.9040826,
+                        45.5616401
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Rue de l'\u00c9glise",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 388029086,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9041351,
+                        45.5615751
+                    ],
+                    [
+                        5.9040826,
+                        45.5616401
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "incline": "up",
+                "name": "Rue de l'\u00c9glise",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

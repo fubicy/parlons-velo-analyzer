@@ -1,0 +1,262 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23108461,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9013953,
+                        47.9070308
+                    ],
+                    [
+                        1.9014706,
+                        47.906947
+                    ],
+                    [
+                        1.9015355,
+                        47.9068574
+                    ],
+                    [
+                        1.901639,
+                        47.9067473
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Bannier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27922786,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.901639,
+                        47.9067473
+                    ],
+                    [
+                        1.9016258,
+                        47.906879
+                    ],
+                    [
+                        1.9016278,
+                        47.9069187
+                    ],
+                    [
+                        1.901646,
+                        47.9069782
+                    ],
+                    [
+                        1.9017469,
+                        47.9070988
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Bannier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53646086,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.901639,
+                        47.9067473
+                    ],
+                    [
+                        1.9018012,
+                        47.9065474
+                    ],
+                    [
+                        1.9019146,
+                        47.9063853
+                    ],
+                    [
+                        1.9019354,
+                        47.906354
+                    ],
+                    [
+                        1.902041,
+                        47.9061873
+                    ],
+                    [
+                        1.90206,
+                        47.9061589
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "3",
+                "maxspeed": "30",
+                "name": "Rue Bannier",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53646087,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.90206,
+                        47.9061589
+                    ],
+                    [
+                        1.9021358,
+                        47.9060167
+                    ],
+                    [
+                        1.902449,
+                        47.9053983
+                    ],
+                    [
+                        1.9026804,
+                        47.9048923
+                    ],
+                    [
+                        1.9028069,
+                        47.9045485
+                    ],
+                    [
+                        1.9028603,
+                        47.9043834
+                    ],
+                    [
+                        1.9028744,
+                        47.9043331
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Bannier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78748889,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9028744,
+                        47.9043331
+                    ],
+                    [
+                        1.90292,
+                        47.9041871
+                    ],
+                    [
+                        1.9029853,
+                        47.9040303
+                    ],
+                    [
+                        1.903135,
+                        47.9036568
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Bannier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 222859294,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.903135,
+                        47.9036568
+                    ],
+                    [
+                        1.9031286,
+                        47.9035853
+                    ],
+                    [
+                        1.9034959,
+                        47.9029898
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "motor_vehicle": "yes",
+                "name": "Rue Bannier",
+                "oneway": "yes",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 422904532,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9036566,
+                        47.9028771
+                    ],
+                    [
+                        1.9036461,
+                        47.9028899
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue Bannier",
+                "oneway": "yes",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

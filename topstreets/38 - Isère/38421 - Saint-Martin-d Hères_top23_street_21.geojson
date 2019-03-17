@@ -1,0 +1,544 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 41783715,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7496725,
+                        45.1646445
+                    ],
+                    [
+                        5.7498325,
+                        45.1645367
+                    ],
+                    [
+                        5.7498629,
+                        45.1645196
+                    ],
+                    [
+                        5.7502725,
+                        45.1642611
+                    ],
+                    [
+                        5.7505962,
+                        45.1640579
+                    ],
+                    [
+                        5.7506838,
+                        45.1640021
+                    ],
+                    [
+                        5.7507743,
+                        45.1639431
+                    ],
+                    [
+                        5.7509486,
+                        45.1638327
+                    ],
+                    [
+                        5.7510241,
+                        45.1637849
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Marcel Cachin",
+                "ref": "D 269A",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41783716,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7510241,
+                        45.1637849
+                    ],
+                    [
+                        5.7511284,
+                        45.1637235
+                    ],
+                    [
+                        5.7511751,
+                        45.163696
+                    ],
+                    [
+                        5.7512353,
+                        45.1636576
+                    ],
+                    [
+                        5.7512627,
+                        45.1636401
+                    ],
+                    [
+                        5.7513846,
+                        45.1635612
+                    ],
+                    [
+                        5.7514896,
+                        45.1634948
+                    ],
+                    [
+                        5.751569,
+                        45.163444
+                    ],
+                    [
+                        5.7516788,
+                        45.1633702
+                    ],
+                    [
+                        5.7517139,
+                        45.1633459
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Marcel Cachin",
+                "ref": "D 269A",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42386449,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7538153,
+                        45.1620022
+                    ],
+                    [
+                        5.7538846,
+                        45.1619585
+                    ],
+                    [
+                        5.7540652,
+                        45.1618446
+                    ],
+                    [
+                        5.7547126,
+                        45.1614361
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "embankment": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue Marcel Cachin",
+                "name:left": "Avenue Marcel Cachin",
+                "name:right": "Avenue Teisseire",
+                "ref": "D 269A",
+                "ref:FR:FANTOIR:right": "381580930A",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour :2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42449236,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.751569,
+                        45.163444
+                    ],
+                    [
+                        5.7516445,
+                        45.1634999
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Avenue Marcel Cachin",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour :2009",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60687613,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7527133,
+                        45.1620812
+                    ],
+                    [
+                        5.7528151,
+                        45.1621539
+                    ],
+                    [
+                        5.7528433,
+                        45.162219
+                    ],
+                    [
+                        5.752825,
+                        45.1622897
+                    ],
+                    [
+                        5.7527615,
+                        45.1623503
+                    ],
+                    [
+                        5.7520002,
+                        45.1628593
+                    ],
+                    [
+                        5.7514792,
+                        45.1631704
+                    ],
+                    [
+                        5.751385,
+                        45.1632875
+                    ],
+                    [
+                        5.751314,
+                        45.1633668
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue Marcel Cachin",
+                "parking:condition:both": "free",
+                "parking:lane:both": "perpendicular",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195101730,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7517139,
+                        45.1633459
+                    ],
+                    [
+                        5.7530876,
+                        45.1624582
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "embankment": "yes",
+                "highway": "tertiary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue Marcel Cachin",
+                "ref": "D 269A",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour :2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195280078,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7439675,
+                        45.1682363
+                    ],
+                    [
+                        5.7440729,
+                        45.1681731
+                    ],
+                    [
+                        5.7444704,
+                        45.1679348
+                    ],
+                    [
+                        5.7446904,
+                        45.1677919
+                    ],
+                    [
+                        5.7453141,
+                        45.1673967
+                    ],
+                    [
+                        5.7461683,
+                        45.1668597
+                    ],
+                    [
+                        5.7462857,
+                        45.1667908
+                    ],
+                    [
+                        5.7464054,
+                        45.1667116
+                    ],
+                    [
+                        5.7464231,
+                        45.1666999
+                    ],
+                    [
+                        5.7464551,
+                        45.1666797
+                    ],
+                    [
+                        5.7465036,
+                        45.1666492
+                    ],
+                    [
+                        5.7465303,
+                        45.1666325
+                    ],
+                    [
+                        5.746607,
+                        45.1665847
+                    ],
+                    [
+                        5.7472145,
+                        45.1662054
+                    ],
+                    [
+                        5.7474441,
+                        45.1660472
+                    ],
+                    [
+                        5.7476554,
+                        45.165913
+                    ],
+                    [
+                        5.7478108,
+                        45.1658183
+                    ],
+                    [
+                        5.7479924,
+                        45.1657051
+                    ],
+                    [
+                        5.7481676,
+                        45.1655898
+                    ],
+                    [
+                        5.7482385,
+                        45.1655474
+                    ],
+                    [
+                        5.7483032,
+                        45.1655134
+                    ],
+                    [
+                        5.7484558,
+                        45.1654196
+                    ],
+                    [
+                        5.7487295,
+                        45.1652448
+                    ],
+                    [
+                        5.7488053,
+                        45.1651976
+                    ],
+                    [
+                        5.7488465,
+                        45.165172
+                    ],
+                    [
+                        5.7488579,
+                        45.1651648
+                    ],
+                    [
+                        5.7488921,
+                        45.165143
+                    ],
+                    [
+                        5.7489199,
+                        45.1651226
+                    ],
+                    [
+                        5.7489441,
+                        45.1651075
+                    ],
+                    [
+                        5.7489521,
+                        45.1651025
+                    ],
+                    [
+                        5.749031,
+                        45.165055
+                    ],
+                    [
+                        5.7491043,
+                        45.1650072
+                    ],
+                    [
+                        5.7491717,
+                        45.1649651
+                    ],
+                    [
+                        5.7494812,
+                        45.1647655
+                    ],
+                    [
+                        5.7496725,
+                        45.1646445
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Marcel Cachin",
+                "ref": "D 269A",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 293454633,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7530876,
+                        45.1624582
+                    ],
+                    [
+                        5.7533629,
+                        45.1622852
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue Marcel Cachin",
+                "ref": "D 269A",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour :2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 293454634,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7538153,
+                        45.1620022
+                    ],
+                    [
+                        5.7533629,
+                        45.1622852
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue Marcel Cachin",
+                "ref": "D 269A",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour :2009",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 293454635,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.751314,
+                        45.1633668
+                    ],
+                    [
+                        5.7511138,
+                        45.1635095
+                    ],
+                    [
+                        5.7510619,
+                        45.1635533
+                    ],
+                    [
+                        5.7510591,
+                        45.1635926
+                    ],
+                    [
+                        5.7510937,
+                        45.1636186
+                    ],
+                    [
+                        5.751119,
+                        45.1636458
+                    ],
+                    [
+                        5.7511751,
+                        45.163696
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue Marcel Cachin",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16376477,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6999545,
+                        48.4098369
+                    ],
+                    [
+                        2.699598,
+                        48.4094915
+                    ],
+                    [
+                        2.6988691,
+                        48.4087853
+                    ],
+                    [
+                        2.6984664,
+                        48.4083951
+                    ],
+                    [
+                        2.6979924,
+                        48.4079358
+                    ],
+                    [
+                        2.6974728,
+                        48.4075667
+                    ],
+                    [
+                        2.6966246,
+                        48.4069642
+                    ],
+                    [
+                        2.6958808,
+                        48.4064291
+                    ],
+                    [
+                        2.6949582,
+                        48.4057653
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Saint-Merry",
+                "oneway": "yes",
+                "source": "Route500",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16376481,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6945402,
+                        48.4054704
+                    ],
+                    [
+                        2.6941278,
+                        48.4051794
+                    ],
+                    [
+                        2.69253,
+                        48.40407
+                    ],
+                    [
+                        2.6921521,
+                        48.4037853
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Merry",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26257440,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6921521,
+                        48.4037853
+                    ],
+                    [
+                        2.6903891,
+                        48.4025349
+                    ],
+                    [
+                        2.6902123,
+                        48.4024057
+                    ],
+                    [
+                        2.689921,
+                        48.4021929
+                    ],
+                    [
+                        2.6889723,
+                        48.4014925
+                    ],
+                    [
+                        2.6888778,
+                        48.4014248
+                    ],
+                    [
+                        2.6881981,
+                        48.4009408
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Merry",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 553217765,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6949582,
+                        48.4057653
+                    ],
+                    [
+                        2.6945402,
+                        48.4054704
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Merry",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 54378678,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7064891,
+                        48.0992629
+                    ],
+                    [
+                        -1.7066201,
+                        48.0992487
+                    ],
+                    [
+                        -1.7069598,
+                        48.0990284
+                    ],
+                    [
+                        -1.7072269,
+                        48.0988586
+                    ],
+                    [
+                        -1.7073073,
+                        48.0988179
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "name": "Square Massouah",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135597200,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7066548,
+                        48.0997689
+                    ],
+                    [
+                        -1.7067089,
+                        48.0997596
+                    ],
+                    [
+                        -1.7074335,
+                        48.0996344
+                    ],
+                    [
+                        -1.7073841,
+                        48.0993145
+                    ],
+                    [
+                        -1.7073073,
+                        48.0988179
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Square Massouah",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

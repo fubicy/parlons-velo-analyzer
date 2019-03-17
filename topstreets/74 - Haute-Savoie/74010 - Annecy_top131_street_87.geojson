@@ -1,0 +1,238 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23220210,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1213614,
+                        45.9007671
+                    ],
+                    [
+                        6.1214209,
+                        45.9008186
+                    ],
+                    [
+                        6.1214703,
+                        45.9008444
+                    ],
+                    [
+                        6.1215223,
+                        45.9008557
+                    ],
+                    [
+                        6.1217636,
+                        45.9009066
+                    ],
+                    [
+                        6.1218801,
+                        45.9009461
+                    ],
+                    [
+                        6.1219557,
+                        45.9009678
+                    ],
+                    [
+                        6.1220642,
+                        45.9010053
+                    ],
+                    [
+                        6.1221872,
+                        45.9010534
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Vaugelas",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23727564,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1270967,
+                        45.901514
+                    ],
+                    [
+                        6.1270297,
+                        45.9014718
+                    ],
+                    [
+                        6.126954,
+                        45.9014549
+                    ],
+                    [
+                        6.1268601,
+                        45.9014591
+                    ],
+                    [
+                        6.1267473,
+                        45.9014763
+                    ],
+                    [
+                        6.1265192,
+                        45.9015214
+                    ],
+                    [
+                        6.12638,
+                        45.9015483
+                    ],
+                    [
+                        6.1263002,
+                        45.9015604
+                    ],
+                    [
+                        6.1262114,
+                        45.9015641
+                    ],
+                    [
+                        6.126097,
+                        45.9015604
+                    ],
+                    [
+                        6.1259846,
+                        45.9015485
+                    ],
+                    [
+                        6.1254843,
+                        45.9014607
+                    ],
+                    [
+                        6.125269,
+                        45.9014261
+                    ],
+                    [
+                        6.1243196,
+                        45.9013275
+                    ],
+                    [
+                        6.1242498,
+                        45.9013204
+                    ],
+                    [
+                        6.1241594,
+                        45.9013109
+                    ],
+                    [
+                        6.1230157,
+                        45.9011916
+                    ],
+                    [
+                        6.1228773,
+                        45.9011752
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "opposite_share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Vaugelas",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35965807,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1219036,
+                        45.9010349
+                    ],
+                    [
+                        6.1219272,
+                        45.9010296
+                    ],
+                    [
+                        6.1220642,
+                        45.9010053
+                    ],
+                    [
+                        6.1221336,
+                        45.9010092
+                    ],
+                    [
+                        6.122207,
+                        45.9010132
+                    ],
+                    [
+                        6.1227576,
+                        45.9011318
+                    ],
+                    [
+                        6.1228773,
+                        45.9011752
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "cycleway:right": "share_busway",
+                "foot": "yes",
+                "highway": "service",
+                "motorcar": "no",
+                "motorcycle": "no",
+                "name": "Rue Vaugelas",
+                "oneway": "yes",
+                "psv": "designated",
+                "service": "bus",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37760414,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1221872,
+                        45.9010534
+                    ],
+                    [
+                        6.1227384,
+                        45.901168
+                    ],
+                    [
+                        6.1228773,
+                        45.9011752
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue Vaugelas",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

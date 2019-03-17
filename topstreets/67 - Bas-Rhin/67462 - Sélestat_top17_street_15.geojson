@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30044855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.4554738,
+                        48.2607291
+                    ],
+                    [
+                        7.4553406,
+                        48.2607566
+                    ],
+                    [
+                        7.4553992,
+                        48.260915
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "residential",
+                "name": "Impasse de l'\u00c9glise",
+                "narrow": "yes",
+                "source_ref": "cadastre",
+                "surface": "cobblestone",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

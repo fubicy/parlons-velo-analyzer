@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26547712,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1895531,
+                        47.9988607
+                    ],
+                    [
+                        0.1896327,
+                        47.9988508
+                    ],
+                    [
+                        0.1913378,
+                        47.9986375
+                    ],
+                    [
+                        0.1913637,
+                        47.9986342
+                    ],
+                    [
+                        0.1914256,
+                        47.9986265
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Leboindre",
+                "oneway": "no",
+                "parking:condition:right": "free",
+                "parking:lane:right": "parallel",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

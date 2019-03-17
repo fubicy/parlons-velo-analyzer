@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 44674266,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0909569,
+                        45.7724902
+                    ],
+                    [
+                        3.090926,
+                        45.7725188
+                    ],
+                    [
+                        3.090884,
+                        45.7725577
+                    ],
+                    [
+                        3.0908494,
+                        45.7725858
+                    ],
+                    [
+                        3.0909781,
+                        45.7726831
+                    ],
+                    [
+                        3.0916127,
+                        45.773405
+                    ],
+                    [
+                        3.0916152,
+                        45.7734488
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de l'\u00c9cho",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

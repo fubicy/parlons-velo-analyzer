@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23065752,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3360184,
+                        48.8070189
+                    ],
+                    [
+                        2.3360817,
+                        48.8071
+                    ],
+                    [
+                        2.3362751,
+                        48.8073556
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Stalingrad",
+                "ref": "D 258",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23065759,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3382401,
+                        48.8099903
+                    ],
+                    [
+                        2.3386717,
+                        48.8104426
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Stalingrad",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23065760,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3386717,
+                        48.8104426
+                    ],
+                    [
+                        2.3390157,
+                        48.8108634
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Stalingrad",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39177711,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3362751,
+                        48.8073556
+                    ],
+                    [
+                        2.3363355,
+                        48.8074641
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Stalingrad",
+                "oneway": "no",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377771601,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3363355,
+                        48.8074641
+                    ],
+                    [
+                        2.336374,
+                        48.8075094
+                    ],
+                    [
+                        2.3367612,
+                        48.8079774
+                    ],
+                    [
+                        2.3372189,
+                        48.808705
+                    ],
+                    [
+                        2.3375022,
+                        48.8091233
+                    ],
+                    [
+                        2.3377845,
+                        48.8094911
+                    ],
+                    [
+                        2.338153,
+                        48.809896
+                    ],
+                    [
+                        2.3382401,
+                        48.8099903
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Stalingrad",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

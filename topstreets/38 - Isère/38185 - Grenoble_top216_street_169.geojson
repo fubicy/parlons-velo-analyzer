@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23440909,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7112433,
+                        45.1811525
+                    ],
+                    [
+                        5.7121814,
+                        45.1811222
+                    ],
+                    [
+                        5.7127361,
+                        45.1811093
+                    ],
+                    [
+                        5.7134013,
+                        45.1810938
+                    ],
+                    [
+                        5.7135369,
+                        45.1810906
+                    ],
+                    [
+                        5.7137351,
+                        45.181086
+                    ],
+                    [
+                        5.7138411,
+                        45.1810835
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jean Veyrat",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23588155,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7135369,
+                        45.1810906
+                    ],
+                    [
+                        5.7129414,
+                        45.1816605
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jean Veyrat",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

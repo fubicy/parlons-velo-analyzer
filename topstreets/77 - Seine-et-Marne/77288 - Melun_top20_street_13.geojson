@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 145613213,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6586266,
+                        48.537012
+                    ],
+                    [
+                        2.658584,
+                        48.5369506
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Rue Saint-\u00c9tienne",
+                "oneway": "yes",
+                "ref": "D 415",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 293229244,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6584422,
+                        48.5367267
+                    ],
+                    [
+                        2.6583865,
+                        48.5366411
+                    ],
+                    [
+                        2.6583278,
+                        48.5365507
+                    ],
+                    [
+                        2.6582001,
+                        48.5363415
+                    ],
+                    [
+                        2.6581821,
+                        48.536312
+                    ],
+                    [
+                        2.6581508,
+                        48.5362606
+                    ],
+                    [
+                        2.6580073,
+                        48.5360152
+                    ],
+                    [
+                        2.6578729,
+                        48.5357916
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Rue Saint-\u00c9tienne",
+                "oneway": "yes",
+                "ref": "D 415",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 440557656,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.658584,
+                        48.5369506
+                    ],
+                    [
+                        2.6584422,
+                        48.5367267
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Rue Saint-\u00c9tienne",
+                "oneway": "yes",
+                "ref": "D 415",
+                "turn:lanes": "through|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

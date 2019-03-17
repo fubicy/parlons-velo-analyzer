@@ -1,0 +1,368 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 288988174,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4284928,
+                        48.8586349
+                    ],
+                    [
+                        2.4282418,
+                        48.8586463
+                    ],
+                    [
+                        2.4281016,
+                        48.8586516
+                    ],
+                    [
+                        2.4279711,
+                        48.8586566
+                    ],
+                    [
+                        2.4275456,
+                        48.8586727
+                    ],
+                    [
+                        2.4273851,
+                        48.8586943
+                    ],
+                    [
+                        2.4273316,
+                        48.8587069
+                    ],
+                    [
+                        2.4272295,
+                        48.8587334
+                    ],
+                    [
+                        2.4271206,
+                        48.8587612
+                    ],
+                    [
+                        2.4270508,
+                        48.858779
+                    ],
+                    [
+                        2.4267397,
+                        48.8588583
+                    ],
+                    [
+                        2.4242429,
+                        48.8594719
+                    ],
+                    [
+                        2.4236528,
+                        48.8596198
+                    ],
+                    [
+                        2.4235341,
+                        48.8596496
+                    ],
+                    [
+                        2.4234155,
+                        48.8596793
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard Chanzy",
+                "ref": "D 37",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 555746650,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4293029,
+                        48.8586067
+                    ],
+                    [
+                        2.4284928,
+                        48.8586349
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "cycleway:right": "track",
+                "highway": "secondary",
+                "name": "Boulevard Chanzy",
+                "ref": "D 37",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 620795117,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4350617,
+                        48.8582697
+                    ],
+                    [
+                        2.4340767,
+                        48.8583669
+                    ],
+                    [
+                        2.4339905,
+                        48.8583776
+                    ],
+                    [
+                        2.4338032,
+                        48.8584007
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "track",
+                "highway": "secondary",
+                "name": "Boulevard Chanzy",
+                "ref": "D 37",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 620795121,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4338032,
+                        48.8584007
+                    ],
+                    [
+                        2.4337011,
+                        48.8584091
+                    ],
+                    [
+                        2.4335894,
+                        48.8584183
+                    ],
+                    [
+                        2.4328817,
+                        48.858461
+                    ],
+                    [
+                        2.4323309,
+                        48.8584942
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Chanzy",
+                "ref": "D 37",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 635536011,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4350617,
+                        48.8582697
+                    ],
+                    [
+                        2.4355153,
+                        48.8581984
+                    ],
+                    [
+                        2.4355653,
+                        48.8581841
+                    ],
+                    [
+                        2.4356082,
+                        48.8581651
+                    ],
+                    [
+                        2.4356377,
+                        48.8581363
+                    ],
+                    [
+                        2.4356648,
+                        48.8580973
+                    ],
+                    [
+                        2.4356783,
+                        48.8580512
+                    ],
+                    [
+                        2.4356928,
+                        48.8580019
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Boulevard Chanzy",
+                "oneway": "no",
+                "ref": "D 37",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 635536013,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4356928,
+                        48.8580019
+                    ],
+                    [
+                        2.4357062,
+                        48.8579684
+                    ],
+                    [
+                        2.435738,
+                        48.857889
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Boulevard Chanzy",
+                "oneway": "yes",
+                "ref": "D 37",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 635540975,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4362975,
+                        48.8581164
+                    ],
+                    [
+                        2.4362586,
+                        48.858126
+                    ],
+                    [
+                        2.4361885,
+                        48.8581433
+                    ],
+                    [
+                        2.4361489,
+                        48.8581492
+                    ],
+                    [
+                        2.4357314,
+                        48.8582048
+                    ],
+                    [
+                        2.4356243,
+                        48.8582192
+                    ],
+                    [
+                        2.4351846,
+                        48.8582799
+                    ],
+                    [
+                        2.4350617,
+                        48.8582697
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Boulevard Chanzy",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 665298405,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4323309,
+                        48.8584942
+                    ],
+                    [
+                        2.4317082,
+                        48.8585218
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Chanzy",
+                "ref": "D 37",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 665319188,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4317082,
+                        48.8585218
+                    ],
+                    [
+                        2.4294859,
+                        48.8585992
+                    ],
+                    [
+                        2.4293029,
+                        48.8586067
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Chanzy",
+                "ref": "D 37",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

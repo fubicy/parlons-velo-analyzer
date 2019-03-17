@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4245276,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.270885,
+                        43.6993586
+                    ],
+                    [
+                        7.2709105,
+                        43.6993071
+                    ],
+                    [
+                        7.2712309,
+                        43.6986614
+                    ],
+                    [
+                        7.2712665,
+                        43.6985871
+                    ],
+                    [
+                        7.2712917,
+                        43.6985371
+                    ],
+                    [
+                        7.2715996,
+                        43.6979271
+                    ],
+                    [
+                        7.2716277,
+                        43.6978607
+                    ],
+                    [
+                        7.2716591,
+                        43.6977914
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Chauvain",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

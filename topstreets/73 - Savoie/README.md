@@ -10,7 +10,7 @@ Sur l'ensemble du département, il y a eu 773 réponses dont 360 réponses avec 
 |73051 - Le Bourget-du-Lac|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |73054 - Bourg-Saint-Maurice|2|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |73064 - Challes-les-Eaux&nbsp;&#124;&nbsp;<a href='73064 - Challes-les-Eaux_top4.md'>Top 10</a>|16|6(37%)|<img src="../../img/bar_3.gif" />&nbsp;4|
-|73065 - Chambéry&nbsp;&#124;&nbsp;<a href='73065 - Chambéry_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='73065 - Chambéry_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='73065 - Chambéry_top50.md'>Top 50</a>|555|265(47%)|<img src="../../img/bar_55.gif" />&nbsp;66|
+|73065 - Chambéry&nbsp;&#124;&nbsp;<a href='73065 - Chambéry_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='73065 - Chambéry_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='73065 - Chambéry_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='73065 - Chambéry_top66.md'>Top 1000</a>|555|265(47%)|<img src="../../img/bar_55.gif" />&nbsp;66|
 |73087 - Cognin&nbsp;&#124;&nbsp;<a href='73087 - Cognin_top2.md'>Top 10</a>|5|2(40%)|<img src="../../img/bar_1.gif" />&nbsp;2|
 |73107 - Entremont-le-Vieux|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |73118 - Francin|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|

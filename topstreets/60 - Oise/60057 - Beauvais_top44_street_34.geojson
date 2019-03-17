@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 552930836,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.08244,
+                        49.429479
+                    ],
+                    [
+                        2.0825372,
+                        49.4296574
+                    ],
+                    [
+                        2.0826501,
+                        49.4297893
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place Jeanne Hachette",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 553611635,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0826501,
+                        49.4297893
+                    ],
+                    [
+                        2.0831959,
+                        49.4305614
+                    ],
+                    [
+                        2.0825468,
+                        49.4308126
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "foot": "yes",
+                "highway": "living_street",
+                "lanes": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "designated",
+                "name": "Place Jeanne Hachette",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 669287626,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0825468,
+                        49.4308126
+                    ],
+                    [
+                        2.0817174,
+                        49.4300913
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "foot": "yes",
+                "highway": "living_street",
+                "lanes": "1",
+                "maxspeed": "30",
+                "motor_vehicle": "designated",
+                "name": "Place Jeanne Hachette",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

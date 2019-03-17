@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 501448771,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5299991,
+                        47.2556864
+                    ],
+                    [
+                        -1.5300306,
+                        47.255551
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Batignolles",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "BATI2",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 501448772,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5296356,
+                        47.2554056
+                    ],
+                    [
+                        -1.5296373,
+                        47.2555379
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Batignolles",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "BATI1",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

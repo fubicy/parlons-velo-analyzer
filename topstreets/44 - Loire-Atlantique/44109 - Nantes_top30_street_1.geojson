@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 520647082,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.555527,
+                        47.2198323
+                    ],
+                    [
+                        -1.5557094,
+                        47.2197184
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "50 Otages",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "OTAG3",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 520647083,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5552588,
+                        47.2198314
+                    ],
+                    [
+                        -1.5550409,
+                        47.2199042
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "50 Otages",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "OTAG4",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

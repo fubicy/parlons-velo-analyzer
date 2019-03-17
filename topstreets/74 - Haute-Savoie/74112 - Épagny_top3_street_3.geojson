@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 669532350,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.072658,
+                        45.940256
+                    ],
+                    [
+                        6.0724689,
+                        45.9401748
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Grand \u00c9pagny",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "tactile_paving": "no",
+                "wheelchair": "no",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 669532352,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0730375,
+                        45.9404164
+                    ],
+                    [
+                        6.0728216,
+                        45.9403063
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Grand \u00c9pagny",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

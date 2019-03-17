@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23727610,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.355731,
+                        48.9552682
+                    ],
+                    [
+                        4.3558996,
+                        48.9553054
+                    ],
+                    [
+                        4.3566733,
+                        48.955476
+                    ],
+                    [
+                        4.357618,
+                        48.9556529
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "unclassified",
+                "name": "Rue de la Marne",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81151028,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.357618,
+                        48.9556529
+                    ],
+                    [
+                        4.3587029,
+                        48.9558971
+                    ],
+                    [
+                        4.3588551,
+                        48.9559314
+                    ],
+                    [
+                        4.3595094,
+                        48.9560633
+                    ],
+                    [
+                        4.359568,
+                        48.9560751
+                    ],
+                    [
+                        4.3598621,
+                        48.9561359
+                    ],
+                    [
+                        4.3603882,
+                        48.9562483
+                    ],
+                    [
+                        4.3604385,
+                        48.9562588
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue de la Marne",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 191730663,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3618384,
+                        48.956538
+                    ],
+                    [
+                        4.3614674,
+                        48.9564745
+                    ],
+                    [
+                        4.3611992,
+                        48.9564181
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue de la Marne",
+                "surface": "sett",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 344459542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3605883,
+                        48.9562919
+                    ],
+                    [
+                        4.3611992,
+                        48.9564181
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue de la Marne",
+                "oneway": "yes",
+                "surface": "paving_stones",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

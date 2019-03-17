@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 157999612,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.867271,
+                        45.7541249
+                    ],
+                    [
+                        4.8672785,
+                        45.7540573
+                    ],
+                    [
+                        4.8672344,
+                        45.7540168
+                    ],
+                    [
+                        4.8672163,
+                        45.7540015
+                    ],
+                    [
+                        4.8665135,
+                        45.7534075
+                    ],
+                    [
+                        4.866399,
+                        45.7533107
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue des Cadets de la France Libre",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

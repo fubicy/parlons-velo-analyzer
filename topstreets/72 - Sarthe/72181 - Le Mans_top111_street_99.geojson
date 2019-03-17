@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26400038,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1874792,
+                        48.0137934
+                    ],
+                    [
+                        0.1875382,
+                        48.0138763
+                    ],
+                    [
+                        0.1876273,
+                        48.0140016
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Place de la Chasse Royale",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

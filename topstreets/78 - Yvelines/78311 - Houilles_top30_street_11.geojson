@@ -1,0 +1,183 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28362670,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1849675,
+                        48.9198281
+                    ],
+                    [
+                        2.1848079,
+                        48.9199653
+                    ],
+                    [
+                        2.1846835,
+                        48.9200073
+                    ],
+                    [
+                        2.1842215,
+                        48.9202425
+                    ],
+                    [
+                        2.1840982,
+                        48.9203133
+                    ],
+                    [
+                        2.1840088,
+                        48.920406
+                    ],
+                    [
+                        2.1838409,
+                        48.9205899
+                    ],
+                    [
+                        2.1837771,
+                        48.9206598
+                    ],
+                    [
+                        2.1837126,
+                        48.9207442
+                    ],
+                    [
+                        2.1836527,
+                        48.9208185
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Robespierre",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 265631707,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1836527,
+                        48.9208185
+                    ],
+                    [
+                        2.1834956,
+                        48.9210257
+                    ],
+                    [
+                        2.1834259,
+                        48.9210795
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Robespierre",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 265631861,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1834259,
+                        48.9210795
+                    ],
+                    [
+                        2.1821463,
+                        48.9217709
+                    ],
+                    [
+                        2.1811481,
+                        48.9222627
+                    ],
+                    [
+                        2.1810276,
+                        48.922322
+                    ],
+                    [
+                        2.1809515,
+                        48.922321
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Robespierre",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 293432904,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1808103,
+                        48.922365
+                    ],
+                    [
+                        2.1807555,
+                        48.9224322
+                    ],
+                    [
+                        2.1807263,
+                        48.922468
+                    ],
+                    [
+                        2.1793823,
+                        48.9231178
+                    ],
+                    [
+                        2.1792744,
+                        48.92317
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Robespierre",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

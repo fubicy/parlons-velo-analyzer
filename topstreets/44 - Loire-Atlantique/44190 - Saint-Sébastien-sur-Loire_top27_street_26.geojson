@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28889555,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.510423,
+                        47.1952536
+                    ],
+                    [
+                        -1.510543,
+                        47.1951699
+                    ],
+                    [
+                        -1.5107957,
+                        47.1949936
+                    ],
+                    [
+                        -1.5111941,
+                        47.194767
+                    ],
+                    [
+                        -1.5115169,
+                        47.194658
+                    ],
+                    [
+                        -1.5115651,
+                        47.1946417
+                    ],
+                    [
+                        -1.5118342,
+                        47.194564
+                    ],
+                    [
+                        -1.5122873,
+                        47.1944363
+                    ],
+                    [
+                        -1.5129507,
+                        47.1942701
+                    ],
+                    [
+                        -1.5140699,
+                        47.193801
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Alexandre Fourny",
+                "name:br": "Straed Alexandre Fourny",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29086530,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5173581,
+                        47.193031
+                    ],
+                    [
+                        -1.5172377,
+                        47.1930143
+                    ],
+                    [
+                        -1.5172072,
+                        47.1930101
+                    ],
+                    [
+                        -1.5168642,
+                        47.1930137
+                    ],
+                    [
+                        -1.5166133,
+                        47.1930407
+                    ],
+                    [
+                        -1.5163426,
+                        47.1930909
+                    ],
+                    [
+                        -1.5154135,
+                        47.1933253
+                    ],
+                    [
+                        -1.5151521,
+                        47.1934005
+                    ],
+                    [
+                        -1.5144239,
+                        47.1936379
+                    ],
+                    [
+                        -1.5143478,
+                        47.1936627
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Alexandre Fourny",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48547112,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5140699,
+                        47.193801
+                    ],
+                    [
+                        -1.5143478,
+                        47.1936627
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Alexandre Fourny",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

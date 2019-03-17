@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16361939,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1320805,
+                        49.5026305
+                    ],
+                    [
+                        0.1363342,
+                        49.5080515
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "layer": "-1",
+                "maxspeed": "50",
+                "maxwidth": "2.6",
+                "name": "Tunnel Jenner",
+                "oneway": "yes",
+                "tunnel": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20606828,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1361346,
+                        49.5081116
+                    ],
+                    [
+                        0.1318943,
+                        49.5026969
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "layer": "-1",
+                "maxheight": "2.7",
+                "maxspeed": "50",
+                "maxwidth": "2.5",
+                "name": "Tunnel Jenner",
+                "oneway": "yes",
+                "opening_date": "2018-12-21",
+                "sidewalk": "right",
+                "tunnel": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

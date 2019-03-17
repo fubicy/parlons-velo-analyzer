@@ -4,7 +4,7 @@ Sur l'ensemble de la ville il y a eu 17 réponses dont 2 réponses avec une rue 
 
 1 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Avenue François Mitterrand | 2 | 11% | <img src="../../img/bar_100.gif" />&nbsp;100%|
-| **Total** | 2 | 11% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Avenue François Mitterrand | 2 | <img src="../../img/bar_100.gif" />&nbsp;100%|
+| **Total** | 2 | 100%|

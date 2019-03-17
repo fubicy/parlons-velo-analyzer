@@ -1,0 +1,819 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30152878,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.394141,
+                        48.8214309
+                    ],
+                    [
+                        2.3941742,
+                        48.8213667
+                    ],
+                    [
+                        2.3942873,
+                        48.8212654
+                    ],
+                    [
+                        2.3945128,
+                        48.8211053
+                    ],
+                    [
+                        2.3945862,
+                        48.8210384
+                    ],
+                    [
+                        2.3946677,
+                        48.8209104
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "primary",
+                "int_ref": "E 54",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44741377,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3979188,
+                        48.8180806
+                    ],
+                    [
+                        2.398053,
+                        48.8179656
+                    ],
+                    [
+                        2.398251,
+                        48.8177842
+                    ],
+                    [
+                        2.3984776,
+                        48.8175946
+                    ],
+                    [
+                        2.3985671,
+                        48.8175373
+                    ],
+                    [
+                        2.3985999,
+                        48.8175191
+                    ],
+                    [
+                        2.3986517,
+                        48.8174848
+                    ],
+                    [
+                        2.3988876,
+                        48.8172708
+                    ],
+                    [
+                        2.399151,
+                        48.8170576
+                    ],
+                    [
+                        2.399255,
+                        48.8169643
+                    ],
+                    [
+                        2.3995435,
+                        48.8166975
+                    ],
+                    [
+                        2.3996577,
+                        48.8166378
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "share_busway",
+                "highway": "primary",
+                "int_ref": "E 54",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135509768,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3965981,
+                        48.8191928
+                    ],
+                    [
+                        2.396715,
+                        48.8190943
+                    ],
+                    [
+                        2.3967787,
+                        48.8190406
+                    ],
+                    [
+                        2.3969209,
+                        48.8189384
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "int_ref": "E 54",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136530399,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.396203,
+                        48.819559
+                    ],
+                    [
+                        2.3965981,
+                        48.8191928
+                    ]
+                ]
+            },
+            "properties": {
+                "covered": "yes",
+                "highway": "primary",
+                "int_ref": "E 54",
+                "lanes": "2",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137126121,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4020567,
+                        48.8146798
+                    ],
+                    [
+                        2.4020005,
+                        48.8147284
+                    ],
+                    [
+                        2.4008241,
+                        48.8157314
+                    ],
+                    [
+                        2.3997909,
+                        48.816608
+                    ],
+                    [
+                        2.3997288,
+                        48.8166613
+                    ],
+                    [
+                        2.3996106,
+                        48.8167368
+                    ],
+                    [
+                        2.3992182,
+                        48.8170901
+                    ],
+                    [
+                        2.3989605,
+                        48.8173066
+                    ],
+                    [
+                        2.3986677,
+                        48.8175527
+                    ],
+                    [
+                        2.3985617,
+                        48.8176411
+                    ],
+                    [
+                        2.3982959,
+                        48.8178628
+                    ],
+                    [
+                        2.3981253,
+                        48.8180051
+                    ],
+                    [
+                        2.3979964,
+                        48.8181226
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "designated",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "no",
+                "psv": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 371575417,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3969209,
+                        48.8189384
+                    ],
+                    [
+                        2.3970146,
+                        48.8188718
+                    ],
+                    [
+                        2.3970834,
+                        48.8188119
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "int_ref": "E 54",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 371575418,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3970834,
+                        48.8188119
+                    ],
+                    [
+                        2.397853,
+                        48.8181336
+                    ],
+                    [
+                        2.3979188,
+                        48.8180806
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "int_ref": "E 54",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 494010097,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3953725,
+                        48.8205019
+                    ],
+                    [
+                        2.3952903,
+                        48.8204417
+                    ],
+                    [
+                        2.3951973,
+                        48.8203922
+                    ],
+                    [
+                        2.3951449,
+                        48.8203679
+                    ],
+                    [
+                        2.3951246,
+                        48.8203727
+                    ],
+                    [
+                        2.3950508,
+                        48.8204216
+                    ],
+                    [
+                        2.3949847,
+                        48.8204853
+                    ],
+                    [
+                        2.3949801,
+                        48.8205032
+                    ],
+                    [
+                        2.3942649,
+                        48.8210465
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 555719306,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3951973,
+                        48.8203922
+                    ],
+                    [
+                        2.3956311,
+                        48.8200178
+                    ],
+                    [
+                        2.395765,
+                        48.8199259
+                    ],
+                    [
+                        2.396203,
+                        48.819559
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "int_ref": "E 54",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 568696068,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3944115,
+                        48.8210744
+                    ],
+                    [
+                        2.3946677,
+                        48.8209104
+                    ],
+                    [
+                        2.3948069,
+                        48.8207994
+                    ],
+                    [
+                        2.3950886,
+                        48.8206063
+                    ],
+                    [
+                        2.3951207,
+                        48.8205841
+                    ],
+                    [
+                        2.3952239,
+                        48.8205019
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "highway": "service",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "psv": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 568791865,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3947406,
+                        48.8207612
+                    ],
+                    [
+                        2.3949987,
+                        48.8205566
+                    ],
+                    [
+                        2.395032,
+                        48.8205301
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "primary",
+                "int_ref": "E 54",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 568791866,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.395032,
+                        48.8205301
+                    ],
+                    [
+                        2.3951172,
+                        48.8204502
+                    ],
+                    [
+                        2.3951973,
+                        48.8203922
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "int_ref": "E 54",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 568791867,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3946677,
+                        48.8209104
+                    ],
+                    [
+                        2.3947406,
+                        48.8207612
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "primary",
+                "int_ref": "E 54",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 569112432,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3996577,
+                        48.8166378
+                    ],
+                    [
+                        2.3997299,
+                        48.8165881
+                    ],
+                    [
+                        2.401949,
+                        48.8147019
+                    ],
+                    [
+                        2.4020021,
+                        48.8146525
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "int_ref": "E 54",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 591921125,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3979964,
+                        48.8181226
+                    ],
+                    [
+                        2.397978,
+                        48.8181391
+                    ],
+                    [
+                        2.3972638,
+                        48.81874
+                    ],
+                    [
+                        2.3971332,
+                        48.818852
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "designated",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "no",
+                "psv": "yes",
+                "ref": "D 19B",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 643659633,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3971332,
+                        48.818852
+                    ],
+                    [
+                        2.3970721,
+                        48.8189054
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "designated",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "psv": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 646729313,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3970201,
+                        48.8189565
+                    ],
+                    [
+                        2.3970721,
+                        48.8189054
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "psv": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 650600827,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3943517,
+                        48.8210509
+                    ],
+                    [
+                        2.3944992,
+                        48.8209326
+                    ],
+                    [
+                        2.3947406,
+                        48.8207612
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "oneway": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 657206517,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3952239,
+                        48.8205019
+                    ],
+                    [
+                        2.3952903,
+                        48.8204417
+                    ],
+                    [
+                        2.3954572,
+                        48.8202915
+                    ],
+                    [
+                        2.3957168,
+                        48.82006
+                    ],
+                    [
+                        2.3961552,
+                        48.8196994
+                    ],
+                    [
+                        2.3966939,
+                        48.8192312
+                    ],
+                    [
+                        2.3967298,
+                        48.8192013
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "psv": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 670778558,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3967298,
+                        48.8192013
+                    ],
+                    [
+                        2.3968731,
+                        48.819082
+                    ],
+                    [
+                        2.3969841,
+                        48.8189845
+                    ],
+                    [
+                        2.3970201,
+                        48.8189565
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Paul Vaillant-Couturier",
+                "psv": "yes",
+                "ref": "D 19B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

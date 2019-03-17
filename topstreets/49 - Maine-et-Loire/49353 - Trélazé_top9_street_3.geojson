@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 196298201,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.514466,
+                        47.4524047
+                    ],
+                    [
+                        -0.5130216,
+                        47.452161
+                    ],
+                    [
+                        -0.5128024,
+                        47.4521233
+                    ],
+                    [
+                        -0.5121367,
+                        47.452005
+                    ],
+                    [
+                        -0.5108435,
+                        47.4518054
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Parmentier",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196298204,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5151176,
+                        47.4525048
+                    ],
+                    [
+                        -0.514466,
+                        47.4524047
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "no",
+                "highway": "residential",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Parmentier",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

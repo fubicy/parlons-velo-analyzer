@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40268004,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0419059,
+                        50.6320526
+                    ],
+                    [
+                        3.0418469,
+                        50.6321045
+                    ],
+                    [
+                        3.0406283,
+                        50.6332068
+                    ],
+                    [
+                        3.0405975,
+                        50.6332436
+                    ],
+                    [
+                        3.040562,
+                        50.6332764
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Adolphe",
+                "oneway": "yes",
+                "parking:condition:left": "free",
+                "parking:lane:left": "parallel",
+                "parking:lane:right": "no_parking",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

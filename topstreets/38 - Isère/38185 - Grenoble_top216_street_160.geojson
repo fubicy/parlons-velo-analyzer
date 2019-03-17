@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4262542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7299629,
+                        45.1935756
+                    ],
+                    [
+                        5.7298056,
+                        45.1929635
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Renauldon",
+                "note": "Va prochainement devenir une rue pi\u00e9tonne, dans le cadre de CVCM",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

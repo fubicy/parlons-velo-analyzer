@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23936070,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3479045,
+                        48.0856249
+                    ],
+                    [
+                        7.3478389,
+                        48.0853765
+                    ],
+                    [
+                        7.3476489,
+                        48.0846834
+                    ],
+                    [
+                        7.3476458,
+                        48.0846693
+                    ],
+                    [
+                        7.3476317,
+                        48.0846181
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de la Bagatelle",
+                "operator": "TRACE",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73096618,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3474455,
+                        48.0837929
+                    ],
+                    [
+                        7.3474244,
+                        48.0836986
+                    ],
+                    [
+                        7.3473043,
+                        48.0832097
+                    ],
+                    [
+                        7.3471445,
+                        48.0826156
+                    ],
+                    [
+                        7.3471327,
+                        48.0825498
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue de la Bagatelle",
+                "operator": "TRACE",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135655831,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3476317,
+                        48.0846181
+                    ],
+                    [
+                        7.3476196,
+                        48.0845647
+                    ],
+                    [
+                        7.3476171,
+                        48.0845536
+                    ],
+                    [
+                        7.3475596,
+                        48.0843082
+                    ],
+                    [
+                        7.347471,
+                        48.0839102
+                    ],
+                    [
+                        7.3474673,
+                        48.0838896
+                    ],
+                    [
+                        7.3474455,
+                        48.0837929
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de la Bagatelle",
+                "operator": "TRACE",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

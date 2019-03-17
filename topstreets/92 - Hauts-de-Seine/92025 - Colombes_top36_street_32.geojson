@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23275541,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2609773,
+                        48.9356724
+                    ],
+                    [
+                        2.2608318,
+                        48.9357603
+                    ],
+                    [
+                        2.260521,
+                        48.9359519
+                    ],
+                    [
+                        2.2588859,
+                        48.9370728
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue d'Argenteuil",
+                "oneway": "yes",
+                "ref": "D 909",
+                "source": "Microsoft Bing orbital imagery",
+                "source:ref": "IGN Route 500",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174847316,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2614285,
+                        48.9353965
+                    ],
+                    [
+                        2.2610539,
+                        48.935628
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "name": "Avenue d'Argenteuil",
+                "oneway": "yes",
+                "ref": "D 909",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 402009639,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2578979,
+                        48.9377153
+                    ],
+                    [
+                        2.2579808,
+                        48.9375887
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Avenue d'Argenteuil",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 601251756,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2578979,
+                        48.9377153
+                    ],
+                    [
+                        2.2580425,
+                        48.937597
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue d'Argenteuil",
+                "oneway": "yes",
+                "ref": "D 909",
+                "source": "Microsoft Bing orbital imagery",
+                "source:ref": "IGN Route 500",
+                "turn:lanes": "through|through",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 611155194,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2622419,
+                        48.9349062
+                    ],
+                    [
+                        2.2618756,
+                        48.9351411
+                    ],
+                    [
+                        2.2615115,
+                        48.9353465
+                    ],
+                    [
+                        2.2614285,
+                        48.9353965
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Avenue d'Argenteuil",
+                "oneway": "yes",
+                "ref": "D 909",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22697282,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.361822,
+                        48.0847049
+                    ],
+                    [
+                        7.3617365,
+                        48.0845641
+                    ],
+                    [
+                        7.3617612,
+                        48.0844752
+                    ],
+                    [
+                        7.3617567,
+                        48.0843852
+                    ],
+                    [
+                        7.3613168,
+                        48.0835579
+                    ],
+                    [
+                        7.3608177,
+                        48.0825549
+                    ],
+                    [
+                        7.3605365,
+                        48.081992
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxweight": "3.5",
+                "name": "Rue des Brasseries",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50065308,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3613168,
+                        48.0835579
+                    ],
+                    [
+                        7.3625017,
+                        48.0832824
+                    ],
+                    [
+                        7.3626537,
+                        48.0833249
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Brasseries",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

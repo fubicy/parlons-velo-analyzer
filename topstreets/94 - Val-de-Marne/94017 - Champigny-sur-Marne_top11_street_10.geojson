@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27489173,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4797513,
+                        48.822367
+                    ],
+                    [
+                        2.4796483,
+                        48.8222597
+                    ],
+                    [
+                        2.4795034,
+                        48.8212729
+                    ],
+                    [
+                        2.4794994,
+                        48.8212204
+                    ],
+                    [
+                        2.4794971,
+                        48.8211774
+                    ],
+                    [
+                        2.4793411,
+                        48.8201485
+                    ],
+                    [
+                        2.4793349,
+                        48.8200607
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Avenue Henri",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

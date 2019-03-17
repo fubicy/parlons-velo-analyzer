@@ -1,0 +1,144 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22660768,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4487559,
+                        43.6127261
+                    ],
+                    [
+                        1.4487007,
+                        43.6126134
+                    ],
+                    [
+                        1.4484748,
+                        43.6123333
+                    ],
+                    [
+                        1.4484378,
+                        43.612293
+                    ],
+                    [
+                        1.448365,
+                        43.6121987
+                    ],
+                    [
+                        1.4483216,
+                        43.6121553
+                    ],
+                    [
+                        1.447842,
+                        43.6115267
+                    ],
+                    [
+                        1.4478092,
+                        43.6114835
+                    ],
+                    [
+                        1.4475153,
+                        43.6110695
+                    ],
+                    [
+                        1.4474899,
+                        43.6110307
+                    ],
+                    [
+                        1.4470987,
+                        43.610502
+                    ],
+                    [
+                        1.4466236,
+                        43.6098331
+                    ],
+                    [
+                        1.4465662,
+                        43.6097615
+                    ],
+                    [
+                        1.4464482,
+                        43.609618
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue Matabiau",
+                "name:oc": "Carri\u00e8ra Matabiau",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22660770,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4505082,
+                        43.6137537
+                    ],
+                    [
+                        1.4504318,
+                        43.613687
+                    ],
+                    [
+                        1.4502749,
+                        43.613601
+                    ],
+                    [
+                        1.4499695,
+                        43.6134336
+                    ],
+                    [
+                        1.449876,
+                        43.6133695
+                    ],
+                    [
+                        1.449695,
+                        43.6132701
+                    ],
+                    [
+                        1.4492988,
+                        43.6130584
+                    ],
+                    [
+                        1.449054,
+                        43.6129246
+                    ],
+                    [
+                        1.4488985,
+                        43.6128241
+                    ],
+                    [
+                        1.4487559,
+                        43.6127261
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "primary",
+                "maxspeed": "30",
+                "name": "Rue Matabiau",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

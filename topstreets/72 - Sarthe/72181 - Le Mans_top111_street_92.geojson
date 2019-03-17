@@ -1,0 +1,252 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24581340,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1925873,
+                        48.0001278
+                    ],
+                    [
+                        0.1925133,
+                        48.0001101
+                    ],
+                    [
+                        0.1924497,
+                        47.9999625
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Auvray",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42863006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1966269,
+                        48.0010436
+                    ],
+                    [
+                        0.1965498,
+                        48.0010116
+                    ],
+                    [
+                        0.1960543,
+                        48.0008872
+                    ],
+                    [
+                        0.1959754,
+                        48.0008651
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Auvray",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "parking:lane:right": "no_parking",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134577448,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1935638,
+                        48.0003498
+                    ],
+                    [
+                        0.1931245,
+                        48.0002499
+                    ],
+                    [
+                        0.1928631,
+                        48.0001905
+                    ],
+                    [
+                        0.1926586,
+                        48.000144
+                    ],
+                    [
+                        0.1925873,
+                        48.0001278
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Auvray",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "parking:condition:right": "disc",
+                "parking:lane:right": "marked",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159430357,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1959754,
+                        48.0008651
+                    ],
+                    [
+                        0.1950645,
+                        48.000666
+                    ],
+                    [
+                        0.1946157,
+                        48.0005714
+                    ],
+                    [
+                        0.1945516,
+                        48.0005579
+                    ],
+                    [
+                        0.1944236,
+                        48.000532
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Auvray",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "parking:condition:both": "disc",
+                "parking:condition:right": "free",
+                "parking:lane:both": "marked",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 182946131,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1944236,
+                        48.000532
+                    ],
+                    [
+                        0.1940476,
+                        48.0004517
+                    ],
+                    [
+                        0.1935638,
+                        48.0003498
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "name": "Rue Auvray",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "parking:condition:right": "disc",
+                "parking:lane:right": "marked",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 592346530,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1972071,
+                        48.0013089
+                    ],
+                    [
+                        0.1966853,
+                        48.0010705
+                    ],
+                    [
+                        0.1966269,
+                        48.0010436
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Auvray",
+                "oneway": "no",
+                "parking:lane:right": "no_parking",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

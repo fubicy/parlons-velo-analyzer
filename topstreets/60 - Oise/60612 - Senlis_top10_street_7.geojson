@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 313089499,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5795569,
+                        49.2073382
+                    ],
+                    [
+                        2.5796247,
+                        49.207316
+                    ],
+                    [
+                        2.5802306,
+                        49.2070216
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue de la Contrescarpe",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:20",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

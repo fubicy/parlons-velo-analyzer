@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27545948,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0314385,
+                        49.2528558
+                    ],
+                    [
+                        4.0314919,
+                        49.2527898
+                    ],
+                    [
+                        4.0316231,
+                        49.2526309
+                    ],
+                    [
+                        4.0317462,
+                        49.2525164
+                    ],
+                    [
+                        4.0319932,
+                        49.2522867
+                    ],
+                    [
+                        4.03205,
+                        49.2522474
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Chanzy",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "psv": "opposite_lane",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27545950,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0343891,
+                        49.2512119
+                    ],
+                    [
+                        4.0348014,
+                        49.2510445
+                    ],
+                    [
+                        4.0350115,
+                        49.2509576
+                    ],
+                    [
+                        4.0350596,
+                        49.2509377
+                    ],
+                    [
+                        4.035123,
+                        49.2508934
+                    ],
+                    [
+                        4.0351527,
+                        49.2508702
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Chanzy",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31358049,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0303893,
+                        49.2540954
+                    ],
+                    [
+                        4.0304344,
+                        49.2540443
+                    ],
+                    [
+                        4.0308542,
+                        49.2535815
+                    ],
+                    [
+                        4.0309213,
+                        49.2535406
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Chanzy",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31433251,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0314385,
+                        49.2528558
+                    ],
+                    [
+                        4.0313573,
+                        49.2529545
+                    ],
+                    [
+                        4.0311683,
+                        49.2532443
+                    ],
+                    [
+                        4.0311133,
+                        49.2533265
+                    ],
+                    [
+                        4.0309213,
+                        49.2535406
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "agricultural": "no",
+                "bicycle": "yes",
+                "foot": "yes",
+                "goods": "delivery",
+                "hgv": "delivery",
+                "highway": "residential",
+                "motorcar": "delivery",
+                "motorcycle": "no",
+                "name": "Rue Chanzy",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38777205,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.03205,
+                        49.2522474
+                    ],
+                    [
+                        4.032127,
+                        49.2522027
+                    ],
+                    [
+                        4.0323412,
+                        49.2520847
+                    ],
+                    [
+                        4.0325591,
+                        49.2519703
+                    ],
+                    [
+                        4.0328637,
+                        49.2518306
+                    ],
+                    [
+                        4.0342187,
+                        49.251281
+                    ],
+                    [
+                        4.0343891,
+                        49.2512119
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Chanzy",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "psv": "opposite_lane",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 517044861,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.030339,
+                        49.2541589
+                    ],
+                    [
+                        4.0303785,
+                        49.2541071
+                    ],
+                    [
+                        4.0303893,
+                        49.2540954
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Chanzy",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

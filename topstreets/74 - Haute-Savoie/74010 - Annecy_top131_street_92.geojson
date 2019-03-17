@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24391061,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1258798,
+                        45.9115113
+                    ],
+                    [
+                        6.1259966,
+                        45.9115407
+                    ],
+                    [
+                        6.1269177,
+                        45.9117796
+                    ],
+                    [
+                        6.1270813,
+                        45.9118357
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "name": "Rue Aristide Briand",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36917951,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1271023,
+                        45.911896
+                    ],
+                    [
+                        6.1266357,
+                        45.9119613
+                    ],
+                    [
+                        6.1259678,
+                        45.9120754
+                    ],
+                    [
+                        6.1258605,
+                        45.9120919
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "name": "Rue Aristide Briand",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 21789932,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2071806,
+                        48.8477898
+                    ],
+                    [
+                        2.2071886,
+                        48.8490729
+                    ],
+                    [
+                        2.2072057,
+                        48.8493836
+                    ],
+                    [
+                        2.20718,
+                        48.8497225
+                    ],
+                    [
+                        2.2071586,
+                        48.850168
+                    ],
+                    [
+                        2.2071886,
+                        48.8503494
+                    ],
+                    [
+                        2.2071689,
+                        48.8509049
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jacoulet",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21790013,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2074122,
+                        48.8520019
+                    ],
+                    [
+                        2.2074004,
+                        48.8519678
+                    ],
+                    [
+                        2.2071682,
+                        48.8512999
+                    ],
+                    [
+                        2.2071478,
+                        48.8512413
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Jacoulet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41089150,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2071689,
+                        48.8509049
+                    ],
+                    [
+                        2.2071518,
+                        48.8511776
+                    ],
+                    [
+                        2.2071478,
+                        48.8512413
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jacoulet",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

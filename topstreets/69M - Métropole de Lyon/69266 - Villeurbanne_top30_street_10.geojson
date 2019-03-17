@@ -1,0 +1,143 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 272522214,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8736758,
+                        45.7719518
+                    ],
+                    [
+                        4.8736733,
+                        45.7719908
+                    ],
+                    [
+                        4.87368,
+                        45.772101
+                    ],
+                    [
+                        4.873739,
+                        45.7723361
+                    ],
+                    [
+                        4.8738523,
+                        45.7725263
+                    ],
+                    [
+                        4.874011,
+                        45.7727442
+                    ],
+                    [
+                        4.8741144,
+                        45.7729908
+                    ],
+                    [
+                        4.874153,
+                        45.7732144
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Colin",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 440813457,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.874153,
+                        45.7732144
+                    ],
+                    [
+                        4.8741642,
+                        45.7733554
+                    ],
+                    [
+                        4.8740927,
+                        45.7746662
+                    ],
+                    [
+                        4.8740892,
+                        45.7747301
+                    ],
+                    [
+                        4.8740888,
+                        45.7747622
+                    ],
+                    [
+                        4.8740223,
+                        45.7758112
+                    ],
+                    [
+                        4.8740019,
+                        45.7762904
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Colin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "width": "8",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 661250742,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8740019,
+                        45.7762904
+                    ],
+                    [
+                        4.8739977,
+                        45.7763906
+                    ],
+                    [
+                        4.8739979,
+                        45.7764409
+                    ],
+                    [
+                        4.8740248,
+                        45.7765149
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Colin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through;right",
+                "width": "8",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

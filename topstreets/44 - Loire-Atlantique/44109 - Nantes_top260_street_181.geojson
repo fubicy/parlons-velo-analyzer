@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 143106529,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5695485,
+                        47.218308
+                    ],
+                    [
+                        -1.5694917,
+                        47.2181133
+                    ],
+                    [
+                        -1.5694636,
+                        47.2180557
+                    ],
+                    [
+                        -1.569428,
+                        47.2179785
+                    ],
+                    [
+                        -1.5693872,
+                        47.2178897
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Mond\u00e9sir",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143106531,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5693872,
+                        47.2178897
+                    ],
+                    [
+                        -1.5693911,
+                        47.2178404
+                    ],
+                    [
+                        -1.569384,
+                        47.2177815
+                    ],
+                    [
+                        -1.5693067,
+                        47.2175276
+                    ],
+                    [
+                        -1.5692903,
+                        47.2174655
+                    ],
+                    [
+                        -1.569295,
+                        47.2174225
+                    ],
+                    [
+                        -1.569268,
+                        47.2172708
+                    ],
+                    [
+                        -1.5690742,
+                        47.2168918
+                    ],
+                    [
+                        -1.56882,
+                        47.2163835
+                    ],
+                    [
+                        -1.5687803,
+                        47.2163218
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Mond\u00e9sir",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143106674,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5695485,
+                        47.218308
+                    ],
+                    [
+                        -1.5695975,
+                        47.2184619
+                    ],
+                    [
+                        -1.5697586,
+                        47.2190073
+                    ],
+                    [
+                        -1.5697875,
+                        47.2191415
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway:right": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Mond\u00e9sir",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 181672924,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7669406,
+                        50.2955067
+                    ],
+                    [
+                        2.7669105,
+                        50.295461
+                    ],
+                    [
+                        2.7668532,
+                        50.2954104
+                    ],
+                    [
+                        2.7664154,
+                        50.2951371
+                    ],
+                    [
+                        2.766358,
+                        50.2950912
+                    ],
+                    [
+                        2.7662773,
+                        50.2950415
+                    ],
+                    [
+                        2.7655491,
+                        50.294593
+                    ],
+                    [
+                        2.7654618,
+                        50.2945451
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Ma\u00eetre Adam",
+                "oneway": "yes",
+                "parking:condition:left": "free",
+                "parking:condition:right": "free",
+                "parking:lane:left": "parallel",
+                "parking:lane:right": "diagonal",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 119345886,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5662616,
+                        47.471598
+                    ],
+                    [
+                        -0.5664397,
+                        47.4716984
+                    ],
+                    [
+                        -0.5665885,
+                        47.4717721
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary_link",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Foulques Nerra",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "width": "5",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119345891,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5668237,
+                        47.4718149
+                    ],
+                    [
+                        -0.5667314,
+                        47.4717808
+                    ],
+                    [
+                        -0.5666703,
+                        47.4717582
+                    ],
+                    [
+                        -0.5664226,
+                        47.4716601
+                    ],
+                    [
+                        -0.5662616,
+                        47.471598
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "horse": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Foulques Nerra",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "width": "4",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189654474,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5662616,
+                        47.471598
+                    ],
+                    [
+                        -0.5658183,
+                        47.4714208
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "horse": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Foulques Nerra",
+                "oneway": "no",
+                "sidewalk": "both",
+                "width": "8",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 351430427,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5665885,
+                        47.4717721
+                    ],
+                    [
+                        -0.5666729,
+                        47.4718138
+                    ],
+                    [
+                        -0.5667316,
+                        47.4718478
+                    ],
+                    [
+                        -0.5667993,
+                        47.471882
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "secondary_link",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Foulques Nerra",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "width": "6",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 629103820,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5658,
+                        47.4714137
+                    ],
+                    [
+                        -0.5658183,
+                        47.4714208
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Foulques Nerra",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

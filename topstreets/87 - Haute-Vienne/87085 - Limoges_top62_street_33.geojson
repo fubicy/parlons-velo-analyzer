@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25308688,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2544141,
+                        45.8311246
+                    ],
+                    [
+                        1.254604,
+                        45.8311356
+                    ],
+                    [
+                        1.255179,
+                        45.831226
+                    ],
+                    [
+                        1.2558959,
+                        45.8313432
+                    ],
+                    [
+                        1.2560809,
+                        45.8313674
+                    ],
+                    [
+                        1.2566676,
+                        45.8314666
+                    ],
+                    [
+                        1.2566989,
+                        45.8314719
+                    ],
+                    [
+                        1.2569956,
+                        45.8315191
+                    ],
+                    [
+                        1.2570939,
+                        45.8315348
+                    ],
+                    [
+                        1.2572454,
+                        45.8315522
+                    ],
+                    [
+                        1.257916,
+                        45.8316755
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue Turgot",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44069070,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.257916,
+                        45.8316755
+                    ],
+                    [
+                        1.2580206,
+                        45.8317858
+                    ],
+                    [
+                        1.2580738,
+                        45.8318429
+                    ],
+                    [
+                        1.2581073,
+                        45.8318895
+                    ],
+                    [
+                        1.258144,
+                        45.8319259
+                    ],
+                    [
+                        1.2582602,
+                        45.8321194
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "name": "Rue Turgot",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

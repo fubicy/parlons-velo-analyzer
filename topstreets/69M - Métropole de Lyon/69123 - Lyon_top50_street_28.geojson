@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 124198784,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8779082,
+                        45.7515873
+                    ],
+                    [
+                        4.8779425,
+                        45.7516713
+                    ],
+                    [
+                        4.8784269,
+                        45.7526649
+                    ],
+                    [
+                        4.8784447,
+                        45.7527294
+                    ],
+                    [
+                        4.8784539,
+                        45.7527626
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de l'Est",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 403649394,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8782908,
+                        45.7527533
+                    ],
+                    [
+                        4.8784539,
+                        45.7527626
+                    ],
+                    [
+                        4.8787276,
+                        45.7527779
+                    ],
+                    [
+                        4.8800809,
+                        45.7528535
+                    ],
+                    [
+                        4.8806847,
+                        45.7528864
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "highway": "service",
+                "lit": "yes",
+                "motor_vehicle": "destination",
+                "name": "Rue de l'Est",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

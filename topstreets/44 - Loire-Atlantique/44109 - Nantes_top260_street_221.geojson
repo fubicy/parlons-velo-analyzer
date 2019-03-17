@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 148921264,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5446882,
+                        47.194823
+                    ],
+                    [
+                        -1.544144,
+                        47.1955224
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "bridge": "yes",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "foot": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de Pont-Rousseau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

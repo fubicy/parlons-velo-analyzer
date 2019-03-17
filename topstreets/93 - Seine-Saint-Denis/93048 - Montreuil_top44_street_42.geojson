@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22950404,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4225598,
+                        48.8568182
+                    ],
+                    [
+                        2.42295,
+                        48.8570502
+                    ],
+                    [
+                        2.4230111,
+                        48.8571023
+                    ],
+                    [
+                        2.4230371,
+                        48.8572047
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Place de la Fraternit\u00e9",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22950406,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4225598,
+                        48.8568182
+                    ],
+                    [
+                        2.4225356,
+                        48.8568393
+                    ],
+                    [
+                        2.4225039,
+                        48.8568539
+                    ],
+                    [
+                        2.4224501,
+                        48.8568709
+                    ],
+                    [
+                        2.4221435,
+                        48.8569698
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Place de la Fraternit\u00e9",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44027210,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4229466,
+                        48.8570727
+                    ],
+                    [
+                        2.422629,
+                        48.8568861
+                    ],
+                    [
+                        2.4225983,
+                        48.8568685
+                    ],
+                    [
+                        2.4225627,
+                        48.8568648
+                    ],
+                    [
+                        2.4225242,
+                        48.8568768
+                    ],
+                    [
+                        2.4222314,
+                        48.8569689
+                    ],
+                    [
+                        2.4221825,
+                        48.8569846
+                    ],
+                    [
+                        2.4221441,
+                        48.8570044
+                    ],
+                    [
+                        2.4221075,
+                        48.8570338
+                    ],
+                    [
+                        2.4221072,
+                        48.8570616
+                    ],
+                    [
+                        2.422125,
+                        48.857081
+                    ],
+                    [
+                        2.4226926,
+                        48.8571724
+                    ],
+                    [
+                        2.4229792,
+                        48.8571716
+                    ],
+                    [
+                        2.4229873,
+                        48.857158
+                    ],
+                    [
+                        2.4229861,
+                        48.8571326
+                    ],
+                    [
+                        2.4229757,
+                        48.8571022
+                    ],
+                    [
+                        2.4229466,
+                        48.8570727
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Place de la Fraternit\u00e9",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233276279,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4218513,
+                        48.857053
+                    ],
+                    [
+                        2.4220692,
+                        48.8569813
+                    ],
+                    [
+                        2.4221435,
+                        48.8569698
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Place de la Fraternit\u00e9",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233276281,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4221435,
+                        48.8569698
+                    ],
+                    [
+                        2.4220813,
+                        48.8570209
+                    ],
+                    [
+                        2.4220182,
+                        48.8570927
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Place de la Fraternit\u00e9",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

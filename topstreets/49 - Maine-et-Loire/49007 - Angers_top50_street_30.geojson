@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 189073167,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5580658,
+                        47.4682915
+                    ],
+                    [
+                        -0.55798,
+                        47.4682607
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "highway": "platform",
+                "name": "CCI",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189073168,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5576313,
+                        47.4683223
+                    ],
+                    [
+                        -0.5575481,
+                        47.4682915
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "highway": "platform",
+                "name": "CCI",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

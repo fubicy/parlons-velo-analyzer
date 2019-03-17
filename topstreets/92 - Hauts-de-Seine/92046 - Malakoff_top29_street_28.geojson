@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17240072,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2911869,
+                        48.8176887
+                    ],
+                    [
+                        2.2912194,
+                        48.8177201
+                    ],
+                    [
+                        2.2921073,
+                        48.8181522
+                    ],
+                    [
+                        2.2921447,
+                        48.8181863
+                    ],
+                    [
+                        2.2921749,
+                        48.8182022
+                    ],
+                    [
+                        2.2922794,
+                        48.8182546
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Avenue Arblade",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99197570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2922794,
+                        48.8182546
+                    ],
+                    [
+                        2.29233,
+                        48.8182833
+                    ],
+                    [
+                        2.2923648,
+                        48.818303
+                    ],
+                    [
+                        2.2931022,
+                        48.8187027
+                    ],
+                    [
+                        2.2942212,
+                        48.8194273
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Avenue Arblade",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

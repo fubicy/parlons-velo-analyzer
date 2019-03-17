@@ -1,0 +1,251 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4914228,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1954804,
+                        48.0093915
+                    ],
+                    [
+                        0.195362,
+                        48.0094571
+                    ],
+                    [
+                        0.1952865,
+                        48.0094992
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "primary",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Wilbur Wright",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22790493,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1959112,
+                        48.0091516
+                    ],
+                    [
+                        0.1966234,
+                        48.0087718
+                    ]
+                ]
+            },
+            "properties": {
+                "cutting": "yes",
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "-1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Wilbur Wright",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22790494,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1980018,
+                        48.0080009
+                    ],
+                    [
+                        0.1981148,
+                        48.0079455
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Wilbur Wright",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121717474,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1966234,
+                        48.0087718
+                    ],
+                    [
+                        0.1970736,
+                        48.0085244
+                    ],
+                    [
+                        0.197165,
+                        48.0084741
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "-2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Wilbur Wright",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "tunnel": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121717475,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.197165,
+                        48.0084741
+                    ],
+                    [
+                        0.1980018,
+                        48.0080009
+                    ]
+                ]
+            },
+            "properties": {
+                "cutting": "yes",
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "layer": "-1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Wilbur Wright",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141815996,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1959112,
+                        48.0091516
+                    ],
+                    [
+                        0.1958656,
+                        48.0091753
+                    ],
+                    [
+                        0.1957368,
+                        48.0092486
+                    ],
+                    [
+                        0.1956549,
+                        48.0092942
+                    ],
+                    [
+                        0.195594,
+                        48.0093281
+                    ],
+                    [
+                        0.1954804,
+                        48.0093915
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "cycleway:left": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Wilbur Wright",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 468044722,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1981148,
+                        48.0079455
+                    ],
+                    [
+                        0.1983608,
+                        48.0078512
+                    ],
+                    [
+                        0.1984252,
+                        48.0078265
+                    ],
+                    [
+                        0.1985217,
+                        48.0077895
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Wilbur Wright",
+                "sidewalk": "left",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

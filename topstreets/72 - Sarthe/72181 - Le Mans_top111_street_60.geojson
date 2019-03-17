@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24029561,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.18478,
+                        47.998661
+                    ],
+                    [
+                        0.1851496,
+                        47.9990642
+                    ],
+                    [
+                        0.1854772,
+                        47.9994056
+                    ],
+                    [
+                        0.1857688,
+                        47.9996861
+                    ],
+                    [
+                        0.1857902,
+                        47.9997058
+                    ],
+                    [
+                        0.1858147,
+                        47.9997292
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "cycleway": "no",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Colonel Raynal",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 182795266,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1858147,
+                        47.9997292
+                    ],
+                    [
+                        0.1858705,
+                        47.9997889
+                    ],
+                    [
+                        0.1865201,
+                        48.0004659
+                    ],
+                    [
+                        0.1865617,
+                        48.000511
+                    ],
+                    [
+                        0.1869453,
+                        48.0009049
+                    ],
+                    [
+                        0.1870465,
+                        48.0010153
+                    ],
+                    [
+                        0.1870606,
+                        48.001035
+                    ],
+                    [
+                        0.1870821,
+                        48.0010667
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Colonel Raynal",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

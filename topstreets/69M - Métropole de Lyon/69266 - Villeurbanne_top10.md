@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 610 réponses dont 521 réponses avec une r
 
 87 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Cours Émile Zola | 109 | 17% | <img src="../../img/bar_20.gif" />&nbsp;20%|
-| Cours Tolstoï | 39 | 6% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| La Doua | 28 | 4% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Zola | 25 | 4% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Gratte-Ciel | 19 | 3% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Route de Genas | 17 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Anatole France | 16 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Pont de Cusset | 16 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Avenue Roger Salengro | 15 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue Colin | 14 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 298 | 48% | 57%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Cours Émile Zola | 109 | <img src="../../img/bar_36.gif" />&nbsp;36%|
+| Cours Tolstoï | 39 | <img src="../../img/bar_13.gif" />&nbsp;13%|
+| La Doua | 28 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Zola | 25 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Gratte-Ciel | 19 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Route de Genas | 17 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue Anatole France | 16 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Pont de Cusset | 16 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Avenue Roger Salengro | 15 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue Colin | 14 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| **Total** | 298 | 100%|

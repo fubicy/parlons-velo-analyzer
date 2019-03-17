@@ -1,0 +1,128 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 480759136,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4034122,
+                        48.8893961
+                    ],
+                    [
+                        2.4034021,
+                        48.8894491
+                    ],
+                    [
+                        2.403331,
+                        48.8897489
+                    ],
+                    [
+                        2.4033109,
+                        48.8898269
+                    ],
+                    [
+                        2.4032807,
+                        48.889882
+                    ],
+                    [
+                        2.4032653,
+                        48.8899111
+                    ],
+                    [
+                        2.4027778,
+                        48.890926
+                    ],
+                    [
+                        2.4027175,
+                        48.8910649
+                    ],
+                    [
+                        2.4026598,
+                        48.8911641
+                    ],
+                    [
+                        2.4025954,
+                        48.8912483
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "busway:left": "opposite_lane",
+                "cycleway:left": "opposite_share_busway",
+                "highway": "tertiary",
+                "name": "Rue du Pr\u00e9-Saint-Gervais",
+                "oneway": "yes",
+                "psv": "designated",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 553765268,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4036921,
+                        48.8883903
+                    ],
+                    [
+                        2.4036793,
+                        48.8884533
+                    ],
+                    [
+                        2.403603,
+                        48.8887573
+                    ],
+                    [
+                        2.4035309,
+                        48.8888936
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "highway": "tertiary",
+                "name": "Rue du Pr\u00e9-Saint-Gervais",
+                "oneway": "yes",
+                "psv": "opposite",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 572913883,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4035309,
+                        48.8888936
+                    ],
+                    [
+                        2.4034122,
+                        48.8893961
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "highway": "tertiary",
+                "name": "Rue du Pr\u00e9-Saint-Gervais",
+                "oneway": "yes",
+                "psv": "opposite",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

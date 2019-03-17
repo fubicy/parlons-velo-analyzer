@@ -1,0 +1,1931 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5079419,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.42297,
+                        43.5291556
+                    ],
+                    [
+                        5.4225617,
+                        43.5293076
+                    ],
+                    [
+                        5.4217522,
+                        43.5295844
+                    ],
+                    [
+                        5.4206631,
+                        43.529861
+                    ],
+                    [
+                        5.4205895,
+                        43.5298797
+                    ],
+                    [
+                        5.4187162,
+                        43.5303546
+                    ],
+                    [
+                        5.4172056,
+                        43.5306076
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5079432,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4364076,
+                        43.5287336
+                    ],
+                    [
+                        5.4362337,
+                        43.528714
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5081135,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4279154,
+                        43.5282942
+                    ],
+                    [
+                        5.4279354,
+                        43.5282935
+                    ],
+                    [
+                        5.4282478,
+                        43.5282842
+                    ],
+                    [
+                        5.4283269,
+                        43.5282844
+                    ],
+                    [
+                        5.4295215,
+                        43.5282323
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7989798,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4279354,
+                        43.5282935
+                    ],
+                    [
+                        5.4279194,
+                        43.5283296
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "motorway_link",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "toll": "no",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23976655,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4060196,
+                        43.5284441
+                    ],
+                    [
+                        5.4061042,
+                        43.5285225
+                    ],
+                    [
+                        5.406214,
+                        43.5285843
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "A 51;Aix-Centre;Aix-Jas de Bouffan;Les Milles",
+                "destination:symbol": "motorway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23976656,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4099921,
+                        43.5302036
+                    ],
+                    [
+                        5.4098341,
+                        43.530128
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Avignon;Salon-de-Provence;Berre-l'\u00c9tang",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23976658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4052962,
+                        43.5283917
+                    ],
+                    [
+                        5.4051752,
+                        43.5282422
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Ventabren;Roquefavour",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23976659,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.399417,
+                        43.5256425
+                    ],
+                    [
+                        5.3997868,
+                        43.5257775
+                    ],
+                    [
+                        5.4011005,
+                        43.526311
+                    ],
+                    [
+                        5.4022734,
+                        43.5268344
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "70",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23976660,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.399417,
+                        43.5256425
+                    ],
+                    [
+                        5.399056,
+                        43.5254973
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "70",
+                "name": "Route de Galice",
+                "ref": "D 64",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23976668,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.410539,
+                        43.5301615
+                    ],
+                    [
+                        5.410702,
+                        43.5302281
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "A 51;Sisteron;Puyricard;Les Milles",
+                "destination:symbol": "motorway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28173768,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.432895,
+                        43.5282256
+                    ],
+                    [
+                        5.4331805,
+                        43.5282522
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28173770,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4331805,
+                        43.5282522
+                    ],
+                    [
+                        5.4336868,
+                        43.5282976
+                    ],
+                    [
+                        5.4340192,
+                        43.5283336
+                    ],
+                    [
+                        5.4342856,
+                        43.5283754
+                    ],
+                    [
+                        5.4344238,
+                        43.528404
+                    ],
+                    [
+                        5.4350063,
+                        43.5285244
+                    ],
+                    [
+                        5.4353915,
+                        43.5285839
+                    ],
+                    [
+                        5.4363368,
+                        43.5286502
+                    ],
+                    [
+                        5.4364113,
+                        43.5286561
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:bus": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31451234,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4264654,
+                        43.5284247
+                    ],
+                    [
+                        5.4259577,
+                        43.5284274
+                    ],
+                    [
+                        5.4256085,
+                        43.5284424
+                    ],
+                    [
+                        5.4253071,
+                        43.5284653
+                    ],
+                    [
+                        5.4249371,
+                        43.528508
+                    ],
+                    [
+                        5.4247905,
+                        43.5285327
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31451235,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.424112,
+                        43.5285895
+                    ],
+                    [
+                        5.4245281,
+                        43.5284985
+                    ],
+                    [
+                        5.4248856,
+                        43.5284431
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31451530,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4276857,
+                        43.5284198
+                    ],
+                    [
+                        5.4272833,
+                        43.5284221
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31451531,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.427031,
+                        43.5284271
+                    ],
+                    [
+                        5.4267328,
+                        43.5284284
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31451532,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4272377,
+                        43.5283126
+                    ],
+                    [
+                        5.4275855,
+                        43.5283006
+                    ],
+                    [
+                        5.4279154,
+                        43.5282942
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48909148,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4022734,
+                        43.5268344
+                    ],
+                    [
+                        5.4035608,
+                        43.5273965
+                    ],
+                    [
+                        5.4051445,
+                        43.5281031
+                    ],
+                    [
+                        5.4054027,
+                        43.5282017
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90285541,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4269284,
+                        43.5283234
+                    ],
+                    [
+                        5.4272377,
+                        43.5283126
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179310483,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4321439,
+                        43.5281993
+                    ],
+                    [
+                        5.4324816,
+                        43.5282211
+                    ],
+                    [
+                        5.432895,
+                        43.5282256
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FRzone30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219844050,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4267328,
+                        43.5284284
+                    ],
+                    [
+                        5.4264654,
+                        43.5284247
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 434279605,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4279339,
+                        43.5284199
+                    ],
+                    [
+                        5.4276857,
+                        43.5284198
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 434279608,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4272833,
+                        43.5284221
+                    ],
+                    [
+                        5.427031,
+                        43.5284271
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444545446,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3890798,
+                        43.5249565
+                    ],
+                    [
+                        5.3880694,
+                        43.525131
+                    ],
+                    [
+                        5.3860526,
+                        43.5251722
+                    ],
+                    [
+                        5.3854567,
+                        43.5251844
+                    ],
+                    [
+                        5.3843414,
+                        43.5251632
+                    ],
+                    [
+                        5.3804747,
+                        43.524542
+                    ],
+                    [
+                        5.3765283,
+                        43.5238621
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Route de Galice",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444550165,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.399056,
+                        43.5254973
+                    ],
+                    [
+                        5.3988693,
+                        43.5254223
+                    ],
+                    [
+                        5.3985441,
+                        43.5253228
+                    ],
+                    [
+                        5.3984306,
+                        43.5252881
+                    ],
+                    [
+                        5.3979056,
+                        43.5251775
+                    ],
+                    [
+                        5.3975054,
+                        43.5251019
+                    ],
+                    [
+                        5.3970333,
+                        43.5250837
+                    ],
+                    [
+                        5.395539,
+                        43.525093
+                    ],
+                    [
+                        5.3953257,
+                        43.5250865
+                    ],
+                    [
+                        5.3946914,
+                        43.525036
+                    ],
+                    [
+                        5.3944713,
+                        43.5249991
+                    ],
+                    [
+                        5.3943974,
+                        43.5249867
+                    ],
+                    [
+                        5.3943621,
+                        43.5249808
+                    ],
+                    [
+                        5.394246,
+                        43.5249613
+                    ],
+                    [
+                        5.3941953,
+                        43.5249528
+                    ],
+                    [
+                        5.3941046,
+                        43.5249378
+                    ],
+                    [
+                        5.3940004,
+                        43.5249206
+                    ],
+                    [
+                        5.3937278,
+                        43.5248755
+                    ],
+                    [
+                        5.3928495,
+                        43.5247303
+                    ],
+                    [
+                        5.3923315,
+                        43.5245749
+                    ],
+                    [
+                        5.3922587,
+                        43.524553
+                    ],
+                    [
+                        5.3912175,
+                        43.5245937
+                    ],
+                    [
+                        5.3909622,
+                        43.5246273
+                    ],
+                    [
+                        5.3906715,
+                        43.5246737
+                    ],
+                    [
+                        5.3897353,
+                        43.5248268
+                    ],
+                    [
+                        5.3890798,
+                        43.5249565
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "ref": "D 64",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444550772,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4038884,
+                        43.5276468
+                    ],
+                    [
+                        5.4034812,
+                        43.5274662
+                    ],
+                    [
+                        5.4025567,
+                        43.5270633
+                    ],
+                    [
+                        5.4013564,
+                        43.5265439
+                    ],
+                    [
+                        5.4008502,
+                        43.5262953
+                    ],
+                    [
+                        5.3997367,
+                        43.5258055
+                    ],
+                    [
+                        5.399417,
+                        43.5256425
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "70",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444550773,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4051752,
+                        43.5282422
+                    ],
+                    [
+                        5.4044193,
+                        43.5278888
+                    ],
+                    [
+                        5.4038884,
+                        43.5276468
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "70",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444551077,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.406214,
+                        43.5285843
+                    ],
+                    [
+                        5.4076412,
+                        43.5292205
+                    ],
+                    [
+                        5.4085946,
+                        43.5296423
+                    ],
+                    [
+                        5.409181,
+                        43.5298486
+                    ],
+                    [
+                        5.4098593,
+                        43.5300544
+                    ],
+                    [
+                        5.4100564,
+                        43.5300633
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444552277,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4098341,
+                        43.530128
+                    ],
+                    [
+                        5.4095285,
+                        43.5300472
+                    ],
+                    [
+                        5.4091266,
+                        43.5299409
+                    ],
+                    [
+                        5.4085287,
+                        43.5297211
+                    ],
+                    [
+                        5.4075873,
+                        43.5293185
+                    ],
+                    [
+                        5.406168,
+                        43.528661
+                    ],
+                    [
+                        5.4059991,
+                        43.5286167
+                    ],
+                    [
+                        5.4058556,
+                        43.5286137
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444552279,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.410702,
+                        43.5302281
+                    ],
+                    [
+                        5.4114307,
+                        43.5303316
+                    ],
+                    [
+                        5.4119587,
+                        43.5303843
+                    ],
+                    [
+                        5.4123804,
+                        43.5304005
+                    ],
+                    [
+                        5.4128255,
+                        43.5304007
+                    ],
+                    [
+                        5.4145471,
+                        43.5303852
+                    ],
+                    [
+                        5.414978,
+                        43.5303899
+                    ],
+                    [
+                        5.4151109,
+                        43.5303941
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444552743,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4153242,
+                        43.5304858
+                    ],
+                    [
+                        5.4151841,
+                        43.530479
+                    ],
+                    [
+                        5.4148849,
+                        43.5304644
+                    ],
+                    [
+                        5.4145931,
+                        43.5304541
+                    ],
+                    [
+                        5.4131739,
+                        43.5304799
+                    ],
+                    [
+                        5.4128057,
+                        43.530489
+                    ],
+                    [
+                        5.4123779,
+                        43.5304911
+                    ],
+                    [
+                        5.4119492,
+                        43.5304749
+                    ],
+                    [
+                        5.4114097,
+                        43.5304266
+                    ],
+                    [
+                        5.4106721,
+                        43.5303086
+                    ],
+                    [
+                        5.4104707,
+                        43.5303262
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444552744,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4172056,
+                        43.5306076
+                    ],
+                    [
+                        5.4176106,
+                        43.5304541
+                    ],
+                    [
+                        5.4180811,
+                        43.5303707
+                    ],
+                    [
+                        5.4187101,
+                        43.5302593
+                    ],
+                    [
+                        5.4202691,
+                        43.5298624
+                    ],
+                    [
+                        5.4206393,
+                        43.5297681
+                    ],
+                    [
+                        5.421752,
+                        43.52947
+                    ],
+                    [
+                        5.4221706,
+                        43.5293396
+                    ],
+                    [
+                        5.4226019,
+                        43.5291721
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 444554785,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4279194,
+                        43.5283296
+                    ],
+                    [
+                        5.4278307,
+                        43.5283763
+                    ],
+                    [
+                        5.4276857,
+                        43.5284198
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 446580197,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4282762,
+                        43.5283981
+                    ],
+                    [
+                        5.4280995,
+                        43.5284099
+                    ],
+                    [
+                        5.4279339,
+                        43.5284199
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 474589555,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4248856,
+                        43.5284431
+                    ],
+                    [
+                        5.4252154,
+                        43.5283985
+                    ],
+                    [
+                        5.4256127,
+                        43.5283685
+                    ],
+                    [
+                        5.4259682,
+                        43.52835
+                    ],
+                    [
+                        5.4265247,
+                        43.5283309
+                    ],
+                    [
+                        5.4269284,
+                        43.5283234
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 570226144,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4295215,
+                        43.5282323
+                    ],
+                    [
+                        5.4295561,
+                        43.5282308
+                    ],
+                    [
+                        5.4313963,
+                        43.5281774
+                    ],
+                    [
+                        5.4321439,
+                        43.5281993
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:bus": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 570226145,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4293797,
+                        43.5283259
+                    ],
+                    [
+                        5.4287962,
+                        43.5283519
+                    ],
+                    [
+                        5.42849,
+                        43.5283825
+                    ],
+                    [
+                        5.4282762,
+                        43.5283981
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 574121565,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4322949,
+                        43.5282967
+                    ],
+                    [
+                        5.4317717,
+                        43.5282574
+                    ],
+                    [
+                        5.4314067,
+                        43.5282541
+                    ],
+                    [
+                        5.431339,
+                        43.5282535
+                    ],
+                    [
+                        5.4300124,
+                        43.5283037
+                    ],
+                    [
+                        5.4295946,
+                        43.5283195
+                    ],
+                    [
+                        5.429564,
+                        43.5283204
+                    ],
+                    [
+                        5.4293797,
+                        43.5283259
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 574121566,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.432761,
+                        43.5283289
+                    ],
+                    [
+                        5.4322949,
+                        43.5282967
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 574121568,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4331343,
+                        43.5283545
+                    ],
+                    [
+                        5.4328796,
+                        43.528337
+                    ],
+                    [
+                        5.432761,
+                        43.5283289
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 574121569,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4332068,
+                        43.5283573
+                    ],
+                    [
+                        5.4331343,
+                        43.5283545
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "surface": "asphalt",
+                "turn:lanes": "left|none|none",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616721080,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4362337,
+                        43.528714
+                    ],
+                    [
+                        5.4353983,
+                        43.5286476
+                    ],
+                    [
+                        5.4351544,
+                        43.5286211
+                    ],
+                    [
+                        5.4348912,
+                        43.528587
+                    ],
+                    [
+                        5.4343943,
+                        43.5284803
+                    ],
+                    [
+                        5.4341095,
+                        43.5284236
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616721083,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4341095,
+                        43.5284236
+                    ],
+                    [
+                        5.4336826,
+                        43.5283758
+                    ],
+                    [
+                        5.4332068,
+                        43.5283573
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "surface": "asphalt",
+                "turn:lanes": "left|none|none",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 628242557,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4234706,
+                        43.5290887
+                    ],
+                    [
+                        5.4234208,
+                        43.5290959
+                    ],
+                    [
+                        5.4233517,
+                        43.5291058
+                    ],
+                    [
+                        5.42297,
+                        43.5291556
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 628242562,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4239462,
+                        43.5289425
+                    ],
+                    [
+                        5.4234706,
+                        43.5290887
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 628242566,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4226019,
+                        43.5291721
+                    ],
+                    [
+                        5.4228705,
+                        43.5290388
+                    ],
+                    [
+                        5.4229606,
+                        43.5289941
+                    ],
+                    [
+                        5.4231506,
+                        43.5288768
+                    ],
+                    [
+                        5.4232458,
+                        43.528825
+                    ],
+                    [
+                        5.4232922,
+                        43.5287997
+                    ],
+                    [
+                        5.4237875,
+                        43.5286203
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 628242571,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4237875,
+                        43.5286203
+                    ],
+                    [
+                        5.4239352,
+                        43.5286069
+                    ],
+                    [
+                        5.424112,
+                        43.5285895
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 640841105,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4247905,
+                        43.5285327
+                    ],
+                    [
+                        5.4246364,
+                        43.5285773
+                    ],
+                    [
+                        5.4243823,
+                        43.5286753
+                    ],
+                    [
+                        5.4241638,
+                        43.5288012
+                    ],
+                    [
+                        5.4240744,
+                        43.5288592
+                    ],
+                    [
+                        5.4239462,
+                        43.5289425
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "ref": "D 64",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 664908019,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4151109,
+                        43.5303941
+                    ],
+                    [
+                        5.4152419,
+                        43.5304023
+                    ],
+                    [
+                        5.4153587,
+                        43.5304121
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Route de Galice",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8463302,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7509501,
+                        48.5793422
+                    ],
+                    [
+                        7.7508794,
+                        48.5793895
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lcn": "yes",
+                "maxspeed": "30",
+                "name": "Pont du Corbeau",
+                "name:de": "Rabenbr\u00fccke",
+                "old_ref": "N 4",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39652759,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7508794,
+                        48.5793895
+                    ],
+                    [
+                        7.750849,
+                        48.579412
+                    ],
+                    [
+                        7.7506161,
+                        48.5796029
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "lcn": "yes",
+                "maxspeed": "30",
+                "name": "Pont du Corbeau",
+                "name:de": "Rabenbr\u00fccke",
+                "note": "FIXME <- done ?",
+                "old_ref": "N 4",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109067900,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.75093,
+                        48.5794151
+                    ],
+                    [
+                        7.7508894,
+                        48.5794414
+                    ],
+                    [
+                        7.750671,
+                        48.5796266
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "lcn": "yes",
+                "lit": "yes",
+                "name": "Pont du Corbeau",
+                "source": "Bing",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

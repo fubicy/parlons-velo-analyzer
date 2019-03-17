@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 286610165,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7602744,
+                        48.5663464
+                    ],
+                    [
+                        7.7601076,
+                        48.5664118
+                    ],
+                    [
+                        7.7598971,
+                        48.5664943
+                    ],
+                    [
+                        7.7599617,
+                        48.5665676
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Place du March\u00e9-Neudorf",
+                "source": "Bing",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 566123782,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7601076,
+                        48.5664118
+                    ],
+                    [
+                        7.759615,
+                        48.5658977
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Place du March\u00e9-Neudorf",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

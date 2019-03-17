@@ -1,0 +1,666 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24607013,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0714168,
+                        49.4288306
+                    ],
+                    [
+                        1.0715025,
+                        49.4289215
+                    ],
+                    [
+                        1.0716234,
+                        49.4290754
+                    ],
+                    [
+                        1.0716884,
+                        49.4291437
+                    ],
+                    [
+                        1.0716532,
+                        49.4291903
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Jean Rondeaux",
+                "old_ref": "N138",
+                "oneway": "yes",
+                "ref": "D 938",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180564683,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0768996,
+                        49.4353841
+                    ],
+                    [
+                        1.0763138,
+                        49.4347319
+                    ],
+                    [
+                        1.0762632,
+                        49.4346835
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "N 138",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180564684,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0761433,
+                        49.4345393
+                    ],
+                    [
+                        1.0760934,
+                        49.4344692
+                    ],
+                    [
+                        1.0760005,
+                        49.4343329
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "D 938",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188763490,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0756771,
+                        49.433857
+                    ],
+                    [
+                        1.0758819,
+                        49.4340203
+                    ],
+                    [
+                        1.0760924,
+                        49.4342372
+                    ],
+                    [
+                        1.0762227,
+                        49.4343851
+                    ],
+                    [
+                        1.0762428,
+                        49.4344111
+                    ],
+                    [
+                        1.0762953,
+                        49.434479
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "D 938",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188763492,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0716532,
+                        49.4291903
+                    ],
+                    [
+                        1.072328,
+                        49.4300296
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:backward": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue Jean Rondeaux",
+                "ref": "D 938",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188763493,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.072328,
+                        49.4300296
+                    ],
+                    [
+                        1.0733555,
+                        49.4312186
+                    ],
+                    [
+                        1.0734807,
+                        49.4313634
+                    ],
+                    [
+                        1.0737052,
+                        49.4316232
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Avenue Jean Rondeaux",
+                "ref": "D 938",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188763494,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0741434,
+                        49.4321349
+                    ],
+                    [
+                        1.0744396,
+                        49.4324582
+                    ],
+                    [
+                        1.0747924,
+                        49.4328605
+                    ],
+                    [
+                        1.0755109,
+                        49.433679
+                    ],
+                    [
+                        1.0756771,
+                        49.433857
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "primary",
+                "horse": "yes",
+                "lanes": "4",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "no",
+                "ref": "D 938",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188763495,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0741434,
+                        49.4321349
+                    ],
+                    [
+                        1.0740717,
+                        49.4321349
+                    ],
+                    [
+                        1.0739411,
+                        49.4319848
+                    ],
+                    [
+                        1.0739199,
+                        49.4319604
+                    ],
+                    [
+                        1.0738605,
+                        49.4318921
+                    ],
+                    [
+                        1.0737792,
+                        49.4317983
+                    ],
+                    [
+                        1.0736794,
+                        49.4316831
+                    ],
+                    [
+                        1.0737052,
+                        49.4316232
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "D 938",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188763496,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0737052,
+                        49.4316232
+                    ],
+                    [
+                        1.0737904,
+                        49.4316502
+                    ],
+                    [
+                        1.0739149,
+                        49.4317905
+                    ],
+                    [
+                        1.0739327,
+                        49.4318106
+                    ],
+                    [
+                        1.0740159,
+                        49.4319044
+                    ],
+                    [
+                        1.0740703,
+                        49.4319708
+                    ],
+                    [
+                        1.0741771,
+                        49.432101
+                    ],
+                    [
+                        1.0741434,
+                        49.4321349
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "D 938",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188763497,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0716532,
+                        49.4291903
+                    ],
+                    [
+                        1.0715562,
+                        49.429183
+                    ],
+                    [
+                        1.0713799,
+                        49.4290128
+                    ],
+                    [
+                        1.0712148,
+                        49.428812
+                    ],
+                    [
+                        1.0711218,
+                        49.4287606
+                    ],
+                    [
+                        1.0709374,
+                        49.4286819
+                    ],
+                    [
+                        1.0708007,
+                        49.4285891
+                    ],
+                    [
+                        1.0707,
+                        49.4284188
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "D 938",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199200000,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0762953,
+                        49.434479
+                    ],
+                    [
+                        1.0764144,
+                        49.4346104
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "N 138",
+                "source:maxspeed": "FR:urban",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 498406526,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.078608,
+                        49.437113
+                    ],
+                    [
+                        1.0785472,
+                        49.4371356
+                    ],
+                    [
+                        1.0784511,
+                        49.4371714
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Avenue Jean Rondeaux",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 618028598,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.077083,
+                        49.4356009
+                    ],
+                    [
+                        1.0768996,
+                        49.4353841
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "N 138",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 618028601,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0784511,
+                        49.4371714
+                    ],
+                    [
+                        1.077083,
+                        49.4356009
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "N 138",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 618028606,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.077083,
+                        49.4356009
+                    ],
+                    [
+                        1.077168,
+                        49.4355733
+                    ],
+                    [
+                        1.077246,
+                        49.4355479
+                    ]
+                ]
+            },
+            "properties": {
+                "description": "Axe en projet pour acc\u00e8s sud pont Flaubert / Ecoquartier",
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Avenue Jean Rondeaux",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 670458213,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0762632,
+                        49.4346835
+                    ],
+                    [
+                        1.0761433,
+                        49.4345393
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "N 138",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 670458223,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0764144,
+                        49.4346104
+                    ],
+                    [
+                        1.076536,
+                        49.4347421
+                    ],
+                    [
+                        1.0765882,
+                        49.4348058
+                    ],
+                    [
+                        1.0768734,
+                        49.4351133
+                    ],
+                    [
+                        1.0770816,
+                        49.4353645
+                    ],
+                    [
+                        1.077246,
+                        49.4355479
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "N 138",
+                "source:maxspeed": "FR:urban",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 670458231,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0760005,
+                        49.4343329
+                    ],
+                    [
+                        1.0757573,
+                        49.4340406
+                    ],
+                    [
+                        1.0756771,
+                        49.433857
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Jean Rondeaux",
+                "oneway": "yes",
+                "ref": "D 938",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

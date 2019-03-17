@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28677148,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5673634,
+                        47.2139124
+                    ],
+                    [
+                        -1.5673503,
+                        47.2138369
+                    ],
+                    [
+                        -1.5671705,
+                        47.2129582
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue de la Rosi\u00e8re d'Artois",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B14[30]",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28729998,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5674796,
+                        47.2145653
+                    ],
+                    [
+                        -1.5674497,
+                        47.214397
+                    ],
+                    [
+                        -1.5674312,
+                        47.2142754
+                    ],
+                    [
+                        -1.5673634,
+                        47.2139124
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Rosi\u00e8re d'Artois",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164752131,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5671705,
+                        47.2129582
+                    ],
+                    [
+                        -1.5671612,
+                        47.2128492
+                    ],
+                    [
+                        -1.5671047,
+                        47.2121885
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Rosi\u00e8re d'Artois",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196305666,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5671047,
+                        47.2121885
+                    ],
+                    [
+                        -1.5670596,
+                        47.2115599
+                    ],
+                    [
+                        -1.5670288,
+                        47.2115248
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Rosi\u00e8re d'Artois",
+                "note": "Sens unique invers\u00e9 pendant travaux rue D\u00e9sir\u00e9 Colombe",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

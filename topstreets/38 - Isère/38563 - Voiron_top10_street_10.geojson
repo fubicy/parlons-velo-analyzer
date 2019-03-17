@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 576375255,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5956288,
+                        45.3602564
+                    ],
+                    [
+                        5.5954714,
+                        45.3602432
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Denfert-Rochereau",
+                "network": "Pays Voironnais Mobilit\u00e9",
+                "public_transport": "platform",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 576375256,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5954622,
+                        45.3601174
+                    ],
+                    [
+                        5.595664,
+                        45.3601306
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Denfert-Rochereau",
+                "network": "Pays Voironnais Mobilit\u00e9",
+                "public_transport": "platform",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

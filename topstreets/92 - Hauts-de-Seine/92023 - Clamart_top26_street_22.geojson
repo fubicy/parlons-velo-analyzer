@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 220404869,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2699411,
+                        48.7983214
+                    ],
+                    [
+                        2.2691768,
+                        48.7979512
+                    ],
+                    [
+                        2.2681534,
+                        48.7986772
+                    ],
+                    [
+                        2.2680457,
+                        48.7987143
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Louise Filleaux Tiger",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

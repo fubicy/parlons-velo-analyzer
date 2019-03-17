@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 15728212,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7587723,
+                        48.5858446
+                    ],
+                    [
+                        7.7586449,
+                        48.5858816
+                    ],
+                    [
+                        7.7584644,
+                        48.5859339
+                    ],
+                    [
+                        7.7578299,
+                        48.5861177
+                    ],
+                    [
+                        7.7563906,
+                        48.5865348
+                    ],
+                    [
+                        7.7562201,
+                        48.5865842
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Avenue de la Libert\u00e9",
+                "name:de": "Kaiser-Wilhelm-Stra\u00dfe",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110580708,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7606541,
+                        48.5853883
+                    ],
+                    [
+                        7.7602185,
+                        48.5854223
+                    ],
+                    [
+                        7.7600476,
+                        48.5854702
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue de la Libert\u00e9",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039689,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4674459,
+                        48.8201642
+                    ],
+                    [
+                        2.4699254,
+                        48.8201398
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "busway": "lane",
+                "highway": "primary",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Joinville",
+                "old_ref": "N 4",
+                "ref": "D 4",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "wikidata": "Q3396993",
+                "wikipedia": "fr:Pont de Joinville",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

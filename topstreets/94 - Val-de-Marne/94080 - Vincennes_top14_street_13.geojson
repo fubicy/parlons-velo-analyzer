@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22880496,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4389001,
+                        48.8453778
+                    ],
+                    [
+                        2.4389369,
+                        48.8453746
+                    ],
+                    [
+                        2.4389867,
+                        48.8453703
+                    ],
+                    [
+                        2.4390248,
+                        48.845367
+                    ],
+                    [
+                        2.4395419,
+                        48.845322
+                    ],
+                    [
+                        2.4395862,
+                        48.8453182
+                    ],
+                    [
+                        2.4396231,
+                        48.8453149
+                    ],
+                    [
+                        2.4396481,
+                        48.8453128
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Cours Marigny",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24412529,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4392177,
+                        48.8469716
+                    ],
+                    [
+                        2.4391777,
+                        48.8467709
+                    ],
+                    [
+                        2.4391056,
+                        48.8464086
+                    ],
+                    [
+                        2.4390108,
+                        48.8459323
+                    ],
+                    [
+                        2.4389965,
+                        48.8458605
+                    ],
+                    [
+                        2.4389001,
+                        48.8453778
+                    ],
+                    [
+                        2.4387653,
+                        48.8446991
+                    ],
+                    [
+                        2.4387531,
+                        48.8446381
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Cours Marigny",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 429943278,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4399748,
+                        48.8469124
+                    ],
+                    [
+                        2.4398776,
+                        48.8469125
+                    ],
+                    [
+                        2.4393179,
+                        48.8469626
+                    ],
+                    [
+                        2.4392177,
+                        48.8469716
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "name": "Cours Marigny",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516122953,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4394925,
+                        48.844572
+                    ],
+                    [
+                        2.4395159,
+                        48.8446837
+                    ],
+                    [
+                        2.4396331,
+                        48.8452417
+                    ],
+                    [
+                        2.4396481,
+                        48.8453128
+                    ],
+                    [
+                        2.4396577,
+                        48.8453584
+                    ],
+                    [
+                        2.4397903,
+                        48.8459896
+                    ],
+                    [
+                        2.439807,
+                        48.8460693
+                    ],
+                    [
+                        2.4398186,
+                        48.8461247
+                    ],
+                    [
+                        2.4399713,
+                        48.8468512
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "1",
+                "name": "Cours Marigny",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 592190864,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4399713,
+                        48.8468512
+                    ],
+                    [
+                        2.4399748,
+                        48.8469124
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "tertiary",
+                "lanes": "1",
+                "name": "Cours Marigny",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

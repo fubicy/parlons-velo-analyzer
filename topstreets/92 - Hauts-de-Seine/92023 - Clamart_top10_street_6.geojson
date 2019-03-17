@@ -1,0 +1,254 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 235364708,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2668542,
+                        48.8037084
+                    ],
+                    [
+                        2.2668772,
+                        48.803722
+                    ],
+                    [
+                        2.2669694,
+                        48.8038668
+                    ],
+                    [
+                        2.2669887,
+                        48.8038971
+                    ],
+                    [
+                        2.2670781,
+                        48.8039816
+                    ],
+                    [
+                        2.2681523,
+                        48.8049807
+                    ],
+                    [
+                        2.2684366,
+                        48.8052607
+                    ],
+                    [
+                        2.2685024,
+                        48.8053257
+                    ],
+                    [
+                        2.2692301,
+                        48.8061101
+                    ],
+                    [
+                        2.2692647,
+                        48.8061459
+                    ],
+                    [
+                        2.2693414,
+                        48.8062122
+                    ],
+                    [
+                        2.2694911,
+                        48.8063414
+                    ],
+                    [
+                        2.2700783,
+                        48.8068485
+                    ],
+                    [
+                        2.2705319,
+                        48.8073092
+                    ],
+                    [
+                        2.2708253,
+                        48.8077365
+                    ],
+                    [
+                        2.2708798,
+                        48.8078159
+                    ],
+                    [
+                        2.2709233,
+                        48.8078805
+                    ],
+                    [
+                        2.2713672,
+                        48.8085405
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Victor Hugo",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235364709,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2668542,
+                        48.8037084
+                    ],
+                    [
+                        2.266802,
+                        48.8036019
+                    ],
+                    [
+                        2.2667634,
+                        48.8035276
+                    ],
+                    [
+                        2.2657707,
+                        48.801952
+                    ],
+                    [
+                        2.2656888,
+                        48.8018311
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "yes",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Victor Hugo",
+                "oneway": "no",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 617253756,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2713672,
+                        48.8085405
+                    ],
+                    [
+                        2.2713743,
+                        48.8085511
+                    ],
+                    [
+                        2.2714449,
+                        48.8086561
+                    ],
+                    [
+                        2.2714895,
+                        48.8087277
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Victor Hugo",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_calming": "hump",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 617253757,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2714895,
+                        48.8087277
+                    ],
+                    [
+                        2.2718471,
+                        48.8093024
+                    ],
+                    [
+                        2.27188,
+                        48.8093553
+                    ],
+                    [
+                        2.2719004,
+                        48.8094129
+                    ],
+                    [
+                        2.271968,
+                        48.8096042
+                    ],
+                    [
+                        2.2720733,
+                        48.809902
+                    ],
+                    [
+                        2.2722516,
+                        48.8104062
+                    ],
+                    [
+                        2.2724286,
+                        48.8109716
+                    ],
+                    [
+                        2.2725069,
+                        48.8112208
+                    ],
+                    [
+                        2.2725295,
+                        48.8112929
+                    ],
+                    [
+                        2.2726519,
+                        48.8116965
+                    ],
+                    [
+                        2.2727823,
+                        48.8121835
+                    ],
+                    [
+                        2.2728436,
+                        48.8124273
+                    ],
+                    [
+                        2.2729453,
+                        48.8126397
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Victor Hugo",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

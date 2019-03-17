@@ -1,0 +1,201 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37450052,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7238323,
+                        45.1878603
+                    ],
+                    [
+                        5.7236119,
+                        45.1878694
+                    ],
+                    [
+                        5.7235693,
+                        45.1878454
+                    ],
+                    [
+                        5.7235577,
+                        45.1877888
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue B\u00e9ranger",
+                "oneway": "yes",
+                "ref": "D 5",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 295093287,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7238323,
+                        45.1878603
+                    ],
+                    [
+                        5.7239601,
+                        45.1879295
+                    ],
+                    [
+                        5.7240801,
+                        45.1880006
+                    ],
+                    [
+                        5.7242536,
+                        45.1880968
+                    ],
+                    [
+                        5.7244482,
+                        45.1882003
+                    ],
+                    [
+                        5.7244935,
+                        45.1882485
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle:lanes:backward": "designated",
+                "bus:lanes:backward": "designated",
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "residential",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "30",
+                "name": "Rue B\u00e9ranger",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "source": "v2 ; cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 296946264,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7235577,
+                        45.1877888
+                    ],
+                    [
+                        5.7236036,
+                        45.1877831
+                    ],
+                    [
+                        5.7236632,
+                        45.1877904
+                    ],
+                    [
+                        5.7237304,
+                        45.1878216
+                    ],
+                    [
+                        5.7238323,
+                        45.1878603
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue B\u00e9ranger",
+                "oneway": "yes",
+                "source": "v2 ; cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 480036556,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7241219,
+                        45.1879711
+                    ],
+                    [
+                        5.724188,
+                        45.1880073
+                    ],
+                    [
+                        5.7243767,
+                        45.1881106
+                    ],
+                    [
+                        5.7244838,
+                        45.1881693
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue B\u00e9ranger",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 480036563,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7235672,
+                        45.1879255
+                    ],
+                    [
+                        5.723733,
+                        45.1878983
+                    ],
+                    [
+                        5.7240213,
+                        45.1880514
+                    ],
+                    [
+                        5.7243901,
+                        45.1882565
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue B\u00e9ranger",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

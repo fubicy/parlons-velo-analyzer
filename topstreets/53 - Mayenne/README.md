@@ -12,7 +12,7 @@ Sur l'ensemble du département, il y a eu 353 réponses dont 169 réponses avec 
 |53077 - Cossé-le-Vivien|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |53084 - Craon|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |53096 - Ernée|2|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
-|53130 - Laval&nbsp;&#124;&nbsp;<a href='53130 - Laval_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='53130 - Laval_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='53130 - Laval_top50.md'>Top 50</a>|248|141(56%)|<img src="../../img/bar_85.gif" />&nbsp;54|
+|53130 - Laval&nbsp;&#124;&nbsp;<a href='53130 - Laval_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='53130 - Laval_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='53130 - Laval_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='53130 - Laval_top54.md'>Top 1000</a>|248|141(56%)|<img src="../../img/bar_85.gif" />&nbsp;54|
 |53146 - Martigné-sur-Mayenne|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |53147 - Mayenne&nbsp;&#124;&nbsp;<a href='53147 - Mayenne_top3.md'>Top 10</a>|29|3(10%)|<img src="../../img/bar_4.gif" />&nbsp;3|
 | **Total** |353|169(47%)|63|

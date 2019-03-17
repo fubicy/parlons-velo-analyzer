@@ -1,0 +1,113 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 180456054,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3574397,
+                        48.6796813
+                    ],
+                    [
+                        -1.3575095,
+                        48.6797495
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des \u00c9coles",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180456055,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3572927,
+                        48.681875
+                    ],
+                    [
+                        -1.3571365,
+                        48.682259
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des \u00c9coles",
+                "oneway": "no",
+                "parking:lane:left": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180456056,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.3576124,
+                        48.6796892
+                    ],
+                    [
+                        -1.3575095,
+                        48.6797495
+                    ],
+                    [
+                        -1.3575079,
+                        48.6797728
+                    ],
+                    [
+                        -1.3574389,
+                        48.6808689
+                    ],
+                    [
+                        -1.3574389,
+                        48.6808786
+                    ],
+                    [
+                        -1.3574374,
+                        48.6809668
+                    ],
+                    [
+                        -1.3574348,
+                        48.6814226
+                    ],
+                    [
+                        -1.3573834,
+                        48.6816519
+                    ],
+                    [
+                        -1.3573041,
+                        48.6818477
+                    ],
+                    [
+                        -1.3572927,
+                        48.681875
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue des \u00c9coles",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "parking:lane:left": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28277623,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0934043,
+                        50.6422376
+                    ],
+                    [
+                        3.0935341,
+                        50.6422068
+                    ],
+                    [
+                        3.0936251,
+                        50.6421955
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Avenue \u00c9mile Zola",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29014174,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0834749,
+                        50.6508138
+                    ],
+                    [
+                        3.0835193,
+                        50.6507893
+                    ],
+                    [
+                        3.0842805,
+                        50.6503317
+                    ],
+                    [
+                        3.0847554,
+                        50.6500462
+                    ],
+                    [
+                        3.0865326,
+                        50.6489743
+                    ],
+                    [
+                        3.0865934,
+                        50.6489376
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Avenue \u00c9mile Zola",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80716060,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0939633,
+                        50.642331
+                    ],
+                    [
+                        3.0934043,
+                        50.6422376
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Avenue \u00c9mile Zola",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

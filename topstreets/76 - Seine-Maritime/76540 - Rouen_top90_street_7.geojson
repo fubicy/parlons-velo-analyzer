@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 146522582,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0868032,
+                        49.4459509
+                    ],
+                    [
+                        1.0866844,
+                        49.4460323
+                    ],
+                    [
+                        1.0866078,
+                        49.4460757
+                    ],
+                    [
+                        1.0865436,
+                        49.4460934
+                    ],
+                    [
+                        1.0864522,
+                        49.4460966
+                    ],
+                    [
+                        1.0863751,
+                        49.4460978
+                    ],
+                    [
+                        1.0863416,
+                        49.446096
+                    ],
+                    [
+                        1.0862762,
+                        49.4460881
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bicycle": "permissive",
+                "foot": "permissive",
+                "highway": "service",
+                "horse": "permissive",
+                "maxspeed": "50",
+                "motor_vehicle": "permissive",
+                "name": "Place Cauchoise",
+                "oneway": "yes",
+                "service": "driveway",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149887539,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0860519,
+                        49.4460484
+                    ],
+                    [
+                        1.0860157,
+                        49.446038
+                    ],
+                    [
+                        1.0859604,
+                        49.4459745
+                    ],
+                    [
+                        1.0859275,
+                        49.4459242
+                    ],
+                    [
+                        1.0859092,
+                        49.4458645
+                    ],
+                    [
+                        1.0859092,
+                        49.4458087
+                    ],
+                    [
+                        1.085922,
+                        49.4457553
+                    ],
+                    [
+                        1.0859553,
+                        49.4457012
+                    ],
+                    [
+                        1.0860057,
+                        49.4456544
+                    ],
+                    [
+                        1.0860194,
+                        49.4456417
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bicycle": "no",
+                "foot": "permissive",
+                "highway": "footway",
+                "horse": "no",
+                "lit": "yes",
+                "motor_vehicle": "no",
+                "name": "Place Cauchoise",
+                "surface": "paved",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

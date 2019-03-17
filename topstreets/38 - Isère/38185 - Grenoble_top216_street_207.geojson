@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29399714,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7151573,
+                        45.1770967
+                    ],
+                    [
+                        5.7150907,
+                        45.1771133
+                    ],
+                    [
+                        5.7133916,
+                        45.1775378
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "shared_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Chemin des Marronniers",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172639631,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7133596,
+                        45.177474
+                    ],
+                    [
+                        5.7129612,
+                        45.1775623
+                    ],
+                    [
+                        5.712119,
+                        45.1777489
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "path",
+                "horse": "yes",
+                "name": "Chemin des Marronniers",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "width": "1",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172639632,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7133916,
+                        45.1775378
+                    ],
+                    [
+                        5.7126994,
+                        45.1776934
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Chemin des Marronniers",
+                "service": "parking_aisle",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 463006280,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7126994,
+                        45.1776934
+                    ],
+                    [
+                        5.7121572,
+                        45.177831
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "lanes": "1",
+                "maxspeed": "20",
+                "name": "Chemin des Marronniers",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 51875690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1598623,
+                        49.3523214
+                    ],
+                    [
+                        6.1598444,
+                        49.3524113
+                    ],
+                    [
+                        6.1598118,
+                        49.3526479
+                    ],
+                    [
+                        6.1597884,
+                        49.3528158
+                    ],
+                    [
+                        6.1597328,
+                        49.3529846
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "track",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Marechal Joffre",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150396152,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.160472,
+                        49.3548101
+                    ],
+                    [
+                        6.1605512,
+                        49.3548426
+                    ],
+                    [
+                        6.1607839,
+                        49.354938
+                    ],
+                    [
+                        6.1610513,
+                        49.355012
+                    ],
+                    [
+                        6.1614648,
+                        49.3551002
+                    ],
+                    [
+                        6.1618922,
+                        49.3551997
+                    ],
+                    [
+                        6.1620952,
+                        49.3552493
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Marechal Joffre",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 467244350,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1597328,
+                        49.3529846
+                    ],
+                    [
+                        6.1597444,
+                        49.3531447
+                    ],
+                    [
+                        6.1597158,
+                        49.3534688
+                    ],
+                    [
+                        6.1597098,
+                        49.3535491
+                    ],
+                    [
+                        6.1597603,
+                        49.3538674
+                    ],
+                    [
+                        6.1598755,
+                        49.3541587
+                    ],
+                    [
+                        6.160158,
+                        49.3545799
+                    ],
+                    [
+                        6.1602016,
+                        49.3546448
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Marechal Joffre",
+                "parking:lane:both": "parallel",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

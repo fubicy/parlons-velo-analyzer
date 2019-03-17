@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 193467743,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2553525,
+                        48.8864993
+                    ],
+                    [
+                        2.2545872,
+                        48.8867505
+                    ],
+                    [
+                        2.2537962,
+                        48.8870049
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "foot": "no",
+                "highway": "trunk",
+                "lanes": "4",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "70",
+                "name": "Pont de Neuilly",
+                "oneway": "yes",
+                "ref": "N 13",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 263936625,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2537962,
+                        48.8870049
+                    ],
+                    [
+                        2.2529788,
+                        48.8872561
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "foot": "no",
+                "highway": "trunk",
+                "lanes": "4",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "70",
+                "name": "Pont de Neuilly",
+                "oneway": "yes",
+                "ref": "N 13",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through;right|through;right",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

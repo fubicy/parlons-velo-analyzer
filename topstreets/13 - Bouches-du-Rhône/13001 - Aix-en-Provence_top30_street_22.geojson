@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7989761,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4456146,
+                        43.5230979
+                    ],
+                    [
+                        5.4456912,
+                        43.5231611
+                    ],
+                    [
+                        5.4457109,
+                        43.5231773
+                    ],
+                    [
+                        5.4460423,
+                        43.5234508
+                    ],
+                    [
+                        5.4464126,
+                        43.5237563
+                    ],
+                    [
+                        5.446483,
+                        43.5238145
+                    ],
+                    [
+                        5.446552,
+                        43.5238713
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:city": "Aix-en-Provence",
+                "highway": "secondary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:source": "FR:urban",
+                "name": "Avenue Victor Hugo",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7989762,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4455519,
+                        43.5230424
+                    ],
+                    [
+                        5.4456146,
+                        43.5230979
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:source": "FR:urban",
+                "name": "Avenue Victor Hugo",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30477474,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4456683,
+                        43.526143
+                    ],
+                    [
+                        5.4458182,
+                        43.5261187
+                    ],
+                    [
+                        5.4458785,
+                        43.5261048
+                    ],
+                    [
+                        5.4459388,
+                        43.5260908
+                    ],
+                    [
+                        5.4459947,
+                        43.52607
+                    ],
+                    [
+                        5.4460339,
+                        43.5260387
+                    ],
+                    [
+                        5.4460794,
+                        43.5259976
+                    ],
+                    [
+                        5.4461236,
+                        43.5257823
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:forward": "1",
+                "lanes:psv:backward": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Victor Hugo",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 637923373,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4461236,
+                        43.5257823
+                    ],
+                    [
+                        5.4461509,
+                        43.5256603
+                    ],
+                    [
+                        5.4463178,
+                        43.5249159
+                    ],
+                    [
+                        5.4463278,
+                        43.5248715
+                    ],
+                    [
+                        5.4464945,
+                        43.5241276
+                    ],
+                    [
+                        5.4465294,
+                        43.5239721
+                    ],
+                    [
+                        5.446552,
+                        43.5238713
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:forward": "1",
+                "lanes:psv:backward": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Victor Hugo",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 288601064,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5017405,
+                        47.4664733
+                    ],
+                    [
+                        -0.5011645,
+                        47.4667022
+                    ],
+                    [
+                        -0.5010654,
+                        47.4667416
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Passage Jules Ferry",
+                "ref:FR:FANTOIR": "492670278G",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 288601065,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5010654,
+                        47.4667416
+                    ],
+                    [
+                        -0.5009849,
+                        47.4670099
+                    ],
+                    [
+                        -0.5009567,
+                        47.4670843
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Passage Jules Ferry",
+                "service": "parking_aisle",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

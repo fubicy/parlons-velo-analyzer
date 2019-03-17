@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 354333931,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9232885,
+                        43.1256407
+                    ],
+                    [
+                        5.9292092,
+                        43.1229856
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "restricted",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "footway",
+                "horse": "yes",
+                "motor_vehicle": "no",
+                "name": "Passage de la Corderie",
+                "oneway": "no",
+                "service": "alley",
+                "surface": "asphalt",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

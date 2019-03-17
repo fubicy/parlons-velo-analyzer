@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23980186,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4652619,
+                        48.6980393
+                    ],
+                    [
+                        2.4678783,
+                        48.6999449
+                    ],
+                    [
+                        2.4679275,
+                        48.6999807
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "highway": "unclassified",
+                "name": "Boulevard Dumay-Delille",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51992782,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4628235,
+                        48.6963144
+                    ],
+                    [
+                        2.4650589,
+                        48.6979211
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "highway": "residential",
+                "name": "Boulevard Dumay-Delille",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

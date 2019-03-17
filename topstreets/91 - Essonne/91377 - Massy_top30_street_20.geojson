@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 172735313,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2786362,
+                        48.7284128
+                    ],
+                    [
+                        2.2784824,
+                        48.7284612
+                    ],
+                    [
+                        2.2783078,
+                        48.7285133
+                    ],
+                    [
+                        2.2781158,
+                        48.7285831
+                    ],
+                    [
+                        2.2778968,
+                        48.7286626
+                    ],
+                    [
+                        2.2776501,
+                        48.7287506
+                    ],
+                    [
+                        2.2766837,
+                        48.7290819
+                    ],
+                    [
+                        2.2766312,
+                        48.7291027
+                    ],
+                    [
+                        2.2760943,
+                        48.7293156
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Fustel de Coulanges",
+                "note": "panneau zone 30 au debut rue Longjumeau",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 255386124,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2760943,
+                        48.7293156
+                    ],
+                    [
+                        2.2758753,
+                        48.7294024
+                    ],
+                    [
+                        2.2757088,
+                        48.7294739
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Fustel de Coulanges",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

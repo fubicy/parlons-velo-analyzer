@@ -1,0 +1,113 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23108424,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9005323,
+                        47.9105974
+                    ],
+                    [
+                        1.9004451,
+                        47.9105833
+                    ],
+                    [
+                        1.900008,
+                        47.9104772
+                    ],
+                    [
+                        1.8994401,
+                        47.9103482
+                    ],
+                    [
+                        1.8987336,
+                        47.9101894
+                    ],
+                    [
+                        1.8986777,
+                        47.9101744
+                    ],
+                    [
+                        1.8985518,
+                        47.9101411
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Caban",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169619958,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8985518,
+                        47.9101411
+                    ],
+                    [
+                        1.8984363,
+                        47.9101122
+                    ],
+                    [
+                        1.8981871,
+                        47.9100507
+                    ],
+                    [
+                        1.897574,
+                        47.909905
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Caban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 346934320,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8966105,
+                        47.9096983
+                    ],
+                    [
+                        1.8955125,
+                        47.9094813
+                    ],
+                    [
+                        1.8950358,
+                        47.9093871
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Caban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

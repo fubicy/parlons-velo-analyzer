@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22735995,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4200668,
+                        48.8159015
+                    ],
+                    [
+                        2.4199603,
+                        48.8160594
+                    ],
+                    [
+                        2.4198977,
+                        48.8161808
+                    ],
+                    [
+                        2.419855,
+                        48.8163245
+                    ],
+                    [
+                        2.419838,
+                        48.8164992
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Pont de Charenton",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "ref": "D 6",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115618761,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4199368,
+                        48.8163968
+                    ],
+                    [
+                        2.4200371,
+                        48.8162453
+                    ],
+                    [
+                        2.4201466,
+                        48.8160798
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "Pont de Charenton",
+                "note": "Zone \u00e0 vocation pi\u00e9tonne, sauf riverains",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174512257,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.419838,
+                        48.8164992
+                    ],
+                    [
+                        2.4197945,
+                        48.8172861
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Pont de Charenton",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "ref": "D 6",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174512258,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4196914,
+                        48.8164949
+                    ],
+                    [
+                        2.4197071,
+                        48.8162691
+                    ],
+                    [
+                        2.4197599,
+                        48.8160689
+                    ],
+                    [
+                        2.4198859,
+                        48.8158456
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Pont de Charenton",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "ref": "D 6",
+                "surface": "asphalt",
+                "turn:lanes": "slight_left|through|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 539536861,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4196441,
+                        48.8172366
+                    ],
+                    [
+                        2.4196527,
+                        48.8172018
+                    ],
+                    [
+                        2.4196914,
+                        48.8164949
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Pont de Charenton",
+                "old_ref": "N 6",
+                "oneway": "yes",
+                "ref": "D 6",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

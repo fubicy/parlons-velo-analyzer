@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27697985,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.114291,
+                        45.7792709
+                    ],
+                    [
+                        3.1146188,
+                        45.7792952
+                    ],
+                    [
+                        3.1149734,
+                        45.7793215
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue d'Herbet",
+                "oneway": "yes",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 510869114,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1149734,
+                        45.7793215
+                    ],
+                    [
+                        3.115437,
+                        45.7793559
+                    ],
+                    [
+                        3.115586,
+                        45.7793501
+                    ],
+                    [
+                        3.1159879,
+                        45.7793299
+                    ],
+                    [
+                        3.1161697,
+                        45.779286
+                    ],
+                    [
+                        3.1162868,
+                        45.7792094
+                    ],
+                    [
+                        3.1163417,
+                        45.7791512
+                    ],
+                    [
+                        3.1164882,
+                        45.7790099
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue d'Herbet",
+                "oneway": "no",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10573600,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1901386,
+                        48.9252731
+                    ],
+                    [
+                        2.1905162,
+                        48.92432
+                    ],
+                    [
+                        2.1910269,
+                        48.923171
+                    ],
+                    [
+                        2.1911904,
+                        48.922809
+                    ],
+                    [
+                        2.1915247,
+                        48.9220414
+                    ],
+                    [
+                        2.1919546,
+                        48.9210949
+                    ],
+                    [
+                        2.1924058,
+                        48.9200017
+                    ],
+                    [
+                        2.1924246,
+                        48.9199382
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "80",
+                "name": "Avenue de la R\u00e9publique",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

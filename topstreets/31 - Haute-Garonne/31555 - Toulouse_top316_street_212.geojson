@@ -1,0 +1,134 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23147781,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4611203,
+                        43.6093549
+                    ],
+                    [
+                        1.4610904,
+                        43.6094412
+                    ],
+                    [
+                        1.4609845,
+                        43.6094804
+                    ],
+                    [
+                        1.460462,
+                        43.6097238
+                    ],
+                    [
+                        1.4603139,
+                        43.60978
+                    ],
+                    [
+                        1.4600303,
+                        43.609881
+                    ],
+                    [
+                        1.4599197,
+                        43.6099092
+                    ],
+                    [
+                        1.4598327,
+                        43.6099368
+                    ],
+                    [
+                        1.4597346,
+                        43.609982
+                    ],
+                    [
+                        1.4596467,
+                        43.6100155
+                    ],
+                    [
+                        1.4592954,
+                        43.6101349
+                    ],
+                    [
+                        1.4592084,
+                        43.6101591
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Montcabrier",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28231146,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4592084,
+                        43.6101591
+                    ],
+                    [
+                        1.4583373,
+                        43.6104805
+                    ],
+                    [
+                        1.4578997,
+                        43.6106359
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Montcabrier",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 589272992,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4578997,
+                        43.6106359
+                    ],
+                    [
+                        1.4574563,
+                        43.6108008
+                    ],
+                    [
+                        1.4574278,
+                        43.6108114
+                    ],
+                    [
+                        1.457369,
+                        43.6108443
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Montcabrier",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

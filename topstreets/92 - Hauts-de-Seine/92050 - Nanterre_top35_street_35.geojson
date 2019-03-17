@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32558849,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2142144,
+                        48.9016108
+                    ],
+                    [
+                        2.2140923,
+                        48.9017213
+                    ],
+                    [
+                        2.2136204,
+                        48.9021012
+                    ],
+                    [
+                        2.2135004,
+                        48.9021131
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lanes": "1",
+                "maxspeed": "20",
+                "name": "All\u00e9e de l'Universit\u00e9",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167113005,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2133547,
+                        48.9022127
+                    ],
+                    [
+                        2.2129868,
+                        48.9025057
+                    ],
+                    [
+                        2.2128631,
+                        48.9026042
+                    ],
+                    [
+                        2.2127715,
+                        48.9026761
+                    ],
+                    [
+                        2.2127374,
+                        48.9027043
+                    ],
+                    [
+                        2.212462,
+                        48.9029236
+                    ],
+                    [
+                        2.2122083,
+                        48.9031213
+                    ],
+                    [
+                        2.211856,
+                        48.9033958
+                    ],
+                    [
+                        2.2118325,
+                        48.9034142
+                    ],
+                    [
+                        2.2116335,
+                        48.9035796
+                    ],
+                    [
+                        2.2112456,
+                        48.9038868
+                    ],
+                    [
+                        2.2108286,
+                        48.9041898
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "highway": "living_street",
+                "horse": "no",
+                "lanes": "2",
+                "maxspeed": "20",
+                "motor_vehicle": "no",
+                "name": "All\u00e9e de l'Universit\u00e9",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167113008,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2135004,
+                        48.9021131
+                    ],
+                    [
+                        2.2133547,
+                        48.9022127
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "highway": "living_street",
+                "horse": "no",
+                "lanes": "2",
+                "maxspeed": "20",
+                "motor_vehicle": "private",
+                "name": "All\u00e9e de l'Universit\u00e9",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

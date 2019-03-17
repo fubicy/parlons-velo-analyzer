@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 303002958,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1412802,
+                        45.6213089
+                    ],
+                    [
+                        5.1410772,
+                        45.6211906
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Centre Tennistique",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303002959,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.1411719,
+                        45.6211272
+                    ],
+                    [
+                        5.1413587,
+                        45.6212399
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Centre Tennistique",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

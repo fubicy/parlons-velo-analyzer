@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23041124,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6340523,
+                        45.9352831
+                    ],
+                    [
+                        6.6344965,
+                        45.9353666
+                    ],
+                    [
+                        6.6349665,
+                        45.9354452
+                    ],
+                    [
+                        6.6356336,
+                        45.9355544
+                    ],
+                    [
+                        6.6360423,
+                        45.9356007
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Avenue de la Gare",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38421149,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6325558,
+                        45.935038
+                    ],
+                    [
+                        6.6331604,
+                        45.9351337
+                    ],
+                    [
+                        6.6333844,
+                        45.9351692
+                    ],
+                    [
+                        6.6340523,
+                        45.9352831
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Avenue de la Gare",
+                "oneway": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

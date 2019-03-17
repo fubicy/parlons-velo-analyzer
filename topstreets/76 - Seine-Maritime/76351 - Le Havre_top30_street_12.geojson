@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 74212961,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1257661,
+                        49.4875402
+                    ],
+                    [
+                        0.1255149,
+                        49.4879553
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bridge": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "layer": "1",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Pont des Docks",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136438169,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1255149,
+                        49.4879553
+                    ],
+                    [
+                        0.1254416,
+                        49.4880842
+                    ],
+                    [
+                        0.125363,
+                        49.4882224
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Pont des Docks",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

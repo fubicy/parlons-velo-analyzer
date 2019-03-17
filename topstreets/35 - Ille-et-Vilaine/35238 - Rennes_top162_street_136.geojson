@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8010513,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6930887,
+                        48.1076688
+                    ],
+                    [
+                        -1.6931475,
+                        48.1071924
+                    ],
+                    [
+                        -1.693178,
+                        48.1069612
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "layer": "1",
+                "name": "Pont Malakoff",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72988179,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.693178,
+                        48.1069612
+                    ],
+                    [
+                        -1.6932067,
+                        48.1067555
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "name": "Pont Malakoff",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

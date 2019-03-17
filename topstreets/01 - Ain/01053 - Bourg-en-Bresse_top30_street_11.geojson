@@ -1,0 +1,132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 112975785,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2191392,
+                        46.1959224
+                    ],
+                    [
+                        5.219029,
+                        46.195962
+                    ],
+                    [
+                        5.2166989,
+                        46.1967991
+                    ],
+                    [
+                        5.2165655,
+                        46.1968242
+                    ],
+                    [
+                        5.2163814,
+                        46.1968325
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Jules Ferry",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 255493102,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2229186,
+                        46.1955633
+                    ],
+                    [
+                        5.2228159,
+                        46.1955711
+                    ],
+                    [
+                        5.2218603,
+                        46.1956442
+                    ],
+                    [
+                        5.2217885,
+                        46.1956505
+                    ],
+                    [
+                        5.2211072,
+                        46.1957208
+                    ],
+                    [
+                        5.2206854,
+                        46.1957619
+                    ],
+                    [
+                        5.2205685,
+                        46.1957714
+                    ],
+                    [
+                        5.220478,
+                        46.1957788
+                    ],
+                    [
+                        5.2197653,
+                        46.1958435
+                    ],
+                    [
+                        5.2196153,
+                        46.1958571
+                    ],
+                    [
+                        5.2195752,
+                        46.1958603
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Jules Ferry",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 334712929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2195752,
+                        46.1958603
+                    ],
+                    [
+                        5.2191392,
+                        46.1959224
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Jules Ferry",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2014",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

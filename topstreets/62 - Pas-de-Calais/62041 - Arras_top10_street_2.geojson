@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4918074,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7813529,
+                        50.2927453
+                    ],
+                    [
+                        2.7813224,
+                        50.2927479
+                    ],
+                    [
+                        2.7807488,
+                        50.2927805
+                    ],
+                    [
+                        2.7807095,
+                        50.2927839
+                    ],
+                    [
+                        2.7804584,
+                        50.2928027
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Grand'Place",
+                "parking:lane:both": "no_stopping",
+                "ref:FR:FANTOIR": "620411880N",
+                "surface": "paving_stones",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4918075,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.779462,
+                        50.2915703
+                    ],
+                    [
+                        2.7795631,
+                        50.2915471
+                    ],
+                    [
+                        2.7800163,
+                        50.2914431
+                    ],
+                    [
+                        2.7800548,
+                        50.2914343
+                    ],
+                    [
+                        2.7800973,
+                        50.2914245
+                    ],
+                    [
+                        2.780408,
+                        50.2913532
+                    ],
+                    [
+                        2.7804944,
+                        50.2913334
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Grand'Place",
+                "ref:FR:FANTOIR": "620411880N",
+                "surface": "paving_stones",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4918076,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7813529,
+                        50.2927453
+                    ],
+                    [
+                        2.7813025,
+                        50.2926276
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Grand'Place",
+                "oneway": "no",
+                "ref:FR:FANTOIR": "620411880N",
+                "surface": "sett",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102152738,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7804584,
+                        50.2928027
+                    ],
+                    [
+                        2.7804222,
+                        50.2927287
+                    ],
+                    [
+                        2.7796928,
+                        50.2918672
+                    ],
+                    [
+                        2.7796623,
+                        50.2918309
+                    ],
+                    [
+                        2.7795702,
+                        50.291711
+                    ],
+                    [
+                        2.779462,
+                        50.2915703
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grand'Place",
+                "parking:condition:both": "ticket",
+                "parking:lane:both": "parallel",
+                "ref:FR:FANTOIR": "620411880N",
+                "surface": "paving_stones",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 224632316,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7813025,
+                        50.2926276
+                    ],
+                    [
+                        2.7812159,
+                        50.2924994
+                    ],
+                    [
+                        2.7809852,
+                        50.2921266
+                    ],
+                    [
+                        2.7807292,
+                        50.2917168
+                    ],
+                    [
+                        2.7806632,
+                        50.2916111
+                    ],
+                    [
+                        2.7805696,
+                        50.2914572
+                    ],
+                    [
+                        2.7805311,
+                        50.2913938
+                    ],
+                    [
+                        2.7804944,
+                        50.2913334
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Grand'Place",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:right": "ticket",
+                "parking:lane:left": "parallel",
+                "parking:lane:right": "diagonal",
+                "ref:FR:FANTOIR": "620411880N",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2013",
+                "surface": "paving_stones",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        }
+    ]
+}

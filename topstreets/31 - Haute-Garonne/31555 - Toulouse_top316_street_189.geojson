@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23303526,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4430244,
+                        43.5955745
+                    ],
+                    [
+                        1.4432055,
+                        43.5952631
+                    ],
+                    [
+                        1.4435164,
+                        43.5947076
+                    ],
+                    [
+                        1.443655,
+                        43.5945573
+                    ],
+                    [
+                        1.4436824,
+                        43.5945277
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Fonderie",
+                "name:oc": "Carri\u00e8ra de la Fondari\u00e1",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:maxstay": "24 hours",
+                "parking:condition:left:3:residents": "CARMES",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "parallel",
+                "parking:lane:left:capacity": "8",
+                "parking:lane:left:parallel": "on_street",
+                "parking:lane:right": "no_parking",
+                "source:name:oc": "Donn\u00e9es Toulouse M\u00e9tropole",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

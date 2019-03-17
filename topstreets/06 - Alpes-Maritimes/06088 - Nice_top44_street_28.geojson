@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4246631,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.2808629,
+                        43.7006921
+                    ],
+                    [
+                        7.2804554,
+                        43.7008325
+                    ],
+                    [
+                        7.2799991,
+                        43.7009663
+                    ],
+                    [
+                        7.2799695,
+                        43.700975
+                    ],
+                    [
+                        7.2799285,
+                        43.7009871
+                    ],
+                    [
+                        7.2794518,
+                        43.7011269
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Place Garibaldi",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23590968,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.2795259,
+                        43.7006967
+                    ],
+                    [
+                        7.2797787,
+                        43.7006213
+                    ],
+                    [
+                        7.2804987,
+                        43.7003991
+                    ],
+                    [
+                        7.2805404,
+                        43.7003372
+                    ],
+                    [
+                        7.2805798,
+                        43.7002786
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "secondary",
+                "history": "Retrieved from v2",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Place Garibaldi",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

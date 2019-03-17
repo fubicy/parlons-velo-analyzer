@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039302,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3905772,
+                        48.8504738
+                    ],
+                    [
+                        2.3905044,
+                        48.8505429
+                    ],
+                    [
+                        2.3901344,
+                        48.850894
+                    ],
+                    [
+                        2.3895256,
+                        48.8515423
+                    ],
+                    [
+                        2.3893536,
+                        48.8517824
+                    ],
+                    [
+                        2.3892915,
+                        48.8518686
+                    ],
+                    [
+                        2.3889933,
+                        48.8522946
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Boulets",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3451695",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30782971,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3920087,
+                        48.8489676
+                    ],
+                    [
+                        2.3918299,
+                        48.8491364
+                    ],
+                    [
+                        2.3912835,
+                        48.8497191
+                    ],
+                    [
+                        2.390658,
+                        48.8503875
+                    ],
+                    [
+                        2.3905772,
+                        48.8504738
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue des Boulets",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3451695",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62358381,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3889933,
+                        48.8522946
+                    ],
+                    [
+                        2.3889905,
+                        48.852319
+                    ],
+                    [
+                        2.3890114,
+                        48.852357
+                    ],
+                    [
+                        2.3890551,
+                        48.8524125
+                    ],
+                    [
+                        2.3890841,
+                        48.8524494
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Boulets",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3451695",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25496932,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.2171753,
+                        47.2777777
+                    ],
+                    [
+                        -2.2168714,
+                        47.2788455
+                    ],
+                    [
+                        -2.2167803,
+                        47.2791726
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue Victor Hugo",
+                "ref:FR:FANTOIR": "441845840E",
+                "source": "Yahoo",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49865028,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.2167803,
+                        47.2791726
+                    ],
+                    [
+                        -2.2167579,
+                        47.2792573
+                    ],
+                    [
+                        -2.2167452,
+                        47.2793027
+                    ],
+                    [
+                        -2.2165475,
+                        47.2800544
+                    ],
+                    [
+                        -2.2165027,
+                        47.2802241
+                    ],
+                    [
+                        -2.2164862,
+                        47.2802867
+                    ],
+                    [
+                        -2.2164614,
+                        47.2803807
+                    ],
+                    [
+                        -2.2163677,
+                        47.2807357
+                    ],
+                    [
+                        -2.216218,
+                        47.2813029
+                    ],
+                    [
+                        -2.216177,
+                        47.2814581
+                    ],
+                    [
+                        -2.2160336,
+                        47.282001
+                    ],
+                    [
+                        -2.2156447,
+                        47.2834743
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Victor Hugo",
+                "name:br": "Bali Victor Hugo",
+                "ref:FR:FANTOIR": "441845840E",
+                "source": "Yahoo",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

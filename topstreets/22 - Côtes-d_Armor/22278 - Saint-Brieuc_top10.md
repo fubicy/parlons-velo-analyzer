@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 104 réponses dont 45 réponses avec une ru
 
 24 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Boulevard Clemenceau | 12 | 11% | <img src="../../img/bar_26.gif" />&nbsp;26%|
-| Rue de Gouédic | 5 | 4% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Rue de la Gare | 3 | 2% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Rue de Trégueux | 3 | 2% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Viaduc du Gouët | 2 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue des Capucins | 2 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Venelle Saint-Brieuc | 1 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue des Trois Frères Le Goff | 1 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue de la Corderie | 1 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue de Rohan | 1 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 31 | 29% | 68%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Boulevard Clemenceau | 12 | <img src="../../img/bar_38.gif" />&nbsp;38%|
+| Rue de Gouédic | 5 | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| Rue de la Gare | 3 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Rue de Trégueux | 3 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Viaduc du Gouët | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Rue des Capucins | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Venelle Saint-Brieuc | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue des Trois Frères Le Goff | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue de la Corderie | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue de Rohan | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 31 | 100%|

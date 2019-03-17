@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 272005133,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7120241,
+                        47.3894623
+                    ],
+                    [
+                        0.7120959,
+                        47.3894709
+                    ],
+                    [
+                        0.7123432,
+                        47.3895007
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "P\u00e9ri",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 6993499,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.179974,
+                        48.6851228
+                    ],
+                    [
+                        6.1801985,
+                        48.6853155
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "track",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Pont des Fusill\u00e9s",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323311965,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1796784,
+                        48.6848737
+                    ],
+                    [
+                        6.179974,
+                        48.6851228
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "track",
+                "destination": "Saint-S\u00e9bastien;Centre des Congr\u00e8s Prouv\u00e9;R\u00e9publique",
+                "destination:symbol": "parking",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Pont des Fusill\u00e9s",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

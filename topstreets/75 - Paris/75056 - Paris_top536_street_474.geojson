@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4476805,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.350692,
+                        48.8560629
+                    ],
+                    [
+                        2.3510273,
+                        48.8566689
+                    ],
+                    [
+                        2.3510416,
+                        48.8566931
+                    ],
+                    [
+                        2.3510829,
+                        48.8567676
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "name": "Place de l'H\u00f4tel de Ville",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146710342,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3510829,
+                        48.8567676
+                    ],
+                    [
+                        2.3511362,
+                        48.8568616
+                    ],
+                    [
+                        2.351452,
+                        48.8574182
+                    ],
+                    [
+                        2.3514621,
+                        48.8574359
+                    ],
+                    [
+                        2.3514846,
+                        48.8574756
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Place de l'H\u00f4tel de Ville",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

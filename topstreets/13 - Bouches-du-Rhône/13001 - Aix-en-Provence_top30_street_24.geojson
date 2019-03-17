@@ -1,0 +1,400 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27296104,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4468724,
+                        43.520762
+                    ],
+                    [
+                        5.44696,
+                        43.5209266
+                    ],
+                    [
+                        5.447,
+                        43.521
+                    ],
+                    [
+                        5.4470157,
+                        43.5210214
+                    ],
+                    [
+                        5.4470854,
+                        43.5211169
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Robert Schuman",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27296107,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4470854,
+                        43.5211169
+                    ],
+                    [
+                        5.4472105,
+                        43.5212448
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "layer": "-1",
+                "maxspeed": "30",
+                "name": "Avenue Robert Schuman",
+                "oneway": "yes",
+                "tunnel": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27296108,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4472105,
+                        43.5212448
+                    ],
+                    [
+                        5.4473857,
+                        43.5214272
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Robert Schuman",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27843806,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4466818,
+                        43.5192462
+                    ],
+                    [
+                        5.4466883,
+                        43.5193401
+                    ],
+                    [
+                        5.446886,
+                        43.5200744
+                    ],
+                    [
+                        5.4468797,
+                        43.5201686
+                    ],
+                    [
+                        5.4468778,
+                        43.5202666
+                    ],
+                    [
+                        5.4468281,
+                        43.5205669
+                    ],
+                    [
+                        5.4468724,
+                        43.520762
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Robert Schuman",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 226820479,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4457422,
+                        43.5158384
+                    ],
+                    [
+                        5.4457594,
+                        43.5156385
+                    ],
+                    [
+                        5.4458128,
+                        43.515016
+                    ],
+                    [
+                        5.4458335,
+                        43.514935
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Avenue Robert Schuman",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "paved",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 226820480,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4467837,
+                        43.5180183
+                    ],
+                    [
+                        5.4466496,
+                        43.5174959
+                    ],
+                    [
+                        5.4466104,
+                        43.5173429
+                    ],
+                    [
+                        5.4465415,
+                        43.5172378
+                    ],
+                    [
+                        5.4463728,
+                        43.5170379
+                    ],
+                    [
+                        5.4460828,
+                        43.5166943
+                    ],
+                    [
+                        5.445904,
+                        43.5164664
+                    ],
+                    [
+                        5.4458036,
+                        43.5163155
+                    ],
+                    [
+                        5.4457421,
+                        43.516124
+                    ],
+                    [
+                        5.4457243,
+                        43.5160476
+                    ],
+                    [
+                        5.4457155,
+                        43.5159898
+                    ],
+                    [
+                        5.4457208,
+                        43.5159488
+                    ],
+                    [
+                        5.4457314,
+                        43.5159033
+                    ],
+                    [
+                        5.4457422,
+                        43.5158384
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:psv:backward": "1",
+                "maxspeed": "30",
+                "name": "Avenue Robert Schuman",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551201754,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4466818,
+                        43.5192462
+                    ],
+                    [
+                        5.44688,
+                        43.51848
+                    ],
+                    [
+                        5.4468716,
+                        43.5184203
+                    ],
+                    [
+                        5.4468523,
+                        43.5182834
+                    ],
+                    [
+                        5.4468147,
+                        43.5181359
+                    ],
+                    [
+                        5.4467837,
+                        43.5180183
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:psv:backward": "1",
+                "maxspeed": "30",
+                "name": "Avenue Robert Schuman",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 648087414,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4458335,
+                        43.514935
+                    ],
+                    [
+                        5.4458456,
+                        43.5148023
+                    ],
+                    [
+                        5.4458705,
+                        43.5143229
+                    ],
+                    [
+                        5.4458675,
+                        43.5141422
+                    ],
+                    [
+                        5.4458676,
+                        43.5141167
+                    ],
+                    [
+                        5.4458751,
+                        43.5140491
+                    ],
+                    [
+                        5.4460405,
+                        43.5137042
+                    ],
+                    [
+                        5.4460791,
+                        43.5136316
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lanes:psv:backward": "1",
+                "maxspeed": "30",
+                "name": "Avenue Robert Schuman",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 651141194,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4457422,
+                        43.5158384
+                    ],
+                    [
+                        5.4458492,
+                        43.5156655
+                    ],
+                    [
+                        5.4458655,
+                        43.5154837
+                    ],
+                    [
+                        5.4458985,
+                        43.5150219
+                    ],
+                    [
+                        5.4458335,
+                        43.514935
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "share_busway",
+                "highway": "service",
+                "lanes:psv": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "no",
+                "name": "Avenue Robert Schuman",
+                "oneway": "no",
+                "psv": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

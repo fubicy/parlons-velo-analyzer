@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 315449424,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.0967919,
+                        48.6301274
+                    ],
+                    [
+                        -2.0969801,
+                        48.6302055
+                    ],
+                    [
+                        -2.0972389,
+                        48.6303094
+                    ],
+                    [
+                        -2.0989717,
+                        48.6310149
+                    ],
+                    [
+                        -2.1005951,
+                        48.6316757
+                    ],
+                    [
+                        -2.1029083,
+                        48.6326173
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de la Cote du Tertre",
+                "ref": "D 786",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "traffic": "intermediate",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 53798373,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3926746,
+                        48.877175
+                    ],
+                    [
+                        2.3926617,
+                        48.8771331
+                    ],
+                    [
+                        2.3925922,
+                        48.8769221
+                    ],
+                    [
+                        2.3925861,
+                        48.8769037
+                    ],
+                    [
+                        2.3925714,
+                        48.8768589
+                    ],
+                    [
+                        2.3925612,
+                        48.8768138
+                    ],
+                    [
+                        2.3925254,
+                        48.8766558
+                    ],
+                    [
+                        2.3925128,
+                        48.8766088
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Place des F\u00eates",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233643337,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3937977,
+                        48.8774953
+                    ],
+                    [
+                        2.3936622,
+                        48.8774818
+                    ],
+                    [
+                        2.39285,
+                        48.8773491
+                    ],
+                    [
+                        2.3927473,
+                        48.8773173
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "share_busway",
+                "highway": "unclassified",
+                "name": "Place des F\u00eates",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 529252555,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3927473,
+                        48.8773173
+                    ],
+                    [
+                        2.3926746,
+                        48.877175
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "name": "Place des F\u00eates",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

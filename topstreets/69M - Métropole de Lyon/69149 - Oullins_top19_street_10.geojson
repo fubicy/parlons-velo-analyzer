@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8069343,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8017523,
+                        45.7101086
+                    ],
+                    [
+                        4.8016464,
+                        45.7100892
+                    ],
+                    [
+                        4.8016014,
+                        45.7100646
+                    ],
+                    [
+                        4.8014474,
+                        45.7099802
+                    ],
+                    [
+                        4.8013507,
+                        45.7099597
+                    ],
+                    [
+                        4.7996485,
+                        45.7100356
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue de la Sarra",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8069344,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8017523,
+                        45.7101086
+                    ],
+                    [
+                        4.8018649,
+                        45.7101972
+                    ],
+                    [
+                        4.8021537,
+                        45.7103708
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de la Sarra",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8069345,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8025011,
+                        45.7108877
+                    ],
+                    [
+                        4.8026009,
+                        45.7110226
+                    ],
+                    [
+                        4.8026418,
+                        45.7110671
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de la Sarra",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136270170,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8021537,
+                        45.7103708
+                    ],
+                    [
+                        4.8021786,
+                        45.7104598
+                    ],
+                    [
+                        4.8023848,
+                        45.710731
+                    ],
+                    [
+                        4.8025011,
+                        45.7108877
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de la Sarra",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248962907,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8026418,
+                        45.7110671
+                    ],
+                    [
+                        4.8030413,
+                        45.711559
+                    ],
+                    [
+                        4.8037054,
+                        45.7123499
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Sarra",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 650070154,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8037054,
+                        45.7123499
+                    ],
+                    [
+                        4.8040487,
+                        45.7127439
+                    ],
+                    [
+                        4.804066,
+                        45.7128054
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de la Sarra",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

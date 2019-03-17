@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 218249862,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6788682,
+                        45.1680946
+                    ],
+                    [
+                        5.6788852,
+                        45.1682207
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Village",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "limited",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

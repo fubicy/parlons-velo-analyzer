@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7989878,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4521695,
+                        43.5270947
+                    ],
+                    [
+                        5.4522361,
+                        43.5269885
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue d'Italie",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7989884,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4522361,
+                        43.5269885
+                    ],
+                    [
+                        5.4523132,
+                        43.5268532
+                    ],
+                    [
+                        5.4524219,
+                        43.5267234
+                    ],
+                    [
+                        5.4528473,
+                        43.5262194
+                    ],
+                    [
+                        5.453139,
+                        43.5259507
+                    ],
+                    [
+                        5.453329,
+                        43.5257721
+                    ],
+                    [
+                        5.4538614,
+                        43.5252384
+                    ],
+                    [
+                        5.4539057,
+                        43.5251936
+                    ],
+                    [
+                        5.4540014,
+                        43.5250967
+                    ],
+                    [
+                        5.4540748,
+                        43.525037
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue d'Italie",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

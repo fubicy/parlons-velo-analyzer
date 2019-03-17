@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10243275,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2879308,
+                        48.9048524
+                    ],
+                    [
+                        2.2894834,
+                        48.9035171
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont d'Asni\u00e8res",
+                "ref": "D 909",
+                "seamark:bridge:category": "fixed",
+                "seamark:name": "Pont d'Asni\u00e8res",
+                "seamark:type": "bridge",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

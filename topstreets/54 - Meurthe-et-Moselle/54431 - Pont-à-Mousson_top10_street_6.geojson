@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 165193173,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0572793,
+                        48.9065866
+                    ],
+                    [
+                        6.0572663,
+                        48.9066068
+                    ],
+                    [
+                        6.0569315,
+                        48.9071251
+                    ],
+                    [
+                        6.05674,
+                        48.9075109
+                    ],
+                    [
+                        6.0565854,
+                        48.9078046
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Saint-Martin",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642155395,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0574033,
+                        48.9064178
+                    ],
+                    [
+                        6.0572793,
+                        48.9065866
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Saint-Martin",
+                "traffic_calming": "hump",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642155396,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0575272,
+                        48.9062491
+                    ],
+                    [
+                        6.0574033,
+                        48.9064178
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Saint-Martin",
+                "traffic_calming": "hump",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642155397,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0578787,
+                        48.9058429
+                    ],
+                    [
+                        6.0576769,
+                        48.9060453
+                    ],
+                    [
+                        6.0575272,
+                        48.9062491
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Saint-Martin",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642155398,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0580375,
+                        48.9056836
+                    ],
+                    [
+                        6.0578787,
+                        48.9058429
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Martin",
+                "traffic_calming": "table",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642155399,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0582128,
+                        48.9055077
+                    ],
+                    [
+                        6.0580375,
+                        48.9056836
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed:backward": "50",
+                "maxspeed:forward": "30",
+                "name": "Rue Saint-Martin",
+                "traffic_calming": "table",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642155400,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0583663,
+                        48.9053409
+                    ],
+                    [
+                        6.0583359,
+                        48.9053843
+                    ],
+                    [
+                        6.0582128,
+                        48.9055077
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed:backward": "50",
+                "maxspeed:forward": "30",
+                "name": "Rue Saint-Martin",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 642155401,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0585105,
+                        48.9050761
+                    ],
+                    [
+                        6.0584428,
+                        48.9052319
+                    ],
+                    [
+                        6.0583663,
+                        48.9053409
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Saint-Martin",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

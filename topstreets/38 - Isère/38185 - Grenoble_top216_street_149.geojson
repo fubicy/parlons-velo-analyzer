@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8015988,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.739664,
+                        45.1928743
+                    ],
+                    [
+                        5.7374276,
+                        45.1933559
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue du Souvenir",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323273335,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.739664,
+                        45.1928743
+                    ],
+                    [
+                        5.7413606,
+                        45.1925318
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue du Souvenir",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

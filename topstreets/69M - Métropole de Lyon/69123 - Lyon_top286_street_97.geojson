@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32251778,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8565203,
+                        45.7570749
+                    ],
+                    [
+                        4.8565059,
+                        45.7571725
+                    ],
+                    [
+                        4.8564776,
+                        45.757347
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Cuirassiers",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219387097,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8564375,
+                        45.7575553
+                    ],
+                    [
+                        4.8564136,
+                        45.7576729
+                    ],
+                    [
+                        4.8563445,
+                        45.7580016
+                    ],
+                    [
+                        4.8563289,
+                        45.7580716
+                    ],
+                    [
+                        4.8563209,
+                        45.7581116
+                    ],
+                    [
+                        4.8562874,
+                        45.758278
+                    ],
+                    [
+                        4.8562735,
+                        45.758347
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue des Cuirassiers",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 258610440,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8564558,
+                        45.7574561
+                    ],
+                    [
+                        4.8564375,
+                        45.7575553
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Cuirassiers",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 258610445,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8564776,
+                        45.757347
+                    ],
+                    [
+                        4.8564558,
+                        45.7574561
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Cuirassiers",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "tunnel": "building_passage",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332385800,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8562735,
+                        45.758347
+                    ],
+                    [
+                        4.8561782,
+                        45.7588092
+                    ],
+                    [
+                        4.8560371,
+                        45.7594948
+                    ],
+                    [
+                        4.856015,
+                        45.7595257
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue des Cuirassiers",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

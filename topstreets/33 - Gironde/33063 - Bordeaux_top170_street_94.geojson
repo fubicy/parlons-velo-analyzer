@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23157971,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5630911,
+                        44.8298402
+                    ],
+                    [
+                        -0.563146,
+                        44.8298515
+                    ],
+                    [
+                        -0.5642081,
+                        44.830098
+                    ],
+                    [
+                        -0.5643457,
+                        44.8301311
+                    ],
+                    [
+                        -0.5652979,
+                        44.8303433
+                    ],
+                    [
+                        -0.5665167,
+                        44.8306179
+                    ],
+                    [
+                        -0.5665478,
+                        44.8306249
+                    ],
+                    [
+                        -0.5666014,
+                        44.830637
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Douves",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85144005,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5666014,
+                        44.830637
+                    ],
+                    [
+                        -0.5667604,
+                        44.8306705
+                    ],
+                    [
+                        -0.566838,
+                        44.8306705
+                    ],
+                    [
+                        -0.5668991,
+                        44.8306601
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Douves",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

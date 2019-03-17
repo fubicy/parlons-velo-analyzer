@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 80140902,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4186475,
+                        43.6111584
+                    ],
+                    [
+                        1.4187001,
+                        43.6109933
+                    ],
+                    [
+                        1.4187283,
+                        43.610936
+                    ],
+                    [
+                        1.4187712,
+                        43.6108805
+                    ],
+                    [
+                        1.4188184,
+                        43.6108253
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "foot": "yes",
+                "heritage": "3",
+                "heritage:operator": "mhs",
+                "highway": "cycleway",
+                "layer": "1",
+                "mhs:inscription_date": "1967-11-21",
+                "name": "Ponts-Jumeaux",
+                "ref:mhs": "PA00094628",
+                "smoothness": "excellent",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:heritage": "data.gouv.fr:Minist\u00e8re de la Culture - 04/2015",
+                "wikidata": "Q3100560",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

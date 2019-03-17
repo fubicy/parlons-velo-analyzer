@@ -1,0 +1,134 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25945758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5455789,
+                        44.8110797
+                    ],
+                    [
+                        -0.54488,
+                        44.8109377
+                    ],
+                    [
+                        -0.5445759,
+                        44.8108443
+                    ],
+                    [
+                        -0.544346,
+                        44.8107464
+                    ],
+                    [
+                        -0.5441984,
+                        44.810669
+                    ],
+                    [
+                        -0.543996,
+                        44.8105536
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Pr\u00eache",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 477372048,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.543996,
+                        44.8105536
+                    ],
+                    [
+                        -0.5438467,
+                        44.8104709
+                    ],
+                    [
+                        -0.5423136,
+                        44.8096222
+                    ],
+                    [
+                        -0.5422288,
+                        44.8095731
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Pr\u00eache",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 589701054,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5462058,
+                        44.8111972
+                    ],
+                    [
+                        -0.5459577,
+                        44.8111567
+                    ],
+                    [
+                        -0.5455789,
+                        44.8110797
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Pr\u00eache",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 589701057,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5462058,
+                        44.8111972
+                    ],
+                    [
+                        -0.5462995,
+                        44.8112424
+                    ],
+                    [
+                        -0.5471233,
+                        44.8114885
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Pr\u00eache",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

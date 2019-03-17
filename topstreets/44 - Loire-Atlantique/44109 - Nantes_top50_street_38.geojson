@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 501448803,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5279418,
+                        47.2593744
+                    ],
+                    [
+                        -1.5279445,
+                        47.259206
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Beaujoire",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "BJOI7",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 501448804,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5277433,
+                        47.2592251
+                    ],
+                    [
+                        -1.5278587,
+                        47.2595373
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Beaujoire",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "BJOI6",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 501448805,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5259624,
+                        47.2586435
+                    ],
+                    [
+                        -1.5257049,
+                        47.2586426
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Beaujoire",
+                "network": "TAN",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 501448806,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5262815,
+                        47.2586444
+                    ],
+                    [
+                        -1.5260549,
+                        47.2586435
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Beaujoire",
+                "network": "TAN",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

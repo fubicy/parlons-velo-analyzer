@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28841558,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.014938,
+                        47.2376915
+                    ],
+                    [
+                        6.0149171,
+                        47.2378035
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Siffert",
+                "old_ref": "N 83",
+                "ref": "D 683",
+                "source:ref": "Route500",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40314700,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0152017,
+                        47.2421797
+                    ],
+                    [
+                        6.0152682,
+                        47.2421769
+                    ],
+                    [
+                        6.0153905,
+                        47.2420584
+                    ],
+                    [
+                        6.0154628,
+                        47.2419475
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Siffert",
+                "old_ref": "N 83",
+                "oneway": "yes",
+                "ref": "D 1083",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53097991,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0154628,
+                        47.2419475
+                    ],
+                    [
+                        6.0155361,
+                        47.2422902
+                    ],
+                    [
+                        6.015545,
+                        47.2423537
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue Siffert",
+                "old_ref": "N 83",
+                "ref": "D 683",
+                "source:ref": "Route500",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

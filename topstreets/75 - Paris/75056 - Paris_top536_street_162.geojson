@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10664533,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3604329,
+                        48.8848901
+                    ],
+                    [
+                        2.360359,
+                        48.8848826
+                    ],
+                    [
+                        2.3595558,
+                        48.884895
+                    ],
+                    [
+                        2.3593476,
+                        48.8848962
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Place de la Chapelle",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10664563,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3593445,
+                        48.8847815
+                    ],
+                    [
+                        2.3590569,
+                        48.8847983
+                    ],
+                    [
+                        2.3582584,
+                        48.8848448
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:left": "opposite",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Place de la Chapelle",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 216130924,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3604329,
+                        48.8848901
+                    ],
+                    [
+                        2.360699,
+                        48.8845955
+                    ],
+                    [
+                        2.3607303,
+                        48.8845609
+                    ],
+                    [
+                        2.3607712,
+                        48.8845156
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Place de la Chapelle",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

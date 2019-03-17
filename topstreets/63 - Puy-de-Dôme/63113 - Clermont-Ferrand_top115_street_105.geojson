@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4080632,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0899379,
+                        45.7718154
+                    ],
+                    [
+                        3.0901648,
+                        45.7719395
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Boulevard Gergovia",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37043314,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0920095,
+                        45.7732759
+                    ],
+                    [
+                        3.0920862,
+                        45.7732913
+                    ],
+                    [
+                        3.0921563,
+                        45.7732946
+                    ],
+                    [
+                        3.0922595,
+                        45.7732916
+                    ],
+                    [
+                        3.0923481,
+                        45.7732705
+                    ],
+                    [
+                        3.092587,
+                        45.7731338
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Boulevard Gergovia",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58389162,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0901648,
+                        45.7719395
+                    ],
+                    [
+                        3.0903472,
+                        45.7720663
+                    ],
+                    [
+                        3.0909569,
+                        45.7724902
+                    ],
+                    [
+                        3.0920095,
+                        45.7732759
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Boulevard Gergovia",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

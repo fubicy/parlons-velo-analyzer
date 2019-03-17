@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22792414,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5976331,
+                        44.8482635
+                    ],
+                    [
+                        -0.5976896,
+                        44.848284
+                    ],
+                    [
+                        -0.5980563,
+                        44.8484361
+                    ],
+                    [
+                        -0.5984835,
+                        44.8486148
+                    ],
+                    [
+                        -0.599048,
+                        44.8488326
+                    ],
+                    [
+                        -0.6000403,
+                        44.8492225
+                    ],
+                    [
+                        -0.6003097,
+                        44.84933
+                    ],
+                    [
+                        -0.6006058,
+                        44.8494029
+                    ],
+                    [
+                        -0.6014003,
+                        44.8495325
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Charles de Gaulle",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30195204,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6048112,
+                        44.8500915
+                    ],
+                    [
+                        -0.6054543,
+                        44.8502709
+                    ],
+                    [
+                        -0.6055268,
+                        44.8502945
+                    ],
+                    [
+                        -0.6060314,
+                        44.850459
+                    ],
+                    [
+                        -0.6062847,
+                        44.8505863
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue Charles de Gaulle",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35537541,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6014003,
+                        44.8495325
+                    ],
+                    [
+                        -0.6018002,
+                        44.8496024
+                    ],
+                    [
+                        -0.6020173,
+                        44.8496299
+                    ],
+                    [
+                        -0.6032182,
+                        44.8498189
+                    ],
+                    [
+                        -0.6032741,
+                        44.8498284
+                    ],
+                    [
+                        -0.6033263,
+                        44.8498355
+                    ],
+                    [
+                        -0.6041953,
+                        44.8499874
+                    ],
+                    [
+                        -0.6043448,
+                        44.8500135
+                    ],
+                    [
+                        -0.6045154,
+                        44.8500421
+                    ],
+                    [
+                        -0.6048112,
+                        44.8500915
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "name": "Avenue Charles de Gaulle",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 269914987,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6065287,
+                        44.8508123
+                    ],
+                    [
+                        -0.6064492,
+                        44.8507423
+                    ],
+                    [
+                        -0.6064078,
+                        44.850703
+                    ],
+                    [
+                        -0.6063779,
+                        44.8506747
+                    ],
+                    [
+                        -0.6062847,
+                        44.8505863
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Avenue Charles de Gaulle",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

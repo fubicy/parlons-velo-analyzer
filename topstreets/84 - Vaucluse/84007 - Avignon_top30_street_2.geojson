@@ -1,0 +1,193 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4234492,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9130383,
+                        43.8900272
+                    ],
+                    [
+                        4.9129617,
+                        43.89003
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Avignon",
+                "highway": "primary_link",
+                "name": "Avignon",
+                "oneway": "yes",
+                "ref": "N 7",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80507970,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7763198,
+                        43.923116
+                    ],
+                    [
+                        4.7761618,
+                        43.923133
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "trunk_link",
+                "name": "Avignon",
+                "oneway": "yes",
+                "ref": "N 1007",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135440117,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9135741,
+                        43.8901343
+                    ],
+                    [
+                        4.9135264,
+                        43.8901295
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "name": "Avignon",
+                "oneway": "yes",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154817494,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9166792,
+                        43.8901386
+                    ],
+                    [
+                        4.9166844,
+                        43.8902149
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Cavaillon;Apt;Avignon",
+                "highway": "primary_link",
+                "name": "Avignon",
+                "oneway": "yes",
+                "ref": "N 129",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154964893,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8744012,
+                        43.915923
+                    ],
+                    [
+                        4.8742998,
+                        43.9159278
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Avignon",
+                "guard_rail": "no",
+                "highway": "primary",
+                "mapillary": "-2t2okjQgiPEznKExvRBYA",
+                "maxspeed": "70",
+                "name": "Avignon",
+                "oneway": "yes",
+                "ref": "N 7",
+                "survey:date": "2017-03-27",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 457553690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8581561,
+                        43.9225328
+                    ],
+                    [
+                        4.858111,
+                        43.9224896
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Avignon",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 457582846,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9163996,
+                        43.8890848
+                    ],
+                    [
+                        4.9162894,
+                        43.8891226
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "primary",
+                "lanes": "1",
+                "mapillary": "dS82Af_jJ6RVfYHmDIwzdw",
+                "maxspeed": "50",
+                "name": "Avignon",
+                "oneway": "yes",
+                "ref": "D 900",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "survey:date": "2016-01-10",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

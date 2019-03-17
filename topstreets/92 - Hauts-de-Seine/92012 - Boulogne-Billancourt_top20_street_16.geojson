@@ -1,0 +1,404 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 11995530,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2330367,
+                        48.8304398
+                    ],
+                    [
+                        2.2329738,
+                        48.8305266
+                    ],
+                    [
+                        2.2325856,
+                        48.8310619
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue de Bellevue",
+                "parking:condition:left": "ticket",
+                "parking:condition:right": "ticket",
+                "parking:lane:left": "diagonal",
+                "parking:lane:right": "parallel",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26757669,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2302158,
+                        48.840622
+                    ],
+                    [
+                        2.2302447,
+                        48.8408073
+                    ],
+                    [
+                        2.2302614,
+                        48.8409106
+                    ],
+                    [
+                        2.2302845,
+                        48.8410537
+                    ],
+                    [
+                        2.2302962,
+                        48.841126
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "private",
+                "highway": "residential",
+                "name": "Rue de Bellevue",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32561149,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2310712,
+                        48.8343908
+                    ],
+                    [
+                        2.2310377,
+                        48.8344889
+                    ],
+                    [
+                        2.2309657,
+                        48.8347071
+                    ],
+                    [
+                        2.2308016,
+                        48.8351726
+                    ],
+                    [
+                        2.2307707,
+                        48.8352699
+                    ],
+                    [
+                        2.2307438,
+                        48.8353544
+                    ],
+                    [
+                        2.2307268,
+                        48.8354189
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Bellevue",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37416103,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2307268,
+                        48.8354189
+                    ],
+                    [
+                        2.230713,
+                        48.8354711
+                    ],
+                    [
+                        2.2306724,
+                        48.8357743
+                    ],
+                    [
+                        2.230598,
+                        48.8363304
+                    ],
+                    [
+                        2.230493,
+                        48.8370816
+                    ],
+                    [
+                        2.2304409,
+                        48.837454
+                    ],
+                    [
+                        2.2303817,
+                        48.8383171
+                    ],
+                    [
+                        2.230305,
+                        48.8394348
+                    ],
+                    [
+                        2.2302886,
+                        48.8396732
+                    ],
+                    [
+                        2.2302861,
+                        48.8397104
+                    ],
+                    [
+                        2.2302776,
+                        48.8398253
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Bellevue",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:lane:both": "parallel",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37416151,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2302776,
+                        48.8398253
+                    ],
+                    [
+                        2.2302731,
+                        48.8398961
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Bellevue",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188516267,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2314714,
+                        48.8332136
+                    ],
+                    [
+                        2.2311673,
+                        48.8340852
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Bellevue",
+                "parking:condition:left": "ticket",
+                "parking:lane:left": "diagonal",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188516268,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2311673,
+                        48.8340852
+                    ],
+                    [
+                        2.2310879,
+                        48.8343429
+                    ],
+                    [
+                        2.2310712,
+                        48.8343908
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Bellevue",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188516269,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2316192,
+                        48.8328127
+                    ],
+                    [
+                        2.2315955,
+                        48.8328819
+                    ],
+                    [
+                        2.2315893,
+                        48.8328999
+                    ],
+                    [
+                        2.2315549,
+                        48.8330002
+                    ],
+                    [
+                        2.231506,
+                        48.8331117
+                    ],
+                    [
+                        2.2314714,
+                        48.8332136
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Bellevue",
+                "parking:lane:both": "no_stopping",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188516270,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2325856,
+                        48.8310619
+                    ],
+                    [
+                        2.2325387,
+                        48.8311266
+                    ],
+                    [
+                        2.2321144,
+                        48.831711
+                    ],
+                    [
+                        2.2320783,
+                        48.8317687
+                    ],
+                    [
+                        2.2317628,
+                        48.8324185
+                    ],
+                    [
+                        2.2317249,
+                        48.8325225
+                    ],
+                    [
+                        2.2316192,
+                        48.8328127
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue de Bellevue",
+                "parking:condition:left": "ticket",
+                "parking:condition:right": "ticket",
+                "parking:lane:left": "diagonal",
+                "parking:lane:right": "parallel",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219837905,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2302731,
+                        48.8398961
+                    ],
+                    [
+                        2.2302675,
+                        48.8399751
+                    ],
+                    [
+                        2.2302349,
+                        48.8404287
+                    ],
+                    [
+                        2.2302334,
+                        48.8404504
+                    ],
+                    [
+                        2.2302282,
+                        48.8405222
+                    ],
+                    [
+                        2.2302158,
+                        48.840622
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Bellevue",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:lane:both": "parallel",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

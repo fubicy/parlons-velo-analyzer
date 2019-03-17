@@ -1,0 +1,241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25916542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2965006,
+                        48.7509642
+                    ],
+                    [
+                        2.296737,
+                        48.7511444
+                    ],
+                    [
+                        2.2969448,
+                        48.7512991
+                    ],
+                    [
+                        2.2970789,
+                        48.7514002
+                    ],
+                    [
+                        2.2972235,
+                        48.7515093
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de l'Abbaye",
+                "note": "pas de DSC double-sens cyclable",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "both",
+                "source": "Arret\u00e9 mairie d'Antony 2009",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198592210,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2995033,
+                        48.7529751
+                    ],
+                    [
+                        2.3000822,
+                        48.7538289
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de l'Abbaye",
+                "note": "2015 pas de DSC double-sens cyclable mais trottoir cyclable devant Sainte-Marie",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "source": "Arret\u00e9 mairie d'Antony 2015",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 229749616,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2972235,
+                        48.7515093
+                    ],
+                    [
+                        2.2974859,
+                        48.7517093
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de l'Abbaye",
+                "note": "2015 DSC double-sens cyclable sauf trottoir cyclable devant Sainte-Marie",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "source": "Arret\u00e9 mairie d'Antony 2015",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 420307422,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3000822,
+                        48.7538289
+                    ],
+                    [
+                        2.3003033,
+                        48.7541478
+                    ],
+                    [
+                        2.300329,
+                        48.7541861
+                    ],
+                    [
+                        2.3004039,
+                        48.7542683
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "4",
+                "maxspeed": "30",
+                "name": "Rue de l'Abbaye",
+                "note": "2015 pas de DSC double-sens cyclable mais trottoir cyclable devant Sainte-Marie",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "source": "Arret\u00e9 mairie d'Antony 2015",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through|right",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 421079781,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2974859,
+                        48.7517093
+                    ],
+                    [
+                        2.2979866,
+                        48.7519031
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue de l'Abbaye",
+                "note": "2015 DSC double-sens cyclable sauf trottoir cyclable devant Sainte-Marie",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "source": "Arret\u00e9 mairie d'Antony 2015",
+                "source:maxspeed": "FR:zone30",
+                "turn:lanes": "through|right",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 421079784,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2979866,
+                        48.7519031
+                    ],
+                    [
+                        2.2982692,
+                        48.7520236
+                    ],
+                    [
+                        2.2988684,
+                        48.7522596
+                    ],
+                    [
+                        2.2989588,
+                        48.7523043
+                    ],
+                    [
+                        2.2990436,
+                        48.752359
+                    ],
+                    [
+                        2.2991152,
+                        48.7524099
+                    ],
+                    [
+                        2.2991755,
+                        48.7524807
+                    ],
+                    [
+                        2.2995033,
+                        48.7529751
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de l'Abbaye",
+                "note": "2015 DSC double-sens cyclable sauf trottoir cyclable devant Sainte-Marie",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "source": "Arret\u00e9 mairie d'Antony 2015",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 286554,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3567895,
+                        48.8494029
+                    ],
+                    [
+                        2.3569727,
+                        48.8494469
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Pont Sully",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:forward": "2",
+                "name": "Pont de Sully",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20445190,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3600915,
+                        48.850406
+                    ],
+                    [
+                        2.3602285,
+                        48.8504481
+                    ],
+                    [
+                        2.3612731,
+                        48.8507616
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Pont Sully",
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Pont de Sully",
+                "oneway": "yes",
+                "source:maxspeed": "BMO Arr\u00eat\u00e9  n o   2018  P  12837",
+                "surface": "asphalt",
+                "wikidata": "Q1196688",
+                "wikipedia": "fr:Pont de Sully",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 506006523,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3568807,
+                        48.8494897
+                    ],
+                    [
+                        2.3568424,
+                        48.849481
+                    ],
+                    [
+                        2.3567234,
+                        48.8494538
+                    ],
+                    [
+                        2.35661,
+                        48.8494509
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "motor_vehicle": "no",
+                "name": "Pont de Sully",
+                "oneway": "yes",
+                "service": "psv",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 506006526,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3612692,
+                        48.8508223
+                    ],
+                    [
+                        2.3601914,
+                        48.8504997
+                    ],
+                    [
+                        2.360072,
+                        48.8504637
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "layer": "1",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "motor_vehicle": "no",
+                "name": "Pont de Sully",
+                "oneway": "yes",
+                "service": "psv",
+                "source:maxspeed": "BMO Arr\u00eat\u00e9  n o   2018  P  12837",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 43543266,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2475537,
+                        48.9408578
+                    ],
+                    [
+                        2.2478645,
+                        48.9410049
+                    ],
+                    [
+                        2.248978,
+                        48.9415845
+                    ],
+                    [
+                        2.2492098,
+                        48.9417033
+                    ],
+                    [
+                        2.2493203,
+                        48.9417484
+                    ],
+                    [
+                        2.2494133,
+                        48.9417681
+                    ],
+                    [
+                        2.2494743,
+                        48.9417615
+                    ],
+                    [
+                        2.2495522,
+                        48.9417455
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Notre-Dame",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "Fr:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

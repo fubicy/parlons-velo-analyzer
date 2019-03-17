@@ -1,0 +1,143 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30093006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3738613,
+                        48.846925
+                    ],
+                    [
+                        2.3738594,
+                        48.8470097
+                    ],
+                    [
+                        2.3738409,
+                        48.8477528
+                    ],
+                    [
+                        2.3738536,
+                        48.8478242
+                    ],
+                    [
+                        2.3738947,
+                        48.847868
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Michel Chasles",
+                "surface": "asphalt",
+                "wikidata": "Q3449161",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54166967,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3738947,
+                        48.847868
+                    ],
+                    [
+                        2.3739308,
+                        48.8479013
+                    ],
+                    [
+                        2.3739675,
+                        48.8479381
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Michel Chasles",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172643099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3738538,
+                        48.8459144
+                    ],
+                    [
+                        2.3738871,
+                        48.8459318
+                    ],
+                    [
+                        2.3738846,
+                        48.846003
+                    ],
+                    [
+                        2.3738646,
+                        48.8468246
+                    ],
+                    [
+                        2.3738613,
+                        48.846925
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Michel Chasles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3449161",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232004931,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3739675,
+                        48.8479381
+                    ],
+                    [
+                        2.3740096,
+                        48.8479762
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "highway": "service",
+                "name": "Rue Michel Chasles",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

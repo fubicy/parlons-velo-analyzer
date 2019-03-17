@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23983930,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4371736,
+                        43.5273726
+                    ],
+                    [
+                        5.4370887,
+                        43.5274159
+                    ],
+                    [
+                        5.4370628,
+                        43.5274319
+                    ],
+                    [
+                        5.4370449,
+                        43.5274473
+                    ],
+                    [
+                        5.4368925,
+                        43.5277144
+                    ],
+                    [
+                        5.436762,
+                        43.5279447
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:source": "FR:urban",
+                "name": "Rue des Boeufs",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 646052131,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.436762,
+                        43.5279447
+                    ],
+                    [
+                        5.4366617,
+                        43.5281218
+                    ],
+                    [
+                        5.4366229,
+                        43.5281859
+                    ],
+                    [
+                        5.4364456,
+                        43.5284788
+                    ],
+                    [
+                        5.4364224,
+                        43.528528
+                    ],
+                    [
+                        5.4364126,
+                        43.528589
+                    ],
+                    [
+                        5.4364113,
+                        43.5286561
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxspeed:source": "FR:urban",
+                "name": "Rue des Boeufs",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22803769,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4618329,
+                        43.5872236
+                    ],
+                    [
+                        1.4614339,
+                        43.5866807
+                    ],
+                    [
+                        1.4615486,
+                        43.5863652
+                    ],
+                    [
+                        1.4611402,
+                        43.5862819
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Trois Fours",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

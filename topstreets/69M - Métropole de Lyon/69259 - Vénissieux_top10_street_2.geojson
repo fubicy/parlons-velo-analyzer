@@ -1,0 +1,251 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23798062,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8778704,
+                        45.7061161
+                    ],
+                    [
+                        4.877863,
+                        45.7062031
+                    ],
+                    [
+                        4.8777761,
+                        45.7063704
+                    ],
+                    [
+                        4.87768,
+                        45.7065198
+                    ],
+                    [
+                        4.8770731,
+                        45.7073222
+                    ],
+                    [
+                        4.8765631,
+                        45.7079985
+                    ],
+                    [
+                        4.8763501,
+                        45.7083366
+                    ],
+                    [
+                        4.8761243,
+                        45.7087876
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue Pierre Semard",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23798063,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8761243,
+                        45.7087876
+                    ],
+                    [
+                        4.8762352,
+                        45.7083886
+                    ],
+                    [
+                        4.8762597,
+                        45.7083005
+                    ],
+                    [
+                        4.8763501,
+                        45.7080751
+                    ],
+                    [
+                        4.8764534,
+                        45.7079173
+                    ],
+                    [
+                        4.8767951,
+                        45.7074613
+                    ],
+                    [
+                        4.8769356,
+                        45.7072738
+                    ],
+                    [
+                        4.8775506,
+                        45.7064638
+                    ],
+                    [
+                        4.8777699,
+                        45.7061814
+                    ],
+                    [
+                        4.8778704,
+                        45.7061161
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue Pierre Semard",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23798064,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8781734,
+                        45.7055803
+                    ],
+                    [
+                        4.8779239,
+                        45.7060462
+                    ],
+                    [
+                        4.8778704,
+                        45.7061161
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:forward": "Lyon;Boulevard p\u00e9riph\u00e9rique",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue Pierre Semard",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23798065,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8761243,
+                        45.7087876
+                    ],
+                    [
+                        4.8756477,
+                        45.7099254
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue Pierre Semard",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 381501104,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8783318,
+                        45.7053844
+                    ],
+                    [
+                        4.8783043,
+                        45.7054263
+                    ],
+                    [
+                        4.8782468,
+                        45.7055058
+                    ],
+                    [
+                        4.8781734,
+                        45.7055803
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:forward": "Lyon;Boulevard p\u00e9riph\u00e9rique",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue Pierre Semard",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 381501105,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8781734,
+                        45.7055803
+                    ],
+                    [
+                        4.8781789,
+                        45.7055022
+                    ],
+                    [
+                        4.8781824,
+                        45.7054605
+                    ],
+                    [
+                        4.878184,
+                        45.7054415
+                    ],
+                    [
+                        4.8782,
+                        45.7053057
+                    ]
+                ]
+            },
+            "properties": {
+                "destination:forward": "Lyon;Boulevard p\u00e9riph\u00e9rique",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue Pierre Semard",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

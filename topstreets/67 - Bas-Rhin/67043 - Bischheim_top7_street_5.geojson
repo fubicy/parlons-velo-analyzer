@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 43888879,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7291257,
+                        48.6150129
+                    ],
+                    [
+                        7.7296552,
+                        48.6149575
+                    ],
+                    [
+                        7.7297647,
+                        48.6149135
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Niederhausbergen",
+                "oneway": "yes",
+                "source": "v2; Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43888882,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7297647,
+                        48.6149135
+                    ],
+                    [
+                        7.7296468,
+                        48.6148907
+                    ],
+                    [
+                        7.7295394,
+                        48.6148887
+                    ],
+                    [
+                        7.7294472,
+                        48.6148785
+                    ],
+                    [
+                        7.728033,
+                        48.6149629
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Niederhausbergen",
+                "source": "v2; Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397308395,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7297647,
+                        48.6149135
+                    ],
+                    [
+                        7.7302565,
+                        48.6148636
+                    ],
+                    [
+                        7.730874,
+                        48.6148633
+                    ],
+                    [
+                        7.7316035,
+                        48.6148649
+                    ],
+                    [
+                        7.7324271,
+                        48.6148619
+                    ],
+                    [
+                        7.7324901,
+                        48.6148622
+                    ],
+                    [
+                        7.7325748,
+                        48.6148627
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxweight": "6",
+                "name": "Rue de Niederhausbergen",
+                "source": "v2; Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

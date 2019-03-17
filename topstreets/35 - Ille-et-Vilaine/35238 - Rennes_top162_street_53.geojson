@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4925705,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6636247,
+                        48.1042104
+                    ],
+                    [
+                        -1.663956,
+                        48.1044037
+                    ],
+                    [
+                        -1.664391,
+                        48.1046775
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Saint-H\u00e9lier",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 263489807,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6645069,
+                        48.1046404
+                    ],
+                    [
+                        -1.664044,
+                        48.1043562
+                    ],
+                    [
+                        -1.6637062,
+                        48.1041701
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "track",
+                "highway": "primary_link",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Saint-H\u00e9lier",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

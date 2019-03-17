@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 56193033,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3754334,
+                        43.2943864
+                    ],
+                    [
+                        5.3757581,
+                        43.2944693
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue Pyth\u00e9as",
+                "oneway": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121271990,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3747809,
+                        43.2942255
+                    ],
+                    [
+                        5.3754334,
+                        43.2943864
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue Pyth\u00e9as",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:20",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

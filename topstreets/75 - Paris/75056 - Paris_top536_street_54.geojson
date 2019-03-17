@@ -1,0 +1,606 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039861,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3509284,
+                        48.8634112
+                    ],
+                    [
+                        2.3512871,
+                        48.8640532
+                    ],
+                    [
+                        2.351315,
+                        48.8641016
+                    ],
+                    [
+                        2.3513725,
+                        48.8642105
+                    ],
+                    [
+                        2.3514323,
+                        48.8643165
+                    ],
+                    [
+                        2.3514613,
+                        48.8643733
+                    ],
+                    [
+                        2.3514665,
+                        48.8643835
+                    ],
+                    [
+                        2.3514859,
+                        48.8644161
+                    ],
+                    [
+                        2.3515993,
+                        48.8646213
+                    ],
+                    [
+                        2.3518897,
+                        48.8651442
+                    ],
+                    [
+                        2.3519407,
+                        48.8652348
+                    ],
+                    [
+                        2.3524462,
+                        48.8661482
+                    ],
+                    [
+                        2.3524968,
+                        48.8662396
+                    ],
+                    [
+                        2.3529081,
+                        48.8669835
+                    ],
+                    [
+                        2.3529391,
+                        48.8670401
+                    ],
+                    [
+                        2.3529991,
+                        48.8671464
+                    ],
+                    [
+                        2.3531692,
+                        48.8674477
+                    ],
+                    [
+                        2.3532416,
+                        48.8675833
+                    ],
+                    [
+                        2.3532761,
+                        48.8676436
+                    ],
+                    [
+                        2.3534232,
+                        48.8679134
+                    ],
+                    [
+                        2.3535416,
+                        48.8681275
+                    ],
+                    [
+                        2.353577,
+                        48.8681914
+                    ],
+                    [
+                        2.3536878,
+                        48.8683928
+                    ],
+                    [
+                        2.3538205,
+                        48.868632
+                    ],
+                    [
+                        2.3538485,
+                        48.8686824
+                    ],
+                    [
+                        2.3539683,
+                        48.8688988
+                    ],
+                    [
+                        2.3539875,
+                        48.8689336
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard de S\u00e9bastopol",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "parking:lane:both": "no_stopping",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22715945,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3483348,
+                        48.8587332
+                    ],
+                    [
+                        2.34873,
+                        48.8594725
+                    ],
+                    [
+                        2.3487578,
+                        48.8595247
+                    ],
+                    [
+                        2.3490214,
+                        48.8599962
+                    ],
+                    [
+                        2.3490622,
+                        48.8600712
+                    ],
+                    [
+                        2.3493314,
+                        48.8605664
+                    ],
+                    [
+                        2.3495315,
+                        48.8609089
+                    ],
+                    [
+                        2.3497086,
+                        48.8612257
+                    ],
+                    [
+                        2.3501177,
+                        48.8619563
+                    ],
+                    [
+                        2.3501376,
+                        48.8619928
+                    ],
+                    [
+                        2.3503986,
+                        48.86246
+                    ],
+                    [
+                        2.350666,
+                        48.8629384
+                    ],
+                    [
+                        2.3508785,
+                        48.8633247
+                    ],
+                    [
+                        2.3509284,
+                        48.8634112
+                    ]
+                ]
+            },
+            "properties": {
+                "fixme": "\u00e0 v\u00e9rifier car probablement 50 km/h",
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Boulevard de S\u00e9bastopol",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39371291,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3477767,
+                        48.8577244
+                    ],
+                    [
+                        2.3478433,
+                        48.8578437
+                    ],
+                    [
+                        2.3479898,
+                        48.8580983
+                    ],
+                    [
+                        2.3481549,
+                        48.8584021
+                    ],
+                    [
+                        2.3481715,
+                        48.8584323
+                    ],
+                    [
+                        2.3481964,
+                        48.8584753
+                    ],
+                    [
+                        2.3482107,
+                        48.8585
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:psv": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de S\u00e9bastopol",
+                "oneway": "yes",
+                "source": "Bing",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54894199,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3483348,
+                        48.8587332
+                    ],
+                    [
+                        2.3484384,
+                        48.8587751
+                    ],
+                    [
+                        2.3488109,
+                        48.8594571
+                    ],
+                    [
+                        2.3488325,
+                        48.8594983
+                    ],
+                    [
+                        2.349111,
+                        48.8599856
+                    ],
+                    [
+                        2.3491557,
+                        48.8600621
+                    ],
+                    [
+                        2.3494208,
+                        48.8605444
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "maxspeed": "50",
+                "motor_vehicle": "no",
+                "name": "Boulevard de S\u00e9bastopol",
+                "oneway": "yes",
+                "psv": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67262102,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3494208,
+                        48.8605444
+                    ],
+                    [
+                        2.3496868,
+                        48.8610245
+                    ],
+                    [
+                        2.3501984,
+                        48.8619405
+                    ],
+                    [
+                        2.3502173,
+                        48.8619752
+                    ],
+                    [
+                        2.3509679,
+                        48.8633002
+                    ],
+                    [
+                        2.3510193,
+                        48.8633897
+                    ],
+                    [
+                        2.3513214,
+                        48.863941
+                    ],
+                    [
+                        2.3513754,
+                        48.8640395
+                    ],
+                    [
+                        2.3513961,
+                        48.8640772
+                    ],
+                    [
+                        2.3514316,
+                        48.8641425
+                    ],
+                    [
+                        2.351547,
+                        48.864343
+                    ],
+                    [
+                        2.3515791,
+                        48.8643994
+                    ],
+                    [
+                        2.3516053,
+                        48.8644452
+                    ],
+                    [
+                        2.3517059,
+                        48.8646262
+                    ],
+                    [
+                        2.3519841,
+                        48.8651281
+                    ],
+                    [
+                        2.352054,
+                        48.8652541
+                    ],
+                    [
+                        2.3522953,
+                        48.8656821
+                    ],
+                    [
+                        2.3525467,
+                        48.8661283
+                    ],
+                    [
+                        2.352596,
+                        48.8662155
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "maxspeed": "50",
+                "motor_vehicle": "no",
+                "name": "Boulevard de S\u00e9bastopol",
+                "oneway": "yes",
+                "psv": "yes",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123324289,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3482107,
+                        48.8585
+                    ],
+                    [
+                        2.3482347,
+                        48.8585443
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:psv": "1",
+                "lit": "yes",
+                "name": "Boulevard de S\u00e9bastopol",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169048419,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3539875,
+                        48.8689336
+                    ],
+                    [
+                        2.3540147,
+                        48.8689826
+                    ],
+                    [
+                        2.3541411,
+                        48.8692107
+                    ],
+                    [
+                        2.3542041,
+                        48.8693255
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard de S\u00e9bastopol",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 187019913,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.352596,
+                        48.8662155
+                    ],
+                    [
+                        2.3530002,
+                        48.8669614
+                    ],
+                    [
+                        2.3530328,
+                        48.8670212
+                    ],
+                    [
+                        2.3530906,
+                        48.8671267
+                    ],
+                    [
+                        2.3533287,
+                        48.8675599
+                    ],
+                    [
+                        2.3533607,
+                        48.8676168
+                    ],
+                    [
+                        2.3536429,
+                        48.8681092
+                    ],
+                    [
+                        2.353678,
+                        48.8681704
+                    ],
+                    [
+                        2.353831,
+                        48.8684387
+                    ],
+                    [
+                        2.353928,
+                        48.8686109
+                    ],
+                    [
+                        2.3539551,
+                        48.8686587
+                    ],
+                    [
+                        2.3540852,
+                        48.8688718
+                    ],
+                    [
+                        2.354109,
+                        48.8689107
+                    ],
+                    [
+                        2.3541341,
+                        48.868957
+                    ],
+                    [
+                        2.354259,
+                        48.8691877
+                    ],
+                    [
+                        2.3543185,
+                        48.8693003
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "motor_vehicle": "no",
+                "name": "Boulevard de S\u00e9bastopol",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193751718,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3482347,
+                        48.8585443
+                    ],
+                    [
+                        2.348288,
+                        48.8586438
+                    ],
+                    [
+                        2.3483348,
+                        48.8587332
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:psv": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de S\u00e9bastopol",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

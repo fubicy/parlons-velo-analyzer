@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27914432,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2415143,
+                        48.9104695
+                    ],
+                    [
+                        2.2415033,
+                        48.9105884
+                    ],
+                    [
+                        2.2414523,
+                        48.9110442
+                    ],
+                    [
+                        2.2414304,
+                        48.9111022
+                    ],
+                    [
+                        2.2410168,
+                        48.912207
+                    ],
+                    [
+                        2.2408602,
+                        48.9126237
+                    ],
+                    [
+                        2.2406634,
+                        48.913156
+                    ],
+                    [
+                        2.2406436,
+                        48.9131896
+                    ],
+                    [
+                        2.240616,
+                        48.9132256
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Commerce",
+                "oneway": "yes",
+                "source": "Microsoft Bing orbital imagery",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 623181400,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2415383,
+                        48.9104147
+                    ],
+                    [
+                        2.2415143,
+                        48.9104695
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue du Commerce",
+                "oneway": "yes",
+                "source": "Microsoft Bing orbital imagery",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

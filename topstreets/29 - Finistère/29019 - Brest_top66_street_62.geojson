@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5184714,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4895497,
+                        48.3977789
+                    ],
+                    [
+                        -4.489636,
+                        48.3977832
+                    ],
+                    [
+                        -4.4898869,
+                        48.397807
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Pont Schuman",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 304151658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4924516,
+                        48.3981312
+                    ],
+                    [
+                        -4.4926096,
+                        48.3981536
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Schuman",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 304151659,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.490538,
+                        48.3978939
+                    ],
+                    [
+                        -4.4907181,
+                        48.3979179
+                    ],
+                    [
+                        -4.4924516,
+                        48.3981312
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Pont du Bouguen",
+                "bridge": "yes",
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "layer": "1",
+                "level": "1",
+                "maxspeed": "50",
+                "name": "Pont Schuman",
+                "name:br": "Pont Schuman",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:urban",
+                "subject:wikidata": "Q15981",
+                "subject:wikipedia": "fr:Robert Schuman",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 304151660,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4897835,
+                        48.3977687
+                    ],
+                    [
+                        -4.4896275,
+                        48.3977058
+                    ],
+                    [
+                        -4.4895754,
+                        48.397688
+                    ],
+                    [
+                        -4.4895312,
+                        48.3976692
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Pont Schuman",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "turn:lanes": "through;left|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 452869815,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4898869,
+                        48.397807
+                    ],
+                    [
+                        -4.490538,
+                        48.3978939
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "layer": "1",
+                "level": "1",
+                "maxspeed": "50",
+                "name": "Pont Schuman",
+                "name:br": "Pont Schuman",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 452869816,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4898869,
+                        48.397807
+                    ],
+                    [
+                        -4.4897835,
+                        48.3977687
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Pont Schuman",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "turn:lanes": "through;left|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

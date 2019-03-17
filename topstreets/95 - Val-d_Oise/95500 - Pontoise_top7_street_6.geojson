@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 41470385,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1014574,
+                        49.0483937
+                    ],
+                    [
+                        2.1013279,
+                        49.0484928
+                    ],
+                    [
+                        2.1012887,
+                        49.0485262
+                    ],
+                    [
+                        2.101237,
+                        49.0485804
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "name": "Place du Pont",
+                "ref": "D 14",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 175146992,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1025801,
+                        49.0479229
+                    ],
+                    [
+                        2.1020287,
+                        49.048156
+                    ],
+                    [
+                        2.1014574,
+                        49.0483937
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "layer": "1",
+                "name": "Place du Pont",
+                "ref": "D 14",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 526 réponses dont 323 réponses avec une r
 
 70 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue de Dole | 48 | 9% | <img src="../../img/bar_14.gif" />&nbsp;14%|
-| Rue de Belfort | 38 | 7% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Piste cyclable | 37 | 7% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Rue de Vesoul | 27 | 5% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Pont de la République | 12 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Boulevard Léon Blum | 12 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue de Pontarlier | 9 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue Péclet | 9 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Grande Rue | 8 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue Mégevand | 7 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 207 | 39% | 64%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue de Dole | 48 | <img src="../../img/bar_23.gif" />&nbsp;23%|
+| Rue de Belfort | 38 | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| Piste cyclable | 37 | <img src="../../img/bar_17.gif" />&nbsp;17%|
+| Rue de Vesoul | 27 | <img src="../../img/bar_13.gif" />&nbsp;13%|
+| Pont de la République | 12 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Boulevard Léon Blum | 12 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue de Pontarlier | 9 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue Péclet | 9 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Grande Rue | 8 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue Mégevand | 7 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 207 | 100%|

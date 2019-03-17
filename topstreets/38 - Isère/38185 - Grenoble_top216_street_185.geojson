@@ -1,0 +1,868 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 111931,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7085113,
+                        45.1655208
+                    ],
+                    [
+                        5.7089815,
+                        45.1653548
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "ref": "D 5B",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4014318,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7050354,
+                        45.1674587
+                    ],
+                    [
+                        5.7046749,
+                        45.1676553
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4014325,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7045857,
+                        45.1675744
+                    ],
+                    [
+                        5.7050403,
+                        45.1673203
+                    ],
+                    [
+                        5.7051343,
+                        45.1672712
+                    ],
+                    [
+                        5.7052148,
+                        45.1672291
+                    ],
+                    [
+                        5.7052701,
+                        45.1672014
+                    ],
+                    [
+                        5.7059876,
+                        45.1668415
+                    ],
+                    [
+                        5.7061087,
+                        45.1667807
+                    ],
+                    [
+                        5.7063105,
+                        45.1666776
+                    ],
+                    [
+                        5.7076459,
+                        45.165995
+                    ],
+                    [
+                        5.7085113,
+                        45.1655208
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "ref": "D 5B",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4014362,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7110394,
+                        45.1644565
+                    ],
+                    [
+                        5.7108918,
+                        45.1645358
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary_link",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8016462,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7085113,
+                        45.1655208
+                    ],
+                    [
+                        5.7089165,
+                        45.1652625
+                    ],
+                    [
+                        5.7092212,
+                        45.1651054
+                    ],
+                    [
+                        5.7100852,
+                        45.1646552
+                    ],
+                    [
+                        5.7105419,
+                        45.1644298
+                    ],
+                    [
+                        5.7106071,
+                        45.1643967
+                    ],
+                    [
+                        5.7106853,
+                        45.1643547
+                    ],
+                    [
+                        5.7107342,
+                        45.1643334
+                    ],
+                    [
+                        5.7108162,
+                        45.1642922
+                    ],
+                    [
+                        5.7109618,
+                        45.1642295
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary_link",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8016466,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7085862,
+                        45.1656232
+                    ],
+                    [
+                        5.7066727,
+                        45.1666347
+                    ],
+                    [
+                        5.7065762,
+                        45.1666831
+                    ],
+                    [
+                        5.7063998,
+                        45.1667715
+                    ],
+                    [
+                        5.7062449,
+                        45.1668492
+                    ],
+                    [
+                        5.7060876,
+                        45.1669281
+                    ],
+                    [
+                        5.7057738,
+                        45.1670866
+                    ]
+                ]
+            },
+            "properties": {
+                "access:lanes": "yes|yes|no",
+                "bicycle:lanes": "yes|yes|designated",
+                "bus:lanes": "yes|yes|designated",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "ref": "D 5B",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9751756,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7110939,
+                        45.1641566
+                    ],
+                    [
+                        5.7112278,
+                        45.1640934
+                    ],
+                    [
+                        5.7113579,
+                        45.164034
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary_link",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129848139,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7113579,
+                        45.164034
+                    ],
+                    [
+                        5.7123259,
+                        45.1635668
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "embankment": "yes",
+                "highway": "secondary_link",
+                "lanes": "1",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129848140,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7114103,
+                        45.164282
+                    ],
+                    [
+                        5.7113501,
+                        45.1643106
+                    ],
+                    [
+                        5.7113046,
+                        45.1643348
+                    ],
+                    [
+                        5.7111738,
+                        45.1644008
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary_link",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "turn:lanes": "left|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158422508,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.704347,
+                        45.1676696
+                    ],
+                    [
+                        5.7045857,
+                        45.1675744
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179324479,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7089815,
+                        45.1653548
+                    ],
+                    [
+                        5.7085862,
+                        45.1656232
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "ref": "D 5B",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232147147,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7046749,
+                        45.1676553
+                    ],
+                    [
+                        5.704439,
+                        45.1677648
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 282546357,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7091017,
+                        45.1652925
+                    ],
+                    [
+                        5.7089815,
+                        45.1653548
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "secondary",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "ref": "D 5B",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 292166888,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7119786,
+                        45.1639767
+                    ],
+                    [
+                        5.7114103,
+                        45.164282
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "embankment": "yes",
+                "highway": "secondary_link",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 292166889,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7057738,
+                        45.1670866
+                    ],
+                    [
+                        5.7054307,
+                        45.1672574
+                    ],
+                    [
+                        5.7051076,
+                        45.1674231
+                    ],
+                    [
+                        5.7050647,
+                        45.1674451
+                    ],
+                    [
+                        5.7050354,
+                        45.1674587
+                    ]
+                ]
+            },
+            "properties": {
+                "access:lanes": "yes|yes|no",
+                "bicycle:lanes": "yes|yes|designated",
+                "bus:lanes": "yes|yes|designated",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "ref": "D 5B",
+                "surface": "asphalt",
+                "turn:lanes": "through|through;right|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 292166890,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7108918,
+                        45.1645358
+                    ],
+                    [
+                        5.7107373,
+                        45.164606
+                    ],
+                    [
+                        5.7106817,
+                        45.164634
+                    ],
+                    [
+                        5.7105945,
+                        45.164678
+                    ],
+                    [
+                        5.710421,
+                        45.1647654
+                    ],
+                    [
+                        5.7091049,
+                        45.1654197
+                    ],
+                    [
+                        5.7085862,
+                        45.1656232
+                    ]
+                ]
+            },
+            "properties": {
+                "access:lanes": "yes|no",
+                "bicycle:lanes": "yes|designated",
+                "bus:lanes": "yes|designated",
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary_link",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376549047,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7102706,
+                        45.1647048
+                    ],
+                    [
+                        5.7091017,
+                        45.1652925
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "embankment": "yes",
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "ref": "D 5B",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376549049,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7124099,
+                        45.163753
+                    ],
+                    [
+                        5.7119786,
+                        45.1639767
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "embankment": "yes",
+                "highway": "secondary_link",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376549051,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7113361,
+                        45.1641691
+                    ],
+                    [
+                        5.7102706,
+                        45.1647048
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "ref": "D 5B",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376549054,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7123644,
+                        45.1636521
+                    ],
+                    [
+                        5.7113361,
+                        45.1641691
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "embankment": "yes",
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "ref": "D 5B",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376549057,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7123259,
+                        45.1635668
+                    ],
+                    [
+                        5.7123891,
+                        45.1635363
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary_link",
+                "lanes": "1",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376549061,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7129726,
+                        45.1633455
+                    ],
+                    [
+                        5.7126396,
+                        45.1636241
+                    ],
+                    [
+                        5.7124099,
+                        45.163753
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary_link",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376549062,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7123891,
+                        45.1635363
+                    ],
+                    [
+                        5.71265,
+                        45.1634152
+                    ],
+                    [
+                        5.7129726,
+                        45.1633455
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary_link",
+                "lanes": "1",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 464154238,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7129726,
+                        45.1633455
+                    ],
+                    [
+                        5.7123644,
+                        45.1636521
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Rue Albert Reynier",
+                "ref": "D 5B",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

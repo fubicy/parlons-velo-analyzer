@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30033011,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4513046,
+                        43.5319156
+                    ],
+                    [
+                        5.4513699,
+                        43.5321432
+                    ],
+                    [
+                        5.4514196,
+                        43.5321857
+                    ],
+                    [
+                        5.4514735,
+                        43.5322121
+                    ],
+                    [
+                        5.4515696,
+                        43.5322481
+                    ]
+                ]
+            },
+            "properties": {
+                "fixme": "yes",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Place Bellegarde",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30033012,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4507366,
+                        43.5322529
+                    ],
+                    [
+                        5.4506947,
+                        43.532241
+                    ],
+                    [
+                        5.4506629,
+                        43.5322276
+                    ],
+                    [
+                        5.4506503,
+                        43.5321833
+                    ],
+                    [
+                        5.4506764,
+                        43.532135
+                    ],
+                    [
+                        5.4507267,
+                        43.5320913
+                    ],
+                    [
+                        5.4507756,
+                        43.5320713
+                    ],
+                    [
+                        5.4508677,
+                        43.5320587
+                    ],
+                    [
+                        5.4509844,
+                        43.5320885
+                    ],
+                    [
+                        5.4510235,
+                        43.5321044
+                    ],
+                    [
+                        5.4510798,
+                        43.5321292
+                    ],
+                    [
+                        5.4510763,
+                        43.5321676
+                    ],
+                    [
+                        5.4510091,
+                        43.5322294
+                    ],
+                    [
+                        5.4509474,
+                        43.5322582
+                    ],
+                    [
+                        5.4508871,
+                        43.5322683
+                    ],
+                    [
+                        5.4508008,
+                        43.532264
+                    ],
+                    [
+                        5.4507366,
+                        43.5322529
+                    ]
+                ]
+            },
+            "properties": {
+                "area": "yes",
+                "highway": "pedestrian",
+                "name": "Place Bellegarde",
+                "surface": "grass",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35486608,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4512066,
+                        43.5320887
+                    ],
+                    [
+                        5.4513699,
+                        43.5321432
+                    ]
+                ]
+            },
+            "properties": {
+                "fixme": "yes",
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Place Bellegarde",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

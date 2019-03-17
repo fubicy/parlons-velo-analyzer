@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 529434685,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3880652,
+                        45.435902
+                    ],
+                    [
+                        4.3880045,
+                        45.4358992
+                    ],
+                    [
+                        4.3876998,
+                        45.435817
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place du Peuple",
+                "oneway": "yes",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 15,
+                "line_color": "#401000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 529434690,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3874819,
+                        45.4362517
+                    ],
+                    [
+                        4.3875889,
+                        45.4359149
+                    ],
+                    [
+                        4.3876001,
+                        45.4358797
+                    ],
+                    [
+                        4.3876482,
+                        45.435836
+                    ],
+                    [
+                        4.3876998,
+                        45.435817
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Place du Peuple",
+                "source": "survey",
+                "line_width": 15,
+                "line_color": "#401000"
+            }
+        }
+    ]
+}

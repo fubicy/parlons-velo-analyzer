@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22174263,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9227835,
+                        45.5665409
+                    ],
+                    [
+                        5.922724,
+                        45.5665073
+                    ],
+                    [
+                        5.9223451,
+                        45.5663103
+                    ],
+                    [
+                        5.9222452,
+                        45.5662609
+                    ],
+                    [
+                        5.9218273,
+                        45.5660371
+                    ],
+                    [
+                        5.9216973,
+                        45.5659704
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "motor_vehicle": "yes",
+                "name": "Rue de Boigne",
+                "note": "Comme dans l'axe, je retire layer=1",
+                "oneway": "no",
+                "psv:oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28493258,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9216973,
+                        45.5659704
+                    ],
+                    [
+                        5.9215885,
+                        45.5659119
+                    ],
+                    [
+                        5.9210521,
+                        45.5656338
+                    ],
+                    [
+                        5.9209134,
+                        45.5655605
+                    ],
+                    [
+                        5.9203583,
+                        45.5652764
+                    ],
+                    [
+                        5.9202593,
+                        45.5652295
+                    ],
+                    [
+                        5.9201605,
+                        45.5651826
+                    ],
+                    [
+                        5.9198761,
+                        45.5650337
+                    ],
+                    [
+                        5.9197441,
+                        45.5649682
+                    ],
+                    [
+                        5.9195968,
+                        45.5648902
+                    ],
+                    [
+                        5.9192498,
+                        45.5647216
+                    ],
+                    [
+                        5.9192047,
+                        45.5646629
+                    ],
+                    [
+                        5.9192209,
+                        45.5646077
+                    ],
+                    [
+                        5.9194094,
+                        45.5642117
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "name": "Rue de Boigne",
+                "surface": "asphalt",
+                "tourism": "attraction",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

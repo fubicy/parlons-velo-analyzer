@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 385666426,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.862601,
+                        45.726481
+                    ],
+                    [
+                        4.8627131,
+                        45.7263404
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Viviani",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "3150",
+                "route_ref": "35A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

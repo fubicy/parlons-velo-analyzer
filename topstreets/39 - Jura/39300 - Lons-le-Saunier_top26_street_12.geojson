@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 36270132,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5546175,
+                        46.6725988
+                    ],
+                    [
+                        5.5546022,
+                        46.6724997
+                    ],
+                    [
+                        5.5546002,
+                        46.6724865
+                    ],
+                    [
+                        5.5545171,
+                        46.6719474
+                    ],
+                    [
+                        5.5545064,
+                        46.6718793
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Rouget de Lisle",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49706800,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5547174,
+                        46.673165
+                    ],
+                    [
+                        5.5547088,
+                        46.673116
+                    ],
+                    [
+                        5.5546378,
+                        46.6727137
+                    ],
+                    [
+                        5.5546329,
+                        46.6726861
+                    ],
+                    [
+                        5.5546175,
+                        46.6725988
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Rouget de Lisle",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 290287381,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5545064,
+                        46.6718793
+                    ],
+                    [
+                        5.5544996,
+                        46.6718349
+                    ],
+                    [
+                        5.5542245,
+                        46.669962
+                    ],
+                    [
+                        5.554164,
+                        46.6695692
+                    ],
+                    [
+                        5.5541318,
+                        46.66936
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Rouget de Lisle",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 607090103,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5541318,
+                        46.66936
+                    ],
+                    [
+                        5.5541155,
+                        46.6692413
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Rouget de Lisle",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

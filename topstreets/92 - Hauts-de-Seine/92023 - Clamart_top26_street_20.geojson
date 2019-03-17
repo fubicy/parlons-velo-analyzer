@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22008443,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2692647,
+                        48.8061459
+                    ],
+                    [
+                        2.2693522,
+                        48.8061113
+                    ],
+                    [
+                        2.2702412,
+                        48.8057602
+                    ],
+                    [
+                        2.2702779,
+                        48.8057456
+                    ],
+                    [
+                        2.27074,
+                        48.8055631
+                    ],
+                    [
+                        2.2707866,
+                        48.8055447
+                    ],
+                    [
+                        2.2708578,
+                        48.805517
+                    ],
+                    [
+                        2.2719936,
+                        48.8050749
+                    ],
+                    [
+                        2.2720439,
+                        48.8050553
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pierre Louvrier",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22008760,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2676666,
+                        48.8067386
+                    ],
+                    [
+                        2.2677428,
+                        48.8067105
+                    ],
+                    [
+                        2.2689268,
+                        48.8062742
+                    ],
+                    [
+                        2.2689911,
+                        48.806248
+                    ],
+                    [
+                        2.269181,
+                        48.8061771
+                    ],
+                    [
+                        2.2692647,
+                        48.8061459
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Pierre Louvrier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 229716213,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2720439,
+                        48.8050553
+                    ],
+                    [
+                        2.2720992,
+                        48.8050337
+                    ],
+                    [
+                        2.2730518,
+                        48.8046611
+                    ],
+                    [
+                        2.2731305,
+                        48.8046342
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pierre Louvrier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

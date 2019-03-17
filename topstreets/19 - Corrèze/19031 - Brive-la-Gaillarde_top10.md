@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 110 réponses dont 26 réponses avec une ru
 
 15 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Avenue Pierre Semard | 5 | 4% | <img src="../../img/bar_19.gif" />&nbsp;19%|
-| Avenue de Paris | 3 | 2% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Avenue Ribot | 3 | 2% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Pont Cardinal | 2 | 1% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Boulevard Voltaire | 2 | 1% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Avenue Jean-Jacques Rousseau | 2 | 1% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Rue André Delon | 1 | 0% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Pont de la Bouvie | 1 | 0% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Impasse des Cèdres | 1 | 0% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Boulevard du Salan | 1 | 0% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| **Total** | 21 | 19% | 80%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Avenue Pierre Semard | 5 | <img src="../../img/bar_23.gif" />&nbsp;23%|
+| Avenue de Paris | 3 | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| Avenue Ribot | 3 | <img src="../../img/bar_14.gif" />&nbsp;14%|
+| Pont Cardinal | 2 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Boulevard Voltaire | 2 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Avenue Jean-Jacques Rousseau | 2 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Rue André Delon | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Pont de la Bouvie | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Impasse des Cèdres | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Boulevard du Salan | 1 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| **Total** | 21 | 100%|

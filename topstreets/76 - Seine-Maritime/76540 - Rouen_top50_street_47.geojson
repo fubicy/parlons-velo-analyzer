@@ -1,0 +1,232 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31713441,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.093444,
+                        49.4401918
+                    ],
+                    [
+                        1.0933834,
+                        49.4401566
+                    ],
+                    [
+                        1.0932515,
+                        49.4400569
+                    ],
+                    [
+                        1.0928965,
+                        49.4396377
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "tertiary",
+                "horse": "no",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Grand Pont",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38286102,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0928361,
+                        49.4395659
+                    ],
+                    [
+                        1.0928048,
+                        49.4395272
+                    ],
+                    [
+                        1.0927831,
+                        49.4394979
+                    ],
+                    [
+                        1.0923403,
+                        49.4388671
+                    ],
+                    [
+                        1.092317,
+                        49.4388313
+                    ],
+                    [
+                        1.092277,
+                        49.4387681
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Grand Pont",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192748231,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.092277,
+                        49.4387681
+                    ],
+                    [
+                        1.092249,
+                        49.4387283
+                    ],
+                    [
+                        1.0920199,
+                        49.438382
+                    ],
+                    [
+                        1.091995,
+                        49.4383476
+                    ],
+                    [
+                        1.0919726,
+                        49.4383167
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Grand Pont",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 451248441,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0919726,
+                        49.4383167
+                    ],
+                    [
+                        1.0919204,
+                        49.4382433
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Grand Pont",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "vehicle:conditional": "delivery @ (weight>3.5)",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 666292773,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0928202,
+                        49.439662
+                    ],
+                    [
+                        1.0931411,
+                        49.4400452
+                    ],
+                    [
+                        1.0931672,
+                        49.4400801
+                    ],
+                    [
+                        1.0932038,
+                        49.4401148
+                    ],
+                    [
+                        1.0933077,
+                        49.4402164
+                    ],
+                    [
+                        1.0934375,
+                        49.4402817
+                    ],
+                    [
+                        1.0936121,
+                        49.4403241
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "permissive",
+                "highway": "pedestrian",
+                "name": "Rue Grand Pont",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 666292777,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0928965,
+                        49.4396377
+                    ],
+                    [
+                        1.0928361,
+                        49.4395659
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "no",
+                "highway": "tertiary",
+                "horse": "no",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Grand Pont",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30807692,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5440642,
+                        47.1954869
+                    ],
+                    [
+                        -1.5446093,
+                        47.194785
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "bridge": "yes",
+                "foot": "designated",
+                "highway": "path",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Axe Nord-Sud",
+                "segregated": "yes",
+                "smoothness": "excellent",
+                "surface": "asphalt",
+                "width": "1.50",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

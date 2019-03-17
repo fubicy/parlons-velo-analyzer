@@ -1,0 +1,222 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27609299,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.554829,
+                        47.213682
+                    ],
+                    [
+                        -1.5548765,
+                        47.213662
+                    ],
+                    [
+                        -1.5549995,
+                        47.2136131
+                    ],
+                    [
+                        -1.5550341,
+                        47.2135993
+                    ],
+                    [
+                        -1.5550712,
+                        47.2135846
+                    ],
+                    [
+                        -1.5551124,
+                        47.2135689
+                    ],
+                    [
+                        -1.5552108,
+                        47.2135291
+                    ],
+                    [
+                        -1.5557286,
+                        47.2133187
+                    ],
+                    [
+                        -1.5557565,
+                        47.2133074
+                    ],
+                    [
+                        -1.5562045,
+                        47.2131254
+                    ],
+                    [
+                        -1.5562984,
+                        47.2130873
+                    ],
+                    [
+                        -1.5563955,
+                        47.2130479
+                    ],
+                    [
+                        -1.5567948,
+                        47.2128879
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "description": "Zone \u00e0 Trafic Limit\u00e9",
+                "emergency": "yes",
+                "foot": "yes",
+                "goods": "delivery",
+                "hgv": "destination",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle": "destination",
+                "motorcar": "destination",
+                "motorcycle": "destination",
+                "name": "All\u00e9e Duguay Trouin",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "psv": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186642189,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5547253,
+                        47.2136846
+                    ],
+                    [
+                        -1.5546798,
+                        47.2136868
+                    ],
+                    [
+                        -1.5544497,
+                        47.2137815
+                    ],
+                    [
+                        -1.5539811,
+                        47.2139744
+                    ],
+                    [
+                        -1.5539005,
+                        47.2140076
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "emergency": "yes",
+                "foot": "designated",
+                "goods": "delivery",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "All\u00e9e Duguay Trouin",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 330355384,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.554829,
+                        47.213682
+                    ],
+                    [
+                        -1.5547253,
+                        47.2136846
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "emergency": "yes",
+                "foot": "designated",
+                "goods": "delivery",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "All\u00e9e Duguay Trouin",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 509605922,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5567948,
+                        47.2128879
+                    ],
+                    [
+                        -1.5569386,
+                        47.2128288
+                    ],
+                    [
+                        -1.556983,
+                        47.2128098
+                    ],
+                    [
+                        -1.5573824,
+                        47.2126461
+                    ],
+                    [
+                        -1.5574147,
+                        47.2126334
+                    ],
+                    [
+                        -1.557461,
+                        47.2126113
+                    ],
+                    [
+                        -1.5574923,
+                        47.212592
+                    ],
+                    [
+                        -1.5575921,
+                        47.212511
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "emergency": "yes",
+                "foot": "designated",
+                "goods": "delivery",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "All\u00e9e Duguay Trouin",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

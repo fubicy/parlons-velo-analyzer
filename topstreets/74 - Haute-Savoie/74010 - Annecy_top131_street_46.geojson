@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 631677613,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1339907,
+                        45.918059
+                    ],
+                    [
+                        6.1341718,
+                        45.918171
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Novel",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 631677662,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1336514,
+                        45.9178481
+                    ],
+                    [
+                        6.1338955,
+                        45.9180058
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Novel",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

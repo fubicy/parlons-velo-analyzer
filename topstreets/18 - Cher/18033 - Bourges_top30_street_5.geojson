@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19387712,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3902409,
+                        47.0795666
+                    ],
+                    [
+                        2.3903309,
+                        47.0796212
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary_link",
+                "maxspeed": "50",
+                "name": "Rue d'Auron",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45088677,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3903309,
+                        47.0796212
+                    ],
+                    [
+                        2.3906911,
+                        47.0798929
+                    ],
+                    [
+                        2.3907165,
+                        47.079912
+                    ],
+                    [
+                        2.3907386,
+                        47.0799293
+                    ],
+                    [
+                        2.3913426,
+                        47.0803605
+                    ],
+                    [
+                        2.3915152,
+                        47.0805027
+                    ],
+                    [
+                        2.3922071,
+                        47.0810549
+                    ],
+                    [
+                        2.3922747,
+                        47.0811089
+                    ],
+                    [
+                        2.392483,
+                        47.0812684
+                    ],
+                    [
+                        2.3926791,
+                        47.0814185
+                    ],
+                    [
+                        2.3928047,
+                        47.0815019
+                    ],
+                    [
+                        2.3928641,
+                        47.0815393
+                    ],
+                    [
+                        2.3929903,
+                        47.0816072
+                    ],
+                    [
+                        2.3938958,
+                        47.0819605
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue d'Auron",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 358260259,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3938958,
+                        47.0819605
+                    ],
+                    [
+                        2.3950371,
+                        47.0823723
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "pedestrian",
+                "name": "Rue d'Auron",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "paving_stones",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

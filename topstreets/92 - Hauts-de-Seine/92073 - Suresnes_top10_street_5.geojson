@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 168492664,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2144483,
+                        48.859481
+                    ],
+                    [
+                        2.2142716,
+                        48.8594444
+                    ],
+                    [
+                        2.2142077,
+                        48.8594308
+                    ],
+                    [
+                        2.2139666,
+                        48.8593649
+                    ],
+                    [
+                        2.2139173,
+                        48.8593514
+                    ],
+                    [
+                        2.2137779,
+                        48.8593333
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue du Val d'Or",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 265490506,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2215052,
+                        48.8599556
+                    ],
+                    [
+                        2.2213837,
+                        48.8599631
+                    ],
+                    [
+                        2.2210036,
+                        48.8599613
+                    ],
+                    [
+                        2.2205486,
+                        48.8599526
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "maxweight": "3.5",
+                "name": "Rue du Val d'Or",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

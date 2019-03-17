@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 130774993,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8181274,
+                        49.4167451
+                    ],
+                    [
+                        2.818005,
+                        49.4168484
+                    ],
+                    [
+                        2.8179505,
+                        49.4168943
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "maxspeed": "50",
+                "name": "Pont-Neuf",
+                "oneway": "no",
+                "surface": "concrete",
+                "turn:lanes:backward": "through|right",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 263700720,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.817879,
+                        49.4169567
+                    ],
+                    [
+                        2.8168797,
+                        49.4177772
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "lane",
+                "divider": "median",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes:backward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont-Neuf",
+                "oneway": "no",
+                "surface": "concrete",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 435829095,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8179505,
+                        49.4168943
+                    ],
+                    [
+                        2.817879,
+                        49.4169567
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "lane",
+                "foot": "designated",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont-Neuf",
+                "oneway": "no",
+                "surface": "concrete",
+                "turn:lanes:backward": "through|right",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

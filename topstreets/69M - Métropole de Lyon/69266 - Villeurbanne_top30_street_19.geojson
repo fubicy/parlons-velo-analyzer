@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 380708671,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8688344,
+                        45.7637242
+                    ],
+                    [
+                        4.8689915,
+                        45.7637257
+                    ],
+                    [
+                        4.8695383,
+                        45.7637309
+                    ],
+                    [
+                        4.8698405,
+                        45.7637337
+                    ],
+                    [
+                        4.869942,
+                        45.7637347
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Cours Lafayette",
+                "oneway": "yes",
+                "oneway:psv": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

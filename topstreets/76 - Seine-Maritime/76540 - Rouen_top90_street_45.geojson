@@ -1,0 +1,571 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25157374,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.084281,
+                        49.4295821
+                    ],
+                    [
+                        1.0843398,
+                        49.4296313
+                    ],
+                    [
+                        1.0844562,
+                        49.4297287
+                    ],
+                    [
+                        1.0845423,
+                        49.4298224
+                    ],
+                    [
+                        1.0846133,
+                        49.4298336
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Julien",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25568207,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0774246,
+                        49.4270268
+                    ],
+                    [
+                        1.0779705,
+                        49.4272009
+                    ],
+                    [
+                        1.0792869,
+                        49.4276207
+                    ],
+                    [
+                        1.0802201,
+                        49.4279182
+                    ],
+                    [
+                        1.0802761,
+                        49.4279361
+                    ],
+                    [
+                        1.0803548,
+                        49.4279612
+                    ],
+                    [
+                        1.0806732,
+                        49.4280623
+                    ],
+                    [
+                        1.0809168,
+                        49.4281396
+                    ],
+                    [
+                        1.0809464,
+                        49.428149
+                    ],
+                    [
+                        1.0810609,
+                        49.428185
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Saint-Julien",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25568208,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0810609,
+                        49.428185
+                    ],
+                    [
+                        1.0811742,
+                        49.4282164
+                    ],
+                    [
+                        1.0812196,
+                        49.4282298
+                    ],
+                    [
+                        1.0813077,
+                        49.4282592
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Saint-Julien",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25833606,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0846133,
+                        49.4298336
+                    ],
+                    [
+                        1.0846318,
+                        49.4299076
+                    ],
+                    [
+                        1.0846563,
+                        49.4299411
+                    ],
+                    [
+                        1.0847644,
+                        49.4300892
+                    ],
+                    [
+                        1.0848129,
+                        49.4301557
+                    ],
+                    [
+                        1.0850144,
+                        49.4304315
+                    ],
+                    [
+                        1.0850398,
+                        49.4304663
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "motor_vehicle": "designated",
+                "name": "Rue Saint-Julien",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119150952,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0813077,
+                        49.4282592
+                    ],
+                    [
+                        1.081465,
+                        49.4283057
+                    ],
+                    [
+                        1.0814863,
+                        49.428312
+                    ],
+                    [
+                        1.0825818,
+                        49.4286103
+                    ],
+                    [
+                        1.0826095,
+                        49.4286178
+                    ],
+                    [
+                        1.0829717,
+                        49.4287081
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "tertiary",
+                "horse": "yes",
+                "lanes": "2",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue Saint-Julien",
+                "oneway": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "vehicle:forward:conditional": "delivery @ (weight>3.5)",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153161393,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0694743,
+                        49.4238527
+                    ],
+                    [
+                        1.0697311,
+                        49.4239693
+                    ],
+                    [
+                        1.0698429,
+                        49.4240167
+                    ],
+                    [
+                        1.0699872,
+                        49.4240778
+                    ],
+                    [
+                        1.070104,
+                        49.4241273
+                    ],
+                    [
+                        1.07037,
+                        49.4242395
+                    ],
+                    [
+                        1.0704021,
+                        49.4242521
+                    ],
+                    [
+                        1.0707076,
+                        49.4243823
+                    ],
+                    [
+                        1.071004,
+                        49.4245086
+                    ],
+                    [
+                        1.0711703,
+                        49.4245791
+                    ],
+                    [
+                        1.0715209,
+                        49.4247276
+                    ],
+                    [
+                        1.0719612,
+                        49.4249142
+                    ],
+                    [
+                        1.0720565,
+                        49.4249546
+                    ],
+                    [
+                        1.0723102,
+                        49.4250621
+                    ],
+                    [
+                        1.07252,
+                        49.4251509
+                    ],
+                    [
+                        1.0726123,
+                        49.4251901
+                    ],
+                    [
+                        1.0728969,
+                        49.4253014
+                    ],
+                    [
+                        1.0733052,
+                        49.4254772
+                    ],
+                    [
+                        1.073432,
+                        49.4255283
+                    ],
+                    [
+                        1.0735274,
+                        49.4255693
+                    ],
+                    [
+                        1.0736413,
+                        49.4256162
+                    ],
+                    [
+                        1.073672,
+                        49.4256277
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Saint-Julien",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153161397,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0754906,
+                        49.426378
+                    ],
+                    [
+                        1.0755708,
+                        49.4264057
+                    ],
+                    [
+                        1.0756026,
+                        49.4264166
+                    ],
+                    [
+                        1.0759321,
+                        49.4265303
+                    ],
+                    [
+                        1.0763652,
+                        49.4266789
+                    ],
+                    [
+                        1.0767813,
+                        49.4268216
+                    ],
+                    [
+                        1.0768917,
+                        49.4268595
+                    ],
+                    [
+                        1.077007,
+                        49.4269015
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Saint-Julien",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157312859,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0829717,
+                        49.4287081
+                    ],
+                    [
+                        1.0831779,
+                        49.4287993
+                    ],
+                    [
+                        1.0832267,
+                        49.4288339
+                    ],
+                    [
+                        1.084281,
+                        49.4295821
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Julien",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 334021769,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.073672,
+                        49.4256277
+                    ],
+                    [
+                        1.0737361,
+                        49.4256547
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Saint-Julien",
+                "oneway": "no",
+                "parking:condition:right": "free",
+                "parking:lane:right": "parallel",
+                "parking:lane:right:capacity:disabled": "1",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 334021770,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0737361,
+                        49.4256547
+                    ],
+                    [
+                        1.0738394,
+                        49.4256978
+                    ],
+                    [
+                        1.0740699,
+                        49.4257927
+                    ],
+                    [
+                        1.0744345,
+                        49.4259429
+                    ],
+                    [
+                        1.0745259,
+                        49.4259806
+                    ],
+                    [
+                        1.074975,
+                        49.4261656
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Saint-Julien",
+                "oneway": "no",
+                "parking:condition:right": "ticket",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "parallel",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 334021771,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.074975,
+                        49.4261656
+                    ],
+                    [
+                        1.075049,
+                        49.4261971
+                    ],
+                    [
+                        1.0752643,
+                        49.4262848
+                    ],
+                    [
+                        1.0754275,
+                        49.426352
+                    ],
+                    [
+                        1.0754738,
+                        49.4263711
+                    ],
+                    [
+                        1.0754906,
+                        49.426378
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Saint-Julien",
+                "oneway": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 493721425,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0690782,
+                        49.4236541
+                    ],
+                    [
+                        1.0694743,
+                        49.4238527
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "foot": "yes",
+                "highway": "tertiary",
+                "horse": "yes",
+                "lanes": "2",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Rue Saint-Julien",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

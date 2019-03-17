@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 62880158,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0764143,
+                        50.3698321
+                    ],
+                    [
+                        3.076498,
+                        50.3699375
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Croix d'Or",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101802466,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.076498,
+                        50.3699375
+                    ],
+                    [
+                        3.0767251,
+                        50.3705389
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Croix d'Or",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

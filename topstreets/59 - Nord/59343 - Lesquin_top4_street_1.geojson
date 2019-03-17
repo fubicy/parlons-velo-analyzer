@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 42636927,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1018205,
+                        50.5902252
+                    ],
+                    [
+                        3.1018077,
+                        50.590277
+                    ],
+                    [
+                        3.1015873,
+                        50.5911677
+                    ],
+                    [
+                        3.1015674,
+                        50.5912479
+                    ],
+                    [
+                        3.101464,
+                        50.5917135
+                    ],
+                    [
+                        3.1012008,
+                        50.5928988
+                    ],
+                    [
+                        3.1010386,
+                        50.5934265
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Voltaire",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225110629,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1019043,
+                        50.5881242
+                    ],
+                    [
+                        3.1019919,
+                        50.5881455
+                    ],
+                    [
+                        3.1020615,
+                        50.5882112
+                    ],
+                    [
+                        3.1025077,
+                        50.5886322
+                    ],
+                    [
+                        3.1026067,
+                        50.5887823
+                    ],
+                    [
+                        3.1028077,
+                        50.5892731
+                    ],
+                    [
+                        3.1027598,
+                        50.5893944
+                    ],
+                    [
+                        3.1026017,
+                        50.589447
+                    ],
+                    [
+                        3.1021384,
+                        50.5897099
+                    ],
+                    [
+                        3.1019639,
+                        50.590039
+                    ],
+                    [
+                        3.1019411,
+                        50.5900821
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Voltaire",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

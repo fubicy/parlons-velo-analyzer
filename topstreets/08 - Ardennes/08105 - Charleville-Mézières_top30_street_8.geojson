@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26285609,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7259222,
+                        49.7724013
+                    ],
+                    [
+                        4.7259829,
+                        49.7725025
+                    ],
+                    [
+                        4.7265548,
+                        49.7734548
+                    ],
+                    [
+                        4.727036,
+                        49.774256
+                    ],
+                    [
+                        4.7270987,
+                        49.7743604
+                    ],
+                    [
+                        4.7273467,
+                        49.7747734
+                    ],
+                    [
+                        4.7277467,
+                        49.7754394
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Forest",
+                "old_ref": "N 388",
+                "ref": "D 989",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101406919,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.7277467,
+                        49.7754394
+                    ],
+                    [
+                        4.7278398,
+                        49.7755756
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Forest",
+                "ref": "D 58",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

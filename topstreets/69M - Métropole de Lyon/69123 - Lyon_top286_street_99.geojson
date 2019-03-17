@@ -1,0 +1,784 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4306138,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8481937,
+                        45.7510527
+                    ],
+                    [
+                        4.8482601,
+                        45.7511064
+                    ],
+                    [
+                        4.8489196,
+                        45.7516403
+                    ],
+                    [
+                        4.848997,
+                        45.7517221
+                    ],
+                    [
+                        4.8490538,
+                        45.7518107
+                    ],
+                    [
+                        4.8491331,
+                        45.7520679
+                    ],
+                    [
+                        4.8492075,
+                        45.7523091
+                    ],
+                    [
+                        4.8492119,
+                        45.7523524
+                    ],
+                    [
+                        4.8492001,
+                        45.7524245
+                    ],
+                    [
+                        4.8491802,
+                        45.7524889
+                    ],
+                    [
+                        4.8490354,
+                        45.7531042
+                    ],
+                    [
+                        4.8490111,
+                        45.7532098
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26640660,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8482968,
+                        45.75708
+                    ],
+                    [
+                        4.8481649,
+                        45.7577549
+                    ],
+                    [
+                        4.8481472,
+                        45.7578468
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "no",
+                "cycleway:right": "shared_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26640661,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8473965,
+                        45.761764
+                    ],
+                    [
+                        4.8472957,
+                        45.7623336
+                    ],
+                    [
+                        4.8471878,
+                        45.762876
+                    ],
+                    [
+                        4.8470715,
+                        45.7635174
+                    ],
+                    [
+                        4.8470544,
+                        45.7635945
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49677172,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.844744,
+                        45.7765377
+                    ],
+                    [
+                        4.8447746,
+                        45.7765818
+                    ],
+                    [
+                        4.8450124,
+                        45.776839
+                    ],
+                    [
+                        4.8450885,
+                        45.7769195
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "shared_lane",
+                "highway": "residential",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Cr\u00e9qui",
+                "parking:lane:right:capacity:disabled": "3",
+                "source": "survey",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113476411,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8488066,
+                        45.7543195
+                    ],
+                    [
+                        4.8486469,
+                        45.7551471
+                    ],
+                    [
+                        4.8486404,
+                        45.7551823
+                    ],
+                    [
+                        4.8484947,
+                        45.7559837
+                    ],
+                    [
+                        4.8484837,
+                        45.7560439
+                    ],
+                    [
+                        4.8483606,
+                        45.7567238
+                    ],
+                    [
+                        4.8483501,
+                        45.7567817
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113476412,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8483501,
+                        45.7567817
+                    ],
+                    [
+                        4.848344,
+                        45.7568156
+                    ],
+                    [
+                        4.8482968,
+                        45.75708
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "no",
+                "cycleway:right": "shared_lane",
+                "highway": "unclassified",
+                "lit": "yes",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118498908,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8490111,
+                        45.7532098
+                    ],
+                    [
+                        4.8490004,
+                        45.7532706
+                    ],
+                    [
+                        4.8489886,
+                        45.7533344
+                    ],
+                    [
+                        4.8488066,
+                        45.7543195
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 266126417,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8453481,
+                        45.7726687
+                    ],
+                    [
+                        4.845315,
+                        45.7727501
+                    ],
+                    [
+                        4.8453125,
+                        45.7727643
+                    ],
+                    [
+                        4.8453069,
+                        45.7727944
+                    ],
+                    [
+                        4.8451859,
+                        45.7734429
+                    ],
+                    [
+                        4.8451743,
+                        45.7735051
+                    ],
+                    [
+                        4.8451636,
+                        45.7735578
+                    ],
+                    [
+                        4.8450073,
+                        45.7743276
+                    ],
+                    [
+                        4.8449965,
+                        45.7743806
+                    ],
+                    [
+                        4.8449904,
+                        45.7744108
+                    ],
+                    [
+                        4.844982,
+                        45.7744614
+                    ],
+                    [
+                        4.8448584,
+                        45.7752049
+                    ],
+                    [
+                        4.8448516,
+                        45.7752454
+                    ],
+                    [
+                        4.8448459,
+                        45.7752799
+                    ],
+                    [
+                        4.8448372,
+                        45.7753285
+                    ],
+                    [
+                        4.8446599,
+                        45.776323
+                    ],
+                    [
+                        4.8446885,
+                        45.7764551
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 276827055,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8470544,
+                        45.7635945
+                    ],
+                    [
+                        4.8470445,
+                        45.7636555
+                    ],
+                    [
+                        4.8470358,
+                        45.763708
+                    ],
+                    [
+                        4.8469751,
+                        45.7640233
+                    ],
+                    [
+                        4.8469618,
+                        45.7640923
+                    ],
+                    [
+                        4.8469533,
+                        45.7641356
+                    ],
+                    [
+                        4.8468838,
+                        45.7644912
+                    ],
+                    [
+                        4.8468718,
+                        45.7645524
+                    ],
+                    [
+                        4.8468601,
+                        45.764615
+                    ],
+                    [
+                        4.8467558,
+                        45.7651726
+                    ],
+                    [
+                        4.8466469,
+                        45.7657079
+                    ],
+                    [
+                        4.8466022,
+                        45.7659445
+                    ],
+                    [
+                        4.8465611,
+                        45.7661627
+                    ],
+                    [
+                        4.8465526,
+                        45.7662075
+                    ],
+                    [
+                        4.8465412,
+                        45.7662681
+                    ],
+                    [
+                        4.8464966,
+                        45.7665039
+                    ],
+                    [
+                        4.8464867,
+                        45.7665565
+                    ],
+                    [
+                        4.8464234,
+                        45.7668916
+                    ],
+                    [
+                        4.8464138,
+                        45.7669423
+                    ],
+                    [
+                        4.8464013,
+                        45.7670062
+                    ],
+                    [
+                        4.8463233,
+                        45.7674038
+                    ],
+                    [
+                        4.8463153,
+                        45.7674446
+                    ],
+                    [
+                        4.8463058,
+                        45.7674933
+                    ],
+                    [
+                        4.8461955,
+                        45.7680589
+                    ],
+                    [
+                        4.846184,
+                        45.7681176
+                    ],
+                    [
+                        4.8461773,
+                        45.7681615
+                    ],
+                    [
+                        4.8460865,
+                        45.7687552
+                    ],
+                    [
+                        4.8460644,
+                        45.7688967
+                    ],
+                    [
+                        4.8460286,
+                        45.7690589
+                    ],
+                    [
+                        4.8458923,
+                        45.7696758
+                    ],
+                    [
+                        4.8457573,
+                        45.7703728
+                    ],
+                    [
+                        4.8456678,
+                        45.7708479
+                    ],
+                    [
+                        4.845584,
+                        45.771272
+                    ],
+                    [
+                        4.8455576,
+                        45.7714058
+                    ],
+                    [
+                        4.8455211,
+                        45.7715884
+                    ],
+                    [
+                        4.8454756,
+                        45.7718165
+                    ],
+                    [
+                        4.8454515,
+                        45.7719371
+                    ],
+                    [
+                        4.8453547,
+                        45.7726283
+                    ],
+                    [
+                        4.8453481,
+                        45.7726687
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 301258268,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8478261,
+                        45.7596406
+                    ],
+                    [
+                        4.8478225,
+                        45.7596654
+                    ],
+                    [
+                        4.8478158,
+                        45.7597121
+                    ],
+                    [
+                        4.8476929,
+                        45.7602771
+                    ],
+                    [
+                        4.8476872,
+                        45.7603024
+                    ],
+                    [
+                        4.8476686,
+                        45.7603551
+                    ],
+                    [
+                        4.8475723,
+                        45.7610453
+                    ],
+                    [
+                        4.8474594,
+                        45.7616826
+                    ],
+                    [
+                        4.8473965,
+                        45.761764
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 301258269,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8481472,
+                        45.7578468
+                    ],
+                    [
+                        4.8481379,
+                        45.7578953
+                    ],
+                    [
+                        4.848101,
+                        45.7580911
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 301258270,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.848101,
+                        45.7580911
+                    ],
+                    [
+                        4.8480642,
+                        45.758287
+                    ],
+                    [
+                        4.8480535,
+                        45.7583452
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 476135869,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8446885,
+                        45.7764551
+                    ],
+                    [
+                        4.844744,
+                        45.7765377
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Cr\u00e9qui",
+                "parking:lane:right:capacity:disabled": "3",
+                "source": "survey",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 615874732,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8479495,
+                        45.7589131
+                    ],
+                    [
+                        4.8478638,
+                        45.7594102
+                    ],
+                    [
+                        4.8478416,
+                        45.759542
+                    ],
+                    [
+                        4.8478331,
+                        45.7595921
+                    ],
+                    [
+                        4.8478261,
+                        45.7596406
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 615874733,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8480535,
+                        45.7583452
+                    ],
+                    [
+                        4.8480434,
+                        45.7584003
+                    ],
+                    [
+                        4.8479614,
+                        45.758848
+                    ],
+                    [
+                        4.8479495,
+                        45.7589131
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue de Cr\u00e9qui",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

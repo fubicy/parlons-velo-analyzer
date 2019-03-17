@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23619037,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.7507445,
+                        41.934121
+                    ],
+                    [
+                        8.7505933,
+                        41.9341214
+                    ],
+                    [
+                        8.7504065,
+                        41.9341265
+                    ],
+                    [
+                        8.749839,
+                        41.9341233
+                    ],
+                    [
+                        8.7475133,
+                        41.9341527
+                    ],
+                    [
+                        8.7466465,
+                        41.9341719
+                    ],
+                    [
+                        8.7464454,
+                        41.934177
+                    ],
+                    [
+                        8.7462222,
+                        41.9342004
+                    ],
+                    [
+                        8.7456822,
+                        41.9341897
+                    ],
+                    [
+                        8.7455386,
+                        41.9341758
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:psv": "1",
+                "maxspeed": "50",
+                "name": "Cours Prince Imp\u00e9rial",
+                "old_ref": "N 193",
+                "oneway": "yes",
+                "ref": "T 21",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159186947,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.7525537,
+                        41.9340799
+                    ],
+                    [
+                        8.75244,
+                        41.9340953
+                    ],
+                    [
+                        8.7508473,
+                        41.9341243
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Cours Prince Imp\u00e9rial",
+                "old_ref": "N 193",
+                "oneway": "yes",
+                "ref": "T 21",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

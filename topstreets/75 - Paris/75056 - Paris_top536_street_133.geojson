@@ -1,0 +1,161 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4294103,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3201227,
+                        48.8640673
+                    ],
+                    [
+                        2.3203635,
+                        48.8639913
+                    ],
+                    [
+                        2.3206382,
+                        48.8639042
+                    ],
+                    [
+                        2.3213086,
+                        48.8636885
+                    ],
+                    [
+                        2.3218858,
+                        48.8635459
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "none",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Quai des Tuileries",
+                "name:ru": "\u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f \u0422\u044e\u0438\u043b\u044c\u0440\u0438",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34200356,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3218858,
+                        48.8635459
+                    ],
+                    [
+                        2.3250131,
+                        48.8625069
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:psv": "1",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Quai des Tuileries",
+                "name:ru": "\u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f \u0422\u044e\u0438\u043b\u044c\u0440\u0438",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179123285,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3215436,
+                        48.86383
+                    ],
+                    [
+                        2.3216017,
+                        48.8637849
+                    ],
+                    [
+                        2.3216261,
+                        48.8637589
+                    ],
+                    [
+                        2.3229884,
+                        48.8633126
+                    ],
+                    [
+                        2.3251534,
+                        48.8626033
+                    ],
+                    [
+                        2.3253478,
+                        48.8625396
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "dismount",
+                "highway": "footway",
+                "name": "Quai des Tuileries",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 468885445,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3215593,
+                        48.8637986
+                    ],
+                    [
+                        2.3216062,
+                        48.8637229
+                    ],
+                    [
+                        2.3250614,
+                        48.8625816
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "service",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "motor_vehicle": "no",
+                "name": "Quai des Tuileries",
+                "note:fr": "Ce n'est pas une aire pi\u00e9tonne d'apr\u00e8s l'arr\u00eat\u00e9 2018P10661 - seuls les v\u00e9hicules \u00e0 moteur sont interdits",
+                "service": "alley",
+                "smoothness": "good",
+                "source:maxspeed": "Arr\u00eat\u00e9 2018P10661",
+                "surface": "asphalt",
+                "width": "8",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

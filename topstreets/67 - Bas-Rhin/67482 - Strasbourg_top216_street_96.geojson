@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 12804629,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7331304,
+                        48.5826368
+                    ],
+                    [
+                        7.7332537,
+                        48.582667
+                    ],
+                    [
+                        7.7345876,
+                        48.582844
+                    ],
+                    [
+                        7.7355371,
+                        48.5829733
+                    ],
+                    [
+                        7.7356542,
+                        48.5829892
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue de la Course",
+                "name:de": "Gro\u00dfe Renngasse",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29591953,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7385805,
+                        48.5834389
+                    ],
+                    [
+                        7.7383502,
+                        48.5833726
+                    ],
+                    [
+                        7.7372476,
+                        48.5832158
+                    ],
+                    [
+                        7.7371902,
+                        48.5832076
+                    ],
+                    [
+                        7.73571,
+                        48.5829971
+                    ],
+                    [
+                        7.7356542,
+                        48.5829892
+                    ]
+                ]
+            },
+            "properties": {
+                "fixme": "probablement bande cyclable en contresens",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Course",
+                "name:de": "Gro\u00dfe Renngasse",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

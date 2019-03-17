@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5020894,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6764975,
+                        48.1025635
+                    ],
+                    [
+                        -1.6766561,
+                        48.1029415
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "highway": "primary",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de l'Alma",
+                "name:br": "Pont an Alma",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24770473,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.676739,
+                        48.1029225
+                    ],
+                    [
+                        -1.6766283,
+                        48.1025529
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de l'Alma",
+                "name:br": "Pont an Alma",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225416603,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6764143,
+                        48.1025735
+                    ],
+                    [
+                        -1.6765989,
+                        48.102956
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "1",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de l'Alma",
+                "name:br": "Pont an Alma",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

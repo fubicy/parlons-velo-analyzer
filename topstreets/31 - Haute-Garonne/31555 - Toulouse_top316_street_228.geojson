@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 21042476,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4338868,
+                        43.628331
+                    ],
+                    [
+                        1.4339487,
+                        43.6283291
+                    ],
+                    [
+                        1.4356296,
+                        43.6282763
+                    ],
+                    [
+                        1.4357503,
+                        43.6282768
+                    ],
+                    [
+                        1.4358187,
+                        43.6282865
+                    ],
+                    [
+                        1.4360767,
+                        43.6283475
+                    ],
+                    [
+                        1.4361821,
+                        43.6283569
+                    ],
+                    [
+                        1.4362874,
+                        43.6283501
+                    ],
+                    [
+                        1.4368148,
+                        43.6282978
+                    ],
+                    [
+                        1.4374283,
+                        43.6282246
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Eug\u00e8ne Labiche",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

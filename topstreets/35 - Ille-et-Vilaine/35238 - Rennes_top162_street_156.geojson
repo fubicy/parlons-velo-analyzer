@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5069338,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6934865,
+                        48.1278634
+                    ],
+                    [
+                        -1.6935072,
+                        48.1277496
+                    ],
+                    [
+                        -1.693258,
+                        48.1270571
+                    ],
+                    [
+                        -1.69308,
+                        48.1265628
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de la Pr\u00e9fecture",
+                "oneway": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 265615779,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.69308,
+                        48.1265628
+                    ],
+                    [
+                        -1.693092,
+                        48.1264047
+                    ],
+                    [
+                        -1.6930903,
+                        48.1263187
+                    ],
+                    [
+                        -1.6930654,
+                        48.1262376
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de la Pr\u00e9fecture",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 265615784,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6928847,
+                        48.1262651
+                    ],
+                    [
+                        -1.6929175,
+                        48.1263422
+                    ],
+                    [
+                        -1.6929456,
+                        48.1264013
+                    ],
+                    [
+                        -1.69308,
+                        48.1265628
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de la Pr\u00e9fecture",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 409866216,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6934788,
+                        48.1279629
+                    ],
+                    [
+                        -1.6934865,
+                        48.1278634
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Avenue de la Pr\u00e9fecture",
+                "source:maxspeed": "FR:urban",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

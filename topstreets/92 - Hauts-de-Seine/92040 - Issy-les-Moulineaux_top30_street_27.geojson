@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 44508239,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2740326,
+                        48.8278769
+                    ],
+                    [
+                        2.2742059,
+                        48.8278441
+                    ],
+                    [
+                        2.2748125,
+                        48.8277697
+                    ],
+                    [
+                        2.275382,
+                        48.8276915
+                    ],
+                    [
+                        2.2758051,
+                        48.8276232
+                    ],
+                    [
+                        2.276182,
+                        48.827562
+                    ],
+                    [
+                        2.2773007,
+                        48.8274176
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Boulevard Gambetta",
+                "oneway": "no",
+                "ref": "D 50",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 518356941,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2773007,
+                        48.8274176
+                    ],
+                    [
+                        2.2778286,
+                        48.827342
+                    ],
+                    [
+                        2.278173,
+                        48.8272893
+                    ],
+                    [
+                        2.2785055,
+                        48.827242
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard Gambetta",
+                "oneway": "no",
+                "ref": "D 50",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

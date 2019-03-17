@@ -1,0 +1,233 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4360698,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8570651,
+                        45.7699336
+                    ],
+                    [
+                        4.8570812,
+                        45.769736
+                    ],
+                    [
+                        4.8570764,
+                        45.7696262
+                    ],
+                    [
+                        4.8570485,
+                        45.7692003
+                    ],
+                    [
+                        4.8570448,
+                        45.7691433
+                    ],
+                    [
+                        4.8569852,
+                        45.7684164
+                    ],
+                    [
+                        4.8569703,
+                        45.7679907
+                    ],
+                    [
+                        4.8569681,
+                        45.7679292
+                    ],
+                    [
+                        4.856912,
+                        45.7673545
+                    ],
+                    [
+                        4.8569082,
+                        45.7673151
+                    ],
+                    [
+                        4.8568916,
+                        45.7671459
+                    ],
+                    [
+                        4.856878,
+                        45.7670061
+                    ],
+                    [
+                        4.8568714,
+                        45.7667853
+                    ],
+                    [
+                        4.8568591,
+                        45.7665886
+                    ],
+                    [
+                        4.8569334,
+                        45.7662021
+                    ],
+                    [
+                        4.8569474,
+                        45.7661294
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard des Brotteaux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23506670,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8571395,
+                        45.7651923
+                    ],
+                    [
+                        4.8570683,
+                        45.7651025
+                    ],
+                    [
+                        4.8571769,
+                        45.764588
+                    ],
+                    [
+                        4.8572821,
+                        45.7640529
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Boulevard des Brotteaux",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23506671,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8572821,
+                        45.7640529
+                    ],
+                    [
+                        4.8574677,
+                        45.7640715
+                    ],
+                    [
+                        4.857249,
+                        45.7651179
+                    ],
+                    [
+                        4.8571395,
+                        45.7651923
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxweight": "7.5",
+                "name": "Boulevard des Brotteaux",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 443466684,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8569474,
+                        45.7661294
+                    ],
+                    [
+                        4.8570138,
+                        45.7658245
+                    ],
+                    [
+                        4.8570684,
+                        45.7654782
+                    ],
+                    [
+                        4.8571395,
+                        45.7651923
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard des Brotteaux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 542456180,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8572821,
+                        45.7640529
+                    ],
+                    [
+                        4.8573233,
+                        45.7638506
+                    ],
+                    [
+                        4.8573356,
+                        45.7637257
+                    ],
+                    [
+                        4.8573363,
+                        45.7636499
+                    ]
+                ]
+            },
+            "properties": {
+                "foot": "yes",
+                "highway": "cycleway",
+                "lit": "yes",
+                "name": "Boulevard des Brotteaux",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

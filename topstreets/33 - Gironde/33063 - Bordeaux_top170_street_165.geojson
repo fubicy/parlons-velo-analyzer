@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26307788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5382582,
+                        44.8535984
+                    ],
+                    [
+                        -0.5386495,
+                        44.8533575
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lit": "yes",
+                "name": "Avenue Jean Jaur\u00e8s",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 459583723,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6029569,
+                        44.8184068
+                    ],
+                    [
+                        -0.6030905,
+                        44.8183612
+                    ],
+                    [
+                        -0.6032932,
+                        44.8182593
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "name": "Avenue Jean Jaur\u00e8s",
+                "oneway": "yes",
+                "ref": "D 1250",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

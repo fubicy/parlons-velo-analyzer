@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 145176985,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3868515,
+                        43.5854821
+                    ],
+                    [
+                        1.3868033,
+                        43.5855459
+                    ],
+                    [
+                        1.3866511,
+                        43.5857517
+                    ],
+                    [
+                        1.3865235,
+                        43.5859139
+                    ],
+                    [
+                        1.3852732,
+                        43.5872462
+                    ],
+                    [
+                        1.3848993,
+                        43.5876288
+                    ],
+                    [
+                        1.3845509,
+                        43.5880105
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jacques Cartier",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

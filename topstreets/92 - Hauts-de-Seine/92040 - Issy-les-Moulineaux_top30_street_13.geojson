@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25790414,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2613275,
+                        48.8133019
+                    ],
+                    [
+                        2.2606132,
+                        48.813221
+                    ],
+                    [
+                        2.2605184,
+                        48.8132132
+                    ],
+                    [
+                        2.2597537,
+                        48.8131504
+                    ],
+                    [
+                        2.2580331,
+                        48.813005
+                    ],
+                    [
+                        2.2579474,
+                        48.8130289
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Rue de Verdun",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49010312,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2649353,
+                        48.8135851
+                    ],
+                    [
+                        2.2628674,
+                        48.8133957
+                    ],
+                    [
+                        2.2615739,
+                        48.813275
+                    ],
+                    [
+                        2.2615254,
+                        48.8133319
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "footway",
+                "name": "Rue de Verdun",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

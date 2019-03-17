@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 120 réponses dont 74 réponses avec une ru
 
 20 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Pont d'Asnières | 17 | 14% | <img src="../../img/bar_22.gif" />&nbsp;22%|
-| Avenue de la Marne | 12 | 10% | <img src="../../img/bar_16.gif" />&nbsp;16%|
-| Avenue d'Argenteuil | 8 | 6% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Rue des Bourguignons | 6 | 5% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Pont de Clichy | 6 | 5% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Boulevard Voltaire | 5 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Avenue Gabriel Péri | 3 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Place Voltaire | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Grande Rue Charles de Gaulle | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Avenue des Grésillons | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 63 | 52% | 85%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Pont d'Asnières | 17 | <img src="../../img/bar_26.gif" />&nbsp;26%|
+| Avenue de la Marne | 12 | <img src="../../img/bar_19.gif" />&nbsp;19%|
+| Avenue d'Argenteuil | 8 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Rue des Bourguignons | 6 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Pont de Clichy | 6 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Boulevard Voltaire | 5 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Avenue Gabriel Péri | 3 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Place Voltaire | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Grande Rue Charles de Gaulle | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Avenue des Grésillons | 2 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 63 | 100%|

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27794585,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2678466,
+                        48.9036053
+                    ],
+                    [
+                        2.2677924,
+                        48.9036679
+                    ],
+                    [
+                        2.2676754,
+                        48.9037968
+                    ],
+                    [
+                        2.2676177,
+                        48.9038627
+                    ],
+                    [
+                        2.2673938,
+                        48.9041424
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Bois-Colombes",
+                "oneway": "no",
+                "ref": "D 12",
+                "source": "Microsoft Bing satellite 2012",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93703010,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2673938,
+                        48.9041424
+                    ],
+                    [
+                        2.2672717,
+                        48.904291
+                    ],
+                    [
+                        2.267212,
+                        48.9043654
+                    ],
+                    [
+                        2.267165,
+                        48.9044241
+                    ],
+                    [
+                        2.2670003,
+                        48.9046432
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "embankment": "yes",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Bois-Colombes",
+                "ref": "D 12",
+                "source": "Microsoft Bing satellite 2012",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

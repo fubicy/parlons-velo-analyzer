@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25836830,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3058238,
+                        49.8954422
+                    ],
+                    [
+                        2.3061781,
+                        49.8953731
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "maxspeed": "30",
+                "name": "Port d'Amont",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through;right",
+                "turn:lanes:forward": "through|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 327249911,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3061781,
+                        49.8953731
+                    ],
+                    [
+                        2.3063456,
+                        49.8953388
+                    ],
+                    [
+                        2.3080113,
+                        49.8950195
+                    ],
+                    [
+                        2.3082541,
+                        49.8949686
+                    ],
+                    [
+                        2.3084835,
+                        49.8949205
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "lanes:psv:backward": "1",
+                "maxspeed": "50",
+                "name": "Port d'Amont",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through;right",
+                "turn:lanes:forward": "left;through|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 546165589,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3089295,
+                        49.8947729
+                    ],
+                    [
+                        2.3090298,
+                        49.8947162
+                    ],
+                    [
+                        2.3092038,
+                        49.8946051
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "6",
+                "lanes:backward": "2",
+                "lanes:forward": "4",
+                "maxspeed": "50",
+                "name": "Port d'Amont",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|left|through|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 546165592,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3084835,
+                        49.8949205
+                    ],
+                    [
+                        2.3086891,
+                        49.8948659
+                    ],
+                    [
+                        2.3088247,
+                        49.89482
+                    ],
+                    [
+                        2.3089295,
+                        49.8947729
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "5",
+                "lanes:backward": "2",
+                "lanes:forward": "3",
+                "maxspeed": "50",
+                "name": "Port d'Amont",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through|through;right",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

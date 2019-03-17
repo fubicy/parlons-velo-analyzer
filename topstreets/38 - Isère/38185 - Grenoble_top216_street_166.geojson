@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5173431,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7167733,
+                        45.1905271
+                    ],
+                    [
+                        5.7167574,
+                        45.1905958
+                    ],
+                    [
+                        5.716538,
+                        45.1913951
+                    ],
+                    [
+                        5.7165233,
+                        45.1914507
+                    ],
+                    [
+                        5.7165092,
+                        45.1914837
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Louis Barbillon",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 489129642,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7168223,
+                        45.1906055
+                    ],
+                    [
+                        5.7165886,
+                        45.1914044
+                    ],
+                    [
+                        5.7165826,
+                        45.1914257
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Louis Barbillon",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 489129658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7167187,
+                        45.1905897
+                    ],
+                    [
+                        5.716479,
+                        45.1913865
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Louis Barbillon",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

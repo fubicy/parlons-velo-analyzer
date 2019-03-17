@@ -1,0 +1,179 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19784094,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1377874,
+                        48.7997951
+                    ],
+                    [
+                        2.1378145,
+                        48.7998592
+                    ],
+                    [
+                        2.1378446,
+                        48.799899
+                    ],
+                    [
+                        2.1379566,
+                        48.8000139
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Rue de Vergennes",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19784097,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1376625,
+                        48.7980444
+                    ],
+                    [
+                        2.1376663,
+                        48.7980808
+                    ],
+                    [
+                        2.1377844,
+                        48.7996946
+                    ],
+                    [
+                        2.137786,
+                        48.7997474
+                    ],
+                    [
+                        2.1377874,
+                        48.7997951
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "track",
+                "highway": "tertiary",
+                "name": "Rue de Vergennes",
+                "note": "sens unique durant les travaux. fin pr\u00e9vue d\u00e9but 2019",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19784150,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1374158,
+                        48.7963456
+                    ],
+                    [
+                        2.1374824,
+                        48.7964093
+                    ],
+                    [
+                        2.137507,
+                        48.7964573
+                    ],
+                    [
+                        2.1375187,
+                        48.7965163
+                    ],
+                    [
+                        2.1375948,
+                        48.7973737
+                    ],
+                    [
+                        2.1375972,
+                        48.7974102
+                    ],
+                    [
+                        2.137644,
+                        48.7979009
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue de Vergennes",
+                "note": "sens unique durant les travaux. fin pr\u00e9vue d\u00e9but 2019",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19784151,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.137644,
+                        48.7979009
+                    ],
+                    [
+                        2.1376625,
+                        48.7980444
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "name": "Rue de Vergennes",
+                "note": "sens unique durant les travaux. fin pr\u00e9vue d\u00e9but 2019",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551069301,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1377506,
+                        48.8000722
+                    ],
+                    [
+                        2.1376884,
+                        48.7999736
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "name": "Rue de Vergennes",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

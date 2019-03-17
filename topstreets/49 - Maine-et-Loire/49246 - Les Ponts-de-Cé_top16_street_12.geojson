@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 189669650,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5006395,
+                        47.4336921
+                    ],
+                    [
+                        -0.5006073,
+                        47.4337229
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "highway": "platform",
+                "name": "Moulin Marcille",
+                "public_transport": "platform",
+                "public_transport:version": "2",
+                "shelter": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

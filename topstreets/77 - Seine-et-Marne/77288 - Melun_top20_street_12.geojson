@@ -1,0 +1,166 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 145614635,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6596566,
+                        48.5353623
+                    ],
+                    [
+                        2.6597139,
+                        48.5354738
+                    ],
+                    [
+                        2.6597557,
+                        48.5355391
+                    ],
+                    [
+                        2.6597902,
+                        48.5355913
+                    ],
+                    [
+                        2.6598245,
+                        48.5356432
+                    ],
+                    [
+                        2.6599084,
+                        48.5357615
+                    ],
+                    [
+                        2.6599694,
+                        48.5358438
+                    ],
+                    [
+                        2.6600502,
+                        48.5359739
+                    ],
+                    [
+                        2.6600717,
+                        48.5360085
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue de la Courtille",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 283236570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6603006,
+                        48.5363958
+                    ],
+                    [
+                        2.6603569,
+                        48.5364974
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue de la Courtille",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "turn:lanes": "left|through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 440557658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6600717,
+                        48.5360085
+                    ],
+                    [
+                        2.6602093,
+                        48.5362311
+                    ],
+                    [
+                        2.6603006,
+                        48.5363958
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue de la Courtille",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "turn:lanes": "left|through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616065021,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.660303,
+                        48.5365143
+                    ],
+                    [
+                        2.6602434,
+                        48.5364147
+                    ],
+                    [
+                        2.6600118,
+                        48.5360274
+                    ],
+                    [
+                        2.65989,
+                        48.5358357
+                    ],
+                    [
+                        2.659718,
+                        48.5355931
+                    ],
+                    [
+                        2.6596558,
+                        48.5355124
+                    ],
+                    [
+                        2.6595917,
+                        48.5353813
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Rue de la Courtille",
+                "width": "3",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

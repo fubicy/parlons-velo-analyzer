@@ -1,0 +1,167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19200755,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1543825,
+                        48.7964118
+                    ],
+                    [
+                        2.1543208,
+                        48.7965094
+                    ],
+                    [
+                        2.1540502,
+                        48.7969254
+                    ],
+                    [
+                        2.1540232,
+                        48.7969701
+                    ],
+                    [
+                        2.1539168,
+                        48.7971505
+                    ],
+                    [
+                        2.1538083,
+                        48.7973393
+                    ],
+                    [
+                        2.1537434,
+                        48.7974524
+                    ],
+                    [
+                        2.1536831,
+                        48.797569
+                    ],
+                    [
+                        2.1536073,
+                        48.7977378
+                    ],
+                    [
+                        2.1535523,
+                        48.7978955
+                    ],
+                    [
+                        2.153526,
+                        48.7980173
+                    ],
+                    [
+                        2.153514,
+                        48.7980757
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "cycleway:right:oneway": "yes",
+                "cycleway:right:surface": "asphalt",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue de Porchefontaine",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19200756,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.153514,
+                        48.7980757
+                    ],
+                    [
+                        2.1535565,
+                        48.7981468
+                    ],
+                    [
+                        2.1537122,
+                        48.798297
+                    ],
+                    [
+                        2.1537185,
+                        48.7983455
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue de Porchefontaine",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 434722817,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1534863,
+                        48.7981461
+                    ],
+                    [
+                        2.153514,
+                        48.7980757
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Avenue de Porchefontaine",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 653406123,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1534377,
+                        48.798335
+                    ],
+                    [
+                        2.1534863,
+                        48.7981461
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Avenue de Porchefontaine",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

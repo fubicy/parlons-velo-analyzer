@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25115194,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3309578,
+                        48.8765397
+                    ],
+                    [
+                        2.3307352,
+                        48.87662
+                    ],
+                    [
+                        2.3295645,
+                        48.8770023
+                    ],
+                    [
+                        2.3294795,
+                        48.8770297
+                    ],
+                    [
+                        2.3271768,
+                        48.8777812
+                    ],
+                    [
+                        2.3269497,
+                        48.8778593
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Londres",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "wikidata": "Q952990",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32785178,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3269497,
+                        48.8778593
+                    ],
+                    [
+                        2.3267882,
+                        48.8779107
+                    ],
+                    [
+                        2.3263119,
+                        48.8780624
+                    ],
+                    [
+                        2.3260143,
+                        48.8781572
+                    ],
+                    [
+                        2.3241853,
+                        48.8787584
+                    ],
+                    [
+                        2.3237393,
+                        48.878905
+                    ],
+                    [
+                        2.3236182,
+                        48.8789438
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Londres",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q952990",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

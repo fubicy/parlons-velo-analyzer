@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 210 réponses dont 166 réponses avec une r
 
 56 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Avenue de Colmar | 29 | 13% | <img src="../../img/bar_17.gif" />&nbsp;17%|
-| Rue des Bonnes Gens | 13 | 6% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Avenue Aristide Briand | 13 | 6% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Porte du Miroir | 10 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Avenue d'Altkirch | 9 | 4% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Pont de Bourtzwiller | 8 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue de Soultz | 6 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue de Bâle | 6 | 2% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue Daguerre | 4 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Porte de Bâle | 4 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 102 | 48% | 61%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Avenue de Colmar | 29 | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| Rue des Bonnes Gens | 13 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Avenue Aristide Briand | 13 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Porte du Miroir | 10 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Avenue d'Altkirch | 9 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Pont de Bourtzwiller | 8 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Rue de Soultz | 6 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue de Bâle | 6 | <img src="../../img/bar_5.gif" />&nbsp;5%|
+| Rue Daguerre | 4 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Porte de Bâle | 4 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 102 | 100%|

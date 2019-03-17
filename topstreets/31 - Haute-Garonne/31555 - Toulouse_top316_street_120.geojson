@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27802117,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4558159,
+                        43.5987861
+                    ],
+                    [
+                        1.4558978,
+                        43.5988666
+                    ],
+                    [
+                        1.455918,
+                        43.598899
+                    ],
+                    [
+                        1.4559152,
+                        43.5994858
+                    ],
+                    [
+                        1.4559607,
+                        43.5995957
+                    ],
+                    [
+                        1.4559951,
+                        43.5996785
+                    ],
+                    [
+                        1.455999,
+                        43.6006145
+                    ],
+                    [
+                        1.4560304,
+                        43.6007217
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Port Saint-\u00c9tienne",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27802179,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566104,
+                        43.5986927
+                    ],
+                    [
+                        1.4566369,
+                        43.6001384
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Port Saint-\u00c9tienne",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123723909,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566238,
+                        43.6006437
+                    ],
+                    [
+                        1.4566373,
+                        43.6008497
+                    ],
+                    [
+                        1.4566442,
+                        43.6009558
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Port Saint-\u00c9tienne",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383294282,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566493,
+                        43.5983726
+                    ],
+                    [
+                        1.4566104,
+                        43.5986927
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Port Saint-\u00c9tienne",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383294283,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4566369,
+                        43.6001384
+                    ],
+                    [
+                        1.4566409,
+                        43.6003947
+                    ],
+                    [
+                        1.4566403,
+                        43.6005024
+                    ],
+                    [
+                        1.4566238,
+                        43.6006437
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Port Saint-\u00c9tienne",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

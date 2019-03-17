@@ -1,0 +1,306 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 32233996,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4308722,
+                        45.4797328
+                    ],
+                    [
+                        4.4322657,
+                        45.480239
+                    ],
+                    [
+                        4.43237,
+                        45.4802767
+                    ],
+                    [
+                        4.4332539,
+                        45.4806042
+                    ],
+                    [
+                        4.4338614,
+                        45.4807929
+                    ],
+                    [
+                        4.4339544,
+                        45.4808308
+                    ],
+                    [
+                        4.4341604,
+                        45.480897
+                    ],
+                    [
+                        4.4345203,
+                        45.4810414
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Rue Victor Hugo",
+                "old_ref": "N 498",
+                "ref": "D 1498",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 224989584,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4407757,
+                        45.4825841
+                    ],
+                    [
+                        4.4409267,
+                        45.482573
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "name": "Rue Victor Hugo",
+                "old_ref": "N 498",
+                "ref": "D 1498",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 271849288,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4407757,
+                        45.4825841
+                    ],
+                    [
+                        4.4395028,
+                        45.4826621
+                    ],
+                    [
+                        4.4392096,
+                        45.4826428
+                    ],
+                    [
+                        4.4389125,
+                        45.4825875
+                    ],
+                    [
+                        4.438777,
+                        45.4825515
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Rue Victor Hugo",
+                "old_ref": "N 498",
+                "ref": "D 1498",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 313666182,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4345203,
+                        45.4810414
+                    ],
+                    [
+                        4.4348251,
+                        45.4811609
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "name": "Rue Victor Hugo",
+                "old_ref": "N 498",
+                "ref": "D 1498",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 313666183,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4351708,
+                        45.4812854
+                    ],
+                    [
+                        4.4368649,
+                        45.4818954
+                    ],
+                    [
+                        4.4373465,
+                        45.4820695
+                    ],
+                    [
+                        4.4377496,
+                        45.4822062
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "name": "Rue Victor Hugo",
+                "old_ref": "N 498",
+                "ref": "D 1498",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 602676128,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.438777,
+                        45.4825515
+                    ],
+                    [
+                        4.4386459,
+                        45.4825118
+                    ],
+                    [
+                        4.4383784,
+                        45.4824176
+                    ],
+                    [
+                        4.4381173,
+                        45.4823275
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:forward": "3",
+                "name": "Rue Victor Hugo",
+                "old_ref": "N 498",
+                "ref": "D 1498",
+                "turn:lanes:forward": "left|through|right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 602676131,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4377496,
+                        45.4822062
+                    ],
+                    [
+                        4.4381173,
+                        45.4823275
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "name": "Rue Victor Hugo",
+                "old_ref": "N 498",
+                "ref": "D 1498",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 602676133,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4348251,
+                        45.4811609
+                    ],
+                    [
+                        4.4351708,
+                        45.4812854
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:forward": "1",
+                "name": "Rue Victor Hugo",
+                "old_ref": "N 498",
+                "ref": "D 1498",
+                "turn:lanes:backward": "left|through;right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 639762431,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.4305467,
+                        45.479639
+                    ],
+                    [
+                        4.4306508,
+                        45.4796642
+                    ],
+                    [
+                        4.4308236,
+                        45.4797177
+                    ],
+                    [
+                        4.4308722,
+                        45.4797328
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Rue Victor Hugo",
+                "old_ref": "N 498",
+                "ref": "D 1498",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

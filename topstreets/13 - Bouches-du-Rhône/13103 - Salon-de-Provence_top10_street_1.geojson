@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28168291,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0957214,
+                        43.6406331
+                    ],
+                    [
+                        5.0960254,
+                        43.640804
+                    ],
+                    [
+                        5.0963101,
+                        43.6409914
+                    ],
+                    [
+                        5.0967071,
+                        43.6412454
+                    ],
+                    [
+                        5.0969645,
+                        43.6413944
+                    ],
+                    [
+                        5.097287,
+                        43.6414783
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Cours Carnot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

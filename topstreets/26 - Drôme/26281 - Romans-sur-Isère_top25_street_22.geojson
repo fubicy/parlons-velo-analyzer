@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4244504,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0453598,
+                        45.0422809
+                    ],
+                    [
+                        5.04529,
+                        45.0422533
+                    ],
+                    [
+                        5.0451686,
+                        45.0422054
+                    ],
+                    [
+                        5.0443086,
+                        45.0418321
+                    ],
+                    [
+                        5.0438033,
+                        45.0415554
+                    ],
+                    [
+                        5.0429357,
+                        45.0410234
+                    ],
+                    [
+                        5.0426885,
+                        45.040835
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "name": "C\u00f4te des Chapeliers",
+                "name:oc": "C\u00f2sta daus Chapeliers",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4672974,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0454291,
+                        45.0424965
+                    ],
+                    [
+                        5.0454156,
+                        45.0424057
+                    ],
+                    [
+                        5.0453598,
+                        45.0422809
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "C\u00f4te des Chapeliers",
+                "name:oc": "C\u00f2sta daus Chapeliers",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4672975,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0453598,
+                        45.0422809
+                    ],
+                    [
+                        5.0455176,
+                        45.0423553
+                    ],
+                    [
+                        5.0456051,
+                        45.0424144
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "C\u00f4te des Chapeliers",
+                "name:oc": "C\u00f2sta daus Chapeliers",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

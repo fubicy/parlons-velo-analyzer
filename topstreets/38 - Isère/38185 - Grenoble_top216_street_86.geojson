@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28323542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7308919,
+                        45.1890292
+                    ],
+                    [
+                        5.7308623,
+                        45.1890549
+                    ],
+                    [
+                        5.7306185,
+                        45.189361
+                    ],
+                    [
+                        5.7305882,
+                        45.189399
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Marcel Benoit",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 490191768,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7305584,
+                        45.1893398
+                    ],
+                    [
+                        5.7307937,
+                        45.18903
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Marcel Benoit",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 490191782,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7308969,
+                        45.1890699
+                    ],
+                    [
+                        5.7306573,
+                        45.1893744
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue Marcel Benoit",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23360803,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0492668,
+                        47.3198682
+                    ],
+                    [
+                        5.048874,
+                        47.3201482
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue d'Alise",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 291155953,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0484891,
+                        47.3203892
+                    ],
+                    [
+                        5.0480113,
+                        47.3204516
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue d'Alise",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 291155954,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.048874,
+                        47.3201482
+                    ],
+                    [
+                        5.0485741,
+                        47.3203727
+                    ],
+                    [
+                        5.0484891,
+                        47.3203892
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue d'Alise",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

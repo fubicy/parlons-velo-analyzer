@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 86 réponses dont 34 réponses avec une rue
 
 13 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Boulevard du BAB | 8 | 9% | <img src="../../img/bar_23.gif" />&nbsp;23%|
-| Avenue de Biarritz | 8 | 9% | <img src="../../img/bar_23.gif" />&nbsp;23%|
-| Avenue de Bayonne | 3 | 3% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rue du Bois Belin | 2 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Boulevard des Plages | 2 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Boulevard d'Aritxague | 2 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Avenue d'Espagne | 2 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Avenue Jean-Léon Laporte | 2 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue de Lembeye | 1 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Route de Pitoys | 1 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 31 | 36% | 91%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Boulevard du BAB | 8 | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| Avenue de Biarritz | 8 | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| Avenue de Bayonne | 3 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Rue du Bois Belin | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Boulevard des Plages | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Boulevard d'Aritxague | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Avenue d'Espagne | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Avenue Jean-Léon Laporte | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Rue de Lembeye | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Route de Pitoys | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 31 | 100%|

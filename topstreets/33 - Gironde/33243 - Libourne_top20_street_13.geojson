@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26799156,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.2484761,
+                        44.9130236
+                    ],
+                    [
+                        -0.2487115,
+                        44.9130173
+                    ],
+                    [
+                        -0.2513763,
+                        44.9129392
+                    ],
+                    [
+                        -0.2514023,
+                        44.9129384
+                    ],
+                    [
+                        -0.2514293,
+                        44.9129376
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "maxweight": "7.5",
+                "name": "Pont de Pierre",
+                "oneway": "yes",
+                "ref": "D 2089",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

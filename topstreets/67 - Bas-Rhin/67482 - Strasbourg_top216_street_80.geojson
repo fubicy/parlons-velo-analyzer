@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 43949530,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.771195,
+                        48.5740131
+                    ],
+                    [
+                        7.7710992,
+                        48.5734247
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "name": "Pont du Danube",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119503542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7713053,
+                        48.5740042
+                    ],
+                    [
+                        7.7711977,
+                        48.5734129
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "Pont du Danube",
+                "source": "Bing",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119503550,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7713053,
+                        48.5740042
+                    ],
+                    [
+                        7.771195,
+                        48.5740131
+                    ],
+                    [
+                        7.7710489,
+                        48.5740257
+                    ]
+                ]
+            },
+            "properties": {
+                "class:bicycle:commute": "2",
+                "highway": "cycleway",
+                "name": "Pont du Danube",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

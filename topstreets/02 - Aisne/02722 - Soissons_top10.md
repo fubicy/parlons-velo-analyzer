@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 127 réponses dont 42 réponses avec une ru
 
 22 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Boulevard Jeanne d'Arc | 10 | 7% | <img src="../../img/bar_23.gif" />&nbsp;23%|
-| Avenue de Compiègne | 6 | 4% | <img src="../../img/bar_14.gif" />&nbsp;14%|
-| Rue Saint-Martin | 3 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Rue du Collège | 2 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Place de la République | 2 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Avenue de Laon | 2 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Avenue de Château-Thierry | 2 | 1% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue de Vic-sur-Aisne | 1 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue de Panleu | 1 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue Porte Crouy | 1 | 0% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 30 | 23% | 71%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Boulevard Jeanne d'Arc | 10 | <img src="../../img/bar_33.gif" />&nbsp;33%|
+| Avenue de Compiègne | 6 | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| Rue Saint-Martin | 3 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Rue du Collège | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Place de la République | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Avenue de Laon | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Avenue de Château-Thierry | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Rue de Vic-sur-Aisne | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue de Panleu | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue Porte Crouy | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 30 | 100%|

@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 38 réponses dont 34 réponses avec une rue
 
 12 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Boulevard Jean Jaurès | 8 | 21% | <img src="../../img/bar_23.gif" />&nbsp;23%|
-| Rue du Pont-Volant | 6 | 15% | <img src="../../img/bar_17.gif" />&nbsp;17%|
-| Boulevard de Chinon | 6 | 15% | <img src="../../img/bar_17.gif" />&nbsp;17%|
-| Chantepie | 3 | 7% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Saint-Gatien | 2 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Route de Monts | 2 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Gitonnière | 2 | 5% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue de Joué-les-Tours | 1 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rotière | 1 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Martyrs | 1 | 2% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 32 | 84% | 94%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Boulevard Jean Jaurès | 8 | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| Rue du Pont-Volant | 6 | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| Boulevard de Chinon | 6 | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| Chantepie | 3 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Saint-Gatien | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Route de Monts | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Gitonnière | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Rue de Joué-les-Tours | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rotière | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Martyrs | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 32 | 100%|

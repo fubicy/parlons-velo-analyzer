@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 163132761,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8190876,
+                        49.4154369
+                    ],
+                    [
+                        2.8193386,
+                        49.4155553
+                    ],
+                    [
+                        2.8193832,
+                        49.4155818
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Roger Couttolenc",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163132763,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8188281,
+                        49.4153204
+                    ],
+                    [
+                        2.8188743,
+                        49.4153412
+                    ],
+                    [
+                        2.8190876,
+                        49.4154369
+                    ]
+                ]
+            },
+            "properties": {
+                "covered": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxheight": "4.2",
+                "maxspeed": "50",
+                "name": "Rue Roger Couttolenc",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173916625,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8162005,
+                        49.4140819
+                    ],
+                    [
+                        2.8163104,
+                        49.4141333
+                    ],
+                    [
+                        2.8178139,
+                        49.414837
+                    ],
+                    [
+                        2.8188281,
+                        49.4153204
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Roger Couttolenc",
+                "ref:FR:FANTOIR": "601593120E",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

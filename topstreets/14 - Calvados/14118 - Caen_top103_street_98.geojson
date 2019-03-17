@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23710588,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3328019,
+                        49.1742141
+                    ],
+                    [
+                        -0.3329769,
+                        49.1742368
+                    ],
+                    [
+                        -0.3334208,
+                        49.1742902
+                    ],
+                    [
+                        -0.3339458,
+                        49.1743534
+                    ],
+                    [
+                        -0.3350321,
+                        49.1744825
+                    ],
+                    [
+                        -0.3351412,
+                        49.1744959
+                    ],
+                    [
+                        -0.3372696,
+                        49.1747268
+                    ],
+                    [
+                        -0.3373618,
+                        49.1747368
+                    ],
+                    [
+                        -0.3375574,
+                        49.1747787
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de Rouen",
+                "oneway": "yes",
+                "ref": "D 675",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203539950,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3308809,
+                        49.1739979
+                    ],
+                    [
+                        -0.3320267,
+                        49.1741272
+                    ],
+                    [
+                        -0.3322948,
+                        49.1741573
+                    ],
+                    [
+                        -0.3324837,
+                        49.1741784
+                    ],
+                    [
+                        -0.3328019,
+                        49.1742141
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue de Rouen",
+                "old_ref": "N175",
+                "ref": "D 675",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left;through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554672161,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3375574,
+                        49.1747787
+                    ],
+                    [
+                        -0.3378025,
+                        49.1748249
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Avenue de Rouen",
+                "oneway": "yes",
+                "ref": "D 675",
+                "sidewalk": "both",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

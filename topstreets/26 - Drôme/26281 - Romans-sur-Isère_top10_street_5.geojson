@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4273148,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0485189,
+                        45.0411236
+                    ],
+                    [
+                        5.0486108,
+                        45.0422128
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "name": "Pont Vieux",
+                "name:oc": "P\u00f2nt Vielh",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4273149,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0486098,
+                        45.0422767
+                    ],
+                    [
+                        5.0486118,
+                        45.0422165
+                    ],
+                    [
+                        5.0486108,
+                        45.0422128
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Pont Vieux",
+                "name:oc": "P\u00f2nt Vielh",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

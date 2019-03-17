@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23465214,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5731446,
+                        44.8430415
+                    ],
+                    [
+                        -0.5731289,
+                        44.8429811
+                    ],
+                    [
+                        -0.5731185,
+                        44.8429225
+                    ],
+                    [
+                        -0.5730251,
+                        44.8423973
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "lit": "yes",
+                "motor_vehicle": "destination",
+                "name": "Rue Louis",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

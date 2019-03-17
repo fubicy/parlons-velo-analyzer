@@ -1,0 +1,728 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039379,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3880058,
+                        48.8630354
+                    ],
+                    [
+                        2.3881826,
+                        48.8630747
+                    ],
+                    [
+                        2.3882784,
+                        48.8630958
+                    ],
+                    [
+                        2.388527,
+                        48.8631506
+                    ],
+                    [
+                        2.3885679,
+                        48.8631596
+                    ],
+                    [
+                        2.389621,
+                        48.8634286
+                    ],
+                    [
+                        2.3911148,
+                        48.8638072
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Avenue Gambetta",
+                "oneway": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14111021,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3985668,
+                        48.8650048
+                    ],
+                    [
+                        2.3987746,
+                        48.8652622
+                    ],
+                    [
+                        2.3987974,
+                        48.865286
+                    ],
+                    [
+                        2.3989039,
+                        48.8654039
+                    ],
+                    [
+                        2.3989828,
+                        48.8654946
+                    ],
+                    [
+                        2.3991831,
+                        48.8657248
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "name": "Avenue Gambetta",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40036878,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4043625,
+                        48.8717185
+                    ],
+                    [
+                        2.404466,
+                        48.871974
+                    ],
+                    [
+                        2.4045033,
+                        48.87206
+                    ],
+                    [
+                        2.4045936,
+                        48.8722782
+                    ],
+                    [
+                        2.4046076,
+                        48.8723124
+                    ],
+                    [
+                        2.4048752,
+                        48.8729101
+                    ],
+                    [
+                        2.4049027,
+                        48.8729842
+                    ],
+                    [
+                        2.4050194,
+                        48.8733059
+                    ],
+                    [
+                        2.4051094,
+                        48.8735201
+                    ],
+                    [
+                        2.405164,
+                        48.8736723
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "track",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "name": "Avenue Gambetta",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51548837,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.405164,
+                        48.8736723
+                    ],
+                    [
+                        2.4053024,
+                        48.8740167
+                    ],
+                    [
+                        2.4053941,
+                        48.8742347
+                    ],
+                    [
+                        2.4055974,
+                        48.8746878
+                    ],
+                    [
+                        2.4056636,
+                        48.8748494
+                    ],
+                    [
+                        2.4056957,
+                        48.8749362
+                    ],
+                    [
+                        2.4057299,
+                        48.8750392
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue Gambetta",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51568494,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3955446,
+                        48.8649763
+                    ],
+                    [
+                        2.3956529,
+                        48.8649875
+                    ],
+                    [
+                        2.3959556,
+                        48.8649918
+                    ],
+                    [
+                        2.3962245,
+                        48.8649837
+                    ],
+                    [
+                        2.3970446,
+                        48.8649575
+                    ],
+                    [
+                        2.3970689,
+                        48.8649562
+                    ],
+                    [
+                        2.3972589,
+                        48.864946
+                    ],
+                    [
+                        2.3974621,
+                        48.8649376
+                    ],
+                    [
+                        2.3976722,
+                        48.8649286
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue Gambetta",
+                "ref:FR:STIF": "26098",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77892692,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4059725,
+                        48.8756706
+                    ],
+                    [
+                        2.4057894,
+                        48.8752019
+                    ],
+                    [
+                        2.4057299,
+                        48.8750392
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Avenue Gambetta",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109400103,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3998839,
+                        48.8665401
+                    ],
+                    [
+                        2.3999353,
+                        48.8666047
+                    ],
+                    [
+                        2.4004498,
+                        48.8671649
+                    ],
+                    [
+                        2.4007254,
+                        48.8674649
+                    ],
+                    [
+                        2.4010858,
+                        48.8678996
+                    ],
+                    [
+                        2.4011737,
+                        48.8680063
+                    ],
+                    [
+                        2.4013212,
+                        48.8681855
+                    ],
+                    [
+                        2.4014206,
+                        48.8683061
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "name": "Avenue Gambetta",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120997889,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3993232,
+                        48.8658864
+                    ],
+                    [
+                        2.3994069,
+                        48.8659816
+                    ],
+                    [
+                        2.3995475,
+                        48.8661479
+                    ],
+                    [
+                        2.3996224,
+                        48.8662352
+                    ],
+                    [
+                        2.3997914,
+                        48.8664322
+                    ],
+                    [
+                        2.3998839,
+                        48.8665401
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue Gambetta",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154892293,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4064725,
+                        48.876986
+                    ],
+                    [
+                        2.4065572,
+                        48.8769881
+                    ],
+                    [
+                        2.4066398,
+                        48.8770052
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue Gambetta",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156617860,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4014206,
+                        48.8683061
+                    ],
+                    [
+                        2.4015123,
+                        48.8684092
+                    ],
+                    [
+                        2.4018334,
+                        48.8687701
+                    ],
+                    [
+                        2.4020706,
+                        48.8690317
+                    ],
+                    [
+                        2.4026035,
+                        48.8696466
+                    ],
+                    [
+                        2.4026394,
+                        48.8696895
+                    ],
+                    [
+                        2.4028039,
+                        48.8698767
+                    ],
+                    [
+                        2.4030693,
+                        48.8701791
+                    ],
+                    [
+                        2.403855,
+                        48.8710838
+                    ],
+                    [
+                        2.4039617,
+                        48.8712096
+                    ],
+                    [
+                        2.4040377,
+                        48.8712967
+                    ],
+                    [
+                        2.4040988,
+                        48.8713674
+                    ],
+                    [
+                        2.4042249,
+                        48.8715244
+                    ],
+                    [
+                        2.4043625,
+                        48.8717185
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Avenue Gambetta",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188445636,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4064725,
+                        48.876986
+                    ],
+                    [
+                        2.4064324,
+                        48.876876
+                    ],
+                    [
+                        2.4063806,
+                        48.8767482
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Avenue Gambetta",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307919389,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3911148,
+                        48.8638072
+                    ],
+                    [
+                        2.3915362,
+                        48.863914
+                    ],
+                    [
+                        2.3916505,
+                        48.8639427
+                    ],
+                    [
+                        2.3918312,
+                        48.8639897
+                    ],
+                    [
+                        2.3919955,
+                        48.8640325
+                    ],
+                    [
+                        2.392263,
+                        48.8640976
+                    ],
+                    [
+                        2.3923706,
+                        48.8641225
+                    ],
+                    [
+                        2.3927181,
+                        48.8642115
+                    ],
+                    [
+                        2.3938178,
+                        48.8645042
+                    ],
+                    [
+                        2.3943113,
+                        48.8646207
+                    ],
+                    [
+                        2.3945133,
+                        48.8646738
+                    ],
+                    [
+                        2.3945864,
+                        48.8646928
+                    ],
+                    [
+                        2.394689,
+                        48.8647185
+                    ],
+                    [
+                        2.3948986,
+                        48.8647748
+                    ],
+                    [
+                        2.3951675,
+                        48.864842
+                    ],
+                    [
+                        2.3953427,
+                        48.8648899
+                    ],
+                    [
+                        2.3955446,
+                        48.8649763
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Avenue Gambetta",
+                "oneway": "no",
+                "source:maxspeed": "signalisation, proximit\u00e9 \u00e9cole",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 517156356,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4063806,
+                        48.8767482
+                    ],
+                    [
+                        2.4062212,
+                        48.8763392
+                    ],
+                    [
+                        2.4059725,
+                        48.8756706
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Avenue Gambetta",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 534026938,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3991831,
+                        48.8657248
+                    ],
+                    [
+                        2.3993232,
+                        48.8658864
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "name": "Avenue Gambetta",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 549503993,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3976722,
+                        48.8649286
+                    ],
+                    [
+                        2.3978642,
+                        48.8649213
+                    ],
+                    [
+                        2.3979029,
+                        48.8649197
+                    ],
+                    [
+                        2.3983194,
+                        48.8648888
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue Gambetta",
+                "ref:FR:STIF": "26098",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 584389018,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3875151,
+                        48.8629256
+                    ],
+                    [
+                        2.3877061,
+                        48.8629713
+                    ],
+                    [
+                        2.3880058,
+                        48.8630354
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Gambetta",
+                "oneway": "no",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

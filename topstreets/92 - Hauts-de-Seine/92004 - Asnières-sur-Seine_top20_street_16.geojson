@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 117343777,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2858973,
+                        48.9072527
+                    ],
+                    [
+                        2.2858257,
+                        48.907268
+                    ],
+                    [
+                        2.2858053,
+                        48.9072747
+                    ],
+                    [
+                        2.2857888,
+                        48.9072831
+                    ],
+                    [
+                        2.2857755,
+                        48.9072916
+                    ],
+                    [
+                        2.2857641,
+                        48.9072997
+                    ],
+                    [
+                        2.2847856,
+                        48.9082326
+                    ],
+                    [
+                        2.284658,
+                        48.9083541
+                    ],
+                    [
+                        2.2845811,
+                        48.9084015
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Rue de Verdun",
+                "oneway": "yes",
+                "political_division": "canton",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

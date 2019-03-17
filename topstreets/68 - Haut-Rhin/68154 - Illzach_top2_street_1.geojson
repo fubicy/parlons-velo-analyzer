@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37800834,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3466831,
+                        47.7819816
+                    ],
+                    [
+                        7.346784,
+                        47.7820981
+                    ],
+                    [
+                        7.3472785,
+                        47.7824721
+                    ],
+                    [
+                        7.3474103,
+                        47.7825432
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue des Chasseurs",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37800861,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3474103,
+                        47.7825432
+                    ],
+                    [
+                        7.347541,
+                        47.7825619
+                    ],
+                    [
+                        7.3482608,
+                        47.7825251
+                    ],
+                    [
+                        7.3484558,
+                        47.7825379
+                    ],
+                    [
+                        7.3485268,
+                        47.7825425
+                    ],
+                    [
+                        7.3486214,
+                        47.7825256
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue des Chasseurs",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19727454,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3362836,
+                        47.5859354
+                    ],
+                    [
+                        1.3389088,
+                        47.5841736
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Jacques Gabriel",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130423446,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3361028,
+                        47.5860548
+                    ],
+                    [
+                        1.3362321,
+                        47.5859656
+                    ],
+                    [
+                        1.3362836,
+                        47.5859354
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Pont Jacques Gabriel",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 119079365,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5553396,
+                        47.4639759
+                    ],
+                    [
+                        -0.5553849,
+                        47.4639601
+                    ],
+                    [
+                        -0.5554067,
+                        47.4639525
+                    ],
+                    [
+                        -0.5554181,
+                        47.4639486
+                    ],
+                    [
+                        -0.5556328,
+                        47.4638979
+                    ],
+                    [
+                        -0.5564456,
+                        47.463748
+                    ],
+                    [
+                        -0.5568796,
+                        47.463678
+                    ],
+                    [
+                        -0.5569469,
+                        47.4636671
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Fulton",
+                "oneway": "yes",
+                "parking:condition:right": "ticket",
+                "parking:condition:right:maxstay": "2 h",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "parallel",
+                "source:cycleway": "survey;mapillary",
+                "source:parking": "survey;mapillary",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119081522,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5593699,
+                        47.4632233
+                    ],
+                    [
+                        -0.5586607,
+                        47.4633565
+                    ],
+                    [
+                        -0.5569469,
+                        47.4636671
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Fulton",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119084036,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5593699,
+                        47.4632233
+                    ],
+                    [
+                        -0.559478,
+                        47.4631967
+                    ],
+                    [
+                        -0.5595874,
+                        47.4631583
+                    ],
+                    [
+                        -0.5597572,
+                        47.4631088
+                    ],
+                    [
+                        -0.5618701,
+                        47.4624923
+                    ],
+                    [
+                        -0.5623215,
+                        47.4623606
+                    ],
+                    [
+                        -0.5624908,
+                        47.4623083
+                    ],
+                    [
+                        -0.5626428,
+                        47.4622613
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Fulton",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

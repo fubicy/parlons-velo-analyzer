@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 379957535,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8625863,
+                        45.7540063
+                    ],
+                    [
+                        4.8628223,
+                        45.7540355
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Archives D\u00e9partementales",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "1007",
+                "route_ref": "C11A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "trolleybus": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 379957536,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.862776,
+                        45.7541253
+                    ],
+                    [
+                        4.862525,
+                        45.7540938
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Archives D\u00e9partementales",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "1008",
+                "route_ref": "C11A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "trolleybus": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

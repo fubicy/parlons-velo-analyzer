@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5097970,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6773526,
+                        48.1124163
+                    ],
+                    [
+                        -1.6765131,
+                        48.1124181
+                    ],
+                    [
+                        -1.676262,
+                        48.1124166
+                    ],
+                    [
+                        -1.6761297,
+                        48.1124159
+                    ],
+                    [
+                        -1.6754345,
+                        48.1124118
+                    ],
+                    [
+                        -1.6753915,
+                        48.1124124
+                    ],
+                    [
+                        -1.6751712,
+                        48.1124149
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bicycle": "permissive",
+                "cycleway:left": "opposite",
+                "foot": "permissive",
+                "highway": "tertiary",
+                "horse": "permissive",
+                "lit": "yes",
+                "motor_vehicle": "permissive",
+                "name": "Rue Victor Hugo",
+                "name:br": "Straed Victor Hugo",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "surface": "cobblestone",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23801022,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6751712,
+                        48.1124149
+                    ],
+                    [
+                        -1.675099,
+                        48.1124147
+                    ],
+                    [
+                        -1.6750446,
+                        48.1124157
+                    ],
+                    [
+                        -1.6750034,
+                        48.1124164
+                    ],
+                    [
+                        -1.6737341,
+                        48.1124209
+                    ],
+                    [
+                        -1.6734798,
+                        48.1124192
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Victor Hugo",
+                "name:br": "Straed Victor Hugo",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

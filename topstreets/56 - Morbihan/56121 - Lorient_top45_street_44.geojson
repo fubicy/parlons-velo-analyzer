@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24367765,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.3661475,
+                        47.7542328
+                    ],
+                    [
+                        -3.3660447,
+                        47.7539307
+                    ],
+                    [
+                        -3.3659124,
+                        47.7535833
+                    ],
+                    [
+                        -3.3658555,
+                        47.7534338
+                    ],
+                    [
+                        -3.3656135,
+                        47.7528027
+                    ],
+                    [
+                        -3.3654453,
+                        47.7523574
+                    ],
+                    [
+                        -3.3654385,
+                        47.7523396
+                    ],
+                    [
+                        -3.3653931,
+                        47.7522204
+                    ],
+                    [
+                        -3.3652537,
+                        47.7518545
+                    ],
+                    [
+                        -3.3651982,
+                        47.7517786
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Boulevard Franchet d'Esperey",
+                "source": "yahoo;cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2006 (nom)",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

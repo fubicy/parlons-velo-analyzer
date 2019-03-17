@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4485544,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4700702,
+                        43.5510401
+                    ],
+                    [
+                        1.470188,
+                        43.5510803
+                    ],
+                    [
+                        1.4702057,
+                        43.5510877
+                    ],
+                    [
+                        1.4713271,
+                        43.5515558
+                    ],
+                    [
+                        1.4713773,
+                        43.551579
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Chemin Pouciquot",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60091386,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4713773,
+                        43.551579
+                    ],
+                    [
+                        1.4714505,
+                        43.5516098
+                    ],
+                    [
+                        1.4718419,
+                        43.5517747
+                    ],
+                    [
+                        1.4723167,
+                        43.5519747
+                    ],
+                    [
+                        1.4724838,
+                        43.5520445
+                    ],
+                    [
+                        1.4726162,
+                        43.5520984
+                    ],
+                    [
+                        1.4727076,
+                        43.5521356
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Chemin Pouciquot",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2010",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

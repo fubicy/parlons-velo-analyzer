@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 39102064,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0285991,
+                        50.6355174
+                    ],
+                    [
+                        3.0291078,
+                        50.6353773
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de Dunkerque",
+                "oldref": "N 42",
+                "ref": "D 933",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155151555,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0184813,
+                        50.6410216
+                    ],
+                    [
+                        3.0185605,
+                        50.6409073
+                    ],
+                    [
+                        3.0185969,
+                        50.6408559
+                    ],
+                    [
+                        3.018624,
+                        50.6408161
+                    ],
+                    [
+                        3.0186893,
+                        50.640717
+                    ],
+                    [
+                        3.0187166,
+                        50.640679
+                    ],
+                    [
+                        3.0187603,
+                        50.6406125
+                    ],
+                    [
+                        3.0187847,
+                        50.6405801
+                    ],
+                    [
+                        3.0189588,
+                        50.64033
+                    ],
+                    [
+                        3.0189723,
+                        50.6403096
+                    ],
+                    [
+                        3.0190176,
+                        50.6402448
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "buffered_lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue de Dunkerque",
+                "old_ref": "N 42",
+                "oneway": "no",
+                "ref": "D 933",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155151642,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0190952,
+                        50.6401374
+                    ],
+                    [
+                        3.0192127,
+                        50.6399846
+                    ],
+                    [
+                        3.0192502,
+                        50.6399304
+                    ],
+                    [
+                        3.0194001,
+                        50.6398132
+                    ],
+                    [
+                        3.0196035,
+                        50.6396573
+                    ],
+                    [
+                        3.0196772,
+                        50.6396173
+                    ],
+                    [
+                        3.0197687,
+                        50.6395739
+                    ],
+                    [
+                        3.0200452,
+                        50.6394457
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxstay": "1.5 hours @ (09:00-18:00)",
+                "name": "Avenue de Dunkerque",
+                "oldref": "N 42",
+                "ref": "D 933",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:urban",
+                "source:maxstay": "http://www.lambersart.fr/Vos-demarches/Actualites/Zone-bleue-a-Canteleu",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 238644755,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0190176,
+                        50.6402448
+                    ],
+                    [
+                        3.0190618,
+                        50.6401809
+                    ],
+                    [
+                        3.0190952,
+                        50.6401374
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "shared_lane",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxstay": "1.5 hours @ (09:00-18:00)",
+                "name": "Avenue de Dunkerque",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "FR:urban",
+                "source:maxstay": "http://www.lambersart.fr/Vos-demarches/Actualites/Zone-bleue-a-Canteleu",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 368138774,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0172995,
+                        50.642038
+                    ],
+                    [
+                        3.0173868,
+                        50.6419746
+                    ],
+                    [
+                        3.0175451,
+                        50.6418597
+                    ],
+                    [
+                        3.017582,
+                        50.6418282
+                    ],
+                    [
+                        3.0178204,
+                        50.6416468
+                    ],
+                    [
+                        3.0179854,
+                        50.6415201
+                    ],
+                    [
+                        3.0180649,
+                        50.6414581
+                    ],
+                    [
+                        3.0181851,
+                        50.6413554
+                    ],
+                    [
+                        3.0182754,
+                        50.6412713
+                    ],
+                    [
+                        3.0183208,
+                        50.6412263
+                    ],
+                    [
+                        3.0183937,
+                        50.6411375
+                    ],
+                    [
+                        3.0184813,
+                        50.6410216
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Dunkerque",
+                "oldref": "N 42",
+                "oneway": "no",
+                "ref": "D 933",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 368138775,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0200452,
+                        50.6394457
+                    ],
+                    [
+                        3.0202378,
+                        50.6393564
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "maxstay": "1.5 hours @ (09:00-18:00)",
+                "name": "Avenue de Dunkerque",
+                "oldref": "N 42",
+                "oneway": "no",
+                "ref": "D 933",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxstay": "http://www.lambersart.fr/Vos-demarches/Actualites/Zone-bleue-a-Canteleu",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 588679286,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0137759,
+                        50.64445
+                    ],
+                    [
+                        3.0141217,
+                        50.6442989
+                    ],
+                    [
+                        3.0146155,
+                        50.6440435
+                    ],
+                    [
+                        3.0147015,
+                        50.6439857
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "maxstay": "1.5 hours @ (09:00-18:00)",
+                "name": "Avenue de Dunkerque",
+                "oldref": "N 42",
+                "oneway": "no",
+                "ref": "D 933",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxstay": "http://www.lambersart.fr/Vos-demarches/Actualites/Zone-bleue-a-Canteleu",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 619574573,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0154341,
+                        50.643473
+                    ],
+                    [
+                        3.0156729,
+                        50.6432962
+                    ],
+                    [
+                        3.015849,
+                        50.6431659
+                    ],
+                    [
+                        3.0163469,
+                        50.6427694
+                    ],
+                    [
+                        3.0164279,
+                        50.6427018
+                    ],
+                    [
+                        3.016646,
+                        50.6425351
+                    ],
+                    [
+                        3.01673,
+                        50.6424758
+                    ],
+                    [
+                        3.0172995,
+                        50.642038
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue de Dunkerque",
+                "oldref": "N 42",
+                "oneway": "no",
+                "ref": "D 933",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

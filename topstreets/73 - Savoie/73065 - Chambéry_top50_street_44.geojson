@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22174274,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9220886,
+                        45.5674803
+                    ],
+                    [
+                        5.922151,
+                        45.5675245
+                    ],
+                    [
+                        5.9222572,
+                        45.5675988
+                    ],
+                    [
+                        5.9225251,
+                        45.567783
+                    ],
+                    [
+                        5.9225472,
+                        45.5678117
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Guillaume Fichet",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

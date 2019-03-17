@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 50227383,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8310778,
+                        50.1049969
+                    ],
+                    [
+                        1.8303444,
+                        50.1047727
+                    ],
+                    [
+                        1.8300737,
+                        50.1046915
+                    ],
+                    [
+                        1.8291072,
+                        50.1044015
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Saint-Vulfran",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50227393,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8311746,
+                        50.1050286
+                    ],
+                    [
+                        1.8310778,
+                        50.1049969
+                    ]
+                ]
+            },
+            "properties": {
+                "covered": "yes",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue Saint-Vulfran",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

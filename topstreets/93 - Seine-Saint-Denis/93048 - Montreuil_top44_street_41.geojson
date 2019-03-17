@@ -1,0 +1,98 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23369719,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4412548,
+                        48.8583389
+                    ],
+                    [
+                        2.4412428,
+                        48.8583001
+                    ],
+                    [
+                        2.441084,
+                        48.857775
+                    ],
+                    [
+                        2.4411596,
+                        48.857287
+                    ],
+                    [
+                        2.4411703,
+                        48.857202
+                    ],
+                    [
+                        2.4411766,
+                        48.8571316
+                    ],
+                    [
+                        2.4413585,
+                        48.8559238
+                    ],
+                    [
+                        2.4414428,
+                        48.8554184
+                    ],
+                    [
+                        2.4414566,
+                        48.8553565
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Carnot",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89442034,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4414566,
+                        48.8553565
+                    ],
+                    [
+                        2.4414463,
+                        48.8553073
+                    ],
+                    [
+                        2.4411759,
+                        48.8530623
+                    ],
+                    [
+                        2.4411545,
+                        48.853035
+                    ],
+                    [
+                        2.441118,
+                        48.8530073
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Carnot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

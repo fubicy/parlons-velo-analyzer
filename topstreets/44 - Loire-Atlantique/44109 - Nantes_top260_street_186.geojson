@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30103064,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5348816,
+                        47.1917732
+                    ],
+                    [
+                        -1.5349158,
+                        47.1917885
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "name": "Rue Ledru-Rollin",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128164386,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5349158,
+                        47.1917885
+                    ],
+                    [
+                        -1.5350331,
+                        47.1921118
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "name": "Rue Ledru-Rollin",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 416353796,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5350331,
+                        47.1921118
+                    ],
+                    [
+                        -1.5351583,
+                        47.1924568
+                    ],
+                    [
+                        -1.5353204,
+                        47.1929044
+                    ],
+                    [
+                        -1.5356596,
+                        47.1938152
+                    ],
+                    [
+                        -1.5360137,
+                        47.1947536
+                    ],
+                    [
+                        -1.5363135,
+                        47.1955605
+                    ],
+                    [
+                        -1.5363458,
+                        47.1956473
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "name": "Rue Ledru-Rollin",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

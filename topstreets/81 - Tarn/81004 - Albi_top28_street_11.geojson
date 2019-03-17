@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 302031117,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1447744,
+                        43.9247105
+                    ],
+                    [
+                        2.1447931,
+                        43.924575
+                    ],
+                    [
+                        2.1449498,
+                        43.9235488
+                    ],
+                    [
+                        2.1449631,
+                        43.923461
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "permissive",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue des Cordeliers",
+                "surface": "paving_stones",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

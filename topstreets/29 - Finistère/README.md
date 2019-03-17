@@ -7,7 +7,7 @@ Sur l'ensemble du département, il y a eu 1278 réponses dont 618 réponses avec
 |29003 - Audierne&nbsp;&#124;&nbsp;<a href='29003 - Audierne_top1.md'>Top 10</a>|1|1(100%)|<img src="../../img/bar_0.gif" />&nbsp;1|
 |29004 - Bannalec|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |29006 - Bénodet|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
-|29019 - Brest&nbsp;&#124;&nbsp;<a href='29019 - Brest_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='29019 - Brest_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='29019 - Brest_top50.md'>Top 50</a>|447|272(60%)|<img src="../../img/bar_28.gif" />&nbsp;66|
+|29019 - Brest&nbsp;&#124;&nbsp;<a href='29019 - Brest_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='29019 - Brest_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='29019 - Brest_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='29019 - Brest_top66.md'>Top 1000</a>|447|272(60%)|<img src="../../img/bar_28.gif" />&nbsp;66|
 |29020 - Briec|3|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |29024 - Carhaix-Plouguer&nbsp;&#124;&nbsp;<a href='29024 - Carhaix-Plouguer_top4.md'>Top 10</a>|16|5(31%)|<img src="../../img/bar_1.gif" />&nbsp;4|
 |29037 - Combrit&nbsp;&#124;&nbsp;<a href='29037 - Combrit_top3.md'>Top 10</a>|5|3(60%)|<img src="../../img/bar_1.gif" />&nbsp;3|

@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25834418,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0143746,
+                        49.2419348
+                    ],
+                    [
+                        4.0141658,
+                        49.2419178
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Avenue d'Epernay",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26122115,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.012224,
+                        49.2485573
+                    ],
+                    [
+                        4.012413,
+                        49.2485102
+                    ],
+                    [
+                        4.0125167,
+                        49.2484534
+                    ],
+                    [
+                        4.0125466,
+                        49.248437
+                    ],
+                    [
+                        4.0126378,
+                        49.248346
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue d'Epernay",
+                "old_ref": "N 51",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

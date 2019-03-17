@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 19201464,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1320791,
+                        48.8039733
+                    ],
+                    [
+                        2.1321045,
+                        48.8039668
+                    ],
+                    [
+                        2.1321811,
+                        48.8039474
+                    ],
+                    [
+                        2.1328026,
+                        48.8037743
+                    ],
+                    [
+                        2.1328442,
+                        48.8037627
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "horse": "yes",
+                "lit": "yes",
+                "maxspeed": "10",
+                "motor_vehicle": "no",
+                "name": "Place Charost",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

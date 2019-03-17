@@ -1,0 +1,102 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4612358,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4531605,
+                        43.6161225
+                    ],
+                    [
+                        1.4531196,
+                        43.6160511
+                    ],
+                    [
+                        1.4531089,
+                        43.6160234
+                    ],
+                    [
+                        1.453122,
+                        43.6159984
+                    ],
+                    [
+                        1.4531874,
+                        43.6159652
+                    ],
+                    [
+                        1.4532604,
+                        43.6159224
+                    ],
+                    [
+                        1.4533154,
+                        43.6158695
+                    ],
+                    [
+                        1.4540114,
+                        43.6146995
+                    ],
+                    [
+                        1.4540577,
+                        43.6146495
+                    ],
+                    [
+                        1.454108,
+                        43.6146461
+                    ],
+                    [
+                        1.4551024,
+                        43.6148389
+                    ],
+                    [
+                        1.4551748,
+                        43.6148554
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Cheminots",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28602114,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4551748,
+                        43.6148554
+                    ],
+                    [
+                        1.4557138,
+                        43.6149503
+                    ],
+                    [
+                        1.4558943,
+                        43.6149402
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Cheminots",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

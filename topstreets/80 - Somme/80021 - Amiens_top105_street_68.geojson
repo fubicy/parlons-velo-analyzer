@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 200660214,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2926068,
+                        49.8923514
+                    ],
+                    [
+                        2.2928694,
+                        49.8924884
+                    ],
+                    [
+                        2.2931204,
+                        49.8926187
+                    ],
+                    [
+                        2.2934747,
+                        49.8927535
+                    ],
+                    [
+                        2.2937919,
+                        49.8928439
+                    ],
+                    [
+                        2.2939781,
+                        49.8928852
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Beauvais",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374848130,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2940874,
+                        49.8929044
+                    ],
+                    [
+                        2.2941625,
+                        49.8929182
+                    ],
+                    [
+                        2.2943358,
+                        49.8929446
+                    ],
+                    [
+                        2.2944041,
+                        49.8929515
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Beauvais",
+                "oneway": "yes",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 545864352,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2944041,
+                        49.8929515
+                    ],
+                    [
+                        2.2945844,
+                        49.8929699
+                    ],
+                    [
+                        2.2948338,
+                        49.8929782
+                    ],
+                    [
+                        2.2950897,
+                        49.8929732
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Beauvais",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 545864354,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2939781,
+                        49.8928852
+                    ],
+                    [
+                        2.2940874,
+                        49.8929044
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Beauvais",
+                "oneway": "yes",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

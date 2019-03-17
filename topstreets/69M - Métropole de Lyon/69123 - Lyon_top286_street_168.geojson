@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4304855,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8581158,
+                        45.7637157
+                    ],
+                    [
+                        4.8581226,
+                        45.7637313
+                    ],
+                    [
+                        4.8582295,
+                        45.7639765
+                    ],
+                    [
+                        4.858375,
+                        45.7642583
+                    ],
+                    [
+                        4.8584172,
+                        45.7643333
+                    ],
+                    [
+                        4.8584315,
+                        45.7643587
+                    ],
+                    [
+                        4.8585161,
+                        45.764509
+                    ],
+                    [
+                        4.8585756,
+                        45.764622
+                    ],
+                    [
+                        4.8587661,
+                        45.7649781
+                    ],
+                    [
+                        4.8588148,
+                        45.7650763
+                    ],
+                    [
+                        4.8588876,
+                        45.7652253
+                    ],
+                    [
+                        4.8589227,
+                        45.7652931
+                    ],
+                    [
+                        4.8589597,
+                        45.7653595
+                    ],
+                    [
+                        4.8592099,
+                        45.7658095
+                    ],
+                    [
+                        4.859239,
+                        45.7659102
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:right": "no",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Jules Favre",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 598600838,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8580914,
+                        45.763654
+                    ],
+                    [
+                        4.858105,
+                        45.7636945
+                    ],
+                    [
+                        4.8581158,
+                        45.7637157
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:right": "no",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Jules Favre",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

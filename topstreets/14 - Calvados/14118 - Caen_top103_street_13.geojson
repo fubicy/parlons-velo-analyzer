@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4577008,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3612026,
+                        49.1814846
+                    ],
+                    [
+                        -0.3605524,
+                        49.1818151
+                    ],
+                    [
+                        -0.3597921,
+                        49.1821787
+                    ],
+                    [
+                        -0.3596258,
+                        49.1822582
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "cycleway:left": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue de Berni\u00e8res",
+                "oneway": "yes",
+                "psv:lanes": "no|no|yes",
+                "sidewalk": "both",
+                "source:maxspeed": "sign",
+                "surface": "paved",
+                "turn:lanes": "left;through|through;right|none",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161559071,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3582883,
+                        49.1828508
+                    ],
+                    [
+                        -0.3582052,
+                        49.1828866
+                    ],
+                    [
+                        -0.3581705,
+                        49.1829018
+                    ],
+                    [
+                        -0.3580989,
+                        49.1829357
+                    ],
+                    [
+                        -0.357731,
+                        49.1831086
+                    ],
+                    [
+                        -0.3576592,
+                        49.1831412
+                    ],
+                    [
+                        -0.3571208,
+                        49.183604
+                    ],
+                    [
+                        -0.3570412,
+                        49.1836731
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Berni\u00e8res",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188201196,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3596258,
+                        49.1822582
+                    ],
+                    [
+                        -0.3594922,
+                        49.1823148
+                    ],
+                    [
+                        -0.3592211,
+                        49.1824398
+                    ],
+                    [
+                        -0.3584698,
+                        49.1827699
+                    ],
+                    [
+                        -0.3583897,
+                        49.1828055
+                    ],
+                    [
+                        -0.3583592,
+                        49.1828198
+                    ],
+                    [
+                        -0.3582883,
+                        49.1828508
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "cycleway:left": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:psv": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Berni\u00e8res",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

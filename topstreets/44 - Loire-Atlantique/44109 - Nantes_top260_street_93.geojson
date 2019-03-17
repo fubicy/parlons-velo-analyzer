@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 505664860,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5420536,
+                        47.2180753
+                    ],
+                    [
+                        -1.5422699,
+                        47.2180346
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Gare SNCF Nord",
+                "public_transport": "platform",
+                "tourist_bus": "designated",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

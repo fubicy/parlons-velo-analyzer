@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31052798,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5435517,
+                        47.4661543
+                    ],
+                    [
+                        -0.5434952,
+                        47.4661952
+                    ],
+                    [
+                        -0.5427855,
+                        47.466763
+                    ],
+                    [
+                        -0.5424434,
+                        47.467059
+                    ],
+                    [
+                        -0.5424001,
+                        47.4670978
+                    ],
+                    [
+                        -0.5423767,
+                        47.4671109
+                    ],
+                    [
+                        -0.5423526,
+                        47.4671246
+                    ],
+                    [
+                        -0.5418749,
+                        47.4677511
+                    ],
+                    [
+                        -0.5417256,
+                        47.4679547
+                    ],
+                    [
+                        -0.5415777,
+                        47.4681556
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Proust",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 620680956,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5415777,
+                        47.4681556
+                    ],
+                    [
+                        -0.5412239,
+                        47.4686332
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Proust",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

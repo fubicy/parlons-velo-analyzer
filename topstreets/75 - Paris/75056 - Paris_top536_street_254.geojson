@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 2574,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3945403,
+                        48.839429
+                    ],
+                    [
+                        2.394296,
+                        48.8392727
+                    ],
+                    [
+                        2.3940827,
+                        48.8391362
+                    ],
+                    [
+                        2.3938534,
+                        48.8389894
+                    ],
+                    [
+                        2.3937755,
+                        48.8389396
+                    ],
+                    [
+                        2.3931833,
+                        48.8385607
+                    ],
+                    [
+                        2.3930948,
+                        48.838504
+                    ],
+                    [
+                        2.3914938,
+                        48.8374796
+                    ],
+                    [
+                        2.3913064,
+                        48.8373597
+                    ],
+                    [
+                        2.3912093,
+                        48.8372975
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Taine",
+                "surface": "asphalt",
+                "wikidata": "Q3450115",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 568304215,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3939144,
+                        48.8393725
+                    ],
+                    [
+                        2.3940238,
+                        48.8392871
+                    ],
+                    [
+                        2.3940479,
+                        48.8392667
+                    ],
+                    [
+                        2.3940647,
+                        48.8392409
+                    ],
+                    [
+                        2.3940827,
+                        48.8391362
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Taine",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18033159,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3496039,
+                        48.8773529
+                    ],
+                    [
+                        2.3513185,
+                        48.8771127
+                    ],
+                    [
+                        2.351403,
+                        48.8771009
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Chabrol",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131751248,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3558584,
+                        48.8765136
+                    ],
+                    [
+                        2.3556754,
+                        48.8765095
+                    ],
+                    [
+                        2.3556372,
+                        48.876514
+                    ],
+                    [
+                        2.3554241,
+                        48.8765393
+                    ],
+                    [
+                        2.3547306,
+                        48.8766386
+                    ],
+                    [
+                        2.3539485,
+                        48.8767507
+                    ],
+                    [
+                        2.3529043,
+                        48.8768913
+                    ],
+                    [
+                        2.3521765,
+                        48.8769893
+                    ],
+                    [
+                        2.3515183,
+                        48.8770847
+                    ],
+                    [
+                        2.351403,
+                        48.8771009
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue de Chabrol",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "wikidata": "Q3450641",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

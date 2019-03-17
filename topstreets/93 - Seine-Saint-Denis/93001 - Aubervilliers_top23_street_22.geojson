@@ -1,0 +1,118 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23307621,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3679646,
+                        48.9206119
+                    ],
+                    [
+                        2.3681209,
+                        48.9203949
+                    ],
+                    [
+                        2.3685433,
+                        48.9196821
+                    ],
+                    [
+                        2.3689518,
+                        48.9189986
+                    ],
+                    [
+                        2.3694245,
+                        48.9182319
+                    ],
+                    [
+                        2.3695057,
+                        48.9181002
+                    ],
+                    [
+                        2.369672,
+                        48.9178338
+                    ],
+                    [
+                        2.3697095,
+                        48.9177759
+                    ],
+                    [
+                        2.3699222,
+                        48.9174311
+                    ],
+                    [
+                        2.3705054,
+                        48.9165092
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Quai Adrien Agn\u00e9s",
+                "ref": "D 24",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 577424876,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3705054,
+                        48.9165092
+                    ],
+                    [
+                        2.371184,
+                        48.9154262
+                    ],
+                    [
+                        2.3712433,
+                        48.9152857
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "name": "Quai Adrien Agn\u00e9s",
+                "ref": "D 24",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 577424877,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3674662,
+                        48.9213981
+                    ],
+                    [
+                        2.3679646,
+                        48.9206119
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:forward": "1",
+                "name": "Quai Adrien Agn\u00e9s",
+                "ref": "D 24",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

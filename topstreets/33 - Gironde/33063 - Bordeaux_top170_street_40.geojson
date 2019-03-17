@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 43576879,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5835753,
+                        44.8203178
+                    ],
+                    [
+                        -0.5834377,
+                        44.8204993
+                    ],
+                    [
+                        -0.5829432,
+                        44.8211551
+                    ],
+                    [
+                        -0.5829367,
+                        44.8211637
+                    ],
+                    [
+                        -0.5829124,
+                        44.8211959
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "pedestrian",
+                "motor_vehicle": "destination",
+                "name": "Cours Gambetta",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

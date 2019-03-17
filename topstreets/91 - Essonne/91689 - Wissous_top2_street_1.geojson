@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 38089771,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3223256,
+                        48.7397108
+                    ],
+                    [
+                        2.3226873,
+                        48.7395275
+                    ],
+                    [
+                        2.3238625,
+                        48.7389412
+                    ],
+                    [
+                        2.3241921,
+                        48.7387711
+                    ],
+                    [
+                        2.324709,
+                        48.73855
+                    ],
+                    [
+                        2.3264794,
+                        48.7376688
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Chemin de la Vall\u00e9e",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 405681620,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3264794,
+                        48.7376688
+                    ],
+                    [
+                        2.3271756,
+                        48.7373223
+                    ],
+                    [
+                        2.3282319,
+                        48.7367081
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Chemin de la Vall\u00e9e",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

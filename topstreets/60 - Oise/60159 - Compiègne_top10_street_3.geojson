@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 33189264,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8229264,
+                        49.4203961
+                    ],
+                    [
+                        2.8235514,
+                        49.4197831
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "bridge:structure": "arch",
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "layer": "2",
+                "material": "stone",
+                "maxspeed": "50",
+                "name": "Pont Louis XV",
+                "note": "Le pont change de nom suite au conseil municipal du 14 Nov 2014. Pont Solf\u00e9rino --> Pont Louis XV",
+                "old_name": "Pont Solf\u00e9rino",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through|through;right",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 69800784,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1604044,
+                        46.9926273
+                    ],
+                    [
+                        3.1602865,
+                        46.9925882
+                    ],
+                    [
+                        3.1600634,
+                        46.9924992
+                    ],
+                    [
+                        3.1597841,
+                        46.9923739
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "20",
+                "name": "Avenue Marceau",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604592642,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1597841,
+                        46.9923739
+                    ],
+                    [
+                        3.1590029,
+                        46.992088
+                    ],
+                    [
+                        3.1589536,
+                        46.9920699
+                    ],
+                    [
+                        3.1582434,
+                        46.9918094
+                    ],
+                    [
+                        3.1581747,
+                        46.9917842
+                    ],
+                    [
+                        3.15723,
+                        46.9914504
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Marceau",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 181635499,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7361543,
+                        45.1967208
+                    ],
+                    [
+                        5.7362582,
+                        45.1968022
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "description": "Arr\u00eat Scolaire",
+                "highway": "platform",
+                "name": "\u00cele Verte",
+                "network": "TAG",
+                "public_transport": "platform",
+                "wheelchair": "limited",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181635505,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7357122,
+                        45.1965484
+                    ],
+                    [
+                        5.7356619,
+                        45.1965102
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "description": "Arr\u00eat Scolaire",
+                "highway": "platform",
+                "name": "\u00cele Verte",
+                "network": "TAG",
+                "public_transport": "platform",
+                "wheelchair": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

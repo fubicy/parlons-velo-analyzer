@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 172735297,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2769298,
+                        48.7337488
+                    ],
+                    [
+                        2.2768514,
+                        48.7337314
+                    ],
+                    [
+                        2.2760481,
+                        48.7335528
+                    ],
+                    [
+                        2.2758764,
+                        48.7335146
+                    ],
+                    [
+                        2.2749044,
+                        48.7333528
+                    ],
+                    [
+                        2.2739323,
+                        48.7332091
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Chemin des Sablons",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218940188,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2739323,
+                        48.7332091
+                    ],
+                    [
+                        2.2732528,
+                        48.7331223
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "motor_vehicle": "no",
+                "name": "Chemin des Sablons",
+                "surface": "paving_stones",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

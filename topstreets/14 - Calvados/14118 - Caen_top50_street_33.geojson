@@ -1,0 +1,397 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4298451,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3535463,
+                        49.1819276
+                    ],
+                    [
+                        -0.353283,
+                        49.1818005
+                    ],
+                    [
+                        -0.3531932,
+                        49.1817535
+                    ],
+                    [
+                        -0.3525716,
+                        49.1814423
+                    ],
+                    [
+                        -0.3520191,
+                        49.1811701
+                    ],
+                    [
+                        -0.3519617,
+                        49.181142
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai Vendeuvre",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through",
+                "turn:lanes:forward": "through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19713504,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3577813,
+                        49.1840684
+                    ],
+                    [
+                        -0.357723,
+                        49.1840373
+                    ],
+                    [
+                        -0.3571787,
+                        49.1837466
+                    ],
+                    [
+                        -0.3570412,
+                        49.1836731
+                    ]
+                ]
+            },
+            "properties": {
+                "access:conditional": "no @ (Su 06:00-16:00)",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Quai Vendeuvre",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386788440,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3570412,
+                        49.1836731
+                    ],
+                    [
+                        -0.3569327,
+                        49.1836184
+                    ],
+                    [
+                        -0.3566716,
+                        49.1834868
+                    ],
+                    [
+                        -0.3565264,
+                        49.1834121
+                    ],
+                    [
+                        -0.3560361,
+                        49.183166
+                    ],
+                    [
+                        -0.3559793,
+                        49.1831375
+                    ],
+                    [
+                        -0.3559035,
+                        49.1830996
+                    ],
+                    [
+                        -0.3549163,
+                        49.182592
+                    ],
+                    [
+                        -0.3548564,
+                        49.1825624
+                    ]
+                ]
+            },
+            "properties": {
+                "access:conditional": "no @ (Su 06:00-16:00)",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Quai Vendeuvre",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 474133005,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3548564,
+                        49.1825624
+                    ],
+                    [
+                        -0.354777,
+                        49.182522
+                    ],
+                    [
+                        -0.3541321,
+                        49.1822136
+                    ]
+                ]
+            },
+            "properties": {
+                "access:conditional": "no @ (Su 06:00-16:00)",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Quai Vendeuvre",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through",
+                "turn:lanes:forward": "through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 528205185,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3537301,
+                        49.1820099
+                    ],
+                    [
+                        -0.3535463,
+                        49.1819276
+                    ]
+                ]
+            },
+            "properties": {
+                "access:conditional": "no @ (Su 06:00-16:00)",
+                "highway": "secondary",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Quai Vendeuvre",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through",
+                "turn:lanes:forward": "through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 528205186,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3541321,
+                        49.1822136
+                    ],
+                    [
+                        -0.3537301,
+                        49.1820099
+                    ]
+                ]
+            },
+            "properties": {
+                "access:conditional": "no @ (Su 06:00-16:00)",
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Quai Vendeuvre",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 578182520,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3507024,
+                        49.1804846
+                    ],
+                    [
+                        -0.3506615,
+                        49.1804604
+                    ],
+                    [
+                        -0.3505791,
+                        49.180422
+                    ],
+                    [
+                        -0.3505191,
+                        49.1803846
+                    ],
+                    [
+                        -0.3504505,
+                        49.1803502
+                    ]
+                ]
+            },
+            "properties": {
+                "access:conditional": "no @ (Su 06:00-16:00)",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed:type": "FR:urban",
+                "name": "Quai Vendeuvre",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through",
+                "turn:lanes:forward": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 578182523,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3506588,
+                        49.180521
+                    ],
+                    [
+                        -0.3506153,
+                        49.1804963
+                    ],
+                    [
+                        -0.3505329,
+                        49.1804579
+                    ],
+                    [
+                        -0.3504729,
+                        49.1804205
+                    ],
+                    [
+                        -0.3503989,
+                        49.1803848
+                    ]
+                ]
+            },
+            "properties": {
+                "access:conditional": "no @ (Su 06:00-16:00)",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed:type": "FR:urban",
+                "name": "Quai Vendeuvre",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through",
+                "turn:lanes:forward": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 578182529,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3519617,
+                        49.181142
+                    ],
+                    [
+                        -0.3519427,
+                        49.1811046
+                    ],
+                    [
+                        -0.3518938,
+                        49.1810802
+                    ],
+                    [
+                        -0.3507024,
+                        49.1804846
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai Vendeuvre",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 578182531,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3506588,
+                        49.180521
+                    ],
+                    [
+                        -0.3518502,
+                        49.1811166
+                    ],
+                    [
+                        -0.3518924,
+                        49.1811384
+                    ],
+                    [
+                        -0.3519617,
+                        49.181142
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "name": "Quai Vendeuvre",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 233443575,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2870748,
+                        48.7778831
+                    ],
+                    [
+                        2.2881405,
+                        48.7776578
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Constant Pilate",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

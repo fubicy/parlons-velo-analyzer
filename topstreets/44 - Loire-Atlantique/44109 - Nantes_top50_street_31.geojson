@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 511126128,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5724808,
+                        47.2067351
+                    ],
+                    [
+                        -1.5721873,
+                        47.2069571
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Gare Maritime",
+                "public_transport": "platform",
+                "tourist_bus": "designated",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 511126129,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5725081,
+                        47.2070354
+                    ],
+                    [
+                        -1.5727407,
+                        47.2068741
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Gare Maritime",
+                "operator": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "GMAR3",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

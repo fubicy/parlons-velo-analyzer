@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 104365497,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0347582,
+                        47.3536437
+                    ],
+                    [
+                        5.0348899,
+                        47.3544369
+                    ],
+                    [
+                        5.0349176,
+                        47.3547507
+                    ],
+                    [
+                        5.0349034,
+                        47.3550077
+                    ],
+                    [
+                        5.0348929,
+                        47.3551965
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Route d'Ahuy",
+                "old_ref": "N 396",
+                "oneway": "yes",
+                "ref": "D 107A",
+                "source:ref": "Route500",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

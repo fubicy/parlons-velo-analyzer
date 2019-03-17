@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 44 réponses dont 13 réponses avec une rue
 
 11 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Pont Vieux | 3 | 6% | <img src="../../img/bar_23.gif" />&nbsp;23%|
-| Quai de Verdun | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Faubourg du Moustier | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Faubourg Lacapelle | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Coulée Verte | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Chemin de l'École | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Chemin de Saint-Pierre | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Chemin de Matras | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Boulevard Montauriol | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Boulevard Blaise Doumerc | 1 | 2% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| **Total** | 12 | 27% | 92%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Pont Vieux | 3 | <img src="../../img/bar_25.gif" />&nbsp;25%|
+| Quai de Verdun | 1 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Faubourg du Moustier | 1 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Faubourg Lacapelle | 1 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Coulée Verte | 1 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Chemin de l'École | 1 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Chemin de Saint-Pierre | 1 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Chemin de Matras | 1 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Boulevard Montauriol | 1 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Boulevard Blaise Doumerc | 1 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| **Total** | 12 | 100%|

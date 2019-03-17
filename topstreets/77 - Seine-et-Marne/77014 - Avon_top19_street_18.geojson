@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 279550627,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7292289,
+                        48.4180465
+                    ],
+                    [
+                        2.7293318,
+                        48.4180774
+                    ],
+                    [
+                        2.7299594,
+                        48.4182738
+                    ],
+                    [
+                        2.7319353,
+                        48.4188589
+                    ],
+                    [
+                        2.7324208,
+                        48.4189962
+                    ],
+                    [
+                        2.7337954,
+                        48.419411
+                    ],
+                    [
+                        2.7342289,
+                        48.4195418
+                    ],
+                    [
+                        2.7346467,
+                        48.4196679
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral de Gaulle",
+                "ref": "D 210",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 572525799,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7280945,
+                        48.4177005
+                    ],
+                    [
+                        2.7282529,
+                        48.4177676
+                    ],
+                    [
+                        2.7289499,
+                        48.4179628
+                    ],
+                    [
+                        2.7291176,
+                        48.4180131
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral de Gaulle",
+                "ref": "D 210",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 601098680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7280945,
+                        48.4177005
+                    ],
+                    [
+                        2.7274461,
+                        48.4175017
+                    ],
+                    [
+                        2.7272807,
+                        48.417467
+                    ],
+                    [
+                        2.7271578,
+                        48.4174411
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral de Gaulle",
+                "ref": "D 210",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 601098681,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7292289,
+                        48.4180465
+                    ],
+                    [
+                        2.7291176,
+                        48.4180131
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral de Gaulle",
+                "ref": "D 210",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

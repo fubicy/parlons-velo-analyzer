@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34956605,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.184836,
+                        48.9210901
+                    ],
+                    [
+                        2.1841381,
+                        48.9223264
+                    ],
+                    [
+                        2.1839025,
+                        48.9227311
+                    ],
+                    [
+                        2.1834466,
+                        48.9236143
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue de Verdun",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25831798,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7192657,
+                        48.5945213
+                    ],
+                    [
+                        7.7192306,
+                        48.5944587
+                    ],
+                    [
+                        7.7190529,
+                        48.5939792
+                    ],
+                    [
+                        7.7188769,
+                        48.5934673
+                    ],
+                    [
+                        7.7187732,
+                        48.5931247
+                    ],
+                    [
+                        7.7186546,
+                        48.5926895
+                    ],
+                    [
+                        7.7185755,
+                        48.5924319
+                    ],
+                    [
+                        7.718541,
+                        48.5923634
+                    ],
+                    [
+                        7.7184819,
+                        48.5922097
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Renards",
+                "name:gsw": "Fuchsgass",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "width": "3.1",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

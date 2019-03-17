@@ -1,0 +1,116 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27419862,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6203037,
+                        44.8813147
+                    ],
+                    [
+                        6.6203656,
+                        44.8813226
+                    ],
+                    [
+                        6.6204147,
+                        44.8813245
+                    ],
+                    [
+                        6.6204778,
+                        44.8813156
+                    ],
+                    [
+                        6.6205428,
+                        44.8812926
+                    ],
+                    [
+                        6.6205864,
+                        44.881267
+                    ],
+                    [
+                        6.6206358,
+                        44.8812219
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Ancienne Route Nationale",
+                "oneway": "yes",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 208627140,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6207095,
+                        44.8813397
+                    ],
+                    [
+                        6.6206422,
+                        44.8813586
+                    ],
+                    [
+                        6.6204993,
+                        44.8813691
+                    ],
+                    [
+                        6.6204068,
+                        44.8813578
+                    ],
+                    [
+                        6.620351,
+                        44.8813401
+                    ],
+                    [
+                        6.6203037,
+                        44.8813147
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Saint-Blaise;Chamandrin",
+                "highway": "tertiary",
+                "name": "Ancienne Route Nationale",
+                "oneway": "yes",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234884757,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.6159169,
+                        44.8780392
+                    ],
+                    [
+                        6.6158489,
+                        44.8779642
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "layer": "1",
+                "maxspeed": "30",
+                "name": "Ancienne Route Nationale",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

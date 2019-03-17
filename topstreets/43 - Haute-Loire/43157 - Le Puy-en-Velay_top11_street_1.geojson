@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25381842,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8890963,
+                        45.0426502
+                    ],
+                    [
+                        3.8891291,
+                        45.0427116
+                    ],
+                    [
+                        3.8893025,
+                        45.0429308
+                    ],
+                    [
+                        3.8893512,
+                        45.0429924
+                    ],
+                    [
+                        3.8894986,
+                        45.0431564
+                    ],
+                    [
+                        3.8895494,
+                        45.0432136
+                    ],
+                    [
+                        3.8897534,
+                        45.043443
+                    ],
+                    [
+                        3.889852,
+                        45.0435539
+                    ],
+                    [
+                        3.88989,
+                        45.0435995
+                    ],
+                    [
+                        3.8907048,
+                        45.0446983
+                    ],
+                    [
+                        3.8907471,
+                        45.0447548
+                    ],
+                    [
+                        3.8908129,
+                        45.0448444
+                    ],
+                    [
+                        3.8912221,
+                        45.0454275
+                    ],
+                    [
+                        3.8913536,
+                        45.045613
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "ref": "N 88",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 568911007,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8913536,
+                        45.045613
+                    ],
+                    [
+                        3.8917145,
+                        45.0461223
+                    ],
+                    [
+                        3.8917839,
+                        45.0462222
+                    ],
+                    [
+                        3.8919302,
+                        45.0464293
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard de la R\u00e9publique",
+                "oneway": "yes",
+                "ref": "N 88",
+                "source:maxspeed": "FR:urban",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

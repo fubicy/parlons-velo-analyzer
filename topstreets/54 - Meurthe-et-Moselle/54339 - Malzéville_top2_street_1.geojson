@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 159167309,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1846883,
+                        48.7090222
+                    ],
+                    [
+                        6.1846738,
+                        48.7089294
+                    ],
+                    [
+                        6.1846845,
+                        48.708828
+                    ],
+                    [
+                        6.1846958,
+                        48.7087201
+                    ],
+                    [
+                        6.1847393,
+                        48.7080808
+                    ],
+                    [
+                        6.184751,
+                        48.7079079
+                    ],
+                    [
+                        6.1847994,
+                        48.7071445
+                    ],
+                    [
+                        6.1848048,
+                        48.7070784
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Sadi Carnot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 213430405,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1848118,
+                        48.7069956
+                    ],
+                    [
+                        6.1848133,
+                        48.7069057
+                    ],
+                    [
+                        6.1848016,
+                        48.7068524
+                    ],
+                    [
+                        6.1847585,
+                        48.7067727
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Rue Sadi Carnot",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 343216277,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1848048,
+                        48.7070784
+                    ],
+                    [
+                        6.1848118,
+                        48.7069956
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Sadi Carnot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

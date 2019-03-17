@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 36559500,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3571491,
+                        44.0153694
+                    ],
+                    [
+                        1.3587327,
+                        44.0145701
+                    ],
+                    [
+                        1.3596734,
+                        44.0140576
+                    ],
+                    [
+                        1.360244,
+                        44.0137536
+                    ],
+                    [
+                        1.3607204,
+                        44.0135062
+                    ],
+                    [
+                        1.3607993,
+                        44.0134647
+                    ],
+                    [
+                        1.3610188,
+                        44.0133491
+                    ],
+                    [
+                        1.3620792,
+                        44.0128058
+                    ],
+                    [
+                        1.3629342,
+                        44.0123726
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Faubourg Lacapelle",
+                "oneway": "yes",
+                "ref": "D 8",
+                "ref:FR:FANTOIR": "821214151U",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 237041300,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3629342,
+                        44.0123726
+                    ],
+                    [
+                        1.3629938,
+                        44.0123479
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Faubourg Lacapelle",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 330202846,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3629938,
+                        44.0123479
+                    ],
+                    [
+                        1.3630552,
+                        44.0123227
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Faubourg Lacapelle",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

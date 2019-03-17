@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 38934702,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6258617,
+                        44.8387843
+                    ],
+                    [
+                        -0.6257406,
+                        44.8387756
+                    ],
+                    [
+                        -0.6250151,
+                        44.8387259
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue de M\u00e9rignac",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 221251412,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6250151,
+                        44.8387259
+                    ],
+                    [
+                        -0.6244642,
+                        44.8386898
+                    ],
+                    [
+                        -0.6239826,
+                        44.8386582
+                    ],
+                    [
+                        -0.6233817,
+                        44.8386095
+                    ],
+                    [
+                        -0.6223432,
+                        44.8385365
+                    ],
+                    [
+                        -0.621481,
+                        44.8385638
+                    ],
+                    [
+                        -0.6211605,
+                        44.8385693
+                    ],
+                    [
+                        -0.6210214,
+                        44.838573
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue de M\u00e9rignac",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

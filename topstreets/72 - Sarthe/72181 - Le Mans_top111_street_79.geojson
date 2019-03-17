@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24811124,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1980761,
+                        48.0027353
+                    ],
+                    [
+                        0.1981479,
+                        48.0027673
+                    ],
+                    [
+                        0.1990343,
+                        48.0031565
+                    ],
+                    [
+                        0.1990644,
+                        48.0031697
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Saint-Charles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26547709,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1972509,
+                        48.0023442
+                    ],
+                    [
+                        0.1978934,
+                        48.0026488
+                    ],
+                    [
+                        0.1980054,
+                        48.0027017
+                    ],
+                    [
+                        0.1980377,
+                        48.002717
+                    ],
+                    [
+                        0.1980581,
+                        48.0027267
+                    ],
+                    [
+                        0.1980761,
+                        48.0027353
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "maxspeed": "20",
+                "motor_vehicle": "private",
+                "name": "Rue Saint-Charles",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

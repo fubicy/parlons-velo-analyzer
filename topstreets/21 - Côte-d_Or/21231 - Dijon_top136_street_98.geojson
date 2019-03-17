@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23281072,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0368931,
+                        47.3212177
+                    ],
+                    [
+                        5.0367943,
+                        47.3212287
+                    ],
+                    [
+                        5.0365464,
+                        47.3212257
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Michelet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256061498,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0365464,
+                        47.3212257
+                    ],
+                    [
+                        5.0356743,
+                        47.3211973
+                    ],
+                    [
+                        5.0353731,
+                        47.3211873
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Michelet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 280260222,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0369626,
+                        47.3212012
+                    ],
+                    [
+                        5.0368931,
+                        47.3212177
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Michelet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28844592,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3283733,
+                        48.771213
+                    ],
+                    [
+                        2.3287049,
+                        48.7710969
+                    ],
+                    [
+                        2.3287987,
+                        48.771064
+                    ],
+                    [
+                        2.3288626,
+                        48.7710419
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Blondeaux",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69179338,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3265699,
+                        48.7718299
+                    ],
+                    [
+                        2.326742,
+                        48.7720285
+                    ],
+                    [
+                        2.3268105,
+                        48.7721164
+                    ],
+                    [
+                        2.3272362,
+                        48.7726631
+                    ],
+                    [
+                        2.327526,
+                        48.7730438
+                    ],
+                    [
+                        2.3272171,
+                        48.7733793
+                    ],
+                    [
+                        2.3267979,
+                        48.7738055
+                    ],
+                    [
+                        2.3266258,
+                        48.7739887
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Blondeaux",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69179342,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3265699,
+                        48.7718299
+                    ],
+                    [
+                        2.3266818,
+                        48.7717918
+                    ],
+                    [
+                        2.3273065,
+                        48.771579
+                    ],
+                    [
+                        2.3278139,
+                        48.7714066
+                    ],
+                    [
+                        2.3282656,
+                        48.7712526
+                    ],
+                    [
+                        2.3283733,
+                        48.771213
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Blondeaux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 49426739,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6662254,
+                        48.1124879
+                    ],
+                    [
+                        -1.6662127,
+                        48.1125434
+                    ],
+                    [
+                        -1.6661267,
+                        48.1133216
+                    ],
+                    [
+                        -1.6660483,
+                        48.1138758
+                    ],
+                    [
+                        -1.6659742,
+                        48.1144
+                    ],
+                    [
+                        -1.6659387,
+                        48.1145989
+                    ],
+                    [
+                        -1.6658929,
+                        48.1147128
+                    ],
+                    [
+                        -1.6658562,
+                        48.1149986
+                    ],
+                    [
+                        -1.6658502,
+                        48.1150639
+                    ],
+                    [
+                        -1.6658314,
+                        48.1153706
+                    ],
+                    [
+                        -1.6661599,
+                        48.116141
+                    ],
+                    [
+                        -1.6661718,
+                        48.1161689
+                    ],
+                    [
+                        -1.6661804,
+                        48.1161891
+                    ],
+                    [
+                        -1.6662208,
+                        48.1162791
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard de la Duchesse Anne",
+                "name:br": "Boulouard an Dugez Anna",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49426740,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6674321,
+                        48.1192861
+                    ],
+                    [
+                        -1.6674756,
+                        48.1193543
+                    ],
+                    [
+                        -1.6681352,
+                        48.1203878
+                    ],
+                    [
+                        -1.6681639,
+                        48.1204328
+                    ],
+                    [
+                        -1.6682224,
+                        48.120525
+                    ],
+                    [
+                        -1.6693761,
+                        48.1223415
+                    ],
+                    [
+                        -1.6694002,
+                        48.1223772
+                    ],
+                    [
+                        -1.669444,
+                        48.1224347
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "secondary",
+                "name": "Boulevard de la Duchesse Anne",
+                "name:br": "Boulouard an Dugez Anna",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 266089689,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6662208,
+                        48.1162791
+                    ],
+                    [
+                        -1.6662323,
+                        48.1163145
+                    ],
+                    [
+                        -1.6662457,
+                        48.1163481
+                    ],
+                    [
+                        -1.6668877,
+                        48.1179529
+                    ],
+                    [
+                        -1.6673841,
+                        48.1191686
+                    ],
+                    [
+                        -1.6673932,
+                        48.1191908
+                    ],
+                    [
+                        -1.6674321,
+                        48.1192861
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard de la Duchesse Anne",
+                "name:br": "Boulouard an Dugez Anna",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

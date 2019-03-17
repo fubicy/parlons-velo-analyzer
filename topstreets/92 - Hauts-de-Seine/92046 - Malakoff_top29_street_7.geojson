@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17237617,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2930597,
+                        48.812996
+                    ],
+                    [
+                        2.2931391,
+                        48.8130273
+                    ],
+                    [
+                        2.2935035,
+                        48.8131941
+                    ],
+                    [
+                        2.2940388,
+                        48.8134392
+                    ],
+                    [
+                        2.2940977,
+                        48.8134656
+                    ],
+                    [
+                        2.2954781,
+                        48.8140834
+                    ],
+                    [
+                        2.2955371,
+                        48.8141098
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Rue Alexis Martin",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2015",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

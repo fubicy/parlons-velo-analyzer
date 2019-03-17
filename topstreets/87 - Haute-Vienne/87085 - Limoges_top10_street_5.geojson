@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31150004,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2698757,
+                        45.8257464
+                    ],
+                    [
+                        1.2684555,
+                        45.825982
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:backward": "2",
+                "lanes:forward": "3",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont Neuf",
+                "ref": "D 941",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "trolley_wire": "yes",
+                "turn:lanes:forward": "left|through|through;slight_right",
+                "wikidata": "Q3396665",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

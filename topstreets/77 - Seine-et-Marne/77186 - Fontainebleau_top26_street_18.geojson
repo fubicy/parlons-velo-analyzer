@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16071843,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6884679,
+                        48.4067215
+                    ],
+                    [
+                        2.6883,
+                        48.4066
+                    ],
+                    [
+                        2.6877024,
+                        48.4059987
+                    ],
+                    [
+                        2.6873021,
+                        48.4056204
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Paul Tavernier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39498049,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6873021,
+                        48.4056204
+                    ],
+                    [
+                        2.687339,
+                        48.405473
+                    ],
+                    [
+                        2.6873634,
+                        48.4054316
+                    ],
+                    [
+                        2.6874127,
+                        48.4053526
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Paul Tavernier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 552538437,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.6873021,
+                        48.4056204
+                    ],
+                    [
+                        2.687073,
+                        48.4054167
+                    ],
+                    [
+                        2.6869219,
+                        48.405417
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Paul Tavernier",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 374837359,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8204109,
+                        45.7923059
+                    ],
+                    [
+                        4.8202675,
+                        45.7921924
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Joannes Carret",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "1265",
+                "route_ref": "31A:R,43A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374837360,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8212529,
+                        45.7929112
+                    ],
+                    [
+                        4.8213962,
+                        45.7930248
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Joannes Carret",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "1264",
+                "route_ref": "31A:A,43A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425628469,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8212409,
+                        45.7931743
+                    ],
+                    [
+                        4.8210871,
+                        45.7930908
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Joannes Carret",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "30567",
+                "route_ref": "S10A:A,S10A:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 35775873,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3776779,
+                        43.2963857
+                    ],
+                    [
+                        5.3776631,
+                        43.2964123
+                    ],
+                    [
+                        5.3772112,
+                        43.297215
+                    ],
+                    [
+                        5.3770964,
+                        43.2974129
+                    ],
+                    [
+                        5.3767937,
+                        43.2979523
+                    ],
+                    [
+                        5.3767602,
+                        43.2980069
+                    ],
+                    [
+                        5.3765284,
+                        43.2984165
+                    ],
+                    [
+                        5.3764081,
+                        43.298629
+                    ],
+                    [
+                        5.3761931,
+                        43.2990087
+                    ],
+                    [
+                        5.376187,
+                        43.2990195
+                    ],
+                    [
+                        5.3761713,
+                        43.2990472
+                    ],
+                    [
+                        5.3761509,
+                        43.2990832
+                    ],
+                    [
+                        5.3761204,
+                        43.2991391
+                    ],
+                    [
+                        5.3761075,
+                        43.2991599
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Cours Belsunce",
+                "old_name": "Le Cours;Le Grand Cours;Cours des Phoc\u00e9ens",
+                "oneway": "yes",
+                "source": "survey mars 2016",
+                "surface": "paving_stones",
+                "wikipedia": "fr:Cours Belsunce",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120879006,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3771808,
+                        43.2971072
+                    ],
+                    [
+                        5.3773176,
+                        43.2968657
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "name": "Cours Belsunce",
+                "oneway": "yes",
+                "psv": "yes",
+                "source": "survey mars 2016",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120879012,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3771808,
+                        43.2971072
+                    ],
+                    [
+                        5.3771907,
+                        43.2971423
+                    ],
+                    [
+                        5.3772112,
+                        43.297215
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "unclassified",
+                "lanes": "1",
+                "name": "Cours Belsunce",
+                "oneway": "yes",
+                "source": "survey mars 2016",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 405354910,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3773176,
+                        43.2968657
+                    ],
+                    [
+                        5.377362,
+                        43.2967824
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "name": "Cours Belsunce",
+                "oneway": "yes",
+                "psv": "yes",
+                "source": "survey mars 2016",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

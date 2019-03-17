@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25851787,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.765348,
+                        48.0693741
+                    ],
+                    [
+                        -0.7651872,
+                        48.0689737
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "unclassified",
+                "lanes": "1",
+                "maxspeed": "20",
+                "name": "Rue de Paradis",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377894305,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7651872,
+                        48.0689737
+                    ],
+                    [
+                        -0.7651498,
+                        48.0687125
+                    ],
+                    [
+                        -0.7651291,
+                        48.0685594
+                    ],
+                    [
+                        -0.7651087,
+                        48.0684086
+                    ],
+                    [
+                        -0.7649596,
+                        48.0674828
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "unclassified",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue de Paradis",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

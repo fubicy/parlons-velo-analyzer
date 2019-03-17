@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 59153652,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8420899,
+                        45.7545012
+                    ],
+                    [
+                        4.8416881,
+                        45.7539189
+                    ],
+                    [
+                        4.8413361,
+                        45.7534211
+                    ],
+                    [
+                        4.8410955,
+                        45.7530695
+                    ],
+                    [
+                        4.8410549,
+                        45.7530084
+                    ],
+                    [
+                        4.8409877,
+                        45.7529086
+                    ],
+                    [
+                        4.8409362,
+                        45.7528323
+                    ],
+                    [
+                        4.8408908,
+                        45.7527649
+                    ],
+                    [
+                        4.8407132,
+                        45.7525139
+                    ],
+                    [
+                        4.8403083,
+                        45.7519201
+                    ],
+                    [
+                        4.8402812,
+                        45.7518803
+                    ],
+                    [
+                        4.8399914,
+                        45.7514966
+                    ],
+                    [
+                        4.8395471,
+                        45.7508453
+                    ],
+                    [
+                        4.8395228,
+                        45.7508109
+                    ],
+                    [
+                        4.8394705,
+                        45.7507024
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue de Marseille",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 208005540,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8394705,
+                        45.7507024
+                    ],
+                    [
+                        4.8394306,
+                        45.7506226
+                    ],
+                    [
+                        4.8384304,
+                        45.7491786
+                    ],
+                    [
+                        4.837937,
+                        45.748476
+                    ],
+                    [
+                        4.8378947,
+                        45.7484158
+                    ],
+                    [
+                        4.8378678,
+                        45.7483767
+                    ],
+                    [
+                        4.8373848,
+                        45.7476773
+                    ],
+                    [
+                        4.8373622,
+                        45.7476449
+                    ],
+                    [
+                        4.8373338,
+                        45.747604
+                    ],
+                    [
+                        4.8370197,
+                        45.7471518
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue de Marseille",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "survey",
+                "source:date": "2014-10-29",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 440702542,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8370197,
+                        45.7471518
+                    ],
+                    [
+                        4.836988,
+                        45.7471296
+                    ],
+                    [
+                        4.8368618,
+                        45.746957
+                    ],
+                    [
+                        4.8368501,
+                        45.7469358
+                    ],
+                    [
+                        4.8368317,
+                        45.7469022
+                    ],
+                    [
+                        4.8368178,
+                        45.7468768
+                    ],
+                    [
+                        4.8367795,
+                        45.7468069
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue de Marseille",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "survey",
+                "source:date": "2014-10-29",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 440702543,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8367795,
+                        45.7468069
+                    ],
+                    [
+                        4.8367406,
+                        45.7467513
+                    ],
+                    [
+                        4.8364925,
+                        45.7463968
+                    ],
+                    [
+                        4.8362784,
+                        45.7460908
+                    ],
+                    [
+                        4.8362476,
+                        45.7460468
+                    ],
+                    [
+                        4.8362151,
+                        45.7460003
+                    ],
+                    [
+                        4.8359953,
+                        45.7456817
+                    ],
+                    [
+                        4.8359796,
+                        45.745655
+                    ],
+                    [
+                        4.8359541,
+                        45.745607
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue de Marseille",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "survey",
+                "source:date": "2014-10-29",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

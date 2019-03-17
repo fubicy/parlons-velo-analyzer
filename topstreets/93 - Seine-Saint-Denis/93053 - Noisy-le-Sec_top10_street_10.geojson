@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 35284557,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4582123,
+                        48.8943277
+                    ],
+                    [
+                        2.4586423,
+                        48.8941561
+                    ],
+                    [
+                        2.4597716,
+                        48.8937054
+                    ],
+                    [
+                        2.4610322,
+                        48.8931975
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Boulevard Gambetta",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35535818,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4610322,
+                        48.8931975
+                    ],
+                    [
+                        2.4628722,
+                        48.8924498
+                    ],
+                    [
+                        2.4637681,
+                        48.8920936
+                    ],
+                    [
+                        2.4647766,
+                        48.891695
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "track",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Boulevard Gambetta",
+                "oneway": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 44092449,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0885465,
+                        43.6129086
+                    ],
+                    [
+                        1.0884572,
+                        43.6129295
+                    ],
+                    [
+                        1.088106,
+                        43.6130154
+                    ],
+                    [
+                        1.0866254,
+                        43.6132313
+                    ],
+                    [
+                        1.0859005,
+                        43.6133431
+                    ],
+                    [
+                        1.0858261,
+                        43.6133546
+                    ],
+                    [
+                        1.0856273,
+                        43.6133855
+                    ],
+                    [
+                        1.0841971,
+                        43.6136076
+                    ],
+                    [
+                        1.0841001,
+                        43.6136227
+                    ],
+                    [
+                        1.0840027,
+                        43.6136378
+                    ]
+                ]
+            },
+            "properties": {
+                "bilingual_street_sign": "yes",
+                "highway": "secondary",
+                "name": "Avenue Charles De Gaulle",
+                "name:oc": "Avenguda de Tolosa",
+                "ref": "D 924",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:name:oc": "Escota \u00e9 Minja",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 625641273,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0840027,
+                        43.6136378
+                    ],
+                    [
+                        1.0835728,
+                        43.6137046
+                    ],
+                    [
+                        1.0835279,
+                        43.6137116
+                    ],
+                    [
+                        1.0833883,
+                        43.6137333
+                    ]
+                ]
+            },
+            "properties": {
+                "bilingual_street_sign": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "name": "Avenue Charles De Gaulle",
+                "name:oc": "Avenguda de Tolosa",
+                "ref": "D 924",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:name:oc": "Escota \u00e9 Minja",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

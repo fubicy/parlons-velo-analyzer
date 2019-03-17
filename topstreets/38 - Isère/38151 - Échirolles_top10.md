@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 61 réponses dont 44 réponses avec une rue
 
 28 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Hôpital Sud | 4 | 6% | <img src="../../img/bar_9.gif" />&nbsp;9%|
-| Comboire | 4 | 6% | <img src="../../img/bar_9.gif" />&nbsp;9%|
-| Rue de Provence | 3 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Grugliasco | 3 | 4% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Rue Pierre Semard | 2 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Paul Langevin | 2 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Paul Héroult | 2 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Avenue des États Généraux | 2 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Avenue de Grugliasco | 2 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Avenue Salvador Allende | 2 | 3% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| **Total** | 26 | 42% | 59%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Hôpital Sud | 4 | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| Comboire | 4 | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| Rue de Provence | 3 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Grugliasco | 3 | <img src="../../img/bar_11.gif" />&nbsp;11%|
+| Rue Pierre Semard | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Paul Langevin | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Paul Héroult | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Avenue des États Généraux | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Avenue de Grugliasco | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| Avenue Salvador Allende | 2 | <img src="../../img/bar_7.gif" />&nbsp;7%|
+| **Total** | 26 | 100%|

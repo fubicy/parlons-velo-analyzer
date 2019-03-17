@@ -1,0 +1,272 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 52524267,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8598909,
+                        45.7910142
+                    ],
+                    [
+                        4.8601254,
+                        45.791014
+                    ],
+                    [
+                        4.860249,
+                        45.7910126
+                    ],
+                    [
+                        4.860306,
+                        45.791012
+                    ],
+                    [
+                        4.8603581,
+                        45.7910114
+                    ],
+                    [
+                        4.8604481,
+                        45.7910104
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary_link",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Grande Rue de Saint-Clair",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "turn:lanes": "through|through;right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52582770,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8598909,
+                        45.7910142
+                    ],
+                    [
+                        4.8598236,
+                        45.7909911
+                    ],
+                    [
+                        4.8597601,
+                        45.7909693
+                    ],
+                    [
+                        4.8596866,
+                        45.790944
+                    ],
+                    [
+                        4.8595768,
+                        45.7909073
+                    ],
+                    [
+                        4.859503,
+                        45.7908827
+                    ],
+                    [
+                        4.8589186,
+                        45.7906811
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:source": "FR:urban",
+                "name": "Grande Rue de Saint-Clair",
+                "old_ref": "N 83",
+                "parking:lane:both": "parallel",
+                "sidewalk": "both",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52582771,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8589186,
+                        45.7906811
+                    ],
+                    [
+                        4.8587274,
+                        45.7906114
+                    ],
+                    [
+                        4.8584279,
+                        45.7905023
+                    ],
+                    [
+                        4.858178,
+                        45.7904095
+                    ],
+                    [
+                        4.8579517,
+                        45.7903276
+                    ],
+                    [
+                        4.8578042,
+                        45.7902742
+                    ],
+                    [
+                        4.8576358,
+                        45.7902127
+                    ],
+                    [
+                        4.8572541,
+                        45.7900717
+                    ],
+                    [
+                        4.8569605,
+                        45.7899632
+                    ],
+                    [
+                        4.8565862,
+                        45.7898258
+                    ],
+                    [
+                        4.8561327,
+                        45.7896586
+                    ],
+                    [
+                        4.8550329,
+                        45.7892526
+                    ],
+                    [
+                        4.8544449,
+                        45.7890364
+                    ],
+                    [
+                        4.8532967,
+                        45.7886131
+                    ],
+                    [
+                        4.8531292,
+                        45.7885514
+                    ],
+                    [
+                        4.8528056,
+                        45.7884276
+                    ],
+                    [
+                        4.8527548,
+                        45.7883993
+                    ],
+                    [
+                        4.852644,
+                        45.7883312
+                    ],
+                    [
+                        4.8526193,
+                        45.788316
+                    ],
+                    [
+                        4.8510003,
+                        45.7872784
+                    ],
+                    [
+                        4.8486146,
+                        45.786005
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Grande Rue de Saint-Clair",
+                "old_ref": "N 83",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99245915,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8604798,
+                        45.7912204
+                    ],
+                    [
+                        4.8603761,
+                        45.7911841
+                    ],
+                    [
+                        4.8602615,
+                        45.7911444
+                    ],
+                    [
+                        4.8601025,
+                        45.791087
+                    ],
+                    [
+                        4.8598909,
+                        45.7910142
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Caluire - Saint-Clair",
+                "highway": "secondary_link",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Grande Rue de Saint-Clair",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 392189963,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8593403,
+                        45.7907878
+                    ],
+                    [
+                        4.8595445,
+                        45.7908596
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Grande Rue de Saint-Clair",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "11940",
+                "route_ref": "9A:A",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

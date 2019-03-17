@@ -1,0 +1,134 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24015472,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.316111,
+                        48.8891025
+                    ],
+                    [
+                        2.316205,
+                        48.8890525
+                    ],
+                    [
+                        2.3171763,
+                        48.888463
+                    ],
+                    [
+                        2.3172553,
+                        48.8884143
+                    ],
+                    [
+                        2.3173433,
+                        48.8883617
+                    ],
+                    [
+                        2.3183556,
+                        48.8877592
+                    ],
+                    [
+                        2.3193273,
+                        48.8871989
+                    ],
+                    [
+                        2.3193809,
+                        48.887168
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Truffaut",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59846860,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3193809,
+                        48.887168
+                    ],
+                    [
+                        2.3194454,
+                        48.8871274
+                    ],
+                    [
+                        2.3194489,
+                        48.8871252
+                    ],
+                    [
+                        2.3207599,
+                        48.8863
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "name": "Rue Truffaut",
+                "oneway": "yes",
+                "surface": "paving_stones",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77628892,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3207599,
+                        48.8863
+                    ],
+                    [
+                        2.3216386,
+                        48.8857482
+                    ],
+                    [
+                        2.3227927,
+                        48.8848202
+                    ],
+                    [
+                        2.323468,
+                        48.8842795
+                    ],
+                    [
+                        2.3235279,
+                        48.8842323
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Truffaut",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,932 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22662370,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0625637,
+                        50.6321706
+                    ],
+                    [
+                        3.0624453,
+                        50.632105
+                    ],
+                    [
+                        3.0621629,
+                        50.6319027
+                    ],
+                    [
+                        3.0620421,
+                        50.6318166
+                    ],
+                    [
+                        3.0619793,
+                        50.6317709
+                    ],
+                    [
+                        3.0619159,
+                        50.6317259
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88899651,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.06477,
+                        50.6330695
+                    ],
+                    [
+                        3.0643577,
+                        50.6329105
+                    ],
+                    [
+                        3.0641073,
+                        50.6328052
+                    ],
+                    [
+                        3.063756,
+                        50.6326566
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88899655,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0663759,
+                        50.6337318
+                    ],
+                    [
+                        3.0661546,
+                        50.6336335
+                    ],
+                    [
+                        3.0656829,
+                        50.6334391
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88899672,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.063756,
+                        50.6326566
+                    ],
+                    [
+                        3.0636083,
+                        50.6325846
+                    ],
+                    [
+                        3.0635152,
+                        50.632559
+                    ],
+                    [
+                        3.0633895,
+                        50.632521
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88899680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0688408,
+                        50.6347835
+                    ],
+                    [
+                        3.0686935,
+                        50.6347208
+                    ],
+                    [
+                        3.0685983,
+                        50.6346883
+                    ],
+                    [
+                        3.0684377,
+                        50.6346264
+                    ],
+                    [
+                        3.0682795,
+                        50.6345822
+                    ],
+                    [
+                        3.0679197,
+                        50.634479
+                    ],
+                    [
+                        3.0678819,
+                        50.6344685
+                    ],
+                    [
+                        3.0677644,
+                        50.6344193
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "shared_lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101602051,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.9732775,
+                        50.6493888
+                    ],
+                    [
+                        2.9727773,
+                        50.6498711
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Molinel",
+                "ref:FR:FANTOIR": "593509544M",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2015",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101602074,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.9738374,
+                        50.6487146
+                    ],
+                    [
+                        2.9737654,
+                        50.6489687
+                    ],
+                    [
+                        2.9736987,
+                        50.6490273
+                    ],
+                    [
+                        2.9735446,
+                        50.6491348
+                    ],
+                    [
+                        2.973411,
+                        50.6492488
+                    ],
+                    [
+                        2.9732775,
+                        50.6493888
+                    ],
+                    [
+                        2.9728806,
+                        50.6492311
+                    ],
+                    [
+                        2.9727162,
+                        50.6494161
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Molinel",
+                "ref:FR:FANTOIR": "593509544M",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2015",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101602102,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.9751622,
+                        50.6489875
+                    ],
+                    [
+                        2.9747259,
+                        50.6489459
+                    ],
+                    [
+                        2.9744332,
+                        50.6489068
+                    ],
+                    [
+                        2.9739606,
+                        50.6489166
+                    ],
+                    [
+                        2.9737654,
+                        50.6489687
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Molinel",
+                "ref:FR:FANTOIR": "593509544M",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2015",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143942378,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0677644,
+                        50.6344193
+                    ],
+                    [
+                        3.0676579,
+                        50.6343615
+                    ],
+                    [
+                        3.0672241,
+                        50.6341577
+                    ],
+                    [
+                        3.0665014,
+                        50.6337862
+                    ],
+                    [
+                        3.0663759,
+                        50.6337318
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149922032,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0699872,
+                        50.6354072
+                    ],
+                    [
+                        3.0699417,
+                        50.6353794
+                    ],
+                    [
+                        3.0698492,
+                        50.6353129
+                    ],
+                    [
+                        3.0697733,
+                        50.635266
+                    ],
+                    [
+                        3.0693201,
+                        50.6350214
+                    ],
+                    [
+                        3.0689299,
+                        50.6348221
+                    ],
+                    [
+                        3.0688408,
+                        50.6347835
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151353328,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0633895,
+                        50.632521
+                    ],
+                    [
+                        3.0632028,
+                        50.6324586
+                    ],
+                    [
+                        3.0629311,
+                        50.6323408
+                    ],
+                    [
+                        3.0626397,
+                        50.6322077
+                    ],
+                    [
+                        3.0625637,
+                        50.6321706
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167974273,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0676468,
+                        50.6342625
+                    ],
+                    [
+                        3.0676894,
+                        50.6342687
+                    ],
+                    [
+                        3.0677417,
+                        50.6342955
+                    ],
+                    [
+                        3.0677692,
+                        50.6343062
+                    ],
+                    [
+                        3.0677962,
+                        50.6343226
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167980920,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0637552,
+                        50.632596
+                    ],
+                    [
+                        3.0639444,
+                        50.6326612
+                    ],
+                    [
+                        3.0648004,
+                        50.6330076
+                    ],
+                    [
+                        3.0648845,
+                        50.6330405
+                    ],
+                    [
+                        3.0649831,
+                        50.633079
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167980922,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0618353,
+                        50.6316708
+                    ],
+                    [
+                        3.0618966,
+                        50.6316743
+                    ],
+                    [
+                        3.0619369,
+                        50.6316812
+                    ],
+                    [
+                        3.0619707,
+                        50.6316941
+                    ],
+                    [
+                        3.062017,
+                        50.6317193
+                    ],
+                    [
+                        3.0620487,
+                        50.6317472
+                    ],
+                    [
+                        3.0620829,
+                        50.6317799
+                    ],
+                    [
+                        3.0623369,
+                        50.6319613
+                    ],
+                    [
+                        3.0624203,
+                        50.6320101
+                    ],
+                    [
+                        3.0624942,
+                        50.6320609
+                    ],
+                    [
+                        3.062613,
+                        50.6321181
+                    ],
+                    [
+                        3.0627577,
+                        50.6321852
+                    ],
+                    [
+                        3.062865,
+                        50.6322439
+                    ],
+                    [
+                        3.0629656,
+                        50.6322916
+                    ],
+                    [
+                        3.0630863,
+                        50.6323417
+                    ],
+                    [
+                        3.0632352,
+                        50.6324073
+                    ],
+                    [
+                        3.0633693,
+                        50.6324591
+                    ],
+                    [
+                        3.0634719,
+                        50.6324941
+                    ],
+                    [
+                        3.0635537,
+                        50.6325187
+                    ],
+                    [
+                        3.0636308,
+                        50.6325455
+                    ],
+                    [
+                        3.0637552,
+                        50.632596
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bus": "yes",
+                "busway": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "service",
+                "maxspeed": "50",
+                "motor_vehicle": "no",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167980923,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0649831,
+                        50.633079
+                    ],
+                    [
+                        3.0657924,
+                        50.6333979
+                    ],
+                    [
+                        3.0663094,
+                        50.6336057
+                    ],
+                    [
+                        3.0664093,
+                        50.6336484
+                    ],
+                    [
+                        3.0664783,
+                        50.6336828
+                    ],
+                    [
+                        3.0665689,
+                        50.6337339
+                    ],
+                    [
+                        3.0668159,
+                        50.6338525
+                    ],
+                    [
+                        3.0675264,
+                        50.6342239
+                    ],
+                    [
+                        3.067617,
+                        50.6342547
+                    ],
+                    [
+                        3.0676468,
+                        50.6342625
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197179391,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0703188,
+                        50.6356831
+                    ],
+                    [
+                        3.070242,
+                        50.6356122
+                    ],
+                    [
+                        3.0702067,
+                        50.6355891
+                    ],
+                    [
+                        3.0699872,
+                        50.6354072
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "surface": "paved",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220892117,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0688934,
+                        50.6347365
+                    ],
+                    [
+                        3.0689715,
+                        50.634788
+                    ],
+                    [
+                        3.0690726,
+                        50.6348357
+                    ],
+                    [
+                        3.0692437,
+                        50.6349241
+                    ],
+                    [
+                        3.0695167,
+                        50.6350595
+                    ],
+                    [
+                        3.0696385,
+                        50.6351283
+                    ],
+                    [
+                        3.0698102,
+                        50.6352354
+                    ],
+                    [
+                        3.0698973,
+                        50.6352822
+                    ],
+                    [
+                        3.0700999,
+                        50.6354107
+                    ],
+                    [
+                        3.0703046,
+                        50.6355511
+                    ],
+                    [
+                        3.0703212,
+                        50.6355755
+                    ],
+                    [
+                        3.0703601,
+                        50.6356072
+                    ],
+                    [
+                        3.0703938,
+                        50.6356481
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "lanes": "1",
+                "maxspeed": "50",
+                "motor_vehicle": "no",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "psv": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 506778435,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0677962,
+                        50.6343226
+                    ],
+                    [
+                        3.0678302,
+                        50.634344
+                    ],
+                    [
+                        3.0678753,
+                        50.634367
+                    ],
+                    [
+                        3.0679159,
+                        50.6343884
+                    ],
+                    [
+                        3.0681874,
+                        50.6344621
+                    ],
+                    [
+                        3.0684134,
+                        50.6345242
+                    ],
+                    [
+                        3.0685599,
+                        50.6345785
+                    ],
+                    [
+                        3.0687519,
+                        50.6346551
+                    ],
+                    [
+                        3.0687878,
+                        50.6346758
+                    ],
+                    [
+                        3.0688099,
+                        50.6346868
+                    ],
+                    [
+                        3.0688934,
+                        50.6347365
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "maxspeed": "50",
+                "motor_vehicle": "no",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "psv": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 548204431,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0688408,
+                        50.6347835
+                    ],
+                    [
+                        3.0688934,
+                        50.6347365
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue du Molinel",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 640391933,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0656829,
+                        50.6334391
+                    ],
+                    [
+                        3.0648335,
+                        50.6330952
+                    ],
+                    [
+                        3.06477,
+                        50.6330695
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue du Molinel",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

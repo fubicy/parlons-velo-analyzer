@@ -1,0 +1,444 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26709141,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2788534,
+                        49.8864036
+                    ],
+                    [
+                        2.2789653,
+                        49.8863211
+                    ],
+                    [
+                        2.2801298,
+                        49.8854112
+                    ],
+                    [
+                        2.2822694,
+                        49.8837565
+                    ],
+                    [
+                        2.2829383,
+                        49.8832226
+                    ],
+                    [
+                        2.2834541,
+                        49.8828936
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "primary",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26795161,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2834541,
+                        49.8828936
+                    ],
+                    [
+                        2.2830956,
+                        49.8832366
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "primary",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26832636,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.282135,
+                        49.8836885
+                    ],
+                    [
+                        2.2825634,
+                        49.8833471
+                    ],
+                    [
+                        2.2837065,
+                        49.882492
+                    ],
+                    [
+                        2.2838752,
+                        49.8824495
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26832637,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2847482,
+                        49.8820431
+                    ],
+                    [
+                        2.2844264,
+                        49.8823769
+                    ],
+                    [
+                        2.2824577,
+                        49.8838676
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246609299,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2834541,
+                        49.8828936
+                    ],
+                    [
+                        2.2848411,
+                        49.8818296
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "primary",
+                "name": "Boulevard Chateaudun",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246609300,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.285085,
+                        49.8817945
+                    ],
+                    [
+                        2.2849665,
+                        49.8818819
+                    ],
+                    [
+                        2.2847482,
+                        49.8820431
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary_link",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246609301,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2829383,
+                        49.8832226
+                    ],
+                    [
+                        2.2832332,
+                        49.8829561
+                    ],
+                    [
+                        2.2838752,
+                        49.8824495
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547315656,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2847482,
+                        49.8820431
+                    ],
+                    [
+                        2.2841462,
+                        49.8824778
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "merge_to_right|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547315658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2841462,
+                        49.8824778
+                    ],
+                    [
+                        2.2830956,
+                        49.8832366
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547315659,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2823659,
+                        49.8838139
+                    ],
+                    [
+                        2.282174,
+                        49.883957
+                    ],
+                    [
+                        2.2818468,
+                        49.8842044
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547315662,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2830956,
+                        49.8832366
+                    ],
+                    [
+                        2.2825159,
+                        49.8836952
+                    ],
+                    [
+                        2.2823659,
+                        49.8838139
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547316011,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2812881,
+                        49.8846129
+                    ],
+                    [
+                        2.2805083,
+                        49.8852025
+                    ],
+                    [
+                        2.2801558,
+                        49.8854621
+                    ],
+                    [
+                        2.27904,
+                        49.8863554
+                    ],
+                    [
+                        2.2790017,
+                        49.8863861
+                    ],
+                    [
+                        2.2789457,
+                        49.8864295
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547316015,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2818468,
+                        49.8842044
+                    ],
+                    [
+                        2.2812881,
+                        49.8846129
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "merge_to_right|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 653995899,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2838752,
+                        49.8824495
+                    ],
+                    [
+                        2.2847915,
+                        49.881743
+                    ],
+                    [
+                        2.2848266,
+                        49.8817231
+                    ],
+                    [
+                        2.2849677,
+                        49.8816432
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary_link",
+                "name": "Boulevard Chateaudun",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

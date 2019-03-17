@@ -1,0 +1,538 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30986828,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7247699,
+                        45.1896297
+                    ],
+                    [
+                        5.7247475,
+                        45.1896475
+                    ],
+                    [
+                        5.7247382,
+                        45.1896608
+                    ],
+                    [
+                        5.7247239,
+                        45.1896719
+                    ],
+                    [
+                        5.7246757,
+                        45.1897141
+                    ],
+                    [
+                        5.7246432,
+                        45.1897437
+                    ],
+                    [
+                        5.7243164,
+                        45.1900406
+                    ],
+                    [
+                        5.7242194,
+                        45.1901249
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "bicycle": "yes",
+                "bus": "yes",
+                "delivery": "yes",
+                "highway": "unclassified",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Boulevard \u00c9douard Rey",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "taxi": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38655117,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7227944,
+                        45.1914366
+                    ],
+                    [
+                        5.7226836,
+                        45.1915222
+                    ],
+                    [
+                        5.7222365,
+                        45.1919122
+                    ],
+                    [
+                        5.7218939,
+                        45.1922368
+                    ],
+                    [
+                        5.7218707,
+                        45.1922585
+                    ],
+                    [
+                        5.7218469,
+                        45.1922839
+                    ],
+                    [
+                        5.7217399,
+                        45.1924053
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Boulevard \u00c9douard Rey",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39513639,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7242194,
+                        45.1901249
+                    ],
+                    [
+                        5.7241622,
+                        45.1901777
+                    ],
+                    [
+                        5.7234795,
+                        45.1907995
+                    ],
+                    [
+                        5.7228724,
+                        45.1913547
+                    ],
+                    [
+                        5.7227944,
+                        45.1914366
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Boulevard \u00c9douard Rey",
+                "oneway": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866162,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7241735,
+                        45.1900325
+                    ],
+                    [
+                        5.7242199,
+                        45.1899915
+                    ],
+                    [
+                        5.724581,
+                        45.1896728
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866172,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7240846,
+                        45.1901119
+                    ],
+                    [
+                        5.7241278,
+                        45.1900729
+                    ],
+                    [
+                        5.7241735,
+                        45.1900325
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866174,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7234321,
+                        45.1907021
+                    ],
+                    [
+                        5.7240614,
+                        45.1901329
+                    ],
+                    [
+                        5.7240846,
+                        45.1901119
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866177,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.723343,
+                        45.1907913
+                    ],
+                    [
+                        5.7233771,
+                        45.1907518
+                    ],
+                    [
+                        5.7234321,
+                        45.1907021
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866180,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7227189,
+                        45.1913438
+                    ],
+                    [
+                        5.7227386,
+                        45.1913396
+                    ],
+                    [
+                        5.7227538,
+                        45.1913263
+                    ],
+                    [
+                        5.723343,
+                        45.1907913
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866182,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7225658,
+                        45.1914729
+                    ],
+                    [
+                        5.7226465,
+                        45.1914114
+                    ],
+                    [
+                        5.7227189,
+                        45.1913438
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866185,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7216738,
+                        45.1923046
+                    ],
+                    [
+                        5.7217252,
+                        45.1922601
+                    ],
+                    [
+                        5.7218063,
+                        45.1921826
+                    ],
+                    [
+                        5.7225681,
+                        45.1914882
+                    ],
+                    [
+                        5.7225658,
+                        45.1914729
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866187,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7219739,
+                        45.1923754
+                    ],
+                    [
+                        5.7219404,
+                        45.192297
+                    ],
+                    [
+                        5.7222862,
+                        45.1919917
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866190,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7224555,
+                        45.191835
+                    ],
+                    [
+                        5.7227651,
+                        45.1915406
+                    ],
+                    [
+                        5.7228308,
+                        45.1914999
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866192,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7222862,
+                        45.1919917
+                    ],
+                    [
+                        5.7223489,
+                        45.1919363
+                    ],
+                    [
+                        5.7224555,
+                        45.191835
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866195,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7229582,
+                        45.1913752
+                    ],
+                    [
+                        5.7242236,
+                        45.1902136
+                    ],
+                    [
+                        5.7242624,
+                        45.1902127
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866228,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7228308,
+                        45.1914999
+                    ],
+                    [
+                        5.7228811,
+                        45.1914504
+                    ],
+                    [
+                        5.7229582,
+                        45.1913752
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482866232,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7243537,
+                        45.1901335
+                    ],
+                    [
+                        5.7243563,
+                        45.1901082
+                    ],
+                    [
+                        5.7243919,
+                        45.1900789
+                    ],
+                    [
+                        5.724697,
+                        45.1898062
+                    ],
+                    [
+                        5.7247596,
+                        45.1897523
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Boulevard \u00c9douard Rey",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

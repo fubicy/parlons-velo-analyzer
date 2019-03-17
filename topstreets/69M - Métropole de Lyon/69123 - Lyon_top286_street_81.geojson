@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 374837369,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8295047,
+                        45.7974972
+                    ],
+                    [
+                        4.8296797,
+                        45.7975869
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Saint-Rambert \u00cele Barbe",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2885",
+                "route_ref": "31A:A,43A:A",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374837370,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8292636,
+                        45.7974598
+                    ],
+                    [
+                        4.8290886,
+                        45.7973702
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Saint-Rambert \u00cele Barbe",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "2886",
+                "route_ref": "31A:R,43A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

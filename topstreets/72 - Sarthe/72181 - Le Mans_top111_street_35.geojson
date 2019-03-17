@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 434824274,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1879753,
+                        47.9986279
+                    ],
+                    [
+                        0.1879291,
+                        47.9986566
+                    ],
+                    [
+                        0.18777,
+                        47.9987555
+                    ],
+                    [
+                        0.1876183,
+                        47.9988497
+                    ],
+                    [
+                        0.1875138,
+                        47.9989145
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont des Tabacs",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 434824275,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1875138,
+                        47.9989145
+                    ],
+                    [
+                        0.1872676,
+                        47.9990677
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont des Tabacs",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 637264728,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1886254,
+                        47.998224
+                    ],
+                    [
+                        0.1885595,
+                        47.9982649
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont des Tabacs",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 637264729,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.1885595,
+                        47.9982649
+                    ],
+                    [
+                        0.1885471,
+                        47.9982726
+                    ],
+                    [
+                        0.1882815,
+                        47.9984377
+                    ],
+                    [
+                        0.1879753,
+                        47.9986279
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway:left": "opposite_lane",
+                "cycleway:right": "lane",
+                "highway": "residential",
+                "lanes": "1",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont des Tabacs",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "right",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

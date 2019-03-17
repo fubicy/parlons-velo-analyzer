@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 379967055,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.9080897,
+                        45.7611169
+                    ],
+                    [
+                        4.9079947,
+                        45.7610875
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "L\u00e9on Blum",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "11749",
+                "route_ref": "C11A:R,C17A:A,C3A:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "trolleybus": "yes",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

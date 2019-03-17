@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7987595,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8908259,
+                        44.9312058
+                    ],
+                    [
+                        4.8906546,
+                        44.9312938
+                    ],
+                    [
+                        4.890414,
+                        44.9313767
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Place de l'Universit\u00e9",
+                "surface": "paving_stones",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7987602,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8909855,
+                        44.9315372
+                    ],
+                    [
+                        4.8910356,
+                        44.9314026
+                    ],
+                    [
+                        4.8910929,
+                        44.9313216
+                    ],
+                    [
+                        4.8908259,
+                        44.9312058
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Place de l'Universit\u00e9",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7987625,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.890414,
+                        44.9313767
+                    ],
+                    [
+                        4.8904765,
+                        44.9316012
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Place de l'Universit\u00e9",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7987939,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8904765,
+                        44.9316012
+                    ],
+                    [
+                        4.8908921,
+                        44.931528
+                    ],
+                    [
+                        4.8909855,
+                        44.9315372
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Place de l'Universit\u00e9",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

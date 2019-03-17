@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 151552746,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1605653,
+                        46.9877156
+                    ],
+                    [
+                        3.1603019,
+                        46.9876349
+                    ],
+                    [
+                        3.1594893,
+                        46.9873274
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Marguerite Duras",
+                "oneway": "yes",
+                "source": "bing",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

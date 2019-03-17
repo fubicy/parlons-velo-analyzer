@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23093168,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.613971,
+                        44.8553076
+                    ],
+                    [
+                        -0.6139271,
+                        44.8554456
+                    ],
+                    [
+                        -0.6132944,
+                        44.8578219
+                    ],
+                    [
+                        -0.6128942,
+                        44.8593915
+                    ],
+                    [
+                        -0.6126332,
+                        44.8603334
+                    ],
+                    [
+                        -0.6125889,
+                        44.8605321
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "name": "Avenue de Verdun",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38934701,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6258617,
+                        44.8387843
+                    ],
+                    [
+                        -0.6263169,
+                        44.8388171
+                    ],
+                    [
+                        -0.6265049,
+                        44.8388452
+                    ],
+                    [
+                        -0.6269813,
+                        44.8389395
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxheight": "4.2",
+                "name": "Avenue de Verdun",
+                "source": "Cadastre 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16379633,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7112436,
+                        48.4126102
+                    ],
+                    [
+                        2.7113333,
+                        48.4126025
+                    ],
+                    [
+                        2.7114543,
+                        48.4126023
+                    ],
+                    [
+                        2.7127992,
+                        48.4126245
+                    ],
+                    [
+                        2.7136923,
+                        48.4126324
+                    ],
+                    [
+                        2.7137801,
+                        48.4126112
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pasdeloup",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 553233963,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.710571,
+                        48.4126366
+                    ],
+                    [
+                        2.7106623,
+                        48.4125951
+                    ],
+                    [
+                        2.7112436,
+                        48.4126102
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pasdeloup",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

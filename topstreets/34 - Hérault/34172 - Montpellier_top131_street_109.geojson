@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23233204,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8773203,
+                        43.614858
+                    ],
+                    [
+                        3.876096,
+                        43.6150989
+                    ],
+                    [
+                        3.8753005,
+                        43.6152597
+                    ],
+                    [
+                        3.8749533,
+                        43.6153351
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "11",
+                "boundary": "administrative",
+                "highway": "pedestrian",
+                "motorcar": "delivery",
+                "name": "Boulevard Pasteur",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

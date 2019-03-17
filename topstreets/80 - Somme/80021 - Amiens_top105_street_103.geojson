@@ -1,0 +1,359 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27124856,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2846971,
+                        49.8927259
+                    ],
+                    [
+                        2.284661,
+                        49.8926934
+                    ],
+                    [
+                        2.2844948,
+                        49.8925289
+                    ],
+                    [
+                        2.2842968,
+                        49.8923304
+                    ],
+                    [
+                        2.2842222,
+                        49.8922533
+                    ],
+                    [
+                        2.2839126,
+                        49.8919264
+                    ],
+                    [
+                        2.2833577,
+                        49.8913402
+                    ],
+                    [
+                        2.2833408,
+                        49.8913224
+                    ],
+                    [
+                        2.2829432,
+                        49.8909161
+                    ],
+                    [
+                        2.2826093,
+                        49.890567
+                    ],
+                    [
+                        2.2825045,
+                        49.8904574
+                    ],
+                    [
+                        2.2823911,
+                        49.890341
+                    ],
+                    [
+                        2.281466,
+                        49.8893913
+                    ],
+                    [
+                        2.2813939,
+                        49.8893177
+                    ],
+                    [
+                        2.2812918,
+                        49.8892136
+                    ],
+                    [
+                        2.2812435,
+                        49.8891614
+                    ],
+                    [
+                        2.2811077,
+                        49.8890157
+                    ],
+                    [
+                        2.2810366,
+                        49.8889412
+                    ],
+                    [
+                        2.2809167,
+                        49.8888155
+                    ],
+                    [
+                        2.2806829,
+                        49.8885677
+                    ],
+                    [
+                        2.2806108,
+                        49.8884945
+                    ],
+                    [
+                        2.2803958,
+                        49.8882761
+                    ],
+                    [
+                        2.2803042,
+                        49.8881811
+                    ],
+                    [
+                        2.2799187,
+                        49.8877816
+                    ],
+                    [
+                        2.2796392,
+                        49.8874971
+                    ],
+                    [
+                        2.279538,
+                        49.8873864
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Foy",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30503435,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2848497,
+                        49.8928801
+                    ],
+                    [
+                        2.2846971,
+                        49.8927259
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Foy",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left;through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30503440,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2848497,
+                        49.8928801
+                    ],
+                    [
+                        2.2849516,
+                        49.892976
+                    ],
+                    [
+                        2.2851421,
+                        49.8931365
+                    ],
+                    [
+                        2.2851722,
+                        49.8931646
+                    ],
+                    [
+                        2.2852862,
+                        49.8932732
+                    ],
+                    [
+                        2.2852947,
+                        49.8932869
+                    ],
+                    [
+                        2.2853951,
+                        49.8934065
+                    ],
+                    [
+                        2.285422,
+                        49.8934739
+                    ],
+                    [
+                        2.2854201,
+                        49.8935757
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Foy",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547318903,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.279538,
+                        49.8873864
+                    ],
+                    [
+                        2.2794895,
+                        49.8873363
+                    ],
+                    [
+                        2.2794033,
+                        49.8872431
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Foy",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547318906,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2794033,
+                        49.8872431
+                    ],
+                    [
+                        2.2792083,
+                        49.8870405
+                    ],
+                    [
+                        2.2790801,
+                        49.8868984
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Foy",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547318907,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2790069,
+                        49.8867234
+                    ],
+                    [
+                        2.2790407,
+                        49.8868082
+                    ],
+                    [
+                        2.2790801,
+                        49.8868984
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Foy",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547318909,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2790801,
+                        49.8868984
+                    ],
+                    [
+                        2.2789802,
+                        49.8868428
+                    ],
+                    [
+                        2.2788277,
+                        49.8867866
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du G\u00e9n\u00e9ral Foy",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

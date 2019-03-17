@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 289417565,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8395862,
+                        47.027482
+                    ],
+                    [
+                        4.83961,
+                        47.0275439
+                    ],
+                    [
+                        4.8396381,
+                        47.0276909
+                    ],
+                    [
+                        4.8397205,
+                        47.0280049
+                    ],
+                    [
+                        4.839851,
+                        47.0283209
+                    ],
+                    [
+                        4.8400232,
+                        47.0286483
+                    ],
+                    [
+                        4.8400739,
+                        47.0287287
+                    ],
+                    [
+                        4.8402782,
+                        47.0290521
+                    ],
+                    [
+                        4.8412306,
+                        47.0300478
+                    ],
+                    [
+                        4.8413209,
+                        47.0301422
+                    ],
+                    [
+                        4.8415704,
+                        47.0304649
+                    ],
+                    [
+                        4.8416434,
+                        47.0305593
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue du Faubourg Saint-Nicolas",
+                "old_ref": "N 74",
+                "oneway": "yes",
+                "ref": "D 974",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 602764959,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8421062,
+                        47.0311909
+                    ],
+                    [
+                        4.8420754,
+                        47.0311488
+                    ],
+                    [
+                        4.8416434,
+                        47.0305593
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Rue du Faubourg Saint-Nicolas",
+                "old_ref": "N 74",
+                "ref": "D 974",
+                "turn:lanes:backward": "left|through;right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

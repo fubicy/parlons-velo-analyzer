@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 17410900,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1590865,
+                        48.7944184
+                    ],
+                    [
+                        2.1572108,
+                        48.7947839
+                    ],
+                    [
+                        2.1571811,
+                        48.7947896
+                    ],
+                    [
+                        2.1571204,
+                        48.7948014
+                    ],
+                    [
+                        2.1570472,
+                        48.7948163
+                    ],
+                    [
+                        2.1561762,
+                        48.795008
+                    ],
+                    [
+                        2.1561413,
+                        48.7950115
+                    ],
+                    [
+                        2.1559771,
+                        48.7950339
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Berthelot",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129303104,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1613848,
+                        48.7938001
+                    ],
+                    [
+                        2.161016,
+                        48.7938995
+                    ],
+                    [
+                        2.1591875,
+                        48.7943913
+                    ],
+                    [
+                        2.1590865,
+                        48.7944184
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Berthelot",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

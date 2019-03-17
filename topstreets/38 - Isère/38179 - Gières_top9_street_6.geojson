@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26402058,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7891384,
+                        45.1815693
+                    ],
+                    [
+                        5.7890342,
+                        45.1819934
+                    ],
+                    [
+                        5.7890011,
+                        45.1822586
+                    ],
+                    [
+                        5.7890003,
+                        45.1824976
+                    ],
+                    [
+                        5.7890372,
+                        45.1828704
+                    ],
+                    [
+                        5.7890223,
+                        45.1829434
+                    ],
+                    [
+                        5.7889659,
+                        45.1832202
+                    ],
+                    [
+                        5.7889196,
+                        45.1834478
+                    ],
+                    [
+                        5.7889262,
+                        45.18364
+                    ],
+                    [
+                        5.7889368,
+                        45.1839498
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "name": "Rue de la Plaine",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84905137,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7889167,
+                        45.185329
+                    ],
+                    [
+                        5.7900487,
+                        45.185772
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Plaine",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 316249429,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7889368,
+                        45.1839498
+                    ],
+                    [
+                        5.788953,
+                        45.1844226
+                    ],
+                    [
+                        5.7889167,
+                        45.185329
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de la Plaine",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

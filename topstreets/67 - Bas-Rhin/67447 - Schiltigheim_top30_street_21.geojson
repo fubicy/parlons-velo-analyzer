@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 9568677,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7538308,
+                        48.6030267
+                    ],
+                    [
+                        7.7537987,
+                        48.6030747
+                    ],
+                    [
+                        7.7537575,
+                        48.6031045
+                    ],
+                    [
+                        7.7536921,
+                        48.6031339
+                    ],
+                    [
+                        7.7532708,
+                        48.6032684
+                    ],
+                    [
+                        7.7532109,
+                        48.6033349
+                    ],
+                    [
+                        7.7532039,
+                        48.6033608
+                    ],
+                    [
+                        7.7531869,
+                        48.6034184
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "cycleway:left": "opposite_lane",
+                "highway": "unclassified",
+                "lanes": "1",
+                "lcn": "yes",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Barrage",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22677568,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7531869,
+                        48.6034184
+                    ],
+                    [
+                        7.7530233,
+                        48.60342
+                    ],
+                    [
+                        7.7526147,
+                        48.6034934
+                    ],
+                    [
+                        7.7523365,
+                        48.6035795
+                    ],
+                    [
+                        7.7515988,
+                        48.6038089
+                    ],
+                    [
+                        7.7515233,
+                        48.6038312
+                    ],
+                    [
+                        7.7511464,
+                        48.6039368
+                    ],
+                    [
+                        7.7509648,
+                        48.6039956
+                    ],
+                    [
+                        7.7508515,
+                        48.6040323
+                    ],
+                    [
+                        7.7507169,
+                        48.6040581
+                    ],
+                    [
+                        7.7506269,
+                        48.6040554
+                    ],
+                    [
+                        7.7505348,
+                        48.6040391
+                    ],
+                    [
+                        7.7504579,
+                        48.6040257
+                    ],
+                    [
+                        7.7503155,
+                        48.6040005
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lcn": "yes",
+                "lit": "yes",
+                "name": "Rue du Barrage",
+                "ref": "D 120",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

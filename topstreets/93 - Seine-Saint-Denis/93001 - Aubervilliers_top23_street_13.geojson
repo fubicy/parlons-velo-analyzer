@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 43322407,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3786577,
+                        48.9048078
+                    ],
+                    [
+                        2.3820526,
+                        48.9045675
+                    ],
+                    [
+                        2.3821829,
+                        48.9045584
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Rue Pierre Larousse",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

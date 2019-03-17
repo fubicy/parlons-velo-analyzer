@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 255677324,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.936915,
+                        43.1236885
+                    ],
+                    [
+                        5.937052,
+                        43.1236095
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Clemenceau",
+                "operator": "R\u00e9seau Mistral",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 255677325,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.9374631,
+                        43.1236279
+                    ],
+                    [
+                        5.9376107,
+                        43.1235528
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Clemenceau",
+                "operator": "R\u00e9seau Mistral",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "tactile_paving": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

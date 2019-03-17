@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 631677647,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1342643,
+                        45.9147365
+                    ],
+                    [
+                        6.1341872,
+                        45.9148938
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Aravis",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 631677649,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1340578,
+                        45.9149679
+                    ],
+                    [
+                        6.1340781,
+                        45.9149176
+                    ],
+                    [
+                        6.134092,
+                        45.914883
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Aravis",
+                "network": "Sibra",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

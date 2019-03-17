@@ -1,0 +1,169 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 41457753,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1778131,
+                        48.6918699
+                    ],
+                    [
+                        6.1779057,
+                        48.6918086
+                    ],
+                    [
+                        6.1779587,
+                        48.6917597
+                    ],
+                    [
+                        6.1780004,
+                        48.6917086
+                    ],
+                    [
+                        6.1780704,
+                        48.6916136
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "destination": "Quartier Charles \u2162;Salle Poirel;Office de tourisme;R\u00e9publique",
+                "destination:symbol": "info;parking",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Place Dombasle",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "turn:lanes": "left|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41457755,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1781045,
+                        48.6915683
+                    ],
+                    [
+                        6.178192,
+                        48.691532
+                    ],
+                    [
+                        6.178215,
+                        48.6915262
+                    ],
+                    [
+                        6.1783014,
+                        48.6915018
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "H\u00f4tel de Ville;Pr\u00e9fecture;Office de tourisme;Mus\u00e9e des Beaux-Arts;Place Stanislas;Charles \u2162;Dom Calmet",
+                "destination:symbol": "info;parking",
+                "highway": "tertiary",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Place Dombasle",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85692087,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1781045,
+                        48.6915683
+                    ],
+                    [
+                        6.1781053,
+                        48.6915267
+                    ],
+                    [
+                        6.1781021,
+                        48.6914958
+                    ],
+                    [
+                        6.1780886,
+                        48.69147
+                    ],
+                    [
+                        6.1780728,
+                        48.6914524
+                    ],
+                    [
+                        6.1780163,
+                        48.6914093
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Salle Poirel;Saint S\u00e9bastien;R\u00e9publique",
+                "destination:symbol": "parking",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Place Dombasle",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "source:maxspeed": "FR:zone30",
+                "surface": "sett",
+                "traffic_calming": "table",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 267287489,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1780704,
+                        48.6916136
+                    ],
+                    [
+                        6.1781045,
+                        48.6915683
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Place Dombasle",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "traffic_calming": "table",
+                "turn:lanes": "left|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

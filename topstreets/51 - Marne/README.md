@@ -10,7 +10,7 @@ Sur l'ensemble du département, il y a eu 709 réponses dont 556 réponses avec 
 |51230 - Épernay&nbsp;&#124;&nbsp;<a href='51230 - Épernay_top3.md'>Top 10</a>|17|3(17%)|<img src="../../img/bar_2.gif" />&nbsp;3|
 |51242 - Fagnières|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |51388 - Mourmelon-le-Grand|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
-|51454 - Reims&nbsp;&#124;&nbsp;<a href='51454 - Reims_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='51454 - Reims_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='51454 - Reims_top50.md'>Top 50</a>|575|464(80%)|<img src="../../img/bar_63.gif" />&nbsp;74|
+|51454 - Reims&nbsp;&#124;&nbsp;<a href='51454 - Reims_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='51454 - Reims_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='51454 - Reims_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='51454 - Reims_top74.md'>Top 1000</a>|575|464(80%)|<img src="../../img/bar_63.gif" />&nbsp;74|
 |51506 - Saint-Memmie&nbsp;&#124;&nbsp;<a href='51506 - Saint-Memmie_top1.md'>Top 10</a>|3|3(100%)|<img src="../../img/bar_0.gif" />&nbsp;1|
 |51573 - Tinqueux&nbsp;&#124;&nbsp;<a href='51573 - Tinqueux_top3.md'>Top 10</a>|4|3(75%)|<img src="../../img/bar_2.gif" />&nbsp;3|
 |51649 - Vitry-le-François|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|

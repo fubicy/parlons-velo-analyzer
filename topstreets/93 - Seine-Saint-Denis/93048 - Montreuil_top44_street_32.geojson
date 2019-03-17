@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22949913,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4362334,
+                        48.8566975
+                    ],
+                    [
+                        2.4371555,
+                        48.8564934
+                    ],
+                    [
+                        2.4372761,
+                        48.8564545
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Marcelin Berthelot",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45267699,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4372761,
+                        48.8564545
+                    ],
+                    [
+                        2.4391003,
+                        48.855818
+                    ],
+                    [
+                        2.4391747,
+                        48.8557937
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_track",
+                "highway": "residential",
+                "name": "Rue Marcelin Berthelot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 565006448,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4391747,
+                        48.8557937
+                    ],
+                    [
+                        2.4394718,
+                        48.8556975
+                    ],
+                    [
+                        2.4395754,
+                        48.8556593
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Marcelin Berthelot",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

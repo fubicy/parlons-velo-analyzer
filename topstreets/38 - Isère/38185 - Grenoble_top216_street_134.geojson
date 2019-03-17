@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 189241379,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7261755,
+                        45.1760964
+                    ],
+                    [
+                        5.7262238,
+                        45.176206
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Capuche",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "limited",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189241384,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7257139,
+                        45.1755164
+                    ],
+                    [
+                        5.725683,
+                        45.1754557
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Capuche",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "limited",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189241385,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7245099,
+                        45.1766522
+                    ],
+                    [
+                        5.7245528,
+                        45.1765312
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Capuche",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189241386,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7248317,
+                        45.1759829
+                    ],
+                    [
+                        5.7247915,
+                        45.1761058
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Capuche",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

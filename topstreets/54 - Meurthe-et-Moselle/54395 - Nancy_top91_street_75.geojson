@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22567122,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1624546,
+                        48.6770462
+                    ],
+                    [
+                        6.1625464,
+                        48.677078
+                    ],
+                    [
+                        6.1642661,
+                        48.6776043
+                    ],
+                    [
+                        6.1673649,
+                        48.6785497
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue F\u00e9lix Faure",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605179798,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1673649,
+                        48.6785497
+                    ],
+                    [
+                        6.1675707,
+                        48.6786125
+                    ],
+                    [
+                        6.1675959,
+                        48.678621
+                    ],
+                    [
+                        6.1676612,
+                        48.6786416
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue F\u00e9lix Faure",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

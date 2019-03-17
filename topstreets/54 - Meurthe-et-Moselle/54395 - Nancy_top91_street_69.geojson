@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 152181436,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1744774,
+                        48.700949
+                    ],
+                    [
+                        6.1751553,
+                        48.7010284
+                    ],
+                    [
+                        6.1755599,
+                        48.7010592
+                    ],
+                    [
+                        6.1765138,
+                        48.7010259
+                    ],
+                    [
+                        6.1765413,
+                        48.701025
+                    ],
+                    [
+                        6.1765925,
+                        48.7010233
+                    ],
+                    [
+                        6.1767177,
+                        48.7010191
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Jean Lamour",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173866997,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1725822,
+                        48.7001803
+                    ],
+                    [
+                        6.1726872,
+                        48.7002244
+                    ],
+                    [
+                        6.1738848,
+                        48.7007273
+                    ],
+                    [
+                        6.1744774,
+                        48.700949
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "destination": "Malz\u00e9ville;St Max;Quartier Stanislas",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue Jean Lamour",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 613681390,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1767177,
+                        48.7010191
+                    ],
+                    [
+                        6.1768126,
+                        48.7010182
+                    ],
+                    [
+                        6.1768447,
+                        48.7010163
+                    ],
+                    [
+                        6.1769875,
+                        48.7010078
+                    ],
+                    [
+                        6.1775336,
+                        48.7009306
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "St Max;Rives de Meurthe;Quartier Charles \u2162;Quartier Stanislas",
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue Jean Lamour",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

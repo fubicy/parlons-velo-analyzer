@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4354561,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3555269,
+                        49.1841182
+                    ],
+                    [
+                        -0.35546,
+                        49.1841694
+                    ],
+                    [
+                        -0.3554292,
+                        49.1841929
+                    ],
+                    [
+                        -0.3548996,
+                        49.184325
+                    ],
+                    [
+                        -0.3542601,
+                        49.1844998
+                    ],
+                    [
+                        -0.3541951,
+                        49.18452
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Courtonne",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

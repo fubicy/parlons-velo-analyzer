@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8427492,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7258514,
+                        45.1855968
+                    ],
+                    [
+                        0.7259439,
+                        45.1856175
+                    ],
+                    [
+                        0.7261777,
+                        45.1857952
+                    ],
+                    [
+                        0.7275435,
+                        45.1868491
+                    ],
+                    [
+                        0.7284926,
+                        45.187389
+                    ],
+                    [
+                        0.7298253,
+                        45.1881319
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue de l'Arsault",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71216224,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.730591,
+                        45.1884888
+                    ],
+                    [
+                        0.7316461,
+                        45.1890649
+                    ],
+                    [
+                        0.7317611,
+                        45.1891303
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue de l'Arsault",
+                "ref": "D 6021",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71218173,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.730591,
+                        45.1884888
+                    ],
+                    [
+                        0.7299105,
+                        45.188171
+                    ],
+                    [
+                        0.7298253,
+                        45.1881319
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue de l'Arsault",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,771 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24782591,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3538082,
+                        49.1750343
+                    ],
+                    [
+                        -0.3537353,
+                        49.1749603
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138703467,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.353873,
+                        49.1751604
+                    ],
+                    [
+                        -0.3538082,
+                        49.1750343
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|right|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170975668,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3534641,
+                        49.1748549
+                    ],
+                    [
+                        -0.3534859,
+                        49.1748659
+                    ],
+                    [
+                        -0.3535199,
+                        49.1748838
+                    ],
+                    [
+                        -0.3535466,
+                        49.1749036
+                    ],
+                    [
+                        -0.3535656,
+                        49.1749222
+                    ],
+                    [
+                        -0.3535819,
+                        49.1749488
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "45",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 175413409,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3546623,
+                        49.1767382
+                    ],
+                    [
+                        -0.3547506,
+                        49.1768205
+                    ],
+                    [
+                        -0.3547985,
+                        49.1768651
+                    ]
+                ]
+            },
+            "properties": {
+                "bus:lanes": "no|no|designated",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Vaucelles",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179780974,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3540582,
+                        49.1757545
+                    ],
+                    [
+                        -0.3539844,
+                        49.1755848
+                    ],
+                    [
+                        -0.3539655,
+                        49.1754715
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source": "Bing",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 184838404,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3538082,
+                        49.1750343
+                    ],
+                    [
+                        -0.353776,
+                        49.1749526
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192961793,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3541122,
+                        49.1758567
+                    ],
+                    [
+                        -0.3541603,
+                        49.1759543
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "45",
+                "name": "Rue de Vaucelles",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192961794,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3540582,
+                        49.1757545
+                    ],
+                    [
+                        -0.3541122,
+                        49.1758567
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "4",
+                "lanes:backward": "3",
+                "lit": "yes",
+                "maxspeed": "45",
+                "name": "Rue de Vaucelles",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192961795,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3539243,
+                        49.175283
+                    ],
+                    [
+                        -0.3539209,
+                        49.1752677
+                    ],
+                    [
+                        -0.353873,
+                        49.1751604
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 247393562,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3537581,
+                        49.1749073
+                    ],
+                    [
+                        -0.3537462,
+                        49.1748771
+                    ],
+                    [
+                        -0.3537128,
+                        49.1747904
+                    ],
+                    [
+                        -0.3537037,
+                        49.1747469
+                    ],
+                    [
+                        -0.3537069,
+                        49.174705
+                    ],
+                    [
+                        -0.353712,
+                        49.1746689
+                    ],
+                    [
+                        -0.3537272,
+                        49.1746296
+                    ],
+                    [
+                        -0.3537679,
+                        49.1745588
+                    ],
+                    [
+                        -0.3537989,
+                        49.1744904
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 264921231,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3541603,
+                        49.1759543
+                    ],
+                    [
+                        -0.3542399,
+                        49.1761079
+                    ],
+                    [
+                        -0.35427,
+                        49.176166
+                    ],
+                    [
+                        -0.3543306,
+                        49.1762939
+                    ],
+                    [
+                        -0.3544044,
+                        49.1764343
+                    ],
+                    [
+                        -0.3544434,
+                        49.1764959
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "45",
+                "name": "Rue de Vaucelles",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 359428317,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3534243,
+                        49.1747785
+                    ],
+                    [
+                        -0.3533657,
+                        49.1747741
+                    ],
+                    [
+                        -0.3533045,
+                        49.1747693
+                    ],
+                    [
+                        -0.3532464,
+                        49.17477
+                    ],
+                    [
+                        -0.3531806,
+                        49.1747767
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxheight": "3.5",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2015",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 360561349,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3537989,
+                        49.1744904
+                    ],
+                    [
+                        -0.3538355,
+                        49.1744277
+                    ],
+                    [
+                        -0.3538583,
+                        49.174382
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2015",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384359219,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.353776,
+                        49.1749526
+                    ],
+                    [
+                        -0.3537581,
+                        49.1749073
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxheight": "4.2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384359221,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3535819,
+                        49.1749488
+                    ],
+                    [
+                        -0.3536119,
+                        49.1749976
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxheight": "4.2",
+                "maxspeed": "45",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384359224,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3537353,
+                        49.1749603
+                    ],
+                    [
+                        -0.3536928,
+                        49.1749171
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxheight": "4.2",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384359227,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3537687,
+                        49.1752703
+                    ],
+                    [
+                        -0.3538147,
+                        49.1753591
+                    ],
+                    [
+                        -0.3539043,
+                        49.175545
+                    ],
+                    [
+                        -0.3540582,
+                        49.1757545
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "45",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384359230,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3536928,
+                        49.1749171
+                    ],
+                    [
+                        -0.3536714,
+                        49.1748954
+                    ],
+                    [
+                        -0.3536378,
+                        49.1748614
+                    ],
+                    [
+                        -0.3535948,
+                        49.174828
+                    ],
+                    [
+                        -0.3535555,
+                        49.1748108
+                    ],
+                    [
+                        -0.3535055,
+                        49.1747948
+                    ],
+                    [
+                        -0.3534549,
+                        49.1747842
+                    ],
+                    [
+                        -0.3534243,
+                        49.1747785
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 433451664,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3544434,
+                        49.1764959
+                    ],
+                    [
+                        -0.3544756,
+                        49.1765354
+                    ],
+                    [
+                        -0.3545139,
+                        49.1765845
+                    ],
+                    [
+                        -0.3545493,
+                        49.1766226
+                    ],
+                    [
+                        -0.3545898,
+                        49.1766653
+                    ],
+                    [
+                        -0.3546623,
+                        49.1767382
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "45",
+                "name": "Rue de Vaucelles",
+                "sidewalk": "both",
+                "turn:lanes:forward": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551062333,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3536119,
+                        49.1749976
+                    ],
+                    [
+                        -0.3536207,
+                        49.1750119
+                    ],
+                    [
+                        -0.3536954,
+                        49.1751364
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "45",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 577816605,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3536954,
+                        49.1751364
+                    ],
+                    [
+                        -0.3537562,
+                        49.1752474
+                    ],
+                    [
+                        -0.3537687,
+                        49.1752703
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "45",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 577816609,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3539655,
+                        49.1754715
+                    ],
+                    [
+                        -0.3539378,
+                        49.1753525
+                    ],
+                    [
+                        -0.3539243,
+                        49.175283
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "name": "Rue de Vaucelles",
+                "oneway": "yes",
+                "source": "Bing",
+                "turn:lanes": "through|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

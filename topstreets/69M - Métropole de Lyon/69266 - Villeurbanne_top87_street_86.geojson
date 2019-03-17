@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 386078349,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.878999,
+                        45.7780685
+                    ],
+                    [
+                        4.8791273,
+                        45.7781367
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Antonins",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "70",
+                "route_ref": "37A:A,69A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386078350,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8790365,
+                        45.7782003
+                    ],
+                    [
+                        4.8788946,
+                        45.7781259
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Antonins",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "71",
+                "route_ref": "37A:R,69A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386078351,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8793446,
+                        45.7785978
+                    ],
+                    [
+                        4.8793692,
+                        45.778509
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Antonins",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "42679",
+                "route_ref": "C17A:A,C26A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

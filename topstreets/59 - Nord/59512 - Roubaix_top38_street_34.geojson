@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 50940436,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1582221,
+                        50.6984156
+                    ],
+                    [
+                        3.1594744,
+                        50.6992692
+                    ],
+                    [
+                        3.1597604,
+                        50.699425
+                    ],
+                    [
+                        3.1602307,
+                        50.699673
+                    ],
+                    [
+                        3.1605818,
+                        50.6998576
+                    ],
+                    [
+                        3.1608431,
+                        50.7000062
+                    ],
+                    [
+                        3.1608868,
+                        50.7000254
+                    ],
+                    [
+                        3.1610185,
+                        50.7000906
+                    ],
+                    [
+                        3.1611445,
+                        50.7001601
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Boulevard d'Armenti\u00e8res",
+                "ref": "D 112",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2007",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 319479365,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1643891,
+                        50.702079
+                    ],
+                    [
+                        3.1641209,
+                        50.7017984
+                    ],
+                    [
+                        3.1633481,
+                        50.7013609
+                    ],
+                    [
+                        3.1613508,
+                        50.7002782
+                    ],
+                    [
+                        3.1612569,
+                        50.7002207
+                    ],
+                    [
+                        3.1611445,
+                        50.7001601
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Boulevard d'Armenti\u00e8res",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2007",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 115 réponses dont 67 réponses avec une ru
 
 26 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rocade | 13 | 11% | <img src="../../img/bar_19.gif" />&nbsp;19%|
-| Avenue de la Marne | 7 | 6% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Avenue de Beaudesert | 7 | 6% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| Mérignac Centre | 3 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Chemin du Phare | 3 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Avenue des Eyquems | 3 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Avenue de la Somme | 3 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Avenue de Verdun | 3 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Place Mondésir | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Avenue de la Libération | 2 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 46 | 40% | 68%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rocade | 13 | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| Avenue de la Marne | 7 | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| Avenue de Beaudesert | 7 | <img src="../../img/bar_15.gif" />&nbsp;15%|
+| Mérignac Centre | 3 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Chemin du Phare | 3 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Avenue des Eyquems | 3 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Avenue de la Somme | 3 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Avenue de Verdun | 3 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Place Mondésir | 2 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Avenue de la Libération | 2 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| **Total** | 46 | 100%|

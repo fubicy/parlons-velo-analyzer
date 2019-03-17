@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 251831601,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6728059,
+                        47.3923102
+                    ],
+                    [
+                        0.6727405,
+                        47.392397
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Lamartine",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 251831602,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6725446,
+                        47.392498
+                    ],
+                    [
+                        0.6726107,
+                        47.3923991
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Lamartine",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

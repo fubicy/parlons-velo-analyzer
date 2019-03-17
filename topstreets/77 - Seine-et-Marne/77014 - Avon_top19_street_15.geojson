@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27313675,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7223218,
+                        48.4133213
+                    ],
+                    [
+                        2.7225106,
+                        48.4134923
+                    ],
+                    [
+                        2.7229484,
+                        48.4140563
+                    ],
+                    [
+                        2.7231372,
+                        48.4142727
+                    ],
+                    [
+                        2.7233775,
+                        48.4144835
+                    ],
+                    [
+                        2.7235502,
+                        48.4145821
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Charles Meunier",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 364867194,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7252786,
+                        48.4152689
+                    ],
+                    [
+                        2.7251817,
+                        48.4152375
+                    ],
+                    [
+                        2.7249825,
+                        48.4151728
+                    ],
+                    [
+                        2.7242015,
+                        48.4148766
+                    ],
+                    [
+                        2.723859,
+                        48.4147393
+                    ],
+                    [
+                        2.7237466,
+                        48.4146943
+                    ],
+                    [
+                        2.7235502,
+                        48.4145821
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Charles Meunier",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34118805,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9233536,
+                        47.9224151
+                    ],
+                    [
+                        1.9234135,
+                        47.9223653
+                    ],
+                    [
+                        1.9234786,
+                        47.9223371
+                    ],
+                    [
+                        1.9243552,
+                        47.9219757
+                    ],
+                    [
+                        1.9246695,
+                        47.9218248
+                    ],
+                    [
+                        1.9251046,
+                        47.9216538
+                    ],
+                    [
+                        1.9251255,
+                        47.9216456
+                    ],
+                    [
+                        1.9251777,
+                        47.9216251
+                    ],
+                    [
+                        1.9253349,
+                        47.9215639
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue du Greffoir",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 352529464,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9253349,
+                        47.9215639
+                    ],
+                    [
+                        1.9254803,
+                        47.9214987
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Greffoir",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

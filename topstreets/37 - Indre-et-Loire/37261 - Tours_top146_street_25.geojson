@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23854646,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6842913,
+                        47.4012084
+                    ],
+                    [
+                        0.6843555,
+                        47.4010873
+                    ],
+                    [
+                        0.6844074,
+                        47.4009924
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "loc_name": "Pont de Pierre",
+                "maxspeed": "30",
+                "name": "Pont Wilson",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38332876,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6859462,
+                        47.3972128
+                    ],
+                    [
+                        0.6859521,
+                        47.3971955
+                    ],
+                    [
+                        0.6859914,
+                        47.3970095
+                    ],
+                    [
+                        0.6860481,
+                        47.396862
+                    ],
+                    [
+                        0.6861036,
+                        47.3967479
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "loc_name": "Pont de Pierre",
+                "maxspeed": "30",
+                "name": "Pont Wilson",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225201952,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.686291,
+                        47.3967846
+                    ],
+                    [
+                        0.6862779,
+                        47.3968241
+                    ],
+                    [
+                        0.6862656,
+                        47.3968545
+                    ],
+                    [
+                        0.6862075,
+                        47.3969742
+                    ],
+                    [
+                        0.6861743,
+                        47.3970385
+                    ],
+                    [
+                        0.686156,
+                        47.3970654
+                    ],
+                    [
+                        0.6860781,
+                        47.3972167
+                    ],
+                    [
+                        0.6860675,
+                        47.3972359
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Promenade Wilson",
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "pedestrian",
+                "loc_name": "Pont de Pierre",
+                "name": "Pont Wilson",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 262643513,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6844074,
+                        47.4009924
+                    ],
+                    [
+                        0.6844475,
+                        47.4009307
+                    ],
+                    [
+                        0.6859462,
+                        47.3972128
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "1",
+                "layer": "1",
+                "loc_name": "Pont de Pierre",
+                "maxspeed": "30",
+                "name": "Pont Wilson",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 262643514,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6860675,
+                        47.3972359
+                    ],
+                    [
+                        0.6845498,
+                        47.4009764
+                    ],
+                    [
+                        0.6845418,
+                        47.4010169
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Promenade Wilson",
+                "bicycle": "designated",
+                "bridge": "yes",
+                "foot": "designated",
+                "highway": "pedestrian",
+                "layer": "1",
+                "loc_name": "Pont de Pierre",
+                "name": "Pont Wilson",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 262643515,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6845418,
+                        47.4010169
+                    ],
+                    [
+                        0.6845133,
+                        47.401121
+                    ],
+                    [
+                        0.6844751,
+                        47.4012443
+                    ]
+                ]
+            },
+            "properties": {
+                "alt_name": "Promenade Wilson",
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "pedestrian",
+                "loc_name": "Pont de Pierre",
+                "name": "Pont Wilson",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

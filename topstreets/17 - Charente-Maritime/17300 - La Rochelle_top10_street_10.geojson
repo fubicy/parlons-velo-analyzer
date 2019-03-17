@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 18895083,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1522421,
+                        46.1630912
+                    ],
+                    [
+                        -1.1520408,
+                        46.1635842
+                    ],
+                    [
+                        -1.152018,
+                        46.16364
+                    ],
+                    [
+                        -1.1519963,
+                        46.1636931
+                    ],
+                    [
+                        -1.1519664,
+                        46.1637663
+                    ],
+                    [
+                        -1.1517857,
+                        46.1642088
+                    ],
+                    [
+                        -1.1516036,
+                        46.1646548
+                    ]
+                ]
+            },
+            "properties": {
+                "bus:lanes:backward": "yes|designated",
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Rue Albert 1er",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218975487,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1516036,
+                        46.1646548
+                    ],
+                    [
+                        -1.1513947,
+                        46.1652187
+                    ],
+                    [
+                        -1.1513204,
+                        46.1654193
+                    ],
+                    [
+                        -1.1512943,
+                        46.1654896
+                    ],
+                    [
+                        -1.1510074,
+                        46.1662145
+                    ],
+                    [
+                        -1.1509989,
+                        46.166236
+                    ],
+                    [
+                        -1.1509626,
+                        46.166329
+                    ],
+                    [
+                        -1.1509121,
+                        46.1664554
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "tertiary",
+                "name": "Rue Albert 1er",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

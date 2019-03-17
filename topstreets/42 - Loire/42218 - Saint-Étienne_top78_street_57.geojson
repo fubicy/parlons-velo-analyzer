@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28895400,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3910123,
+                        45.4400796
+                    ],
+                    [
+                        4.3911213,
+                        45.4401627
+                    ],
+                    [
+                        4.3915051,
+                        45.4404619
+                    ],
+                    [
+                        4.3919123,
+                        45.4407817
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "incline": "18%",
+                "maxspeed": "30",
+                "name": "Rue Passerat",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

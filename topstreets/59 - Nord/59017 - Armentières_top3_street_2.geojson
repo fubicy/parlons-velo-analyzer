@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 69971445,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8903905,
+                        50.6853236
+                    ],
+                    [
+                        2.8905477,
+                        50.6853656
+                    ],
+                    [
+                        2.890726,
+                        50.6854192
+                    ],
+                    [
+                        2.8911572,
+                        50.685567
+                    ],
+                    [
+                        2.891347,
+                        50.6856296
+                    ],
+                    [
+                        2.8916231,
+                        50.6857213
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue des D\u00e9port\u00e9s",
+                "oneway": "no",
+                "ref": "D 945 A",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 313054248,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8919863,
+                        50.6858422
+                    ],
+                    [
+                        2.8920674,
+                        50.6858685
+                    ],
+                    [
+                        2.8921119,
+                        50.6858843
+                    ],
+                    [
+                        2.8927845,
+                        50.6861009
+                    ],
+                    [
+                        2.8928724,
+                        50.6861294
+                    ],
+                    [
+                        2.8929092,
+                        50.6861414
+                    ],
+                    [
+                        2.8933443,
+                        50.686267
+                    ],
+                    [
+                        2.8940152,
+                        50.6864992
+                    ],
+                    [
+                        2.8943863,
+                        50.6866276
+                    ],
+                    [
+                        2.8952359,
+                        50.6869425
+                    ],
+                    [
+                        2.895486,
+                        50.6870312
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue des D\u00e9port\u00e9s",
+                "oneway": "no",
+                "ref": "D 945 A",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 313054249,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8916231,
+                        50.6857213
+                    ],
+                    [
+                        2.8916983,
+                        50.685743
+                    ],
+                    [
+                        2.8919863,
+                        50.6858422
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Rue des D\u00e9port\u00e9s",
+                "oneway": "no",
+                "ref": "D 945 A",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "turn:lanes:backward": "none",
+                "turn:lanes:forward": "left|through",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

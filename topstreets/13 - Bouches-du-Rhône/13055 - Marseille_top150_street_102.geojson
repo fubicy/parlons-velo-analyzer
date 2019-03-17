@@ -1,0 +1,401 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 6310242,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3715875,
+                        43.2934598
+                    ],
+                    [
+                        5.3716867,
+                        43.2934857
+                    ],
+                    [
+                        5.3722358,
+                        43.2936291
+                    ],
+                    [
+                        5.3727807,
+                        43.2937728
+                    ],
+                    [
+                        5.3732787,
+                        43.2938971
+                    ],
+                    [
+                        5.3739866,
+                        43.2941169
+                    ],
+                    [
+                        5.374149,
+                        43.2941777
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "bus": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "level": "0",
+                "name": "Quai de Rive-Neuve",
+                "name:oc": "Quai de la Riva N\u00f2va",
+                "psv": "yes",
+                "service": "bus",
+                "source:name:oc": "ieo-bdtopoc",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82295959,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.365875,
+                        43.2923961
+                    ],
+                    [
+                        5.365834,
+                        43.2923675
+                    ],
+                    [
+                        5.3654321,
+                        43.2923138
+                    ],
+                    [
+                        5.3652344,
+                        43.2922762
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "name": "Quai de Rive-Neuve",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82295964,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3649312,
+                        43.2922484
+                    ],
+                    [
+                        5.3652344,
+                        43.2922762
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "layer": "1",
+                "name": "Quai de Rive-Neuve",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200130290,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.371121,
+                        43.2933122
+                    ],
+                    [
+                        5.3712885,
+                        43.2933214
+                    ],
+                    [
+                        5.3715006,
+                        43.2933754
+                    ],
+                    [
+                        5.3716126,
+                        43.2934051
+                    ],
+                    [
+                        5.3717183,
+                        43.2934335
+                    ],
+                    [
+                        5.372257,
+                        43.2935782
+                    ],
+                    [
+                        5.3727688,
+                        43.2937139
+                    ],
+                    [
+                        5.3728027,
+                        43.2937228
+                    ],
+                    [
+                        5.3732981,
+                        43.2938537
+                    ],
+                    [
+                        5.374022,
+                        43.2940399
+                    ],
+                    [
+                        5.374084,
+                        43.2940558
+                    ],
+                    [
+                        5.3742044,
+                        43.2940884
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "level": "0",
+                "maxspeed": "30",
+                "name": "Quai de Rive-Neuve",
+                "name:oc": "Quai de la Riva N\u00f2va",
+                "oneway": "yes",
+                "source:name:oc": "ieo-bdtopoc",
+                "surface": "sett",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 421161737,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3687272,
+                        43.2928633
+                    ],
+                    [
+                        5.3694031,
+                        43.2929761
+                    ],
+                    [
+                        5.3701356,
+                        43.2930936
+                    ],
+                    [
+                        5.3704163,
+                        43.2931514
+                    ],
+                    [
+                        5.37081,
+                        43.2932462
+                    ],
+                    [
+                        5.371006,
+                        43.2932885
+                    ],
+                    [
+                        5.371121,
+                        43.2933122
+                    ]
+                ]
+            },
+            "properties": {
+                "access:lanes:forward": "no|yes",
+                "bicycle": "yes",
+                "bicycle:lanes:forward": "designated|yes",
+                "bus": "yes",
+                "bus:lanes:forward": "designated|yes",
+                "cycleway:right": "share_busway",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "name": "Quai de Rive-Neuve",
+                "psv:lanes:forward": "designated|yes",
+                "service": "bus",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 422682031,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.36611,
+                        43.2923974
+                    ],
+                    [
+                        5.3659611,
+                        43.2924076
+                    ],
+                    [
+                        5.365875,
+                        43.2923961
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bus": "yes",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Quai de Rive-Neuve",
+                "oneway": "yes",
+                "service": "bus",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 422682032,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3652344,
+                        43.2922762
+                    ],
+                    [
+                        5.365438,
+                        43.2922662
+                    ],
+                    [
+                        5.3659783,
+                        43.2923305
+                    ],
+                    [
+                        5.36611,
+                        43.2923974
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Quai de Rive-Neuve",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 422682033,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.36611,
+                        43.2923974
+                    ],
+                    [
+                        5.3665071,
+                        43.2924671
+                    ],
+                    [
+                        5.3669018,
+                        43.2925299
+                    ],
+                    [
+                        5.3675812,
+                        43.2926514
+                    ],
+                    [
+                        5.3682641,
+                        43.292775
+                    ],
+                    [
+                        5.3687272,
+                        43.2928633
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bus": "yes",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "name": "Quai de Rive-Neuve",
+                "service": "bus",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 425990689,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.3715875,
+                        43.2934598
+                    ],
+                    [
+                        5.3714233,
+                        43.2934189
+                    ],
+                    [
+                        5.3712625,
+                        43.2933783
+                    ],
+                    [
+                        5.371121,
+                        43.2933122
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bus": "yes",
+                "busway": "opposite_lane",
+                "cycleway": "opposite_share_busway",
+                "highway": "residential",
+                "level": "0",
+                "name": "Quai de Rive-Neuve",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "psv": "yes",
+                "service": "bus",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

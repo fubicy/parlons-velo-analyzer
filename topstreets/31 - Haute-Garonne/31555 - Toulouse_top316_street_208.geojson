@@ -1,0 +1,464 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22634673,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4540933,
+                        43.601403
+                    ],
+                    [
+                        1.4541124,
+                        43.6014889
+                    ],
+                    [
+                        1.4541833,
+                        43.6018953
+                    ],
+                    [
+                        1.4541945,
+                        43.601963
+                    ],
+                    [
+                        1.4543124,
+                        43.6026848
+                    ],
+                    [
+                        1.4543075,
+                        43.6027428
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pierre Paul Riquet",
+                "oneway": "yes",
+                "short_name": "Rue Riquet",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22634680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4541862,
+                        43.6039407
+                    ],
+                    [
+                        1.4541906,
+                        43.60387
+                    ],
+                    [
+                        1.454194,
+                        43.6037724
+                    ],
+                    [
+                        1.4542133,
+                        43.6035559
+                    ],
+                    [
+                        1.4542153,
+                        43.6035328
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Pierre Paul Riquet",
+                "oneway": "yes",
+                "short_name": "Rue Riquet",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103808310,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4540308,
+                        43.6061059
+                    ],
+                    [
+                        1.4540362,
+                        43.6060297
+                    ],
+                    [
+                        1.4541359,
+                        43.6046338
+                    ],
+                    [
+                        1.4541382,
+                        43.6046027
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Pierre Paul Riquet",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee_per_hour": "12\u20ac",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:maxstay": "24 hours",
+                "parking:condition:both:3:residents": "PERI",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 hours",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "parallel",
+                "parking:lane:both:capacity": "34",
+                "parking:lane:both:parallel": "on_street",
+                "short_name": "Rue Riquet",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113218931,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4539356,
+                        43.6074302
+                    ],
+                    [
+                        1.4539289,
+                        43.6073597
+                    ],
+                    [
+                        1.4539249,
+                        43.6072451
+                    ],
+                    [
+                        1.4539293,
+                        43.6071672
+                    ],
+                    [
+                        1.4539479,
+                        43.6069307
+                    ],
+                    [
+                        1.4539959,
+                        43.6064982
+                    ],
+                    [
+                        1.4540236,
+                        43.606187
+                    ],
+                    [
+                        1.4540308,
+                        43.6061059
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Pierre Paul Riquet",
+                "oneway": "yes",
+                "parking:condition:right": "ticket",
+                "parking:condition:right:2": "ticket",
+                "parking:condition:right:2:fee_per_hour": "12\u20ac",
+                "parking:condition:right:2:maxstay": "2.5 hours",
+                "parking:condition:right:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:right:3": "residents",
+                "parking:condition:right:3:maxstay": "24 hours",
+                "parking:condition:right:3:residents": "PERI",
+                "parking:condition:right:default": "free",
+                "parking:condition:right:fee_per_hour": "1.5\u20ac",
+                "parking:condition:right:maxstay": "2 hours",
+                "parking:condition:right:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "parallel",
+                "parking:lane:right:capacity": "26",
+                "parking:lane:right:parallel": "on_street",
+                "short_name": "Rue Riquet",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158833388,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.453754,
+                        43.6088513
+                    ],
+                    [
+                        1.453783,
+                        43.6088307
+                    ],
+                    [
+                        1.4538222,
+                        43.6088029
+                    ],
+                    [
+                        1.4539169,
+                        43.607683
+                    ],
+                    [
+                        1.4539249,
+                        43.6075437
+                    ],
+                    [
+                        1.4539276,
+                        43.6074849
+                    ],
+                    [
+                        1.4539356,
+                        43.6074302
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "name": "Rue Pierre Paul Riquet",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:condition:both:2": "ticket",
+                "parking:condition:both:2:fee": "12\u20ac/h",
+                "parking:condition:both:2:maxstay": "2.5 hours",
+                "parking:condition:both:2:time_interval": "Mo-Sa 09:00-20:00;PH off;Aug 1-Aug 15 off",
+                "parking:condition:both:3": "residents",
+                "parking:condition:both:3:maxstay": "24 hours",
+                "parking:condition:both:3:residents": "PERI",
+                "parking:condition:both:default": "free",
+                "parking:condition:both:fee_per_hour": "1.5\u20ac",
+                "parking:condition:both:maxstay": "2 h",
+                "parking:condition:both:time_interval": "Mo-Sa 09:00-20:00;PH off;Aug 1-Aug 15 off",
+                "parking:lane:both": "parallel",
+                "parking:lane:both:parallel": "on_street",
+                "short_name": "Rue Riquet",
+                "surface": "asphalt",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 644382077,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4541475,
+                        43.6043774
+                    ],
+                    [
+                        1.454177,
+                        43.6042827
+                    ],
+                    [
+                        1.4541714,
+                        43.6041812
+                    ],
+                    [
+                        1.4541862,
+                        43.6039407
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Pierre Paul Riquet",
+                "oneway": "yes",
+                "short_name": "Rue Riquet",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 644615367,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4541382,
+                        43.6046027
+                    ],
+                    [
+                        1.4541301,
+                        43.6045653
+                    ],
+                    [
+                        1.4541475,
+                        43.6043774
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Pierre Paul Riquet",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:residents": "SAINT-AUBIN",
+                "parking:condition:left:3:time_interval": "Mo-Sa 18:00-09:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "parallel",
+                "parking:lane:left:capacity": "4",
+                "parking:lane:left:parallel": "on_street",
+                "short_name": "Rue Riquet",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 644615368,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4542153,
+                        43.6035328
+                    ],
+                    [
+                        1.4542288,
+                        43.6033801
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Pierre Paul Riquet",
+                "oneway": "yes",
+                "parking:condition:left": "ticket",
+                "parking:condition:left:2": "ticket",
+                "parking:condition:left:2:fee_per_hour": "12\u20ac",
+                "parking:condition:left:2:maxstay": "2.5 hours",
+                "parking:condition:left:2:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:condition:left:3": "residents",
+                "parking:condition:left:3:maxstay": "24 hours",
+                "parking:condition:left:3:residents": "SAINT-AUBIN",
+                "parking:condition:left:default": "free",
+                "parking:condition:left:fee_per_hour": "1.5\u20ac",
+                "parking:condition:left:maxstay": "2 hours",
+                "parking:condition:left:time_interval": "Mo-Sa 09:00-20:00; PH off;Aug 1-Aug 15 off",
+                "parking:lane:left": "parallel",
+                "parking:lane:left:capacity": "2",
+                "parking:lane:left:parallel": "on_street",
+                "short_name": "Rue Riquet",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 644615369,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4542288,
+                        43.6033801
+                    ],
+                    [
+                        1.4542343,
+                        43.6033172
+                    ],
+                    [
+                        1.4542798,
+                        43.6029
+                    ],
+                    [
+                        1.4542844,
+                        43.6028204
+                    ],
+                    [
+                        1.4543075,
+                        43.6027428
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Pierre Paul Riquet",
+                "oneway": "yes",
+                "short_name": "Rue Riquet",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 648434029,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4537898,
+                        43.6001424
+                    ],
+                    [
+                        1.4538045,
+                        43.6002257
+                    ],
+                    [
+                        1.4539689,
+                        43.6009133
+                    ],
+                    [
+                        1.4540933,
+                        43.601403
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Pierre Paul Riquet",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "short_name": "Rue Riquet",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

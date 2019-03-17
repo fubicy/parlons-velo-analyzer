@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 384276251,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8689059,
+                        45.76398
+                    ],
+                    [
+                        4.8689048,
+                        45.7641145
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Alsace",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "51",
+                "route_ref": "C16A:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384276252,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8696778,
+                        45.763802
+                    ],
+                    [
+                        4.8695068,
+                        45.7638004
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Alsace",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "53",
+                "route_ref": "C3A:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "trolleybus": "yes",
+                "wheelchair": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384276254,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8686725,
+                        45.7633639
+                    ],
+                    [
+                        4.8686506,
+                        45.7632523
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Alsace",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "50",
+                "route_ref": "C16A:A",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 232116009,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5763225,
+                        47.253772
+                    ],
+                    [
+                        -1.5763249,
+                        47.2540122
+                    ],
+                    [
+                        -1.5763255,
+                        47.2540737
+                    ],
+                    [
+                        -1.5763228,
+                        47.2541198
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Route de Rennes",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232116010,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5763225,
+                        47.253772
+                    ],
+                    [
+                        -1.5762861,
+                        47.2538718
+                    ],
+                    [
+                        -1.5762632,
+                        47.2540131
+                    ],
+                    [
+                        -1.5762564,
+                        47.2541025
+                    ],
+                    [
+                        -1.5762797,
+                        47.2541684
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Route de Rennes",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

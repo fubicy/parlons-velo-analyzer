@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 30424304,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5031188,
+                        47.1960835
+                    ],
+                    [
+                        -1.5030998,
+                        47.1967857
+                    ],
+                    [
+                        -1.5031021,
+                        47.1969807
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Garennes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136489058,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5031021,
+                        47.1969807
+                    ],
+                    [
+                        -1.5031399,
+                        47.1980357
+                    ],
+                    [
+                        -1.5031627,
+                        47.1981422
+                    ],
+                    [
+                        -1.503209,
+                        47.1982639
+                    ],
+                    [
+                        -1.5032737,
+                        47.1983683
+                    ],
+                    [
+                        -1.5033638,
+                        47.1984759
+                    ],
+                    [
+                        -1.5034107,
+                        47.1985239
+                    ],
+                    [
+                        -1.5037532,
+                        47.1988653
+                    ],
+                    [
+                        -1.5041449,
+                        47.1992706
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "designated",
+                "bicycle": "designated",
+                "cycleway": "opposite_lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lit": "yes",
+                "motor_vehicle": "designated",
+                "name": "Rue des Garennes",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

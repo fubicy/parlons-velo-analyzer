@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4366452,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.7713163,
+                        47.6590494
+                    ],
+                    [
+                        -2.7713969,
+                        47.6590364
+                    ],
+                    [
+                        -2.7715875,
+                        47.659015
+                    ],
+                    [
+                        -2.7717144,
+                        47.658997
+                    ],
+                    [
+                        -2.7717452,
+                        47.6589926
+                    ],
+                    [
+                        -2.771906,
+                        47.6589296
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Avenue Franklin Roosevelt",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32207137,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.7677598,
+                        47.6590676
+                    ],
+                    [
+                        -2.7694089,
+                        47.6590615
+                    ],
+                    [
+                        -2.7695767,
+                        47.6590609
+                    ],
+                    [
+                        -2.7697685,
+                        47.6590609
+                    ],
+                    [
+                        -2.7707908,
+                        47.6590564
+                    ],
+                    [
+                        -2.7709094,
+                        47.6590567
+                    ],
+                    [
+                        -2.7713163,
+                        47.6590494
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue Franklin Roosevelt",
+                "oneway": "yes",
+                "ref": "D 779B",
+                "ref:FR:FANTOIR": "562602900P",
+                "source": "survey",
+                "source:geometry": "Bing",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200984197,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.7651225,
+                        47.6590862
+                    ],
+                    [
+                        -2.7652583,
+                        47.6590787
+                    ],
+                    [
+                        -2.7654346,
+                        47.6590769
+                    ],
+                    [
+                        -2.7660294,
+                        47.6590674
+                    ],
+                    [
+                        -2.7661561,
+                        47.6590648
+                    ],
+                    [
+                        -2.7668944,
+                        47.6590575
+                    ],
+                    [
+                        -2.7676321,
+                        47.6590555
+                    ],
+                    [
+                        -2.7677598,
+                        47.6590676
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Avenue Franklin Roosevelt",
+                "oneway": "no",
+                "ref": "D 779B",
+                "ref:FR:FANTOIR": "562602900P",
+                "source": "survey",
+                "source:geometry": "Bing",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

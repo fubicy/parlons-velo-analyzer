@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 185315876,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7527978,
+                        45.1965886
+                    ],
+                    [
+                        5.7528898,
+                        45.1966559
+                    ],
+                    [
+                        5.7530506,
+                        45.1967735
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Sablons",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

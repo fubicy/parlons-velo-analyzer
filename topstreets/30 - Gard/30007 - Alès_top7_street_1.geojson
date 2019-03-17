@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 205129416,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0789316,
+                        44.1200462
+                    ],
+                    [
+                        4.0788633,
+                        44.1201915
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Pont Vieux",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205129419,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0785908,
+                        44.1209692
+                    ],
+                    [
+                        4.0785669,
+                        44.1210395
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Pont Vieux",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205129420,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0788633,
+                        44.1201915
+                    ],
+                    [
+                        4.0786102,
+                        44.1209137
+                    ],
+                    [
+                        4.0785908,
+                        44.1209692
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Vieux",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

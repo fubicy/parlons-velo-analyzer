@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 46890337,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7405592,
+                        48.5982934
+                    ],
+                    [
+                        7.7397154,
+                        48.5997924
+                    ],
+                    [
+                        7.7396596,
+                        48.5999023
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "40",
+                "name": "Route du G\u00e9n\u00e9ral de Gaulle",
+                "old_ref": "N 63",
+                "ref": "D 263",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "source:maxspeed": "sign",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

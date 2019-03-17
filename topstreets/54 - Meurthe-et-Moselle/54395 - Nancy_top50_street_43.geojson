@@ -1,0 +1,241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 6281687,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.16689,
+                        48.6860104
+                    ],
+                    [
+                        6.166967,
+                        48.6860054
+                    ],
+                    [
+                        6.1670524,
+                        48.6860082
+                    ],
+                    [
+                        6.1671387,
+                        48.6860207
+                    ],
+                    [
+                        6.1672045,
+                        48.6860392
+                    ],
+                    [
+                        6.1672906,
+                        48.6860758
+                    ],
+                    [
+                        6.1673365,
+                        48.6861056
+                    ],
+                    [
+                        6.1674315,
+                        48.6861821
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bicycle:lanes": "no|no|designated",
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "destination": "Nancy-Centre",
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Place de la Commanderie",
+                "oneway": "yes",
+                "psv:lanes": "no|no|designated",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14326319,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.167035,
+                        48.6857422
+                    ],
+                    [
+                        6.1670203,
+                        48.6857045
+                    ],
+                    [
+                        6.1669933,
+                        48.6856714
+                    ],
+                    [
+                        6.1669453,
+                        48.6856206
+                    ],
+                    [
+                        6.1668779,
+                        48.6855631
+                    ],
+                    [
+                        6.1667346,
+                        48.6854617
+                    ],
+                    [
+                        6.1666772,
+                        48.6854218
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Place de la Commanderie",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38382708,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.167035,
+                        48.6857422
+                    ],
+                    [
+                        6.1671786,
+                        48.6857512
+                    ],
+                    [
+                        6.1675006,
+                        48.6857965
+                    ],
+                    [
+                        6.1675471,
+                        48.6858036
+                    ],
+                    [
+                        6.1676353,
+                        48.6858171
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Place de la Commanderie",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 209108629,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1676353,
+                        48.6858171
+                    ],
+                    [
+                        6.167611,
+                        48.6858589
+                    ],
+                    [
+                        6.1675928,
+                        48.6858872
+                    ],
+                    [
+                        6.1675323,
+                        48.6859644
+                    ],
+                    [
+                        6.1674462,
+                        48.6860745
+                    ],
+                    [
+                        6.1674399,
+                        48.6860942
+                    ],
+                    [
+                        6.1674315,
+                        48.6861821
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Place de la Commanderie",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 209108630,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.16689,
+                        48.6860104
+                    ],
+                    [
+                        6.1669563,
+                        48.6859236
+                    ],
+                    [
+                        6.1670201,
+                        48.6858313
+                    ],
+                    [
+                        6.1670322,
+                        48.6858046
+                    ],
+                    [
+                        6.1670369,
+                        48.68578
+                    ],
+                    [
+                        6.1670383,
+                        48.6857724
+                    ],
+                    [
+                        6.167035,
+                        48.6857422
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Mus\u00e9e de l\u2019\u00c9cole de Nancy;Conseil D\u00e9partemental;Nancy-Thermal;E.H.P.A.D. S. B\u00e9nichon",
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Place de la Commanderie",
+                "oneway": "yes",
+                "source": "GrandNancy Orthophotographie 2012",
+                "surface": "asphalt",
+                "turn:lanes": "left|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

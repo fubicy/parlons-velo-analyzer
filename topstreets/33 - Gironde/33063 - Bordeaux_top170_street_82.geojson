@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 328567534,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5708469,
+                        44.8726772
+                    ],
+                    [
+                        -0.5708201,
+                        44.8724529
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "footway",
+                "horse": "no",
+                "motor_vehicle": "no",
+                "name": "Sentier",
+                "surface": "gravier",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

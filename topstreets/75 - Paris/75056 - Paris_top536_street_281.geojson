@@ -1,0 +1,147 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 21821064,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3448196,
+                        48.8542791
+                    ],
+                    [
+                        2.3448946,
+                        48.8543446
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard du Palais",
+                "note": "Voies de bus+v\u00e9lo dans les 2 sens",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64609511,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3464788,
+                        48.8561892
+                    ],
+                    [
+                        2.346513,
+                        48.8562473
+                    ],
+                    [
+                        2.3465199,
+                        48.8562589
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "name": "Boulevard du Palais",
+                "note": "Voies de bus+v\u00e9lo dans les 2 sens",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123461253,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3448946,
+                        48.8543446
+                    ],
+                    [
+                        2.3449895,
+                        48.8544239
+                    ],
+                    [
+                        2.3455217,
+                        48.8549603
+                    ],
+                    [
+                        2.345825,
+                        48.8552726
+                    ],
+                    [
+                        2.3459039,
+                        48.8553633
+                    ],
+                    [
+                        2.3459474,
+                        48.8554216
+                    ],
+                    [
+                        2.3459937,
+                        48.8554794
+                    ],
+                    [
+                        2.3460706,
+                        48.855578
+                    ],
+                    [
+                        2.3462401,
+                        48.855803
+                    ],
+                    [
+                        2.3464349,
+                        48.8561185
+                    ],
+                    [
+                        2.3464788,
+                        48.8561892
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "busway:right": "lane",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Boulevard du Palais",
+                "name:ru": "\u0431\u0443\u043b\u044c\u0432\u0430\u0440 \u041f\u0430\u043b\u0435",
+                "note": "Voies de bus+v\u00e9lo dans les 2 sens",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "wikidata": "Q2922067",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

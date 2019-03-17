@@ -1,0 +1,164 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039325,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5187934,
+                        48.8342358
+                    ],
+                    [
+                        2.5185929,
+                        48.8341625
+                    ],
+                    [
+                        2.5183985,
+                        48.8341272
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de Bry",
+                "oneway": "yes",
+                "ref": "D 120",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27776164,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5168307,
+                        48.8341678
+                    ],
+                    [
+                        2.5181273,
+                        48.8341121
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:forward": "1",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Bry",
+                "ref": "D 120",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40364981,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5181273,
+                        48.8341121
+                    ],
+                    [
+                        2.518393,
+                        48.8340628
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "track",
+                "highway": "secondary",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de Bry",
+                "oneway": "yes",
+                "ref": "D 120",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120336898,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.5183985,
+                        48.8341272
+                    ],
+                    [
+                        2.5181273,
+                        48.8341121
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "track",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Bry",
+                "oneway": "yes",
+                "ref": "D 120",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120336902,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.518393,
+                        48.8340628
+                    ],
+                    [
+                        2.5185933,
+                        48.834015
+                    ],
+                    [
+                        2.5187408,
+                        48.8339663
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Pont de Bry",
+                "oneway": "yes",
+                "ref": "D 120",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

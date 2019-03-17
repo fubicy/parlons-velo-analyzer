@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40346357,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0860571,
+                        45.7784925
+                    ],
+                    [
+                        3.0859821,
+                        45.7784838
+                    ],
+                    [
+                        3.0859583,
+                        45.7784456
+                    ],
+                    [
+                        3.0860417,
+                        45.7779363
+                    ],
+                    [
+                        3.086081,
+                        45.7776108
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Place de la Victoire",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40609498,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0855857,
+                        45.7775175
+                    ],
+                    [
+                        3.0855563,
+                        45.7784773
+                    ],
+                    [
+                        3.0854056,
+                        45.7784831
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Place de la Victoire",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170240494,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0859821,
+                        45.7784838
+                    ],
+                    [
+                        3.0859221,
+                        45.7784829
+                    ],
+                    [
+                        3.0855806,
+                        45.7784777
+                    ],
+                    [
+                        3.0855563,
+                        45.7784773
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Place de la Victoire",
+                "source": "survey",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

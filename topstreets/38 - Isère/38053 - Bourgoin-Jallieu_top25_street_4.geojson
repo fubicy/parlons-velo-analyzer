@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 304253607,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2744199,
+                        45.5799022
+                    ],
+                    [
+                        5.2743706,
+                        45.580011
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Charges Gare SNCF",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 304253608,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2741905,
+                        45.5801007
+                    ],
+                    [
+                        5.2742534,
+                        45.5799825
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Charges Gare SNCF",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "wheelchair": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

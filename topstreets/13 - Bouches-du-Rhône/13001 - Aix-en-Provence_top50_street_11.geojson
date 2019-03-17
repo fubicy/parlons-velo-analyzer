@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5043560,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4435033,
+                        43.5314737
+                    ],
+                    [
+                        5.4435563,
+                        43.5313887
+                    ],
+                    [
+                        5.4436339,
+                        43.5312641
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Sextius",
+                "oneway": "yes",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27390561,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4436339,
+                        43.5312641
+                    ],
+                    [
+                        5.4438311,
+                        43.5308977
+                    ],
+                    [
+                        5.4440688,
+                        43.5305451
+                    ],
+                    [
+                        5.4441545,
+                        43.5303592
+                    ],
+                    [
+                        5.4441858,
+                        43.5301544
+                    ],
+                    [
+                        5.4441295,
+                        43.529717
+                    ],
+                    [
+                        5.444122,
+                        43.5296585
+                    ],
+                    [
+                        5.4441099,
+                        43.5295651
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Sextius",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 623438528,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4441099,
+                        43.5295651
+                    ],
+                    [
+                        5.444084,
+                        43.5294969
+                    ],
+                    [
+                        5.4438087,
+                        43.5287736
+                    ],
+                    [
+                        5.4437051,
+                        43.528442
+                    ],
+                    [
+                        5.4433478,
+                        43.5275036
+                    ],
+                    [
+                        5.4432898,
+                        43.5273512
+                    ],
+                    [
+                        5.4432893,
+                        43.5273498
+                    ],
+                    [
+                        5.4432472,
+                        43.5272653
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:bus": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Cours Sextius",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 8,
+                "line_color": "#d43500"
+            }
+        }
+    ]
+}

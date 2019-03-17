@@ -1,0 +1,159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4217158,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.349835,
+                        48.8489335
+                    ],
+                    [
+                        2.3497582,
+                        48.8488344
+                    ],
+                    [
+                        2.3494475,
+                        48.8484406
+                    ],
+                    [
+                        2.3493965,
+                        48.848376
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Bernardins",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "wikidata": "Q3451673",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4499646,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3493965,
+                        48.848376
+                    ],
+                    [
+                        2.3493364,
+                        48.8483163
+                    ],
+                    [
+                        2.3491438,
+                        48.848125
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Bernardins",
+                "surface": "asphalt",
+                "wikidata": "Q3451673",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21885520,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.349835,
+                        48.8489335
+                    ],
+                    [
+                        2.3499401,
+                        48.8490773
+                    ],
+                    [
+                        2.3502869,
+                        48.8495398
+                    ],
+                    [
+                        2.3503295,
+                        48.8495963
+                    ],
+                    [
+                        2.3503668,
+                        48.8496447
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Bernardins",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02010-088",
+                "surface": "asphalt",
+                "wikidata": "Q3451673",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72240223,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3503668,
+                        48.8496447
+                    ],
+                    [
+                        2.3504187,
+                        48.8497256
+                    ],
+                    [
+                        2.3512644,
+                        48.8510414
+                    ],
+                    [
+                        2.351303,
+                        48.8511131
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Bernardins",
+                "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0411\u0435\u0440\u043d\u0430\u0434\u044d\u043d",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02010-088",
+                "surface": "asphalt",
+                "wikidata": "Q3451673",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

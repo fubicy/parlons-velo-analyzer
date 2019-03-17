@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4861605,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.3213283,
+                        46.5611528
+                    ],
+                    [
+                        3.3249254,
+                        46.5624085
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont R\u00e9gemortes",
+                "oneway": "no",
+                "ref": "D 2009",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left;through|right",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4861696,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.3209803,
+                        46.5609588
+                    ],
+                    [
+                        3.321142,
+                        46.5610974
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Pont R\u00e9gemortes",
+                "oneway": "yes",
+                "ref": "D 2009",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54043099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.321142,
+                        46.5610974
+                    ],
+                    [
+                        3.3208805,
+                        46.5611103
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Pont R\u00e9gemortes",
+                "oneway": "yes",
+                "ref": "D 2009",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54043100,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.321142,
+                        46.5610974
+                    ],
+                    [
+                        3.3213283,
+                        46.5611528
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Pont R\u00e9gemortes",
+                "oneway": "no",
+                "ref": "D 2009",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

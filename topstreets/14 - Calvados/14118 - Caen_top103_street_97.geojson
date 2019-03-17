@@ -1,0 +1,164 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4610498,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3595468,
+                        49.1782738
+                    ],
+                    [
+                        -0.3595962,
+                        49.178265
+                    ],
+                    [
+                        -0.3596846,
+                        49.1782493
+                    ],
+                    [
+                        -0.3597714,
+                        49.1782339
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue de Verdun",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92032459,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.359621,
+                        49.178137
+                    ],
+                    [
+                        -0.3595922,
+                        49.1781901
+                    ],
+                    [
+                        -0.3595624,
+                        49.178245
+                    ],
+                    [
+                        -0.3595468,
+                        49.1782738
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue de Verdun",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162010321,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3595468,
+                        49.1782738
+                    ],
+                    [
+                        -0.3589307,
+                        49.1787076
+                    ],
+                    [
+                        -0.3588743,
+                        49.1787462
+                    ],
+                    [
+                        -0.3587029,
+                        49.1788636
+                    ],
+                    [
+                        -0.3584519,
+                        49.1789959
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue de Verdun",
+                "sidewalk": "both",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516352471,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3584519,
+                        49.1789959
+                    ],
+                    [
+                        -0.3578375,
+                        49.1792821
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue de Verdun",
+                "sidewalk": "both",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 516352473,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3578375,
+                        49.1792821
+                    ],
+                    [
+                        -0.3576158,
+                        49.1793847
+                    ],
+                    [
+                        -0.3575133,
+                        49.179434
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "name": "Avenue de Verdun",
+                "sidewalk": "both",
+                "turn:lanes:forward": "through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4786940,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2679938,
+                        48.8225999
+                    ],
+                    [
+                        2.2679561,
+                        48.8230351
+                    ],
+                    [
+                        2.2679486,
+                        48.8231011
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Boulevard Gallieni",
+                "ref": "D 69",
+                "surface": "asphalt",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 352962858,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2679486,
+                        48.8231011
+                    ],
+                    [
+                        2.2678774,
+                        48.8239202
+                    ],
+                    [
+                        2.2678149,
+                        48.8246275
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Boulevard Gallieni",
+                "ref": "D 69",
+                "surface": "asphalt",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        }
+    ]
+}

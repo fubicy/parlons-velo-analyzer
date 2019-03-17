@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 156535290,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6219069,
+                        44.2089064
+                    ],
+                    [
+                        0.6216986,
+                        44.2081409
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "highway": "footway",
+                "layer": "1",
+                "name": "Passerelle",
+                "source": "GPS",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 531222878,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6216986,
+                        44.2081409
+                    ],
+                    [
+                        0.6216355,
+                        44.2079309
+                    ],
+                    [
+                        0.6216022,
+                        44.2079341
+                    ],
+                    [
+                        0.6216269,
+                        44.208037
+                    ],
+                    [
+                        0.6213654,
+                        44.2080364
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "bridge": "yes",
+                "highway": "steps",
+                "layer": "1",
+                "name": "Passerelle",
+                "source": "GPS",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26423656,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.546671,
+                        47.2302195
+                    ],
+                    [
+                        -1.5466624,
+                        47.2302831
+                    ],
+                    [
+                        -1.546598,
+                        47.2303269
+                    ],
+                    [
+                        -1.5462719,
+                        47.2306606
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "hgv": "no",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxweight": "7.5",
+                "motor_vehicle": "yes",
+                "name": "Rue Coquebert de Neuville",
+                "oneway": "no",
+                "parking:condition:left": "free",
+                "parking:condition:left:capacity": "8",
+                "parking:lane:left": "parallel",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "width": "4.90",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46717745,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5462719,
+                        47.2306606
+                    ],
+                    [
+                        -1.5460214,
+                        47.2309229
+                    ],
+                    [
+                        -1.5458032,
+                        47.2311639
+                    ],
+                    [
+                        -1.5456144,
+                        47.2313601
+                    ],
+                    [
+                        -1.5455614,
+                        47.2314152
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "hgv": "no",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxweight": "7.5",
+                "name": "Rue Coquebert de Neuville",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "parking:condition:right": "free",
+                "parking:condition:right:capacity": "4",
+                "parking:lane:right": "marked",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "width": "3.8",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 280499651,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5455614,
+                        47.2314152
+                    ],
+                    [
+                        -1.544735,
+                        47.2323126
+                    ],
+                    [
+                        -1.5446727,
+                        47.2323327
+                    ],
+                    [
+                        -1.5446361,
+                        47.2323445
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "cycleway": "no",
+                "foot": "designated",
+                "hgv": "no",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxweight": "7.5",
+                "name": "Rue Coquebert de Neuville",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "parking:condition:right": "free",
+                "parking:condition:right:capacity": "22",
+                "parking:lane:right": "parallel",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "width": "3.8",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

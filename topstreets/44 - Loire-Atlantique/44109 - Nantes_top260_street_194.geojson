@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 143108962,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5613937,
+                        47.2176085
+                    ],
+                    [
+                        -1.5614588,
+                        47.2175577
+                    ],
+                    [
+                        -1.5614898,
+                        47.2175335
+                    ],
+                    [
+                        -1.5621541,
+                        47.2172502
+                    ],
+                    [
+                        -1.5621959,
+                        47.2172317
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "boundary": "political",
+                "cycleway": "opposite_lane",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "20",
+                "name": "Rue G\u00e9n\u00e9ral Meusnier",
+                "oneway": "yes",
+                "political_division": "canton",
+                "segregated": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196783526,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5621959,
+                        47.2172317
+                    ],
+                    [
+                        -1.5623123,
+                        47.2171898
+                    ],
+                    [
+                        -1.5624401,
+                        47.2171355
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "boundary": "political",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue G\u00e9n\u00e9ral Meusnier",
+                "political_division": "canton",
+                "segregated": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

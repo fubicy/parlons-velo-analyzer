@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 56004305,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3714443,
+                        51.0299575
+                    ],
+                    [
+                        2.3714567,
+                        51.0299252
+                    ],
+                    [
+                        2.3716789,
+                        51.0294396
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "alt_name": "Pont de l'Europe",
+                "bicycle": "yes",
+                "bridge": "yes",
+                "cycleway": "no",
+                "foot": "yes",
+                "highway": "secondary",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "motor_vehicle": "yes",
+                "name": "Pont Europe",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|left;through|through",
+                "line_width": 13,
+                "line_color": "#6a1b00"
+            }
+        }
+    ]
+}

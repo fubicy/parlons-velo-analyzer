@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 97235561,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8308109,
+                        45.7487017
+                    ],
+                    [
+                        4.8309737,
+                        45.7486534
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Pont Gallieni",
+                "old_ref": "N 7",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97235564,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8309737,
+                        45.7486534
+                    ],
+                    [
+                        4.8312568,
+                        45.7485718
+                    ],
+                    [
+                        4.8331499,
+                        45.7479671
+                    ],
+                    [
+                        4.8333656,
+                        45.7478982
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "bridge": "yes",
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:forward": "3",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Gallieni",
+                "old_ref": "N 7",
+                "oneway": "no",
+                "surface": "asphalt",
+                "turn:lanes:forward": "through|through|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323813406,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8310612,
+                        45.7487807
+                    ],
+                    [
+                        4.8334447,
+                        45.7480176
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "foot": "designated",
+                "highway": "cycleway",
+                "layer": "1",
+                "name": "Pont Gallieni",
+                "segregated": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

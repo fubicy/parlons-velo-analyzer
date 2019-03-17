@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31091618,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2558959,
+                        45.8313432
+                    ],
+                    [
+                        1.2557472,
+                        45.8316395
+                    ],
+                    [
+                        1.2556063,
+                        45.8319973
+                    ],
+                    [
+                        1.2556397,
+                        45.8321019
+                    ],
+                    [
+                        1.2557388,
+                        45.8323134
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue des \u00c9coles",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 429340759,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.2557388,
+                        45.8323134
+                    ],
+                    [
+                        1.2558897,
+                        45.8324573
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue des \u00c9coles",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

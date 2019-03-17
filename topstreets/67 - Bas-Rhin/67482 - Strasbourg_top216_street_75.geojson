@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24600424,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7589693,
+                        48.5630614
+                    ],
+                    [
+                        7.7589735,
+                        48.5630187
+                    ],
+                    [
+                        7.7589904,
+                        48.5622516
+                    ],
+                    [
+                        7.7590099,
+                        48.5614749
+                    ],
+                    [
+                        7.7590374,
+                        48.5603683
+                    ],
+                    [
+                        7.7590428,
+                        48.5602731
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "unclassified",
+                "name": "Rue de la Charit\u00e9",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183864477,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7590428,
+                        48.5602731
+                    ],
+                    [
+                        7.7590416,
+                        48.5602171
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue de la Charit\u00e9",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

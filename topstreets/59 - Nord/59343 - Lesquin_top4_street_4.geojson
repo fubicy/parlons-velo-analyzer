@@ -1,0 +1,200 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 35172497,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1140492,
+                        50.5894472
+                    ],
+                    [
+                        3.1135361,
+                        50.5892224
+                    ],
+                    [
+                        3.1133973,
+                        50.5891615
+                    ],
+                    [
+                        3.1133392,
+                        50.5891379
+                    ],
+                    [
+                        3.1132502,
+                        50.5891018
+                    ],
+                    [
+                        3.1131342,
+                        50.5890504
+                    ],
+                    [
+                        3.1128938,
+                        50.588952
+                    ],
+                    [
+                        3.1127229,
+                        50.588893
+                    ],
+                    [
+                        3.1121169,
+                        50.5886876
+                    ],
+                    [
+                        3.1119946,
+                        50.5886477
+                    ],
+                    [
+                        3.111189,
+                        50.5883574
+                    ],
+                    [
+                        3.1111316,
+                        50.5883405
+                    ],
+                    [
+                        3.1110476,
+                        50.5883158
+                    ],
+                    [
+                        3.1109803,
+                        50.588295
+                    ],
+                    [
+                        3.1097926,
+                        50.5879281
+                    ],
+                    [
+                        3.1091905,
+                        50.5877418
+                    ],
+                    [
+                        3.1090423,
+                        50.5876905
+                    ],
+                    [
+                        3.1089892,
+                        50.5876651
+                    ]
+                ]
+            },
+            "properties": {
+                "goods": "no",
+                "highway": "secondary",
+                "name": "Rue Faidherbe",
+                "ref": "D 952",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35172503,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1156113,
+                        50.5901236
+                    ],
+                    [
+                        3.1140492,
+                        50.5894472
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "secondary",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Faidherbe",
+                "ref": "D 952",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42637010,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1181021,
+                        50.5911217
+                    ],
+                    [
+                        3.1178458,
+                        50.5910519
+                    ],
+                    [
+                        3.1178024,
+                        50.5910401
+                    ],
+                    [
+                        3.1174304,
+                        50.5909403
+                    ],
+                    [
+                        3.1172799,
+                        50.5909088
+                    ],
+                    [
+                        3.1162926,
+                        50.5904437
+                    ],
+                    [
+                        3.116255,
+                        50.5904131
+                    ],
+                    [
+                        3.116016,
+                        50.5902969
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Rue Faidherbe",
+                "ref": "D 952",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 287081729,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.116016,
+                        50.5902969
+                    ],
+                    [
+                        3.1156113,
+                        50.5901236
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed:type": "FR:urban",
+                "name": "Rue Faidherbe",
+                "ref": "D 952",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

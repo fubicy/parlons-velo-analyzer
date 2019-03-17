@@ -1,0 +1,349 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26258679,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9042731,
+                        47.8981379
+                    ],
+                    [
+                        1.9042471,
+                        47.8984366
+                    ],
+                    [
+                        1.9042179,
+                        47.8987748
+                    ],
+                    [
+                        1.904192,
+                        47.8990107
+                    ],
+                    [
+                        1.9041875,
+                        47.89906
+                    ],
+                    [
+                        1.9041814,
+                        47.8991255
+                    ],
+                    [
+                        1.9041422,
+                        47.8996255
+                    ],
+                    [
+                        1.9041212,
+                        47.899823
+                    ],
+                    [
+                        1.9041145,
+                        47.8999027
+                    ],
+                    [
+                        1.9040819,
+                        47.9001953
+                    ],
+                    [
+                        1.9040782,
+                        47.9002339
+                    ],
+                    [
+                        1.9039974,
+                        47.9003059
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "shared_lane",
+                "highway": "residential",
+                "maxheight": "3.7",
+                "maxspeed": "30",
+                "name": "Rue Royale",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:zone30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33562408,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9039974,
+                        47.9003059
+                    ],
+                    [
+                        1.9039912,
+                        47.9002125
+                    ],
+                    [
+                        1.9039926,
+                        47.9001937
+                    ],
+                    [
+                        1.9039991,
+                        47.9000692
+                    ],
+                    [
+                        1.9040135,
+                        47.8999006
+                    ],
+                    [
+                        1.9040185,
+                        47.8998343
+                    ],
+                    [
+                        1.904076,
+                        47.8991213
+                    ],
+                    [
+                        1.9040798,
+                        47.89906
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Royale",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33562418,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9040798,
+                        47.89906
+                    ],
+                    [
+                        1.9040839,
+                        47.8990082
+                    ],
+                    [
+                        1.9040816,
+                        47.8988882
+                    ],
+                    [
+                        1.9040909,
+                        47.8987698
+                    ],
+                    [
+                        1.9041064,
+                        47.8986042
+                    ],
+                    [
+                        1.9041254,
+                        47.8984362
+                    ],
+                    [
+                        1.9041548,
+                        47.8981324
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "highway": "residential",
+                "maxspeed": "30",
+                "motor_vehicle": "destination",
+                "name": "Rue Royale",
+                "note": "LIVRAISONS uniquement",
+                "oneway": "yes",
+                "vehicle": "delivery",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33885010,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9039974,
+                        47.9003059
+                    ],
+                    [
+                        1.9039862,
+                        47.9004303
+                    ],
+                    [
+                        1.9039843,
+                        47.9005083
+                    ],
+                    [
+                        1.9039429,
+                        47.9010191
+                    ],
+                    [
+                        1.9039283,
+                        47.9012695
+                    ],
+                    [
+                        1.9039269,
+                        47.9012931
+                    ],
+                    [
+                        1.9039363,
+                        47.9013538
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "shared_lane",
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Royale",
+                "oneway": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179893335,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9041548,
+                        47.8981324
+                    ],
+                    [
+                        1.904162,
+                        47.8980413
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Royale",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180080122,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9039205,
+                        47.901478
+                    ],
+                    [
+                        1.9039194,
+                        47.9014911
+                    ],
+                    [
+                        1.9038792,
+                        47.9019474
+                    ],
+                    [
+                        1.9038736,
+                        47.9020142
+                    ],
+                    [
+                        1.9038688,
+                        47.9020704
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue Royale",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "paved",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 381963268,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9038688,
+                        47.9020704
+                    ],
+                    [
+                        1.9038665,
+                        47.9021117
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue Royale",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 429589436,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.9039363,
+                        47.9013538
+                    ],
+                    [
+                        1.9039369,
+                        47.9013856
+                    ],
+                    [
+                        1.9039205,
+                        47.901478
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Royale",
+                "surface": "sett",
+                "zone:maxspeed": "FR:30",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

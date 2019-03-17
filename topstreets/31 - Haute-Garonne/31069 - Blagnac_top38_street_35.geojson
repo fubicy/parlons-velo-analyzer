@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24584243,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3754148,
+                        43.6366898
+                    ],
+                    [
+                        1.3753926,
+                        43.6366412
+                    ],
+                    [
+                        1.3753887,
+                        43.6365948
+                    ],
+                    [
+                        1.3753892,
+                        43.6365041
+                    ],
+                    [
+                        1.3755577,
+                        43.6362226
+                    ],
+                    [
+                        1.3758478,
+                        43.6357516
+                    ],
+                    [
+                        1.3759728,
+                        43.6355414
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "unclassified",
+                "name": "Avenue Albert Durand",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 640614133,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3759728,
+                        43.6355414
+                    ],
+                    [
+                        1.3760469,
+                        43.6354167
+                    ],
+                    [
+                        1.3762412,
+                        43.6350899
+                    ],
+                    [
+                        1.3765051,
+                        43.6346462
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "unclassified",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Albert Durand",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 640614134,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3765051,
+                        43.6346462
+                    ],
+                    [
+                        1.3766422,
+                        43.6344021
+                    ],
+                    [
+                        1.3767244,
+                        43.6342646
+                    ],
+                    [
+                        1.3767407,
+                        43.6342373
+                    ],
+                    [
+                        1.376799,
+                        43.6341372
+                    ],
+                    [
+                        1.3768189,
+                        43.634103
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "unclassified",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Albert Durand",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 640614138,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3767473,
+                        43.6340254
+                    ],
+                    [
+                        1.3766872,
+                        43.6340048
+                    ],
+                    [
+                        1.3764573,
+                        43.6339261
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "foot": "yes",
+                "highway": "unclassified",
+                "horse": "private",
+                "lanes": "2",
+                "name": "Avenue Albert Durand",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

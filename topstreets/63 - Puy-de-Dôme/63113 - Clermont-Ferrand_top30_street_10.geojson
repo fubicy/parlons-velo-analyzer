@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4082824,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0952029,
+                        45.7731804
+                    ],
+                    [
+                        3.095232,
+                        45.7732973
+                    ],
+                    [
+                        3.0952931,
+                        45.7735423
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard Fleury",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144731538,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0952931,
+                        45.7735423
+                    ],
+                    [
+                        3.0955258,
+                        45.7742444
+                    ],
+                    [
+                        3.0957303,
+                        45.7748838
+                    ],
+                    [
+                        3.0957674,
+                        45.7750108
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Boulevard Fleury",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

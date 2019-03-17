@@ -1,0 +1,143 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 384549428,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8686921,
+                        45.7532574
+                    ],
+                    [
+                        4.8689578,
+                        45.75311
+                    ],
+                    [
+                        4.8690768,
+                        45.7530439
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Dauphin\u00e9 - Lacassagne",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "10129",
+                "route_ref": "25A:A,C13A:R,C16A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "trolleybus": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384549431,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8689326,
+                        45.7532512
+                    ],
+                    [
+                        4.8688213,
+                        45.7533124
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Dauphin\u00e9 - Lacassagne",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "10130",
+                "route_ref": "25A:R,C13A:A,C16A:R",
+                "shelter": "no",
+                "source": "SYTRAL 12/2016",
+                "trolleybus": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384549434,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8691358,
+                        45.7527431
+                    ],
+                    [
+                        4.8689297,
+                        45.752713
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Dauphin\u00e9 - Lacassagne",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "11501",
+                "route_ref": "69A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384549448,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8689307,
+                        45.7525954
+                    ],
+                    [
+                        4.8691368,
+                        45.7526255
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Dauphin\u00e9 - Lacassagne",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "11500",
+                "route_ref": "69A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22677168,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7562915,
+                        48.6026561
+                    ],
+                    [
+                        7.7562564,
+                        48.6026677
+                    ],
+                    [
+                        7.7562048,
+                        48.6026839
+                    ],
+                    [
+                        7.7556752,
+                        48.6027772
+                    ],
+                    [
+                        7.7556285,
+                        48.602788
+                    ],
+                    [
+                        7.7542972,
+                        48.6030238
+                    ],
+                    [
+                        7.7542422,
+                        48.6030226
+                    ],
+                    [
+                        7.7539315,
+                        48.6030158
+                    ],
+                    [
+                        7.7538308,
+                        48.6030267
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Rue Contades",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22677569,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.754453,
+                        48.6014088
+                    ],
+                    [
+                        7.7544079,
+                        48.601592
+                    ],
+                    [
+                        7.7543447,
+                        48.6017505
+                    ],
+                    [
+                        7.7542829,
+                        48.6019055
+                    ],
+                    [
+                        7.7542154,
+                        48.6020748
+                    ],
+                    [
+                        7.754132,
+                        48.6022796
+                    ],
+                    [
+                        7.7540222,
+                        48.6025495
+                    ],
+                    [
+                        7.7538308,
+                        48.6030267
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "cycleway:left": "lane",
+                "highway": "unclassified",
+                "lanes": "1",
+                "lcn": "yes",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Contades",
+                "oneway": "yes",
+                "parking:lane:left": "parallel",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108402581,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7544033,
+                        48.6009513
+                    ],
+                    [
+                        7.7544151,
+                        48.6009997
+                    ],
+                    [
+                        7.7544326,
+                        48.6010672
+                    ],
+                    [
+                        7.7544465,
+                        48.6012032
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Rue Contades",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 411123019,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7544465,
+                        48.6012032
+                    ],
+                    [
+                        7.7544647,
+                        48.6013141
+                    ],
+                    [
+                        7.754453,
+                        48.6014088
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Contades",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

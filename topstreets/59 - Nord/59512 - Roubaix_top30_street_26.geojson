@@ -1,0 +1,147 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 36225246,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1760226,
+                        50.6858521
+                    ],
+                    [
+                        3.1764051,
+                        50.6855792
+                    ],
+                    [
+                        3.1766131,
+                        50.6854308
+                    ],
+                    [
+                        3.1767063,
+                        50.6853877
+                    ],
+                    [
+                        3.1769111,
+                        50.6852932
+                    ],
+                    [
+                        3.1767648,
+                        50.684469
+                    ],
+                    [
+                        3.1767197,
+                        50.6842082
+                    ],
+                    [
+                        3.1767021,
+                        50.6840758
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "name": "Rue Jean Moulin",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180331709,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1752327,
+                        50.6873633
+                    ],
+                    [
+                        3.1752668,
+                        50.6873145
+                    ],
+                    [
+                        3.1753085,
+                        50.687278
+                    ],
+                    [
+                        3.1753767,
+                        50.6872067
+                    ],
+                    [
+                        3.1754307,
+                        50.687128
+                    ],
+                    [
+                        3.1758321,
+                        50.686059
+                    ],
+                    [
+                        3.175869,
+                        50.6859687
+                    ],
+                    [
+                        3.1760226,
+                        50.6858521
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "residential",
+                "name": "Rue Jean Moulin",
+                "oneway": "yes",
+                "source": "survey",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180331710,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1766713,
+                        50.6838786
+                    ],
+                    [
+                        3.176608,
+                        50.6835347
+                    ],
+                    [
+                        3.1764998,
+                        50.6830768
+                    ],
+                    [
+                        3.176419,
+                        50.6827908
+                    ],
+                    [
+                        3.1763615,
+                        50.682685
+                    ],
+                    [
+                        3.1763049,
+                        50.682578
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "name": "Rue Jean Moulin",
+                "oneway": "yes",
+                "source": "Bing",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25967321,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0027746,
+                        49.2629694
+                    ],
+                    [
+                        4.002815,
+                        49.2629685
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Pont de Saint-Brice",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 206757807,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0036309,
+                        49.2629004
+                    ],
+                    [
+                        4.002815,
+                        49.2629685
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "tertiary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de Saint-Brice",
+                "ref": "D 75",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

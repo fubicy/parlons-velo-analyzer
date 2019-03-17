@@ -1,0 +1,981 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 95565302,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.058313,
+                        50.6293843
+                    ],
+                    [
+                        3.0581977,
+                        50.6294429
+                    ],
+                    [
+                        3.0575757,
+                        50.6297591
+                    ],
+                    [
+                        3.0567484,
+                        50.6302097
+                    ],
+                    [
+                        3.0566387,
+                        50.6302652
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103066477,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0521758,
+                        50.6326256
+                    ],
+                    [
+                        3.0520622,
+                        50.6326797
+                    ],
+                    [
+                        3.0519896,
+                        50.6327134
+                    ],
+                    [
+                        3.051399,
+                        50.6330247
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "parking:lane:both": "parallel",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through;right",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131751143,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0590053,
+                        50.6290201
+                    ],
+                    [
+                        3.0589281,
+                        50.6290601
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145894912,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0639584,
+                        50.6263959
+                    ],
+                    [
+                        3.0637422,
+                        50.6265123
+                    ],
+                    [
+                        3.062202,
+                        50.6273144
+                    ],
+                    [
+                        3.0621666,
+                        50.6273328
+                    ],
+                    [
+                        3.0619844,
+                        50.6274339
+                    ],
+                    [
+                        3.0618681,
+                        50.6274986
+                    ],
+                    [
+                        3.0617899,
+                        50.6275421
+                    ],
+                    [
+                        3.061678,
+                        50.6276044
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145894917,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0639584,
+                        50.6263959
+                    ],
+                    [
+                        3.064017,
+                        50.6263302
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Solferino",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145895042,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0642453,
+                        50.6262816
+                    ],
+                    [
+                        3.0641399,
+                        50.6263376
+                    ],
+                    [
+                        3.0641019,
+                        50.6263577
+                    ],
+                    [
+                        3.0639584,
+                        50.6263959
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "name": "Rue Solferino",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145895043,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.064017,
+                        50.6263302
+                    ],
+                    [
+                        3.0640428,
+                        50.6263119
+                    ],
+                    [
+                        3.0641035,
+                        50.6262805
+                    ],
+                    [
+                        3.0642916,
+                        50.626183
+                    ],
+                    [
+                        3.0644545,
+                        50.6260986
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Solferino",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145895045,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0647521,
+                        50.6260126
+                    ],
+                    [
+                        3.0645736,
+                        50.6261073
+                    ],
+                    [
+                        3.0644589,
+                        50.6261745
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Solferino",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147572085,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.055696,
+                        50.6307704
+                    ],
+                    [
+                        3.0555859,
+                        50.6308288
+                    ],
+                    [
+                        3.0550798,
+                        50.631097
+                    ],
+                    [
+                        3.054872,
+                        50.6312011
+                    ],
+                    [
+                        3.0547668,
+                        50.6312539
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147572086,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0533746,
+                        50.6319945
+                    ],
+                    [
+                        3.0538133,
+                        50.6317561
+                    ],
+                    [
+                        3.0539209,
+                        50.6317039
+                    ],
+                    [
+                        3.0541538,
+                        50.6315804
+                    ],
+                    [
+                        3.0543048,
+                        50.6315003
+                    ],
+                    [
+                        3.0546743,
+                        50.6313014
+                    ],
+                    [
+                        3.0547668,
+                        50.6312539
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147572087,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0566387,
+                        50.6302652
+                    ],
+                    [
+                        3.0565695,
+                        50.6302994
+                    ],
+                    [
+                        3.0564647,
+                        50.6303543
+                    ],
+                    [
+                        3.0563815,
+                        50.6304006
+                    ],
+                    [
+                        3.0562321,
+                        50.6304779
+                    ],
+                    [
+                        3.0558098,
+                        50.6307072
+                    ],
+                    [
+                        3.055696,
+                        50.6307704
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147677590,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0589281,
+                        50.6290601
+                    ],
+                    [
+                        3.058917,
+                        50.6290934
+                    ],
+                    [
+                        3.058859,
+                        50.6291222
+                    ],
+                    [
+                        3.0586891,
+                        50.6292064
+                    ],
+                    [
+                        3.0585098,
+                        50.6293064
+                    ],
+                    [
+                        3.0584518,
+                        50.6293123
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147677591,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0584518,
+                        50.6293123
+                    ],
+                    [
+                        3.058313,
+                        50.6293843
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147677592,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0584518,
+                        50.6293123
+                    ],
+                    [
+                        3.0584686,
+                        50.629285
+                    ],
+                    [
+                        3.0588277,
+                        50.6290998
+                    ],
+                    [
+                        3.0588908,
+                        50.6290672
+                    ],
+                    [
+                        3.0589281,
+                        50.6290601
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165600269,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0464921,
+                        50.6356436
+                    ],
+                    [
+                        3.0466762,
+                        50.6355433
+                    ],
+                    [
+                        3.0467637,
+                        50.6354956
+                    ],
+                    [
+                        3.0467952,
+                        50.6354785
+                    ],
+                    [
+                        3.0468692,
+                        50.6354383
+                    ],
+                    [
+                        3.0478356,
+                        50.6349126
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165600530,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0464921,
+                        50.6356436
+                    ],
+                    [
+                        3.0464428,
+                        50.6356685
+                    ],
+                    [
+                        3.0455773,
+                        50.6361307
+                    ],
+                    [
+                        3.0455532,
+                        50.6361436
+                    ],
+                    [
+                        3.0454446,
+                        50.6362016
+                    ],
+                    [
+                        3.0453509,
+                        50.6362465
+                    ],
+                    [
+                        3.0448635,
+                        50.6365134
+                    ],
+                    [
+                        3.0448299,
+                        50.6365519
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173794839,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0533746,
+                        50.6319945
+                    ],
+                    [
+                        3.0531892,
+                        50.6320925
+                    ],
+                    [
+                        3.0531119,
+                        50.6321308
+                    ],
+                    [
+                        3.052716,
+                        50.6323408
+                    ],
+                    [
+                        3.0523243,
+                        50.6325479
+                    ],
+                    [
+                        3.052294,
+                        50.6325645
+                    ],
+                    [
+                        3.0521758,
+                        50.6326256
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180787924,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0487759,
+                        50.6344483
+                    ],
+                    [
+                        3.048666,
+                        50.6345071
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180787926,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.061678,
+                        50.6276044
+                    ],
+                    [
+                        3.0610334,
+                        50.62794
+                    ],
+                    [
+                        3.0609498,
+                        50.627984
+                    ],
+                    [
+                        3.0608577,
+                        50.6280324
+                    ],
+                    [
+                        3.0607937,
+                        50.6280658
+                    ],
+                    [
+                        3.0605729,
+                        50.6281885
+                    ],
+                    [
+                        3.0591551,
+                        50.6289406
+                    ],
+                    [
+                        3.0591174,
+                        50.6289606
+                    ],
+                    [
+                        3.0590053,
+                        50.6290201
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180790926,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.048666,
+                        50.6345071
+                    ],
+                    [
+                        3.0485625,
+                        50.634556
+                    ],
+                    [
+                        3.0483036,
+                        50.6346782
+                    ],
+                    [
+                        3.0478356,
+                        50.6349126
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 302631709,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0644589,
+                        50.6261745
+                    ],
+                    [
+                        3.0642453,
+                        50.6262816
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Solferino",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 302704695,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.0644545,
+                        50.6260986
+                    ],
+                    [
+                        3.0646649,
+                        50.6259895
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Solferino",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2012",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 548098363,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.048666,
+                        50.6345071
+                    ],
+                    [
+                        3.0484606,
+                        50.6346655
+                    ],
+                    [
+                        3.0481817,
+                        50.6348159
+                    ],
+                    [
+                        3.0477572,
+                        50.635034
+                    ],
+                    [
+                        3.0474086,
+                        50.6352197
+                    ],
+                    [
+                        3.0471019,
+                        50.6353917
+                    ],
+                    [
+                        3.0468649,
+                        50.6355165
+                    ],
+                    [
+                        3.0468165,
+                        50.635542
+                    ],
+                    [
+                        3.0467363,
+                        50.6355843
+                    ],
+                    [
+                        3.0466061,
+                        50.6356541
+                    ],
+                    [
+                        3.0465461,
+                        50.6356676
+                    ],
+                    [
+                        3.0464428,
+                        50.6356685
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Rue Solferino",
+                "oneway": "yes",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 548098364,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.051399,
+                        50.6330247
+                    ],
+                    [
+                        3.0512431,
+                        50.6331069
+                    ],
+                    [
+                        3.0503431,
+                        50.6336098
+                    ],
+                    [
+                        3.0502284,
+                        50.6336712
+                    ],
+                    [
+                        3.0495806,
+                        50.6340178
+                    ],
+                    [
+                        3.0494071,
+                        50.6341106
+                    ],
+                    [
+                        3.0488938,
+                        50.6343852
+                    ],
+                    [
+                        3.0487759,
+                        50.6344483
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Solferino",
+                "parking:lane:both": "parallel",
+                "surface": "asphalt",
+                "line_width": 14,
+                "line_color": "#551500"
+            }
+        }
+    ]
+}

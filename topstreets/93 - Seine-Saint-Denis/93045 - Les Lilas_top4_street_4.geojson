@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23041055,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4219238,
+                        48.8804468
+                    ],
+                    [
+                        2.4219237,
+                        48.8804955
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Avenue des Combattants d'Afrique du Nord",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166816674,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4219237,
+                        48.8804955
+                    ],
+                    [
+                        2.4215394,
+                        48.8814457
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "name": "Avenue des Combattants d'Afrique du Nord",
+                "ref:FR:FANTOIR": "930451314E",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

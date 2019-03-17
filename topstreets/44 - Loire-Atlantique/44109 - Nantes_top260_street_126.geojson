@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 511815650,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5962785,
+                        47.2102992
+                    ],
+                    [
+                        -1.5962999,
+                        47.210435
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Croix Bonneau",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "XBON3",
+                "tactile_paving": "no",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 511815651,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5964226,
+                        47.210609
+                    ],
+                    [
+                        -1.5964029,
+                        47.2104735
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Croix Bonneau",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "XBON4",
+                "tactile_paving": "no",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 511815652,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5976296,
+                        47.209503
+                    ],
+                    [
+                        -1.5973842,
+                        47.209493
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Croix Bonneau",
+                "network": "TAN",
+                "public_transport": "platform",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 511815653,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5970583,
+                        47.2097189
+                    ],
+                    [
+                        -1.5973212,
+                        47.2097207
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "disused": "yes",
+                "highway": "platform",
+                "name": "Croix Bonneau",
+                "network": "TAN",
+                "public_transport": "platform",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

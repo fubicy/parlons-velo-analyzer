@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 143360654,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.558441,
+                        47.2316446
+                    ],
+                    [
+                        -1.5583606,
+                        47.2316319
+                    ],
+                    [
+                        -1.5578236,
+                        47.2314393
+                    ],
+                    [
+                        -1.5575437,
+                        47.2312927
+                    ],
+                    [
+                        -1.5568819,
+                        47.2308556
+                    ],
+                    [
+                        -1.5567989,
+                        47.2308008
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue du Ballet",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185120489,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.561565,
+                        47.2317822
+                    ],
+                    [
+                        -1.5613782,
+                        47.2317731
+                    ],
+                    [
+                        -1.5594526,
+                        47.2316889
+                    ],
+                    [
+                        -1.5586092,
+                        47.231652
+                    ],
+                    [
+                        -1.558441,
+                        47.2316446
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "yes",
+                "cycleway:left": "opposite_lane",
+                "foot": "yes",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue du Ballet",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 12857766,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7481644,
+                        48.5811975
+                    ],
+                    [
+                        7.7476948,
+                        48.5809724
+                    ],
+                    [
+                        7.7476708,
+                        48.5809609
+                    ],
+                    [
+                        7.7472931,
+                        48.580745
+                    ],
+                    [
+                        7.7470187,
+                        48.58055
+                    ],
+                    [
+                        7.7469592,
+                        48.5805142
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue des Serruriers",
+                "name:de": "Schlossergasse",
+                "name:gsw": "Schlossergass",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20034168,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7469592,
+                        48.5805142
+                    ],
+                    [
+                        7.7469221,
+                        48.580493
+                    ],
+                    [
+                        7.7468938,
+                        48.5804733
+                    ],
+                    [
+                        7.7468614,
+                        48.5804507
+                    ],
+                    [
+                        7.7468187,
+                        48.5804251
+                    ],
+                    [
+                        7.7466637,
+                        48.5803263
+                    ],
+                    [
+                        7.7465627,
+                        48.5802839
+                    ],
+                    [
+                        7.7461207,
+                        48.5800731
+                    ],
+                    [
+                        7.7460691,
+                        48.5800538
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Serruriers",
+                "name:de": "Schlossergasse",
+                "name:gsw": "Schlossergass",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 119893339,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1797713,
+                        48.6889705
+                    ],
+                    [
+                        2.1804774,
+                        48.6893673
+                    ],
+                    [
+                        2.1808327,
+                        48.68957
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "lit": "yes",
+                "name": "Escalier des Ulis",
+                "surface": "concrete",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119893344,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1792893,
+                        48.6887119
+                    ],
+                    [
+                        2.1793789,
+                        48.6887472
+                    ],
+                    [
+                        2.1797713,
+                        48.6889705
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "highway:cycle": "unclassified",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:zone30",
+                "name": "Escalier des Ulis",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

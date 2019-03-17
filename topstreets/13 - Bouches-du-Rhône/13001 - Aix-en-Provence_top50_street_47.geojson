@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7989729,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4519613,
+                        43.527488
+                    ],
+                    [
+                        5.4519159,
+                        43.5275613
+                    ],
+                    [
+                        5.4516894,
+                        43.5279792
+                    ],
+                    [
+                        5.4516372,
+                        43.5280522
+                    ],
+                    [
+                        5.4515712,
+                        43.5281278
+                    ],
+                    [
+                        5.4514112,
+                        43.5282751
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "name": "Rue Thiers",
+                "old_name": "Brando Carriero",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7989785,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.4521695,
+                        43.5270947
+                    ],
+                    [
+                        5.4519613,
+                        43.527488
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "living_street",
+                "lit": "yes",
+                "name": "Rue Thiers",
+                "old_name": "Brando Carriero",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

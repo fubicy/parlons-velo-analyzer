@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4390521,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.7497341,
+                        47.6583614
+                    ],
+                    [
+                        -2.7495517,
+                        47.6583546
+                    ],
+                    [
+                        -2.7492498,
+                        47.6582936
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Place Bir Hakeim",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 306173560,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.7491827,
+                        47.6584846
+                    ],
+                    [
+                        -2.7492498,
+                        47.6582936
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Place Bir Hakeim",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "562600360D",
+                "service": "parking_aisle",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 321320531,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.7491166,
+                        47.6584996
+                    ],
+                    [
+                        -2.7491827,
+                        47.6584846
+                    ],
+                    [
+                        -2.7495713,
+                        47.6583978
+                    ],
+                    [
+                        -2.7497341,
+                        47.6583614
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Place Bir Hakeim",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4900645,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6751712,
+                        48.1124149
+                    ],
+                    [
+                        -1.6751503,
+                        48.1123905
+                    ],
+                    [
+                        -1.6751402,
+                        48.1123712
+                    ],
+                    [
+                        -1.6751361,
+                        48.1123488
+                    ],
+                    [
+                        -1.6751115,
+                        48.112049
+                    ],
+                    [
+                        -1.6751091,
+                        48.1120035
+                    ],
+                    [
+                        -1.6751065,
+                        48.1119693
+                    ],
+                    [
+                        -1.6751007,
+                        48.1119433
+                    ],
+                    [
+                        -1.6750875,
+                        48.1119111
+                    ],
+                    [
+                        -1.6747527,
+                        48.1113654
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "10",
+                "bicycle": "yes",
+                "boundary": "administrative",
+                "cycleway": "lane",
+                "highway": "primary",
+                "lit": "yes",
+                "name": "Rue Gambetta",
+                "name:br": "Straed Gambetta",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 355305352,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6747527,
+                        48.1113654
+                    ],
+                    [
+                        -1.6745812,
+                        48.111068
+                    ],
+                    [
+                        -1.6744089,
+                        48.110776
+                    ],
+                    [
+                        -1.6743716,
+                        48.1107122
+                    ],
+                    [
+                        -1.6743389,
+                        48.1106534
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "10",
+                "bicycle": "yes",
+                "boundary": "administrative",
+                "cycleway": "lane",
+                "highway": "primary",
+                "lit": "yes",
+                "name": "Rue Gambetta",
+                "name:br": "Straed Gambetta",
+                "oneway": "yes",
+                "source:lit": "Survey 01/2016",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

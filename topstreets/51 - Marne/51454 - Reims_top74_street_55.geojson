@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25581741,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.044888,
+                        49.2672109
+                    ],
+                    [
+                        4.0440545,
+                        49.2669718
+                    ],
+                    [
+                        4.0429075,
+                        49.2666645
+                    ],
+                    [
+                        4.0428287,
+                        49.2666438
+                    ],
+                    [
+                        4.0422552,
+                        49.2664932
+                    ],
+                    [
+                        4.0417992,
+                        49.2663667
+                    ],
+                    [
+                        4.0413821,
+                        49.2662614
+                    ],
+                    [
+                        4.040532,
+                        49.2660255
+                    ],
+                    [
+                        4.040335,
+                        49.2659708
+                    ],
+                    [
+                        4.0399713,
+                        49.2658676
+                    ],
+                    [
+                        4.0395662,
+                        49.2657527
+                    ],
+                    [
+                        4.0389077,
+                        49.2655776
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Rue Gosset",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31916786,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.03423,
+                        49.2642926
+                    ],
+                    [
+                        4.0375977,
+                        49.2652055
+                    ],
+                    [
+                        4.0377968,
+                        49.2652658
+                    ],
+                    [
+                        4.0378671,
+                        49.2652853
+                    ],
+                    [
+                        4.0380088,
+                        49.2653247
+                    ],
+                    [
+                        4.0387679,
+                        49.2655356
+                    ],
+                    [
+                        4.0389077,
+                        49.2655776
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Gosset",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32516099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0465931,
+                        49.2676324
+                    ],
+                    [
+                        4.0464786,
+                        49.2676468
+                    ],
+                    [
+                        4.0457962,
+                        49.2674547
+                    ],
+                    [
+                        4.044888,
+                        49.2672109
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Gosset",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

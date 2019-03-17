@@ -1,0 +1,167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4268703,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8220132,
+                        45.7329668
+                    ],
+                    [
+                        4.81906,
+                        45.733778
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont Pasteur",
+                "surface": "asphalt",
+                "turn:lanes:forward": "through|through;right",
+                "wikidata": "Q3396675",
+                "wikipedia": "fr:Pont Pasteur",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5097409,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8184094,
+                        45.7336739
+                    ],
+                    [
+                        4.8184457,
+                        45.7337168
+                    ],
+                    [
+                        4.8184962,
+                        45.7337781
+                    ],
+                    [
+                        4.8185397,
+                        45.7338038
+                    ],
+                    [
+                        4.818616,
+                        45.7338489
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary_link",
+                "maxspeed": "50",
+                "name": "Pont Pasteur",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "source": "survey",
+                "source:date": "2016-05-21",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5097410,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.81906,
+                        45.733778
+                    ],
+                    [
+                        4.8189987,
+                        45.7338564
+                    ],
+                    [
+                        4.8189369,
+                        45.7339229
+                    ],
+                    [
+                        4.8188816,
+                        45.734018
+                    ],
+                    [
+                        4.8188632,
+                        45.7341075
+                    ],
+                    [
+                        4.8188913,
+                        45.7341775
+                    ],
+                    [
+                        4.819156,
+                        45.73458
+                    ],
+                    [
+                        4.8191809,
+                        45.7346451
+                    ],
+                    [
+                        4.8192222,
+                        45.7347532
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "maxspeed": "50",
+                "name": "Pont Pasteur",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 590159211,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.818052,
+                        45.7333924
+                    ],
+                    [
+                        4.8182547,
+                        45.7335093
+                    ],
+                    [
+                        4.8184094,
+                        45.7336739
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary_link",
+                "maxspeed": "50",
+                "name": "Pont Pasteur",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "source": "survey",
+                "source:date": "2016-05-21",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

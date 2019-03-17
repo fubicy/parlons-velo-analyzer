@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 54377919,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3010899,
+                        48.9014086
+                    ],
+                    [
+                        2.3010309,
+                        48.9012609
+                    ],
+                    [
+                        2.3021155,
+                        48.9002083
+                    ],
+                    [
+                        2.3034578,
+                        48.8989102
+                    ],
+                    [
+                        2.3035173,
+                        48.8988526
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "30",
+                "name": "Rue Cast\u00e9r\u00e8s",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173349737,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3008001,
+                        48.901259
+                    ],
+                    [
+                        2.3010309,
+                        48.9012609
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Cast\u00e9r\u00e8s",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

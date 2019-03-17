@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22822289,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.7310208,
+                        41.9176585
+                    ],
+                    [
+                        8.7313333,
+                        41.9177138
+                    ],
+                    [
+                        8.7314281,
+                        41.9177303
+                    ],
+                    [
+                        8.7323724,
+                        41.9178824
+                    ],
+                    [
+                        8.7342637,
+                        41.9181884
+                    ],
+                    [
+                        8.7343988,
+                        41.9182087
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "secondary",
+                "name": "Cours Grandval",
+                "oneway": "no",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159026608,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.7352227,
+                        41.9183379
+                    ],
+                    [
+                        8.7345214,
+                        41.9182273
+                    ],
+                    [
+                        8.7343988,
+                        41.9182087
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "name": "Cours Grandval",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 141245585,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3031113,
+                        49.8886204
+                    ],
+                    [
+                        2.3030137,
+                        49.8887049
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Otages",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 177659708,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3030137,
+                        49.8887049
+                    ],
+                    [
+                        2.3029897,
+                        49.8887941
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue des Otages",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 177659709,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3029897,
+                        49.8887941
+                    ],
+                    [
+                        2.3027935,
+                        49.8894732
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue des Otages",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 389430787,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3025486,
+                        49.8904035
+                    ],
+                    [
+                        2.3023607,
+                        49.8910777
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "designated",
+                "highway": "living_street",
+                "maxspeed": "30",
+                "motor_vehicle": "designated",
+                "name": "Rue des Otages",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 653986913,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3027935,
+                        49.8894732
+                    ],
+                    [
+                        2.3027341,
+                        49.889708
+                    ],
+                    [
+                        2.3025486,
+                        49.8904035
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue des Otages",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

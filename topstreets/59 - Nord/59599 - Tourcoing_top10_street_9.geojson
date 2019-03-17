@@ -1,0 +1,147 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28513651,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1620807,
+                        50.726156
+                    ],
+                    [
+                        3.1617746,
+                        50.7259313
+                    ],
+                    [
+                        3.1603988,
+                        50.7249214
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Rue du Haze",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151404012,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1591511,
+                        50.7240391
+                    ],
+                    [
+                        3.1581241,
+                        50.7232523
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "bicycle": "yes",
+                "foot": "designated",
+                "highway": "living_street",
+                "motor_vehicle": "permissive",
+                "name": "Rue du Haze",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151405354,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1594383,
+                        50.7242093
+                    ],
+                    [
+                        3.1591511,
+                        50.7240391
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "foot": "designated",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue du Haze",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151405355,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1603988,
+                        50.7249214
+                    ],
+                    [
+                        3.16017,
+                        50.724757
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "foot": "designated",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue du Haze",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151405356,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.16017,
+                        50.724757
+                    ],
+                    [
+                        3.1594383,
+                        50.7242093
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "foot": "designated",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue du Haze",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

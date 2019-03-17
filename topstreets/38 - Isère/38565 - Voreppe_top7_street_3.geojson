@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23810822,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6229479,
+                        45.3084511
+                    ],
+                    [
+                        5.622814,
+                        45.3088619
+                    ],
+                    [
+                        5.6226995,
+                        45.3090336
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "70",
+                "name": "Route de Voiron",
+                "old_ref": "N 75",
+                "oneway": "yes",
+                "ref": "D 1075",
+                "source:maxspeed": "sign",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23810823,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6226995,
+                        45.3090336
+                    ],
+                    [
+                        5.6228244,
+                        45.3086263
+                    ],
+                    [
+                        5.6227973,
+                        45.3084862
+                    ],
+                    [
+                        5.6227432,
+                        45.3083029
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "1",
+                "maxspeed": "70",
+                "name": "Route de Voiron",
+                "old_ref": "N 75",
+                "oneway": "yes",
+                "ref": "D 1075",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 489355204,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6222936,
+                        45.3143967
+                    ],
+                    [
+                        5.6223862,
+                        45.3128553
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "80",
+                "maxweight": "7.5",
+                "maxweight:conditional": "none @ destination",
+                "name": "Route de Voiron",
+                "old_ref": "N 75",
+                "ref": "D 1075",
+                "source:maxspeed": "FR:rural",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

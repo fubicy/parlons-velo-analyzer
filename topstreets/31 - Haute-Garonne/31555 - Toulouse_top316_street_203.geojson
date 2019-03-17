@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22392525,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4490795,
+                        43.5896549
+                    ],
+                    [
+                        1.449144,
+                        43.589678
+                    ],
+                    [
+                        1.4494779,
+                        43.5898302
+                    ],
+                    [
+                        1.4497609,
+                        43.5899632
+                    ],
+                    [
+                        1.4504381,
+                        43.5902712
+                    ],
+                    [
+                        1.4521996,
+                        43.5910732
+                    ],
+                    [
+                        1.4523066,
+                        43.5911206
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Joseph",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

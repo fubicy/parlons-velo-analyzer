@@ -1,0 +1,114 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10235275,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4416109,
+                        43.6087121
+                    ],
+                    [
+                        1.4415477,
+                        43.6087553
+                    ],
+                    [
+                        1.4413107,
+                        43.6089172
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "motor_vehicle": "yes",
+                "name": "Rue Gatien Arnoult",
+                "name:oc": "Carri\u00e8ra Gastien Arnoult",
+                "oneway": "-1",
+                "short_name": "Rue Arnoult",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 608470609,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4413107,
+                        43.6089172
+                    ],
+                    [
+                        1.4412616,
+                        43.6089512
+                    ],
+                    [
+                        1.4412276,
+                        43.6089748
+                    ],
+                    [
+                        1.4411711,
+                        43.609014
+                    ],
+                    [
+                        1.4410871,
+                        43.6090778
+                    ],
+                    [
+                        1.4407646,
+                        43.6092509
+                    ],
+                    [
+                        1.4406864,
+                        43.6093072
+                    ],
+                    [
+                        1.4406512,
+                        43.6093507
+                    ],
+                    [
+                        1.4406206,
+                        43.6094074
+                    ],
+                    [
+                        1.4404872,
+                        43.6097784
+                    ],
+                    [
+                        1.4404707,
+                        43.610042
+                    ],
+                    [
+                        1.4404578,
+                        43.6100963
+                    ],
+                    [
+                        1.4404382,
+                        43.6101384
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "pedestrian",
+                "maxspeed": "30",
+                "motor_vehicle": "delivery",
+                "name": "Rue Gatien Arnoult",
+                "name:oc": "Carri\u00e8ra Gastien Arnoult",
+                "oneway": "-1",
+                "parking:lane:both": "no_parking",
+                "short_name": "Rue Arnoult",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

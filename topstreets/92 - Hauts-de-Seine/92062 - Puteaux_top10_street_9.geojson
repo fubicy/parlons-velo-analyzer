@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4411092,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.237129,
+                        48.8744629
+                    ],
+                    [
+                        2.2369595,
+                        48.8745534
+                    ],
+                    [
+                        2.2369373,
+                        48.8745646
+                    ],
+                    [
+                        2.2354867,
+                        48.8753016
+                    ],
+                    [
+                        2.2353508,
+                        48.8753707
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "maxweight": "3.5",
+                "name": "Rue Volta",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105611635,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2353508,
+                        48.8753707
+                    ],
+                    [
+                        2.23527,
+                        48.875409
+                    ],
+                    [
+                        2.2328712,
+                        48.8765598
+                    ],
+                    [
+                        2.2328004,
+                        48.876592
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "resident",
+                "bicycle": "yes",
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Volta",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

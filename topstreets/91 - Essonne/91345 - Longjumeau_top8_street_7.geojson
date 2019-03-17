@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 60360377,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2944547,
+                        48.6981818
+                    ],
+                    [
+                        2.2943139,
+                        48.6979833
+                    ],
+                    [
+                        2.2940848,
+                        48.6976675
+                    ],
+                    [
+                        2.2940418,
+                        48.6976064
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "no",
+                "cycleway:right": "no",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "name": "Place Charles Steber",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "survey, gps",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205562532,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2947378,
+                        48.6974911
+                    ],
+                    [
+                        2.2948743,
+                        48.6978767
+                    ],
+                    [
+                        2.2949933,
+                        48.698197
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "20",
+                "maxspeed:type": "sign",
+                "name": "Place Charles Steber",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

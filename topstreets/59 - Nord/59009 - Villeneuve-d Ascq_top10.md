@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 106 réponses dont 66 réponses avec une ru
 
 26 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Boulevard de l'Ouest | 14 | 13% | <img src="../../img/bar_21.gif" />&nbsp;21%|
-| Rue des Fusillés | 9 | 8% | <img src="../../img/bar_13.gif" />&nbsp;13%|
-| Rue Jean Jaurès | 8 | 7% | <img src="../../img/bar_12.gif" />&nbsp;12%|
-| Allée des Près | 5 | 4% | <img src="../../img/bar_7.gif" />&nbsp;7%|
-| Rue Jules Guesde | 4 | 3% | <img src="../../img/bar_6.gif" />&nbsp;6%|
-| Rue d'Hem | 3 | 2% | <img src="../../img/bar_4.gif" />&nbsp;4%|
-| Rue de Lille | 2 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rond-Point Saint-Ghislain | 2 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Avenue Champollion | 2 | 1% | <img src="../../img/bar_3.gif" />&nbsp;3%|
-| Rue des Enfants de Sarajevo | 1 | 0% | <img src="../../img/bar_1.gif" />&nbsp;1%|
-| **Total** | 50 | 47% | 75%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Boulevard de l'Ouest | 14 | <img src="../../img/bar_28.gif" />&nbsp;28%|
+| Rue des Fusillés | 9 | <img src="../../img/bar_18.gif" />&nbsp;18%|
+| Rue Jean Jaurès | 8 | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| Allée des Près | 5 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| Rue Jules Guesde | 4 | <img src="../../img/bar_8.gif" />&nbsp;8%|
+| Rue d'Hem | 3 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Rue de Lille | 2 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rond-Point Saint-Ghislain | 2 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Avenue Champollion | 2 | <img src="../../img/bar_4.gif" />&nbsp;4%|
+| Rue des Enfants de Sarajevo | 1 | <img src="../../img/bar_2.gif" />&nbsp;2%|
+| **Total** | 50 | 100%|

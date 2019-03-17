@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 107416595,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8172038,
+                        45.0741763
+                    ],
+                    [
+                        4.8173504,
+                        45.0739993
+                    ],
+                    [
+                        4.8176153,
+                        45.0737792
+                    ],
+                    [
+                        4.8179421,
+                        45.0736152
+                    ],
+                    [
+                        4.8183727,
+                        45.0734743
+                    ],
+                    [
+                        4.8194286,
+                        45.0732127
+                    ],
+                    [
+                        4.8195411,
+                        45.0731783
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "primary",
+                "name": "Avenue de Lyon",
+                "old_ref": "N 86",
+                "ref": "D 86",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 413305898,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8195411,
+                        45.0731783
+                    ],
+                    [
+                        4.8207824,
+                        45.0727985
+                    ],
+                    [
+                        4.8210768,
+                        45.0727084
+                    ],
+                    [
+                        4.8211505,
+                        45.0726858
+                    ],
+                    [
+                        4.8215117,
+                        45.0725753
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "name": "Avenue de Lyon",
+                "old_ref": "N 86",
+                "ref": "D 86",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26811621,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.7626722,
+                        48.0739595
+                    ],
+                    [
+                        -0.7627409,
+                        48.0739822
+                    ],
+                    [
+                        -0.7634411,
+                        48.0742287
+                    ],
+                    [
+                        -0.7641154,
+                        48.0744648
+                    ],
+                    [
+                        -0.7641155,
+                        48.0744648
+                    ],
+                    [
+                        -0.7645057,
+                        48.0745933
+                    ],
+                    [
+                        -0.7652872,
+                        48.074874
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue de l'Alma",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

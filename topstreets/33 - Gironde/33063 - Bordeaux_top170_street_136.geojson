@@ -1,0 +1,253 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25268817,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5588266,
+                        44.8313885
+                    ],
+                    [
+                        -0.5589461,
+                        44.8314588
+                    ],
+                    [
+                        -0.5597501,
+                        44.8319337
+                    ],
+                    [
+                        -0.5602574,
+                        44.8322264
+                    ],
+                    [
+                        -0.5604167,
+                        44.8323202
+                    ],
+                    [
+                        -0.5606277,
+                        44.8324514
+                    ],
+                    [
+                        -0.5616003,
+                        44.833088
+                    ],
+                    [
+                        -0.561624,
+                        44.8331035
+                    ],
+                    [
+                        -0.5617595,
+                        44.8331923
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Quai Sainte-Croix",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26586422,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.561585,
+                        44.8333274
+                    ],
+                    [
+                        -0.5614487,
+                        44.8332339
+                    ],
+                    [
+                        -0.5609349,
+                        44.8328982
+                    ],
+                    [
+                        -0.5602818,
+                        44.8324712
+                    ],
+                    [
+                        -0.5602549,
+                        44.8324554
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Quai Sainte-Croix",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 187194866,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.558558,
+                        44.8316119
+                    ],
+                    [
+                        -0.5586828,
+                        44.8316861
+                    ],
+                    [
+                        -0.558822,
+                        44.8317709
+                    ],
+                    [
+                        -0.5589853,
+                        44.8318614
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "name": "Quai Sainte-Croix",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220428840,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5589853,
+                        44.8318614
+                    ],
+                    [
+                        -0.5601276,
+                        44.8325196
+                    ],
+                    [
+                        -0.5601576,
+                        44.8325366
+                    ],
+                    [
+                        -0.5608166,
+                        44.8329571
+                    ],
+                    [
+                        -0.5613192,
+                        44.8332899
+                    ],
+                    [
+                        -0.5613478,
+                        44.8333089
+                    ],
+                    [
+                        -0.5614243,
+                        44.833362
+                    ],
+                    [
+                        -0.5614852,
+                        44.8334043
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Quai Sainte-Croix",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 614506959,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5587926,
+                        44.8315914
+                    ],
+                    [
+                        -0.5586703,
+                        44.8315188
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Quai Sainte-Croix",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 626127085,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5602549,
+                        44.8324554
+                    ],
+                    [
+                        -0.5600563,
+                        44.8323236
+                    ],
+                    [
+                        -0.5591185,
+                        44.8317788
+                    ],
+                    [
+                        -0.5588229,
+                        44.8316096
+                    ],
+                    [
+                        -0.5587926,
+                        44.8315914
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Quai Sainte-Croix",
+                "oneway": "yes",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

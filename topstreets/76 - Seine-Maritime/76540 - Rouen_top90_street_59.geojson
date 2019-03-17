@@ -1,0 +1,127 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 82628215,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0862924,
+                        49.436232
+                    ],
+                    [
+                        1.0867577,
+                        49.4365534
+                    ],
+                    [
+                        1.0867756,
+                        49.4365944
+                    ],
+                    [
+                        1.0867661,
+                        49.4366203
+                    ],
+                    [
+                        1.0867581,
+                        49.4366424
+                    ],
+                    [
+                        1.0866981,
+                        49.4366796
+                    ],
+                    [
+                        1.0861517,
+                        49.4368333
+                    ],
+                    [
+                        1.0860809,
+                        49.4368532
+                    ],
+                    [
+                        1.0851786,
+                        49.437107
+                    ],
+                    [
+                        1.0851591,
+                        49.4371125
+                    ],
+                    [
+                        1.0842162,
+                        49.4373778
+                    ],
+                    [
+                        1.0832928,
+                        49.4376375
+                    ],
+                    [
+                        1.0832224,
+                        49.437644
+                    ],
+                    [
+                        1.0831683,
+                        49.4376303
+                    ],
+                    [
+                        1.0831343,
+                        49.4376018
+                    ],
+                    [
+                        1.0831167,
+                        49.4375532
+                    ],
+                    [
+                        1.0830456,
+                        49.4372531
+                    ],
+                    [
+                        1.0830299,
+                        49.4371868
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Docks",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 459190063,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0867577,
+                        49.4365534
+                    ],
+                    [
+                        1.0867357,
+                        49.436421
+                    ],
+                    [
+                        1.0865842,
+                        49.4361576
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Docks",
+                "source": "Bing",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

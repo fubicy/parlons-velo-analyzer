@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 511337758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5880796,
+                        47.2090197
+                    ],
+                    [
+                        -1.5879033,
+                        47.208955
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "\u00c9galit\u00e9",
+                "network": "TAN",
+                "public_transport": "platform",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 511337764,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5870698,
+                        47.2094479
+                    ],
+                    [
+                        -1.5870946,
+                        47.2093458
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "\u00c9galit\u00e9",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "EGLI3",
+                "wheelchair": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 511337765,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5872911,
+                        47.2082161
+                    ],
+                    [
+                        -1.5872468,
+                        47.2083756
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "\u00c9galit\u00e9",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "EGLI4",
+                "wheelchair": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

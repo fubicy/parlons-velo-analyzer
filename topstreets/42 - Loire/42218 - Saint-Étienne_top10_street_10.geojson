@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8320746,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3978833,
+                        45.4395611
+                    ],
+                    [
+                        4.3971394,
+                        45.438986
+                    ],
+                    [
+                        4.3970076,
+                        45.4388841
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue \u00c9tienne Mimard",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53271607,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3939908,
+                        45.436578
+                    ],
+                    [
+                        4.3939154,
+                        45.4364658
+                    ],
+                    [
+                        4.3934789,
+                        45.4356755
+                    ],
+                    [
+                        4.3934478,
+                        45.4356203
+                    ],
+                    [
+                        4.3934168,
+                        45.435565
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue \u00c9tienne Mimard",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59569389,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3939908,
+                        45.436578
+                    ],
+                    [
+                        4.3946842,
+                        45.4371306
+                    ],
+                    [
+                        4.3954579,
+                        45.4377088
+                    ],
+                    [
+                        4.3954921,
+                        45.4377344
+                    ],
+                    [
+                        4.3955588,
+                        45.4377842
+                    ],
+                    [
+                        4.3960166,
+                        45.4381264
+                    ],
+                    [
+                        4.3967399,
+                        45.4386907
+                    ],
+                    [
+                        4.3970076,
+                        45.4388841
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "track",
+                "foot": "designated",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Rue \u00c9tienne Mimard",
+                "segregated": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 10,
+                "line_color": "#aa2b00"
+            }
+        }
+    ]
+}

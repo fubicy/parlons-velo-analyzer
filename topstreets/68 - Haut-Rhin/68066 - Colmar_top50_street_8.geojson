@@ -1,0 +1,742 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 16541166,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3680741,
+                        48.0492726
+                    ],
+                    [
+                        7.3679691,
+                        48.0495287
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "90",
+                "name": "Route de B\u00e2le",
+                "old_ref": "N 422",
+                "ref": "D 201",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16556302,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3633609,
+                        48.0598747
+                    ],
+                    [
+                        7.3634939,
+                        48.0598991
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Route de B\u00e2le",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16556305,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3637414,
+                        48.0599296
+                    ],
+                    [
+                        7.36334,
+                        48.0602708
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Route de B\u00e2le",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16561456,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3638879,
+                        48.0588645
+                    ],
+                    [
+                        7.363801,
+                        48.0591608
+                    ],
+                    [
+                        7.3634939,
+                        48.0598991
+                    ],
+                    [
+                        7.36334,
+                        48.0602708
+                    ],
+                    [
+                        7.3630612,
+                        48.0608942
+                    ],
+                    [
+                        7.3629863,
+                        48.0611209
+                    ],
+                    [
+                        7.3627969,
+                        48.0618214
+                    ],
+                    [
+                        7.3627727,
+                        48.0621999
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route de B\u00e2le",
+                "oneway": "yes",
+                "ref": "D 201",
+                "source:maxspeed": "FR:urban",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16561461,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3626783,
+                        48.0622062
+                    ],
+                    [
+                        7.3626913,
+                        48.0618056
+                    ],
+                    [
+                        7.3628252,
+                        48.0611288
+                    ],
+                    [
+                        7.3633609,
+                        48.0598747
+                    ],
+                    [
+                        7.3636979,
+                        48.0591687
+                    ],
+                    [
+                        7.3638879,
+                        48.0588645
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route de B\u00e2le",
+                "oneway": "yes",
+                "ref": "D 201",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20483379,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3604503,
+                        48.0695154
+                    ],
+                    [
+                        7.3605181,
+                        48.0701217
+                    ],
+                    [
+                        7.3605864,
+                        48.0704915
+                    ],
+                    [
+                        7.3607646,
+                        48.0714564
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Route de B\u00e2le",
+                "source:maxspeed": "FR:urban",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22812086,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3613963,
+                        48.0656885
+                    ],
+                    [
+                        7.36113,
+                        48.0652227
+                    ],
+                    [
+                        7.361149,
+                        48.0652008
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "name": "Route de B\u00e2le",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22812180,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.361149,
+                        48.0652008
+                    ],
+                    [
+                        7.3612511,
+                        48.0652303
+                    ],
+                    [
+                        7.3615042,
+                        48.0656685
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "name": "Route de B\u00e2le",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22812181,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.361149,
+                        48.0652008
+                    ],
+                    [
+                        7.3608968,
+                        48.0647875
+                    ],
+                    [
+                        7.3603448,
+                        48.0649434
+                    ],
+                    [
+                        7.3602549,
+                        48.0647899
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Route de B\u00e2le",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22939561,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3625888,
+                        48.0623395
+                    ],
+                    [
+                        7.362459,
+                        48.0623741
+                    ],
+                    [
+                        7.3623718,
+                        48.0624288
+                    ],
+                    [
+                        7.362323,
+                        48.0625199
+                    ],
+                    [
+                        7.3622765,
+                        48.0626561
+                    ],
+                    [
+                        7.3622777,
+                        48.0629357
+                    ],
+                    [
+                        7.3623153,
+                        48.0632088
+                    ],
+                    [
+                        7.3623605,
+                        48.0634747
+                    ],
+                    [
+                        7.3624225,
+                        48.0637822
+                    ],
+                    [
+                        7.3624789,
+                        48.0640509
+                    ],
+                    [
+                        7.3625314,
+                        48.0643149
+                    ],
+                    [
+                        7.362491,
+                        48.0644862
+                    ],
+                    [
+                        7.3624188,
+                        48.0646578
+                    ],
+                    [
+                        7.3618052,
+                        48.0657507
+                    ],
+                    [
+                        7.3615146,
+                        48.0662967
+                    ],
+                    [
+                        7.3613009,
+                        48.0666839
+                    ],
+                    [
+                        7.3611732,
+                        48.0668972
+                    ],
+                    [
+                        7.361043,
+                        48.0671148
+                    ],
+                    [
+                        7.3609892,
+                        48.0672047
+                    ],
+                    [
+                        7.3607048,
+                        48.0677121
+                    ],
+                    [
+                        7.3606524,
+                        48.0678073
+                    ],
+                    [
+                        7.3603954,
+                        48.0681839
+                    ],
+                    [
+                        7.360343,
+                        48.0683675
+                    ],
+                    [
+                        7.3604503,
+                        48.0695154
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Route de B\u00e2le",
+                "source:maxspeed": "FR:urban",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39859440,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3679691,
+                        48.0495287
+                    ],
+                    [
+                        7.3679434,
+                        48.0495858
+                    ],
+                    [
+                        7.3679016,
+                        48.0496782
+                    ],
+                    [
+                        7.3674005,
+                        48.0508156
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "90",
+                "name": "Route de B\u00e2le",
+                "old_ref": "N 422",
+                "ref": "D 201",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51018044,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3672952,
+                        48.0510432
+                    ],
+                    [
+                        7.3672651,
+                        48.0511114
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "90",
+                "name": "Route de B\u00e2le",
+                "old_ref": "N 422",
+                "ref": "D 201",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51018051,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3674005,
+                        48.0508156
+                    ],
+                    [
+                        7.3672952,
+                        48.0510432
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "maxspeed": "90",
+                "name": "Route de B\u00e2le",
+                "old_ref": "N 422",
+                "ref": "D 201",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51069197,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3651262,
+                        48.0560158
+                    ],
+                    [
+                        7.3652849,
+                        48.056014
+                    ],
+                    [
+                        7.3657823,
+                        48.0559306
+                    ],
+                    [
+                        7.3659676,
+                        48.0557789
+                    ],
+                    [
+                        7.3661642,
+                        48.0556706
+                    ],
+                    [
+                        7.366359,
+                        48.0556009
+                    ],
+                    [
+                        7.3665659,
+                        48.0555561
+                    ],
+                    [
+                        7.3666751,
+                        48.0555418
+                    ],
+                    [
+                        7.3668574,
+                        48.0555618
+                    ],
+                    [
+                        7.3670218,
+                        48.0555774
+                    ],
+                    [
+                        7.3673664,
+                        48.055381
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "track",
+                "name": "Route de B\u00e2le",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "paved",
+                "tracktype": "grade1",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51140331,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3634939,
+                        48.0598991
+                    ],
+                    [
+                        7.3637414,
+                        48.0599296
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Route de B\u00e2le",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161879533,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3607646,
+                        48.0714564
+                    ],
+                    [
+                        7.3606324,
+                        48.0722877
+                    ],
+                    [
+                        7.3605905,
+                        48.0724348
+                    ],
+                    [
+                        7.3603918,
+                        48.0726619
+                    ],
+                    [
+                        7.3602472,
+                        48.072766
+                    ],
+                    [
+                        7.3599919,
+                        48.0729567
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Route de B\u00e2le",
+                "source:maxspeed": "FR:urban",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232577621,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3672651,
+                        48.0511114
+                    ],
+                    [
+                        7.3672365,
+                        48.0511812
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "90",
+                "name": "Route de B\u00e2le",
+                "old_ref": "N 422",
+                "ref": "D 201",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232577626,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3672365,
+                        48.0511812
+                    ],
+                    [
+                        7.366995,
+                        48.0517344
+                    ],
+                    [
+                        7.3660129,
+                        48.053989
+                    ],
+                    [
+                        7.3657874,
+                        48.0544537
+                    ],
+                    [
+                        7.3654004,
+                        48.0553653
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "90",
+                "name": "Route de B\u00e2le",
+                "old_ref": "N 422",
+                "ref": "D 201",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 299556333,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.3654004,
+                        48.0553653
+                    ],
+                    [
+                        7.3651993,
+                        48.0558391
+                    ],
+                    [
+                        7.3651262,
+                        48.0560158
+                    ],
+                    [
+                        7.3650678,
+                        48.0561457
+                    ],
+                    [
+                        7.3649696,
+                        48.0563783
+                    ],
+                    [
+                        7.3638879,
+                        48.0588645
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Route de B\u00e2le",
+                "old_ref": "N 422",
+                "ref": "D 201",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

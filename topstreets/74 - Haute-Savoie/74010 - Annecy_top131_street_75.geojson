@@ -1,0 +1,203 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 232777460,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1265771,
+                        45.9024526
+                    ],
+                    [
+                        6.1265209,
+                        45.9024918
+                    ],
+                    [
+                        6.1264429,
+                        45.9026077
+                    ],
+                    [
+                        6.1260408,
+                        45.9032042
+                    ],
+                    [
+                        6.1259937,
+                        45.9032693
+                    ],
+                    [
+                        6.1259401,
+                        45.9033423
+                    ],
+                    [
+                        6.1256064,
+                        45.90384
+                    ],
+                    [
+                        6.125577,
+                        45.9038821
+                    ],
+                    [
+                        6.1255255,
+                        45.9039593
+                    ],
+                    [
+                        6.1252136,
+                        45.9044269
+                    ],
+                    [
+                        6.1251913,
+                        45.9044568
+                    ],
+                    [
+                        6.1251602,
+                        45.9045385
+                    ],
+                    [
+                        6.125173,
+                        45.9046084
+                    ],
+                    [
+                        6.1253975,
+                        45.904888
+                    ],
+                    [
+                        6.1254898,
+                        45.9050647
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Pr\u00e9sident Favre",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232777461,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1267428,
+                        45.9022062
+                    ],
+                    [
+                        6.1269408,
+                        45.9019149
+                    ],
+                    [
+                        6.1270646,
+                        45.901727
+                    ],
+                    [
+                        6.1271214,
+                        45.9016353
+                    ],
+                    [
+                        6.127131,
+                        45.9015973
+                    ],
+                    [
+                        6.1271296,
+                        45.9015764
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "opposite_share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Pr\u00e9sident Favre",
+                "note": "Bus en contre-sens",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232777462,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1265572,
+                        45.9023739
+                    ],
+                    [
+                        6.1266051,
+                        45.9023502
+                    ],
+                    [
+                        6.1266311,
+                        45.9023281
+                    ],
+                    [
+                        6.1267037,
+                        45.9022402
+                    ],
+                    [
+                        6.1267428,
+                        45.9022062
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Pr\u00e9sident Favre",
+                "note": "Bus en contre-sens",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 613928532,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.1271296,
+                        45.9015764
+                    ],
+                    [
+                        6.1271276,
+                        45.9015571
+                    ],
+                    [
+                        6.1270967,
+                        45.901514
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "opposite_share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Pr\u00e9sident Favre",
+                "note": "Bus en contre-sens",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

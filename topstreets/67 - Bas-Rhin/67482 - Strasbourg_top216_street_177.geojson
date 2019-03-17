@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 270559281,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7108308,
+                        48.5900618
+                    ],
+                    [
+                        7.710669,
+                        48.5900517
+                    ],
+                    [
+                        7.7097065,
+                        48.5899847
+                    ],
+                    [
+                        7.7096637,
+                        48.5899818
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Henri Bergson",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 490369466,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7119341,
+                        48.5901114
+                    ],
+                    [
+                        7.7119047,
+                        48.5901211
+                    ],
+                    [
+                        7.7118621,
+                        48.5901218
+                    ],
+                    [
+                        7.7113636,
+                        48.5900913
+                    ],
+                    [
+                        7.7110419,
+                        48.5900764
+                    ],
+                    [
+                        7.7108308,
+                        48.5900618
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "unclassified",
+                "name": "Rue Henri Bergson",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

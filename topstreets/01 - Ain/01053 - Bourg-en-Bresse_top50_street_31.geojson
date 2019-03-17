@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7999200,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2290003,
+                        46.2055605
+                    ],
+                    [
+                        5.229001,
+                        46.205708
+                    ],
+                    [
+                        5.229003,
+                        46.2061201
+                    ],
+                    [
+                        5.2289694,
+                        46.2066808
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "30",
+                "name": "Rue du 4 Septembre",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235884915,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2289694,
+                        46.2066808
+                    ],
+                    [
+                        5.228925,
+                        46.2070967
+                    ],
+                    [
+                        5.2289028,
+                        46.2071915
+                    ],
+                    [
+                        5.2289289,
+                        46.2072463
+                    ],
+                    [
+                        5.229078,
+                        46.2074495
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Rue du 4 Septembre",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

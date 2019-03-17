@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 502473106,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5191133,
+                        47.2433391
+                    ],
+                    [
+                        -1.5189148,
+                        47.2432918
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Pin Sec",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "PISE3",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 502473107,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5184455,
+                        47.243238
+                    ],
+                    [
+                        -1.5186399,
+                        47.2432772
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Pin Sec",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "PISE4",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

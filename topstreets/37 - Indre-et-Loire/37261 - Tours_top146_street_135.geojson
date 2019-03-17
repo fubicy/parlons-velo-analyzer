@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 262820476,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7025519,
+                        47.3898413
+                    ],
+                    [
+                        0.7025748,
+                        47.3897388
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Canal",
+                "network": "Fil Bleu",
+                "public_transport": "platform",
+                "shelter": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

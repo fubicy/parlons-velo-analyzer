@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 34140758,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4133699,
+                        48.873098
+                    ],
+                    [
+                        2.4134674,
+                        48.873153
+                    ],
+                    [
+                        2.4143244,
+                        48.8738779
+                    ],
+                    [
+                        2.4153399,
+                        48.8747018
+                    ],
+                    [
+                        2.4158095,
+                        48.875075
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Noisy le Sec",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 105281605,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8134675,
+                        49.4132723
+                    ],
+                    [
+                        2.8136246,
+                        49.4131682
+                    ],
+                    [
+                        2.8150418,
+                        49.4123102
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway:left": "no",
+                "cycleway:right": "no",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Gambetta",
+                "political_division": "canton",
+                "sidewalk": "right",
+                "sidewalk:right:bicycle": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106287912,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.812512,
+                        49.4138216
+                    ],
+                    [
+                        2.8126753,
+                        49.4137278
+                    ],
+                    [
+                        2.813312,
+                        49.4133648
+                    ],
+                    [
+                        2.8134675,
+                        49.4132723
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Boulevard Gambetta",
+                "political_division": "canton",
+                "sidewalk": "both",
+                "sidewalk:both:bicycle": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174180108,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8150418,
+                        49.4123102
+                    ],
+                    [
+                        2.815222,
+                        49.4121654
+                    ],
+                    [
+                        2.8156412,
+                        49.411846
+                    ],
+                    [
+                        2.8156477,
+                        49.4118387
+                    ],
+                    [
+                        2.8160165,
+                        49.4115419
+                    ],
+                    [
+                        2.8172043,
+                        49.4105836
+                    ]
+                ]
+            },
+            "properties": {
+                "boundary": "political",
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Gambetta",
+                "political_division": "canton",
+                "sidewalk": "both",
+                "sidewalk:both:bicycle": "yes",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

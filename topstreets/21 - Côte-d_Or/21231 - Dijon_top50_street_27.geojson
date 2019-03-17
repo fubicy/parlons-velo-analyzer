@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4882315,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0461347,
+                        47.3261225
+                    ],
+                    [
+                        5.0462054,
+                        47.3260786
+                    ],
+                    [
+                        5.0462237,
+                        47.3260644
+                    ],
+                    [
+                        5.0462549,
+                        47.3260403
+                    ],
+                    [
+                        5.0470843,
+                        47.325399
+                    ],
+                    [
+                        5.047187,
+                        47.3253195
+                    ],
+                    [
+                        5.0472563,
+                        47.3252659
+                    ],
+                    [
+                        5.0473306,
+                        47.3252075
+                    ],
+                    [
+                        5.048239,
+                        47.3245238
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard Thiers",
+                "old_ref": "N 5",
+                "oneway": "no",
+                "ref": "D 905",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 194251782,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0492414,
+                        47.3238324
+                    ],
+                    [
+                        5.0494463,
+                        47.3236813
+                    ],
+                    [
+                        5.0496589,
+                        47.3235247
+                    ],
+                    [
+                        5.0497309,
+                        47.3234716
+                    ],
+                    [
+                        5.0500627,
+                        47.323227
+                    ],
+                    [
+                        5.0516257,
+                        47.3220747
+                    ],
+                    [
+                        5.0517788,
+                        47.3218168
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard Thiers",
+                "old_ref": "N 5",
+                "oneway": "yes",
+                "ref": "D 905",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 297351828,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.049228,
+                        47.3238805
+                    ],
+                    [
+                        5.0490774,
+                        47.3239735
+                    ],
+                    [
+                        5.0490139,
+                        47.3240173
+                    ],
+                    [
+                        5.0485173,
+                        47.3243695
+                    ],
+                    [
+                        5.048239,
+                        47.3245238
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard Thiers",
+                "old_ref": "N 5",
+                "oneway": "yes",
+                "ref": "D 905",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 484327807,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0520513,
+                        47.3219698
+                    ],
+                    [
+                        5.0517066,
+                        47.3220599
+                    ],
+                    [
+                        5.0508224,
+                        47.3226957
+                    ],
+                    [
+                        5.0496906,
+                        47.323541
+                    ],
+                    [
+                        5.0494609,
+                        47.3237096
+                    ],
+                    [
+                        5.049228,
+                        47.3238805
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "highway": "service",
+                "motor_vehicle": "bus",
+                "name": "Boulevard Thiers",
+                "oneway": "yes",
+                "service": "bus",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 484328397,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.048239,
+                        47.3245238
+                    ],
+                    [
+                        5.0489963,
+                        47.3239875
+                    ],
+                    [
+                        5.0492414,
+                        47.3238324
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Boulevard Thiers",
+                "old_ref": "N 5",
+                "oneway": "yes",
+                "ref": "D 905",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

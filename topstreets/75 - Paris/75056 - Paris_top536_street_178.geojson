@@ -1,0 +1,746 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4040099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3492488,
+                        48.8573196
+                    ],
+                    [
+                        2.3489955,
+                        48.8568385
+                    ],
+                    [
+                        2.3489833,
+                        48.8568153
+                    ],
+                    [
+                        2.3489342,
+                        48.8567219
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "lane",
+                "highway": "secondary",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source": "Bing",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4527543,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3508854,
+                        48.8601683
+                    ],
+                    [
+                        2.3513707,
+                        48.8610282
+                    ],
+                    [
+                        2.3516699,
+                        48.8616534
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "opposite",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue Saint-Martin",
+                "note": "update BMO 080125",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17503800,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3532345,
+                        48.8654653
+                    ],
+                    [
+                        2.3532565,
+                        48.8655236
+                    ],
+                    [
+                        2.3534222,
+                        48.865964
+                    ],
+                    [
+                        2.3534513,
+                        48.8660412
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22674372,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3502332,
+                        48.8589984
+                    ],
+                    [
+                        2.3501816,
+                        48.8589461
+                    ],
+                    [
+                        2.3499699,
+                        48.8585607
+                    ],
+                    [
+                        2.349952,
+                        48.8585262
+                    ],
+                    [
+                        2.3499273,
+                        48.8584828
+                    ],
+                    [
+                        2.3496878,
+                        48.8580736
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue Saint-Martin",
+                "surface": "paving_stones",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22674506,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3508854,
+                        48.8601683
+                    ],
+                    [
+                        2.3507399,
+                        48.859869
+                    ],
+                    [
+                        2.3505665,
+                        48.859553
+                    ],
+                    [
+                        2.3504577,
+                        48.8593549
+                    ],
+                    [
+                        2.3502332,
+                        48.8589984
+                    ]
+                ]
+            },
+            "properties": {
+                "access:motorcar": "destination",
+                "bicycle": "yes",
+                "highway": "pedestrian",
+                "lit": "yes",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23981905,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3533279,
+                        48.8648427
+                    ],
+                    [
+                        2.3532924,
+                        48.8647721
+                    ],
+                    [
+                        2.3532713,
+                        48.8647283
+                    ],
+                    [
+                        2.3530663,
+                        48.8643109
+                    ],
+                    [
+                        2.3530472,
+                        48.8642721
+                    ],
+                    [
+                        2.353029,
+                        48.8642374
+                    ],
+                    [
+                        2.3528127,
+                        48.8638256
+                    ],
+                    [
+                        2.3527771,
+                        48.8637575
+                    ],
+                    [
+                        2.352739,
+                        48.8636837
+                    ],
+                    [
+                        2.3527243,
+                        48.863656
+                    ],
+                    [
+                        2.352512,
+                        48.8632503
+                    ],
+                    [
+                        2.3524511,
+                        48.8631332
+                    ],
+                    [
+                        2.3524118,
+                        48.8630598
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24689274,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.353766,
+                        48.865977
+                    ],
+                    [
+                        2.3537397,
+                        48.8659089
+                    ],
+                    [
+                        2.3537359,
+                        48.8658991
+                    ],
+                    [
+                        2.3535566,
+                        48.8654354
+                    ],
+                    [
+                        2.3535339,
+                        48.8653756
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "cobblestone",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37075839,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3555991,
+                        48.8690208
+                    ],
+                    [
+                        2.3555407,
+                        48.8689096
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56319995,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3553926,
+                        48.8686432
+                    ],
+                    [
+                        2.3552946,
+                        48.8684667
+                    ],
+                    [
+                        2.3552763,
+                        48.8684309
+                    ],
+                    [
+                        2.3552469,
+                        48.8683783
+                    ],
+                    [
+                        2.3550327,
+                        48.8679983
+                    ],
+                    [
+                        2.3549883,
+                        48.8679196
+                    ],
+                    [
+                        2.3548696,
+                        48.8677543
+                    ],
+                    [
+                        2.35484,
+                        48.8677131
+                    ],
+                    [
+                        2.3546044,
+                        48.8673406
+                    ],
+                    [
+                        2.3545663,
+                        48.8672804
+                    ],
+                    [
+                        2.3542627,
+                        48.8667985
+                    ],
+                    [
+                        2.3542308,
+                        48.8667478
+                    ],
+                    [
+                        2.3538144,
+                        48.8660585
+                    ],
+                    [
+                        2.353766,
+                        48.865977
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "BMO Arr\u00eat\u00e9  n o   2018  P  11503",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56320005,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3555407,
+                        48.8689096
+                    ],
+                    [
+                        2.3555766,
+                        48.8688592
+                    ],
+                    [
+                        2.3554827,
+                        48.8686741
+                    ],
+                    [
+                        2.3554595,
+                        48.8686272
+                    ],
+                    [
+                        2.3553986,
+                        48.8685137
+                    ],
+                    [
+                        2.3553584,
+                        48.868428
+                    ],
+                    [
+                        2.3553245,
+                        48.8683651
+                    ],
+                    [
+                        2.3550674,
+                        48.8679172
+                    ],
+                    [
+                        2.3549049,
+                        48.8676993
+                    ],
+                    [
+                        2.3538943,
+                        48.8660387
+                    ],
+                    [
+                        2.353766,
+                        48.865977
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "share_busway",
+                "highway": "service",
+                "maxspeed": "30",
+                "motor_vehicle": "no",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "psv": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2010",
+                "source:maxspeed": "BMO Arr\u00eat\u00e9  n o   2018  P  11503",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123486088,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3524118,
+                        48.8630598
+                    ],
+                    [
+                        2.3523655,
+                        48.862969
+                    ],
+                    [
+                        2.3523592,
+                        48.8629567
+                    ],
+                    [
+                        2.3522507,
+                        48.8627599
+                    ],
+                    [
+                        2.3520549,
+                        48.8624049
+                    ],
+                    [
+                        2.3520315,
+                        48.8623623
+                    ],
+                    [
+                        2.3519455,
+                        48.8622058
+                    ],
+                    [
+                        2.3516699,
+                        48.8616534
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "fixme": "incoh\u00e9rence 20 ou 30 km/h ?",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193100625,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3496675,
+                        48.8580409
+                    ],
+                    [
+                        2.3496878,
+                        48.8580736
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "foot": "yes",
+                "highway": "residential",
+                "motor_vehicle": "yes",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 285100235,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3555407,
+                        48.8689096
+                    ],
+                    [
+                        2.3554194,
+                        48.8686896
+                    ],
+                    [
+                        2.3553926,
+                        48.8686432
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway": "share_busway",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source:maxspeed": "BMO Arr\u00eat\u00e9  n o   2018  P  11503",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 499497968,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3535339,
+                        48.8653756
+                    ],
+                    [
+                        2.3535033,
+                        48.8652946
+                    ],
+                    [
+                        2.3533787,
+                        48.8649726
+                    ],
+                    [
+                        2.3533591,
+                        48.864922
+                    ],
+                    [
+                        2.3533279,
+                        48.8648427
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 545612377,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3495344,
+                        48.85782
+                    ],
+                    [
+                        2.3496083,
+                        48.8579483
+                    ],
+                    [
+                        2.3496214,
+                        48.857971
+                    ],
+                    [
+                        2.3496452,
+                        48.858009
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "foot": "yes",
+                "highway": "residential",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "psv": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551416291,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3492488,
+                        48.8573196
+                    ],
+                    [
+                        2.3492889,
+                        48.8573941
+                    ],
+                    [
+                        2.3495344,
+                        48.85782
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "no",
+                "foot": "yes",
+                "highway": "residential",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "psv": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 627023260,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3496452,
+                        48.858009
+                    ],
+                    [
+                        2.3496675,
+                        48.8580409
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "foot": "yes",
+                "highway": "residential",
+                "name": "Rue Saint-Martin",
+                "oneway": "yes",
+                "psv": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

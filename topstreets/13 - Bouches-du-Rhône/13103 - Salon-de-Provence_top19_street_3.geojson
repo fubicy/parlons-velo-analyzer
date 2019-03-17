@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 28052659,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0991368,
+                        43.6405817
+                    ],
+                    [
+                        5.0990721,
+                        43.640047
+                    ],
+                    [
+                        5.099048,
+                        43.6397303
+                    ],
+                    [
+                        5.0990228,
+                        43.6391608
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Cours Gimon",
+                "oneway": "yes",
+                "zone:maxspeed": "FR:30",
+                "line_width": 15,
+                "line_color": "#401000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37450988,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0990228,
+                        43.6391608
+                    ],
+                    [
+                        5.0990048,
+                        43.6387546
+                    ],
+                    [
+                        5.0989761,
+                        43.6384612
+                    ],
+                    [
+                        5.0989855,
+                        43.6383722
+                    ],
+                    [
+                        5.0990718,
+                        43.6380666
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Cours Gimon",
+                "zone:maxspeed": "FR:30",
+                "line_width": 15,
+                "line_color": "#401000"
+            }
+        }
+    ]
+}

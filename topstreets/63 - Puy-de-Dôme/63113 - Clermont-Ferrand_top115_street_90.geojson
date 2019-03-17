@@ -1,0 +1,132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37043319,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1043945,
+                        45.7813248
+                    ],
+                    [
+                        3.1044761,
+                        45.7813659
+                    ],
+                    [
+                        3.1046094,
+                        45.7814421
+                    ],
+                    [
+                        3.1047902,
+                        45.7815314
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue Auger",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183967644,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1043229,
+                        45.7812807
+                    ],
+                    [
+                        3.1043945,
+                        45.7813248
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "unclassified",
+                "name": "Rue Auger",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 279941898,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.1047902,
+                        45.7815314
+                    ],
+                    [
+                        3.1054661,
+                        45.7818856
+                    ],
+                    [
+                        3.1056686,
+                        45.7819634
+                    ],
+                    [
+                        3.1058805,
+                        45.7820705
+                    ],
+                    [
+                        3.1060569,
+                        45.7821687
+                    ],
+                    [
+                        3.1062519,
+                        45.7822864
+                    ],
+                    [
+                        3.1070741,
+                        45.7826945
+                    ],
+                    [
+                        3.1075427,
+                        45.7829367
+                    ],
+                    [
+                        3.1093364,
+                        45.7838619
+                    ],
+                    [
+                        3.1093467,
+                        45.783915
+                    ],
+                    [
+                        3.1093182,
+                        45.7839777
+                    ],
+                    [
+                        3.1092079,
+                        45.7840952
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "unclassified",
+                "maxspeed": "50",
+                "name": "Rue Auger",
+                "oneway": "yes",
+                "oneway:bus": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

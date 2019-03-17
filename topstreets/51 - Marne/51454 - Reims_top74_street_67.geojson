@@ -1,0 +1,142 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25581735,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0430545,
+                        49.2490747
+                    ],
+                    [
+                        4.0428207,
+                        49.2495534
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Pasteur",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25581737,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0430545,
+                        49.2490747
+                    ],
+                    [
+                        4.043384,
+                        49.248371
+                    ],
+                    [
+                        4.04344,
+                        49.2482347
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Boulevard Pasteur",
+                "oneway": "yes",
+                "ref": "N 44",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 449255061,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0428207,
+                        49.2495534
+                    ],
+                    [
+                        4.0427912,
+                        49.2496173
+                    ],
+                    [
+                        4.0423939,
+                        49.2504755
+                    ],
+                    [
+                        4.0420459,
+                        49.2512343
+                    ],
+                    [
+                        4.0419591,
+                        49.2514235
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Pasteur",
+                "oneway": "no",
+                "ref": "N 44",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|none",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616103639,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0435449,
+                        49.2484859
+                    ],
+                    [
+                        4.0434871,
+                        49.2485553
+                    ],
+                    [
+                        4.0430545,
+                        49.2490747
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Boulevard Pasteur",
+                "oneway": "yes",
+                "ref": "N 44",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "surface": "asphalt",
+                "turn:lanes": "through|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

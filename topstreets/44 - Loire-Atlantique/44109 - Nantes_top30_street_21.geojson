@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 519069666,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5565898,
+                        47.2430978
+                    ],
+                    [
+                        -1.556589,
+                        47.2429394
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Petit Port",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "PPFA3",
+                "tactile_paving": "yes",
+                "wheelchair": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 519069667,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5560152,
+                        47.24334
+                    ],
+                    [
+                        -1.5557711,
+                        47.2433027
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Petit Port",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "PPFA4",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 519069668,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5569875,
+                        47.2436746
+                    ],
+                    [
+                        -1.5571973,
+                        47.2436951
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "Petit Port",
+                "network": "TAN",
+                "public_transport": "platform",
+                "ref:TAN": "PPFA5",
+                "tactile_paving": "yes",
+                "wheelchair": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

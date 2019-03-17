@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27331608,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3993912,
+                        48.8190838
+                    ],
+                    [
+                        2.4005963,
+                        48.8202536
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "4",
+                "layer": "2",
+                "maxspeed": "50",
+                "name": "Pont Nelson Mandela",
+                "old_ref": "D 50",
+                "oneway": "yes",
+                "ref": "D 154A",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27331685,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3998029,
+                        48.821983
+                    ],
+                    [
+                        2.3993136,
+                        48.8213274
+                    ],
+                    [
+                        2.3991071,
+                        48.8210535
+                    ],
+                    [
+                        2.3981882,
+                        48.8197652
+                    ],
+                    [
+                        2.3981183,
+                        48.8196785
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "2",
+                "maxspeed": "50",
+                "name": "Pont Nelson Mandela",
+                "oneway": "yes",
+                "ref": "D 154B",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

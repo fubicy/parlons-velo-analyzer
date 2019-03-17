@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 119353649,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5538717,
+                        47.4710042
+                    ],
+                    [
+                        -0.5538792,
+                        47.4709892
+                    ],
+                    [
+                        -0.5538882,
+                        47.4709712
+                    ],
+                    [
+                        -0.5541294,
+                        47.4704893
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Montault",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119353650,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5541294,
+                        47.4704893
+                    ],
+                    [
+                        -0.5541671,
+                        47.4704326
+                    ],
+                    [
+                        -0.5542102,
+                        47.4703839
+                    ],
+                    [
+                        -0.5544761,
+                        47.4702024
+                    ],
+                    [
+                        -0.5545843,
+                        47.4701213
+                    ],
+                    [
+                        -0.5546094,
+                        47.4701035
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Montault",
+                "oneway": "yes",
+                "surface": "concrete",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

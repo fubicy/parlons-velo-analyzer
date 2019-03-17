@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 119104875,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5521712,
+                        47.4729148
+                    ],
+                    [
+                        -0.5521867,
+                        47.4729046
+                    ],
+                    [
+                        -0.5522255,
+                        47.472896
+                    ],
+                    [
+                        -0.5522592,
+                        47.4728898
+                    ],
+                    [
+                        -0.5532493,
+                        47.4727384
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Bodinier",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127027737,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5521712,
+                        47.4729148
+                    ],
+                    [
+                        -0.5518595,
+                        47.4729483
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue Bodinier",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 626659235,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5532493,
+                        47.4727384
+                    ],
+                    [
+                        -0.5541808,
+                        47.4726029
+                    ],
+                    [
+                        -0.5542865,
+                        47.4725885
+                    ],
+                    [
+                        -0.5546679,
+                        47.4725126
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "living_street",
+                "maxspeed": "20",
+                "name": "Rue Bodinier",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

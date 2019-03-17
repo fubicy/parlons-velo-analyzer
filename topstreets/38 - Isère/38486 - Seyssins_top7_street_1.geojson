@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 199114232,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6989887,
+                        45.1665348
+                    ],
+                    [
+                        5.6989903,
+                        45.1666639
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "no",
+                "bin": "no",
+                "bus": "yes",
+                "disused": "yes",
+                "highway": "platform",
+                "name": "Allobroges",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199114233,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.6989163,
+                        45.1668525
+                    ],
+                    [
+                        5.6989123,
+                        45.1667164
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bin": "yes",
+                "bus": "yes",
+                "disused": "yes",
+                "highway": "platform",
+                "name": "Allobroges",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

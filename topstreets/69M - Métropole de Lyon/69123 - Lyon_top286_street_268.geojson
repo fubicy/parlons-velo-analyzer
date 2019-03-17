@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 383759553,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8534165,
+                        45.7517724
+                    ],
+                    [
+                        4.8532471,
+                        45.7518291
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Garibaldi - Gambetta",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "1015",
+                "route_ref": "C25B:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383759555,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8535243,
+                        45.7513729
+                    ],
+                    [
+                        4.853548,
+                        45.7512265
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Garibaldi - Gambetta",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "11444",
+                "route_ref": "C7B:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

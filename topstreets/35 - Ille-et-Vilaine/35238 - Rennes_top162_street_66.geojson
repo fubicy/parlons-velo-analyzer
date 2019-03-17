@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 9363033,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6802294,
+                        48.1109421
+                    ],
+                    [
+                        -1.6802288,
+                        48.1108967
+                    ],
+                    [
+                        -1.6802243,
+                        48.1107711
+                    ],
+                    [
+                        -1.680206,
+                        48.1102626
+                    ],
+                    [
+                        -1.680205,
+                        48.1102442
+                    ],
+                    [
+                        -1.6802009,
+                        48.1101782
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "share_busway",
+                "cycleway:right": "none",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Rohan",
+                "name:br": "Straed Roc'han",
+                "oneway": "bus=no",
+                "oneway:bicycle": "no",
+                "psv": "opposite_lane",
+                "source:maxspeed": "Survey 01/2016",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

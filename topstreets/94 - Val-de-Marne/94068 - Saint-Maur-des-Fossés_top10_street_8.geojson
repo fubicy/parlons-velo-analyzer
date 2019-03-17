@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23228775,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4855982,
+                        48.8047486
+                    ],
+                    [
+                        2.4856115,
+                        48.8046255
+                    ],
+                    [
+                        2.4855864,
+                        48.8045238
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "name": "Avenue Charles de Gaulle",
+                "oneway": "yes",
+                "parking:lane:both": "no_parking",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64391723,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4855864,
+                        48.8045238
+                    ],
+                    [
+                        2.4853988,
+                        48.8034423
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue Charles de Gaulle",
+                "old_name": "Avenue de la Mairie",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "parking:lane:both": "parallel",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218984360,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4853988,
+                        48.8034423
+                    ],
+                    [
+                        2.4853735,
+                        48.8032407
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "name": "Avenue Charles de Gaulle",
+                "old_name": "Avenue de la Mairie",
+                "oneway": "yes",
+                "parking:condition:both": "ticket",
+                "surface": "asphalt",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

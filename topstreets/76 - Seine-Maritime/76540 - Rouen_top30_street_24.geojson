@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31796923,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.091784,
+                        49.4380457
+                    ],
+                    [
+                        1.0917663,
+                        49.4380175
+                    ],
+                    [
+                        1.0905915,
+                        49.4362365
+                    ],
+                    [
+                        1.0905366,
+                        49.4361505
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "2",
+                "layer": "2",
+                "maxspeed": "50",
+                "name": "Pont Boieldieu",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31796924,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0918208,
+                        49.4380977
+                    ],
+                    [
+                        1.091784,
+                        49.4380457
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Pont Boieldieu",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31796929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0905366,
+                        49.4361505
+                    ],
+                    [
+                        1.0905219,
+                        49.4361253
+                    ],
+                    [
+                        1.0905088,
+                        49.4361018
+                    ],
+                    [
+                        1.0904268,
+                        49.4359812
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Pont Boieldieu",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

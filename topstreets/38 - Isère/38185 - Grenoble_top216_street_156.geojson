@@ -1,0 +1,114 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 29375171,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7044354,
+                        45.2026882
+                    ],
+                    [
+                        5.7043803,
+                        45.2026413
+                    ],
+                    [
+                        5.7043022,
+                        45.2025852
+                    ],
+                    [
+                        5.7042225,
+                        45.2025277
+                    ],
+                    [
+                        5.7041297,
+                        45.2024764
+                    ],
+                    [
+                        5.7040984,
+                        45.2024591
+                    ],
+                    [
+                        5.7040066,
+                        45.2024083
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Winston Churchill",
+                "old_name": "Chemin Mutte",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 647860949,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7071544,
+                        45.2050745
+                    ],
+                    [
+                        5.7071722,
+                        45.2050178
+                    ],
+                    [
+                        5.7070863,
+                        45.2049454
+                    ],
+                    [
+                        5.7054712,
+                        45.2035821
+                    ],
+                    [
+                        5.704895,
+                        45.2030887
+                    ],
+                    [
+                        5.7048052,
+                        45.2030097
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Rue Winston Churchill",
+                "old_name": "Chemin Mutte",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 647860950,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7048052,
+                        45.2030097
+                    ],
+                    [
+                        5.7044354,
+                        45.2026882
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Winston Churchill",
+                "old_name": "Chemin Mutte",
+                "parking:lane:left:parallel": "on_kerb",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

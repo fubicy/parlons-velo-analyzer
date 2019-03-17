@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23183605,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0301458,
+                        47.3151263
+                    ],
+                    [
+                        5.030111,
+                        47.3150427
+                    ],
+                    [
+                        5.0298246,
+                        47.3139751
+                    ],
+                    [
+                        5.0297229,
+                        47.3137154
+                    ],
+                    [
+                        5.0296911,
+                        47.3135517
+                    ],
+                    [
+                        5.0296825,
+                        47.3134091
+                    ],
+                    [
+                        5.0296648,
+                        47.3126924
+                    ],
+                    [
+                        5.0296482,
+                        47.3121448
+                    ],
+                    [
+                        5.0295921,
+                        47.3112225
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxlength": "5.6",
+                "maxspeed": "30",
+                "name": "Rue de l'Ile",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23183612,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0295921,
+                        47.3112225
+                    ],
+                    [
+                        5.0295836,
+                        47.3106549
+                    ]
+                ]
+            },
+            "properties": {
+                "created_by": "JOSM",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de l'Ile",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

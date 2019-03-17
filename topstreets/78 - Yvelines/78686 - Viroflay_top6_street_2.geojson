@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 172890002,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1672349,
+                        48.8037692
+                    ],
+                    [
+                        2.1679683,
+                        48.8031695
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "name": "Rue des Arcades",
+                "source:maxspeed": "FR:urban",
+                "surface": "paved",
+                "line_width": 9,
+                "line_color": "#bf3000"
+            }
+        }
+    ]
+}

@@ -4,8 +4,8 @@ Sur l'ensemble de la ville il y a eu 24 réponses dont 10 réponses avec une rue
 
 2 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue de Paris | 8 | 33% | <img src="../../img/bar_80.gif" />&nbsp;80%|
-| Pont de Joinville | 2 | 8% | <img src="../../img/bar_20.gif" />&nbsp;20%|
-| **Total** | 10 | 41% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue de Paris | 8 | <img src="../../img/bar_80.gif" />&nbsp;80%|
+| Pont de Joinville | 2 | <img src="../../img/bar_20.gif" />&nbsp;20%|
+| **Total** | 10 | 100%|

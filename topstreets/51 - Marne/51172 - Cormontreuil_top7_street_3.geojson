@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27215290,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0540743,
+                        49.2234938
+                    ],
+                    [
+                        4.0543064,
+                        49.2233923
+                    ],
+                    [
+                        4.055133,
+                        49.2231546
+                    ],
+                    [
+                        4.0552124,
+                        49.2230675
+                    ],
+                    [
+                        4.056188,
+                        49.222715
+                    ],
+                    [
+                        4.0582692,
+                        49.222011
+                    ],
+                    [
+                        4.0585536,
+                        49.2218885
+                    ],
+                    [
+                        4.0587196,
+                        49.2218284
+                    ],
+                    [
+                        4.0592911,
+                        49.2216214
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Rue Victor Hugo",
+                "ref": "D 8",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27575089,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0582692,
+                        49.222011
+                    ],
+                    [
+                        4.0583243,
+                        49.2219617
+                    ],
+                    [
+                        4.0583361,
+                        49.2219371
+                    ],
+                    [
+                        4.0583338,
+                        49.2219139
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Victor Hugo",
+                "oneway": "yes",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

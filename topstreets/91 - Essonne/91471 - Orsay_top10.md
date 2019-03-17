@@ -4,16 +4,16 @@ Sur l'ensemble de la ville il y a eu 74 réponses dont 35 réponses avec une rue
 
 14 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Rue Guy Môquet | 7 | 9% | <img src="../../img/bar_20.gif" />&nbsp;20%|
-| Voie du Rond-Point | 5 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
-| Rue de Versailles | 5 | 6% | <img src="../../img/bar_14.gif" />&nbsp;14%|
-| Boulevard Dubreuil | 4 | 5% | <img src="../../img/bar_11.gif" />&nbsp;11%|
-| Promenade de l'Yvette | 3 | 4% | <img src="../../img/bar_8.gif" />&nbsp;8%|
-| Rue de Paris | 2 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Avenue Saint-Laurent | 2 | 2% | <img src="../../img/bar_5.gif" />&nbsp;5%|
-| Rue de Montlhéry | 1 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue de Chevreuse | 1 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| Rue Louis Scocard | 1 | 1% | <img src="../../img/bar_2.gif" />&nbsp;2%|
-| **Total** | 31 | 41% | 88%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Rue Guy Môquet | 7 | <img src="../../img/bar_22.gif" />&nbsp;22%|
+| Voie du Rond-Point | 5 | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| Rue de Versailles | 5 | <img src="../../img/bar_16.gif" />&nbsp;16%|
+| Boulevard Dubreuil | 4 | <img src="../../img/bar_12.gif" />&nbsp;12%|
+| Promenade de l'Yvette | 3 | <img src="../../img/bar_9.gif" />&nbsp;9%|
+| Rue de Paris | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Avenue Saint-Laurent | 2 | <img src="../../img/bar_6.gif" />&nbsp;6%|
+| Rue de Montlhéry | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue de Chevreuse | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| Rue Louis Scocard | 1 | <img src="../../img/bar_3.gif" />&nbsp;3%|
+| **Total** | 31 | 100%|

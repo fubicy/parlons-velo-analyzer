@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26549340,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7901447,
+                        48.815303
+                    ],
+                    [
+                        7.7901325,
+                        48.8152486
+                    ],
+                    [
+                        7.7900661,
+                        48.8150405
+                    ],
+                    [
+                        7.7900798,
+                        48.8148929
+                    ],
+                    [
+                        7.7902272,
+                        48.8146032
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue de l'\u00c9toile",
+                "source": "Direction G\u00e9n\u00e9rale des Finances Publiques - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26549341,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7903396,
+                        48.8159303
+                    ],
+                    [
+                        7.7902735,
+                        48.815882
+                    ],
+                    [
+                        7.790164,
+                        48.8154649
+                    ],
+                    [
+                        7.7901532,
+                        48.8153756
+                    ],
+                    [
+                        7.7901447,
+                        48.815303
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de l'\u00c9toile",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

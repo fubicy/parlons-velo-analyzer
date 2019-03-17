@@ -1,0 +1,294 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31737696,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.107198,
+                        49.4336173
+                    ],
+                    [
+                        1.1069752,
+                        49.4338559
+                    ],
+                    [
+                        1.1066843,
+                        49.4341706
+                    ],
+                    [
+                        1.1065439,
+                        49.4343246
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "6",
+                "lanes:backward": "3",
+                "lanes:forward": "3",
+                "maxspeed": "50",
+                "name": "Route de Bonsecours",
+                "oneway": "no",
+                "ref": "D 6015",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|left|through",
+                "turn:lanes:forward": "through|through|right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83700497,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1113996,
+                        49.430332
+                    ],
+                    [
+                        1.1113577,
+                        49.4303615
+                    ],
+                    [
+                        1.1112898,
+                        49.4304036
+                    ],
+                    [
+                        1.1110016,
+                        49.4306042
+                    ],
+                    [
+                        1.1107253,
+                        49.4308136
+                    ],
+                    [
+                        1.1104822,
+                        49.4310079
+                    ],
+                    [
+                        1.1102232,
+                        49.4312065
+                    ],
+                    [
+                        1.1101067,
+                        49.431302
+                    ],
+                    [
+                        1.110091,
+                        49.4313148
+                    ],
+                    [
+                        1.1100006,
+                        49.4313888
+                    ],
+                    [
+                        1.1098292,
+                        49.4315292
+                    ],
+                    [
+                        1.1096599,
+                        49.4316713
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "incline": "down",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "lanes:psv:forward": "1",
+                "maxspeed": "50",
+                "name": "Route de Bonsecours",
+                "old_ref": "N14",
+                "oneway": "no",
+                "ref": "D 6014",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181835016,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.107308,
+                        49.4334264
+                    ],
+                    [
+                        1.1074811,
+                        49.4332759
+                    ],
+                    [
+                        1.1075611,
+                        49.4332149
+                    ],
+                    [
+                        1.1076254,
+                        49.433173
+                    ],
+                    [
+                        1.1077017,
+                        49.4331405
+                    ]
+                ]
+            },
+            "properties": {
+                "destination": "Cergy-Pontoise;Bonsecours;A\u00e9roport",
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Route de Bonsecours",
+                "oneway": "yes",
+                "ref": "D 6015",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 221977214,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1089304,
+                        49.4322352
+                    ],
+                    [
+                        1.1082729,
+                        49.4327325
+                    ],
+                    [
+                        1.1080094,
+                        49.4329338
+                    ],
+                    [
+                        1.1078247,
+                        49.433065
+                    ],
+                    [
+                        1.1077017,
+                        49.4331405
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:backward": "2",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Route de Bonsecours",
+                "old_ref": "N14",
+                "oneway": "no",
+                "ref": "D 6014",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 320718606,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1096599,
+                        49.4316713
+                    ],
+                    [
+                        1.1095938,
+                        49.4317224
+                    ],
+                    [
+                        1.1089304,
+                        49.4322352
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "incline": "down",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Route de Bonsecours",
+                "old_ref": "N14",
+                "oneway": "no",
+                "ref": "D 6014",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 437758357,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1130474,
+                        49.4292511
+                    ],
+                    [
+                        1.1124509,
+                        49.429642
+                    ],
+                    [
+                        1.1118908,
+                        49.4300212
+                    ],
+                    [
+                        1.1116632,
+                        49.4301856
+                    ],
+                    [
+                        1.1115013,
+                        49.4302874
+                    ],
+                    [
+                        1.1113996,
+                        49.430332
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "incline": "down",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "lanes:psv:forward": "1",
+                "maxspeed": "50",
+                "name": "Route de Bonsecours",
+                "old_ref": "N14",
+                "oneway": "no",
+                "ref": "D 6014",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 92470016,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.9985569,
+                        49.2667886
+                    ],
+                    [
+                        3.9984859,
+                        49.266622
+                    ],
+                    [
+                        3.998484,
+                        49.2665261
+                    ],
+                    [
+                        3.998529,
+                        49.2664626
+                    ],
+                    [
+                        3.9993692,
+                        49.2656395
+                    ],
+                    [
+                        4.0001302,
+                        49.2650975
+                    ],
+                    [
+                        4.0017287,
+                        49.2641106
+                    ],
+                    [
+                        4.0024782,
+                        49.2636478
+                    ],
+                    [
+                        4.0035182,
+                        49.2630609
+                    ],
+                    [
+                        4.0035237,
+                        49.2630578
+                    ],
+                    [
+                        4.0037526,
+                        49.2628968
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "name": "Avenue Br\u00e9bant",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92470017,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0087318,
+                        49.2596684
+                    ],
+                    [
+                        4.009609,
+                        49.2591194
+                    ],
+                    [
+                        4.0096884,
+                        49.2590697
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Br\u00e9bant",
+                "oneway": "no",
+                "source": "GPS",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 338145766,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0037526,
+                        49.2628968
+                    ],
+                    [
+                        4.0087318,
+                        49.2596684
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue Br\u00e9bant",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 421318304,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0096884,
+                        49.2590697
+                    ],
+                    [
+                        4.0107097,
+                        49.2584215
+                    ],
+                    [
+                        4.0129026,
+                        49.2570481
+                    ],
+                    [
+                        4.0144864,
+                        49.2560524
+                    ],
+                    [
+                        4.0157229,
+                        49.2552649
+                    ],
+                    [
+                        4.0157852,
+                        49.2552252
+                    ],
+                    [
+                        4.0161587,
+                        49.2549923
+                    ],
+                    [
+                        4.0164862,
+                        49.2547794
+                    ],
+                    [
+                        4.0171667,
+                        49.2543359
+                    ],
+                    [
+                        4.0174046,
+                        49.2541809
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Br\u00e9bant",
+                "oneway": "no",
+                "source": "GPS",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 421318314,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0184887,
+                        49.2534783
+                    ],
+                    [
+                        4.0180282,
+                        49.2537775
+                    ],
+                    [
+                        4.0174046,
+                        49.2541809
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue Br\u00e9bant",
+                "source": "GPS",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4567469,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.056567,
+                        45.0402254
+                    ],
+                    [
+                        5.056431,
+                        45.040245
+                    ],
+                    [
+                        5.0563673,
+                        45.0402542
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary_link",
+                "name": "Rue Antonin Vallon",
+                "oneway": "yes",
+                "ref": "D 2532N",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7986796,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0551343,
+                        45.0403907
+                    ],
+                    [
+                        5.0549739,
+                        45.0404667
+                    ],
+                    [
+                        5.05464,
+                        45.0405461
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Antonin Vallon",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7986918,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.05464,
+                        45.0405461
+                    ],
+                    [
+                        5.0549437,
+                        45.0404072
+                    ],
+                    [
+                        5.0551017,
+                        45.040329
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Antonin Vallon",
+                "oneway": "yes",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 330697279,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0563673,
+                        45.0402542
+                    ],
+                    [
+                        5.056198,
+                        45.0402683
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary_link",
+                "layer": "2",
+                "name": "Rue Antonin Vallon",
+                "oneway": "yes",
+                "ref": "D 2532N",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

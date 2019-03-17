@@ -21,7 +21,7 @@ Sur l'ensemble du département, il y a eu 679 réponses dont 348 réponses avec 
 |64405 - Morlaàs|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |64422 - Oloron-Sainte-Marie&nbsp;&#124;&nbsp;<a href='64422 - Oloron-Sainte-Marie_top2.md'>Top 10</a>|4|2(50%)|<img src="../../img/bar_1.gif" />&nbsp;2|
 |64430 - Orthez|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
-|64445 - Pau&nbsp;&#124;&nbsp;<a href='64445 - Pau_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='64445 - Pau_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='64445 - Pau_top50.md'>Top 50</a>|361|237(65%)|<img src="../../img/bar_53.gif" />&nbsp;61|
+|64445 - Pau&nbsp;&#124;&nbsp;<a href='64445 - Pau_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='64445 - Pau_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='64445 - Pau_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='64445 - Pau_top61.md'>Top 1000</a>|361|237(65%)|<img src="../../img/bar_53.gif" />&nbsp;61|
 |64483 - Saint-Jean-de-Luz&nbsp;&#124;&nbsp;<a href='64483 - Saint-Jean-de-Luz_top2.md'>Top 10</a>|11|3(27%)|<img src="../../img/bar_1.gif" />&nbsp;2|
 |64545 - Urrugne|9|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |64558 - Villefranque|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|

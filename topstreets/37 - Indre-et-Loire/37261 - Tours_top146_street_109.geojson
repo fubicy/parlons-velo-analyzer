@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 49146398,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6754556,
+                        47.3917039
+                    ],
+                    [
+                        0.6754326,
+                        47.3917471
+                    ],
+                    [
+                        0.6747978,
+                        47.3929095
+                    ],
+                    [
+                        0.674581,
+                        47.3933064
+                    ],
+                    [
+                        0.6745683,
+                        47.3933287
+                    ],
+                    [
+                        0.6745583,
+                        47.3933479
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Dabilly",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

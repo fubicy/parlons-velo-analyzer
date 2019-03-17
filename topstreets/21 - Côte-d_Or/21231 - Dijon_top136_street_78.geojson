@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23255703,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0422521,
+                        47.3084267
+                    ],
+                    [
+                        5.0426595,
+                        47.3089709
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue du Midi",
+                "noexit": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23330779,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.0426595,
+                        47.3089709
+                    ],
+                    [
+                        5.0439621,
+                        47.3106398
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue du Midi",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

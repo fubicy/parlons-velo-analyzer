@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 392009835,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8409103,
+                        45.7788616
+                    ],
+                    [
+                        4.8408493,
+                        45.7787484
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Pont Churchill - Rive Droite",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "10946",
+                "route_ref": "9A:R,C5A:R",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 392009836,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8409697,
+                        45.7787351
+                    ],
+                    [
+                        4.8410364,
+                        45.7788578
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "bus": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Pont Churchill - Rive Droite",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "10947",
+                "route_ref": "9A:A,C5A:A",
+                "shelter": "yes",
+                "source": "SYTRAL 12/2016",
+                "wheelchair": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

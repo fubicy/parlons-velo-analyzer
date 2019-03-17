@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 22746672,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6647646,
+                        47.3938078
+                    ],
+                    [
+                        0.6647743,
+                        47.3937847
+                    ],
+                    [
+                        0.6647896,
+                        47.3937516
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "no",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Lieutenant Roze",
+                "oneway": "no",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 503212619,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6647896,
+                        47.3937516
+                    ],
+                    [
+                        0.6648534,
+                        47.39368
+                    ],
+                    [
+                        0.6655881,
+                        47.3928577
+                    ],
+                    [
+                        0.6661548,
+                        47.39225
+                    ],
+                    [
+                        0.6666264,
+                        47.3917383
+                    ],
+                    [
+                        0.6666725,
+                        47.3916877
+                    ],
+                    [
+                        0.6670118,
+                        47.3913197
+                    ],
+                    [
+                        0.6670831,
+                        47.3912214
+                    ],
+                    [
+                        0.6671497,
+                        47.3911291
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "cycleway": "no",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue du Lieutenant Roze",
+                "oneway": "no",
+                "ref:FR:FANTOIR": "371950190N",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

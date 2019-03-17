@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27847734,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5752399,
+                        47.2131271
+                    ],
+                    [
+                        -1.5751484,
+                        47.2131038
+                    ],
+                    [
+                        -1.5731804,
+                        47.2124956
+                    ],
+                    [
+                        -1.5728564,
+                        47.2123847
+                    ],
+                    [
+                        -1.5727677,
+                        47.2123577
+                    ]
+                ]
+            },
+            "properties": {
+                "admin_level": "11",
+                "boundary": "administrative",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue La Motte-Picquet",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

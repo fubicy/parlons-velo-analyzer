@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 44149173,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3968281,
+                        45.4434243
+                    ],
+                    [
+                        4.3968385,
+                        45.4433196
+                    ],
+                    [
+                        4.3968287,
+                        45.4431583
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Ferdinand",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44149174,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.3974926,
+                        45.4402681
+                    ],
+                    [
+                        4.3974257,
+                        45.4402878
+                    ],
+                    [
+                        4.3973727,
+                        45.4403282
+                    ],
+                    [
+                        4.3973469,
+                        45.4403659
+                    ],
+                    [
+                        4.3971009,
+                        45.4414497
+                    ],
+                    [
+                        4.3970881,
+                        45.4415059
+                    ],
+                    [
+                        4.3969545,
+                        45.4421314
+                    ],
+                    [
+                        4.3968837,
+                        45.442457
+                    ],
+                    [
+                        4.3968287,
+                        45.4431583
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite_lane",
+                "highway": "residential",
+                "name": "Rue Ferdinand",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

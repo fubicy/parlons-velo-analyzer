@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 633873658,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7326167,
+                        47.9859537
+                    ],
+                    [
+                        2.7325265,
+                        47.9872999
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "cycleway:right": "lane",
+                "highway": "secondary",
+                "name": "Avenue d'Antibes",
+                "ref": "D 2107",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}

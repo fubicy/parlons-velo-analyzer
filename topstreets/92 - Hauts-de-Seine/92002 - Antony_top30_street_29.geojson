@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 37975508,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2921741,
+                        48.7444439
+                    ],
+                    [
+                        2.2933251,
+                        48.7429528
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Jeanne",
+                "noexit": "yes",
+                "source:maxspeed": "FR:zone30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

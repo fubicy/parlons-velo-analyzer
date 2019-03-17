@@ -4,9 +4,9 @@ Sur l'ensemble de la ville il y a eu 47 réponses dont 10 réponses avec une rue
 
 3 points noirs identifiés
 
-| Rue | Vote | % réponses | % Nb rues cités|
-|-----|------|------------|----------------|
-| Lotissement le Village | 6 | 12% | <img src="../../img/bar_60.gif" />&nbsp;60%|
-| Avenue des Platanes | 3 | 6% | <img src="../../img/bar_30.gif" />&nbsp;30%|
-| Lotissement les Vignes | 1 | 2% | <img src="../../img/bar_10.gif" />&nbsp;10%|
-| **Total** | 10 | 21% | 100%|
+| Rue | Vote | % / les rues cités|
+|-----|------|-------------------|
+| Lotissement le Village | 6 | <img src="../../img/bar_60.gif" />&nbsp;60%|
+| Avenue des Platanes | 3 | <img src="../../img/bar_30.gif" />&nbsp;30%|
+| Lotissement les Vignes | 1 | <img src="../../img/bar_10.gif" />&nbsp;10%|
+| **Total** | 10 | 100%|

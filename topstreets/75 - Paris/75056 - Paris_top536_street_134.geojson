@@ -1,0 +1,753 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039319,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3662786,
+                        48.8431589
+                    ],
+                    [
+                        2.3663546,
+                        48.843091
+                    ],
+                    [
+                        2.3663751,
+                        48.8430728
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai d'Austerlitz",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4039817,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3663751,
+                        48.8430728
+                    ],
+                    [
+                        2.3664212,
+                        48.8430371
+                    ],
+                    [
+                        2.3667262,
+                        48.8428009
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Quai d'Austerlitz",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21346422,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3736544,
+                        48.8375695
+                    ],
+                    [
+                        2.3735342,
+                        48.8376857
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai d'Austerlitz",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21346517,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3713805,
+                        48.8393791
+                    ],
+                    [
+                        2.3712662,
+                        48.839462
+                    ],
+                    [
+                        2.3710823,
+                        48.8395931
+                    ],
+                    [
+                        2.3708359,
+                        48.8397761
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai d'Austerlitz",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100067019,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3650834,
+                        48.844016
+                    ],
+                    [
+                        2.365222,
+                        48.8440169
+                    ],
+                    [
+                        2.365267,
+                        48.8439896
+                    ],
+                    [
+                        2.3656029,
+                        48.8437329
+                    ],
+                    [
+                        2.3661818,
+                        48.8433227
+                    ],
+                    [
+                        2.3662328,
+                        48.8432854
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "sidewalk",
+                "highway": "cycleway",
+                "name": "Quai d'Austerlitz",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 230302696,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3665081,
+                        48.843091
+                    ],
+                    [
+                        2.3667966,
+                        48.8428579
+                    ],
+                    [
+                        2.3670472,
+                        48.8426554
+                    ],
+                    [
+                        2.3676807,
+                        48.8421802
+                    ],
+                    [
+                        2.367716,
+                        48.8421537
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "footway",
+                "name": "Quai d'Austerlitz",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246320680,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3670472,
+                        48.8426554
+                    ],
+                    [
+                        2.3670387,
+                        48.8426104
+                    ],
+                    [
+                        2.3678045,
+                        48.8420438
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "no",
+                "foot": "yes",
+                "highway": "footway",
+                "name": "Quai d'Austerlitz",
+                "segregated": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 291500912,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.367716,
+                        48.8421537
+                    ],
+                    [
+                        2.3678203,
+                        48.8420722
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "steps",
+                "incline": "up",
+                "name": "Quai d'Austerlitz",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 291500913,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3678203,
+                        48.8420722
+                    ],
+                    [
+                        2.3678045,
+                        48.8420438
+                    ],
+                    [
+                        2.3678861,
+                        48.8420636
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Quai d'Austerlitz",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 363716776,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3667262,
+                        48.8428009
+                    ],
+                    [
+                        2.3669428,
+                        48.8425931
+                    ],
+                    [
+                        2.3677322,
+                        48.8420002
+                    ],
+                    [
+                        2.3677599,
+                        48.8419807
+                    ],
+                    [
+                        2.3678731,
+                        48.8419086
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "yes",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:backward": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Quai d'Austerlitz",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes:forward": "left|left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 363716777,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3661274,
+                        48.8432652
+                    ],
+                    [
+                        2.3662786,
+                        48.8431589
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai d'Austerlitz",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 430567574,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3655305,
+                        48.8436705
+                    ],
+                    [
+                        2.3658948,
+                        48.843415
+                    ],
+                    [
+                        2.3661274,
+                        48.8432652
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Quai d'Austerlitz",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 563926495,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3689406,
+                        48.84116
+                    ],
+                    [
+                        2.3680012,
+                        48.8418191
+                    ],
+                    [
+                        2.3678731,
+                        48.8419086
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai d'Austerlitz",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 563926499,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3732807,
+                        48.8379275
+                    ],
+                    [
+                        2.3731542,
+                        48.8380307
+                    ],
+                    [
+                        2.3729999,
+                        48.8381676
+                    ],
+                    [
+                        2.3728108,
+                        48.8383309
+                    ],
+                    [
+                        2.3726817,
+                        48.8384385
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai d'Austerlitz",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 563926503,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3735342,
+                        48.8376857
+                    ],
+                    [
+                        2.3732807,
+                        48.8379275
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai d'Austerlitz",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 625418137,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3676632,
+                        48.8419244
+                    ],
+                    [
+                        2.3677599,
+                        48.8419807
+                    ],
+                    [
+                        2.3678202,
+                        48.8420168
+                    ],
+                    [
+                        2.367883,
+                        48.8420169
+                    ],
+                    [
+                        2.3679283,
+                        48.8420277
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "name": "Quai d'Austerlitz",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 627611849,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3662328,
+                        48.8432854
+                    ],
+                    [
+                        2.3663437,
+                        48.8432028
+                    ],
+                    [
+                        2.3664433,
+                        48.8431351
+                    ],
+                    [
+                        2.3665081,
+                        48.843091
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "sidewalk",
+                "highway": "cycleway",
+                "name": "Quai d'Austerlitz",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 638170163,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3655045,
+                        48.8435897
+                    ],
+                    [
+                        2.3660798,
+                        48.8431669
+                    ],
+                    [
+                        2.3661839,
+                        48.8430949
+                    ],
+                    [
+                        2.3662799,
+                        48.8430248
+                    ],
+                    [
+                        2.3663319,
+                        48.842985
+                    ],
+                    [
+                        2.3666585,
+                        48.8427476
+                    ],
+                    [
+                        2.3668664,
+                        48.8425482
+                    ],
+                    [
+                        2.3671125,
+                        48.8423523
+                    ],
+                    [
+                        2.3676632,
+                        48.8419244
+                    ],
+                    [
+                        2.3677133,
+                        48.8418854
+                    ],
+                    [
+                        2.3678049,
+                        48.8418432
+                    ],
+                    [
+                        2.3679563,
+                        48.8417902
+                    ],
+                    [
+                        2.3680653,
+                        48.8417278
+                    ],
+                    [
+                        2.3695507,
+                        48.8406513
+                    ],
+                    [
+                        2.371215,
+                        48.8394318
+                    ],
+                    [
+                        2.3723038,
+                        48.8386338
+                    ],
+                    [
+                        2.3726224,
+                        48.838405
+                    ],
+                    [
+                        2.3727497,
+                        48.8382947
+                    ],
+                    [
+                        2.3731263,
+                        48.8379364
+                    ],
+                    [
+                        2.3731937,
+                        48.837881
+                    ],
+                    [
+                        2.3734693,
+                        48.8376203
+                    ],
+                    [
+                        2.3735405,
+                        48.8375226
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "lit": "yes",
+                "name": "Quai d'Austerlitz",
+                "oneway": "no",
+                "sidewalk": "right",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 647730738,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3708359,
+                        48.8397761
+                    ],
+                    [
+                        2.3696095,
+                        48.8406869
+                    ],
+                    [
+                        2.3690139,
+                        48.8411082
+                    ],
+                    [
+                        2.3689406,
+                        48.84116
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai d'Austerlitz",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 647730740,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3726817,
+                        48.8384385
+                    ],
+                    [
+                        2.37243,
+                        48.8386187
+                    ],
+                    [
+                        2.3723708,
+                        48.8386611
+                    ],
+                    [
+                        2.3713805,
+                        48.8393791
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:right": "lane",
+                "cycleway:right": "share_busway",
+                "highway": "primary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Quai d'Austerlitz",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

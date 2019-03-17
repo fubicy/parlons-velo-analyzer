@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 137031495,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.838073,
+                        43.9286022
+                    ],
+                    [
+                        4.838313,
+                        43.9288755
+                    ],
+                    [
+                        4.8383361,
+                        43.9289018
+                    ],
+                    [
+                        4.8385836,
+                        43.9291772
+                    ],
+                    [
+                        4.8387543,
+                        43.9293516
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "service",
+                "name": "Q",
+                "oneway": "no",
+                "ref:parking": "Q",
+                "service": "parking_aisle",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

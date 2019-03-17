@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4599552,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8287059,
+                        45.7534375
+                    ],
+                    [
+                        4.8287489,
+                        45.7533715
+                    ],
+                    [
+                        4.8292857,
+                        45.7532154
+                    ],
+                    [
+                        4.8301689,
+                        45.7529791
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue des Remparts d'Ainay",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4997635,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8287059,
+                        45.7534375
+                    ],
+                    [
+                        4.8279025,
+                        45.7537118
+                    ],
+                    [
+                        4.8278508,
+                        45.7537294
+                    ],
+                    [
+                        4.8277934,
+                        45.7537502
+                    ],
+                    [
+                        4.8272127,
+                        45.7539602
+                    ],
+                    [
+                        4.8271912,
+                        45.753968
+                    ],
+                    [
+                        4.8271833,
+                        45.7539716
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Remparts d'Ainay",
+                "oneway": "yes",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196281260,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8301689,
+                        45.7529791
+                    ],
+                    [
+                        4.8314425,
+                        45.7526172
+                    ],
+                    [
+                        4.8328394,
+                        45.7522343
+                    ],
+                    [
+                        4.832998,
+                        45.7521906
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue des Remparts d'Ainay",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

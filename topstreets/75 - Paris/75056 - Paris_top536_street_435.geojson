@@ -1,0 +1,169 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23175348,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3649045,
+                        48.8737069
+                    ],
+                    [
+                        2.3648125,
+                        48.8737318
+                    ],
+                    [
+                        2.3636312,
+                        48.8740344
+                    ],
+                    [
+                        2.3635398,
+                        48.8740589
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)",
+                "name": "Rue Bichat",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23345960,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3679155,
+                        48.871729
+                    ],
+                    [
+                        2.3685134,
+                        48.8707767
+                    ],
+                    [
+                        2.3685511,
+                        48.8707163
+                    ],
+                    [
+                        2.3693101,
+                        48.8695252
+                    ],
+                    [
+                        2.3693463,
+                        48.8694681
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue Bichat",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23346094,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3665736,
+                        48.8725647
+                    ],
+                    [
+                        2.3668168,
+                        48.8724229
+                    ],
+                    [
+                        2.367746,
+                        48.8718829
+                    ],
+                    [
+                        2.3678738,
+                        48.871807
+                    ],
+                    [
+                        2.3679155,
+                        48.871729
+                    ]
+                ]
+            },
+            "properties": {
+                "fixme": "v\u00e9rifier vitesse car pas de panneau 30 \u00e0 l'extr\u00e9mit\u00e9 SE (rue Alibert)",
+                "highway": "unclassified",
+                "maxspeed": "30",
+                "maxspeed:type": "sign",
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)",
+                "name": "Rue Bichat",
+                "oneway": "no",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 310361819,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3649045,
+                        48.8737069
+                    ],
+                    [
+                        2.3649704,
+                        48.873668
+                    ],
+                    [
+                        2.3665974,
+                        48.8727076
+                    ],
+                    [
+                        2.3666147,
+                        48.8726796
+                    ],
+                    [
+                        2.3666441,
+                        48.8726319
+                    ],
+                    [
+                        2.3665736,
+                        48.8725647
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed:type": "FR:urban",
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)",
+                "name": "Rue Bichat",
+                "oneway": "yes",
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

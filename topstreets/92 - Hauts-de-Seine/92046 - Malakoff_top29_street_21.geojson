@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24692347,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3023748,
+                        48.8178805
+                    ],
+                    [
+                        2.3023996,
+                        48.8179324
+                    ],
+                    [
+                        2.3025707,
+                        48.8182907
+                    ],
+                    [
+                        2.3027807,
+                        48.8187091
+                    ],
+                    [
+                        2.3029647,
+                        48.8191274
+                    ],
+                    [
+                        2.3029604,
+                        48.8191936
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_lane",
+                "highway": "tertiary",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Caron",
+                "oneway": "yes",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

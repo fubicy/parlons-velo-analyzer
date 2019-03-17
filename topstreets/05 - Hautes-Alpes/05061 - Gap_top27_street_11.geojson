@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 208780346,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.077514,
+                        44.5596022
+                    ],
+                    [
+                        6.0775256,
+                        44.559588
+                    ],
+                    [
+                        6.0777458,
+                        44.5592647
+                    ],
+                    [
+                        6.077773,
+                        44.5592248
+                    ],
+                    [
+                        6.0779339,
+                        44.5589037
+                    ],
+                    [
+                        6.0779405,
+                        44.5588894
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Grenette",
+                "oneway": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 564058819,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.0779405,
+                        44.5588894
+                    ],
+                    [
+                        6.0780447,
+                        44.5586642
+                    ],
+                    [
+                        6.0781351,
+                        44.5585042
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "maxwidth": "2",
+                "name": "Rue Grenette",
+                "oneway": "no",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

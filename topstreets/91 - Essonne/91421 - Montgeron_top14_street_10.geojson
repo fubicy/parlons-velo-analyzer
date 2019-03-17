@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 40666086,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4610057,
+                        48.6977683
+                    ],
+                    [
+                        2.4611731,
+                        48.6978134
+                    ],
+                    [
+                        2.4612286,
+                        48.6978284
+                    ],
+                    [
+                        2.461264,
+                        48.6978249
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Rue Marguerite",
+                "oneway": "yes",
+                "ref": "D 31",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 227910815,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.461264,
+                        48.6978249
+                    ],
+                    [
+                        2.4612912,
+                        48.6978221
+                    ],
+                    [
+                        2.4621179,
+                        48.6969839
+                    ],
+                    [
+                        2.4628235,
+                        48.6963144
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Marguerite",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 262063788,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4628235,
+                        48.6963144
+                    ],
+                    [
+                        2.4634975,
+                        48.6956259
+                    ],
+                    [
+                        2.4641694,
+                        48.6949679
+                    ],
+                    [
+                        2.4644338,
+                        48.6947067
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Marguerite",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 49717048,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5546175,
+                        46.6725988
+                    ],
+                    [
+                        5.5546894,
+                        46.6725902
+                    ],
+                    [
+                        5.5554171,
+                        46.6725046
+                    ],
+                    [
+                        5.5555023,
+                        46.6725019
+                    ],
+                    [
+                        5.5555799,
+                        46.6725142
+                    ],
+                    [
+                        5.5560065,
+                        46.6726081
+                    ],
+                    [
+                        5.5565392,
+                        46.6727276
+                    ],
+                    [
+                        5.5567359,
+                        46.6727717
+                    ],
+                    [
+                        5.5568236,
+                        46.6727802
+                    ],
+                    [
+                        5.5568522,
+                        46.6727806
+                    ],
+                    [
+                        5.5575532,
+                        46.6727908
+                    ],
+                    [
+                        5.5578269,
+                        46.6727948
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Avenue de la Marseillaise",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 347373955,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.5578269,
+                        46.6727948
+                    ],
+                    [
+                        5.5585093,
+                        46.6728035
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "no",
+                "highway": "secondary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Avenue de la Marseillaise",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through|right",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

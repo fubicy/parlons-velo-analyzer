@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27545929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0270591,
+                        49.2550651
+                    ],
+                    [
+                        4.0269931,
+                        49.2550419
+                    ],
+                    [
+                        4.02577,
+                        49.2546108
+                    ],
+                    [
+                        4.0257058,
+                        49.2545882
+                    ],
+                    [
+                        4.0253808,
+                        49.2544737
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Buirette",
+                "oneway": "no",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41181352,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0236612,
+                        49.2538077
+                    ],
+                    [
+                        4.0253808,
+                        49.2544737
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue Buirette",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

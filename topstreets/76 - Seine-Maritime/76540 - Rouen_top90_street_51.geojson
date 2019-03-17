@@ -1,0 +1,252 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25306839,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0996884,
+                        49.4485926
+                    ],
+                    [
+                        1.0997456,
+                        49.4484544
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "maxspeed": "50",
+                "name": "Place Beauvoisine",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31785907,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0998736,
+                        49.4481879
+                    ],
+                    [
+                        1.1000171,
+                        49.4482302
+                    ],
+                    [
+                        1.1002536,
+                        49.4483
+                    ],
+                    [
+                        1.1002766,
+                        49.4483068
+                    ],
+                    [
+                        1.1003213,
+                        49.4483502
+                    ],
+                    [
+                        1.1004346,
+                        49.4484356
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "unclassified",
+                "lit": "yes",
+                "maxspeed": "30",
+                "maxspeed:type": "FR:urban",
+                "name": "Place Beauvoisine",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43834853,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0996884,
+                        49.4485926
+                    ],
+                    [
+                        1.0996054,
+                        49.4485806
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Place Beauvoisine",
+                "oneway": "yes",
+                "ref": "D 938",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65367410,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1004346,
+                        49.4484356
+                    ],
+                    [
+                        1.1001159,
+                        49.448519
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Place Beauvoisine",
+                "oneway": "yes",
+                "ref": "D 928",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165592929,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0997456,
+                        49.4484544
+                    ],
+                    [
+                        1.0997763,
+                        49.4483851
+                    ],
+                    [
+                        1.0997951,
+                        49.4483401
+                    ],
+                    [
+                        1.0998523,
+                        49.4482292
+                    ],
+                    [
+                        1.0998736,
+                        49.4481879
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "opposite_share_busway",
+                "highway": "tertiary",
+                "lanes": "3",
+                "lanes:forward": "2",
+                "maxspeed": "30",
+                "motor_vehicle:conditional": "delivery @ (weight>7.5)",
+                "name": "Place Beauvoisine",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:bus": "no",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 184467918,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.0997456,
+                        49.4484544
+                    ],
+                    [
+                        1.0999063,
+                        49.4484425
+                    ],
+                    [
+                        1.1002452,
+                        49.4483671
+                    ],
+                    [
+                        1.1003213,
+                        49.4483502
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Place Beauvoisine",
+                "oneway": "yes",
+                "ref": "D 928",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616125226,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1001159,
+                        49.448519
+                    ],
+                    [
+                        1.0998771,
+                        49.4485829
+                    ],
+                    [
+                        1.0996884,
+                        49.4485926
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Place Beauvoisine",
+                "oneway": "yes",
+                "ref": "D 928",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

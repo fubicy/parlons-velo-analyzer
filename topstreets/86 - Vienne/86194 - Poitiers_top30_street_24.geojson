@@ -1,0 +1,230 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 35583908,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.334691,
+                        46.5715849
+                    ],
+                    [
+                        0.3351041,
+                        46.5716906
+                    ],
+                    [
+                        0.335275,
+                        46.5717343
+                    ],
+                    [
+                        0.3381879,
+                        46.5724795
+                    ],
+                    [
+                        0.338215,
+                        46.5724864
+                    ],
+                    [
+                        0.3383174,
+                        46.5725126
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Promenade des Cours",
+                "highway": "residential",
+                "name": "Promenade des Cours",
+                "source": "GPS",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39603351,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3459228,
+                        46.5744693
+                    ],
+                    [
+                        0.3459302,
+                        46.574446
+                    ],
+                    [
+                        0.3459333,
+                        46.5744204
+                    ],
+                    [
+                        0.3459252,
+                        46.5743971
+                    ],
+                    [
+                        0.3459098,
+                        46.574377
+                    ],
+                    [
+                        0.3458694,
+                        46.5743396
+                    ],
+                    [
+                        0.3457852,
+                        46.574275
+                    ],
+                    [
+                        0.3457381,
+                        46.5742423
+                    ],
+                    [
+                        0.3457167,
+                        46.5742302
+                    ],
+                    [
+                        0.3456927,
+                        46.5742201
+                    ],
+                    [
+                        0.3456332,
+                        46.5742005
+                    ],
+                    [
+                        0.3452805,
+                        46.5741118
+                    ],
+                    [
+                        0.34516,
+                        46.5740826
+                    ],
+                    [
+                        0.344823,
+                        46.573978
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Promenade des Cours",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50822098,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3462438,
+                        46.5747677
+                    ],
+                    [
+                        0.3461271,
+                        46.5746916
+                    ],
+                    [
+                        0.346002,
+                        46.5745992
+                    ],
+                    [
+                        0.3459228,
+                        46.5744693
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Promenade des Cours",
+                "oneway": "yes",
+                "source": "GPS",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50822099,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3459228,
+                        46.5744693
+                    ],
+                    [
+                        0.3462371,
+                        46.574547
+                    ],
+                    [
+                        0.3462507,
+                        46.5745522
+                    ],
+                    [
+                        0.3463586,
+                        46.5745926
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "name": "Promenade des Cours",
+                "oneway": "yes",
+                "ref": "Promenade des Cours",
+                "source": "local_knowledge",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70438907,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3383174,
+                        46.5725126
+                    ],
+                    [
+                        0.3393676,
+                        46.5727856
+                    ],
+                    [
+                        0.3412259,
+                        46.5732686
+                    ],
+                    [
+                        0.3449294,
+                        46.5742075
+                    ],
+                    [
+                        0.3450719,
+                        46.5742448
+                    ],
+                    [
+                        0.345194,
+                        46.5742774
+                    ],
+                    [
+                        0.3459228,
+                        46.5744693
+                    ]
+                ]
+            },
+            "properties": {
+                "addr:street": "Promenade des Cours",
+                "highway": "tertiary",
+                "name": "Promenade des Cours",
+                "source": "GPS",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

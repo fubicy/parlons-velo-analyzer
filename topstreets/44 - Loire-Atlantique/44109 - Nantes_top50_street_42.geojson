@@ -1,0 +1,489 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 20360664,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5463011,
+                        47.2164469
+                    ],
+                    [
+                        -1.5464002,
+                        47.216455
+                    ],
+                    [
+                        -1.5464429,
+                        47.2164546
+                    ],
+                    [
+                        -1.5464782,
+                        47.2164524
+                    ],
+                    [
+                        -1.5465061,
+                        47.2164462
+                    ],
+                    [
+                        -1.5465308,
+                        47.216439
+                    ],
+                    [
+                        -1.5465855,
+                        47.2164251
+                    ],
+                    [
+                        -1.5466167,
+                        47.2164201
+                    ],
+                    [
+                        -1.546657,
+                        47.2164189
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Henri IV",
+                "name:br": "Straed Herri IV",
+                "name:fr": "Rue Henri IV",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25773504,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5473151,
+                        47.2169301
+                    ],
+                    [
+                        -1.5473398,
+                        47.2170075
+                    ],
+                    [
+                        -1.5473678,
+                        47.2170446
+                    ],
+                    [
+                        -1.5476424,
+                        47.2173786
+                    ],
+                    [
+                        -1.5477196,
+                        47.2174615
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Henri IV",
+                "name:br": "Straed Herri IV",
+                "name:fr": "Rue Henri IV",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28153713,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5467936,
+                        47.2164492
+                    ],
+                    [
+                        -1.546821,
+                        47.2164715
+                    ],
+                    [
+                        -1.5468523,
+                        47.2164948
+                    ],
+                    [
+                        -1.5469012,
+                        47.2165383
+                    ],
+                    [
+                        -1.5469694,
+                        47.2165992
+                    ],
+                    [
+                        -1.5472053,
+                        47.2168658
+                    ],
+                    [
+                        -1.5472323,
+                        47.2168963
+                    ],
+                    [
+                        -1.5473151,
+                        47.2169301
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Henri IV",
+                "name:br": "Straed Herri IV",
+                "name:fr": "Rue Henri IV",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "sidewalk": "both",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30009077,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5477196,
+                        47.2174615
+                    ],
+                    [
+                        -1.5477607,
+                        47.2175429
+                    ],
+                    [
+                        -1.5478891,
+                        47.2177308
+                    ],
+                    [
+                        -1.5486209,
+                        47.2186238
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "admin_level": "10",
+                "bicycle": "designated",
+                "boundary": "administrative",
+                "busway:left": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "foot": "designated",
+                "highway": "tertiary",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Henri IV",
+                "name:br": "Straed Herri IV",
+                "name:fr": "Rue Henri IV",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "psv": "opposite_lane",
+                "sidewalk": "both",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45404630,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5486209,
+                        47.2186238
+                    ],
+                    [
+                        -1.5490824,
+                        47.2191882
+                    ],
+                    [
+                        -1.5491114,
+                        47.219223
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "restricted",
+                "admin_level": "10",
+                "bicycle": "yes",
+                "boundary": "administrative",
+                "bus": "yes",
+                "busway:left": "opposite_lane",
+                "cycleway:left": "share_busway",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "mode": "no_parking",
+                "motor_vehicle": "no",
+                "name": "Rue Henri IV",
+                "name:br": "Straed Herri IV",
+                "name:fr": "Rue Henri IV",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:psv": "no",
+                "parking:condition:right": "ticket",
+                "parking:lane:left": "no_parking",
+                "parking:lane:right": "diagonal",
+                "psv": "opposite_lane",
+                "sidewalk": "both",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B6a1",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142920493,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5477196,
+                        47.2174615
+                    ],
+                    [
+                        -1.5477271,
+                        47.2174193
+                    ],
+                    [
+                        -1.5476957,
+                        47.217357
+                    ],
+                    [
+                        -1.5476234,
+                        47.2172689
+                    ],
+                    [
+                        -1.5475556,
+                        47.2171864
+                    ],
+                    [
+                        -1.5475357,
+                        47.2171535
+                    ],
+                    [
+                        -1.547519,
+                        47.2171061
+                    ],
+                    [
+                        -1.547511,
+                        47.2170912
+                    ],
+                    [
+                        -1.5474523,
+                        47.2170154
+                    ],
+                    [
+                        -1.5474101,
+                        47.2169745
+                    ],
+                    [
+                        -1.5473151,
+                        47.2169301
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "bicycle": "designated",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Henri IV",
+                "name:br": "Straed Herri IV",
+                "name:fr": "Rue Henri IV",
+                "note": "Voie r\u00e9serv\u00e9e BusWay",
+                "oneway": "yes",
+                "sidewalk": "right",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B30[30]",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164875910,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5491114,
+                        47.219223
+                    ],
+                    [
+                        -1.549243,
+                        47.219375
+                    ],
+                    [
+                        -1.5492759,
+                        47.219413
+                    ],
+                    [
+                        -1.5492896,
+                        47.2194301
+                    ],
+                    [
+                        -1.5493542,
+                        47.2195042
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "yes",
+                "admin_level": "10",
+                "bicycle": "designated",
+                "boundary": "administrative",
+                "foot": "designated",
+                "highway": "residential",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "30",
+                "mode": "no_parking",
+                "name": "Rue Henri IV",
+                "name:br": "Straed Herri IV",
+                "name:fr": "Rue Henri IV",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "parking:lane:right": "no_parking",
+                "sidewalk": "right",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "traffic_sign": "FR:B6a1",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201194570,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.546657,
+                        47.2164189
+                    ],
+                    [
+                        -1.5467026,
+                        47.2164222
+                    ],
+                    [
+                        -1.5467593,
+                        47.2164379
+                    ],
+                    [
+                        -1.5467936,
+                        47.2164492
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "no",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Henri IV",
+                "name:br": "Straed Herri IV",
+                "name:fr": "Rue Henri IV",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 427835971,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.5460586,
+                        47.2164066
+                    ],
+                    [
+                        -1.5462293,
+                        47.2164462
+                    ],
+                    [
+                        -1.5463011,
+                        47.2164469
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue Henri IV",
+                "name:br": "Straed Herri IV",
+                "name:fr": "Rue Henri IV",
+                "oneway": "yes",
+                "oneway:bicycle": "yes",
+                "source:name:br": "ofis publik ar brezhoneg",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

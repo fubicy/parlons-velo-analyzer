@@ -1,0 +1,234 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4039905,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3760104,
+                        48.8483496
+                    ],
+                    [
+                        2.3759792,
+                        48.848305
+                    ],
+                    [
+                        2.3755576,
+                        48.8476959
+                    ],
+                    [
+                        2.3754807,
+                        48.8475293
+                    ],
+                    [
+                        2.3754434,
+                        48.8474767
+                    ],
+                    [
+                        2.3753745,
+                        48.8474116
+                    ],
+                    [
+                        2.3753067,
+                        48.8473481
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Abel",
+                "oneway": "yes",
+                "source:maxspeed": "BMO arr\u00eat\u00e9 n\u00b02013P0875",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30092928,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.375064,
+                        48.8469148
+                    ],
+                    [
+                        2.3749657,
+                        48.8470183
+                    ],
+                    [
+                        2.3748754,
+                        48.8470803
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Abel",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30092952,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.375194,
+                        48.8471058
+                    ],
+                    [
+                        2.375393,
+                        48.8470724
+                    ],
+                    [
+                        2.3754308,
+                        48.8470469
+                    ],
+                    [
+                        2.3754611,
+                        48.8470229
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Abel",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "surface": "paving_stones",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118764515,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3753583,
+                        48.8473221
+                    ],
+                    [
+                        2.3753984,
+                        48.8474027
+                    ],
+                    [
+                        2.375432,
+                        48.8474328
+                    ],
+                    [
+                        2.3755436,
+                        48.8475338
+                    ],
+                    [
+                        2.3760205,
+                        48.8482349
+                    ],
+                    [
+                        2.3760104,
+                        48.8483496
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "sidewalk",
+                "highway": "cycleway",
+                "name": "Rue Abel",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118764517,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3743596,
+                        48.8459127
+                    ],
+                    [
+                        2.3744145,
+                        48.845988
+                    ],
+                    [
+                        2.3744497,
+                        48.8460372
+                    ],
+                    [
+                        2.375064,
+                        48.8469148
+                    ],
+                    [
+                        2.3751253,
+                        48.8470063
+                    ],
+                    [
+                        2.3751434,
+                        48.8470336
+                    ],
+                    [
+                        2.375194,
+                        48.8471058
+                    ],
+                    [
+                        2.3752778,
+                        48.8471988
+                    ],
+                    [
+                        2.3753106,
+                        48.847236
+                    ],
+                    [
+                        2.3753307,
+                        48.8472731
+                    ],
+                    [
+                        2.3753583,
+                        48.8473221
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Abel",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "wikidata": "Q3446828",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

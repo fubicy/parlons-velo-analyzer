@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 319482964,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8275033,
+                        45.7661185
+                    ],
+                    [
+                        4.8272985,
+                        45.766155
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Gare Saint-Paul",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "30000",
+                "route_ref": "C3A:R,S1A:A",
+                "source": "SYTRAL 12/2016",
+                "trolleybus": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 319482966,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.8277569,
+                        45.7659605
+                    ],
+                    [
+                        4.8279494,
+                        45.7660122
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Gare Saint-Paul",
+                "network": "TCL",
+                "public_transport": "platform",
+                "ref:FR:TCL": "3305",
+                "route_ref": "C3A:A,S1A:R",
+                "source": "SYTRAL 12/2016",
+                "trolleybus": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

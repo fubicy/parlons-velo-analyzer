@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7743501,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3473162,
+                        43.5843939
+                    ],
+                    [
+                        1.3472896,
+                        43.5844582
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_track",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Avenue de la R\u00e9sistance",
+                "oneway": "yes",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 208111588,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3472896,
+                        43.5844582
+                    ],
+                    [
+                        1.3468986,
+                        43.5848067
+                    ],
+                    [
+                        1.346551,
+                        43.5851459
+                    ],
+                    [
+                        1.3463573,
+                        43.5853332
+                    ],
+                    [
+                        1.3463029,
+                        43.5854186
+                    ],
+                    [
+                        1.3462854,
+                        43.5855062
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "opposite_track",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Avenue de la R\u00e9sistance",
+                "oneway": "yes",
+                "ref:FR:FANTOIR": "315573210S",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 303805769,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2922528,
+                        45.5862524
+                    ],
+                    [
+                        5.292055,
+                        45.5862652
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "La Tour",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303805770,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.2920183,
+                        45.586191
+                    ],
+                    [
+                        5.2922039,
+                        45.5861839
+                    ]
+                ]
+            },
+            "properties": {
+                "bus": "yes",
+                "highway": "platform",
+                "name": "La Tour",
+                "network": "Ruban",
+                "public_transport": "platform",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

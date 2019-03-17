@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 331462825,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2584577,
+                        48.9256771
+                    ],
+                    [
+                        2.2584612,
+                        48.9256975
+                    ],
+                    [
+                        2.258548,
+                        48.926207
+                    ],
+                    [
+                        2.2586267,
+                        48.9266458
+                    ],
+                    [
+                        2.2588326,
+                        48.9277748
+                    ],
+                    [
+                        2.2588702,
+                        48.9280707
+                    ],
+                    [
+                        2.2588358,
+                        48.9282429
+                    ],
+                    [
+                        2.2588274,
+                        48.9282846
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "name": "Rue Saint-Hilaire",
+                "oneway": "yes",
+                "source": "Microsoft Bing orbital imagery 2013",
+                "source:oneway": "Plan de d\u00e9placement de Colombes - http://www.colombes.fr/documents/Documents/Colombes_Developpement/Developpement_urbain/Amenagements_urbains/Rue_Saint-Denis/Plan_de_deplacements_de_Colombes.pdf",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 588065409,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2581478,
+                        48.9238737
+                    ],
+                    [
+                        2.2583809,
+                        48.9251453
+                    ],
+                    [
+                        2.25841,
+                        48.925348
+                    ],
+                    [
+                        2.2584241,
+                        48.9254462
+                    ],
+                    [
+                        2.2584529,
+                        48.9256461
+                    ],
+                    [
+                        2.2584577,
+                        48.9256771
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "opposite",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue Saint-Hilaire",
+                "oneway": "yes",
+                "source": "Microsoft Bing orbital imagery 2013",
+                "source:oneway": "Plan de d\u00e9placement de Colombes - http://www.colombes.fr/documents/Documents/Colombes_Developpement/Developpement_urbain/Amenagements_urbains/Rue_Saint-Denis/Plan_de_deplacements_de_Colombes.pdf",
+                "zone:maxspeed": "FR:30",
+                "line_width": 6,
+                "line_color": "#ff4000"
+            }
+        }
+    ]
+}

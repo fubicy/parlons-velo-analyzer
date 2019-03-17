@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27489224,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.030339,
+                        49.2541589
+                    ],
+                    [
+                        4.0300405,
+                        49.2545196
+                    ],
+                    [
+                        4.0297213,
+                        49.2548683
+                    ],
+                    [
+                        4.0295311,
+                        49.2550495
+                    ],
+                    [
+                        4.0294019,
+                        49.2551974
+                    ],
+                    [
+                        4.0289753,
+                        49.25567
+                    ],
+                    [
+                        4.028694,
+                        49.2560374
+                    ],
+                    [
+                        4.0284407,
+                        49.2564879
+                    ],
+                    [
+                        4.028139,
+                        49.25754
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Talleyrand",
+                "psv": "opposite_lane",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 238254465,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.028139,
+                        49.25754
+                    ],
+                    [
+                        4.0283856,
+                        49.2580611
+                    ],
+                    [
+                        4.02838,
+                        49.2580988
+                    ],
+                    [
+                        4.0283676,
+                        49.2581209
+                    ],
+                    [
+                        4.028359,
+                        49.2581605
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "highway": "residential",
+                "name": "Rue de Talleyrand",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

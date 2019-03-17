@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 133878040,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1325515,
+                        48.804761
+                    ],
+                    [
+                        2.1325427,
+                        48.8047073
+                    ],
+                    [
+                        2.1325298,
+                        48.8046868
+                    ],
+                    [
+                        2.1321962,
+                        48.8041568
+                    ],
+                    [
+                        2.1320791,
+                        48.8039733
+                    ],
+                    [
+                        2.1318291,
+                        48.8035683
+                    ],
+                    [
+                        2.1318001,
+                        48.803516
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Georges Clemenceau",
+                "oneway": "yes",
+                "source": "Bing",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 360408535,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1325033,
+                        48.8049966
+                    ],
+                    [
+                        2.1325148,
+                        48.8049518
+                    ],
+                    [
+                        2.1325259,
+                        48.8048593
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Georges Clemenceau",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 360408665,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1325259,
+                        48.8048593
+                    ],
+                    [
+                        2.1325515,
+                        48.804761
+                    ]
+                ]
+            },
+            "properties": {
+                "bicycle": "designated",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lit": "yes",
+                "maxspeed": "30",
+                "name": "Rue Georges Clemenceau",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

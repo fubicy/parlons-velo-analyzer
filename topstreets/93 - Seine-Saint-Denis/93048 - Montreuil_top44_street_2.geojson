@@ -1,0 +1,204 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23369473,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4454777,
+                        48.8562413
+                    ],
+                    [
+                        2.4452106,
+                        48.8563423
+                    ],
+                    [
+                        2.4448667,
+                        48.856422
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "name": "Avenue Gabriel P\u00e9ri",
+                "ref": "D 37bis",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40036599,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.440056,
+                        48.8574259
+                    ],
+                    [
+                        2.439892,
+                        48.85746
+                    ],
+                    [
+                        2.4385607,
+                        48.8577412
+                    ],
+                    [
+                        2.4384596,
+                        48.8577625
+                    ],
+                    [
+                        2.4382934,
+                        48.8577978
+                    ],
+                    [
+                        2.4374883,
+                        48.8579657
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue Gabriel P\u00e9ri",
+                "ref": "D 37bis",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45329174,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4374883,
+                        48.8579657
+                    ],
+                    [
+                        2.4373496,
+                        48.8579942
+                    ],
+                    [
+                        2.4372045,
+                        48.8580055
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "cycleway": "lane",
+                "highway": "primary",
+                "name": "Avenue Gabriel P\u00e9ri",
+                "oneway": "yes",
+                "ref": "D 37bis",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186011422,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4448667,
+                        48.856422
+                    ],
+                    [
+                        2.4447464,
+                        48.856449
+                    ],
+                    [
+                        2.4443706,
+                        48.8565334
+                    ],
+                    [
+                        2.4441734,
+                        48.8565748
+                    ],
+                    [
+                        2.443045,
+                        48.8568119
+                    ],
+                    [
+                        2.442932,
+                        48.8568355
+                    ],
+                    [
+                        2.4412751,
+                        48.8571779
+                    ],
+                    [
+                        2.4411703,
+                        48.857202
+                    ],
+                    [
+                        2.4410721,
+                        48.8572221
+                    ],
+                    [
+                        2.4402044,
+                        48.8573962
+                    ],
+                    [
+                        2.440056,
+                        48.8574259
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "50",
+                "name": "Avenue Gabriel P\u00e9ri",
+                "ref": "D 37bis",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 635375811,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.4372045,
+                        48.8580055
+                    ],
+                    [
+                        2.4370482,
+                        48.8580556
+                    ],
+                    [
+                        2.4369705,
+                        48.8580912
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "opposite_lane",
+                "cycleway:both": "lane",
+                "highway": "primary",
+                "name": "Avenue Gabriel P\u00e9ri",
+                "oneway": "yes",
+                "ref": "D 37bis",
+                "surface": "asphalt",
+                "line_width": 7,
+                "line_color": "#ea3b00"
+            }
+        }
+    ]
+}

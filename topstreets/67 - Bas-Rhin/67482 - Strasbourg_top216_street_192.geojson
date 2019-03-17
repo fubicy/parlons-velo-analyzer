@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 43797214,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7548611,
+                        48.574807
+                    ],
+                    [
+                        7.7547468,
+                        48.5751191
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Pont d'Austerlitz",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43797215,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7548628,
+                        48.575169
+                    ],
+                    [
+                        7.754869,
+                        48.575145
+                    ],
+                    [
+                        7.7548718,
+                        48.5751289
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "cycleway",
+                "layer": "1",
+                "lcn": "yes",
+                "lit": "yes",
+                "name": "Pont d'Austerlitz",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183670055,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7548718,
+                        48.5751289
+                    ],
+                    [
+                        7.7549574,
+                        48.5748195
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "cycleway",
+                "layer": "1",
+                "lcn": "yes",
+                "lit": "yes",
+                "name": "Pont d'Austerlitz",
+                "oneway": "no",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2009",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183670056,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.7547468,
+                        48.5751191
+                    ],
+                    [
+                        7.7547347,
+                        48.5751474
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Pont d'Austerlitz",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2009",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

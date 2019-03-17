@@ -1,0 +1,376 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 10659467,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3646212,
+                        48.862005
+                    ],
+                    [
+                        2.3645511,
+                        48.8621134
+                    ],
+                    [
+                        2.364391,
+                        48.8625927
+                    ],
+                    [
+                        2.3643777,
+                        48.8626326
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "pedestrian",
+                "name": "Rue de Turenne",
+                "surface": "sett",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24036981,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3642831,
+                        48.856463
+                    ],
+                    [
+                        2.3642512,
+                        48.8564114
+                    ],
+                    [
+                        2.3641738,
+                        48.8563005
+                    ],
+                    [
+                        2.3639569,
+                        48.8559605
+                    ],
+                    [
+                        2.3638214,
+                        48.8557452
+                    ],
+                    [
+                        2.3637671,
+                        48.855664
+                    ],
+                    [
+                        2.3636793,
+                        48.8555502
+                    ],
+                    [
+                        2.3636415,
+                        48.8554984
+                    ],
+                    [
+                        2.3634821,
+                        48.8552881
+                    ],
+                    [
+                        2.363352,
+                        48.8551258
+                    ],
+                    [
+                        2.3633202,
+                        48.8550763
+                    ],
+                    [
+                        2.3632843,
+                        48.8550276
+                    ],
+                    [
+                        2.3631421,
+                        48.8548403
+                    ],
+                    [
+                        2.3630021,
+                        48.8546577
+                    ],
+                    [
+                        2.3629491,
+                        48.8545998
+                    ]
+                ]
+            },
+            "properties": {
+                "busway:left": "lane",
+                "cycleway:left": "share_busway",
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Turenne",
+                "oneway": "yes",
+                "oneway:bicycle": "no",
+                "oneway:bus": "no",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40036977,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3646797,
+                        48.8646495
+                    ],
+                    [
+                        2.3647265,
+                        48.8645857
+                    ],
+                    [
+                        2.3647257,
+                        48.8645672
+                    ],
+                    [
+                        2.3646917,
+                        48.8638004
+                    ],
+                    [
+                        2.3646846,
+                        48.8636389
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Turenne",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83268806,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3646026,
+                        48.8614871
+                    ],
+                    [
+                        2.3645986,
+                        48.8613895
+                    ],
+                    [
+                        2.3645927,
+                        48.8613278
+                    ],
+                    [
+                        2.3645904,
+                        48.8612546
+                    ],
+                    [
+                        2.364562,
+                        48.8603387
+                    ],
+                    [
+                        2.3645557,
+                        48.8601353
+                    ],
+                    [
+                        2.3645535,
+                        48.8600636
+                    ],
+                    [
+                        2.3645504,
+                        48.8599648
+                    ],
+                    [
+                        2.3645457,
+                        48.8598155
+                    ],
+                    [
+                        2.3645436,
+                        48.8597467
+                    ],
+                    [
+                        2.3645368,
+                        48.8595279
+                    ],
+                    [
+                        2.364534,
+                        48.8594369
+                    ],
+                    [
+                        2.3645061,
+                        48.8588074
+                    ],
+                    [
+                        2.364504,
+                        48.8587532
+                    ],
+                    [
+                        2.3644835,
+                        48.8582229
+                    ],
+                    [
+                        2.3644811,
+                        48.8581597
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "name": "Rue de Turenne",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83268809,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3646212,
+                        48.862005
+                    ],
+                    [
+                        2.3646111,
+                        48.8619196
+                    ],
+                    [
+                        2.3646085,
+                        48.8618077
+                    ],
+                    [
+                        2.3646026,
+                        48.8614871
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue de Turenne",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123487840,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3644811,
+                        48.8581597
+                    ],
+                    [
+                        2.3644775,
+                        48.8580711
+                    ],
+                    [
+                        2.3644469,
+                        48.8575217
+                    ],
+                    [
+                        2.3644463,
+                        48.8574587
+                    ],
+                    [
+                        2.3644266,
+                        48.8570926
+                    ],
+                    [
+                        2.3644226,
+                        48.8570254
+                    ],
+                    [
+                        2.3644113,
+                        48.856774
+                    ],
+                    [
+                        2.364407,
+                        48.8566771
+                    ],
+                    [
+                        2.3644055,
+                        48.8566333
+                    ],
+                    [
+                        2.3643487,
+                        48.8565439
+                    ],
+                    [
+                        2.3642831,
+                        48.856463
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "residential",
+                "name": "Rue de Turenne",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2011",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 294826461,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.3646846,
+                        48.8636389
+                    ],
+                    [
+                        2.3646766,
+                        48.863464
+                    ],
+                    [
+                        2.3646458,
+                        48.8627855
+                    ],
+                    [
+                        2.3646445,
+                        48.8627566
+                    ],
+                    [
+                        2.3646252,
+                        48.8621325
+                    ],
+                    [
+                        2.3646212,
+                        48.862005
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de Turenne",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

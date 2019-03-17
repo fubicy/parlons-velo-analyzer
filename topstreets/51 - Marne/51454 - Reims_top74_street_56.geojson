@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 24918330,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0294585,
+                        49.24943
+                    ],
+                    [
+                        4.0302232,
+                        49.2484757
+                    ],
+                    [
+                        4.0309018,
+                        49.2476154
+                    ],
+                    [
+                        4.0316351,
+                        49.246725
+                    ],
+                    [
+                        4.0317764,
+                        49.2465295
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Clovis",
+                "oneway": "yes",
+                "source": "GPS",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25899589,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0278149,
+                        49.2514639
+                    ],
+                    [
+                        4.0283553,
+                        49.2508133
+                    ],
+                    [
+                        4.0283888,
+                        49.2507753
+                    ]
+                ]
+            },
+            "properties": {
+                "busway": "opposite_lane",
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Clovis",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27488514,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0267833,
+                        49.2527702
+                    ],
+                    [
+                        4.0267952,
+                        49.2527556
+                    ],
+                    [
+                        4.0268133,
+                        49.2527335
+                    ],
+                    [
+                        4.0272328,
+                        49.2521992
+                    ],
+                    [
+                        4.0278149,
+                        49.2514639
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Clovis",
+                "oneway": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31340673,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0283888,
+                        49.2507753
+                    ],
+                    [
+                        4.0286739,
+                        49.2504164
+                    ],
+                    [
+                        4.0293164,
+                        49.2495987
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Rue Clovis",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre;mise \u00e0 jour : 2008",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

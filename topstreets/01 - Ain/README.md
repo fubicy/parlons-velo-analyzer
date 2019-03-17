@@ -7,7 +7,7 @@ Sur l'ensemble du département, il y a eu 393 réponses dont 234 réponses avec 
 |01004 - Ambérieu-en-Bugey&nbsp;&#124;&nbsp;<a href='01004 - Ambérieu-en-Bugey_top2.md'>Top 10</a>|10|3(30%)|<img src="../../img/bar_2.gif" />&nbsp;2|
 |01033 - Bellegarde-sur-Valserine&nbsp;&#124;&nbsp;<a href='01033 - Bellegarde-sur-Valserine_top1.md'>Top 10</a>|4|1(25%)|<img src="../../img/bar_1.gif" />&nbsp;1|
 |01034 - Belley|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
-|01053 - Bourg-en-Bresse&nbsp;&#124;&nbsp;<a href='01053 - Bourg-en-Bresse_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='01053 - Bourg-en-Bresse_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='01053 - Bourg-en-Bresse_top50.md'>Top 50</a>|221|166(75%)|<img src="../../img/bar_62.gif" />&nbsp;61|
+|01053 - Bourg-en-Bresse&nbsp;&#124;&nbsp;<a href='01053 - Bourg-en-Bresse_top10.md'>Top 10</a>&nbsp;&#124;&nbsp;<a href='01053 - Bourg-en-Bresse_top30.md'>Top 30</a>&nbsp;&#124;&nbsp;<a href='01053 - Bourg-en-Bresse_top50.md'>Top 50</a>&nbsp;&#124;&nbsp;<a href='01053 - Bourg-en-Bresse_top61.md'>Top 1000</a>|221|166(75%)|<img src="../../img/bar_62.gif" />&nbsp;61|
 |01074 - Chalamont|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|
 |01092 - Châtillon-la-Palud&nbsp;&#124;&nbsp;<a href='01092 - Châtillon-la-Palud_top1.md'>Top 10</a>|2|1(50%)|<img src="../../img/bar_1.gif" />&nbsp;1|
 |01093 - Châtillon-sur-Chalaronne|1|0(0%)|<img src="../../img/bar_0.gif" />&nbsp;0|

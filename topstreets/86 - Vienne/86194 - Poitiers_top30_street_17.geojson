@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 44778759,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3425322,
+                        46.5844836
+                    ],
+                    [
+                        0.3422145,
+                        46.5845526
+                    ]
+                ]
+            },
+            "properties": {
+                "FIXME": "A v\u00e9rifier",
+                "cycleway": "opposite",
+                "highway": "residential",
+                "lanes": "2",
+                "name": "Rue de l'Universit\u00e9",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2007",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68800168,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3438583,
+                        46.5841943
+                    ],
+                    [
+                        0.343787,
+                        46.5842088
+                    ],
+                    [
+                        0.343741,
+                        46.5842199
+                    ],
+                    [
+                        0.3432817,
+                        46.5843272
+                    ],
+                    [
+                        0.3427738,
+                        46.5844332
+                    ],
+                    [
+                        0.3425322,
+                        46.5844836
+                    ]
+                ]
+            },
+            "properties": {
+                "access": "destination",
+                "bicycle": "yes",
+                "cycleway:left": "share_busway",
+                "cycleway:right": "share_busway",
+                "foot": "yes",
+                "hgv": "no",
+                "highway": "pedestrian",
+                "horse": "no",
+                "motor_vehicle": "no",
+                "motorcar": "destination",
+                "motorcycle": "no",
+                "name": "Rue de l'Universit\u00e9",
+                "psv": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2007",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

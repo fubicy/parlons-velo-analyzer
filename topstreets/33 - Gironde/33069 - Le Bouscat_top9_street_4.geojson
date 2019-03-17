@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 23681025,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5918051,
+                        44.8686506
+                    ],
+                    [
+                        -0.5918663,
+                        44.8686313
+                    ],
+                    [
+                        -0.5919543,
+                        44.8686085
+                    ],
+                    [
+                        -0.5923649,
+                        44.8686862
+                    ],
+                    [
+                        -0.5928418,
+                        44.8687632
+                    ],
+                    [
+                        -0.5929723,
+                        44.8687755
+                    ],
+                    [
+                        -0.5930863,
+                        44.8687716
+                    ],
+                    [
+                        -0.5932057,
+                        44.8687495
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Raymond Ducourneau",
+                "oneway": "no",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362790772,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5939344,
+                        44.8689518
+                    ],
+                    [
+                        -0.5938593,
+                        44.868929
+                    ],
+                    [
+                        -0.5932907,
+                        44.8688377
+                    ],
+                    [
+                        -0.5932057,
+                        44.8687495
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "50",
+                "name": "Rue Raymond Ducourneau",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 18,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

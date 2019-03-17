@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 31432315,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0333795,
+                        49.2527946
+                    ],
+                    [
+                        4.0327183,
+                        49.2525346
+                    ],
+                    [
+                        4.032162,
+                        49.2522991
+                    ],
+                    [
+                        4.03205,
+                        49.2522474
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "maxspeed:type": "sign",
+                "name": "Rue des Tournelles",
+                "oneway": "yes",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre ; mise \u00e0 jour : 2008",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

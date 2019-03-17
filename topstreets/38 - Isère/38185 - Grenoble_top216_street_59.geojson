@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25330145,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7200357,
+                        45.1825059
+                    ],
+                    [
+                        5.7200067,
+                        45.1824728
+                    ],
+                    [
+                        5.7192821,
+                        45.1815567
+                    ],
+                    [
+                        5.7191686,
+                        45.1815259
+                    ],
+                    [
+                        5.7190999,
+                        45.1815073
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Rue de l'Aigle",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 488524780,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7191351,
+                        45.1815844
+                    ],
+                    [
+                        5.7192295,
+                        45.1816091
+                    ],
+                    [
+                        5.719943,
+                        45.182501
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue de l'Aigle",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 488524781,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7193697,
+                        45.1815661
+                    ],
+                    [
+                        5.7193717,
+                        45.181593
+                    ],
+                    [
+                        5.7194079,
+                        45.1816427
+                    ],
+                    [
+                        5.7200557,
+                        45.1824509
+                    ]
+                ]
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Rue de l'Aigle",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

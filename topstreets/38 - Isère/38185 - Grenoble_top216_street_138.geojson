@@ -1,0 +1,653 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5989517,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7052689,
+                        45.1799352
+                    ],
+                    [
+                        5.7053098,
+                        45.1798872
+                    ],
+                    [
+                        5.7053246,
+                        45.1798521
+                    ],
+                    [
+                        5.7053355,
+                        45.1798198
+                    ],
+                    [
+                        5.7053396,
+                        45.1797984
+                    ],
+                    [
+                        5.7053391,
+                        45.1796782
+                    ],
+                    [
+                        5.7053383,
+                        45.179596
+                    ],
+                    [
+                        5.7053182,
+                        45.1793087
+                    ],
+                    [
+                        5.705357,
+                        45.1792566
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5989519,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.705357,
+                        45.1792566
+                    ],
+                    [
+                        5.7054109,
+                        45.179308
+                    ],
+                    [
+                        5.7054352,
+                        45.1795973
+                    ],
+                    [
+                        5.7054421,
+                        45.1796758
+                    ],
+                    [
+                        5.705457,
+                        45.1797965
+                    ],
+                    [
+                        5.7054644,
+                        45.1798188
+                    ],
+                    [
+                        5.7054873,
+                        45.1798726
+                    ],
+                    [
+                        5.7055089,
+                        45.179907
+                    ],
+                    [
+                        5.7055468,
+                        45.1799529
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|through;right",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5990153,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7050242,
+                        45.1724975
+                    ],
+                    [
+                        5.7050178,
+                        45.1725953
+                    ],
+                    [
+                        5.7050369,
+                        45.1730557
+                    ],
+                    [
+                        5.7050942,
+                        45.1740814
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5990548,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7047704,
+                        45.167987
+                    ],
+                    [
+                        5.7047888,
+                        45.1680981
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "5",
+                "lanes:backward": "4",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Avenue Rhin et Danube",
+                "source:maxspeed": "sign",
+                "surface": "asphalt",
+                "turn:lanes:backward": "left|through|through|through",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29369373,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7043671,
+                        45.1706679
+                    ],
+                    [
+                        5.7043727,
+                        45.1710039
+                    ],
+                    [
+                        5.7043759,
+                        45.1711958
+                    ],
+                    [
+                        5.7041224,
+                        45.1713414
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 204138288,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7049007,
+                        45.1704393
+                    ],
+                    [
+                        5.7049083,
+                        45.1705504
+                    ],
+                    [
+                        5.704916,
+                        45.1706634
+                    ],
+                    [
+                        5.7049212,
+                        45.1707385
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 204138289,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7050942,
+                        45.1740814
+                    ],
+                    [
+                        5.705107,
+                        45.1744512
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 204138291,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7047888,
+                        45.1680981
+                    ],
+                    [
+                        5.7048315,
+                        45.1685156
+                    ],
+                    [
+                        5.7048351,
+                        45.1685768
+                    ],
+                    [
+                        5.7048377,
+                        45.1686055
+                    ],
+                    [
+                        5.7048397,
+                        45.1686271
+                    ],
+                    [
+                        5.7048404,
+                        45.1686393
+                    ],
+                    [
+                        5.7048439,
+                        45.168703
+                    ],
+                    [
+                        5.7048469,
+                        45.1687563
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "3",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 204138292,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7053155,
+                        45.1778961
+                    ],
+                    [
+                        5.7053214,
+                        45.1779871
+                    ],
+                    [
+                        5.7053469,
+                        45.1783255
+                    ],
+                    [
+                        5.705359,
+                        45.1791893
+                    ],
+                    [
+                        5.705357,
+                        45.1792566
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 291434963,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.705107,
+                        45.1744512
+                    ],
+                    [
+                        5.705144,
+                        45.1748893
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 291434964,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.705304,
+                        45.1776488
+                    ],
+                    [
+                        5.7053094,
+                        45.1777791
+                    ],
+                    [
+                        5.7053155,
+                        45.1778961
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:left": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "source:maxspeed": "FR:zone30",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 291434965,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.705144,
+                        45.1748893
+                    ],
+                    [
+                        5.7051489,
+                        45.1749472
+                    ],
+                    [
+                        5.7051528,
+                        45.1750089
+                    ],
+                    [
+                        5.7051574,
+                        45.1750834
+                    ],
+                    [
+                        5.7051609,
+                        45.1751393
+                    ],
+                    [
+                        5.7051593,
+                        45.175196
+                    ],
+                    [
+                        5.7051589,
+                        45.1752095
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:right": "lane",
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 291434966,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7051589,
+                        45.1752095
+                    ],
+                    [
+                        5.7051625,
+                        45.1753388
+                    ],
+                    [
+                        5.7052173,
+                        45.1762143
+                    ],
+                    [
+                        5.7052589,
+                        45.1768788
+                    ],
+                    [
+                        5.7052858,
+                        45.1773086
+                    ],
+                    [
+                        5.7052953,
+                        45.1774606
+                    ],
+                    [
+                        5.705304,
+                        45.1776488
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 292166885,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7048469,
+                        45.1687563
+                    ],
+                    [
+                        5.7048725,
+                        45.1691029
+                    ],
+                    [
+                        5.7048748,
+                        45.1691345
+                    ],
+                    [
+                        5.7049011,
+                        45.1695028
+                    ],
+                    [
+                        5.7049077,
+                        45.1695946
+                    ],
+                    [
+                        5.704912,
+                        45.1696545
+                    ],
+                    [
+                        5.7049258,
+                        45.170108
+                    ],
+                    [
+                        5.704929,
+                        45.1702157
+                    ],
+                    [
+                        5.7049323,
+                        45.1703238
+                    ],
+                    [
+                        5.7049007,
+                        45.1704393
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 324871930,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7049212,
+                        45.1707385
+                    ],
+                    [
+                        5.7049822,
+                        45.1717801
+                    ],
+                    [
+                        5.704985,
+                        45.1718274
+                    ],
+                    [
+                        5.7049865,
+                        45.1718523
+                    ],
+                    [
+                        5.7049931,
+                        45.1719664
+                    ],
+                    [
+                        5.7049992,
+                        45.1720704
+                    ],
+                    [
+                        5.7050042,
+                        45.1721567
+                    ],
+                    [
+                        5.7050185,
+                        45.1724006
+                    ],
+                    [
+                        5.7050242,
+                        45.1724975
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway": "lane",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 324871969,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7049992,
+                        45.1720704
+                    ],
+                    [
+                        5.7038773,
+                        45.1721028
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "residential",
+                "maxspeed": "30",
+                "name": "Avenue Rhin et Danube",
+                "oneway": "yes",
+                "source:maxspeed": "FR:zone30",
+                "zone:maxspeed": "FR:30",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

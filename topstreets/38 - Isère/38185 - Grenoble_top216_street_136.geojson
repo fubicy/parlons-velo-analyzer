@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4014634,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7198168,
+                        45.1599256
+                    ],
+                    [
+                        5.7198728,
+                        45.1597934
+                    ],
+                    [
+                        5.7198938,
+                        45.159744
+                    ],
+                    [
+                        5.7199057,
+                        45.1596547
+                    ],
+                    [
+                        5.7198853,
+                        45.1594789
+                    ],
+                    [
+                        5.7198386,
+                        45.1593196
+                    ],
+                    [
+                        5.7197443,
+                        45.1589512
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue des \u00c9tats G\u00e9n\u00e9raux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5995721,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7201246,
+                        45.1590132
+                    ],
+                    [
+                        5.7202077,
+                        45.1594495
+                    ],
+                    [
+                        5.720256,
+                        45.1595695
+                    ],
+                    [
+                        5.7203554,
+                        45.1596974
+                    ],
+                    [
+                        5.7204639,
+                        45.1598083
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Avenue des \u00c9tats G\u00e9n\u00e9raux",
+                "oneway": "yes",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

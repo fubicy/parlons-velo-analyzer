@@ -1,0 +1,168 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 26748354,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7203256,
+                        45.1924538
+                    ],
+                    [
+                        5.7203301,
+                        45.1924357
+                    ],
+                    [
+                        5.7203319,
+                        45.1924148
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de la Porte de France",
+                "oneway": "yes",
+                "ref": "D 1075",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385236471,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7198101,
+                        45.1932138
+                    ],
+                    [
+                        5.719817,
+                        45.193275
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "cycleway": "lane",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Pont de la Porte de France",
+                "oneway": "yes",
+                "ref": "D 1075",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385236473,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7197349,
+                        45.1932763
+                    ],
+                    [
+                        5.7198101,
+                        45.1932138
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary_link",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de la Porte de France",
+                "oneway": "yes",
+                "ref": "D 1075",
+                "source": "cadastre-dgi-fr source : Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Cadastre. Mise \u00e0 jour : 2010",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 463337859,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7203777,
+                        45.1924169
+                    ],
+                    [
+                        5.7203256,
+                        45.1924538
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de la Porte de France",
+                "oneway": "yes",
+                "ref": "D 1075",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 463337864,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.7203256,
+                        45.1924538
+                    ],
+                    [
+                        5.7198101,
+                        45.1932138
+                    ]
+                ]
+            },
+            "properties": {
+                "bridge": "yes",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:backward": "2",
+                "lanes:forward": "2",
+                "layer": "1",
+                "maxspeed": "50",
+                "name": "Pont de la Porte de France",
+                "ref": "D 1075",
+                "source:maxspeed": "FR:urban",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

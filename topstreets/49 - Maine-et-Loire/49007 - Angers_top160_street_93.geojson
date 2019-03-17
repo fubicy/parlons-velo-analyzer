@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 189045207,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.5518672,
+                        47.466045
+                    ],
+                    [
+                        -0.5517991,
+                        47.4660182
+                    ]
+                ]
+            },
+            "properties": {
+                "bench": "yes",
+                "highway": "platform",
+                "name": "Patinoire",
+                "public_transport": "platform",
+                "public_transport:version": "2",
+                "shelter": "yes",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

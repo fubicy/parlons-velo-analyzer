@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4299015,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.37171,
+                        49.1854733
+                    ],
+                    [
+                        -0.371663,
+                        49.1854401
+                    ],
+                    [
+                        -0.3715297,
+                        49.1853121
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Avenue du Canada",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188354874,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3715297,
+                        49.1853121
+                    ],
+                    [
+                        -0.371464,
+                        49.1852678
+                    ],
+                    [
+                        -0.3707204,
+                        49.1847481
+                    ],
+                    [
+                        -0.3700057,
+                        49.1842485
+                    ],
+                    [
+                        -0.3699354,
+                        49.1841993
+                    ]
+                ]
+            },
+            "properties": {
+                "cycleway:both": "no",
+                "highway": "tertiary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Avenue du Canada",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "line_width": 5,
+                "line_color": "#000000"
+            }
+        }
+    ]
+}

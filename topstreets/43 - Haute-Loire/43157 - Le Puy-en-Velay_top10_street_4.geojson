@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 25381979,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8919302,
+                        45.0464293
+                    ],
+                    [
+                        3.8916851,
+                        45.04633
+                    ],
+                    [
+                        3.8916233,
+                        45.046305
+                    ],
+                    [
+                        3.8915133,
+                        45.046255
+                    ],
+                    [
+                        3.8913675,
+                        45.0461881
+                    ],
+                    [
+                        3.8911557,
+                        45.0460616
+                    ],
+                    [
+                        3.8908519,
+                        45.0457989
+                    ],
+                    [
+                        3.8906692,
+                        45.0456539
+                    ],
+                    [
+                        3.8900975,
+                        45.0451111
+                    ],
+                    [
+                        3.8900376,
+                        45.0450228
+                    ],
+                    [
+                        3.8897617,
+                        45.0446689
+                    ],
+                    [
+                        3.8896047,
+                        45.0444638
+                    ],
+                    [
+                        3.8893724,
+                        45.0441602
+                    ],
+                    [
+                        3.8891741,
+                        45.0438608
+                    ],
+                    [
+                        3.8888007,
+                        45.0433064
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Faubourg Saint-Jean",
+                "oneway": "yes",
+                "parking:lane:both": "parallel",
+                "ref": "N 88",
+                "sidewalk": "both",
+                "source:maxspeed": "FR:urban",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172749172,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8888007,
+                        45.0433064
+                    ],
+                    [
+                        3.8887656,
+                        45.0432554
+                    ],
+                    [
+                        3.8886513,
+                        45.0431014
+                    ],
+                    [
+                        3.8885457,
+                        45.0429736
+                    ],
+                    [
+                        3.8884511,
+                        45.0428984
+                    ]
+                ]
+            },
+            "properties": {
+                "highway": "secondary",
+                "lanes": "3",
+                "lanes:backward": "1",
+                "lanes:forward": "2",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Rue du Faubourg Saint-Jean",
+                "ref": "N 88",
+                "sidewalk": "right",
+                "source:maxspeed": "FR:urban",
+                "line_width": 11,
+                "line_color": "#952500"
+            }
+        }
+    ]
+}
