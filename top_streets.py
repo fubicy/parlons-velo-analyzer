@@ -85,7 +85,7 @@ LINES_COLOR = [
 
 
 MIN_LINE_WIDTH=5
-MAX_LINE_WIDTH=5+len(LINES_COLOR)
+MAX_LINE_WIDTH=MIN_LINE_WIDTH+len(LINES_COLOR)
 SRC_RANGE=MAX_LINE_WIDTH-MIN_LINE_WIDTH
 
 # Replace short word
@@ -607,7 +607,7 @@ def write_towns_result():
                             linewidth = idxcolor+MIN_LINE_WIDTH
                             for feature in jways['features']:
                                 feature['properties']['line_width'] = linewidth
-                                feature['properties']['line_color'] = LINES_COLOR[idxcolor-1]
+                                feature['properties']['line_color'] = LINES_COLOR[max(0,idxcolor-1)]
 
                             gjsonfilename = f"{deppath}/{tfile}_top{mintop}_street_{idx}.geojson"
                             with open(gjsonfilename, 'w') as gjsonfile:
