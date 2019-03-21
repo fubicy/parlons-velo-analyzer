@@ -13,9 +13,20 @@ python top_streets.py
 
 Les résultats sont dans le repertoire topstreets
 
+### Dépendances
+Ce projets utilise divers contributions libres, notamment :
+
+* [osm-tools](https://github.com/jesuisundesdeux/osm-tools) Permet de generer une base d'adresses sur l'ensemble de la France)
+* [docker-overpass-api](https://github.com/jesuisundesdeux/docker-overpass-api]) Exécuter des requête overpass QL sur votre prope instance
+* [Folium](https://github.com/python-visualization/folium) Génère des cartes dynamique depuis Python
+* [Openstreetmap](https://www.openstreetmap.org) Alternative à Google Map dont les contributions sont effectuées par les bénévoles répartir sur l'ensemble de la planète :)
+
+
 ### Contributeurs
 * [Bruno Adelé](https://twitter.com/jesuislibre) - [#JeSuisUnDesDeux](https://twitter.com/search?q=%23JeSuisUnDesDeux)
-### Résultats par département
+
+### Licence
+Ce projet est en licence GPL 3### Résultats par département
 
 Sur l'ensemble du téritoire, il y a eu 81005 réponses dont 50075 réponses avec une rue citée (61%)
 
@@ -40,6 +51,8 @@ Sur l'ensemble du téritoire, il y a eu 81005 réponses dont 50075 réponses ave
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/17 - Charente-Maritime/index.html'>17 - Charente-Maritime</a>|1106|506(45%)|<img src="img/bar_22.gif" />&nbsp;157|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/18 - Cher/index.html'>18 - Cher</a>|456|233(51%)|<img src="img/bar_10.gif" />&nbsp;74|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/19 - Corrèze/index.html'>19 - Corrèze</a>|124|35(28%)|<img src="img/bar_3.gif" />&nbsp;22|
+|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/2A - Corse-du-Sud/index.html'>2A - Corse-du-Sud</a>|222|29(13%)|<img src="img/bar_1.gif" />&nbsp;9|
+|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/2B - Haute-Corse/index.html'>2B - Haute-Corse</a>|28|1(3%)|<img src="img/bar_0.gif" />&nbsp;1|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/21 - Côte-d_Or/index.html'>21 - Côte-d'Or</a>|1053|2062(195%)|<img src="img/bar_23.gif" />&nbsp;165|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/22 - Côtes-d_Armor/index.html'>22 - Côtes-d'Armor</a>|265|89(33%)|<img src="img/bar_8.gif" />&nbsp;59|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/23 - Creuse/index.html'>23 - Creuse</a>|2|0(0%)|<img src="img/bar_0.gif" />&nbsp;0|
@@ -49,8 +62,6 @@ Sur l'ensemble du téritoire, il y a eu 81005 réponses dont 50075 réponses ave
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/27 - Eure/index.html'>27 - Eure</a>|110|40(36%)|<img src="img/bar_3.gif" />&nbsp;27|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/28 - Eure-et-Loir/index.html'>28 - Eure-et-Loir</a>|69|37(53%)|<img src="img/bar_3.gif" />&nbsp;24|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/29 - Finistère/index.html'>29 - Finistère</a>|1278|618(48%)|<img src="img/bar_33.gif" />&nbsp;229|
-|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/2A - Corse-du-Sud/index.html'>2A - Corse-du-Sud</a>|222|29(13%)|<img src="img/bar_1.gif" />&nbsp;9|
-|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/2B - Haute-Corse/index.html'>2B - Haute-Corse</a>|28|1(3%)|<img src="img/bar_0.gif" />&nbsp;1|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/30 - Gard/index.html'>30 - Gard</a>|462|220(47%)|<img src="img/bar_9.gif" />&nbsp;67|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/31 - Haute-Garonne/index.html'>31 - Haute-Garonne</a>|4526|2795(61%)|<img src="img/bar_95.gif" />&nbsp;660|
 |<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/32 - Gers/index.html'>32 - Gers</a>|70|67(95%)|<img src="img/bar_4.gif" />&nbsp;33|

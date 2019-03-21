@@ -20,53 +20,6 @@ TOPLIST=[10,30,50,1000]
 MAP_WIDTH=700
 MAP_HEIGHT=500
 
-# Folium
-# LINES_COLOR = [
-#     "#00E6CC",
-#     "#00CC7F",
-#     "#00B300",
-#     "#7FCC00",
-#     "#CCE600",
-#     "#FFFF00",
-#     "#FFCC00",
-#     "#FF9900",
-#     "#FF6600",
-#     "#FF0000",
-#     "#CC0000",
-#     "#cc00ff",
-#     "#5500ff",
-#     "#000000"
-# ]
-# LINES_COLOR = [
-#     "#5200ff",
-#     "#4b00ea",
-#     "#4400d4",
-#     "#3e00bf",
-#     "#3700aa",
-#     "#300095",
-#     "#290080",
-#     "#22006a",
-#     "#1b0055",
-#     "#150040",
-#     "#0e002b",
-#     "#070015",
-#     "#000000",
-# ]
-
-# LINES_COLOR = [
-#     "#afd423",
-#     "#5dbf30",
-#     "#39aa4c",
-#     "#3e9576",
-#     "#407880",
-#     "#3e4f6a",
-#     "#3b3955",
-#     "#393040",
-#     "#2b232a",
-#     "#151314",
-#     "#000000",
-# ]
-
 LINES_COLOR = [
     "#ff4000",
     "#ea3b00",
@@ -113,6 +66,40 @@ REMOVE_SYMBOLS_ACCENTS = {
     ' ': ['-','\'','"','/','.']
     }
 
+def SortedByDepartement(departements):
+    converted_departements = []
+    sorted_departements = []
+    
+    # Convert department with letter (to number)
+    for dep in departements:
+            results = re.split('(\d+)',dep)
+            if len(results)==3 and results[2] != '':
+                depcode = results[1]
+                if dep.upper() in ['2A','2B']:
+                    depcode += "0"
+                suffixid = ord(results[2])
+                converted_departements.append(float(f"{depcode}.{suffixid}"))
+            else:
+                converted_departements.append(int(results[1]))
+
+    # Reorder departement and retransform department with letter
+    converted_departements = sorted(converted_departements)
+    for s in converted_departements:
+        results = str(s).split('.')
+        
+        dep = str(results[0])
+        if len(dep)<2:
+            dep = f"0{dep}"
+
+        if dep=="20":
+            dep="2"
+
+        if len(results) == 2:
+            dep += chr(int(results[1]))
+
+        sorted_departements.append(dep)
+
+    return sorted_departements
 
 def load_response(filename):
     addrs = list()
@@ -414,24 +401,27 @@ def write_main_readme():
         docfile.write("| Departement | Nb réponses | Nb réponses avec rue | Nb points noirs |\n")
         docfile.write("|-------------|-------------|----------------------|-----------------|\n")
 
-        for kd,v in sorted(stats['dep'].items()):
-            backspots_percent = int(v['nb_points_noirs']/stats['total']['max_nb_points_noirs']*100.0)
+        for k in SortedByDepartement(stats['dep'].keys()):
+            kd = k.upper()
+            backspots_percent = int(stats['dep'][kd]['nb_points_noirs']/stats['total']['max_nb_points_noirs']*100.0)
             percent_bar = html_percent_bar('img',backspots_percent)
 
-            path = v['title'].replace("'","_")
-            docfile.write(f"|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/{path}/index.html'>{v['title']}</a>|{v['nb_responses']}|{v['nb_responses_with_street']}({v['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{v['nb_points_noirs']}|\n")             
+            path = stats['dep'][kd]['title'].replace("'","_")
+            docfile.write(f"|<a href='https://fubicy.github.io/parlons-velo-analyzer/topstreets/{path}/index.html'>{stats['dep'][kd]['title']}</a>|{stats['dep'][kd]['nb_responses']}|{stats['dep'][kd]['nb_responses_with_street']}({stats['dep'][kd]['nb_responses_with_street_percent']}%)|{percent_bar}&nbsp;{stats['dep'][kd]['nb_points_noirs']}|\n")             
 
         docfile.write(f"| **Total** |{stats['total']['nb_responses']}|{stats['total']['nb_responses_with_street']}({stats['total']['nb_responses_with_street_percent']}%)|{stats['total']['nb_points_noirs']}|\n")             
 
 def write_main_html():
 
     deps_info = ""
-    for kd,v in sorted(stats['dep'].items()):
-        backspots_percent = int(v['nb_points_noirs']/stats['total']['max_nb_points_noirs']*100.0)
+    
+    for k in SortedByDepartement(stats['dep'].keys()):
+        kd = k.upper()
+        backspots_percent = int(stats['dep'][kd]['nb_points_noirs']/stats['total']['max_nb_points_noirs']*100.0)
         percent_bar = html_percent_bar('img',backspots_percent)
         
-        path = v['title'].replace("'","_")
-        deps_info += f"<tr><td><a href='topstreets/{path}/index.html'>{v['title']}</a></td><td>{v['nb_responses']}</td><td>{v['nb_responses_with_street']}({v['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{v['nb_points_noirs']}</td></tr>\n"
+        path = stats['dep'][kd]['title'].replace("'","_")
+        deps_info += f"<tr><td><a href='topstreets/{path}/index.html'>{stats['dep'][kd]['title']}</a></td><td>{stats['dep'][kd]['nb_responses']}</td><td>{stats['dep'][kd]['nb_responses_with_street']}({stats['dep'][kd]['nb_responses_with_street_percent']}%)</td><td>{percent_bar}&nbsp;{stats['dep'][kd]['nb_points_noirs']}</td></tr>\n"
 
 
     deps_info += f"<tr><td><strong>Total</strong></td><td>{stats['total']['nb_responses']}</td><td>{stats['total']['nb_responses_with_street']}({stats['total']['nb_responses_with_street_percent']}%)</td><td>{stats['total']['nb_points_noirs']}</td></tr>\n"
