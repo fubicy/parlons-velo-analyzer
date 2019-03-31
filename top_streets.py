@@ -7,6 +7,7 @@ import os
 import re
 import csv
 import sys
+import glob
 import json
 import shutil
 import branca
@@ -65,6 +66,23 @@ REMOVE_SYMBOLS_ACCENTS = {
     'U':[u'Û',u'Ü'],
     ' ': ['-','\'','"','/','.']
     }
+
+def loadJSON(filename):
+    with open(filename, 'r') as f:
+        summaries = json.load(f)
+
+    return summaries
+
+
+def saveDictToJSON(filename,dict_object):
+    with open(filename, 'w') as gjsonfile:
+        gjsonfile.write(json.dumps(dict_object, indent=4, separators=(',', ': '),sort_keys=True))
+
+
+def fileExistsForTown(insee):
+    files = glob.glob(f'topstreets/*/{insee}*_top*.md')
+    return len(files)>0
+
 
 def SortedByDepartement(departements):
     converted_departements = []
@@ -150,18 +168,12 @@ def detect_all_streets(dmots, responses):
 def get_OSM_filename_by_code(insee,rootdir='osm',level=0):
     
     codedep = insee[0:2]
-    for root, directories, filenames in os.walk(rootdir):
-        for filename in filenames: 
-            if filename.startswith('streets.csv'):
-                if insee in root:
-                    return os.path.join(root,filename)
 
-        for directory in directories:
-            if (level == 1 and directory.startswith(codedep)) or (level == 2 and directory.startswith(insee)):
-                folder = os.path.join(root,directory) 
-                get_OSM_filename_by_code(insee,folder,level+1)
-
-    return None
+    osm_file = glob.glob(f"osm/*/{insee} -*/streets.csv") 
+    if len(osm_file) == 1:
+        return osm_file[0]
+    else:
+        return None
 
 def readOSMVilles():
     global villes_info
@@ -537,10 +549,11 @@ def write_towns_result():
         path = d['title'].replace("'","_")
         deppath = f"topstreets/{path}"
         for kt, t in sorted(stats['dep'][kd]['towns'].items()):
-            if t['nb_points_noirs']==0:
-                continue
-
             insee = t['insee']
+
+            if fileExistsForTown(insee) or t['nb_points_noirs']==0:
+                continue
+            
             lat = float(villes_info[insee]['lat'])
             lon = float(villes_info[insee]['lon'])
             lasttopvalue = 0
@@ -553,7 +566,7 @@ def write_towns_result():
                     continue
 
                 lasttopvalue = mintop
-                tfile = t['title'].replace("'", " ")
+                tfile = t['title'].replace("'", "_")
                 docfilename = f"{deppath}/{tfile}_top{mintop}.md"
                 mapfilename = f"{deppath}/{tfile}_top{mintop}.html"
                 html_streets_list = ""
@@ -668,6 +681,12 @@ def analyze_all_responses():
     global dmots
     global nb_responses_with_street
 
+    sfilename = 'topstreets/summaries.json'
+    if os.path.exists(sfilename):
+        stats = loadJSON(sfilename)
+    else:
+        stats = { 'dep': {} }
+
     files = os.listdir('datas/')
     for filename in files:
         codedep = filename[0:2]
@@ -678,8 +697,6 @@ def analyze_all_responses():
 
         # Loop for search street in district town           
         for codecom_replaced in codecom_list:
-
-
             # Compute topstreet path
             OSMfullfilename = get_OSM_filename_by_code(insee)
             if OSMfullfilename is None:
@@ -692,9 +709,11 @@ def analyze_all_responses():
             titledep = OSMfullfilename[firstlash+1:nextslash]
             titletown = OSMfullfilename[nextslash+1:lastslash]
             topstreetpath = "topstreets/%s" % titledep
+            codedepkey = titledep.split()[0]
 
-            # Compute tpwn top street filename
-            topstreets_filename=f"{topstreetpath}/{titletown}.md"
+            # Check if already map generated
+            if fileExistsForTown(insee):
+                continue
 
             print(f"Analyse response for {titledep}/{titletown}")
             try:
@@ -705,8 +724,8 @@ def analyze_all_responses():
                 nb_responses_with_street,blackspots = detect_all_streets(dmots,responses)
 
                 # Init department counter
-                if codedep not in stats['dep']:
-                    stats['dep'][codedep] = {
+                if codedepkey not in stats['dep']:
+                    stats['dep'][codedepkey] = {
                         'codecoms': [],
                         'towns': {},
                         'title': titledep,
@@ -716,28 +735,14 @@ def analyze_all_responses():
                         'max_nb_points_noirs': 0,
                     } 
 
-                topstreets_filename=f"topstreets/{titledep}/{titletown}.md"
-                
-                # Do not re-count the districts town again
-                mustcount = False
-                if codecom not in stats['dep'][codedep]['codecoms']:
-                    mustcount = True
-                    # Department
-                    stats['dep'][codedep]['codecoms'].append(codecom)
-                    stats['dep'][codedep]['nb_responses'] += len(responses)
-                    
-                    # Total
-                    stats['total']['nb_responses'] += len(responses)
-
                 ratiotown = 0
                 if len(responses)>0:
                     ratiotown = int(nb_responses_with_street/len(responses) * 100.0)
 
                 # Set town counter
-                stats['dep'][codedep]['towns'][codecom_replaced]= {
+                stats['dep'][codedepkey]['towns'][codecom_replaced]= {
                     'insee': insee,
                     'title': titletown,
-                    'mustcount': mustcount,
                     'nb_responses': len(responses),
                     'nb_responses_with_street': nb_responses_with_street,
                     'nb_responses_with_street_percent': ratiotown,
@@ -745,24 +750,6 @@ def analyze_all_responses():
                     'blackspots':blackspots,
                 }
 
-                # Update department and total counter
-                stats['dep'][codedep]['nb_responses_with_street'] += nb_responses_with_street
-                stats['dep'][codedep]['nb_points_noirs'] += len(blackspots)
-                stats['dep'][codedep]['max_nb_points_noirs'] = max(stats['dep'][codedep]['max_nb_points_noirs'],stats['dep'][codedep]['nb_points_noirs'])
-                stats['total']['nb_responses_with_street'] += nb_responses_with_street
-                stats['total']['nb_points_noirs'] += len(blackspots)
-                stats['total']['max_nb_points_noirs'] = max(stats['total']['max_nb_points_noirs'],stats['dep'][codedep]['nb_points_noirs'])
-
-                # Update department ratio
-                ratiodep = 0
-                if len(responses)>0:
-                    ratiodep = int(stats['dep'][codedep]['nb_responses_with_street']/stats['dep'][codedep]['nb_responses'] * 100.0)
-
-                stats['dep'][codedep]['nb_responses_with_street_percent'] = ratiodep
-
-                # Update total ratio
-                ratiototal = int(stats['total']['nb_responses_with_street']/stats['total']['nb_responses'] * 100.0)
-                stats['total']['nb_responses_with_street_percent'] = ratiototal
                 
                 #write_topstreets(OSMfullfilename,codedep,codecom,responses,top)
 
@@ -780,37 +767,109 @@ def analyze_all_responses():
                 print(f"#### ERROR for Analyse {insee} {OSMfullfilename}".replace("fantoir/",""))
 
 
+def computeSumaries():
+    global stats
+    global dmots
+    global nb_responses_with_street
+
+    stats['total'] = {
+            'nb_responses': 0,
+            'nb_responses_with_street': 0,
+            'nb_points_noirs': 0,
+            'max_nb_points_noirs': 0,
+    }
+
+    for codedep in stats['dep']:
+        stats['dep'][codedep]['codecoms'] = []
+        stats['dep'][codedep]['nb_responses']= 0
+        stats['dep'][codedep]['nb_responses_with_street']= 0
+        stats['dep'][codedep]['nb_responses_with_street_percent']= 0
+        stats['dep'][codedep]['nb_points_noirs']= 0
+        stats['dep'][codedep]['max_nb_points_noirs']= 0
+
+        townliste = ""
+        towns = stats['dep'][codedep]['towns']
+        for codecom in towns:
+            townliste = f"{townliste},{codecom}"
+            
+            # Do not re-count the districts town again
+            town = towns[codecom]
+            mustcount = False
+            if codecom not in stats['dep'][codedep]['codecoms']:
+                mustcount = True
+                
+                nb_responses_with_street = town['nb_responses_with_street']
+
+                # Department
+                stats['dep'][codedep]['codecoms'].append(codecom)
+                stats['dep'][codedep]['nb_responses'] += town['nb_responses']
+                
+                # Total
+                stats['total']['nb_responses'] += town['nb_responses']
+
+            ratiotown = 0
+            if town['nb_responses']>0:
+                ratiotown = int(nb_responses_with_street/town['nb_responses'] * 100.0)
+
+            # Update department and total counter
+            stats['dep'][codedep]['nb_responses_with_street'] += town['nb_responses_with_street']
+            stats['dep'][codedep]['nb_points_noirs'] += town['nb_points_noirs']
+            stats['dep'][codedep]['max_nb_points_noirs'] = max(stats['dep'][codedep]['max_nb_points_noirs'],stats['dep'][codedep]['nb_points_noirs'])
+            stats['total']['nb_responses_with_street'] += town['nb_responses_with_street']
+            stats['total']['nb_points_noirs'] += town['nb_points_noirs']
+            stats['total']['max_nb_points_noirs'] = max(stats['total']['max_nb_points_noirs'],stats['dep'][codedep]['nb_points_noirs'])
+
+            # Update department ratio
+            ratiodep = 0
+            if stats['dep'][codedep]['nb_responses']>0:
+                ratiodep = int(stats['dep'][codedep]['nb_responses_with_street']/stats['dep'][codedep]['nb_responses'] * 100.0)
+
+            stats['dep'][codedep]['nb_responses_with_street_percent'] = ratiodep
+
+            # Update total ratio
+            ratiototal = int(stats['total']['nb_responses_with_street']/stats['total']['nb_responses'] * 100.0)
+            stats['total']['nb_responses_with_street_percent'] = ratiototal
+
+    
 DEBUG=False
 dmots = dict()
 villes_info = dict()
-stats = {
-    'total': {
-        'nb_responses': 0,
-        'nb_responses_with_street': 0,
-        'nb_points_noirs': 0,
-        'max_nb_points_noirs': 0,
-    },
-    'dep': {
-
-    }
-}
+stats={}
 
 endpoint = "http://localhost/api/interpreter"
 timeout=600
 api = overpass.API(endpoint=endpoint,timeout=600,debug=True)
 
+# Create topstreets path
+os.makedirs('topstreets',exist_ok=True)
 
 # Read osm-tools villes.csv information
 readOSMVilles()
 
 # Analyse FUB responses
 analyze_all_responses()
+computeSumaries()
 
-# Delete previous results
-shutil.rmtree('topstreets',ignore_errors=True)
-os.mkdir('topstreets')
+for codedep in stats['dep']:
+    if 'codecoms' not in stats['dep'][codedep]:
+        continue 
+    del(stats['dep'][codedep]['codecoms'])
 
-# Write all datas
+    towns = stats['dep'][codedep]['towns']
+    for codecom in towns:
+        if 'blackspots' not in towns[codecom]:
+            continue
+
+        blackspots = towns[codecom]['blackspots']
+        for street in blackspots:
+            if 'words' not in blackspots[street]:
+                continue
+
+            del(blackspots[street]['words'])
+
+saveDictToJSON('topstreets/summaries.json',stats)
+
+# Write all datasq
 write_main_readme()
 write_main_html()
 
